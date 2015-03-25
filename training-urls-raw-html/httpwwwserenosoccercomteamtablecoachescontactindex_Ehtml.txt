@@ -1,0 +1,1083 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 24-Mar-15 5:28 pm - /scripts/runisa.dll?M2:gp::73200+L3/+E+134+782751 ; \\10.10.10.25\html\serenosoccer.com\teamtable\coachescontact\index_E.html expires 1m = 24-Mar-15 5:29 pm -->
+<title>Coaches Contact List - Sereno Soccer Club</title>
+<meta name="description"        content="WMANAGEMENT &amp; ADMINISTRATIVE STAFF<table border=1 cellpadding=1 cellspacing=1 style=color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.serenosoccer.com/index.xml" title="RSS Feed">
+ <link rel="stylesheet" href="http://www.serenosoccer.com/common/css/master.css" type="text/css"/>
+  <script src="http://www.serenosoccer.com/common/js/ps1.8.2/protoaculous.min.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.serenosoccer.com/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.serenosoccer.com/css/design.css" type="text/css">
+<!-- link rel="stylesheet" href="http://www.serenosoccer.com/css/menus.css" type="text/css" -->
+<MAP NAME="HeaderLogoz">
+  <AREA SHAPE="rect" COORDS="898,98,991,166" TARGET="_NEW" HREF="http://www.adidas.com">
+  <AREA SHAPE="circle" COORDS="853,136,36" TARGET="_NEW" HREF="http://www.chelseafc.com/">
+  <AREA SHAPE="rect" COORDS="0,0,806,185" HREF="http://www.serenosoccer.com/index.html">
+</MAP>
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16293518-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</head>
+<body>
+<script type="text/javascript">
+  var diiWebFonts = (function () {
+  var init = function () {
+    $j('head').append('<link rel="stylesheet" href="' + /* the ultimate defeat of pagepull */ '/css/Calibri/stylesheet.css" type="text/css">');
+  }; // init
+  return {
+    init: init
+  };
+})();
+document.observe('dom:loaded', diiWebFonts.init);
+</script>
+<table id="design-containerbuttons" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<div id="design-sideTab">
+  <div id="design-sideTabText"><a href="https://www.facebook.com/SerenoSoccerClub" target="_blank"><img src="http://www.serenosoccer.com/images/2015/facebook.png" width="65" height="58" border="0"/></a></div>
+  <div id="design-sideTabTextB"><a href="https://twitter.com/Sereno_Soccer" target="_blank"><img src="http://www.serenosoccer.com/images/2015/twitter.gif" width="65" height="53" border="0"/></a></div>
+  <div id="design-sideTabTextB"><a href="http://www.instagram.com" target="_blank"><img src="http://www.serenosoccer.com/images/2015/instagram.png" width="65" height="56" border="0"/></a></div>
+</div>
+<table id="design-container" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<table id="design-header" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td align="left"><img src="http://www.serenosoccer.com/images/2015/Home-1-1.png" width="1001" height="188" border="0" USEMAP="#HeaderLogoz"/></td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+    <td align="left"><img src="http://www.serenosoccer.com/images/2015/nav-left.png" width="167" height="35" border="0"/></td>
+    <td id="design-nav">
+<style type="text/css">
+/* NEXT TWO LINES GENERALLY WILL NOT NEED TO BE CHANGED */
+ul.diimenu-L0, ul.diimenu-L0 ul {margin: 0; padding: 0; list-style-type: none; list-style-position: outside; position: relative; z-index: 9999;}
+ul.diimenu-L0 li {display: block;}
+ul.diimenu-L0 li a {display: block; text-decoration: none;}
+/* TEXT-BASED TABS (DEFAULT): REMOVE IF GOING WITH GRAPHICAL TABS */
+a.diimenu-L0 {padding: 0; font-size: 18px; font-family: 'CalibriRegular', Arial, sans-serif; font-weight: normal; color: #000; text-transform: uppercase;}
+a.diimenu-L0 {padding: 11px 9px 10px; background: url(../images/2015/navDivider.png) right no-repeat;}
+a.diimenu-L0:hover {color: #000;}
+a.diimenu-L0:visited:hover {color: #000;}
+/* DROP DOWN TEXT */
+ul.diimenu-L0, ul.diimenu-L0 ul {line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;}
+/* DROP DOWN & ROLLOVER COLORS */
+ul.diimenu-L0 li ul li a {border-bottom: 1px solid #c3af07; background-color: #ffe405; padding: 4px; padding-left: 6px; color: #000;}
+ul.diimenu-L0 li ul li a:hover {background-color: #fbf2a8; color: #000;}
+ul.diimenu-L0 li ul li a:visited {text-decoration: none; background-color: #ffe405; color: #000;}
+ul.diimenu-L0 li ul li a:visited:hover {text-decoration: none; background-color: #fbf2a8; color: #000;}
+/* REMAINING LINES GENERALLY WILL NOT NEED TO BE CHANGED */
+ul.diimenu-L0 li {float: left; position: relative;}
+ul.diimenu-L0 ul {position: absolute; display: none;}
+ul.diimenu-L0 li ul a {float: left; width: 18em; height: auto;}
+ul.diimenu-L0 ul ul {top: auto;}
+ul.diimenu-L0 li ul ul {left: 17em; margin: 0 0 0 10px;}
+ul.diimenu-L0 li:hover ul ul,
+ul.diimenu-L0 li:hover ul ul ul,
+ul.diimenu-L0 li:hover ul ul ul ul {display: none;}
+ul.diimenu-L0 li:hover ul,
+ul.diimenu-L0 li li:hover ul,
+ul.diimenu-L0 li li li:hover ul,
+ul.diimenu-L0 li li li li:hover ul {display: block; z-index: 100;}
+</style>
+<div id="main-menu" class="diimenu" menuclass="menu-new"></div>
+    </td>
+    <td align="right"><img src="http://www.serenosoccer.com/images/2015/nav-right.png" width="10" height="35" border="0"/></td>
+  </tr>
+</table>
+<table id="design-topLogoz" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+    <td id="design-affiliates">
+      <div class="design-affiliates">
+<script language="javascript" type="text/javascript">
+  var diiImageModule_852599 = (function(){
+    var init = function() {
+      imageModule(
+          {
+            target: 'imagestack_852599',
+            output: 'stack',
+            jobid: '73200'
+          }
+      ).load();
+    }; // init
+    return {
+      init: init
+    };
+  }()); // diiImageModule_852599
+  document.observe('dom:loaded', diiImageModule_852599.init);
+</script>
+<div id="imagestack_852599" subdept="852599">
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.ussoccer.com" target="_new"><img src="http://www.serenosoccer.com/docs/ussf.png" width="50" height="50" alt="USSF" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://usclubsoccer.org" target="_new"><img src="http://www.serenosoccer.com/docs/usclubsoccer.png" width="50" height="50" alt="US Club" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.usyouthsoccer.org" target="_new"><img src="http://www.serenosoccer.com/docs/usysa.png" width="50" height="50" alt="US Youth Soccer" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.azyouthsoccer.org" target="_new"><img src="http://www.serenosoccer.com/docs/arizona.png" width="50" height="50" alt="AYSA" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://regioniv.usyouthsoccer.org" target="_new"><img src="http://www.serenosoccer.com/docs/region4.png" width="50" height="50" alt="Region IV" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.nscaa.com" target="_new"><img src="http://www.serenosoccer.com/docs/NSCAA.png" width="50" height="45" alt="NSCAA" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.eliteclubsnationalleague.com" target="_new"><img src="http://www.serenosoccer.com/docs/ecnl.png" width="50" height="50" alt="ECNL" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.boysnl.com" target="_new"><img src="http://www.serenosoccer.com/docs/contentrotator635418878051747188%20copy.png" width="80" height="50" alt="BCC" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.azyouthsoccer.org/leagueplay/maricopa_league.aspx" target="_new"><img src="http://www.serenosoccer.com/docs/Chiplogo%20copy.png" width="50" height="50" alt="Port of Subs" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.azyouthsoccer.org/leagueplay/maricopa_league.aspx" target="_new"><img src="http://www.serenosoccer.com/docs/POS%20Open%20League%20Final%2006072013.png" width="50" height="50" alt="Port of Subs" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://njcaa.org" target="_new"><img src="http://www.serenosoccer.com/docs/NJCAA.png" width="50" height="50" alt="NJCAA" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.naia.org" target="_new"><img src="http://www.serenosoccer.com/docs/NAIA.png" width="50" height="50" alt="NAIA" border="0"/></a><br/>
+</div>
+<div style="margin-bottom: 4px; text-align: center;" class="textsmall ModuleImageDisplay ModuleImageDisplay852599">
+ <a href="http://www.ncaa.com" target="_new"><img src="http://www.serenosoccer.com/docs/NCAA.png" width="50" height="50" alt="NCAA" border="0"/></a><br/>
+</div>
+</div>
+      </div>
+  </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td id="design-centerContent"><img src="http://www.serenosoccer.com/common/images/1x1.gif" width="1001" height="1" border="0"/><br/>
+<table width="100%" cellpadding="4" cellspacing="4" border="0">
+<tr><td>
+<!-- Begin Main Content -->
+<script type="text/javascript" src="http://www.serenosoccer.com//s7.addthis.com/js/300/addthis_widget.js#pubid=demosphere" async="async"></script>
+<div class="addthis_sharing_toolbox" style="text-align: right; padding: 4px;"></div>
+<div class="ArticleMainContent">
+  <div class="textlarge ArticleTitle">Coaches Contact List</div>
+  <div class="ArticleTitleSpacer"></div>
+  <div class="ArticleStory"><p>W</p>
+<p><span style="font-size: 18px;"><strong>MANAGEMENT &amp; ADMINISTRATIVE STAFF</strong></span></p>
+<table border="1" cellpadding="1" cellspacing="1" style="color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal; width: 500px;">
+	<tbody>
+		<tr>
+			<td>Executive Director&nbsp;</td>
+			<td>David Robertson</td>
+			<td><a href="mailto:drobertson@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Coaching - Boys&nbsp;</td>
+			<td>Dave Shaffer</td>
+			<td><a href="mailto:dshaffer@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Coaching - Girls&nbsp;</td>
+			<td>Joe Owen</td>
+			<td><a href="mailto:jowen@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Special Events and Tournaments</td>
+			<td>Chris Webb</td>
+			<td><a href="mailto:cwebb@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Programs</td>
+			<td>Michelle Golowatsch</td>
+			<td><a href="mailto:mich@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of ECNL</td>
+			<td>Kai Edwards</td>
+			<td><a href="mailto:kedwards@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Girls Youth Development&nbsp;</td>
+			<td>Meegan Eckert</td>
+			<td><a href="mailto:mreese@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Boys Youth Development&nbsp;</td>
+			<td>Clayton Zelin</td>
+			<td><a href="mailto:czelin@serenosoccer.og">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of West&nbsp;</td>
+			<td>Tim Mason</td>
+			<td><a href="mailto:timmason@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Southeast</td>
+			<td>Trey Thompson</td>
+			<td><a href="mailto:ttrey@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Tucson</td>
+			<td>Omar Castro</td>
+			<td><a href="mailto:omarcastro@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Director of Nogalas</td>
+			<td>TBD</td>
+			<td>EMAIL</td>
+		</tr>
+		<tr>
+			<td>Office Manager&nbsp;</td>
+			<td>Celene Molera</td>
+			<td><a href="mailto:cmolera@serenosoccer.org	">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Media and Marketing&nbsp;</td>
+			<td>Jim Parsons&nbsp;</td>
+			<td><a href="mailto:jparsons@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Registrar</td>
+			<td>Michelle Hudson</td>
+			<td><a href="mailto:michellehudson@cox.net">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>Southeast Administrator&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>EMAIL</td>
+		</tr>
+		<tr>
+			<td>ECNL Administrator</td>
+			<td>Daniel Shaw</td>
+			<td><a href="mailto:dshaw@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>West Administrator&nbsp;</td>
+			<td>Gretchen Moore</td>
+			<td><a href="mailto:gnpmoore1@cox.net">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>&nbsp;</p>
+<p><font size="4"><b>2014-2015 Coaching Staff</b></font></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td>TEAM NAME</td>
+			<td>COACH NAME</td>
+			<td>BIO</td>
+			<td>EMAIL</td>
+		</tr>
+		<tr>
+			<td>08 G Chelsea White</td>
+			<td>&nbsp;</td>
+			<td>BIO</td>
+			<td><a href="mailto:bstisser@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>07 G Chelsea White</td>
+			<td>Meggan Eckert</td>
+			<td>BIO</td>
+			<td><a href="mailto:mreese@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 G Chelsea White</td>
+			<td>Desbah Yazzi</td>
+			<td><a href="http://www.serenosoccer.com/coaches/DesbahYazzi/index_E.html">BIO</a></td>
+			<td><a href="mailto:desbah@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 G Chelsea Navy</td>
+			<td>Kierra McMorrow</td>
+			<td><a href="http://www.serenosoccer.com/coaches/KierraMcMorrow/index_E.html">BIO</a></td>
+			<td><a href="mailto:kmcmorrow@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>05 G Chelsea White</td>
+			<td>John DeMartini</td>
+			<td>BIO</td>
+			<td><a href="mailto:jdemartini@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>05 G Chelsea White</td>
+			<td>Clayton Zelin</td>
+			<td>BIO</td>
+			<td><a href="mailto:czelin@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 G Chelsea&nbsp;</td>
+			<td>Lorenzo Azzi</td>
+			<td>BIO</td>
+			<td><a href="mailto:lorenzo@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>04 G Chelsea White</td>
+			<td>Meggan Eckert</td>
+			<td>BIO</td>
+			<td><a href="mailto:mreese@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>04 G Chelsea Navy</td>
+			<td>Meggan Eckert</td>
+			<td>BIO</td>
+			<td><a href="mailto:mreese@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>04 G Chelsea Gold</td>
+			<td>Megan Kurtz</td>
+			<td>BIO</td>
+			<td><a href="mailto:mkurtz@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>03 G Chelsea White</td>
+			<td>John DeMartini</td>
+			<td>BIO</td>
+			<td><a href="mailto:jdemartini@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>02 G Chelsea White</td>
+			<td>Joe Owen</td>
+			<td><a href="http://www.serenosoccer.com/scripts/runisa.dll?M2:gp::73200+L3/+E+115+525690">BIO</a></td>
+			<td><a href="mailto:jowen@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>02 G Chelsea Navy</td>
+			<td>Eric Gerle</td>
+			<td>BIO</td>
+			<td><a href="mailto:egerle@cox.net">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>01 ECNL White</td>
+			<td>Joe Owen</td>
+			<td><a href="http://www.serenosoccer.com/scripts/runisa.dll?M2:gp::73200+L3/+E+115+525690">BIO</a></td>
+			<td><a href="mailto:jowen@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>00 ECNL White</td>
+			<td>Jeff Leightman</td>
+			<td><a href="http://www.serenosoccer.com/coaches/JeffLeightman/index_E.html">BIO</a></td>
+			<td><a href="mailto:jleightman@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>00 G Elite</td>
+			<td>Megan Hendler</td>
+			<td><a href="http://www.serenosoccer.com/coaches/AaronHeffernan/index_E.html">BIO</a></td>
+			<td><a href="mailto:aheffernan@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>99 ECNL White</td>
+			<td>Jeff Leightman</td>
+			<td><a href="http://www.serenosoccer.com/coaches/JeffLeightman/index_E.html">BIO</a></td>
+			<td><a href="mailto:jleightman@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>99 G Elite</td>
+			<td>Megan Hendler</td>
+			<td>BIO</td>
+			<td><a href="mailto:aheffernan@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>98 ECNL White</td>
+			<td>Kai Edwards</td>
+			<td>BIO</td>
+			<td><a href="mailto:kedwards@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>97 ECNL White</td>
+			<td>Kai Edwards</td>
+			<td>BIO</td>
+			<td><a href="mailto:kedwards@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>08 B Chelsea White</td>
+			<td>Herbert Orellana&nbsp;</td>
+			<td>BIO</td>
+			<td><a href="mailto:bstisser@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>08 B Chelsea Navy</td>
+			<td>Herbert Orellana&nbsp;</td>
+			<td>BIO</td>
+			<td><a href="mailto:bstisser@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>08 B Chelsea Gold&nbsp;</td>
+			<td>Herbert Orellana&nbsp;</td>
+			<td>BIO</td>
+			<td>EMAIL</td>
+		</tr>
+		<tr>
+			<td>07 B Chelsea White</td>
+			<td>Devon Grousis</td>
+			<td><a href="http://www.serenosoccer.com/coaches/AaronHeffernan/index_E.html">BIO</a></td>
+			<td><a href="mailto:aheffernan@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>07 B Chelsea Navy</td>
+			<td>Devon Grousis</td>
+			<td><a href="http://www.serenosoccer.com/coaches/AaronHeffernan/index_E.html">BIO</a></td>
+			<td><a href="mailto:aheffernan@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>07 B Chelsea Gold</td>
+			<td>Tommy Ramos</td>
+			<td><a href="http://www.serenosoccer.com/coaches/TommyRamos/index_E.html">BIO</a></td>
+			<td><a href="mailto:ramostommy@cox.net">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>07 B Blue Lions</td>
+			<td>Tommy Ramos</td>
+			<td><a href="http://www.serenosoccer.com/coaches/TommyRamos/index_E.html">BIO</a></td>
+			<td><a href="mailto:tramos@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 B Chelsea White</td>
+			<td>David Robertson</td>
+			<td><a href="http://www.serenosoccer.com/coaches/davidrobertson/index_E.html">BIO</a></td>
+			<td><a href="mailto:drobertson@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 B Chelsea Navy</td>
+			<td>Devon Grousis</td>
+			<td><a href="http://www.serenosoccer.com/coaches/DevonGrousis/index_E.html">BIO</a></td>
+			<td><a href="mailto:dgrousis@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 B Chelsea Gold</td>
+			<td>Joe Fellows</td>
+			<td>BIO</td>
+			<td><a href="mailto:jfellows@serensoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>06 B Blue Lions</td>
+			<td>Clayton Zelin</td>
+			<td>BIO</td>
+			<td><a href="mailto:czelin@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>05 B Chelsea White</td>
+			<td>David Shaffer</td>
+			<td>BIO</td>
+			<td><a href="mailto:dshaffer@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>05 B Chelsea Navy</td>
+			<td>Dean Sheppard</td>
+			<td>BIO</td>
+			<td><a href="mailto:dsheppard@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>05 B Chelsea Gold</td>
+			<td>Devon Grousis</td>
+			<td><a href="http://www.serenosoccer.com/coaches/DevonGrousis/index_E.html">BIO</a></td>
+			<td><a href="mailto:dgrousis@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>04 B Chelsea White</td>
+			<td>Clayton Zelin</td>
+			<td>BIO</td>
+			<td><a href="mailto:czelin@serenosocce.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>04 B Chelsea Navy</td>
+			<td>Joel Robinson</td>
+			<td>BIO</td>
+			<td>EMAIL</td>
+		</tr>
+		<tr>
+			<td>04 B Chelsea Gold</td>
+			<td>Clayton Zelin</td>
+			<td>BIO</td>
+			<td><a href="mailto:czelin@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>03 B Chelsea White</td>
+			<td>Paul Rideout</td>
+			<td>BIO</td>
+			<td><a href="mailto:prideout@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>03 B Chelsea Navy</td>
+			<td>Dean Sheppard</td>
+			<td>BIO</td>
+			<td><a href="mailto:dsheppard@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>02 B Chelsea White</td>
+			<td>Jorge Garre</td>
+			<td>BIO</td>
+			<td><a href="mailto:jgarre@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>02 B Chelsea Navy</td>
+			<td>Devon Grousis</td>
+			<td><a href="http://www.serenosoccer.com/coaches/DevonGrousis/index_E.html">BIO</a></td>
+			<td><a href="mailto:dgrousis@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>01 B White</td>
+			<td>Orhan Kraja</td>
+			<td><a href="http://www.serenosoccer.com/coaches/orhankraja/index_E.html">BIO</a></td>
+			<td><a href="mailto:orhankraja@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>01 B Chelsea</td>
+			<td>Jim Parsons&nbsp;</td>
+			<td>BIO</td>
+			<td><a href="mailto:jparsons@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>00 B White</td>
+			<td>David Robertson</td>
+			<td><a href="http://www.serenosoccer.com/coaches/davidrobertson/index_E.html">BIO</a></td>
+			<td><a href="mailto:drobertson@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>00 B Elite</td>
+			<td>Diego Walsh</td>
+			<td>BIO</td>
+			<td>EMAIL</td>
+		</tr>
+		<tr>
+			<td>00 B Premier</td>
+			<td>Dean Sheppard</td>
+			<td>BIO</td>
+			<td><a href="mailto:dsheppard@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>99 B White</td>
+			<td>Paul Rideout</td>
+			<td>BIO</td>
+			<td><a href="mailto:prideout@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>99 B Elite</td>
+			<td>Greg McDermott</td>
+			<td><a href="http://www.serenosoccer.com/coaches/GregMcDermott/index_E.html">BIO</a></td>
+			<td><a href="mailto:gmsoc@aol.com">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>98 B White</td>
+			<td>David Robertson</td>
+			<td><a href="http://www.serenosoccer.com/coaches/davidrobertson/index_E.html">BIO</a></td>
+			<td><a href="mailto:drobertson@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>97 B White</td>
+			<td>Paul Rideout</td>
+			<td>BIO</td>
+			<td><a href="mailto:prideout@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Southeast</strong></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>02 G South</td>
+			<td>Trey Thompson</td>
+			<td><a href="http://www.serenosoccer.com/coaches/treythompson/index_E.html">BIO</a></td>
+			<td><a href="mailto:ttrey19@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>98 G South</td>
+			<td>Trey Thompson&nbsp;</td>
+			<td>BIO</td>
+			<td><a href="mailto:ttrey@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>99 B South</td>
+			<td>Trey Thompson</td>
+			<td><a href="http://www.serenosoccer.com/coaches/treythompson/index_E.html">BIO</a></td>
+			<td><a href="mailto:ttrey19@serenosoccer.org">EMAIL</a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>West</strong></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Tucson</strong></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Nogalas</strong></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIImageModule;Date;JQuery;NoConsole;JQueryCycle;JQueryScrollTo;</div>
+ <link rel="stylesheet" href="http://www.serenosoccer.com/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.serenosoccer.com/common/js/jquery-1.7.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.serenosoccer.com/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(menuclass, callback) {
+    var url = '/menu-' + menuclass + '.js';
+    $j.ajax({
+      url: url,
+      type: 'GET',
+      dataType: 'json',
+      success: callback
+    });
+  } // fetchMenu
+  var renderHTML = function(el, json) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '407899';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.serenosoccer.com/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:73200\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var $div = $j(el),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  var init = function () {
+      $j('div.diimenu').each(function () {
+        var $div = $j(this),
+            menuclass = $div.attr('menuclass');
+        if (menuclass) {
+          fetchMenu(menuclass, function (data) {
+            renderHTML($div, data);
+          });
+        }
+      });
+    }; // init
+  return {
+    init: init,
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+ <script src="http://www.serenosoccer.com/common/js/date-en-US.js" language="JavaScript" type="text/javascript"></script> <script src="http://www.serenosoccer.com/common/js/time.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+rand4 = function (){return (''+Math.random()).slice(2,6);}
+diiGetV = function (v){
+  if(!v||!v.length||v=='')return '';
+  var ls = /^\s*/;  // Leading space regular expression
+  var ts = /\s*$/;  // Trailing space regular expression
+  return v.replace(ls, "").replace(ts, "");
+}
+diiClearTbody = function (tbody){while (tbody.rows.length>0) tbody.deleteRow(tbody.rows.length-1);}
+diiSetRowClassOddEven = function (tbody){if (tbody){
+  var cn1 = new RegExp("^\\s*odd|\\s+odd\\s*$", "g");
+  var cn2 = new RegExp("^\\s*even|\\s+even\\s*$", "g");
+  for (var i=0; tbody.rows.length>i; i++){
+    var clsnm = tbody.rows[i].className;
+    clsnm = clsnm.replace(cn1, "");
+    clsnm = clsnm.replace(cn2, "");
+    clsnm += (i % 2) ? ' odd' : ' even';
+    tbody.rows[i].className = normalizeString(clsnm);
+  }
+  }
+}
+function imBusy(idPrefix,msg){
+  return '<div style="height:40px;padding-top:10px;">'
+       + '<span id="'+idPrefix+'indicatorImg" style="margin-top:0px;">'
+       + '<img alt="Indicator" src="http://www.serenosoccer.com/common/images/indicator.gif" /> '
+       + '</span>'
+       + '<span id="'+idPrefix+'indicatorMsg" style="margin-top:0px;">'
+       + msg
+       + '</span>'
+       + '</div>';
+} // imBusy
+function appendBusyRow(tbodyId,msg,nCols){
+  var tbod = $(tbodyId); diiClearTbody(tbod);
+  var tr; var td;
+  tr = document.createElement('tr');
+  td = document.createElement('td');
+  td.innerHTML = imBusy(tbodyId,msg); td.colSpan = nCols;
+  tr.appendChild(td);
+  tbod.appendChild(tr);
+} // appendBusyRow
+function updateBusyRow(tbodyId,msg){
+  var tbod = $(tbodyId);
+  if (tbod&&tbod.rows&&tbod.rows.length>0){
+    var cells=tbod.rows[tbod.rows.length-1].cells;
+    if(cells&&cells.length>0)
+      cells[cells.length-1].innerHTML = msg;
+    }
+} // updateBusyRow
+function diiDMY_MDY(dt){
+  if(!dt||dt=='')return '';
+  var d=dt.match(/(\d+)-([A-Z]+)-(\d+)/);
+  if(!d||!d.length)return '';
+  var mm=d[2], dd=d[1], yy=d[3];
+  var mos=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  for (var i=0;mos.length>i;i++){if(mos[i]==mm){mm=(i+1)+'';break;}}
+  if(mm.length==1)mm='0'+mm;
+  if(dd.length==1)dd='0'+dd;
+  if(yy.length==4)yy=yy.slice(2,4);
+  return mm+'/'+dd+'/'+yy;
+}
+function diiH2A(h){
+  var a=$H(h).map(function(pair){
+    var k=pair.key;
+    var v=pair.value;
+    v.key=k;
+    return v;
+  })||[];
+  return $A(a);
+}
+var diiDateTimes = {
+  dates:{},
+  times:{},
+  getDateObj: function (dt, fullParseFlag) {
+    diiDateTimes.putDate(dt, fullParseFlag);
+    return diiDateTimes.dates[dt];
+  }, // getDateObj
+  getTimeInMinutes: function (tim) {
+    var timobj = diiDateTimes.getTimeObj(tim);
+    if (!timobj.timMinutes) {
+      timobj.timMinutes = parseInt(timobj.timH, 10) * 60 + parseInt(timobj.timM, 10);
+    }
+    return timobj.timMinutes;
+  }, // getTimeInMinutes
+  getTimeObj: function(tim) {
+    if (!tim) tim = 'TBD';
+    diiDateTimes.putTime(tim);
+    return diiDateTimes.times[tim];
+  }, // getTimeObj
+  putDate:function(dt,fullParseFlag){
+    if(!diiDateTimes.dates[dt]){
+      var dateobj = {D: '', M: '', Y: '', YMD: '', DDD: '', MMMD: '', MMMMYYYY: ''}, dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (dtA) {
+        dateobj.D = dtA[1];
+        dateobj.M = dtA[2];
+        dateobj.Y = dtA[3];
+      }
+      diiDateTimes.dates[dt] = dateobj;
+    }
+    if(fullParseFlag === true && !diiDateTimes.dates[dt].date && dt !== ''){
+      var dateobj = diiDateTimes.dates[dt];
+      var dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (!dtA) {
+        dtA = dt.match(/(\d+)\/(\d+)\/(\d+)/);
+      }
+      if (dtA) {
+        dateobj.date = Date.parse(dt);
+        dateobj.YMD      = dateobj.date.toString("yyyyMMdd");
+        dateobj.DDD      = dateobj.date.toString("ddd");
+        dateobj.MMMD     = dateobj.date.toString("MMM d");
+        dateobj.MMMMYYYY = dateobj.date.toString("MMMM yyyy");
+      }
+    }
+  }, // putDate
+  putTime: function(tim) {
+    function makeEntry(a1, a2, a3) {
+      var timeobj = {};
+      var h = parseInt(a1, 10);
+      if (a3 && a3.toUpperCase() === 'PM' && 12 > h) {
+        h = h + 12;
+      }
+      a1 = '' + h;
+      timeobj.timH = a1;
+      timeobj.timM = a2;
+      timeobj.timHHMM = (a1.length == 1 ? '0' : '') + a1 +
+                        (a2.length == 1 ? '0' : '') + a2;
+      timeobj.timDisp = (h > 11) ? '' + ((h > 12) ? h - 12 : h) + ':' + a2 + ' PM' : ((h == 0) ? '12' : a1) + ':' + a2 + ' AM';
+      return timeobj;
+    } // makeEntry
+    if (!tim) tim = 'TBD';
+    if (!diiDateTimes.times[tim]) {
+      var timeobj = {};
+      var timA = tim.match(/30-DEC-1899\s(\d+):(\d+)/);
+      if (timA && timA.length && timA.length > 0) {
+        timeobj = makeEntry (timA[1], timA[2], '');
+      } else {
+        var timA = tim.match(/(\d+):(\d+)\s(AM|PM)/i);
+        if (timA && timA.length && timA.length > 0) {
+          timeobj = makeEntry (timA[1], timA[2], timA[3]);
+        } else {
+          timeobj.timH='';
+          timeobj.timM='';
+          timeobj.timDisp = 'TBD';
+        }
+      }
+      diiDateTimes.times[tim] = timeobj;
+    }
+  }, // putTime
+  rangesOverlap:function(range1Lo, range1Hi, range2Lo, range2Hi) {
+  return ( (range1Hi.compareTo(range2Lo) >= 0) && (range1Lo.compareTo(range2Hi) <= 0) );
+  } // rangesOverlap
+}
+/******************************************************************/
+/* normalizeString Copyright 2002 by Mike Hall                    */
+/* Please see http://www.brainjar.com for terms of use.           */
+/******************************************************************/
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+function normalizeString(s) {
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+  return s;
+} // normalizeString
+/* copyright Stephen Chapman 24th March 2006, 10th February 2007 */
+/* permission to use this function is granted by Stephen Chapman */
+/* provided that this copyright notice is retained intact        */
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+  var x = Math.round(num * Math.pow(10,dec));if (x >= 0) n1=n2='';
+  var y = (''+Math.abs(x)).split('');var z = y.length - dec; if (0 > z) z--; for(var i = z; 0 > i; i++) y.unshift('0');y.splice(z, 0, pnt);
+  while (z > 3) {z-=3; y.splice(z,0,thou);}var r = curr1+n1+y.join('')+n2+curr2;return r;
+}
+function formatComma(n,dec){
+  if (!dec) dec=0;
+  var pnt = (dec>0)?'.':'';
+  return formatNumber(n,dec,',',pnt,'','','-','');
+}
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function diiMemoLink(key) {
+  if (key !== undefined) {
+    var clickpop1 = window.open('http://www.serenosoccer.com/scripts/runisa.dll?M2:gp::73200+Elements/Memo+' + key + '+SiteMap', "clickpop1",
+                                'toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=300');
+    clickpop1.focus();
+  }
+} // diiMemoLink
+function diiInitMemoLinks() {
+  if ($j === undefined || !$j) return;
+  var $memolinks = $j('span.dii-memo-link[key]'), $done = $memolinks.find('> img').parent();
+  $memolinks = $memolinks.not($done);
+  $memolinks.each(function(){
+    var $span = $j(this), imgsize = $span.attr('imgsize');
+    if (!imgsize) imgsize = '12';
+    if (imgsize === '0') {
+      var txt = $span.text();
+      if (txt && txt === $span.html()) {
+        $span.html('<a href="#">' + txt + '</a>');
+      }
+    } else {
+      var s = '<img src="http://www.serenosoccer.com/common/images/icons/{{imgsize}}-Help.png" width="{{imgsize}}" height="{{imgsize}}" vspace="0" hspace="0" align="top" border="0"/>';
+      s = s.replace(/{{imgsize}}/g, imgsize);
+      $span.html(s).css({cursor: 'pointer'});
+    }
+  })
+  .click(function(e){
+    e.preventDefault();
+    var $span = $j(this), key = $span.attr('key');
+    if (key !== undefined) {
+      diiMemoLink(key);
+    }
+  });
+} // diiInitMemoLinks
+document.observe('dom:loaded', diiInitMemoLinks);
+</script>
+ <script src="http://www.serenosoccer.com/common/js/jquery.cycle/jquery.cycle.all.min.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.serenosoccer.com/common/js/jquery-1.3.2/jquery.scrollTo-1.4.1-min.js" language="JavaScript" type="text/javascript"></script>
+  <script src="http://www.serenosoccer.com/common/js/modules/dii_image_module-0.0.4.js" language="JavaScript" type="text/javascript"></script>
+ <script type="text/javascript"> if(typeof console === "undefined"){ console = { log: function(){}, info: function(){}, error: function(){} }; }; </script>
+<!-- End Main Content -->
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td align="left"><img src="http://www.serenosoccer.com/images/2015/L3-3-1.png" width="216" height="13" border="0"/></td>
+<td width="100%" id="design-contentFooterL3"><img src="http://www.serenosoccer.com/common/images/1x1.gif" width="2" height="1" border="0"/></td>
+<td align="right"><img src="http://www.serenosoccer.com/images/2015/L3-3-2.png" width="200" height="13" border="0"/></td>
+</tr>
+</table>
+<table id="design-pageFooter" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td class="textsmall" style="background: url(/images/2015/footer-1.png) no-repeat;">
+<img src="http://www.serenosoccer.com/common/images/1x1.gif" width="765" height="1" border="0"/><br/>
+<div id="design-copyright">&copy; 2015
+ Sereno Soccer Club, Inc. All rights reserved.</div>
+<div id="design-copyrightDII">&copy; 2015
+ <a href="http://www.demosphere.com" style="color: #ffffff; text-decoration: none;" target="new">Demosphere International, Inc.</a> All rights reserved.</div>
+</td>
+<td width="100%"><img src="http://www.serenosoccer.com/common/images/1x1.gif" width="2" height="54" border="0"/></td>
+<td align="right"><a href="http://www.demosphere.com"><img src="http://www.serenosoccer.com/images/2015/footer-2.png" width="234" height="54" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems"/></a></td>
+</tr>
+</table>
+<br/><br/>
+</td></tr>
+</table>
+</td></tr>
+</table>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIImageModule;Date;JQuery;NoConsole;JQueryCycle;JQueryScrollTo;</div>
+</body>
+</html>

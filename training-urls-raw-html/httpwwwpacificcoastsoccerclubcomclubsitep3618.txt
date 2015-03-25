@@ -1,0 +1,775 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Board
+</title><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link href="/main.css" rel="stylesheet" type="text/css" />
+    <!-- CustomTemplate.master -->
+</head>
+<body>
+
+<SCRIPT type=text/javascript src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></SCRIPT>
+
+<SCRIPT type=text/javascript src="/Content/directors/upimg/dir3741/website/ddsmoothmenu.js">
+
+/***********************************************
+* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</SCRIPT>
+
+<SCRIPT type=text/javascript src="/Content/directors/upimg/dir3706/website/jquery.rotate.js"></SCRIPT>
+
+<SCRIPT type=text/javascript>
+<!--
+	$(document).ready(function() {
+		$("#banner_container").rotate();
+	});
+//-->
+</SCRIPT>
+
+<SCRIPT type=text/javascript>
+
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu2", //Menu DIV id
+	orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+	//customtheme: ["#804000", "#482400"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+</SCRIPT>
+
+<STYLE type=text/css>
+<!--
+#field {
+	background-image: url(/Content/directors/upimg/dir3741/website/field.png);
+	background-repeat: no-repeat;
+	height: 169px;
+	width: 168px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 47px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+html {
+	background-image: url(/Content/directors/upimg/dir3741/website/bg.jpg);
+	background-repeat: repeat;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+ body {
+	background-image: url(/Content/directors/upimg/dir3741/website/bgTop.jpg);
+	background-repeat: repeat-x;
+	height: 100%;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+	line-height:19px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#wrapper {
+	padding: 0px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	width: 1063px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(/Content/directors/upimg/dir3741/website/wrapper.png);
+	background-repeat: repeat-y;
+	margin-bottom: 0px;
+}
+#header {
+	height: 210px;
+	width: 100%;
+	position: relative;
+	background-image: url(/Content/directors/upimg/dir3741/website/header1.jpg);
+	background-repeat: no-repeat;
+}
+#navBar {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 35px;
+	position: absolute;
+	height: 31px;
+	bottom: 2px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 1px;
+	padding-left: 0px;
+}
+#contentcontainer {
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+}
+#content {
+	width: 790px;
+	margin: 0px;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+#pacLogo {
+	position: absolute;
+	top: 14px;
+	left: 30px;
+}
+#futLogo {
+	position: absolute;
+	top: 14px;
+	right: 30px;
+}
+#rightColumn {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	width: 210px;
+	position: relative;
+	color: #333;
+}
+.sideCont ul {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+.sideCont ul li {
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+.sideCont img {
+	max-width: 180px;
+	padding-top: 05px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	margin: 0px;
+}
+.sideHead {
+	background-image: url(/Content/directors/upimg/dir3741/website/sideHeader.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	height: 36px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 15px;
+	line-height: 36px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 50px;
+}
+.sideCont {
+	margin: 0px;
+	position: relative;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+}
+
+#field h2 {
+	font-size: 18px;
+	color: #FFF;
+	margin: 0px;
+	padding: 0px;
+}
+#field h3 {
+	font-size: 20px;
+	margin: 0px;
+	padding-top: 3px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#field h4 {
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#content h1 {
+	text-align: center;
+	font-size: 18px;
+	font-family: Helvetica, verdana, sans-serif;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+#applyNow a:link , #applyNow a:visited{
+	height: 51px;
+	width: 161px;
+	padding: 0px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir3741/website/applyBtn.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#applyNow a:hover, #applyNow a:active{
+	height: 51px;
+	width: 161px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir3741/website/applyBtn.png);
+	background-repeat: no-repeat;
+	background-position: 0px -51px;
+}
+
+#footer {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-image: url(/Content/directors/upimg/dir3741/website/footer.png);
+	background-repeat: repeat-x;
+}
+
+#footerInner {
+	background-image: url(/Content/directors/upimg/dir3741/website/contentEnd.png);
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 1063px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	padding-top: 70px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#gsLogo {
+	margin: 0px;
+	padding: 0px;
+}
+
+.push {
+	height: 10px;
+}
+.clearthis {
+	margin : 0px;
+	height : 1px;
+	clear : both;
+	float : none;
+	font-size: 1px;
+	line-height: 0px;
+	overflow : hidden;
+	visibility: hidden;
+	padding: 0px;
+}
+.LinesTableHeader {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+
+
+
+
+
+
+
+/*DROP MENU*/
+.ddsmoothmenu{
+	font: bold 12px Verdana; /*background of menu bar (default state)*/
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.ddsmoothmenu ul{
+	z-index:100;
+	margin: 0;
+	list-style-type: none;
+	padding: 0;
+}
+
+/*Top level list items*/
+.ddsmoothmenu ul li{
+	position: relative;
+	display: inline;
+	float: left;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #0F2939;
+	border-left-color: #256399;
+	margin: 0px;
+	padding: 0px;
+	height: 32px;
+}
+
+/*Top level menu link items style*/
+.ddsmoothmenu ul li a{
+	display: block; /*background of menu items (default state)*/
+	color: white;
+	color: #2d2b2b;
+	text-decoration: none;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 25px;
+	padding-bottom: 0px;
+	padding-left: 25px;
+	height: 32px;
+	line-height: 32px;
+}
+
+* html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited{
+color: white;
+}
+
+.ddsmoothmenu ul li a.selected{ /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+	background: #046EC0;
+	color: #FF7000;
+}
+
+.ddsmoothmenu ul li a:hover{
+	background: #046EC0; /*background of menu items during onmouseover (hover state)*/
+	color: #FF7000;
+}
+	
+/*1st sub level menu*/
+.ddsmoothmenu ul li ul{
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.ddsmoothmenu ul li ul li{
+	display: list-item;
+	float: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: #046EC0;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #333;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.ddsmoothmenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.ddsmoothmenu ul li ul li a:link, .ddsmoothmenu ul li ul li a:visited {
+	width: 160px;
+	margin: 0;
+	border-top-width: 0;
+	height: 32px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	font-family: Verdana;
+	font-size: 13px;
+	font-style: normal;
+	line-height: 32px;
+	font-weight: normal;
+	font-variant: normal;
+}
+/* Sub level menu HOVER */
+.ddsmoothmenu ul li ul li a:hover, .ddsmoothmenu ul li ul li a:active {
+	color: #FF7000;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+	position: absolute;
+	top: 12px;
+	right: 7px;
+	display: none;
+}
+
+.rightarrowclass{
+	position: absolute;
+	top: 6px;
+	right: 5px;
+	display: none;
+}
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+}
+
+.toplevelshadow{ /*shadow opacity. Doesn't work in IE*/
+opacity: 0.8;
+}
+
+/* Use for styling the entire table
+#ctl00_LeftUI_RelatedPages .LeftUItable {
+	margin: 0px;
+	padding: 35px 0px 0px 0px;
+	width: 180px;
+	border: 1px ridge #F60;
+	background-image:url(/Content/directors/upimg/dir3741/website/1test.png);
+	background-repeat: no-repeat;
+}
+*/
+
+#ctl00_LeftUI_RelatedPages table{
+	padding: 0px;
+	margin: 0px;
+	width: 175px;
+}
+
+#ctl00_LeftUI_RelatedPages table tr {
+	padding: 0px;
+	margin: 0px;
+}
+
+#ctl00_LeftUI_RelatedPages table tr td {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+#ctl00_LeftUI_RelatedPages a.LeftUI:link,  a.LeftUI:visited,  #ctl00_MainBody_TeamLinks a.LeftUI:link, #ctl00_MainBody_EventLinks a.LeftUI:link, #ctl00_MainBody_CoachLinks a.LeftUI:link{
+	background-image:url(/Content/directors/upimg/dir3741/website/links.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	color: #F2F2F2;
+	font-size: 13px;
+	font-family: Helvetica, verdana, sans-serif;
+	font-weight: lighter;
+	line-height: 36px;
+	text-decoration: none;
+	display: block;
+	margin: 0px;
+	width: 140px;
+	height: 36px;
+	border: none;
+	padding-top:0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 35px;
+} 
+
+/*#ctl00_LeftUI_RelatedPages table:first-child>tbody>tr:first-child a.LeftUI:link{
+		background-image:url(images/links.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;
+	color: #CCC;
+	font-size: 13px;
+	font-family: Helvetica, verdana, sans-serif;
+	font-weight: lighter;
+	line-height: 28px;
+	text-decoration: none;
+	display: block;
+	margin: 0px;
+	width: 135px;
+	height: 27px;
+	border: none;
+	padding-top:0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}*/
+
+
+#ctl00_LeftUI_RelatedPages a.LeftUI:hover,  a.LeftUI:active {
+	color: #FFF;
+	background-image:url(/Content/directors/upimg/dir3741/website/links.png);
+	background-repeat: no-repeat;
+	background-position: 0px -36px;
+}
+#ctl00_MainBody_PageContent {
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	border: 1px solid #999;
+}
+#ctl00_MainBody_CoachContent, #ctl00_MainBody_TeamContent, #ctl00_MainBody_EventContent{
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+
+}
+
+#ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td .LeftUI.LeftUIselected {
+	color: #FFF;
+	background-image:url(/Content/directors/upimg/dir3741/website/links.png);
+	background-repeat: no-repeat;
+	background-position: 0px -36px;
+}
+	
+
+/*#ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td .LeftUItable tr td .LeftUI {
+	color: #000;
+	background-image: none;
+}*/
+
+/*SPONSORS ROTATE*/
+
+#banner_container {
+	width: 160px;
+	min-height: 160px;
+	overflow: hidden;
+	position: relative;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	padding: 0px;
+}
+#banner_container div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+}
+#banner_container img {
+	border: 0;
+	max-width: 160px;
+}
+
+
+
+
+
+-->
+</STYLE>
+
+<SCRIPT type=text/javascript src="Scripts/swfobject_modified.js"></SCRIPT>
+
+<DIV id=wrapper>
+<DIV id=wrapperInner>
+<DIV id=header>
+<DIV id=navBar>
+<DIV id=smoothmenu1 class=ddsmoothmenu>
+<UL>
+<LI><A href="/clubsite/?p=3214">Home</A> </LI>
+<LI><A href="#">Our Club</A> 
+<UL>
+<LI><A href="/clubsite/?p=3618">Board of Directors</A> </LI>
+<LI><A href="/clubsite/Coaches.aspx">Coaches</A> </LI>
+<LI><A href="/clubsite/Contact.aspx">Contact Us</A> </LI></UL></LI>
+<LI><A href="/clubsite/teams.aspx">Teams</A> </LI>
+<LI><A href="#">Schedules</A> 
+<UL>
+<LI><A href="/clubsite/?p=3498">Training - This Month</A> </LI>
+<LI><A href="/clubsite/?p=3795">Training - Next Month</A> </LI>
+<LI><A href="/clubsite/?p=3620">Teams Scrimmages</A> </LI>
+<LI><A href="http://www.scdslsoccer.com/teams/club/67927082.html" target=_blank>League Games</A> </LI></UL></LI>
+<LI><A href="/clubsite/?p=3616">Fields</A> </LI>
+<LI><A href="#">Events</A> 
+<UL>
+<LI><A href="http://www.pcscbruinclassic.com/index.php" target=_blank>PCSC Tournament</A> </LI>
+<LI><A href="/clubsite/?p=3786">Club Week Camp</A> </LI>
+<LI><A href="/clubsite/?p=3215">Tryouts - PCSC</A> </LI>
+<LI><A href="/clubsite/?p=6026">Autobahn Rec League</A> </LI>
+<LI><A href="/clubsite/?p=3729">Fund Raising</A> </LI>
+<LI><A href="http://www.scdslsoccer.com/index.html/" target=_blank>SCD Soccer League</A> </LI></UL></LI>
+<LI><A href="#">Skills</A> 
+<UL>
+<LI><A href="/clubsite/?p=3922">Coaches Update</A> </LI>
+<LI><A href="/clubsite/?p=3796">Camps</A> </LI>
+<LI><A href="/clubsite/?p=3797">Clinics</A> </LI>
+<LI><A href="/clubsite/?p=3798">Special Training</A> </LI>
+<LI><A href="/clubsite/?p=3799">Videos</A> </LI></UL></LI>
+<LI><A href="/clubsite/?p=3617">Links</A> </LI></UL></DIV></DIV>
+<DIV id=pacLogo><A href="#"><IMG src="/Content/directors/upimg/dir3741/website/pacificLogo.png"></A></DIV></DIV>
+<DIV id=contentcontainer>
+<DIV id=content>
+
+    <form name="aspnetForm" method="post" action="Default.aspx?p=3618&amp;AspxAutoDetectCookieSupport=1" id="aspnetForm" class="NoPad">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzM4Njk5MjY4ZGQ/1gYyKHHFs1itWiBDgUaPnTCxTQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="354E6D71" />
+    <div>
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top">
+            
+<div id="ctl00_LeftUI_RelatedPages"></div>
+
+            </td>
+            <td valign="top">
+            
+<div id="ctl00_MainBody_PageContent"><table style="width: 100%; border-collapse: collapse;">
+<caption><strong><span style="font-size: 14pt;">PCSC Board of Directors - 2014-15<br>&nbsp;<br></span></strong></caption>
+<tbody>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><strong><span style="font-size: 12pt;">Position</span></strong></td>
+<td style="border: 2px solid black; vertical-align: top;"><strong><span style="font-size: 12pt;">Name</span></strong></td>
+<td style="border: 2px solid black; vertical-align: top;">
+<p align="justify"><strong><span style="font-size: 12pt;">Contact Information</span></strong></p></td></tr>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">President</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Mike Emerson</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 10pt;">&nbsp; <a title="President's Email" href="mailto:President@pacificcoastsoccerclub.com"><span style="color: rgb(0, 0, 128); font-size: 10pt;"><strong>mailto:President@pacificcoastsoccerclub.com</strong></span></a></span></td></tr>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Vice-President</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-family: Tahoma; font-size: 12pt;">Abel Lezcano</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">&nbsp; <a title="Vice President's email" href="mailto:VP@pacificcoastsoccerclub.com"><span style="color: rgb(0, 0, 128); font-size: 10pt;"><strong>mailto:VP@pacificcoastsoccerclub.com</strong></span></a></span></td></tr>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Treasurer</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Michael Raimondi</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">&nbsp; <a title="Treasurer's email" href="mailto:Treasurer@pacificcoastsoccerclub.com"><span style="color: rgb(0, 0, 128); font-size: 10pt;"><strong>mailto:Treasurer@pacificcoastsoccerclub.com</strong></span></a></span></td></tr>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Secretary</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-family: Tahoma; font-size: 12pt;"><span style='font-family: Tahoma; font-size: 12pt; mso-fareast-font-family: "Times New Roman"; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: Arial;'>Navid Sharafatian</span></span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">&nbsp; <a style="color: rgb(0, 0, 128);" title="Secretary's email" href="mailto:Secretary@pacificcoastsoccerclub.com"><span style="font-size: 10pt;"><strong>mailto:Secretary@pacificcoastsoccerclub.com</strong></span></a></span></td></tr>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Director of Coaching</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">Jose Palomares</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">&nbsp; <a style="color: rgb(0, 0, 128);" title="TechnicalDirector's email" href="mailto:TechnicalDirector@pacificcoastsoccerclub.com"><span style="font-size: 10pt;"><strong>mailto:TechnicalDirector@pacificcoastsoccerclub.com</strong></span></a></span></td></tr>
+<tr>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">PCSC&nbsp;Team Managers</span></td>
+<td style="border: 2px solid black; vertical-align: top;"><span style="font-size: 12pt;">&nbsp;</span></td>
+<td style="border: 2px solid black; vertical-align: top;">&nbsp;<span style="font-size: 10pt;"><strong>see details on the List of Teams - click here - </strong><a href="/clubsite/teams.aspx"><strong><span style="color: rgb(0, 0, 128); font-size: 10pt;">Managers</span></strong></a></span></td></tr></tbody></table><br><span style="font-size: 12pt;"><strong>Other Key Club Contacts include :<br><br></strong>Registrar -&nbsp;<a style="color: rgb(0, 0, 128);" title="Secretary's email" href="mailto:Registrar@pacificcoastsoccerclub.com"><span style="font-size: 10pt;"><strong>mailto:Registrar@pacificcoastsoccerclub.com</strong></span></a></span></div>
+
+            </td>
+        </tr>
+    </table>
+    </div>
+    </form>
+    
+ </DIV>
+<DIV id=rightColumn>
+<DIV class=sideHead>Field Status</DIV>
+<DIV class=sideCont>
+<DIV id=field>
+<H2>ALL Fields</H2>
+<H3><SPAN style="COLOR: rgb(255,215,0)">OPEN</SPAN></H3><BR><BR>
+<H4>Review FIELDS Page<BR>Updated: Dec 7, 2014</H4></DIV></DIV>
+<DIV class=sideHead>News &amp; Events</DIV>
+<DIV class=sideCont>
+<UL>
+<LI>Dec Field Schedule Updated</LI></UL>
+<DIV id=applyNow><A href="/clubsite/?p=3543">Check Details</A></DIV></DIV>
+<DIV class=sideHead>Weather</DIV><BR><!--Weather Gadget-->
+<OBJECT codeBase="http://active.macromedia.com/flash6/cabs/swflash.cab#version=6.0.0.0" classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 width=210 height=190><PARAM NAME="_cx" VALUE="5556"><PARAM NAME="_cy" VALUE="5027"><PARAM NAME="FlashVars" VALUE=""><PARAM NAME="Movie" VALUE="/Content/directors/upimg/dir3741/website/weathersmall.swf"><PARAM NAME="Src" VALUE="/Content/directors/upimg/dir3741/website/weathersmall.swf"><PARAM NAME="WMode" VALUE="Opaque"><PARAM NAME="Play" VALUE="-1"><PARAM NAME="Loop" VALUE="-1"><PARAM NAME="Quality" VALUE="High"><PARAM NAME="SAlign" VALUE=""><PARAM NAME="Menu" VALUE="-1"><PARAM NAME="Base" VALUE=""><PARAM NAME="AllowScriptAccess" VALUE=""><PARAM NAME="Scale" VALUE="ShowAll"><PARAM NAME="DeviceFont" VALUE="0"><PARAM NAME="EmbedMovie" VALUE="0"><PARAM NAME="BGColor" VALUE=""><PARAM NAME="SWRemote" VALUE=""><PARAM NAME="MovieData" VALUE=""><PARAM NAME="SeamlessTabbing" VALUE="1"><PARAM NAME="Profile" VALUE="0"><PARAM NAME="ProfileAddress" VALUE=""><PARAM NAME="ProfilePort" VALUE="0"><PARAM NAME="AllowNetworking" VALUE="all"><PARAM NAME="AllowFullScreen" VALUE="false">
+         	            <embed src="/Content/directors/upimg/dir3741/website/weathersmall.swf" width="210" height="190" play="true" loop="true" wmode="transparent" quality="high" bgcolor="" align="" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">   </OBJECT><BR><!--END Weather Gadget-->
+<DIV class=sideHead>Partners & Sponsors</DIV>
+<DIV class=sideCont>
+<DIV id=banner_container>
+
+<DIV><A href="http://www.adidas.com/campaigns/usfootball2010/content/index.asp?strCountry_adidascom=us" target=_blank><IMG alt=Adidas src="/Content/directors/upimg/dir3741/sponsors/adidaslogo005.jpg"></A></DIV>
+<DIV><A href="http://autobahnsocceracademy.com/" target=_blank><IMG alt="Autobahn Soccer Academy" src="/Content/directors/upimg/dir3741/sponsors/autobahn.jpg"></A></DIV>
+<DIV><A href="http://www.calsouth.com/en/" target=_blank><IMG alt="Cal South" src="/Content/directors/upimg/dir3741/sponsors/calsouthsealsanctourn.jpg"></A></DIV>
+<DIV><A href="http://www.scdslsoccer.com/" target=_blank><IMG alt="SCDSL" src="/Content/directors/upimg/dir3741/sponsors/SCDSL-logo-W.jpg"></A></DIV>
+<DIV><A href="https://r.espn.go.com/espn/purchase?productOfferId=ESPNMagCoaches_ESPNMag2008&amp;transactionAttributeName=SellerEmailId&amp;transactionAttributeValue=29133" target=_blank><IMG alt=ESPN src="/Content/directors/upimg/dir3741/sponsors/espnmagazine.jpg"></A></DIV>
+<DIV><A href="http://www.nikys-sports.com/" target=_blank><IMG alt="Niky's Sport" src="/Content/directors/upimg/dir3741/sponsors/nickys.jpg"></A></DIV>
+<DIV><A href="http://summer.xrds.org/podium/default.aspx?t=114212" target=_blank><IMG alt="Summer at Crossroads" src="/Content/directors/upimg/dir3741/sponsors/crossroadssummerlogo.jpg"></A></DIV></DIV></DIV></DIV>
+<DIV class=clearthis></DIV></DIV></DIV>
+<DIV class=push></DIV></DIV>
+<DIV id=footer>
+<DIV id=footerInner>
+<DIV id=gsLogo><A href="#"><IMG src="/Content/directors/upimg/dir11934/template/footerGS.png"></A></DIV></DIV></DIV>
+<SCRIPT type=text/javascript>
+<!--
+swfobject.registerObject("FlashID");
+swfobject.registerObject("FlashID");
+swfobject.registerObject("FlashID");
+//-->
+</SCRIPT>
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20472997-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9563615" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9563615&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    
+</body>
+</html>

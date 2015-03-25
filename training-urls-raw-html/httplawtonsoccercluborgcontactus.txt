@@ -1,0 +1,343 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr">
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="http://lawtonsoccerclub.org/contact-us" />
+  <meta name="keywords" content="Soccer, Lawton, Lawton Soccer, futbol, Big Green, youth soccer, youth futbol, kids, clubs, organizations,  Information, youth, adults, parents, referee, tournaments, sponsors, coaches, tips, fifa , sports, soccerskills, rules, regulations, regulation, ref, referee, reffing, refing, goal, sidelines, offside, pk, penalty kick, overtime, offense, defense, field, classes, education, LSC" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Lawton Soccer Club" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Contact Us</title>
+  <link href="http://lawtonsoccerclub.org/contact-us" rel="canonical" />
+  <link href="http://lawtonsoccerclub.org/component/search/?Itemid=164&amp;format=opensearch" rel="search" title="Search Lawton Soccer Club" type="application/opensearchdescription+xml" />
+  <link href="/templates/tk_gen_free_ii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/tk_gen_free_ii/apple_touch_icon.png" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/base.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/layout.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/menus.css" />
+<style>.wrapper { max-width: 980px; }
+#sidebar-b { width: 30%; }
+#maininner { width: 70%; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/modules.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/tools.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/system.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/extensions.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/custom.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/font2/arial.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/font3/arial.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/style.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/responsive.css" />
+<link rel="stylesheet" href="/templates/tk_gen_free_ii/css/print.css" />
+<script src="/templates/tk_gen_free_ii/warp/js/warp.js"></script>
+<script src="/templates/tk_gen_free_ii/warp/js/responsive.js"></script>
+<script src="/templates/tk_gen_free_ii/warp/js/accordionmenu.js"></script>
+<script src="/templates/tk_gen_free_ii/warp/js/dropdownmenu.js"></script>
+<script src="/templates/tk_gen_free_ii/js/template.js"></script>
+</head>
+
+<body id="page" class="page sidebar-b-right sidebars-1  isblog " data-config='{"twitter":0,"plusone":0,"facebook":0}'>
+
+		
+	<div id="block-toolbar"><div>
+		
+		<div class="wrapper">
+		
+			
+		
+		</div>
+		
+	</div></div>
+		
+	<div id="block-header">
+		
+		<div class="wrapper">
+		
+		<div id="toolbar" class="clearfix">
+	
+									
+								
+			</div>
+		
+			<header id="header">
+	
+				<div id="headerbar" class="clearfix">
+				
+						
+					<a id="logo" href="http://lawtonsoccerclub.org">
+<p><img style="float: left;" src="/images/headers/banner.jpg" class="auto-size" alt="banner" /></p></a>
+										
+										<div class="left"><div class="module   deepest">
+
+			
+<div class="tagline">
+<table style="width: 264px; height: 81px;" border="0">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="5">Lawton Soccer Club is a proud member of</td>
+</tr>
+<tr>
+<td><a href="http://www.fifa.com/" target="_blank"><img src="/images/fifa.png" alt="fifa" /></a></td>
+<td><a href="http://www.ussoccer.com/" target="_blank"><img src="/images/ussf.png" alt="ussf" /></a></td>
+<td><a href="http://www.usyouthsoccer.org/" target="_blank"><img src="/images/usys.png" alt="usys" /></a></td>
+<td><a href="http://www.usadultsoccer.com/" target="_blank"><img src="/images/usasa.png" alt="usasa" /></a></td>
+<td><a href="http://www.oksoccer.com/" target="_blank"><img src="/images/osa.png" alt="osa" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>		
+</div>
+<div class="module   deepest">
+
+			
+<link rel="stylesheet" href="http://lawtonsoccerclub.org/modules/mod_je_social/css/style.css" type="text/css" />
+<noscript><a href="http://jextensions.com/social-icons-module" alt="jExtensions">Social Icons Module Joomla</a></noscript>
+<div  id="je_social" class="social_0">
+    <ul class="social_links" >		
+        <li><a href="https://twitter.com/lawtonsoccer" class="twitter" target="_blank" rel="nofollow">Twitter</a></li>        <li><a href="https://www.facebook.com/LawtonSoccerClub" class="facebook" target="_blank" rel="nofollow">Facebook</a></li>                                                                            </ul>
+</div>
+<style>
+#je_social ul { width:84px; height:42px; margin:0 auto;}
+#je_social ul li a{opacity: 0.6;-moz-opacity: 0.6;filter:alpha(opacity=60);}
+#je_social ul li a:hover{opacity: 1;-moz-opacity: 1;filter:alpha(opacity=1);}
+</style>
+
+		
+</div></div>
+										
+				</div>
+	
+				
+			
+			</header>
+			
+		</div>
+		
+	</div>
+	
+	
+	
+	<div id="block-menu">
+		
+		<div class="wrapper">
+		
+	<div id="menubar"><div><div class="clearfix">
+					
+										<nav id="menu"><ul class="menu menu-dropdown"><li class="level1 item101"><a href="/" class="level1"><span>Home</span></a></li><li class="level1 item114 parent"><a href="/about-us" class="level1 parent"><span>About Us</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item115"><a href="/about-us/complex" class="level2"><span>Complex</span></a></li><li class="level2 item116"><a href="/about-us/missing-child" class="level2"><span>Missing Child</span></a></li><li class="level2 item117"><a href="/about-us/bad-weather" class="level2"><span>Bad Weather</span></a></li><li class="level2 item118"><a href="/about-us/club-positions" class="level2"><span>Club Positions</span></a></li><li class="level2 item119"><a href="/about-us/downloads-and-forms" class="level2"><span>Downloads and Forms</span></a></li><li class="level2 item120"><a href="/about-us/bylaws-and-rules" class="level2"><span>Bylaws and Rules</span></a></li><li class="level2 item121"><a href="/about-us/scholarship-program" class="level2"><span>Scholarship Program</span></a></li><li class="level2 item122"><a href="/about-us/sponsors" class="level2"><span>Sponsors</span></a></li><li class="level2 item123"><a href="/about-us/frequently-asked-questions" class="level2"><span>Frequently Asked Questions</span></a></li></ul></div></div></div></div></li><li class="level1 item124 parent"><a href="/recreational" class="level1 parent"><span>Recreational</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item125"><a href="/recreational/program-information" class="level2"><span>Program Information</span></a></li><li class="level2 item126 parent"><a href="/recreational/coaches-corner" class="level2 parent"><span>Coaches Corner</span></a><ul class="nav-child unstyled small level3"><li class="level3 item127"><a href="/recreational/coaches-corner/coaching-information" class="level3"><span>Coaching Information</span></a></li><li class="level3 item128"><a href="/recreational/coaches-corner/club-rules-and-policies" class="level3"><span>Club Rules and Policies</span></a></li><li class="level3 item129"><a href="/recreational/coaches-corner/coaching-courses" class="level3"><span>Coaching Courses</span></a></li><li class="level3 item130"><a href="/recreational/coaches-corner/resources-and-forms" class="level3"><span>Resources and Forms</span></a></li></ul></li><li class="level2 item131"><a href="/recreational/registration" class="level2"><span>Registration</span></a></li><li class="level2 item132"><a href="/recreational/schedules" class="level2"><span>Schedules</span></a></li><li class="level2 item133"><a href="/recreational/coordinator-contacts" class="level2"><span>Coordinator Contacts</span></a></li></ul></div></div></div></div></li><li class="level1 item134 parent"><a href="/academy" class="level1 parent"><span>Academy</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item135"><a href="/academy/acd-program-information" class="level2"><span>Program Information</span></a></li></ul></div></div></div></div></li><li class="level1 item136 parent"><a href="/traveling" class="level1 parent"><span>Traveling</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item137 parent"><span class="nav-header level2 parent"><span>Traveling Recreational</span></span><ul class="nav-child unstyled small level3"><li class="level3 item138"><a href="/traveling/traveling-recreational/trav-program-information" class="level3"><span>Program Information</span></a></li><li class="level3 item140"><a href="/traveling/traveling-recreational/trav-schedules" class="level3"><span>Schedules</span></a></li></ul></li><li class="level2 item141 parent"><span class="nav-header level2 parent"><span>Competitive</span></span><ul class="nav-child unstyled small level3"><li class="level3 item142"><a href="/traveling/competitive/comp-program-information" class="level3"><span>Program Information</span></a></li><li class="level3 item144"><a href="/traveling/competitive/comp-schedules" class="level3"><span>Schedules</span></a></li></ul></li></ul></div></div></div></div></li><li class="level1 item145 parent"><a href="/adult" class="level1 parent"><span>Adult</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item146"><a href="/adult/adult-program-information" class="level2"><span>Program Information</span></a></li><li class="level2 item148"><a href="/adult/adult-schedules" class="level2"><span>Schedules</span></a></li></ul></div></div></div></div></li><li class="level1 item149 parent"><a href="/referees" class="level1 parent"><span>Referees</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item150"><a href="/referees/referee-home" class="level2"><span>Referee Home</span></a></li><li class="level2 item151"><a href="/referees/referee-faqs" class="level2"><span>Referee FAQs</span></a></li><li class="level2 item152"><a href="/referees/referee-committee" class="level2"><span>Referee Committee</span></a></li><li class="level2 item153"><a href="/referees/referee-classes" class="level2"><span>Referee Classes</span></a></li><li class="level2 item154"><a href="/referees/club-policies" class="level2"><span>Club Policies</span></a></li><li class="level2 item155"><a href="/referees/pay" class="level2"><span>Pay</span></a></li><li class="level2 item156"><a href="/referees/laws-of-the-game" class="level2"><span>Laws of the Game</span></a></li></ul></div></div></div></div></li><li class="level1 item157 parent"><a href="/tournaments" class="level1 parent"><span>Tournaments</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item158"><a href="/tournaments/frost-ya-fanny-fall-tournament" class="level2"><span>Frost Ya Fanny Fall Tournament</span></a></li><li class="level2 item159"><a href="/tournaments/spring-fling-tournament" class="level2"><span>Spring Fling Tournament</span></a></li></ul></div></div></div></div></li><li class="level1 item164 active current"><a href="/contact-us" class="level1 active current"><span>Contact Us</span></a></li></ul></nav>
+						
+										<div id="search">
+<form id="searchbox-94" class="searchbox" action="/contact-us" method="post" role="search">
+	<input type="text" value="" name="searchword" placeholder="search..." />
+	<button type="reset" value="Reset"></button>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="164" />	
+</form>
+
+<script src="/templates/tk_gen_free_ii/warp/js/search.js"></script>
+<script>
+jQuery(function($) {
+	$('#searchbox-94 input[name=searchword]').search({'url': '/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found'}).placeholder();
+});
+</script></div>
+										
+				</div></div></div>
+			
+					
+	</div>
+		
+	</div>
+				
+				
+				
+				
+				
+	
+		
+		
+		<div id="block-main">
+		
+		<div id="main" class="wrapper grid-block">
+		
+			<div id="maininner" class="grid-box">
+			
+								
+								
+								<section id="breadcrumbs"><div class="breadcrumbs"><strong>Contact Us</strong></div></section>
+								
+				<section id="content" class="grid-block"><div id="system-message-container">
+	</div>
+
+
+<div id="system">
+
+	
+	<article class="item">
+
+		
+				<header>
+
+										
+								
+			<h1 class="title">Contact Us</h1>
+
+			
+		</header>
+			
+		
+		<div class="content clearfix">
+
+		
+<p><span style="font-size: 12pt;">Please feel free to contact any of the Executive Committee Board members listed below:</span></p>
+<p><span style="font-size: 12pt;"><br />President - Bart: <span id="cloak11520">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak11520').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy11520 = 'B&#97;rt' + '&#64;';
+ addy11520 = addy11520 + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ var addy_text11520 = 'B&#97;rt' + '&#64;' + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ document.getElementById('cloak11520').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy11520 + '\'>'+addy_text11520+'<\/a>';
+ //-->
+ </script></span></p>
+<p><span style="font-size: 12pt;"><br />Vice President 1 - Gene: <span id="cloak65547">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak65547').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy65547 = 'G&#101;n&#101;' + '&#64;';
+ addy65547 = addy65547 + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ var addy_text65547 = 'G&#101;n&#101;' + '&#64;' + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ document.getElementById('cloak65547').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy65547 + '\'>'+addy_text65547+'<\/a>';
+ //-->
+ </script></span></p>
+<p><span style="font-size: 12pt;"><br />Vice President 2 - Mark: <span id="cloak64429">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak64429').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy64429 = 'M&#97;rk' + '&#64;';
+ addy64429 = addy64429 + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ document.getElementById('cloak64429').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy64429 + '\'>' +addy64429+'<\/a>';
+ //-->
+ </script><br /></span></p>
+<p><span style="font-size: 12pt;"><br />Registrar - Jenn: <span id="cloak21730">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak21730').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy21730 = 'R&#101;g&#105;str&#97;r' + '&#64;';
+ addy21730 = addy21730 + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ document.getElementById('cloak21730').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy21730 + '\'>' +addy21730+'<\/a>';
+ //-->
+ </script></span></p>
+<p><span style="font-size: 12pt;"><br />Public Affairs - Kristen: <span id="cloak94311">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak94311').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy94311 = 'P&#117;bl&#105;cAff&#97;&#105;rs' + '&#64;';
+ addy94311 = addy94311 + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ document.getElementById('cloak94311').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy94311 + '\'>' +addy94311+'<\/a>';
+ //-->
+ </script></span></p>
+<p><span style="font-size: 12pt;"><br />Facilities - Robert: <span id="cloak26619">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak26619').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy26619 = 'F&#97;c&#105;l&#105;t&#105;&#101;s' + '&#64;';
+ addy26619 = addy26619 + 'L&#97;wt&#111;nS&#111;cc&#101;rCl&#117;b' + '&#46;' + '&#111;rg';
+ document.getElementById('cloak26619').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy26619 + '\'>' +addy26619+'<\/a>';
+ //-->
+ </script></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>		</div>
+
+		
+		
+		
+			
+	</article>
+
+</div></section>
+				
+				
+				
+			</div>
+			
+						
+						<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+		<h3 class="module-title"><span class="color">News</span> & Updates</h3>	
+<p style="text-align: left;">Add your name and e-mail below to get Lawton Soccer Club New &amp; Updates!</p>
+<form action="http://www.gogvo.com/subscribe.php" method="post"><input type="hidden" name="CampaignCode" value="d786bd6464a3" /> <input type="hidden" name="FormId" value="5154143" /> <input type="hidden" name="AffiliateName" value="bizclient" />
+<table style="width: 34px; height: 95px; float: left;" align="center">
+<tbody>
+<tr>
+<td><label for="fullname">Your Name:</label></td>
+<td><input type="text" name="FullName" /></td>
+</tr>
+<tr>
+<td><label for="email">Your E-mail:</label></td>
+<td><input type="text" name="Email" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2" align="center"><input type="submit" value="Subscribe" /></td>
+</tr>
+</tbody>
+</table>
+<img src="http://www.gogvo.com/show_form.php?id=5154143" alt="" /></form>		
+</div></div></aside>
+			
+		</div>
+		
+	</div>
+		
+		
+	
+	<div id="block-bottom-b">
+	
+		</div>
+	
+	
+		<div id="block-footer">
+	
+		<div class="wrapper">
+			
+			<footer id="footer" class="grid-block">
+	
+								<a id="totop-scroller" href="#page"></a>
+								
+				<div class="module   deepest">
+
+			
+<div id="footer_slot">
+<div id="footer">
+<div id="footer_address">Big Green Soccer Complex | I44 and Lee Blvd, Lawton, OK, 73502, United States</div>
+<div id="copyright">© 2010 - 
+2015 
+ Lawton Soccer Club, All Rights Reserved.</p>
+</div>
+</div>
+</div>		
+</div>	
+			</footer>
+		
+		</div>
+		
+	</div>
+		
+		
+</body>
+</html>

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width" />
+		<title>Board Members | Raytown Soccer Club-Home of KC Premier Soccer </title>
+
+
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+		<link rel="shortcut icon" href="http://www.raytownsoccerclub.org/wp-content/themes/rsc/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="http://www.raytownsoccerclub.org/wp-content/themes/rsc/style.css" />
+
+		
+		<link rel="alternate" type="application/rss+xml" href="http://www.raytownsoccerclub.org/feed/" title="Raytown Soccer Club-Home of KC Premier Soccer  latest posts" />
+		<link rel="alternate" type="application/rss+xml" href="http://www.raytownsoccerclub.org/comments/feed/" title="Raytown Soccer Club-Home of KC Premier Soccer  latest comments" />
+		<link rel="pingback" href="http://www.raytownsoccerclub.org/xmlrpc.php" />
+		<link rel="alternate" type="application/rss+xml" title="Raytown Soccer Club-Home of KC Premier Soccer  &raquo; Board Members Comments Feed" href="http://www.raytownsoccerclub.org/board-members/feed/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.raytownsoccerclub.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.raytownsoccerclub.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='canonical' href='http://www.raytownsoccerclub.org/board-members/' />
+<link rel='shortlink' href='http://www.raytownsoccerclub.org/?p=10' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	</head>
+	<body>
+		<div id="wrap">
+			<div id="header-container">
+				<div id="header" class="page-contain">
+					<div class="wrap">
+						<a href="http://www.raytownsoccerclub.org/" title="Raytown Soccer Club-Home of KC Premier Soccer " rel="home">
+							<img src="/wp-content/themes/rsc/img/rsc-logo-stroked.png" class="header-image" width="187" height="180" alt="Raytown Soccer Club" />
+						</a>
+					</div><!-- .wrap -->
+				</div><!-- #header -->
+				<div class="clearfix"></div>
+			</div><!-- #head-container -->
+			<div id="access" role="navigation" class="page-contain">
+				<h3 class="assistive-text">Main menu</h3>
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://www.raytownsoccerclub.org/">Home</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.raytownsoccerclub.org/metro-league-info/">KC Metroleague</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.raytownsoccerclub.org/sign-up-info/">Sign Up Info</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://www.raytownsoccerclub.org/tournaments/">Tournaments</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-12"><a href="http://www.raytownsoccerclub.org/board-members/">Board Members</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.raytownsoccerclub.org/coaches/">Coaches</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.raytownsoccerclub.org/referees/">Referees</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.raytownsoccerclub.org/forms/">Forms</a></li>
+</ul></div>				<div class="clearfix"></div>
+			</div><!-- #access -->
+			<div id="main-wrap" class="page-contain">
+				<div id="main">
+
+	<div id="primary" class="site-content">
+
+		<div id="content" role="main">
+												<div id="post-10" class="post-10 page type-page status-publish hentry">
+		<div class="entry-content">
+
+						<h1 class="entry-title">Board Members</h1>
+						<p>Raytown Soccer Club is a volunteer run, non-profit organization. If you are interested in joining the Board of Directors, or donate any time or talent, please contact us at <a href="mailto:rscraytownsc@comcast.net">rscraytownsc@comcast.net</a>.</p>
+<h2>Raytown Soccer Club Board of Directors</h2>
+<p><strong>Fall 2014 / Spring 2015</strong></p>
+<table id="board" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="hilite">
+<td><strong>President:</strong></td>
+<td><a href="david.hixson@sbcglobal.net">David Hixson</a></td>
+</tr>
+<tr>
+<td><strong>Vice President:</strong></td>
+<td><a href="mailto:rscraytownsc@comcast.net">Warren Brown</a></td>
+</tr>
+<tr class="hilite">
+<td><strong>Treasurer:</strong></td>
+<td> <a href="mailto:rscraytownsc@comcast.net">Warren Brown</a></td>
+</tr>
+<tr>
+<td><strong>Secretary:</strong></td>
+<td><a href="mailto:vratterman@hotmail.com">Valerie Ratterman</a></td>
+</tr>
+<tr class="hilite">
+<td><strong>Registrar:</strong></td>
+<td><a href="mailto:registrarraytownsc@comcast.net">Kay Long</a></td>
+</tr>
+<tr>
+<td><strong>Office Support:</strong></td>
+<td><a href="mailto:managerraytownsc@comcast.net">Lori Stanley</a></td>
+</tr>
+<tr class="hilite">
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Communications/Website:</strong></td>
+<td><a href="mailto:vratterman@hotmail.com">Valerie Ratterman</a></td>
+</tr>
+<tr class="hilite">
+<td><strong> </strong></td>
+<td></td>
+</tr>
+<tr>
+<td> U5-<strong>U7 Boys and Girls Division Chairperson:</strong></td>
+<td> <a href="mailto:justusbowers@gmail.com">Mindy Bowers</a></td>
+</tr>
+<tr class="hilite">
+<td><strong>U8 Boys and Girls Division Chairperson:</strong></td>
+<td><a href="michaelhillebrand99@yahoo.com">Michael Hillebrand</a></td>
+</tr>
+<tr>
+<td><strong>U9 Boys and Girls Division Chairperson:</strong></td>
+<td><a href="michaelhillebrand99@yahoo.com">Michael Hillebrand</a></td>
+</tr>
+<tr class="hilite">
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>U10 Boys and Girls Division Chairperson:</strong></td>
+<td><a href="mailto:vratterman@hotmail.com">Valerie Ratterman</a></td>
+</tr>
+<tr class="hilite">
+<td><strong>U11 Boys and Girls Division Chairperson:</strong></td>
+<td><a href="mailto:tdthepain@att.net">Dwayne Wells</a></td>
+</tr>
+<tr>
+<td><strong>U12 Boys and Girls Division Chairperson:</strong></td>
+<td><a href="mikesampsonplumbing@gmail.com">Mike Sampson</a></td>
+</tr>
+<tr class="hilite">
+<td><strong>U13 Boys and Girls Division Chairperson:</strong></td>
+<td><a href="mailto:registrarraytownsc@comcast.net">Kay Long</a></td>
+</tr>
+</tbody>
+</table>
+<span style="visibility: hidden">
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=21">Home Ofis I&#351;ler Antalya</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=22">Imkb Hisse Senetleri Fiyat Ad&#305;mlar&#305;</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=23">En Yeni I&#351; Fikirleri</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=24">I&#351;kur I&#351; Ilanlar&#305; Sivas 2013</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=25">Ek I&#351; Ar&#305;yorum Sincan</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=26">Hisse Senedi Fiyatlar&#305; 2011</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=27">Hisse Senedi Defter De&#287;eri Nas&#305;l Bulunur</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=28">Yeni As&#305;r K&#252;&#231;&#252;k Ilanlar Kiral&#305;k Konut</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=29">Online I&#351; Ilanlar&#305;</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=30">K&#246;&#351;eyi D&#246;nmenin Yollar&#305;</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=31">Bayanlara Evde I&#351;</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=32">Haber Borsa Bagfa&#351;</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/041/showthread.php?t=33">Borsa Hisse Senetleri Analizi</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=841">Geld Verdienen Von Zu Hause Ohne Pc</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=842">Oxfam Online Jobs</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=843">Online Geld Verdienen Durch Spielen</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=844">Ist Der Handel Mit Bin&#228;ren Optionen Seri&#246;s</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=845">Bin&#228;re Broker Plattformen Test</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=846">Bin&#228;re Optionen Kay</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=847">Im Internet Geld Verdienen Buch</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=848">Arbeit Zu Hause K&#246;ln</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=849">Bin&#228;re Optionen Strategie B&#252;cher</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=850">Bin&#228;re Optionen Tipps</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=851">Teilzeit Jobs Gleisdorf</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=852">Kann Ich Mich Auch Online Arbeitslos Melden</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=853">Arbeiten Von Zu Hause Ohne Vorkasse</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=854">Zeit Online Jobs Berlin</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=855">Teilzeitjobs Pongau</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=856">Mit Online Umfragen Geld Verdienen Forum</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=857">Online Geld Verdienen Door Enquetes In Te Vullen</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=858">Bin&#228;re Optionen Live Charts</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=859">Geld Verdienen Mit Facebook Und Co</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=860">Geld Verdienen Mit Spenden</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/067/showthread.php?t=861">Fahrten Von Zuhause Zur Arbeit</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=83">Trading Index Options For Income</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=84">Work At Home No Money To Start</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=85">Typing Work From Home Glasgow</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=86">Make Money From Home Building Products</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=87">Online Jobs 08087</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=88">Best Websites To Make Money Online Free</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=89">Part Time Work From Home Perth</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/054/showthread.php?t=90">Work From Home Video Editor Jobs</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1983">Short Term Payday Loans For Unemployed</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1984">Cash Advance Locations In Miami</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1985">Pay Amscot Cash Advance Online</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1986">Personal Loans Bad Credit Vermont</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1987">Payday Loan Direct Lender No Teletrack</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1988">Payday Loan In Las Vegas No Checking Account</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1989">Payday Loan Direct Lender Bad Credit</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1990">Personal Loans With No Credit Check Nz</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1991">Payday Loans In Winchester Va</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1992">Instant Approval Bad Credit Loans 2009</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1993">Payday Loan No Credit Check Canada</a><br />
+<a href="http://www.raytownsoccerclub.org/wp-content/uploads/2013/032/showthread.php?t=1994">Quick Cash Pawn Cookeville Tn</a><br />
+
+
+</span>
+
+
+
+	
+</div><!-- .entry-content -->
+	</div><!-- #post-10 -->
+					</div><!-- #content -->
+	</div><!-- #primary -->
+
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div id="footer-content" class="page-contain">
+				<div class="wrap">
+					<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://www.raytownsoccerclub.org/">Home</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.raytownsoccerclub.org/metro-league-info/">KC Metroleague</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://www.raytownsoccerclub.org/sign-up-info/">Sign Up Info</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.raytownsoccerclub.org/tournaments/">Tournaments</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-13"><a href="http://www.raytownsoccerclub.org/board-members/">Board Members</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://www.raytownsoccerclub.org/coaches/">Coaches</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.raytownsoccerclub.org/referees/">Referees</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.raytownsoccerclub.org/forms/">Forms</a></li>
+</ul></div>				</div><!-- .wrap -->
+				<div class="copyright">
+					Copyright &copy 2004&ndash;2015 Raytown Soccer Club.<br />
+				</div>
+			</div>
+		</div>
+
+		<script type='text/javascript' src='http://www.raytownsoccerclub.org/wp-includes/js/comment-reply.min.js?ver=4.0'></script>
+
+	</body>
+</html>

@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US"  dir="ltr">
+<head><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <!--[if lt IE 9]>
+	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- OPEN korrio-v2-header -->
+    <title>Puyallup Soccer Club &#124; </title>
+
+	<!-- sayrevillesoccerclub.com google apps verification code -->
+	<meta name="google-site-verification" content="rUV4YxGK1JO7qIuTSjxl7PfxQDWeKgtuRrOwvo8XcXg" />
+
+    <!-- OPEN wp_head -->
+    <link rel='stylesheet' id='dashicons-css'  href='https://puyallupsoccerclub.org/wp-includes/css/dashicons.min.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://puyallupsoccerclub.org/wp-includes/js/thickbox/thickbox.css?ver=20131201' type='text/css' media='all' />
+<link rel='stylesheet' id='korrio-master-css'  href='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/css/korrio-master.css?ver=15' type='text/css' media='all' />
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/tiny_mce2/tiny_mce.js?ver=1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery-1.7.2.min.js?ver=1.7.2'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.populate.js?ver=1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/global.js?ver=10999'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/datatable/jquery.dataTables.js?ver=1.9.0.4'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/datatable/TableTools.min.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.form.js?ver=3.46.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://puyallupsoccerclub.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://puyallupsoccerclub.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Info' href='https://puyallupsoccerclub.org/puyallupsoccerclub/' />
+<link rel='next' title='Referees' href='https://puyallupsoccerclub.org/referees/' />
+<meta name="generator" content="WordPress 3.8.1" />
+<link rel='canonical' href='https://puyallupsoccerclub.org/board/' />
+<link rel='shortlink' href='https://puyallupsoccerclub.org/?p=25' />
+<script type="text/javascript">var ajaxurl = "https://puyallupsoccerclub.org/wp-load.php";</script>
+        <!-- Google Analytics Code -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-15944218-1', {
+                'cookieDomain': 'korrio.com'
+            });
+
+            
+            ga('send', 'pageview');
+
+            
+            // debuging
+            // ga('send', 'pageview', '/bob-new-ga-universal');
+
+        </script>
+        <!-- end Google Analytics Code -->
+
+            <!-- CLOSE wp_head -->
+
+</head>
+<body class="unknown-os unknown-browser theme-bkimage siteorigin-panels" style="background:url(https://s3.amazonaws.com/korrio-application-production/clubbackground/originals/47a2d602b3127cce9854db81589400000035100AatXLdw4cOGUA.jpeg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" >
+
+
+
+<div id="page-container" class="container">
+
+
+<!-- OPEN page-header -->
+<header id="page-header" class="navbar" style="padding:0px; margin-left:-20px;">
+	<div class="navbar-inner" style="padding:0px;height:42px;">
+	
+		<div class="container" style="padding:0px;">
+			
+
+
+
+			        
+		<div class="pull-right span9-5">
+			<ul class="nav pull-right">
+            	<li><a href="/accounts/recovery" class="lost-pass">Lost Password?</a></li>
+			</ul>
+
+			<div class="pull-right">
+				<form name="login-form" id="login-form" action="https://puyallupsoccerclub.org/wp-login.php" method="post" class="form-inline" style="margin-bottom:0px; margin-top:7px">
+					<input type="text" name="log" id="user_login" autocomplete="off" class="input-small" placeholder="Username">
+					<input type="password" name="pwd" id="user_pass" autocomplete="off" class="input-small" placeholder="Password">
+					<label class="checkbox text_grey ml10 mr10">
+						<input type="checkbox" name="rememberme" id="rememberme" value="forever" title="Remember Me"> Remember me
+					</label>
+					<button type="submit" class="btn" style="margin-top:0px">Sign in</button>
+										<input type="hidden" name="redirect_to" value="https://puyallupsoccerclub.org/board/" />
+					<input type="hidden" name="testcookie" value="1" />
+				</form>
+			</div>
+		</div>
+
+	
+		</div>
+	</div>
+</header>
+
+
+	<!-- OPEN groups masthead -->
+	<div class="row" id="mastbar">
+		<!-- div class="mast_glyph club span2"></div -->
+		<div class="mast_name span8">Puyallup Soccer Union</div>
+	</div>
+<!-- CLOSE groups masthead -->
+<!-- OPEN plugin-template -->
+<div id="main" class="row transgrey">
+	<div class="row">
+		
+
+<!-- OPEN groups sidebar -->
+<div class="span3" id="left">
+
+	<div id="box_shield_card">
+		<div id="avatar">
+						<a href="https://puyallupsoccerclub.org/"><img src='https://s3.amazonaws.com/korrio-application-production/avatar/135/135/f3109983f57dc93585bbe64dd614eb97-1406852986.3615.png' width='130' height='130' class='group-181-avatar' /></a>
+		</div>
+		<span class="shield_text" >
+						<strong>PSC</strong>
+					</span>
+	</div>	<!-- //#box_shield_card -->
+
+
+	<div class="navigation_area">
+
+		<div class="nav_top ">
+			<a href="https://puyallupsoccerclub.org/" title="home"><i class="icon-home icon-korrio pull-left"></i>Home</a>
+		</div>
+
+				<div class="accordion-group custom_accordion">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"  href="#collapseSitePages"><i class="icon-chevron-solid-close pull-left acc-chevron"></i><i class="icon-club icon-korrio pull-left" style="margin-left:0px;"></i>About Club</a>
+			</div>
+			<div class="accordion-body collapse subnav_expanded" id="collapseSitePages">
+				<a href="https://puyallupsoccerclub.org">Club Home</a>
+				<a href="https://puyallupsoccerclub.org/puyallupsoccerclub/">Info</a><a href="https://puyallupsoccerclub.org/board/">Board Contacts</a><a href="https://puyallupsoccerclub.org/registration/">Registration</a><a href="https://puyallupsoccerclub.org/referees/">Referees</a><a href="https://puyallupsoccerclub.org/tournament/">13th Annual PVKO Tournament</a><a href="https://puyallupsoccerclub.org/schedules/">Schedules</a><a href="https://puyallupsoccerclub.org/by-laws/">Bylaws and Minutes</a><a href="https://puyallupsoccerclub.org/forms/">Forms</a><a href="https://puyallupsoccerclub.org/fields/">Fields</a><a href="https://puyallupsoccerclub.org/soccer-camps/">Soccer Camps</a>			</div>
+		</div>
+		
+							<div class="nav_top ">
+						<a href="https://puyallupsoccerclub.org/blog/"><i class="icon-news icon-korrio pull-left"></i>News</a>
+					</div>
+						
+					<div class="nav_top ">
+				<a href="https://puyallupsoccerclub.org/programs/" title="See all programs">
+					<i class="icon-programs icon-korrio pull-left"></i>Programs				</a>
+			</div>
+		
+					<div class="nav_top ">
+				<a href="https://puyallupsoccerclub.org/teams/" title="See all teams">
+					<i class="icon-team icon-korrio pull-left"></i>Teams
+				</a>
+			</div>
+		
+					<div class="nav_top ">
+				<a href="https://puyallupsoccerclub.org/schedule/" title="View the PSC's schedule">
+					<i class="icon-schedule icon-korrio pull-left"></i>Schedule
+				</a>
+			</div>
+		
+        
+									<div class="nav_top ">
+					<a href="https://puyallupsoccerclub.org/media/" title="View the PSC's photos">
+						<i class="icon-highlights icon-korrio pull-left"></i>Photos
+					</a>
+				</div>
+					
+		
+		
+		
+		
+		
+	</div>	<!-- //.navigation_area -->
+
+	
+    <!-- mobile download advert -->
+    
+    
+</div>	<!-- //#left -->
+<!-- CLOSE groups sidebar -->
+		<div id="right" class="span13">
+			<div id="blog_content" class="span13">
+				<!-- OPEN /var/korrio/deployments/korrio_core/wordpress-mu/wp-content/plugins/korrio-web-hosting/resources/templates/blog.page.phtml -->
+    <div style="margin-left:-20px;margin-top:-12px;" class="blog_wrapper">
+        <div class="row transgrey boxheader" style="margin-bottom:0px;">
+            <h2 style="margin-left:20px;">
+                Board Contacts            </h2>
+        </div>
+        <div class="blog_wrapper_inner white" style="margin-left: -20px; overflow: hidden; width: 800px;">
+            <div class="blog_articles span13" style="margin-left:0px; padding-top:18px;">
+                <article class="row" style="margin-left:0;" id="post-25">
+                    <div class="span13">
+                        <div class="row" style="margin-left:0;">
+                            <p><span style="color: #f3510b"><strong><span style="font-size: medium">PSU Executive Board Officers &amp; Directors </span></strong></span></p>
+<div class="mid">
+<div class="right">
+<div class="content" align="left">
+<div class="mid">
+<div class="right">
+<div class="content" align="left">
+<p>Club Address: PO Box 1316, Puyallup, Wa 98371</p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>President :&nbsp; </strong></span><span style="font-size: medium">Lynn Batchelder</span></p>
+<p><span style="font-size: medium">lbatchelder@comcast.net</span><span style="font-size: medium">&nbsp;</span>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Vice President of Administration: </strong></span><span style="font-size: medium">Scott Martin</span>&nbsp;</p>
+<p><span style="font-size: medium"><a href="mailto:scott@rsasoccer.org">scott@rsasoccer.org</a></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Vice President PSU: </strong></span><span style="font-size: medium">Mart Mitchell</span></p>
+<p><span style="font-size: medium">mart@rsasoccer.org<a href="mailto:rehutson@comcast.net"><br /></a></span>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Vice President RSA Elite: </strong></span><span style="font-size: medium">Joe McDaniel</span></p>
+<p><span style="font-size: medium">vp@rsasoccer.org</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Secretary: </strong></span><span style="font-size: medium">Jennifer Porter</span></p>
+<p><span style="font-size: medium">secretary@rsasoccer.org </span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Treasurer PSU: </strong></span><span style="font-size: medium">Debbie Pierson</span></p>
+<p><span style="font-size: medium">psutreas@gmail.com </span></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: medium">Treasurer RSA Elite: </span></strong><span style="font-size: medium">John Jackson</span></p>
+<p><span style="font-size: medium">john@rsasoccer.org</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Registrar PSU: </strong></span><span style="font-size: medium">Debbie Pierson</span></p>
+<p><span style="font-size: medium">puyallup.soccer@gmail.com</span></p>
+<p><span style="font-size: medium">253.255.3770</span></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: medium">Registrar RSA Elite: </span></strong><span style="font-size: medium">Stacey Reeves</span></p>
+<p><span style="font-size: medium">rsaregistrar@rsasoccer.org</span>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Games Chair PSU: </strong></span><span style="font-size: medium">Daisha Nalli</span></p>
+<p><span style="font-size: medium">pscreg@hotmail.com</span>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Games Chair RSA Elite: </strong></span><span style="font-size: medium">Stacey Reeves</span></p>
+<p><span style="font-size: medium">rsaregistrar@rsasoccer.org</span></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: medium">Practice Field Coordinator PSU: </span></strong><span style="font-size: medium">Ralph Hutson</span></p>
+<p><span style="font-size: medium">rehutson@comcast.net</span><span style="font-size: medium">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Micro Program Director: </strong></span><span style="font-size: medium">TBD</span></p>
+<p><span style="font-size: medium">&nbsp;</span></p>
+<p><span style="font-size: medium"><strong>Referee Director: </strong></span><span style="font-size: medium">Darin Tugman</span></p>
+<p><span style="font-size: medium">darintugman@yahoo.com&nbsp;</span>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium"><strong>Webmaster: </strong>Gerrit Foster</span></p>
+<p><span style="font-size: medium">gerrit.foster@gmail.com</span></p>
+<p><span style="font-size: medium">&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" language="javascript">
+        jQuery(document).ready(function($){
+            // get the height of left and the height of the blog wrapper
+            var _blogHeight = $(".blog_wrapper").height();
+            var _leftHeight = $("#left").height();
+
+    /*
+            if(_leftHeight > _blogHeight){
+                $(".blog_wrapper").css("height",_leftHeight+"px");
+                $(".blog_wrapper .blog_wrapper_inner").css("height",_leftHeight-38+"px");
+                $(".blog_wrapper .blog_wrapper_inner .span10").css("height",_leftHeight-55+"px");
+            }
+    */
+
+        });
+    </script>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- OPEN page footer -->
+<footer id="page-footer" class="row">
+
+	
+	<div class="club_footer_icon">
+				<a href="https://puyallupsoccerclub.org/"><img src="https://s3.amazonaws.com/korrio-application-production/avatar/135/135/f3109983f57dc93585bbe64dd614eb97-1406852986.3615.png" width="40" /></a>
+	</div>
+	<ul id="club_footer_nav_links" class="foot-links">
+		<li><a href="https://puyallupsoccerclub.org/board/">Board Contacts</a></li><li><a href="https://puyallupsoccerclub.org/registration/">Registration</a></li>	</ul>
+	
+	    	<a href="https://www.korrio.com/"><span class="footer_icon"></span></a>
+	<ul id="footer_nav_links" class="foot-links">
+		<li><a href="https://www.korrio.com/our-story">About</a></li>
+		<li><a href="https://www.korrio.com/blog">Blog</a></li>
+		<li><a href="https://www.korrio.com/terms-of-use">Terms</a>/<a href="https://www.korrio.com/privacy">Privacy</a></li>
+		<li><a href="http://support.korrio.com/entries/21906385-Frequently-Asked-Questions">Korrio Support</a></li>
+	</ul>
+
+	<p class="copy">Powered by Korrio. Copyright &copy; 2010-2015 by Korrio, Inc. All Rights Reserved <br /></p>
+
+</footer><!-- // footer#page-footer -->
+<!-- CLOSE page footer -->
+
+</div><!-- /#page-container -->
+<!-- OPEN wp_footer -->
+<style type="text/css">body { padding-top: 0 !important; } #wp-admin-bar { display: none; }</style>
+	
+<!-- Generated in 0.424 seconds with 10 queries. -->
+
+	<script>
+jQuery(document).ready( function()
+{
+    //message_alert_popup
+    if (typeof checkMessageAlert == 'function')
+        checkMessageAlert();
+});
+</script><script>
+jQuery(document).ready( function() 
+{
+	//message_alert_popup
+	if (typeof checkMessageAlert == 'function')
+		checkMessageAlert();
+});		
+</script><script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-agreements/resources/js/korrio-agreements.js?ver=5'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery-ui-1.8.21.custom.min.js?ver=1.8.21'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-mustache/resources/js/jquery.mustache.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-mustache/resources/js/plate-spinner.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-inspector/resources/js/korrio-inspector.js?ver=5556'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-alerts/resources/js/korrio-alerts.js?ver=5557'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-group/resources/js/screen.js?ver=102'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var korrio_help_coach = {"url":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-help/resources/js/korrio-help-coach.js?ver=10509'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/buddypress/bp-messages/js/autocomplete/jquery.bgiframe.min.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/buddypress/bp-messages/js/autocomplete/jquery.autocomplete.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/js/korrio-media-gallery.js?ver=1221'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-includes/js/jcrop/jquery.Jcrop.min.js?ver=0.9.12'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/jquery.fileupload.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/vendor/jquery.ui.widget.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/jquery.iframe-transport.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/jquery.fileupload-fp.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/jquery.fileupload-ui.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/locale.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-media-gallery/resources/bootstrap-fileupload/js/tmpl.min.js?ver=5555'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-message-attachments/resources/js/korrio-message-attachments.js?ver=6969'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-search/resources/js/korrio-search.js?ver=9690'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-standings/resources/js/korrio-standings.js?ver=1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-user-relationships/resources/js/korrio-user-relationships.js?ver=5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/puyallupsoccerclub.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/korrio-media-upload.js?ver=5524'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-web-hosting-media/resources/js/korrio-web-hosting-media.js?ver=6980'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/bootstrap.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/load-image.min.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/bootstrap-image-gallery.min.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-includes/js/underscore.min.js?ver=1.4.4'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/bootstrap-datepicker.js?ver=r2'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/bootstrap-colorpicker.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/prettify.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.maskedinput.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.jeditable.js?ver=1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/reports.js?ver=123'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/smooth-div-scroll/js/jquery.smoothDivScroll-1.1.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/korrio-validator.js?ver=10872'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.validate.min.js?ver=r3'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/additional-methods.min.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.validate.password.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/ie.js?ver=r1'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/themes/korrio-v2/assets/js/jquery.timeentry.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/korrio-timezone/resources/detect_timezone.js?ver=3'></script>
+<script type='text/javascript' src='https://puyallupsoccerclub.org/wp-content/plugins/easy-twitter-feed-widget/lib/js/widget-easy-twitter-feed-widget.js?ver=1.0'></script>
+<script type="text/javascript">
+var _sf_async_config={uid:18915,domain:"korrio.com"};
+function loadChartbeat() {
+//alert('loadChartbeat()');
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+//alert('done loadChartbeat()');
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+ loadChartbeat : function() { oldonload(); loadChartbeat(); };
+</script><!-- CLOSE wp_footer -->
+
+<!-- CLOSE korrio-v2-footer -->
+</body>
+</html>

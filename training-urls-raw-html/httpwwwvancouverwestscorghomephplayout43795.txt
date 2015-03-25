@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/leftcolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/BoardTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css" /><script src="http://www.vancouverwestsc.org/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_leftcolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+					<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmDown" id="frontMenu-2666" ><li id="mb-10097" class="parent cmFirst "><span style="" class="button-text">Schedules</span><span class="buttonArrow"></span><ul class="cssMenu cmDown"><li id="mb-10098" class=" cmFirst "><a class="button-text" href="/home.php?layout=43746" style="" target="_top">Mini Mod U6-U8</a><span class="iefix">&nbsp;</span></li><li id="mb-10099" class="  cmLast"><a class="button-text" href="/home.php?layout=43747" style="" target="_top">Recreational U9 and above</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-10106" class="parent  "><span style="" class="button-text">Fields</span><span class="buttonArrow"></span><ul class="cssMenu cmDown"><li id="mb-10109" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=43782" style="" target="_top">Field Names and Locations</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-10080" class="parent  "><span style="" class="button-text">Register Now</span><span class="buttonArrow"></span><ul class="cssMenu cmDown"><li id="mb-10129" class=" cmFirst "><a class="button-text" href="/sam/registration/reg_list.php" style="" target="_blank">Recreational</a><span class="iefix">&nbsp;</span></li><li id="mb-10085" class="  cmLast"><a class="button-text" href="/home.php?layout=43742" style="" target="_top">Coach/Volunteer</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-10133" class="  "><a class="button-text" href="/home.php?layout=43808" style="" target="_top">Referees</a><span class="iefix">&nbsp;</span></li><li id="mb-10131" class="  cmLast"><a class="button-text" href="/home.php?layout=43795" style="" target="_top">Contacts</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-2664" ><li id="mb-10105" class=" cmFirst "><a class="button-text" href="/home.php?layout=43734" style="" target="_top">Home </a><span class="iefix">&nbsp;</span></li><li id="mb-10125" class="  "><a class="button-text" href="/home.php?layout=43795" style="" target="_top">Contacts</a><span class="iefix">&nbsp;</span></li><li id="mb-10126" class="  "><a class="button-text" href="/home.php?layout=43796" style="" target="_top">Documents</a><span class="iefix">&nbsp;</span></li><li id="mb-10135" class="parent  "><a class="button-text" href="/home.php?layout=43843" style="" target="_top">Registration </a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-10119" class=" cmFirst "><a class="button-text" href="/home.php?layout=43789" style="" target="_top">Fees and expenses</a><span class="iefix">&nbsp;</span></li><li id="mb-192006" class="  cmLast"><a class="button-text" href="/home.php?layout=834486" style="" target="_top">Policies</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-10115" class="parent  "><span style="" class="button-text">Recreational</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-10127" class=" cmFirst "><a class="button-text" href="/home.php?layout=43797" style="" target="_top">About Recreational Soccer</a><span class="iefix">&nbsp;</span></li><li id="mb-10120" class="  "><a class="button-text" href="/home.php?layout=43790" style="" target="_top">Mini Mod soccer U6-U8</a><span class="iefix">&nbsp;</span></li><li id="mb-10121" class="  cmLast"><a class="button-text" href="/home.php?layout=43791" style="" target="_top">Recreational Teams</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-10093" class="parent  "><span style="" class="button-text">Coaches </span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-10095" class=" cmFirst "><a class="button-text" href="/home.php?layout=43735" style="" target="_top">Score Reporting</a><span class="iefix">&nbsp;</span></li><li id="mb-10094" class="  cmLast"><a class="button-text" href="/home.php?layout=43736" style="" target="_top">Coaching Resources</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-10130" class="  "><a class="button-text" href="/home.php?layout=43808" style="" target="_top">Referees</a><span class="iefix">&nbsp;</span></li><li id="mb-10102" class="  "><a class="button-text" href="/home.php?layout=43750" style="" target="_top">Links</a><span class="iefix">&nbsp;</span></li><li id="mb-12314" class="  "><a class="button-text" href="/home.php?layout=66760" style="" target="_top">Academy</a><span class="iefix">&nbsp;</span></li><li id="mb-10117" class="  "><a class="button-text" href="/home.php?layout=43787" style="" target="_top">FAQ</a><span class="iefix">&nbsp;</span></li><li id="mb-10086" class="  cmLast"><a class="button-text" href="/sam/about_us/calendar.php" style="" target="_blank">Calendar</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="BoardTrinket">
+			<ul class="bm-tkt-members">		<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Leo Ruiz</span>
+<span  class=" bm-role">President</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:shellyruiz@msn.com" target="_blank"><span class="bm-icon"></span>shellyruiz@msn.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Barb Hilligoss</span>
+<span  class=" bm-role">Treasurer</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:barb_jo_3@msn.com" target="_blank"><span class="bm-icon"></span>barb_jo_3@msn.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Lisa Santesson</span>
+<span  class=" bm-role">Secretary</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:msantesson@pacifier.com" target="_blank"><span class="bm-icon"></span>msantesson@pacifier.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Rachelle Beatty</span>
+<span  class=" bm-role">Registrar</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:fourwomen1dude@centurylink.net" target="_blank"><span class="bm-icon"></span>fourwomen1dude@centurylink.net</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">RJ Walkins</span>
+<span  class=" bm-role">Referee Assignor</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:vanwestref@gmail.com" target="_blank"><span class="bm-icon"></span>vanwestref@gmail.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Chris Connell</span>
+<span  class=" bm-role">Field Coordinator/ Scheduler</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:chrisconnell@q.com" target="_blank"><span class="bm-icon"></span>chrisconnell@q.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Julie Genz</span>
+<span  class=" bm-role">Uniform Coordinator</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:julie.genz@gmail.com" target="_blank"><span class="bm-icon"></span>julie.genz@gmail.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Melissa Givvens</span>
+<span  class=" bm-role">Parent Coordinator</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:givvme@yahoo.com" target="_blank"><span class="bm-icon"></span>givvme@yahoo.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Debbie Thurston</span>
+<span  class=" bm-role">Judicial Rep</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:dgt03@aol.com" target="_blank"><span class="bm-icon"></span>dgt03@aol.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Dan Merrow</span>
+<span  class=" bm-role">Web Master</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:dan.merrow@gmail.com" target="_blank"><span class="bm-icon"></span>dan.merrow@gmail.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Rue Lindgren</span>
+<span  class=" bm-role">Advance Competition Coordinator</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:rue@pacificfc.org" target="_blank"><span class="bm-icon"></span>rue@pacificfc.org</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+				<li class="bm-tkt-member bm-tkt-last">
+			<div class="bm-tkt-column bm-tkt-column1">
+				<span  class=" bm-name">Danny Zinda</span>
+<span  class=" bm-role">Luke Jensen Liason/scheduler</span>
+			</div>
+			<div class="bm-tkt-column bm-tkt-column2">
+				<span  class=" bm-email"><a href="mailto:dannyzinda@gmail.com" target="_blank"><span class="bm-icon"></span>dannyzinda@gmail.com</a></span>			</div>
+			<br style="clear: both;"/>
+		</li>
+		</ul>			<br style="clear: both;" />
+		</div>
+							</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Board of Directors Meeting Schedule 					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <strong><span style="font-size: medium;">2014 Meeting Schedule</span></strong>
+</p>
+<div align="center">
+   
+</div>
+<p style="text-align: center;">
+  <strong><span>Unless Otherwise Noted</span></strong><span>:</span> Meetings are the Second Tuesday of every month
+</p>
+<p style="text-align: center;">
+  Start Time: 7:00 p.m. <strong>Location:</strong> TBA
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 21px;"><strong> </strong></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						mailing address					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><address>
+  <strong><img style="float: right;" src="http://www.vancouverwestsc.org/imagedata/soccermailbox.jpg" border="0" />mailing address: P.O. Box 65622 Vancouver WA 98665</strong>
+</address>
+<p>
+  <strong>club number: (360)694-3617</strong>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Internet Management for Leagues by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Vancouver West Soccer Club. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " rel="nofollow">Management Software for Soccer Leagues </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

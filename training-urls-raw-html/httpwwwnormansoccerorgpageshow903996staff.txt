@@ -1,0 +1,1605 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en-us" id="ngin4037" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en-us" id="ngin4037" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en-us" id="ngin4037" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en-us" id="ngin4037" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-us" id="ngin4037"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-us" id="ngin4037"> <!--<![endif]-->
+<head>
+<!--[if lte IE 8]>
+    <meta http-equiv="refresh" content="0; url=/unsupported_browser" />
+    <script type="text/javascript">
+        window.top.location = '/unsupported_browser';
+    </script>
+<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7b8dc0b815","applicationID":"16731","transactionName":"IQkMERZcXApQQRZAAAUDTRYMXEc=","queueTime":0,"applicationTime":164,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAECQldVDwAB"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="RHdjdWxg6rC1YuXyCzkToBCqRB7BJs6A44pb9Cj9noM=" name="csrf-token" />
+  <title>Staff</title>
+
+  <!-- application -->
+
+  <link rel="shortcut icon" href="http://assets.ngin.com/site_files/4037/favicon.ico" />
+
+  
+
+
+  <link href="http://app-assets3.sportngin.com/site_stylesheets/4037/page_elements.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets3.sportngin.com/site_stylesheets/4037/sports.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets1.sportngin.com/site_stylesheets/4037/classic_v2.css?1427213208" id="LayoutThemeCSS" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets1.sportngin.com/site_stylesheets/4037/jquery_treeTable.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+
+  <!--[if IE 9]>
+  <script type="text/javascript" charset="utf-8">var IE = "9";</script>
+  <link href="http://app-assets2.sportngin.com/stylesheets/ie9/default_ie9.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">var IE = "8";</script>
+<![endif]-->
+
+<!--[if IE 7]>
+  <script type="text/javascript" charset="utf-8">var IE = "7";</script>
+<![endif]-->
+
+<!--[if IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if lte IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if !IE]><!--><script type="text/javascript" charset="utf-8">var IE = null;</script><!-- <![endif]-->
+
+
+  
+
+  <link href="http://app-assets1.sportngin.com/stylesheets/print/website_print.css?1427213208" media="print" rel="stylesheet" type="text/css" />
+
+  <script type='text/javascript' src='/javascripts/jquery/jquery-1.7.1.min.js'></script>
+<script type='text/javascript'>
+  var $j = jQuery.noConflict();
+</script>
+
+
+  
+  <link href="http://assets.ngin.com/site_files/4037/4037_styles.css" media="screen" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    
+  </style>
+
+
+
+  
+
+  <script protocol="http://" src="http://app-assets3.sportngin.com/javascripts/base_packaged.js?1427312913" type="text/javascript"></script>
+
+  <script src="http://app-assets3.sportngin.com/javascripts/dropdown_nav.js?1427312913" type="text/javascript"></script>
+
+  
+  
+
+      <meta property="og:title" content="Staff"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.normansoccer.org/page/show/903996-staff"/>
+    <meta property="og:site_name" content="Norman Youth Soccer Association"/>
+
+    <script src="http://app-assets2.sportngin.com/javascripts/themes/.js?1427312913" type="text/javascript"></script>
+
+
+  
+    <!-- dynamic head code -->
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-821370-1']);
+    _gaq.push(['_setDomainName', 'normansoccer.org']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setCustomVar', 1, 'Product','sport-ngin',3]);
+    _gaq.push(['_setCustomVar', 2, 'Sport','soccer',3]);
+    _gaq.push(['_setCustomVar', 3, 'SiteID','4037',3]);
+    _gaq.push(['_setCustomVar', 4, 'State','OK',3]);
+    _gaq.push(['_setCustomVar', 5, 'DMA','',3]);
+
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+
+  <!-- Quantcast Tag -->
+  <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+      var elem = document.createElement('script');
+
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+      _qevents.push({
+        qacct: "p-56Ph9bjA0FOcE",
+        labels: "Product.sport-ngin, Sport.soccer, State.OK, Site.4037, Ads.No"
+      });
+  </script>
+  <noscript>
+    <div style="display:none;">
+      <img alt="Quantcast" border="0" height="1" src="https://pixel.quantserve.com/pixel/p-56Ph9bjA0FOcE.gif" width="1" />
+    </div>
+  </noscript>
+  <!-- End Quantcast tag -->
+
+
+  <script type="text/javascript">var RecaptchaOptions = { theme : 'clean', tabindex : 3 };</script>
+  <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+
+</head>
+
+<body class="classic_v2 user_mode">
+
+
+    <script src="http://app-assets3.sportngin.com/javascripts/connect.facebook.net.en_US.all.js#xfbml=1?1427213208" type="text/javascript"></script>
+
+  <a href="#yieldContent" style="color:#FFF;position:absolute;height:1px;width:1px;left:-9999px;">skip navigation</a>
+
+  
+
+  <div id="top"></div>
+  
+  
+  
+
+
+  <div id="siteContainer2" class="siteContainer two_panel">
+    <ul id="accountNav">
+  
+    <li class="currentSite">
+      <a href="http://www.normansoccer.org" title="Norman Youth Soccer Association Homepage"></a>
+    </li>
+    <li class='enabled' id='login'><span><a href="https://login.sportngin.com" class="enabled" title="Login">Login</a></span></li>
+    <li class='secondary enabled' id='account_new'><span><a href="/users/new" class="secondary enabled" title="Create an Account">Create an Account</a></span></li>
+  
+  
+    <li class="nginLogo"><a href="http://www.sportngin.com/?utm_source=http://www.normansoccer.org&utm_medium=usertopnav&utm_campaign=applications" onclick="javascript:window.location=('http://www.sportngin.com/?utm_source=http://www.normansoccer.org&utm_medium=usertopnav&utm_campaign=applications'); return false;">Sport Ngin</a></li>
+
+
+</ul>
+
+    <div id="siteHeader" class="bannerGraphic">
+          <h1><a href="http://www.normansoccer.org" title="Norman Youth Soccer Association Homepage">Norman Youth Soccer Association</a></h1>
+  
+  
+  
+</div>
+
+    <div id="topNav">
+        <table>
+  <tr>
+      <td align="center" class="home enabled firstNavElement" id="top_nav_node_page_node_842228">
+        <a id="nav_id-page_node_842228" href="/page/show/842228-home" title="click to go to &#x27;Home&#x27;"  >
+          Home
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/1231965-pride-club" class="" title="click to go to &#x27;Pride Club&#x27;" >
+                Pride Club
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904630-nysa-soccer-shop-" class="" title="click to go to &#x27;NYSA Soccer Shop &#x27;" >
+                NYSA Soccer Shop
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1194710-topsoccer-the-opportunity-to-play-soccer" class="" title="click to go to &#x27;TOPSOCCER-THE OPPORTUNITY TO PLAY SOCCER&#x27;" >
+                TOPSOCCER
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1375613-nysa-golf-classic" class="" title="click to go to &#x27;NYSA Golf Classic&#x27;" >
+                NYSA Golf Classic
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1239324-electric-pride-5k-and-fun-run" class="" title="click to go to &#x27;Electric PRIDE 5K and Fun Run&#x27;" >
+                Electric PRIDE 5K
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904566-referee" class="" title="click to go to &#x27;Referee&#x27;" >
+                Referee
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904690-private-lessons-" class="" title="click to go to &#x27;Private Lessons &#x27;" >
+                Private Lessons
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1205499-lost-and-found-" class="" title="click to go to &#x27;Lost and Found &#x27;" >
+                Lost and Found
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1212620-privacy-policy" class="" title="click to go to &#x27;Privacy Policy&#x27;" >
+                Privacy
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1212623-nysa-forms" class="" title="click to go to &#x27;NYSA Forms&#x27;" >
+                Forms
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="http://http://assets.ngin.com/attachments/document/0056/2920/PRIDE_Club_flyer_April_2014.pdf" class="" title="NYSA P.R.I.D.E. Club" target=_self>
+                    P.R.I.D.E.Club
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://www.oksoccer.com" class="" title="Oklahoma Soccer Association"  target=_self>
+                OSA
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1519019-gotsport-tutorials" class="" title="click to go to &#x27;Gotsport Tutorials&#x27;" >
+                Gotsport
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_903990">
+        <a id="nav_id-page_node_903990" href="/page/show/903990-about-us-" title="click to go to &#x27;About Us &#x27;"  >
+          About Us
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/903996-staff" class="" title="click to go to &#x27;Staff&#x27;" >
+                Staff
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/904645-don-rother" class="" title="click to go to &#x27;Don Rother&#x27;" >
+                    Don Rother
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904649-ryan-trudgian-" class="" title="click to go to &#x27;Ryan Trudgian &#x27;" >
+                    Ryan Trudgian
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904652-geo-claros-" class="" title="click to go to &#x27;Geo Claros &#x27;" >
+                    Geo Claros
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904650-anthony-yousey-" class="" title="click to go to &#x27;Anthony Yousey &#x27;" >
+                    Anthony Yousey
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904646-jessica-knehans" class="" title="click to go to &#x27;Jessica Knehans&#x27;" >
+                    Jessica Knehans
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904647-tyler-hardage-" class="" title="click to go to &#x27;Tyler Hardage &#x27;" >
+                    Tyler Hardage
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904648-graeme-abel-" class="" title="click to go to &#x27;Graeme Abel &#x27;" >
+                    Graeme Abel
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904655-katie-abel" class="" title="click to go to &#x27;Katie Abel&#x27;" >
+                    Katie Abel
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1565999-tatum-hodge" class="" title="click to go to &#x27;Tatum Hodge&#x27;" >
+                    Tatum Hodge
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904657-dustin-hooker-" class="" title="click to go to &#x27;Dustin Hooker &#x27;" >
+                    Dustin Hooker
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904658-matt-worden-" class="" title="click to go to &#x27;Matt Worden &#x27;" >
+                    Matt Worden
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904653-chad-wells" class="" title="click to go to &#x27;Chad Wells&#x27;" >
+                    Chad Wells
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904661-mike-white" class="" title="click to go to &#x27;Mike White&#x27;" >
+                    Mike White
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904667-taylor-fain-" class="" title="click to go to &#x27;Taylor Fain &#x27;" >
+                    Taylor Fain
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904671-zac-bice-" class="" title="click to go to &#x27;Zac Bice &#x27;" >
+                    Zac Bice
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904676-evan-dresel-" class="" title="click to go to &#x27;Evan Dresel &#x27;" >
+                    Evan Dresel
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904678-jeremy-hymel" class="" title="click to go to &#x27;Jeremy Hymel&#x27;" >
+                    Jeremy Hymel
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1567655-mo-boreham" class="" title="click to go to &#x27;Mo Boreham&#x27;" >
+                    Mo Boreham
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904680-ade-okedjl-" class="" title="click to go to &#x27;Ade Okedjl &#x27;" >
+                    Ade Okedjl
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904681-mauro-cichero-" class="" title="click to go to &#x27;Mauro Cichero &#x27;" >
+                    Mauro Cichero
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/904684-khalil-benaliouihaj" class="" title="click to go to &#x27;Khalil Benaliouihaj&#x27;" >
+                    Khalil Benalioulhaj
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1566060-damon-solomon" class="" title="click to go to &#x27;Damon Solomon&#x27;" >
+                    Damon Solomon
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1567652-sam-taylor" class="" title="click to go to &#x27;Sam Taylor&#x27;" >
+                    Sam Taylor
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/904037-faq" class="" title="click to go to &#x27;FAQ&#x27;" >
+                FAQ
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/907522-contact" class="" title="click to go to &#x27;Contact&#x27;" >
+                Contact
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1203518-nysa-mission-statement" class="" title="click to go to &#x27;NYSA Mission Statement&#x27;" >
+                Mission
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1246376-nysa-boeard-meeting-minutes" class="" title="click to go to &#x27;NYSA boeard meeting minutes&#x27;" >
+                Board Minutes
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_904580">
+        <a id="nav_id-page_node_904580" href="/page/show/904580-competitive-" title="click to go to &#x27;Competitive &#x27;"  >
+          Competitive
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/904775-program-information-" class="" title="click to go to &#x27;Program Information &#x27;" >
+                Program Information 
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904777-training-" class="" title="click to go to &#x27;Training &#x27;" >
+                Training
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904779-financial-" class="" title="click to go to &#x27;Financial &#x27;" >
+                Financial 
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904781-staff" class="" title="click to go to &#x27;Staff&#x27;" >
+                Staff
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904783-tryouts-" class="" title="click to go to &#x27;Tryouts &#x27;" >
+                Tryouts
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904769-teams-" class="" title="click to go to &#x27;Teams &#x27;" >
+                Teams
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/906789-celtic-97-2012-2014-" class="" title="click to go to &#x27;Boys Celtic 97 &#x27;" >
+                    Celtic 97 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906791-celtic-97-pride-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 97 Pride&#x27;" >
+                    Celtic 97 Pride
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906794-celtic-98-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 98 &#x27;" >
+                    Celtic 98
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906797-celtic-99-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 99 &#x27;" >
+                    Celtic 99 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906799-celtic-99-pride-2014-2015-" class="" title="click to go to &#x27;Boys Celtic 99 Pride&#x27;" >
+                    Celtic 99 Pride
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906801-celtic-00-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 00 &#x27;" >
+                    Celtic 00 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906806-celtic-01-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 01&#x27;" >
+                    Celtic 01 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906808-celtic-01-pride-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 01 Pride&#x27;" >
+                    Celtic 01 Pride
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906810-celtic-01-02-hoops-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 01/02 Hoops&#x27;" >
+                    Celtic 01/02 Hoops 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1198301-celtic-02-2014-" class="" title="click to go to &#x27;Celtic 02 &#x27;" >
+                    Celtic 02 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906812-celtic-02-pride-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 02 Pride&#x27;" >
+                    Celtic 02 Pride
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906814-celtic-03-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 03&#x27;" >
+                    Celtic 03
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906816-celtic-04-2013-2014-" class="" title="click to go to &#x27;Boys Celtic 04&#x27;" >
+                    Celtic 04
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906820-fury-97-2013-2014-" class="" title="click to go to &#x27;Girls Fury 97 &#x27;" >
+                    Fury 97 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906822-fury-98-2013-2014-" class="" title="click to go to &#x27;Girls Fury 98 &#x27;" >
+                    Fury 98 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906824-fury-99-2013-2014-" class="" title="click to go to &#x27;Girls Furry 99 &#x27;" >
+                    Fury 99 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906826-fury-00-2013-2014-" class="" title="click to go to &#x27;Girls Fury 00&#x27;" >
+                    Fury 00
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906828-fury-00-pride-2013-2014-" class="" title="click to go to &#x27;Girls Fury 00 Pride&#x27;" >
+                    Fury 00 Pride
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906830-fury-01-2013-2014-" class="" title="click to go to &#x27;Girls Fury 01&#x27;" >
+                    Fury 01
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906835-fury-02-2013-2014-" class="" title="click to go to &#x27;Girls Fury 02&#x27;" >
+                    Fury 02
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906837-fury-02-pride-2013-2014-" class="" title="click to go to &#x27;Girls Fury 02 Pride&#x27;" >
+                    Fury 02 Pride
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906839-fury-03-2013-2014-" class="" title="click to go to &#x27;Girls Fury 03&#x27;" >
+                    Fury 03 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906841-fury-03-pride-2013-2014-" class="" title="click to go to &#x27;Girls Fury 03 Pride&#x27;" >
+                    Fury 03 Pride
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/1199167-nysa-skills" class="" title="click to go to &#x27;NYSA SKILLS&#x27;" >
+                NYSA SKILLS
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_904581">
+        <a id="nav_id-page_node_904581" href="/page/show/904581-recreational-" title="click to go to &#x27;Recreational &#x27;"  >
+          Recreational
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/904829-program-information" class="" title="click to go to &#x27;Program Information&#x27;" >
+                Program Information
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/906451-u4-program" class="" title="click to go to &#x27;U4 Program&#x27;" >
+                    U4 Program 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906454-u5-program-" class="" title="click to go to &#x27;U5 Program &#x27;" >
+                    U5 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906456-u6-program-" class="" title="click to go to &#x27;U6 Program &#x27;" >
+                    U6 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906458-u7-program-" class="" title="click to go to &#x27;U7 Program &#x27;" >
+                    U7 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906459-u8-program-" class="" title="click to go to &#x27;U8 Program &#x27;" >
+                    U8 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906460-u9-program-" class="" title="click to go to &#x27;U9 Program &#x27;" >
+                    U9 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906462-u10-program-" class="" title="click to go to &#x27;U10 Program &#x27;" >
+                    U10 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906463-u11-program-" class="" title="click to go to &#x27;U11 Program &#x27;" >
+                    U11 Program
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/906464-u12-program-" class="" title="click to go to &#x27;U12 Program &#x27;" >
+                    U12 Program
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/904830-rules-" class="" title="click to go to &#x27;Rules &#x27;" >
+                Rules
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904832-coaching-help-" class="" title="click to go to &#x27;Coaching Help &#x27;" >
+                Coaching Help
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904833-coaches-contact" class="" title="click to go to &#x27;Coaches Contact&#x27;" >
+                Coaches Contact
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904834-traveling-team" class="" title="click to go to &#x27;Traveling Team&#x27;" >
+                Traveling Team
+                
+              </a>
+            </li>
+            <li>
+              <a href="http://events.gotsport.com/events/Default.aspx?EventID=44169" class="" title="Recreational Schedule"  target=_blank>
+                Schedules
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/907588-reschedule-policy-" class="" title="click to go to &#x27;Reschedule Policy &#x27;" >
+                Reschedule Policy
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_904583">
+        <a id="nav_id-page_node_904583" href="/page/show/904583-academy-" title="click to go to &#x27;Academy &#x27;"  >
+          Academy
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/904836-program-information-" class="" title="click to go to &#x27;Program Information &#x27;" >
+                Program Information
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904837-training-" class="" title="click to go to &#x27;Training &#x27;" >
+                Training
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904839-coaches-" class="" title="click to go to &#x27;Coaches &#x27;" >
+                Coaches 
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904841-jugglernauts" class="" title="click to go to &#x27;Jugglernauts&#x27;" >
+                Jugglernauts
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1195894-premier-youth-development-league" class="" title="click to go to &#x27;Premier Youth Development League&#x27;" >
+                PYDL
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1195895-academy-schedules" class="" title="click to go to &#x27;Academy Schedules&#x27;" >
+                Schedules
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1214744-nysa-skills" class="" title="click to go to &#x27;NYSA SKILLS&#x27;" >
+                NYSA SKILLS
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_904584">
+        <a id="nav_id-page_node_904584" href="/page/show/904584-adults-" title="click to go to &#x27;Adults &#x27;"  >
+          Adults
+        </a>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_844968">
+        <a id="nav_id-page_node_844968" href="/page/show/844968-tournaments" title="click to go to &#x27;Tournaments&#x27;"  >
+          Tournaments
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/904268-osc-classic-cup" class="" title="click to go to &#x27;OSC Classic Cup&#x27;" >
+                OSC Classic Cup 
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904269-sooner-soccerfest-" class="" title="click to go to &#x27;Sooner SoccerFest &#x27;" >
+                Sooner SoccerFest
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904272-orange-leaf-invitational" class="" title="click to go to &#x27;Orange Leaf Invitational&#x27;" >
+                Orange Leaf Invitationa
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_844969">
+        <a id="nav_id-page_node_844969" href="/page/show/844969--camps" title="click to go to &#x27; Camps&#x27;"  >
+           Camps
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/904275-striker-keeper-" class="" title="click to go to &#x27;Striker/Keeper &#x27;" >
+                Striker/Keeper
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904281-competitive-" class="" title="click to go to &#x27;Competitive &#x27;" >
+                Competitive
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904284-academy-" class="" title="click to go to &#x27;Academy &#x27;" >
+                Academy
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/904283-recreational-" class="" title="click to go to &#x27;Recreational &#x27;" >
+                Recreational
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1195706-nysa-college-prep-camp" class="" title="click to go to &#x27;NYSA College Prep Camp&#x27;" >
+                College Prep Camp
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1195732--the-next-4-years-" class="" title="click to go to &#x27;&quot;The Next 4 Years&quot;&#x27;" >
+                Pre HS Girls
+                
+              </a>
+            </li>
+            <li>
+              <a href="http://www.obubison.com/f/Summer_Camps.php" class="" title="OBU Summer Camps"  target=_blank>
+                OBU Summer Camps
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled lastNavElement" id="top_nav_node_page_node_904169">
+        <a id="nav_id-page_node_904169" href="/page/show/904169-calendar" title="click to go to &#x27;Calendar&#x27;"  >
+          Calendar
+        </a>
+      </td>
+
+
+
+  </tr>
+</table>
+
+<script type="text/javascript">
+  dropdown_nav_init();
+</script>
+
+
+</div>
+
+<script type="text/javascript">
+  function topNavSelect(){
+	   $j('#nav_id-page_node_903990').addClass('selected').closest('td').addClass('selected');
+  }
+</script>
+
+<script type="text/javascript" charset="utf-8">
+  $j(function(){
+    $j('#topNav').trigger('topnav.loaded');
+  });
+</script>
+
+
+    
+    <div id="pageContentContainer">
+      
+        <div id="panelOne">
+          <div class="subNavContainer">
+  <div class="subNav">
+    <h4>Current Section</h4>
+      <ul class="parents" id="parent_nodes">
+            <li id="page_node_903990" class="enabled"><a href="/page/show/903990-about-us-" title="click to go to 'About Us '">About Us</a></li>
+        <li id="page_node_903996" class="enabled selected"><a href="/page/show/903996-staff" title="click to go to 'Staff'">Staff</a></li>
+      </ul>
+
+      <ul class="children" id="child_nodes">
+          <li id="page_node_904645" class="enabled"><a href="/page/show/904645-don-rother" title="click to go to 'Don Rother'">Don Rother</a></li>
+          <li id="page_node_904649" class="enabled"><a href="/page/show/904649-ryan-trudgian-" title="click to go to 'Ryan Trudgian '">Ryan Trudgian</a></li>
+          <li id="page_node_904652" class="enabled"><a href="/page/show/904652-geo-claros-" title="click to go to 'Geo Claros '">Geo Claros</a></li>
+          <li id="page_node_904650" class="enabled"><a href="/page/show/904650-anthony-yousey-" title="click to go to 'Anthony Yousey '">Anthony Yousey</a></li>
+          <li id="page_node_904646" class="enabled"><a href="/page/show/904646-jessica-knehans" title="click to go to 'Jessica Knehans'">Jessica Knehans</a></li>
+          <li id="page_node_904647" class="enabled"><a href="/page/show/904647-tyler-hardage-" title="click to go to 'Tyler Hardage '">Tyler Hardage</a></li>
+          <li id="page_node_904648" class="enabled"><a href="/page/show/904648-graeme-abel-" title="click to go to 'Graeme Abel '">Graeme Abel</a></li>
+          <li id="page_node_904655" class="enabled"><a href="/page/show/904655-katie-abel" title="click to go to 'Katie Abel'">Katie Abel</a></li>
+          <li id="page_node_1565999" class="enabled"><a href="/page/show/1565999-tatum-hodge" title="click to go to 'Tatum Hodge'">Tatum Hodge</a></li>
+          <li id="page_node_904657" class="enabled"><a href="/page/show/904657-dustin-hooker-" title="click to go to 'Dustin Hooker '">Dustin Hooker</a></li>
+          <li id="page_node_904658" class="enabled"><a href="/page/show/904658-matt-worden-" title="click to go to 'Matt Worden '">Matt Worden</a></li>
+          <li id="page_node_904653" class="enabled"><a href="/page/show/904653-chad-wells" title="click to go to 'Chad Wells'">Chad Wells</a></li>
+          <li id="page_node_904661" class="enabled"><a href="/page/show/904661-mike-white" title="click to go to 'Mike White'">Mike White</a></li>
+          <li id="page_node_904667" class="enabled"><a href="/page/show/904667-taylor-fain-" title="click to go to 'Taylor Fain '">Taylor Fain</a></li>
+          <li id="page_node_904671" class="enabled"><a href="/page/show/904671-zac-bice-" title="click to go to 'Zac Bice '">Zac Bice</a></li>
+          <li id="page_node_904676" class="enabled"><a href="/page/show/904676-evan-dresel-" title="click to go to 'Evan Dresel '">Evan Dresel</a></li>
+          <li id="page_node_904678" class="enabled"><a href="/page/show/904678-jeremy-hymel" title="click to go to 'Jeremy Hymel'">Jeremy Hymel</a></li>
+          <li id="page_node_1567655" class="enabled"><a href="/page/show/1567655-mo-boreham" title="click to go to 'Mo Boreham'">Mo Boreham</a></li>
+          <li id="page_node_904680" class="enabled"><a href="/page/show/904680-ade-okedjl-" title="click to go to 'Ade Okedjl '">Ade Okedjl</a></li>
+          <li id="page_node_904681" class="enabled"><a href="/page/show/904681-mauro-cichero-" title="click to go to 'Mauro Cichero '">Mauro Cichero</a></li>
+          <li id="page_node_904684" class="enabled"><a href="/page/show/904684-khalil-benaliouihaj" title="click to go to 'Khalil Benaliouihaj'">Khalil Benalioulhaj</a></li>
+          <li id="page_node_1566060" class="enabled"><a href="/page/show/1566060-damon-solomon" title="click to go to 'Damon Solomon'">Damon Solomon</a></li>
+          <li id="page_node_1567652" class="enabled"><a href="/page/show/1567652-sam-taylor" title="click to go to 'Sam Taylor'">Sam Taylor</a></li>
+      </ul>
+  </div>
+
+    <div class="relatedSections">
+      <h4>Related Pages</h4>
+      <ul class="siblings" id="sibling_nodes">
+          <li id="page_node_903996" class="enabled selected"><a href="/page/show/903996-staff" title="click to go to 'Staff'">Staff</a></li>
+          <li id="page_node_904037" class="enabled"><a href="/page/show/904037-faq" title="click to go to 'FAQ'">FAQ</a></li>
+          <li id="page_node_907522" class="enabled"><a href="/page/show/907522-contact" title="click to go to 'Contact'">Contact</a></li>
+          <li id="page_node_1203518" class="enabled"><a href="/page/show/1203518-nysa-mission-statement" title="click to go to 'NYSA Mission Statement'">Mission</a></li>
+          <li id="page_node_1246376" class="enabled"><a href="/page/show/1246376-nysa-boeard-meeting-minutes" title="click to go to 'NYSA boeard meeting minutes'">Board Minutes</a></li>
+      </ul>
+    </div>
+</div>
+
+
+
+          <div id="leftHandGraphics">
+      <div class="clientGraphic image">
+          <a href="https://www.normanregional.com/en/index.html" target="_self"><img alt="Nrh_health_system_rgb" src="http://cdn2.sportngin.com/attachments/lefthand_graphic/3451/7513/NRH_Health_System_RGB.jpg" /></a>
+      </div>
+      <div class="clientGraphic image">
+          <a href="http://www.orthonorman.com" target="_blank"><img alt="Osc_2" src="http://cdn1.sportngin.com/attachments/lefthand_graphic/4346/1324/osc_2.png" /></a>
+      </div>
+
+
+</div>
+
+
+
+        </div><!-- closing panelOne -->
+      <div id="panelTwo">
+        <div id="displayBodyContent">
+          <div id="yieldContent">
+              <h2 id="displayBodyHeader" class=""><span>Staff</span></h2>
+
+
+            <div id="errorNotice">
+  
+  
+  
+  
+</div>
+
+
+
+            <div class='yieldAdminContent'></div>
+            <div class='yieldPageContent'>
+                    
+
+        <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_33551315" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="21_element_view" src="http://cdn2.sportngin.com/attachments/sponsor/2653/0794/21_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Don Rother</h3>
+		<p>Director of Coaching<br />
+Cell:&nbsp;405-650-1881<br />
+Work:&nbsp;405-573-0700<br />
+Email:&nbsp; <a href="mailto:don.rother@normansoccer.org">don.rother@normansoccer.org</a><br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904645-don-rother">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_33551813" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Jessica Knehans </h3>
+		<p>Girls Recreational Director<br />
+Coach: &nbsp;Fury 05, Fury 06, Fury 08<br />
+Phone:&nbsp;405-473-6199<br />
+Email: &nbsp;jknehans1@gmail.com</p>
+
+<p><br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904646-jessica-knehans">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553457" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="10458999_1453077071636928_4432024872014964909_o__2__element_view" src="http://cdn1.sportngin.com/attachments/sponsor/4363/3178/10458999_1453077071636928_4432024872014964909_o__2__element_view.jpg" /></span>
+	<div class="description">
+		<h3>Ryan Trudgian</h3>
+		<p>U15-U18 Age Group Coordinator<br />
+Coach: &nbsp;Celtic 99, Celtic 97, Fury 98<br />
+Phone:&nbsp;405-824-1685<br />
+Email: &nbsp;rtrudgiannysa@gmail.com</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904649-ryan-trudgian-">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553805" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Chad Wells</h3>
+		<p>Goal Keeper Trainer/Coach<br />
+Coach: &nbsp;Celtic 97 Pride<br />
+Phone:&nbsp;405-996-0882<br />
+Email: &nbsp;cwells6501@gmail.com</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904653-chad-wells">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554187" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Thumbimage.aspx_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/5194/thumbimage.aspx_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Matt Worden</h3>
+		<p>Staff Coach<br />
+Coach: Fury 02 Pride, Fury 04 Pride, Celtic 01/02 Hoops<br />
+Phone:&nbsp;208-473-0238<br />
+Email: &nbsp;mwordensoccer@yahoo.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904658-matt-worden-">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554322" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="9080967_small_element_view" src="http://cdn3.sportngin.com/attachments/sponsor/4353/4963/9080967_small_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Tatum Hodge</h3>
+		<p>Staff Coach<br />
+Coach: Fury 06,&nbsp;Fury 08<br />
+Phone:&nbsp;205-534-9778<br />
+Email: &nbsp;tatumclowneyhodge@gmail.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org/page/show/1565999" target="_blank">Bio</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554459" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Evan_dresel_element_view" src="http://cdn3.sportngin.com/attachments/sponsor/4353/5123/Evan_Dresel_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Evan Dresel </h3>
+		<p>Staff Coach<br />
+Coach: Celtic 98, Celtic 00<br />
+Phone:&nbsp;405-519-2611<br />
+Email: &nbsp;edresel@macu.edu</p>
+
+<p><br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904676-evan-dresel-">Bio</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553754" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Geo_element_view" src="http://cdn2.sportngin.com/attachments/sponsor/4353/5216/geo_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Geo Claros</h3>
+		<p>U11-U14 Age Group Coordinator<br />
+Coach: Celtic 02, Celtic 03<br />
+Phone:&nbsp;405-550-4753<br />
+Email: &nbsp;okgac15@gmail.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904652-geo-claros-">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554271" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="6269_element_view" src="http://cdn3.sportngin.com/attachments/sponsor/4353/5267/6269_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Damon Solomon</h3>
+		<p>Staff Coach<br />
+Coach: Celtic 04 Pride<br />
+Phone:&nbsp;405-736-0372<br />
+Email: &nbsp;dsolomon@rose.edu<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/1566060-damon-solomon">Bio</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554533" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Ade Okediji</h3>
+		<p>Staff Coach&nbsp;<br />
+Coach: &nbsp;Celtic 99 Pride, Celtic 01<br />
+Phone: 405-595-9050<br />
+Email: &nbsp;aokediji@okcu.edu</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904680-ade-okedjl-">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554961" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Khalil_benalioulhaj_86_mso_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/5405/khalil_benalioulhaj_86_mso_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Khalil Benalioulhaj</h3>
+		<p>Staff Coach<br />
+Coach:&nbsp;Fury 00 Pride, Celtic 05<br />
+Phone: 405-923-6605<br />
+Email: khalilbenalioulhaj@gmail.com</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904684-khalil-benaliouihaj">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_66319992" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Sam Taylor</h3>
+		<p>Staff Coach<br />
+Coach: Celtic 02 Pride, Celtic 06, Celtic 05<br />
+Phone: 405-819-1376<br />
+Email:&nbsp; <a href="mailto:samtaylor193@hotmail.com">samtaylor193@hotmail.com</a><br />
+<br />
+<a href="http://www.normansoccer.org/page/show/1567652-sam-taylor">Bio:</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_118815868" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: left;"><span>Mo Boreham</span></h3>
+
+
+	    <div class="leftTextImage smallTextImage" style="width:150px; min-height:150px">
+
+
+      <img alt="" src="http://cdn1.sportngin.com/attachments/text_block/4353/5542/01KqQ_QL_small.jpg" style="width: 150px" />
+
+
+    
+  </div>
+
+    <div class="text clearfix">
+    <p>Staff Coach<br />
+Coach:&nbsp; Celtic 05<br />
+Phone:&nbsp; 405-312-1139<br />
+Email:&nbsp; <a href="mailto:moboreham@Hotmail.com">moboreham@Hotmail.com</a><br />
+<br />
+<a href="http://www.normansoccer.org/page/show/1567655-mo-boreham">Bio:</a></p>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_33552050" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Tyler Hardage </h3>
+		<p>Boys Recreational Director<br />
+Coach: &nbsp;Celtic 06, Celtic 08<br />
+Phone:&nbsp;405-818-1624<br />
+Email: &nbsp;tylerhardage@gmail.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904647-tyler-hardage-">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553684" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Anthony-yousey_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/5035/Anthony-yousey_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Anthony Yousey </h3>
+		<p>Technical Director<br />
+Coach: &nbsp;Celtic 04, Celtic 05, Celtic 07<br />
+Phone:&nbsp;405-514-7840<br />
+Email: &nbsp;anthony.yousey@okbu.edu<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904650-anthony-yousey-">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553859" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Jzcvgtjbzjggpkg.20130515190456_element_view" src="http://cdn1.sportngin.com/attachments/sponsor/4353/5139/JZCVGTJBZJGGPKG.20130515190456_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Katie Abel</h3>
+		<p>Staff Coach<br />
+Coach: &nbsp;Fury 05, Fury 07<br />
+Phone:&nbsp;206-612-9181<br />
+Email: &nbsp;schoene1019@hotmail.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904655-katie-schoene-">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554238" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Mike_white_86_wso_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/4980/mike_white_86_wso_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Mike White </h3>
+		<p>Staff Coach<br />
+Coach: &nbsp;Fury 00, Fury 07<br />
+Phone:&nbsp;405-788-2046<br />
+Email: &nbsp;coachmw17@yahoo.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904661-mike-white">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554367" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="3299681_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/5205/3299681_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Taylor Fain </h3>
+		<p>Coach Staff<br />
+Coach: &nbsp;Fury 05<br />
+Phone:&nbsp;405-974-1604<br />
+Email: &nbsp;tfain16@yahoo.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904667-taylor-fain-">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554475" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Jeremy_hymel_86_wso_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/4988/jeremy_hymel_86_wso_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Jeremy Hymel</h3>
+		<p>Staff Coach<br />
+Coach: &nbsp;Fury 03 Pride, Fury 05<br />
+Phone: &nbsp;405-818-4874<br />
+Email: &nbsp;jhymel9@yahoo.com</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904678-jeremy-hymel">Bio</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553316" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Bkrrdnrjbhaceek.20130613090206_element_view" src="http://cdn2.sportngin.com/attachments/sponsor/4353/5162/BKRRDNRJBHACEEK.20130613090206_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Graeme Abel </h3>
+		<p>Keeper Trainer<br />
+Phone:&nbsp;405-431-8634<br />
+Email: &nbsp;graemeabel@ou.edu<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904648-graeme-abel-">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554817" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Nick_pettit_86_mso_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/5064/nick_pettit_86_mso_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Nick Pettit</h3>
+		<p>Staff Coach<br />
+Coach: Celtic 98 Pride, Celtic 01 Pride<br />
+Phone: &nbsp;405-640-5358<br />
+Email: nick.pettit@okbu.edu<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org/page/show/1566068-nick-petit">Bio</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33553915" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Dustin Hooker </h3>
+		<p>Staff Coach/Tournament Director<br />
+Coach: Fury 01, Fury 02<br />
+Phone:&nbsp;479-659-4353<br />
+Email: &nbsp;dustin.hooker@tts-us.com<br />
+&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904657-dustin-hooker-">Bio</a>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554392" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Zach_bice_element_view" src="http://cdn4.sportngin.com/attachments/sponsor/4353/5091/Zach_Bice_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Zac Bice </h3>
+		<p>Staff Coach<br />
+Coach: Celtic 05<br />
+Phone: &nbsp;405-706-8977<br />
+zbice@macu.edu</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/904671-zac-rice-">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_33554836" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+			<span class="imageLink"><img alt="Headshot_1_cabello_kevin_0142_element_view" src="http://cdn3.sportngin.com/attachments/sponsor/4353/5501/headshot_1_Cabello_Kevin_0142_element_view.jpg" /></span>
+	<div class="description">
+		<h3>Kevin Cabello</h3>
+		<p>Staff Coach<br />
+Phone:&nbsp;405-818-4831<br />
+Email: &nbsp;kjcabello@sbcglobal.net</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/1566068-nick-petit">Bio&nbsp;</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_118839985" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: left;"><span>Kyle Kleeburg</span></h3>
+
+
+	    <div class="leftTextImage smallTextImage" style="width:100px; min-height:150px">
+
+
+      <img alt="" src="http://cdn2.sportngin.com/attachments/text_block/4353/4942/kyle_kleeburg_86_wso_small.jpg" style="width: 100px" />
+
+
+    
+  </div>
+
+    <div class="text clearfix">
+    <p>Staff Coach<br />
+Coach: Celtic 04 Hoops, Celtic 06, Celtic 07<br />
+Phone: 972-768-9967<br />
+Email: kylekleeburg@yahoo.com</p>
+
+<p><a href="http://www.normansoccer.org.prod.sportngin.com/page/show/1567606-kyle-kleeburg">Bio:</a><br />
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+<br />
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+
+
+
+
+
+<script type="text/javascript">
+  var init_nss = function() {
+    var $nss = $j('.newsSlideShow-container');
+    // debug.info("Found "+$nss.length+" News Slideshow Elements");
+    $nss.each(function(){
+      var $ss = $j(this);
+      if ( ! $ss.data('activenewsslideshow') ) {
+        $ss.data('activenewsslideshow',true);
+        $ss.newsSlideShow();
+      }
+    });
+  }
+  // call on document ready for most browsers
+  init_nss();
+  // call again on window load for IE :(
+  $j(window).load(init_nss);
+  // check for new slideshow elements after valid.deactivate
+  $j('body').bind('pageElement.render',init_nss);
+</script>
+
+
+            </div>
+
+
+          </div>
+        </div>
+        <div class="clearAll"></div>
+      </div><!-- closing panelTwo -->
+
+      
+      
+      <div class="clearAll"></div>
+      
+    </div><!--  closing pageContentContainer3  -->
+  <div class="footerPush"></div>
+  </div><!--  closing siteContainer3  -->
+  
+
+  <div id="siteFooter">
+  
+    
+    
+    <ul>
+      <li>&copy;2015 Norman Youth Soccer Association / <a href="http://go.ngin.com/l/8062/2011-07-13/1D11/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications" >Sport Ngin</a>. All Rights Reserved.</li>
+      <li><a href="/legal/terms_of_use" class="legalLink">Terms of Use</a></li>
+        <li><a href="http://www.sportngin.com/legal/privacy_policy" class="legalLink">Privacy Policy</a></li>
+      <li><a href="/help" class="legalLink">Help</a></li>
+      <li></li>
+      <li id="poweredByNGIN"><a href="http://www.sportngin.com/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications" onclick="javascript:window.location=('http://www.sportngin.com/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications'); return false;"><img src="/app_images/sportngin_footer_logo.png" alt="Powered by Sport Ngin" title="Click here to learn how Sport Ngin can empower your organization!" /></a></li>
+    </ul>
+</div>
+
+  
+  
+  
+
+  
+  
+  
+</body>
+</html>

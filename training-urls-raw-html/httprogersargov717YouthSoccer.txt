@@ -1,0 +1,1430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=10">
+	<script type="text/javascript">
+		window.isResponsiveEnabled = false;
+		window.mainMenuMediaQuery = 'screen and (max-width: 40em)';
+		(function(){
+			window.devicePixelRatio = window.devicePixelRatio || Math.round(window.screen.availWidth / document.documentElement.clientWidth);
+			window.innerWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+			window.innerHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+
+			window.setSizeCookie = function () {
+				document.cookie = "dpi=" + window.devicePixelRatio + "; path=/";
+				document.cookie = "viewportWidth=" +window.innerWidth + "; path=/";
+				document.cookie = "viewportHeight=" + window.innerHeight + "; path=/";
+				if (screen && screen.width && screen.height){
+					document.cookie = "screenWidth=" + screen.width + "; path=/";
+					document.cookie = "screenHeight=" + screen.height + "; path=/";
+				}
+				document.cookie = "responsiveGhost=1; path=/";
+			};
+
+			setSizeCookie();
+		}());
+	</script>
+    
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>Youth Soccer | Rogers, AR - Official Website</title>
+	<meta name="description" content=""> 
+<link rel="stylesheet" id="fontsCSS" href="/App_Themes/Fonts-80535B93C28CCC82C0E02E73A078271C.css"/>
+	<!--[if IE 6]><script language="JavaScript" type="text/javascript"> var isie6 = true; </script><![endif]-->
+	<!--[if IE 7]><script language="JavaScript" type="text/javascript"> var isie7 = true; </script><![endif]-->
+	<!--[if IE 8]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<!--[if IE 9]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<script type="text/javascript"><!--
+	var intCountryCode = 840;
+	var externalSiteDialogHeight = '390px';
+	var order = '';
+//--></script>
+	<link href="/-565656083.css" rel="stylesheet" type="text/css" />
+	<link href="/746057121.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
+
+    <script type="text/javascript">
+    	window.Pages = window.Pages || {};
+    	// FrontEnd RWD initialization
+    	window.Pages.rwdReady = $.Deferred();
+    	window.Pages.toolBarDeferred = $.Deferred();
+    	window.Pages.rwdSetupComplete = $.Deferred();
+    	window.Pages.megaMenuLoaded = $.Deferred();
+	</script>
+	<!--CPHeadContent-->
+	<script src="/261882915.js" type="text/javascript"></script>
+	
+	
+	
+	
+	<link href="/-1575930600.css" rel="stylesheet" type="text/css" />
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/App_Themes/ie6.css"><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="/Scripts/html5.js"></script><![endif]-->
+
+    <script type="text/javascript">
+	    setEditorVariables(false, 840);
+	    function getPrintPreviewType() { return 0; } function printPreview() {pPreview(getPrintPreviewType()); }
+    </script>
+	
+</head>
+<body class=" wide">
+    <div id="fb-root"></div>
+
+    <input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
+	<input type="hidden" id="hdnStructureID" value="1" />
+	<input type="hidden" id="hdnContentCollectionID" value="e23e05e9-870e-441c-ab34-7e819cac961f" />
+	<input type="hidden" id="hdnThemeID" value="1" />
+	<input type="hidden" id="pageIsFrontEnd" value="true" />
+	<input type="hidden" id="pageModuleID" value="" />
+	<input type="hidden" id="pagePageID" value="717" />
+    
+    <div id="outer-wrap" class="outer-wrap">
+	    <div id="inner-wrap" class="inner-wrap">
+			    <div id="divToolbars" class="cpToolbars newCP" style="display: none;">
+				    
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/CP/ie7.css"><![endif]-->
+<!-- Allow Dashboard, Favorites Enabled  -->
+
+<!-- Begin Signed Out Bar -->
+<div class="cpToolbar user public">
+    <div class="inner selfClear">
+        <p class="dropdown"><a href="#moreInfo" class="myConnections">+myConnections:</a> <span class="welcomeMessage">Engage your community - connect to news, events and information you care about. &nbsp;&nbsp;</span> <a href="#moreInfo" class="moreInfo">View more information... </a></p>
+        <ul class="nav secondary">
+            <li><a href="#signIn" onclick="popupSignIn(); return false;" class="button" id="loggedOutToolbarSignInButton"><span>Sign In</span></a></li>
+        </ul>
+        <div class="menu mega moreInfo hidden" id="moreInfo">
+            <div class="pitch">
+                <div>
+                    <h1>Welcome to an Engaged Community</h1>
+                    There's a better way to <b>personalize your website experience</b>. With myConnection, the profile you create allows you to set up a unique starting point for the tasks and transactions that you want to complete in your time on this website. Use myConnection to gather the information that you most care about from across this website into one central location, giving you greater control over how you <b>connect with your community</b>.
+                    <div class="buttons" id="signedOutToolbarMoreInformationButtons">
+                        <a href="Javascript:popupSignIn();" class="button"><span>Sign In</span></a> or
+                        <a href="#CreateAnAccount" id="signedOutToolbarCreateProfileButton" class="button"><span>Create an Account</span></a>
+                    </div>
+                </div>
+                    <div class="leaderboard">
+                        <h3>Top Users </h3>
+                        <ol class="mine">
+                                <li>
+                                    <span class="rank">1</span>
+                                    <a href="/MyAccount/Profile/Karen-239" class="miniBio requireSignIn">
+                                        <img src="/ImageRepository/Path?filePath=%2fAssets%2fImages%2fProfilePlaceholder.png&amp;thumbnailSize=Thumb25x25" alt="Karen">
+                                        <p class="name">Karen</p>
+                                        <p class="reputation level1">9 points</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="rank">2</span>
+                                    <a href="/MyAccount/Profile/disneymom-235" class="miniBio requireSignIn">
+                                        <img src="/ImageRepository/Path?filePath=%2fAssets%2fImages%2fProfilePlaceholder.png&amp;thumbnailSize=Thumb25x25" alt="disneymom">
+                                        <p class="name">disneymom</p>
+                                        <p class="reputation level1">5 points</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="rank">3</span>
+                                    <a href="/MyAccount/Profile/Stacey-F-238" class="miniBio requireSignIn">
+                                        <img src="/ImageRepository/Path?filePath=%2fAssets%2fImages%2fProfilePlaceholder.png&amp;thumbnailSize=Thumb25x25" alt="Stacey F.">
+                                        <p class="name">Stacey F.</p>
+                                        <p class="reputation level1">5 points</p>
+                                    </a>
+                                </li>
+                        </ol>
+                    </div>
+            </div>
+            <div class="generated">
+                
+
+    <div class="moduleSpotlight" id="moduleSpotlight">
+
+
+<div id="moduleSpotlightFacilities" class="carouselSlide">
+	<h3>Facilities</h3>
+	<div>
+		<img alt="Facilities" src="/Areas/Facilities/Assets/Images/HomeModuleIconLarge.png">
+		<p>View your community’s facilities and features online with the new Facilities Module.</p>
+		<a href="/Facilities">View the <em>new</em> Facilities</a>
+	</div>
+</div>
+<div class="carouselSlide">
+	<h3>My Dashboard</h3>
+	<div>
+		<img alt="My Dashboard" src="/Assets/Images/DashboardShot.png">
+		<p>Personalize your online experience to stay up-to-date on news, events and other information.</p>
+		<a href="/MyAccount?from=url&url=/MyDashboard">View My Dashboard</a>
+	</div>
+</div>        
+    </div>
+
+<script src="/-212365995.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery182(document).ready(function () {
+        var $moduleSpotlight = jQuery182('#moduleSpotlight');
+
+        if ($moduleSpotlight != null && $moduleSpotlight.children().length > 1) {
+            var controlStyles = {
+                play: 'display: none;',
+                pause: 'display: none;',
+                next: "",
+                previous: ""
+            };
+
+            var wrapInlineStyles = {
+                
+            };
+
+            $moduleSpotlight.jshowoff({ speed: 10000, links: false, effect: 'none', controls: true, autoPlay: false,
+                                        controlStyles: controlStyles, wrapInlineStyles: wrapInlineStyles });
+        }
+
+        var $facilities = jQuery182('#moduleSpotlightFacilities');
+
+        if ($facilities != null) {
+            $facilities.unbind().bind({
+                click: function (e) {
+                    window.location = '/Facilities';
+                }
+            });
+        }
+    });
+</script>
+                <div class="users">
+                    <h3>Total Users</h3>
+                    <div>
+                        <p>376</p>
+                    </div>
+                </div>
+                <!--[if lte IE 7]><div class="selfClear"></div><![endif]-->
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#signedOutToolbarCreateProfileButton').keypress(function () { $(this).click(); });
+        $('#signedOutToolbarCreateProfileButton').click(function () {
+            window.location.href = '/MyAccount/ProfileCreate?from=url&url=/&dn=' + window.location.origin;
+        });
+
+        if ('False' == 'True') {
+            $('#loggedOutToolbarSignInButton').hide();
+        }
+    })
+</script>
+<!-- End Signed Out Bar -->
+
+
+			    </div>
+		    <div id="bodyWrapper">
+			    
+<div data-cpRole="structuralContainer" id="structuralContainer18">
+<div data-cpRole="banner" id="banner1"><div data-cpRole="structuralContainer" id="structuralContainer4" class="navigationWrapper">
+<div class="siteWrap"><nav data-cpRole="nav" id="mainNav" class="siteNav mainNav mainNavWrapper" role="navigation">
+<ol id="mainNavMenu" data-parent="1" class="rootNavMenu"><!--
+--><li id="MainItem9" class="topMenuItem" data-pageid="9" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavHowDoI" class="navMainItem mainNavItem mainNavItem1" href="/9/How-Do-I" target="_self">How Do I...</a><!--
+			--><!--
+			--></li><!----><li id="MainItem502" class="topMenuItem" data-pageid="502" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavCommunity" class="navMainItem mainNavItem mainNavItem2" href="/502/Community" target="_self">Community</a><!--
+			--><!--
+			--></li><!----><li id="MainItem35" class="topMenuItem" data-pageid="35" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavDoingBusiness" class="navMainItem mainNavItem mainNavItem3" href="/35/Doing-Business" target="_self">Doing Business</a><!--
+			--><!--
+			--></li><!----><li id="MainItem27" class="topMenuItem" data-pageid="27" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavYourGovernment" class="navMainItem mainNavItem mainNavItem4" href="/27/Your-Government" target="_self">Your Government</a><!--
+			--><!--
+			--></li><!----></ol>
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var menuID = 'mainNavMenu';
+			var menuType = MAIN_MENU;
+
+			//setup menu manager properties for main menu
+			if (!menuManager.mobileMainNav && true)
+				menuManager.adjustMainItemsWidth('#' + menuID);
+			menuManager.isMainMenuEditable = false;
+			menuManager.mainMenuMaxSubMenuLevels = 4;
+			menuManager.setMOMMode(2, menuType);
+
+			//Init main menu
+			var setupDraggable = menuManager.isMainMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=1&menuContainerID=mainNav';
+
+			menuManager.setupMenu(menuID, 'mainNav', menuType, setupDraggable, urlToGetHiddenMenus);
+			menuManager.mainMenuInit = true;
+			menuManager.mainMenuTextResizer = false;
+			if (0.50 > 0)
+				menuManager.mainMenuTextResizerRatio = 0.50;
+			if (window.isResponsiveEnabled)
+				menuManager.mainMenuReady.resolve();
+
+		});
+	</script>
+
+
+<aside data-cpRole="megaMenu" id="megaMenu" class="megaMenu" style="display: none;"><input type="hidden" id="megaMenuPopupDirection" value="0"><input type="hidden" id="megaMenuWidthReference" value="0"><aside data-cpRole="contentContainer" id="mainNavMegaMenu9" class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-orientation="horizontal">	<div id="cc8a680efe-85f7-4265-ba23-5665f738e807" data-containerid="8a680efe-85f7-4265-ba23-5665f738e807" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu502" class="contentTop mainNavMegaMenu megaMenuContainer pageID_502 hidden" data-orientation="horizontal">	<div id="cccb2ce2c9-b2a3-4e6c-8682-be8102e8e691" data-containerid="cb2ce2c9-b2a3-4e6c-8682-be8102e8e691" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu35" class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-orientation="horizontal">	<div id="cc064e0136-845f-4103-ba51-091b724753ce" data-containerid="064e0136-845f-4103-ba51-091b724753ce" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu27" class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-orientation="horizontal">	<div id="cc5e25aeb7-9a2c-42fa-9dac-300461013960" data-containerid="5e25aeb7-9a2c-42fa-9dac-300461013960" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside></aside></nav></div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer12">
+<div data-cpRole="structuralContainer" id="structuralContainer14">
+<div class="siteWrap"><header class="siteHeader"><h1 data-cpRole="banner" id="banner2" class="logo empty">
+
+
+
+
+
+
+			<a style="			display: block; text-align: left;
+" class="bannerObject" href="/" target="_self" ><img alt="Click to Home" class="bannerObject" src="/ImageRepository/Document?documentID=1650" /></a>
+</h1><div class="searchShareWrap"><aside data-cpRole="contentContainer" id="contentContainer7">	<div id="cc798e988a-95ea-4ca7-8b33-e3da4a6670cd" data-containerid="798e988a-95ea-4ca7-8b33-e3da4a6670cd" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+		<div class="row outer wide"><!--
+--><div class="outer col col2 first" style="" data-widgetcontainerid="af91902d-42af-4dc3-8a65-4bfd06dc110f">				
+	<div class="row nest first last wide">	
+	<div class="inner col col2 first last id5a9d0e45-4bf0-4a1c-bce0-5749c112de11" style="" data-widgetcontainerid="5a9d0e45-4bf0-4a1c-bce0-5749c112de11">
+
+<div class="widget widgetSpacer" id="a1235ff7-e6b2-4e2c-8c7f-aaf4daf5282f"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col4" style="" data-widgetcontainerid="7dda55a8-3329-4b38-a6f1-0b75dbc784cd">				
+	<div class="row nest first last wide">	
+	<div class="inner col col4 first last id488b0e89-1672-48ad-bf08-118793eec3ec" style="" data-widgetcontainerid="488b0e89-1672-48ad-bf08-118793eec3ec">
+
+<div data-widget-id="d1f83d6c-5665-4235-8ccb-1decd2e51432" data-widget-controller-path="/Layout/WidgetSiteTools">
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				setWidgetServiceClicking($("#widgetSiteToolsHeaderd1f83d6c-5665-4235-8ccb-1decd2e51432"));
+			});
+		</script>
+<section id="widgetSiteToolsd1f83d6c-5665-4235-8ccb-1decd2e51432" class="widget widgetSiteTools skin41 widgetOptionSet7 flyOutParent wide" >
+			<header id="widgetSiteToolsHeaderd1f83d6c-5665-4235-8ccb-1decd2e51432" class="widgetHeader">
+				<h3><img alt="Site Tools" class="imageHover" data-hover="/ImageRepository/Document?documentID=1524" data-image="/ImageRepository/Document?documentID=1526" src="/ImageRepository/Document?documentID=1526" /></h3>
+			</header>
+	<div id="widgetSiteToolsBodyd1f83d6c-5665-4235-8ccb-1decd2e51432" class="widgetBody blackIcons flyOut bottom leftEdge widget widgetSiteTools skin41 cpGrid cpGrid1" style="display:none;">
+         <div class="row                   
+ wide">
+	<div class="col col1 first last">
+		<ol class="semanticList">
+				<li class="widgetItem"><a class="widgetSiteToolsHome siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/\&#39;;'); return false; " href="#Home">Home</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsMyAccount siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/MyAccount\&#39;;'); return false; " href="#MyAccount">My Account</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsPrinterFriendly siteToolsService" onclick=" Core.Layout.dynamicJavascript('printPreview();'); return false; " href="#PrinterFriendly">Printer Friendly</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsEmailPage siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/EmailPage\&#39;;'); return false; " href="#EmailPage">Email Page</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsContactUs siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/directory.aspx\&#39;;'); return false; " href="#ContactUs">Contact Us</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsRSS siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/RSS.aspx\&#39;;'); return false; " href="#RSS">RSS</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsSiteMap siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/SiteMap\&#39;;'); return false; " href="#SiteMap">Site Map</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsTranslatePage siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://translate.google.com/translate?js=n&amp;sl=auto&amp;tl=es&amp;u=\&#39; + document.location.href, \&quot;TranslateWindow\&quot;);'); return false; " href="#TranslatePage">Translate Page</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsNotifications siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/list.aspx\&#39;;'); return false; " href="#Notifications">Notifications</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsDocuments siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/DocumentCenter\&#39;;'); return false; " href="#Documents">Documents</a></li>
+		</ol>
+	</div>
+		 </div>
+	</div>
+</section>
+
+
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col4" style="" data-widgetcontainerid="d82cf35d-2001-46a0-b1ca-b43a2e843ee0">				
+	<div class="row nest first last wide">	
+	<div class="inner col col4 first last ide69f141c-3569-41d8-9c41-7f18dde116b4" style="" data-widgetcontainerid="e69f141c-3569-41d8-9c41-7f18dde116b4">
+
+<div data-widget-id="70bbd6a2-e495-41c9-9bd0-142e9571a679" data-widget-controller-path="/Layout/WidgetShare">
+		<script type="text/javascript">
+			$(document).ready(function () {
+				setWidgetServiceClicking($("#widgetShareHeader70bbd6a2-e495-41c9-9bd0-142e9571a679"));
+			});
+		</script>
+<section id="widgetShare70bbd6a2-e495-41c9-9bd0-142e9571a679" class="widget widgetShare skin41 widgetOptionSet14 flyOutParent wide" >
+	<header id="widgetShareHeader70bbd6a2-e495-41c9-9bd0-142e9571a679" class="widgetHeader">
+				<h3><img alt="Share" class="imageHover" data-hover="/ImageRepository/Document?documentID=1523" data-image="/ImageRepository/Document?documentID=1525" src="/ImageRepository/Document?documentID=1525" /></h3>
+	</header>
+    <div id="widgetShareBody70bbd6a2-e495-41c9-9bd0-142e9571a679" class="widgetBody flyOut bottom leftEdge widget widgetShare skin41 cpGrid cpGrid1" style="display:none;">
+        <div class="row                   
+ wide">
+	<div class="col col1 first last">
+		<ol class="semanticList">
+				<li class="widgetItem"><a class="widgetShareFacebook shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.facebook.com/share.php?u=\&#39; + document.location.href + \&#39;&amp;t=\&#39; + document.title, \&quot;ShareWindow\&quot;);'); return false; " href="#Facebook">Facebook</a></li>
+				<li class="widgetItem"><a class="widgetShareTwitter shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;https://twitter.com/share?url=\&#39; + document.location.href + \&#39;&amp;text=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#Twitter">Twitter</a></li>
+				<li class="widgetItem"><a class="widgetShareGooglePlus shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;https://plus.google.com/share?url=\&#39; + document.location.href, \&quot;ShareWindow\&quot;);'); return false; " href="#GooglePlus">Google+</a></li>
+				<li class="widgetItem"><a class="widgetSharePinterest shareService" onclick=" Core.Layout.dynamicJavascript('var e = document.createElement(\&#39;script\&#39;);\r\n\t\t\te.setAttribute(\&#39;type\&#39;, \&#39;text/javascript\&#39;);\r\n\t\t\te.setAttribute(\&#39;charset\&#39;, \&#39;UTF-8\&#39;);\r\n\t\t\te.setAttribute(\&#39;src\&#39;, \&#39;http://assets.pinterest.com/js/pinmarklet.js?r=\&#39; + Math.random() * 99999999);\r\n\t\t\tdocument.body.appendChild(e);'); return false; " href="#Pinterest">Pinterest</a></li>
+				<li class="widgetItem"><a class="widgetShareDelicious shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://del.icio.us/post?url=\&#39; + document.location.href + \&#39;&amp;title=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#Delicious">Delicious</a></li>
+				<li class="widgetItem"><a class="widgetShareStumbleUpon shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.stumbleupon.com/submit?url=\&#39; + document.location.href + \&#39;&amp;title=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#StumbleUpon">Stumble Upon</a></li>
+				<li class="widgetItem"><a class="widgetShareBlogger shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.blogger.com/blog_this.pyra?\&#39; + document.location.href, \&quot;ShareWindow\&quot;);'); return false; " href="#Blogger">Blogger</a></li>
+				<li class="widgetItem"><a class="widgetShareLinkedIn shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.linkedin.com/shareArticle?mini=true&amp;url=\&#39; + document.location.href + \&#39;&amp;title=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#LinkedIn">LinkedIn</a></li>
+				<li class="widgetItem"><a class="widgetShareYahoo shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://bookmarks.yahoo.com/toolbar/savebm?u=\&#39; + document.location.href + \&#39;&amp;t=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#Yahoo">Yahoo!</a></li>
+				<li class="widgetItem"><a class="widgetShareWindowsLive shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://profile.live.com/badge?title=\&#39; + encodeURIComponent(document.title) + \&#39;&amp;url=\&#39; + document.location.href, \&quot;ShareWindow\&quot;);'); return false; " href="#WindowsLive">Windows Live</a></li>
+		</ol>
+	</div>
+        </div>
+    </div>
+</section>
+
+
+
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col5" style="" data-widgetcontainerid="2fdb6b1b-7f61-47e0-a32c-4b25300e7a65">				
+	<div class="row nest first last wide">	
+	<div class="inner col col5 first last ide7a405fa-f93b-4f50-ac97-f0230cd4f7ca" style="" data-widgetcontainerid="e7a405fa-f93b-4f50-ac97-f0230cd4f7ca">
+
+<div data-widget-id="be382157-ac3e-49f0-b3f8-eebcb23ed51b" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+<div id="graphicLinkWidgetbe382157-ac3e-49f0-b3f8-eebcb23ed51b" class="widget widgetGraphicLinks skin39 widgetOptionSet16 wide"  data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+		</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid3 ">	
+			<div class="row autoWidths left wide"><!--
+
+--><div class="col col1 first "><ol class="semanticList"><!--
+	--><li class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/facebook" target="">
+<img src="/ImageRepository/Path?filePath=/documents/Intranet/facebook_201403050948323688.png" 
+     alt="Facebook" 
+     border="0" 
+     onmouseover="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook2_201403050948321813.png'" 
+	onmouseout="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook_201403050948323688.png'"
+     onfocus="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook2_201403050948321813.png'" 
+	onblur="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook_201403050948323688.png'"> <span class="hidden">Facebook</span></a></li><!--
+--></ol></div><!--
+--><div class="col col1  "><ol class="semanticList"><!--
+	--><li class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/twitter" target="">
+<img src="/ImageRepository/Path?filePath=/documents/Intranet/twitter_201403050948324469.png" 
+     alt="Twitter" 
+     border="0" 
+     onmouseover="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter2_201403050948322751.png'" 
+	onmouseout="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter_201403050948324469.png'"
+     onfocus="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter2_201403050948322751.png'" 
+	onblur="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter_201403050948324469.png'"> <span class="hidden">Twitter</span></a></li><!--
+--></ol></div><!--
+--><div class="col col1  last"><ol class="semanticList"><!--
+--></ol></div><!--			--></div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col9 last" style="" data-widgetcontainerid="8014fee3-d4ce-4103-9e27-e65b2722a9b8">				
+	<div class="row nest first last wide">	
+	<div class="inner col col9 first last idd5d9dafb-dc7e-4861-93bc-ff68acbcae11" style="" data-widgetcontainerid="d5d9dafb-dc7e-4861-93bc-ff68acbcae11">
+
+<div data-widget-id="e45d2864-aa60-42f2-8c01-61d65c197f9b" data-widget-controller-path="/Layout/WidgetSearch">
+		<script src="/Areas/Layout/Assets/Scripts/Search.js" type="text/javascript"></script>
+	<script defer type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"></script>
+	<script defer type="text/javascript">
+		function doWidgetSearch(e){
+			if (e != "") {
+				window.location.href = "/Search/Results?searchPhrase=" + e;
+			}
+		}
+
+		$(document).ready(function () {
+
+			$(".widgetSearchButton").click(function (e) {
+				e.preventDefault();
+				doWidgetSearch($(this).siblings(".widgetSearchBox").val());
+			});
+			$("#searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b").keypress(function (e) {
+				if (window.clipboardData) {
+					if (e.keyCode == 13) {
+						doWidgetSearch($(this).val());
+						return false;
+					}
+				} else {
+					if (e.which == 13) {
+						doWidgetSearch($(this).val());
+						return false;
+					}
+				}
+				return true;
+			});
+			$("#searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b").autocomplete({
+				source: '/Search/AutoComplete',
+				html: true,
+				delay: 0
+			}).data("autocomplete")._renderItem = function (ul, item) {
+				return $("<li></li>")
+					.data("item.autocomplete", item)
+					.append("<a>" + item.label + "</a>")
+					.appendTo(ul);
+			};
+		});</script>
+<section id="widgetPreviewSearch" class="widget widgetSearch skin17 widgetOptionSet15" style="display: block;">
+    <!-- For the button right and inside -->
+	<div class="widgetBody buttonRightInside">
+		<input class="widgetSearchBox" cp5ph="true" id="searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b" name="searchField" placeholder="Search Rogers..." title="Search Rogers..." type="text" value="" />
+					<a href="#search" class="widgetSearchButton"><img alt="Go" class="imageHover" data-hover="/ImageRepository/Document?documentID=1521" data-image="/ImageRepository/Document?documentID=1522" src="/ImageRepository/Document?documentID=1522" /></a>
+
+		<label class="searchLabel" for="searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b">Search</label>
+	</div>
+</section>
+
+<style>
+      
+        .widgetSearch ::-webkit-input-placeholder {
+        color: #fff;
+      }
+        .widgetSearch :-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+    }
+        .widgetSearch ::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+    }
+    .widgetSearch :-ms-input-placeholder {  
+       color: #fff;
+    }
+    
+
+	.widgetSearch .widgetBody .widgetSearchBox
+	{
+        color: #fff;
+		background-color: rgba(255,255,255,.5); padding: 9px 40px 9px 10px;  border:1px solid #fff;
+	}
+	.widgetSearch .widgetBody .widgetSearchButton
+	{
+		margin: 6px 10px 0 0;
+	}
+</style>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<link href="/Areas/Layout/Assets/Styles/WidgetSearchAutoComplete.css" rel="stylesheet" />
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+
+	</div>
+</aside></div></header></div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer2">
+<div class="siteWrap"><div data-cpRole="structuralContainer" id="structuralContainer1" class="mainWrap" role="main">
+<div data-cpRole="structuralContainer" id="structuralContainer13" class="contentWrap">
+<div data-cpRole="breadCrumbs" class="breadCrumbContainer" id="breadCrumbs">		<ol class="semanticList breadCrumbs">
+			<li><a class="breadCrumb" href="/"> Home</a></li><li><a class="breadCrumb" href="/502/Community"> Community</a></li><li><a class="breadCrumb" href="/130/Rogers-Activity-Center"> Rogers Activity Center</a></li><li><a class="breadCrumb" href="/706/Sports-Programs"> Sports Programs</a></li><li><a class="breadCrumb" href="/707/Youth-Sports-Programs"> Youth Sports Programs</a></li><li id="currentBCPage" data-pageid="717"> Youth Soccer</li>
+		</ol>
+	   
+    
+</div><div data-cpRole="mainContentContainer" id="moduleContent">
+	
+	<div id="page" class="moduleContentNew">
+		
+	<input type="hidden" id="hdnPageID" value="717" />
+	<input type="hidden" id="hdnParentID" value="707" />
+	<input type="hidden" id="hdnVersionID" value="5215" />
+	<input type="hidden" id="pageMenuTitle" value="Youth Soccer" />
+	<input type="hidden" id="pageShowFeatureColumn" value="False" />
+	<input type="hidden" id="hdnIsLayoutPage" value="False" />
+	<h1 id="versionHeadLine" class="headline">
+Youth Soccer	</h1>
+	<div id="cc5f8c90dc-b4cb-431b-90ee-10648f8df655" data-containerid="5f8c90dc-b4cb-431b-90ee-10648f8df655" class="pageContent cpGrid cpGrid24">
+		   
+
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="5fd866a5-0879-40af-ab8a-546a3ddff8a4">				
+	<div class="row nest first last wide">	
+	<div class="inner col col24 first last ide7db70e0-a25b-4e85-863d-efc80941ba3c" style="" data-widgetcontainerid="e7db70e0-a25b-4e85-863d-efc80941ba3c">
+
+
+<div class="widget editor pageStyles wide" id="divEditorb35d6a99-16d9-485f-bfe2-7bff1051cf81" >
+<br>
+<strong>Program Director: </strong>Cesar Aguilar&nbsp; (479) 631-0336 ext. 431<br>
+<a class="Hyperlink" href="mailto: caguilar@rogersar.gov" target="_self">Email Cesar</a></div>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function (e) { 
+		renderSlideshowIfApplicable($('#divEditor' + 'b35d6a99-16d9-485f-bfe2-7bff1051cf81'));
+	});
+</script>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col15 first" style="" data-widgetcontainerid="f259c79a-0a07-43bc-af33-5d2cebe4c5cc">				
+	<div class="row nest first last wide">	
+	<div class="inner col col15 first last iddd8e32c2-18db-4fd0-9cf9-f43f579fd0db" style="" data-widgetcontainerid="dd8e32c2-18db-4fd0-9cf9-f43f579fd0db">
+
+
+<div class="widget editor pageStyles wide" id="divEditorc3ab4706-6b54-4860-89bc-995d889a6934" >
+<p style="font-family: Arial;"><span style="font-size: 18pt;"><span style="font-family: Tahoma, sans-serif;"><strong><span style="font-size: 18pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015 YOUTH <br>
+SPRING SOCCER INFORMATION</span></strong></span><br>
+&nbsp;</span><span style="font-weight: normal; font-family: Tahoma, sans-serif;">*ALL YOUTH SOCCER PLAYERS MUST REGISTER AGAIN, EVEN IF THEY PLAYED IN THE FALL ’14 SEASON*</span><br>
+&nbsp;<br>
+<span style="font-family: Tahoma, sans-serif;"><strong>ELIGIBILITY:&nbsp;&nbsp;<br>
+</strong>C</span><span style="font-family: Tahoma, sans-serif;">hildren between the ages of 5-18.&nbsp; Children must turn <b>5 (five) by April 4, 2015</b>.&nbsp;</span> </p>
+<p style="font-family: Arial;"><b><span style="font-family: Tahoma, sans-serif;">FEE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
+<span style="font-family: Tahoma, sans-serif;">Under 6 through Under 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $40 (RAC Membership Required)&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10.00 late fee after 2/10/15</span><br>
+<span style="font-family: Tahoma, sans-serif;">Under 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$55 (RAC Membership Required)&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10.00 late fee after 2/10/15</span><br>
+&nbsp;M<span style="font-family: Tahoma, sans-serif;">iddle School and Older&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $65 (RAC Membership Required) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10.00 late fee after 2/10/15</span> </p>
+<p><span style="font-family: Tahoma, sans-serif;"><strong>REGISTRATION DEADLINE</strong>: <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 10</b></span><br>
+&nbsp;<br>
+<span style="font-family: Tahoma, sans-serif;"><strong>PRACTICE BEGINS:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Week of March</strong></span><br>
+&nbsp;<br>
+<strong style="font-family: Arial;">&nbsp;<span style="font-family: Tahoma, sans-serif;">GAMES BEGIN:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 4</span></strong><br>
+<b style="font-family: Arial;"><span style="font-family: Tahoma, sans-serif;"><br>
+UNIFORM:</span></b><span style="font-size: 12pt; font-weight: normal; font-family: Arial;"> Under 6 through Under 11: RAC will provide a jersey and a pair of socks for each player.</span><span style="font-size: 12pt; font-family: Arial;"><span style="font-size: 12pt;"> </span><span style="font-size: 12pt;">Middle School: RAC will provide a jersey, shorts and a pair of socks for each player.</span></span>&nbsp;<br>
+&nbsp;<br>
+<span style="font-family: Tahoma, sans-serif;"><span style="font-weight: bold; font-family: Arial;">PRACTICES:&nbsp;&nbsp;&nbsp; (Maximum)</span><br>
+<br>
+Under 6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Once a week for 45 minutes &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
+Under 7 though Under 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twice a week for 1 hour &nbsp; &nbsp; &nbsp;&nbsp;<br>
+Middle School and Older &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Three times a week for 1.5 hours&nbsp;<br>
+<br>
+</span></p>
+<p style="font-family: Arial;"><b><span style="font-family: Tahoma, sans-serif;">TEAM FORMATION:</span></b><span style="font-family: Tahoma, sans-serif;"> Players will be divided according to the schools, they attend.&nbsp; It may become necessary to combine two or&nbsp;</span><span style="font-family: Tahoma, sans-serif;">more schools, if not enough players from one school in that particular age group sign up.</span> </p>
+<p style="font-family: Arial;"><b><span style="font-family: Tahoma, sans-serif;">TRANSPORTATION:</span></b><span style="font-weight: normal; font-family: Tahoma, sans-serif;">It is the responsibility of the parents to get the children to practices and games.&nbsp; We cannot guarantee</span><span style="font-weight: normal; font-family: Tahoma, sans-serif;"> that routine carpool requests will be granted.&nbsp; If you have an extraordinary situation that might keep your&nbsp;</span><span style="font-weight: normal; font-family: Tahoma, sans-serif;">child from playing, contact the league director.</span><br>
+&nbsp;<br>
+<span style="font-family: Tahoma, sans-serif;"><strong>INSURANCE:&nbsp; </strong>T</span><span style="font-size: 10pt; font-weight: normal; font-family: Tahoma, sans-serif;">he league maintains a secondary policy of accident insurance for participants. </span></p>
+<p style="font-family: Arial;"><b><span style="font-family: Tahoma, sans-serif;">COACHES MEETINGS:&nbsp;<br>
+</span></b><span style="font-family: Tahoma, sans-serif;">Middle School &amp; Up&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6:00pm</span><br>
+<span style="font-family: Tahoma, sans-serif;">Under 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6:00pm</span><br>
+<span style="font-family: Tahoma, sans-serif;">Under 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7:30pm</span><br>
+<span style="font-family: Tahoma, sans-serif;">Under 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6:00pm</span><br>
+<span style="font-family: Tahoma, sans-serif;">Under 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7:30pm&nbsp;<b>&nbsp;</b></span><br>
+&nbsp;&nbsp;<br>
+&nbsp;<span style="font-size: 10pt;">&nbsp;</span><br>
+<strong><span style="font-size: 10pt; font-family: Verdana;">COACHES CHILDREN:</span></strong><span style="font-family: Tahoma, sans-serif;">The child of the coach will automatically be placed on that coach’s team.&nbsp; The child of one assistant</span><span style="font-family: Tahoma, sans-serif;">&nbsp;coach may also be placed on the team.&nbsp; Please indicate when registering if you are planning to either be&nbsp;</span><span style="font-family: Tahoma, sans-serif;">a head coach or assistant coach.&nbsp; If you are planning to be an assistant coach, please indicate who you</span><span style="font-family: Tahoma, sans-serif;">&nbsp;will be assisting.</span><br>
+&nbsp;<br>
+&nbsp;</p>
+<p>&nbsp;</p></div>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function (e) { 
+		renderSlideshowIfApplicable($('#divEditor' + 'c3ab4706-6b54-4860-89bc-995d889a6934'));
+	});
+</script>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col9 last" style="" data-widgetcontainerid="a80e2108-a5fa-4a02-88bd-11899b6be6e9">				
+	<div class="row nest first wide">	
+	<div class="inner col col9 first last id657e2290-004a-46e4-814a-d0e3240bc846" style="" data-widgetcontainerid="657e2290-004a-46e4-814a-d0e3240bc846">
+
+
+<div class="widget editor pageStyles wide" id="divEditorc6e06658-c9d0-404c-978e-d809810845c6" >
+To <span class="subhead1">REGISTER ONLINE</span>&nbsp;<a class="Hyperlink" href="https://apm.activecommunities.com/rogerscommschoolrec/Home" target="_blank">click here!</a></div>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function (e) { 
+		renderSlideshowIfApplicable($('#divEditor' + 'c6e06658-c9d0-404c-978e-d809810845c6'));
+	});
+</script>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last id094ac60c-96bc-472e-a8ce-4622bfc576e8" style="" data-widgetcontainerid="094ac60c-96bc-472e-a8ce-4622bfc576e8">
+
+
+<section class="widget image pageStyles" id="divImageOuter97353902-d1ea-40bf-b978-e3d98cf1d89f" data-widget-id="97353902-d1ea-40bf-b978-e3d98cf1d89f">
+            <header class="widgetHeader"><div><h3  data-headertext="Proud Sponsor of Rogers Youth Soccer">Proud Sponsor of Rogers Youth Soccer</h3></div></header>       
+    
+	<div class="widgetBody imageBorder" id="divImage97353902-d1ea-40bf-b978-e3d98cf1d89f"><img src='/ImageRepository/Document?documentID=1795' alt='landofrost' title='landofrost'/>	</div></section>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last idc4f34f37-e1e0-4931-942c-11ee81a74bd7" style="" data-widgetcontainerid="c4f34f37-e1e0-4931-942c-11ee81a74bd7">
+
+
+
+
+	<div data-widget-id='28b37ea3-61e1-4c3e-8882-b4155050f21b' data-moduleName="list" id='widgetText28b37ea3-61e1-4c3e-8882-b4155050f21b' class="widget widgetText">
+		<div class="widgetBody pageStyles" id="div28b37ea3-61e1-4c3e-8882-b4155050f21b">
+			
+			<div style="min-height: 18px;">
+				<div class="textContent" ><p><a tabindex="0" href="http://www.landofrost.com/youthsports" target="_blank">Land O'Frost .....Great Tasting Lunchmeat!!</a>&nbsp;</p><p>Click on the link above to register for money saving coupons and information from Land O'Frost!!</p></div>
+			</div>
+		</div>
+	</div>
+	
+<style>
+	.widget .textContent p:first-child {
+		padding-top: 0px;
+		margin-top: 0px;
+	}
+
+</style>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last id6d451ad0-51fd-43b6-92ba-5bb23b592119" style="" data-widgetcontainerid="6d451ad0-51fd-43b6-92ba-5bb23b592119">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDoc81fd77a1-80da-47eb-b4ba-390811696a14" data-documentIDs="2661" data-columncount="1" >
+	<div id="divRelatedDocuments_81fd77a1-80da-47eb-b4ba-390811696a14" class="relatedDocuments">
+					<header class="widgetHeader"><div><h3>Forms</h3></div></header>
+			<div class="widgetBody cpGrid cpGrid1">
+				
+<div class="row wide">
+    <div class="col col1 first last">
+    <ol class="semanticList bullets">
+                <li class="widgetItem" data-documentid="2661"><a target="_blank" href="/DocumentCenter/Home/View/2661" class="fileType pdf">Membership and Program Registration Form pdf</a>
+                </li>
+    </ol>
+        </div>
+</div>
+
+
+
+			</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('81fd77a1-80da-47eb-b4ba-390811696a14', $('#widgetRelDoc' + '81fd77a1-80da-47eb-b4ba-390811696a14'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + '81fd77a1-80da-47eb-b4ba-390811696a14'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last id455e26de-d90d-4db9-91ab-687b9e21092d" style="" data-widgetcontainerid="455e26de-d90d-4db9-91ab-687b9e21092d">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDocec4b053b-7c72-4e7a-9a15-9bbc05935bc5" data-documentIDs="3351,3357,3361" data-columncount="1" >
+	<div id="divRelatedDocuments_ec4b053b-7c72-4e7a-9a15-9bbc05935bc5" class="relatedDocuments">
+					<header class="widgetHeader"><div><h3>Rules &amp; information</h3></div></header>
+			<div class="widgetBody cpGrid cpGrid1">
+				
+<div class="row wide">
+    <div class="col col1 first last">
+    <ol class="semanticList bullets">
+                <li class="widgetItem" data-documentid="3351"><a target="_blank" href="/DocumentCenter/Home/View/3351" class="fileType pdf">Youth Soccer Manual</a>
+                </li>
+                <li class="widgetItem" data-documentid="3357"><a target="_blank" href="/DocumentCenter/Home/View/3357" class="fileType pdf">2014 (Fall)-2015 (Spring) Soccer Age Bracket</a>
+                </li>
+                <li class="widgetItem" data-documentid="3361"><a target="_blank" href="/DocumentCenter/Home/View/3361" class="fileType pdf">Rules Summary</a>
+                </li>
+    </ol>
+        </div>
+</div>
+
+
+
+			</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('ec4b053b-7c72-4e7a-9a15-9bbc05935bc5', $('#widgetRelDoc' + 'ec4b053b-7c72-4e7a-9a15-9bbc05935bc5'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + 'ec4b053b-7c72-4e7a-9a15-9bbc05935bc5'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last idae373b7b-aff5-4e9e-9c47-e7c7f3b78793" style="" data-widgetcontainerid="ae373b7b-aff5-4e9e-9c47-e7c7f3b78793">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDoc22c0e9a6-1188-47fa-85b8-00a58e41f3fa" data-documentIDs="2313" data-columncount="1" >
+	<div id="divRelatedDocuments_22c0e9a6-1188-47fa-85b8-00a58e41f3fa" class="relatedDocuments">
+					<header class="widgetHeader"><div><h3>Volunteer to Coach</h3></div></header>
+			<div class="widgetBody cpGrid cpGrid1">
+				
+<div class="row wide">
+    <div class="col col1 first last">
+    <ol class="semanticList bullets">
+                <li class="widgetItem" data-documentid="2313"><a target="_blank" href="/DocumentCenter/Home/View/2313" class="fileType docx">Volunteer Coach Application </a>
+                </li>
+    </ol>
+        </div>
+</div>
+
+
+
+			</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('22c0e9a6-1188-47fa-85b8-00a58e41f3fa', $('#widgetRelDoc' + '22c0e9a6-1188-47fa-85b8-00a58e41f3fa'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + '22c0e9a6-1188-47fa-85b8-00a58e41f3fa'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last idfc6aca03-ac7f-4264-9116-af8166f7b708" style="" data-widgetcontainerid="fc6aca03-ac7f-4264-9116-af8166f7b708">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDoc6adbf988-a9ec-48c4-b596-de69cc57b23e" data-documentIDs="3723,3724,3725,3726,3727,3728,3729,3730,3731,3732,3733,3734,3735" data-columncount="1" >
+	<div id="divRelatedDocuments_6adbf988-a9ec-48c4-b596-de69cc57b23e" class="relatedDocuments">
+					<header class="widgetHeader"><div><h3>Schedules</h3></div></header>
+			<div class="widgetBody cpGrid cpGrid1">
+				
+<div class="row wide">
+    <div class="col col1 first last">
+    <ol class="semanticList bullets">
+                <li class="widgetItem" data-documentid="3723"><a target="_blank" href="/DocumentCenter/Home/View/3723" class="fileType pdf">Middle School JV Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3724"><a target="_blank" href="/DocumentCenter/Home/View/3724" class="fileType pdf">Middle School JV Girls</a>
+                </li>
+                <li class="widgetItem" data-documentid="3725"><a target="_blank" href="/DocumentCenter/Home/View/3725" class="fileType pdf">Middle School Varsity Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3726"><a target="_blank" href="/DocumentCenter/Home/View/3726" class="fileType pdf">Middle School Varsity Girls</a>
+                </li>
+                <li class="widgetItem" data-documentid="3733"><a target="_blank" href="/DocumentCenter/Home/View/3733" class="fileType pdf">Under 11 Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3734"><a target="_blank" href="/DocumentCenter/Home/View/3734" class="fileType pdf">Under 11 Girls</a>
+                </li>
+                <li class="widgetItem" data-documentid="3735"><a target="_blank" href="/DocumentCenter/Home/View/3735" class="fileType pdf">Under 18 Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3727"><a target="_blank" href="/DocumentCenter/Home/View/3727" class="fileType pdf">Under 6 Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3728"><a target="_blank" href="/DocumentCenter/Home/View/3728" class="fileType pdf">Under 6 Girls</a>
+                </li>
+                <li class="widgetItem" data-documentid="3729"><a target="_blank" href="/DocumentCenter/Home/View/3729" class="fileType pdf">Under 7 Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3730"><a target="_blank" href="/DocumentCenter/Home/View/3730" class="fileType pdf">Under 7 Girls</a>
+                </li>
+                <li class="widgetItem" data-documentid="3731"><a target="_blank" href="/DocumentCenter/Home/View/3731" class="fileType pdf">Under 9 Boys</a>
+                </li>
+                <li class="widgetItem" data-documentid="3732"><a target="_blank" href="/DocumentCenter/Home/View/3732" class="fileType pdf">Under 9 Girls</a>
+                </li>
+    </ol>
+        </div>
+</div>
+
+
+
+			</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('6adbf988-a9ec-48c4-b596-de69cc57b23e', $('#widgetRelDoc' + '6adbf988-a9ec-48c4-b596-de69cc57b23e'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + '6adbf988-a9ec-48c4-b596-de69cc57b23e'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest wide">	
+	<div class="inner col col9 first last id7a738dec-e066-4a17-975f-4f70d0389468" style="" data-widgetcontainerid="7a738dec-e066-4a17-975f-4f70d0389468">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDoc12951c00-0138-44e2-bf0d-ebfa032dd450" data-documentIDs="3359" data-columncount="1" >
+	<div id="divRelatedDocuments_12951c00-0138-44e2-bf0d-ebfa032dd450" class="relatedDocuments">
+					<header class="widgetHeader"><div><h3>Map of fields</h3></div></header>
+			<div class="widgetBody cpGrid cpGrid1">
+				
+<div class="row wide">
+    <div class="col col1 first last">
+    <ol class="semanticList bullets">
+                <li class="widgetItem" data-documentid="3359"><a target="_blank" href="/DocumentCenter/Home/View/3359" class="fileType pdf">Soccer Game Field Map</a>
+                </li>
+    </ol>
+        </div>
+</div>
+
+
+
+			</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('12951c00-0138-44e2-bf0d-ebfa032dd450', $('#widgetRelDoc' + '12951c00-0138-44e2-bf0d-ebfa032dd450'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + '12951c00-0138-44e2-bf0d-ebfa032dd450'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest last wide">	
+	<div class="inner col col9 first last id72b3884a-02ba-4fd8-beea-f877aaee3463" style="" data-widgetcontainerid="72b3884a-02ba-4fd8-beea-f877aaee3463">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDoc01cbf6be-02e7-49d0-b125-150c122653ef" data-documentIDs="" data-columncount="1" >
+	<div id="divRelatedDocuments_01cbf6be-02e7-49d0-b125-150c122653ef" class="relatedDocuments">
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('01cbf6be-02e7-49d0-b125-150c122653ef', $('#widgetRelDoc' + '01cbf6be-02e7-49d0-b125-150c122653ef'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + '01cbf6be-02e7-49d0-b125-150c122653ef'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+	</div>
+
+	</div>
+
+	
+	<div id="mvcModal" class="modalContainer modalContainerCP MVC noIframe" style="display: none;">
+		<div class="modalTitleLeft">
+			<h3 class="modalTitle">Title</h3>
+			<a class="modalClose" href="#CloseThisWindow" title="Close this window"></a>
+		</div>
+		<div class="modalContentLeft">
+			<div class="modalContentRight">
+				<div class="newCP adminWrap modalContent">
+					</div>
+				</div>
+			</div>
+		<div class="modalBottomLeft">
+			<div class="modalBottomRight">
+				<div class="modalBottom"></div>
+			</div>
+		</div>
+	</div>
+	<div class="newCP">
+
+
+<div class="modalContainer notifyMeNew  hidden noIframe" id="modalNotifyMe">
+	<div class="modalTitleLeft">
+		<h3 class="modalTitle">Notify Me</h3>
+		<a class="modalClose" href="#CloseThisWindow" onkeypress="this.onclick();" onclick="Javascript:hideModal('notifyMeNew'); return false;" title="Close this window"></a>
+	</div>
+	<div class="modalContentLeft">
+		<div class="modalContentRight">
+			<div class="newCP modalContent modalTabs">
+				
+				
+			</div>
+		</div>
+	</div>
+	<div class="modalBottomLeft">
+		<div class="modalBottomRight">
+			<div class="modalBottom"></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
+</div><aside data-cpRole="contentContainer" id="featureColumn" class="secondaryContent">	<div id="ccd6923f64-2522-4bce-8783-61ad1b416b69" data-containerid="d6923f64-2522-4bce-8783-61ad1b416b69" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><div data-cpRole="structuralContainer" id="structuralContainer3" class="sidebar">
+<nav data-cpRole="nav" id="secondaryNav" class="siteNav secondaryNav">
+<ol id="secondaryMenusecondaryNav" data-parent="717" class="rootNavMenu">
+			<li id="SideItem770" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="770" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/770/Little-Kicksters" target="_self">Little Kicksters</a>			
+			</li>
+</ol>
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var menuID = 'secondaryMenusecondaryNav';
+			var menuType = SIDE_MENU;
+
+			//setup menu manager properties for secondary menu
+			menuManager.isSideMenuEditable = false;
+			menuManager.sideMenuMaxSubMenuLevels = 4;
+			menuManager.sideMenuHasCustomLinks = false;
+			menuManager.setMOMMode(2, menuType);
+
+			//Init secondary menu
+			var setupDraggable = menuManager.isSideMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=717&moduleID=&themeID=1&menuContainerID=secondaryNav';
+
+			menuManager.setupMenu(menuID, 'secondaryNav', menuType, setupDraggable, urlToGetHiddenMenus);
+		});
+	</script>
+
+</nav><aside data-cpRole="contentContainer" id="contentContainer4">	<div id="cc59051760-3cf5-4d76-b748-0f1d3a9a7a96" data-containerid="59051760-3cf5-4d76-b748-0f1d3a9a7a96" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+
+
+
+
+	</div>
+</aside>
+</div>
+</div></div>
+</div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer7" class="footerWrapper">
+<div data-cpRole="structuralContainer" id="structuralContainer5">
+<div class="siteWrap"><aside data-cpRole="contentContainer" id="contentContainer3">	<div id="cc17fc1b17-a660-41d3-b47a-b7691b8b110a" data-containerid="17fc1b17-a660-41d3-b47a-b7691b8b110a" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+		<div class="row outer autoWidths center wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="804c6f56-c67f-4de6-8b1b-ac7cb552241b">				
+	<div class="row nest first last wide">	
+	<div class="inner col col24 first last id6a13c4ea-0762-47e5-a648-1f55ec3f1d5d" style="" data-widgetcontainerid="6a13c4ea-0762-47e5-a648-1f55ec3f1d5d">
+
+	<div data-widget-id="24f98a71-55c0-4c78-9fbd-f8ce7fd5c7a2" data-widget-controller-path="/QuickLinks/Widget">
+
+
+
+
+ 
+
+<section id="widgetQuicklink24f98a71-55c0-4c78-9fbd-f8ce7fd5c7a2" class="widget widgetQuickLinks skin56 widgetOptionSet22 wide" data-modulewidgettype="quickLinks"  >
+	<header class="widgetHeader">
+		<div class="">
+		</div>
+	</header>
+	<div class="widgetBody cpGrid cpGrid9 ">
+        <div class="row autoWidths center wide">
+				<div class=" col col1 first ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/" target="">Home</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/sitemap.aspx" target="">Site Map</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/directory.aspx" target="">Contact Us</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/accessibility" target="">Accessibility</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/copyright" target="">Photo Credits</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/507/Tourism" target="">Tourism</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/list.aspx" target="">Notify Me®</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/jobs.aspx" target="">Employment</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  last">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="https://access.rogersar.gov/" target="_blank">EP</a>
+    </li>
+					</ol>
+				</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/QuickLinks.aspx</div>
+	</div>
+</section></div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+
+	</div>
+</aside></div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer6">
+<div class="siteWrap"><footer data-cpRole="contentContainer" id="contentContainer6" class="siteFooter">	<div id="cc7e33c007-a92d-4e0b-a28a-4fca2d132de9" data-containerid="7e33c007-a92d-4e0b-a28a-4fca2d132de9" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+		<div class="row outer wide"><!--
+--><div class="outer col col13 first" style="" data-widgetcontainerid="0ce49913-f1b6-4813-ba93-d864abdc4c75">				
+	<div class="row nest first last wide">	
+	<div class="inner col col13 first last idb048af4f-44fe-4b16-ba6c-51f82413ab53" style="" data-widgetcontainerid="b048af4f-44fe-4b16-ba6c-51f82413ab53">
+
+    <div data-widget-id="70190567-dcfc-48ff-b1bf-4682498beebb" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+ 
+<section id="divInfoAdv70190567-dcfc-48ff-b1bf-4682498beebb" class="widget widgetInfoAdvanced skin37 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" >
+	<header class="widgetHeader">
+		<div class="">
+		</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">	
+		<div class="row  wide">
+			<div class=" col col1 first last">
+				<ol class="semanticList" style="">
+
+<li class="InfoAdvanced widgetItem">
+    <b>The City of &nbsp;Rogers</b> - 301 W. Chestnut - Rogers, AR 72756 - Ph: 479-621-1117
+</li>				</ol>
+			</div>    			
+		</div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+</section>
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('.InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col5" style="" data-widgetcontainerid="cb93e93d-5e36-42b3-ab8d-aa0bedeb063b">				
+	<div class="row nest first last wide">	
+	<div class="inner col col5 first last idc9b3208c-368d-41a4-baf1-352d998817fb" style="" data-widgetcontainerid="c9b3208c-368d-41a4-baf1-352d998817fb">
+
+<div class="widget widgetSpacer" id="aec303ed-0a04-4c64-82a8-6eb6b8e1b696"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col6 last" style="" data-widgetcontainerid="e38c77f5-bb0c-46ba-b790-ad6b0069ba7d">				
+	<div class="row nest first last wide">	
+	<div class="inner col col6 first last id380a3d94-5599-425b-8190-fb7bfd5f1ad1" style="" data-widgetcontainerid="380a3d94-5599-425b-8190-fb7bfd5f1ad1">
+
+    <div data-widget-id="7a65a0ac-eab8-44ba-957d-8b6b1cb8d806" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+ 
+<section id="divInfoAdv7a65a0ac-eab8-44ba-957d-8b6b1cb8d806" class="widget widgetInfoAdvanced skin37 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" >
+	<header class="widgetHeader">
+		<div class="">
+		</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">	
+		<div class="row  wide">
+			<div class=" col col1 first last">
+				<ol class="semanticList" style="">
+
+<li class="InfoAdvanced widgetItem">
+    <a href="http://www.civicplus.com" target="_self" class="Hyperlink">GOVERNMENT WEBSITES BY CIVICPLUS®</a><br>
+</li>				</ol>
+			</div>    			
+		</div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+</section>
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('.InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+
+	</div>
+</footer></div>
+</div>
+</div>
+
+
+
+
+
+
+		<div id="banner1-2" style="display:none"></div>
+			<script type="text/javascript">
+				$(window).load(function () {
+					renderBanner('banner1-2', 'banner1', {"BannerOptionID":2,"ThemeID":1,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":null,"SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":true,"ImageAlignment":1,"ImageScroll":false,"Status":40,"BannerImages":[{"BannerImageID":77,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=1649","Height":1089,"Width":1700,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null},{"BannerImageID":78,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=1648","Height":1089,"Width":1700,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null}],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"}, {"BannerImageID":77,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=1649","Height":1089,"Width":1700,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null}, '/App_Themes/Interior/Images/', '<img alt="Lake" class="bannerObject" src="/ImageRepository/Document?documentID=1649" />');
+				});
+			</script>
+
+</div>
+</div>
+
+			    <div id="mainNavHolderMobile" class="mainNavHolderMobile"></div>
+		    </div>
+	    </div>
+    </div>
+    
+	
+
+    
+	
+	
+	
+	
+
+
+
+	<script type="text/javascript">function dynamicStretchContainers () {Core.Layout.stretchContainers('#structuralContainer2, #structuralContainer13, #featureColumn, #structuralContainer3');}</script>
+
+
+
+
+    <script src="/1986649186.js" type="text/javascript"></script>
+    <!-- Piwik -->
+<script type="text/javascript"> 
+  var _paq = _paq || [];
+  _paq.push(['setCustomUrl', location.href.toLowerCase()]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  $(window).load(function(){
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.civicplus.com//";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1794]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  });
+
+</script>
+<noscript><p><img src="http://analytics.civicplus.com/piwik.php?idsite=1794" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Code --><!--Start Translate Code--><div id="google_translate_element" style="position: fixed; bottom: 0px; right: 25px; z-index:4;"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><!--End Translate Code-->
+
+
+<script type="text/javascript">
+	$(function () {
+		document.cookie = "responsiveGhost=0; path=/";
+	});
+</script>
+
+	
+	
+</body>
+</html>

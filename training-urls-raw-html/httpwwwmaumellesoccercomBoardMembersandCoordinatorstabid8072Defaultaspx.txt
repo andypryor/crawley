@@ -1,0 +1,547 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en-US">
+<head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaKeywords" name="KEYWORDS" content="MSC, Maumelle, Soccer, Football, Arkansas" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2009 by Maumelle Soccer Club" /><meta id="MetaAuthor" name="AUTHOR" content="Maumelle Soccer Club" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link id="ADesktopModules_RadRotator" rel="stylesheet" type="text/css" href="/DesktopModules/RadRotator/module.css" /><link id="APortals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="APortals_121_Skins_Maumelle_Skins_" rel="stylesheet" type="text/css" href="/Portals/121/Skins/Maumelle_Skins/skin.css" /><link id="APortals_121_" rel="stylesheet" type="text/css" href="/Portals/121/portal.css" /><script type="text/javascript" src="/Resources/Shared/Scripts/jquery/jquery.min.js" ></script><link rel="SHORTCUT ICON" href="/Portals/121/favicon.ico" />     
+        
+			    <script type="text/javascript">
+			      var _gaq = _gaq || [];
+			      _gaq.push(['_setAccount', 'UA-8115926-1']);
+			      _gaq.push(['_trackPageview']);
+			 
+			      (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+			    </script>
+        
+		  <title>
+	Board Members
+</title></head>
+<body id="Body">
+    <form name="Form" method="post" action="/BoardMembersandCoordinators/tabid/8072/Default.aspx" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qbMhW04vZe5NSBLNCjv0EdlbOCXr5uL7WlAEMen_aoulmTWN-HZM5oL0UH7-_oZFVsnkG81Ruftt9rQPECBpy5INlOWAbB4zTqWoel1f11ym2-oCqhQQy1ctdZjL2-32H5R0b9dWQ9axUDhiTcSuaIxcXB01&amp;t=fffffffffc0dc02d" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="XBh0/G65/cuuH4iVVacaRqdRtWmd9PEpOVs0rgBXjP4krvLf2xh8eK16QMLqP4ZzD4jzz2UuAuQFhBm/Cco3L4AgwEmOVkxPyHUM1ow4OuoCMvnXS0SPGrbZ+iHnyReTpH82tg==" />
+</div>
+
+        
+        
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="left" valign="top" class="maintable">
+            <table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td align="left" valign="top" class="main-bg">
+                        <table width="928" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                            <tr>
+                                <td colspan="2" valign="top" class="hearder">
+                                    <table width="100%" height="282" border="0" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td align="left" valign="top" width="26">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="26" height="1" /></td>
+                                            <td align="left" valign="top">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/logo.png" width="152" height="142" /><!--<a id="dnn_dnnLOGO_hypLogo" title="Maumelle Soccer Club" href="http://www.maumellesoccer.com/Default.aspx"></a>--></td>
+                                            <td align="left" valign="top" width="515">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="515" height="1" />
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td colspan="3" align="left" valign="top">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="1" height="0" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top" width="154">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="154" height="1" /></td>
+                                                        <td align="left" valign="top">
+                                                            <span id="dnn_dnnSEARCH_ClassicSearch">
+  
+  
+  <input name="dnn$dnnSEARCH$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSEARCH_txtSearch" class="NormalTextBox" onkeydown="return __dnn_KeyDown('13', 'javascript:__doPostBack(%27dnn$dnnSEARCH$cmdSearch%27,%27%27)', event);" />&nbsp;
+  <a id="dnn_dnnSEARCH_cmdSearch" class="SkinObject" href="javascript:__doPostBack('dnn$dnnSEARCH$cmdSearch','')"><img alt="" BORDER="0" src="/Portals/121/Skins/Maumelle_Skins/search-btn.gif"/></a>
+</span>
+
+
+</td>
+                                                        <td align="left" valign="top" width="20">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="20" height="1" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="3" align="left" valign="top" height="235">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="1" height="235" /></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td align="left" valign="top" width="229">
+                                                <table width="100%" height="282" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="top" height="52">
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                <tr>
+                                                                    <td align="center" valign="middle" background="/Portals/121/Skins/Maumelle_Skins/reg-btn.jpg" width="113"
+                                                                        height="49" style="padding-top: 16px;">
+                                                                        <a id="dnn_dnnUSER_cmdRegister" class="login-register" href="javascript:__doPostBack('dnn$dnnUSER$cmdRegister','')">Register</a>
+                                                                    </td>
+                                                                    
+                                                                    <td align="left" valign="top" width="3">
+                                                                        <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="3" height="1" /></td>
+                                                                        
+                                                                    <td align="center" valign="middle" background="/Portals/121/Skins/Maumelle_Skins/log=btn.jpg" width="113"
+                                                                        height="49" style="padding-top: 18px;">
+                                                                        <a id="dnn_dnnLOGIN_cmdLogin" class="login-register" href="javascript:__doPostBack('dnn$dnnLOGIN$cmdLogin','')">Login</a></td>
+                                                                    <td align="left" valign="top" width="2">
+                                                                        <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="2" height="1" /></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top">
+                                                            <table width="100%" border="0" cellspacing="4" cellpadding="2">
+                                                                <tr>
+                                                                    <td align="left" valign="top" width="5">
+                                                                        <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="5" height="1" /></td>
+                                                                    <td id="dnn_TopPane" width="208" align="left" valign="top">
+                                                                    <div class="DnnModule DnnModule-DNN_HTML DnnModule-21152"><a name="21152"></a>
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+
+<td></td>
+
+  </tr>
+  <tr>
+    <td id="dnn_ctr21152_ContentPane" valign="top" class="DNNAlignleft"><!-- Start_Module_21152 --><div id="dnn_ctr21152_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr21152_HtmlModule_lblContent" class="Normal">
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tbody>
+        <tr>
+            <td style="background-image: url(http://www.maumellesoccer.com/portals/121/containers/maumelle_containers/images/cnt2-bg.jpg); width: 12px; height: 22px;" valign="top" align="left"><img alt="" src="/Portals/121/Containers/Maumelle_Containers/images/spacer.gif" /></td>
+            <td style="background-image: url(http://www.maumellesoccer.com/portals/121/containers/maumelle_containers/images/cnt2-bg.jpg);" valign="middle" align="center">
+            <p><span style="font-family: tahoma; color: #ffffff; font-size: 13px;"><strong>FIELDS ARE OPEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></p>
+            </td>
+            <td style="background-image: url(http://www.maumellesoccer.com/portals/121/containers/maumelle_containers/images/cnt2-bg.jpg);" valign="top" align="left"><br />
+            <br />
+            <br />
+            <br />
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: rgb(0,0,0); color: white;" colspan="3" align="center"><span style="font-family: tahoma; font-size: 13px;"><strong>Rain-Out Number: 803-3999</strong></span></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+</div><!-- End_Module_21152 --></td>
+
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="DnnModule DnnModule-RadRotator DnnModule-21151"><a name="21151"></a>
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+
+<td></td>
+
+  </tr>
+  <tr>
+    <td id="dnn_ctr21151_ContentPane" valign="top" class="DNNAlignleft"><!-- Start_Module_21151 --><div id="dnn_ctr21151_ModuleContent" class="DNNModuleContent ModRadRotatorC">
+	
+<div style="position-length:1;">
+<div id="dnn_ctr21151_RotatorView_RadRotator1_wrapper">
+		<!-- 2.6.2 --><script type="text/javascript" src="/WebResource.axd?d=FvuTETk5RozROzsR8zaMPZoyTu0Y1JoOAB5442QWfdPDbrU_CoThu-OrDxXd8bw19ABJbSl0_ZgNGVzZcaNDdE5kUi8Vj9SVRhh0WavdIMiXqzg4og5_7sstsm3NAWPGTYMgTPwQkMYPMlyFROccDGmzmzmWugEIiFDqwA2&amp;t=633221603760000000"></script><div id="dnn_ctr21151_RotatorView_RadRotator1_Div" style="overflow:hidden;position:relative;height:175px;width:174px;"><div id="dnn_ctr21151_RotatorView_RadRotator1_FrameContainer" style="position:relative;width:174px;"><div id="dnn_ctr21151_RotatorView_RadRotator1_frame0" style="overflow:hidden;">
+		<br>
+<a href="http://www.facebook.com/home.php?#/pages/Maumelle-Soccer-Club/128980020019">
+<p style="text-align: center; undefined: ">Check us out on Facebook!<br />
+<img alt="" src="http://www.maumellesoccer.com/Portals/121/images/Facebook.jpg" /></p>
+</a>
+
+	</div><div id="dnn_ctr21151_RotatorView_RadRotator1_frame1" style="overflow:hidden;">
+		<table width="100%">
+    <tbody>
+        <tr>
+            <td align="center"><a href="http://www.ichotelsgroup.com/redirect?path=hd&amp;brandCode=EX&amp;localeCode=en&amp;corporateNumber=100276828&amp;hotelCode=litma&amp;rateCode=ILY8C&amp;_PMID=99502056" border="0px"><img alt="" height="170px" src="/Portals/121/images/Holiday%20Inn%20Ad-vertical.jpg" style="border-style: solid;" /></a></td>
+        </tr>
+    </tbody>
+</table>
+	</div><div id="dnn_ctr21151_RotatorView_RadRotator1_frame2" style="overflow:hidden;">
+		<p style="text-align: center;"><a href="http://www.americanpiepizza.net/APPHome.asp" target="_blank"><img alt="" src="http://premium.bluesombrero.com/Portals/121/images/AmericanPie.gif" /></a><br />
+<span class="Normal"><br />
+<span style="font-size: 10px; font-family: arial;">
+Visit American Pie on Maumelle Blvd. on the second Monday of&nbsp;each month from 4pm - closing and mention MSC. MSC receives 20% from each sale. Dine in or carry out.</span></span></p>
+	</div><div id="dnn_ctr21151_RotatorView_RadRotator1_frame3" style="overflow:hidden;">
+		<p style="text-align: center;"><a href="www.beefobradys.com" target="_blank"><img alt="" style="width: 150px;" src="/Portals/121/images/beefs.bmp" /></a><br />
+<span style="font-size: 10px; font-family: arial;">Join us at Beef O' Brady's from 4pm - 9pm on the last Monday of the month. 20% of proceeds will be donated to MSC. Beef O'Brady's is located at 115 Audubon Drive (next to Advanced Sun Systems). Dine in or carry-out.</span></p>
+	</div><div id="dnn_ctr21151_RotatorView_RadRotator1_frame4" style="overflow:hidden;">
+		<div style="text-align: center;"><br />
+<a href="http://maumellesoccer.com/LinkClick.aspx?link=http%3a%2f%2fwww.frecciasport.com%2f&amp;tabid=7973&amp;mid=21151" target="_blank"><img alt="" src="/Portals/121/images/Logos/FrecciaLOGO.png" style="width: 175px; height: 60px;" /></a></div>
+<p style="text-align: center;"><span style="font-size: 10px; font-family: arial;">Founded by a former Maumelle SC goalkeeper, Freccia makes top-quality, high-value goalkeeper gloves.</span></p>
+	</div><div id="dnn_ctr21151_RotatorView_RadRotator1_frame5" style="overflow:hidden;">
+		
+	</div><div id="dnn_ctr21151_RotatorView_RadRotator1_frame6" style="overflow:hidden;">
+		<br />
+<img alt="" style="float: left; width: 80px;" src="/Portals/121/images/All%20Star%20Emblem.jpg" />
+<p style="text-align: center;"><span class="NormalRed" style="font-size: 14px;">This could be YOUR business!</span> </p>
+<p style="text-align: center;"><span style="font-size: 11px; font-family: tahoma;">To find out about advertising your business here, please contact&nbsp;</span><a href="mailto:J6Vogt@aol.com?subject=MSC Sponsorship Question"><span style="font-size: 11px; font-family: tahoma;">Joanna Vogt</span></a><span style="font-size: 11px; font-family: tahoma;">. </span></p>
+	</div></div></div><script type="text/javascript">window["dnn_ctr21151_RotatorView_RadRotator1"] = new RadRotator('dnn_ctr21151_RotatorView_RadRotator1',1);window["dnn_ctr21151_RotatorView_RadRotator1"].AutoAdvance = 1;window["dnn_ctr21151_RotatorView_RadRotator1"].FrameTimeout = 5000;window["dnn_ctr21151_RotatorView_RadRotator1"].RotatorMode = 'Slideshow';window["dnn_ctr21151_RotatorView_RadRotator1"].NumberOfFrames = 7;window["dnn_ctr21151_RotatorView_RadRotator1"].PauseOnMouseOver = 1;window["dnn_ctr21151_RotatorView_RadRotator1"].HasTickers = 0;window["dnn_ctr21151_RotatorView_RadRotator1"].FrameIdArray = new Array('dnn_ctr21151_RotatorView_RadRotator1_frame0','dnn_ctr21151_RotatorView_RadRotator1_frame1','dnn_ctr21151_RotatorView_RadRotator1_frame2','dnn_ctr21151_RotatorView_RadRotator1_frame3','dnn_ctr21151_RotatorView_RadRotator1_frame4','dnn_ctr21151_RotatorView_RadRotator1_frame5','dnn_ctr21151_RotatorView_RadRotator1_frame6');window["dnn_ctr21151_RotatorView_RadRotator1"].UseRandomSlide = 0;window["dnn_ctr21151_RotatorView_RadRotator1"].UseTransition = 1;window["dnn_ctr21151_RotatorView_RadRotator1"].TransitionString = 'progid:DXImageTransform.Microsoft.Fade(Overlap=1.00)';window["dnn_ctr21151_RotatorView_RadRotator1"].UseRandomEffect = 0;window["dnn_ctr21151_RotatorView_RadRotator1"].Start();</script>
+	</div>
+</div>
+
+</div><!-- End_Module_21151 --></td>
+
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></td>
+
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" valign="top">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="left" valign="top" width="10">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="10" height="1" /></td>
+                                            <td align="left" valign="top" width="200">
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td width="15" align="left" valign="top">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/nav-top-left.jpg" width="15" height="47" /></td>
+                                                        <td width="100%" align="left" valign="middle" background="/Portals/121/Skins/Maumelle_Skins/nav-top-center.jpg"
+                                                            class="arial white sixteen bold">
+                                                            Main Navigation
+                                                        </td>
+                                                        <td width="7" align="left" valign="top">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/nav-top-right.jpg" width="7" height="47" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top" background="/Portals/121/Skins/Maumelle_Skins/nav-mid-left.jpg">
+                                                        </td>
+                                                        <td align="left" valign="top">
+                                                            <span><TABLE CLASS="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmbar dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar"><TR><TD><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Home/tabid/7973/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Home</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/GeneralInformation/tabid/8071/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">General&nbsp;Information</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Registration/tabid/8076/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Registration</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/BoardMembersandCoordinators/tabid/8072/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem MainMenu_MenuSelectedRoot MainMenu_MenuSelectedRoot">Board&nbsp;Members&nbsp;and&nbsp;Coordinators</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/TrainerInformation/tabid/17219/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Trainer&nbsp;Information</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/CoachingInformation/tabid/8073/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Coaching&nbsp;Information</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/PlayerInformation/tabid/8074/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Player&nbsp;Information</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/FieldInformation/tabid/8075/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Field&nbsp;Information</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/RefereeInformation/tabid/8223/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Referee&nbsp;Information</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Sponsorship/tabid/11125/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Sponsorship</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Safety/tabid/8184/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Safety</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Photos/tabid/12783/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Photos</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/SpecialEvents/tabid/8077/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Special&nbsp;Events</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/SummerCamp/tabid/8078/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Summer&nbsp;Camp</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/ClassicProgram/tabid/9524/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Classic&nbsp;Program</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/3v3League/tabid/8079/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">3v3&nbsp;League</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Links/tabid/8080/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Links</font></a><br><a style="text-decoration: none;" href="http://www.maumellesoccer.com/Contact/tabid/8113/Default.aspx" title=""><font class="dnn_dnnsolpartmenu_ctldnnsolpartmenu_spmitm MainMenu_MenuItem MainMenu_MenuBar MainMenu_MenuItem">Contact</font></a><br></TD></TR></TABLE></span></td>
+                                                        <td align="left" valign="top" background="/Portals/121/Skins/Maumelle_Skins/nav-mid-right.jpg">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top" width="15">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/nav-bottom-left.jpg" width="15" height="9" /></td>
+                                                        <td align="left" valign="top" background="/Portals/121/Skins/Maumelle_Skins/nav-bottom-mid.jpg">
+                                                        </td>
+                                                        <td align="left" valign="top" width="7">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/nav-bottom-right.jpg" width="7" height="9" /></td>
+                                                    </tr>
+                                                </table>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td align="left" valign="top" width="1" height="10">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="1" height="10" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td id="dnn_Pane2" align="left" valign="top" class="DNNEmptyPane">
+                                                        </td>
+
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top" width="1" height="10">
+                                                            <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="1" height="10" /></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td align="left" valign="top" width="15">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="15" height="1" /></td>
+                                            <td align="left" valign="top">
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td id="dnn_ContentPane" align="left" valign="top">
+                                                        <div class="DnnModule DnnModule-DNN_HTML DnnModule-21055"><a name="21055"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="12" height="51" align="left" valign="top" background="/Portals/121/Containers/Maumelle_Containers/images/cnt1-top-mid.jpg"><img src="/Portals/121/Containers/Maumelle_Containers/images/spacer.gif" width="12" height="1" /></td>
+    <td width="90%" align="left" valign="top" background="/Portals/121/Containers/Maumelle_Containers/images/cnt1-top-mid.jpg"><table width="264%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top" height="8"><img src="/Portals/121/Containers/Maumelle_Containers/images/spacer.gif" width="5" height="8" /></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td  align="left" valign="top"></td>
+            <td  align="left" valign="top"><span id="dnn_ctr21055_dnnTITLE2_lblTitle" class="cnt1_heading">Board Members and Coordinators</span>
+
+
+</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="134" align="right" valign="top" ><img src="/Portals/121/Containers/Maumelle_Containers/images/cnt1-top-right.jpg" width="134" height="51" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top"><table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <tr>
+        <td id="dnn_ctr21055_ContentPane" align="left" valign="top" class="DNNAlignleft"><!-- Start_Module_21055 --><div id="dnn_ctr21055_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr21055_HtmlModule_lblContent" class="Normal">
+		<div style="text-align: center;">
+<table style="text-align: center;" border="1" cellspacing="0" bordercolor="#000000" cellpadding="1">
+    <thead>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><img alt="" src="/Portals/121/images/Roy%20Sitton%20photo.jpg" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Roy Sitton<br />
+            Past President <br />
+            </span><a href="mailto:sittonsoccer@att.net" class="ApplyClass"><span style="font-family: tahoma; font-size: 16px;">sittonsoccer@att.net</span></a><span style="font-family: tahoma; font-size: 16px;"> <br />
+            501-952-4193 </span></span></p>
+            </td>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><img alt="" src="/Portals/121/images/Leslie4%281%29%282%29.jpg" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Leslie Kennard<br />
+            &nbsp;Interim&nbsp;President <br />
+            </span><a href="mailto:lesliekennard@att.net"><span style="font-family: tahoma; font-size: 16px;">lesliekennard@att.net</span></a><span style="font-family: tahoma; font-size: 16px;"> <br />
+            501-413-9925</span></span></p>
+            </td>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><img alt="" src="/Portals/121/images/Fosburg.JPG" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Roger Fosburgh<br />
+            Treasurer<br />
+            </span><a href="/BoardMembersandCoordinators/tabid/8072/rfosburgh@sbcglobal.net"><span style="font-family: tahoma; font-size: 16px;">rfosburgh@sbcglobal.net</span></a><br />
+            <span style="font-family: tahoma; font-size: 16px;">501-231-8977</span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><img alt="" src="/Portals/121/images/SusanShrell.jpg" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Susan Shrell <br />
+            Secretary <br />
+            </span><a href="mailto:rsshrell@sbcglobal.net"><span style="font-family: tahoma; font-size: 16px;">rsshrell@sbcglobal.net</span></a><span style="font-family: tahoma; font-size: 16px;"> <br />
+            501-851-2718 </span></span></p>
+            </td>
+            <td style="text-align: center; vertical-align: top;">
+            <p><img alt="" src="http://maumellesoccer.com/Portals/121/images/Clausen.jpg" /><br />
+            <span style="font-family: tahoma;">Joshua Clausen&nbsp;&nbsp;<br />
+            Field Coordinator<br />
+            <a href="mailto:mscclausen@yahoo.com">mscclausen@yahoo.com</a><br />
+            501-258-3191</span><br />
+            <br />
+            </p>
+            </td>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><img alt="" src="/Portals/121/images/mark_smiley.jpg" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Mark&nbsp;Francis <br />
+            Player Development Coordinator<br />
+            </span><a href="/BoardMembersandCoordinators/tabid/8072/mffishdog@gmail.com"><span style="font-family: tahoma; font-size: 16px;">mffishdog@gmail.com</span></a><br />
+            <span style="font-family: tahoma; font-size: 16px;">501-773-3226 </span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span style="font-family: tahoma; font-size: 16px;" class="Normal"><img style="width: 150px; height: 200px;" alt="Displaying photo.JPG" src="https://mail.google.com/mail/u/0/?ui=2&amp;ik=a6b2f9ef10&amp;view=fimg&amp;th=149e4d8fa99b63e3&amp;attid=0.1&amp;disp=inline&amp;safe=1&amp;attbid=ANGjdJ_LdXcAzqqmVXbGER8WEDwRdMbixWSsQXCY1blMZp7pTNprKTEWAhfTrHDHyON7Zv3RHoh8D2sUr2xwFSCYhvwkdgOqknuy_W05hHss3TsJGb7krZSCqkmP9hY&amp;ats=1416923922003&amp;rm=149e4d8fa99b63e3&amp;zw&amp;sz=w1896-h899" /><br />
+            Melissa Lau<br />
+            Micro Coordinator<br />
+            <a href="mailto:melissalau07@yahoo.com" class="ApplyClass">melissalau07@yahoo.com</a>&nbsp;<br />
+            501-690-7620<br />
+            <br />
+            </span></p>
+            <div></div>
+            <span class="Normal"></span></td>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><span style="font-family: tahoma; font-size: 16px;"><br />
+            <br />
+            <br />
+            <br />
+            image coming soon<br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            Jeff Woodall<br />
+            Referee&nbsp;Assignor<br />
+            <a href="mailto:maumelle-ref@sbcglobal.net">maumelle-ref@sbcglobal.net</a>&nbsp;&nbsp;&nbsp;&nbsp;<br />
+            501-218-5467<br />
+            </span><br />
+            <br />
+            </span></p>
+            </td>
+            <td style="text-align: center; vertical-align: top;"><img alt="" src="/Portals/121/images/MargaretEldred.jpg" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Margaret Eldred<br />
+            &nbsp;Registrar<br />
+            </span><a href="mailto:froggie1972@sbcglobal.net"><span style="font-family: tahoma; font-size: 16px;">froggie1972@sbcglobal.net</span></a>&nbsp;<br />
+            501-258-0560<!--?XML:NAMESPACE PREFIX = O /--><o:p _rdEditor_exists="1" _rdeditor_exists="1"></o:p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top;">
+            <p><span class="Normal"><img alt="" src="http://maumellesoccer.com/Portals/121/images/LarryJohnson.jpg" /><br />
+            <span style="font-family: tahoma; font-size: 16px;">Larry Johnson&nbsp;<br />
+            Uniform Coordinator<br />
+            </span><a href="mailto:lrjohnson@telcoe.com"><span style="font-family: tahoma; font-size: 16px;">lrjohnson@telcoe.com</span></a><span style="font-size: 16px;"><span style="font-family: tahoma; font-size: 16px;">&nbsp;<br />
+            501-246-0594<br />
+            </span><br />
+            </span></span></p>
+            </td>
+            <td style="text-align: center; vertical-align: top;">
+            <p ><br />
+            </p>
+            </td>
+            <td style="text-align: center; vertical-align: top;"><img alt="" style="width: 150px; height: 199px;" src="http://maumellesoccer.com/Portals/121/images/Gallery/HEADSHOT.JPG" /><br />
+            <span style="font-family: tahoma;"><span style="font-size: 16px;">Sara Danchenko<br />
+            Concession Coordinator<br />
+            sara.danchenko@sbcglobal.net<br />
+            501-773-4072</span><br />
+            </span>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+	</div>
+
+</div><!-- End_Module_21055 --></td>
+
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+
+
+</div></td>
+
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top">
+                                                            <table width="100%" border="0" cellspacing="4" cellpadding="0">
+                                                                <tr>
+                                                                    
+                                                                    
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td align="left" valign="top" width="13">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="13" height="1" /></td>
+                                            <td width="200" align="left" valign="top">
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td id="dnn_Pane1" align="left" valign="top" class="DNNEmptyPane">
+                                                        </td>
+
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td align="left" valign="top" width="10">
+                                                <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="10" height="1" /></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="1" colspan="2" align="left" valign="top" bgcolor="#3c3ba1">
+                                    <img src="/Portals/121/Skins/Maumelle_Skins/spacer.gif" width="1" height="1" /></td>
+                            </tr>
+                            <tr>
+                                <td width="542" height="43" align="left" valign="top">
+                                    <a id="dnn_dnnTERMS_hypTerms" class="terms-privacy" rel="nofollow" href="http://www.maumellesoccer.com/BoardMembersandCoordinators/tabid/8072/ctl/Terms/Default.aspx">Terms of Use</a>
+                                    <span class="terms-privacy">|</span>
+                                    <a id="dnn_dnnPRIVACY_hypPrivacy" class="terms-privacy" rel="nofollow" href="http://www.maumellesoccer.com/BoardMembersandCoordinators/tabid/8072/ctl/Privacy/Default.aspx">Privacy Statement</a>
+                                    <span class="terms-privacy"></span>
+                                    <br />
+                                    <span id="dnn_dnnCOPYRIGHT_lblCopyright" class="copy-right">Copyright 2009 by Maumelle Soccer Club</span>
+
+                                </td>
+                                <td width="390" align="right" valign="top">
+                                    <img src="/Portals/121/Skins/Maumelle_Skins/blue-somro-logo.jpg" width="384" height="39" /></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<map name="Map" id="Map">
+    <area shape="rect" coords="9,4,109,43" href="/Portals/121/Skins/Maumelle_Skins/#" />
+</map>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

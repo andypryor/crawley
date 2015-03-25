@@ -1,0 +1,969 @@
+﻿<!-- saved from url=(0014)about:internet -->
+<center><a name="Schedules"></a><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "FGSC.dwt" -->
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<!-- #EndEditable -->
+<style type="text/css">
+
+.auto-style1 {
+	text-align: center;
+	font-family: Andalus;
+	font-size: medium;
+	background-color: #FFFFFF;
+}
+.auto-style6 {
+	border: 1px solid #CC0000;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	background-color: #FFFFFF;
+}
+.auto-style11 {
+	border: 1px solid #CC0000;
+	font-family: "Baskerville Old Face";
+	font-weight: bold;
+	font-size: medium;
+}
+.auto-style14 {
+	border: 1px solid #CC0000;
+	border-collapse: collapse;
+}
+a {
+	color: #990000;
+}
+.auto-style16 {
+	font-family: "Baskerville Old Face";
+	font-size: medium;
+	font-weight: normal;
+}
+.auto-style19 {
+	font-family: Andalus;
+	font-size: medium;
+}
+.auto-style20 {
+	font-weight: normal;
+}
+.auto-style22 {
+	font-family: Andalus;
+	font-weight: normal;
+}
+.auto-style23 {
+	border-width: 0px;
+}
+.auto-style25 {
+	font-family: Andalus;
+}
+.auto-style26 {
+	font-size: 13pt;
+}
+.auto-style27 {
+	border: 1px solid #CC0000;
+}
+.auto-style28 {
+	font-size: medium;
+}
+.auto-style29 {
+	text-align: center;
+	border: 1px solid #CC0000;
+}
+.auto-style30 {
+	font-size: x-small;
+}
+.auto-style31 {
+	text-align: center;
+	font-family: Andalus;
+	font-size: medium;
+	background-color: #FFFFFF;
+	color: #990000;
+}
+.auto-style32 {
+	color: #990000;
+}
+</style>
+<base target="_self" />
+</head>
+
+<body style="margin: 10 50px; background-color: #CC0000;">
+
+<p><img height="500" src="Goalie%20Pic.jpg" width="950"><table cellpadding="0" cellspacing="0" style="width: 950; height: 17" class="auto-style14">
+	<tr>
+		<td class="auto-style1" style="width: 111px; height: 21px;">
+		<a href="http://www.ftgsoccer.com"><strong class="auto-style20">Home</strong></a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="http://www.okarsenal.com">Arsenal</a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="Schedules.html">Schedules</a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="Coaches1.html">Coaches List</a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="Coaches%20Links.html">Coaching Links</a></td>
+		<td class="auto-style31" style="width: 120; height: 21px;">
+		&nbsp;&nbsp;
+		<a href="Calendar.html">Calendar</a></td>
+		<td class="auto-style31" style="width: 120; height: 21px;">
+		<a href="About.html">About Us</a></td>
+		<td class="auto-style31" style="width: 120; height: 21px;">
+		<a href="http://www.oksoccer.com">oksoccer.com</a></td>
+	</tr>
+</table>
+<table cellpadding="3" cellspacing="0" class="auto-style6" style="height: 483; width: 950">
+	<tr>
+		<td style="height: 388; width: 777" valign="top" class="auto-style27"><!-- #BeginEditable "Info" -->
+		<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 566pt; margin-left: 4px; margin-right: 0px;">
+			<colgroup>
+				<col style="mso-width-source:userset;mso-width-alt:2011;width:41pt" width="55">
+				<col style="mso-width-source: userset; mso-width-alt: 1206;">
+				<col style="mso-width-source: userset; mso-width-alt: 6070;">
+				<col style="mso-width-source:userset;mso-width-alt:5302;width:109pt" width="145">
+				<col style="mso-width-source: userset; mso-width-alt: 3108;">
+				<col style="mso-width-source:userset;mso-width-alt:9362;width:192pt" width="256">
+			</colgroup>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; width: 41pt; color: windowtext; font-size: 10.0pt; font-weight: 600; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: normal; padding-left: 1px; padding-right: 1px; padding-top: 1px;" width="55">
+				Gender</td>
+				<td style="border: .5pt solid black; width: 25pt; color: windowtext; font-size: 10.0pt; font-weight: 600; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: normal; padding-left: 1px; padding-right: 1px; padding-top: 1px;" width="33">
+				Age</td>
+				<td style="border: .5pt solid black; width: 85pt; color: windowtext; font-size: 10.0pt; font-weight: 600; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: normal; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Team</td>
+				<td style="border: .5pt solid black; width: 95pt; color: windowtext; font-size: 10.0pt; font-weight: 600; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: normal; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coach</td>
+				<td style="border: .5pt solid black; width: 64pt; color: windowtext; font-size: 10.0pt; font-weight: 600; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: normal; padding-left: 1px; padding-right: 1px; padding-top: 1px;" width="85">
+				Phone</td>
+				<td style="border: .5pt solid black; width: 125pt; color: windowtext; font-size: 10.0pt; font-weight: 600; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: normal; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Email</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BALLDOZERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Lori Alred</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918.639.3088</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				lori-alred@cherokee.org</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				CUBS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				JOHN MOLES JR</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189312742</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				MOLESMAN12@LIVE.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DEFENDERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				&nbsp;</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				&nbsp;</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				&nbsp;</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DUCKS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Benjamin Pemberton</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183489297</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				staticjet@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG LIL KICKERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				LESLIE KOLMER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9186165925</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				MISSLESLIE727@GMAIL.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				GOAL GETTERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				AUBREY SINGLETON</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188692818</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				AUB_SINGLETON_2011@HOTMAIL.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				GRASSHOPPERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PHAN NGUYEN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188699844</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PHAN.NGUYEN4@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				LIL' TWISTERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				CAMILLE RAGSDALE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9184416062</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				CAMILLERAGSDALE@YAHOO.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PISTOLS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SHANNON LACEY</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188160367</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SMALLBLONDE19@GMAIL.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U4</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PUMAS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Miguel Colina</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189132521</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				kd.bryant@ymail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				ARSENAL</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Carlos Colina</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183604331</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				solracolina@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				AVENGERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Barry Steveson</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-869-2549</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				dawsonnsu@hotmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BANDITS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Nickey Reich</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189895669</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				khoney@crosstel.net</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BLUE THUNDER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				HEATHER MCDONELL</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183486577</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				HDMCDONELL@YAHOO.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG BLAZE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SARAH BOSTON</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183515214</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SARAHWILSONBOSTON@GMAIL.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				HOTSHOTS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PATRICK BROWN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9184789895</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PATRICK.BROWN@GAPAC.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				JR ELITE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				JEFFREY BEYERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188698464</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				beyersjeff@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				KICK'N CUTIES</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BRENT TOWNSEND</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188699865</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BRENT1TOWNSEND@SBCGLOBAL.NET</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				LIL KILLERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				JASON CLARK</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-616-2269</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				jlclark44@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				NINJA TURTLES</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				LAUREN BOWDEN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9186163802</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				le.bowden91@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PINK PANTHERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Charles Vahdatipour</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189312078</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				charles-vahdatipour@cherokee.org</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PIRATES (Red)</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Kyrstin Willey</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				580-917-2332</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Kyrstin.willey@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SHARKS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PATRICK GUINN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-360-5111</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				nomail@nomail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SIDE KICKS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Waleed Jalajel</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9186168177</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				williejalajel41@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SUPERMEN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Justin Catcher</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188691674</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Jrcatcher@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				THE KICKERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Waleed Jalajel</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9186168177</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				williejalajel41@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				WARRIORS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Bryce Clark</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-616-3435</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				bryceclark1980@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Coed</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U6</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				YOUNG GUNS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BRYAN YOUNG</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188692366</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DRY45@YAHOO.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG ARSENAL</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Todd Carlson</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189131357</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				toddcarlson9@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				MISS-FITS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Charles Vahdatipour</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189312078</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				charles-vahdatipour@cherokee.org</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PINK DYNAMITES</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Christopher Dover</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188698683</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				cdover127@hotmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PINK THUNDER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Winter Marshall-Allen</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188699892</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				wjoyallen2007@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				POWER PUFF GIRLS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Miguel Colina</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9189132521</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				kd.bryant@ymail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				TIGERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Katrina Wafford</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-478-2712</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				katrd73@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U10</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				ELITE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Myrinda Kizzia</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-351-3341</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				myrinda1323@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U10</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG ARSENAL</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Raymundo Contreras</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-577-2671</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				rayannasmommy@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U10</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG SPIRITS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DAVID CHAPUIS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9185770884</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DKCHAPUIS@YAHOO.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U12</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FOOTLOOSE WHITE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				CLYDE COTHERN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183481973</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				candycothern@hotmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U12</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG FOOTLOOSE BLACK</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				CLYDE COTHERN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183481973</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				candycothern@hotmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Girls</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U16</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BLAZE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				STEVEN JENNINGS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-351-9969</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				steven.jennings@live.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BLUE EAGLES</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Winter Marshall-Allen</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188699892</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				wjoyallen2007@gmail.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BURST</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DANIEL LINDQUIST</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918.815.9530</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				staticjet@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				CRUSH</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				DANIEL LINDQUIST</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918.815.9530</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				staticjet@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG UNITED</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Cynthia Littrell</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9183601614</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				littrellcindy@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				HORNETS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Casey Berlin</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9187813038</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				canigetanidplz@suddenlink.net</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U8</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SAINTS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				JAMES FELTS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9185775914</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				75FELTS@GMAIL.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U10</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				STINGERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				REGGIE KIRKLAND</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-441-8594</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				REGGIE.KIRKLAND@omnivalve.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U10</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				TIGERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BRIAN FOWLER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-360-8189</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				BRIAN_FOWLER5@YAHOO.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U10</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				WOLVERINES</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				LANCE MITCHELL</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-351-8691</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				LMITCHELLBAND@YAHOO.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U12</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				FTG ELITE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				JEFFREY BEYERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188698464</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				beyersjeff@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U12</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				HOT SHOTS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PATRICK BROWN</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9184789895</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				PATRICK.BROWN@GAPAC.COM</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U12</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				RAIDERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SAM CARTER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-627-2663</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				sam@ftgsoccer.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U12</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				THUNDER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				MICHAEL HATCHETTE</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-4039064</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				mjhatchette@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U14</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				ARCHANGELS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Justin Catcher</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				9188691674</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Jrcatcher@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U16</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				EAGLES</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Jeffry Allen</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-441-0701</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				dayne_allen@yahoo.com</td>
+			</tr>
+			<tr height="20">
+				<td height="20" style="border: .5pt solid black; height: 15.0pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				Boys</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				U16</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 85pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				GUNNERS</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 95pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				SAM CARTER</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				918-627-2663</td>
+				<td style="border: .5pt solid black; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 125pt; padding-left: 1px; padding-right: 1px; padding-top: 1px;">
+				sam@ftgsoccer.com</td>
+			</tr>
+		</table>
+<!-- #EndEditable -->
+		</td>
+		<td class="auto-style11" style="height: 388" valign="top">
+		<br>
+		<a href="http://www.facebook.com/pages/Fort-Gibson-Soccer-Club/128104357256123">
+		<img alt="Facebook Us" class="auto-style23" height="29" src="facebook-button2.jpg" width="111"></a><br>
+		<br><span class="auto-style16">
+		<span class="auto-style22">
+		<a href="mailto:shropshire94@hotmail.com;steven.hill@ftgsoccer.com">Reschedule Game</a></span></span><span class="auto-style20"><span class="auto-style25"><br>
+		</span><br class="auto-style25"><span class="auto-style25"><a href="Directions.html">Directions</a><br>
+		<br><a href="Field%20Map.html"><span class="auto-style32">Complex Map</span></a><br>
+		</span><br class="auto-style25"><span class="auto-style25"><a href="Referees.html">Referees</a><br>
+		</span><br class="auto-style25"><span class="auto-style19"><a href="Forms.html">Forms</a><br>
+		<br><a href="Pictures.html">Pictures</a><br><br>
+		<a href="Tournaments.html">Tournaments</a></span></span><br><span class="auto-style25"><span class="auto-style28">
+		<br><span class="auto-style20"><a href="Camp.html">Camp</a></span><br>
+		<br><strong class="auto-style20"><a href="Field_status.html">Field Status</a></strong></span><span class="auto-style26"><br>
+		<br></span></span></td>
+	</tr>
+	<tr>
+		<td style="height: 34px; " class="auto-style29" colspan="2"><a href="Home">
+		<span class="auto-style30">[home]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Schedules.html"><span class="auto-style30">[schedules]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Calendar.html"><span class="auto-style30">[calendar]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Coaches.html"><span class="auto-style30">[coaches]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Links.html"><span class="auto-style30">[links]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="About.html"><span class="auto-style30">[about 
+		us]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		</span> 
+		<a href="Pictures.html"><span class="auto-style30">[pictures]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="mailto:mail@FTGsoccer.com"><span class="auto-style30">[contact 
+		us]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="Directions.html"><span class="auto-style30">[field locations]</span></a></td>
+	</tr>
+</table>
+</p>
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
+</center>
+

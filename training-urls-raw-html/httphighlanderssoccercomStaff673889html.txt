@@ -1,0 +1,437 @@
+
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 15-Jun-14 10:23 pm - /scripts/runisa.dll?M2:gp::73780+L3/Display+E+109+109+673889 ; \\10.10.10.25\html\highlanderssoccer.com\Staff\673889.html expires 1m = 15-Jun-14 10:24 pm -->
+<title>Coaches - Bixby Highlanders</title>
+<meta name="description"        content="Coaching Staff<p style=text-align: center; font-family: Verdana,Arial,Helvetica,s" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.highlanderssoccer.com/index.xml" title="RSS Feed">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+ <link rel="stylesheet" href="http://www.highlanderssoccer.com/common/css/master.css" type="text/css"/>
+ <script src="http://www.highlanderssoccer.com/common/js/ps1.8.2/protoaculous.min.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.highlanderssoccer.com/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.highlanderssoccer.com/menus.css" type="text/css">
+<style type="text/css">
+body {margin: 0px; padding: 0px; background: url(/images/2012/bg.gif) repeat-x #000;}
+.Copyright1 {color: #002155;}
+.Copyright2 {text-decoration: none; color: #002155;}
+.nav {background: url(/images/2012/nav-bg.gif) repeat-x;}
+.media {background: url(/images/2012/home-6-bg.gif) repeat-y;}
+.IndexSSAdd {margin-left: 3px; margin-top: 16px; margin-right: 3px; border: 1px solid #CFD4E2; border-bottom: 0px; background-color: #DDE3F2; padding: 4px; padding-left: 12px; white-space: nowrap;}
+.IndexSS-2Line1 {}
+.IndexSS-2Line2 {}
+.IndexSS-2LineFirst {border-top: 0px;}
+.IndexSS-2LineLast {}
+.IndexSSAdmin {background-color: #F6EDD0;}
+.IndexSSInnerTable {margin-bottom: 4px; border: 1px solid #bbc1d6; background-color: #FFFFFF; }
+.IndexSSTitle {margin-bottom: 1px; background-color: #e2e7f6; padding: 4px; padding-left: 8px; padding-right: 8px; font-size: 14px; font-weight: bold;}
+.IndexSSSubTitle {font-weight: bold;}
+.IndexSSText {padding: 8px;}
+.IndexSSContinue {text-align: right;}
+.IndexSSPhoto {padding: 4px;}
+.IndexSSPhotoCaption {color: #999999;}
+.DIVAdminSide-OuterBox {border: 1px solid #FFFFFF; background-color: #DCDCDC;}
+.DIVAdminSide-InnerBox {}
+.DIVNewSideArticle {padding: 2px; text-align: center;}
+.DIVNewSideElement {border-top: 1px dotted #FFFFFF; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSideOutsideLink {border-top: 1px dotted #FFFFFF; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSubDepartment {border-top: 1px dotted #FFFFFF; padding: 2px; padding-top: 4px; text-align: center;}
+.indexDIVL2-OuterBox {}
+.indexDIVL2-InnerBox {}
+.indexDIVL2-2Line {border-top: 1px solid #3a3a3a; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2Line1 {}
+.indexDIVL2-2Line2 {}
+.indexDIVL2-2LineFirst {border: 0px; padding-top: 5px;}
+.indexDIVL2-2LineLast {}
+.indexDIVL2-2Line a:link {color: #e9e9e9; text-decoration: none;}
+.indexDIVL2-2Line a:hover {color: #e9e9e9; text-decoration: none;}
+.indexDIVL2-2Line a:active {color: #e9e9e9; text-decoration: none;}
+.indexDIVL2-2Line a:visited {color: #e9e9e9; text-decoration: none;}
+.indexDIVL2-2LineLink {border-top: 1px solid #002258; background: #0045b4; padding-top: 4px;}
+.indexDIVL2-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineP {color: #C00000;}
+.indexDIVL2-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVL2-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVL2-Empty {text-align: center; font-weight: bold; color: #808080;}
+.indexDIVCalendar-OuterBox {}
+.indexDIVCalendar-InnerBox {}
+.indexDIVCalendar-2Line {padding: 4px; padding-left: 16px; font-weight: bold; color: #e9e9e9;}
+.indexDIVCalendar-2LineFirst {border: 0px; padding-top: 5px;}
+.indexDIVCalendar-2LineLast {}
+.indexDIVCalendar-Title {}
+.indexDIVCalendar-Event {font-weight: bold;}
+.indexDIVCalendar-2Line a:link {color: #e9e9e9; text-decoration: none;}
+.indexDIVCalendar-2Line a:hover {color: #e9e9e9; text-decoration: none;}
+.indexDIVCalendar-2Line a:active {color: #e9e9e9; text-decoration: none;}
+.indexDIVCalendar-2Line a:visited {color: #e9e9e9; text-decoration: none;}
+.indexDIVCalendar-2LineLink {border-top: 1px solid #002258; background: #0045b4; padding-top: 4px;}
+.indexDIVCalendar-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVCalendar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #e9e9e9;}
+.indexDIVSideBar-OuterBox {}
+.indexDIVSideBar-InnerBox {}
+.indexDIVSideBar-2Line {border-top: 1px solid #3a3a3a; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2Line1 {}
+.indexDIVSideBar-2Line2 {}
+.indexDIVSideBar-2LineFirst {border: 0px; padding-top: 5px;}
+.indexDIVSideBar-2LineLast {}
+.indexDIVSideBar-2Line a:link {color: #e9e9e9; text-decoration: none;}
+.indexDIVSideBar-2Line a:hover {color: #e9e9e9; text-decoration: none;}
+.indexDIVSideBar-2Line a:active {color: #e9e9e9; text-decoration: none;}
+.indexDIVSideBar-2Line a:visited {color: #e9e9e9; text-decoration: none;}
+.indexDIVSideBar-2LineLink {border-top: 1px solid #002258; background: #0045b4; padding-top: 4px;}
+.indexDIVSideBar-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineP {color: #C00000;}
+.indexDIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVSideBar-Empty {text-align: center; font-weight: bold; color: #808080;}
+.L2DIVSideBar-OuterBox {}
+.L2DIVSideBar-InnerBox {}
+.L2DIVSideBar-2Line {border-top: 1px solid #3a3a3a; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2Line1 {}
+.L2DIVSideBar-2Line2 {}
+.L2DIVSideBar-2LineFirst {border: 0px; padding-top: 5px;}
+.L2DIVSideBar-2LineLast {}
+.L2DIVSideBar-2Line a:link {color: #e9e9e9; text-decoration: none;}
+.L2DIVSideBar-2Line a:hover {color: #e9e9e9; text-decoration: none;}
+.L2DIVSideBar-2Line a:active {color: #e9e9e9; text-decoration: none;}
+.L2DIVSideBar-2Line a:visited {color: #e9e9e9; text-decoration: none;}
+.L2DIVSideBar-2LineLink {border-top: 1px solid #002258; background: #0045b4; padding-top: 4px;}
+.L2DIVSideBar-2LineLink a:link {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:active {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineP {color: #C00000;}
+.L2DIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.L2DIVSideBar-Empty {text-align: center; font-weight: bold; color: #808080;}
+.DIVSideBar-Admin {margin: 0px 0px 4px 0px; border: 1px solid #002D63; border-top: 0px; background: #00142A;}
+.DIVSideBar-Admin table {}
+.DIVSideBar-Admin td {padding: 2px;}
+.DIVSideBar-Admin div {padding: 4px;}
+.DIVSideBar-Admin input {border: 1px solid #ADBFD0; margin-left: 2px; margin-top: 1px;}
+.DIVSideBar-Submit {margin: 1px; border: 1px solid #27445F; background-color: #516D88; padding: 4px; text-align: center;}
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+</head>
+<body>
+<center>
+<map name="home-1-1">
+  <AREA SHAPE="rect" COORDS="934,4,964,36" TARGET="_blank" HREF="twitter">
+  <AREA SHAPE="rect" COORDS="901,1,932,34" TARGET="_blank" HREF="facebook">
+  <AREA SHAPE="rect" COORDS="0,0,893,150" HREF="http://www.highlanderssoccer.com/index.html">
+</map>
+<div><img src="http://www.highlanderssoccer.com/images/2012/home-1-1.jpg" width="970" height="150" usemap="#home-1-1" border="0" /></div>
+<table width="970" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td colspan="6" rowspan="3" width="160" class="nav"><img src="http://www.highlanderssoccer.com/images/2012/home-2-1.gif" width="160" height="32" border="0" /></td>
+<td colspan="6" rowspan="3" class="nav" align="left">
+  <table width="558" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td>
+<div id="main-menu" class="diimenu" menuclass="mainmenu"></div>
+</td>
+    </tr>
+  </table>
+</td>
+<td colspan="6" rowspan="3" class="nav"><img src="http://www.highlanderssoccer.com/common/images/1x1.gif" width="104" height="32" border="0"/></td>
+<td colspan="9"><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-1.gif" width="146" height="7" border="0" /></td>
+</tr>
+<tr>
+<td><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-2.gif" width="10" height="17" border="0" /></td>
+<td><a href="/index.html"><img id="LINK1" name="LINK1" src="http://www.highlanderssoccer.com/images/2012/home-2-Links-Home-OFF.gif" width="16" height="17" border="0" onmouseover="MM_swapImage('LINK1','','/images/2012/home-2-Links-Home-OFF.gif',1);" onmouseout="MM_swapImgRestore();" /></a></td>
+<td><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-3.gif" width="20" height="17" border="0" /></td>
+<td><a href="http://www.highlanderssoccer.com/scripts/runisa.dll?M2:gp::73780+index/SiteMap+E"><img id="LINK2" name="LINK2" src="http://www.highlanderssoccer.com/images/2012/home-2-Links-SiteMap-OFF.gif" width="16" height="17" border="0" onmouseover="MM_swapImage('LINK2','','/images/2012/home-2-Links-SiteMap-OFF.gif',1);" onmouseout="MM_swapImgRestore();" /></a></td>
+<td><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-4.gif" width="20" height="17" border="0" /></td>
+<td><a href="/calendar/index.html"><img id="LINK3" name="LINK3" src="http://www.highlanderssoccer.com/images/2012/home-2-Links-Calendar-OFF.gif" width="16" height="17" border="0" onmouseover="MM_swapImage('LINK3','','/images/2012/home-2-Links-Calendar-OFF.gif',1);" onmouseout="MM_swapImgRestore();" /></a></td>
+<td><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-5.gif" width="20" height="17" border="0" /></td>
+<td style="background: url(/images/2012/home-2-Links-2.gif);"><img src="http://www.highlanderssoccer.com/common/images/1x1.gif" width="16" height="1" border="0" /><br />
+<a href="javascript:PrintFriendly()"><script language="JavaScript">function PrintFriendly(){clickpop1=window.open("http://www.highlanderssoccer.com/scripts/runisa.dll?M2:gp::73780+print/Display+E+109+109+673889","clickpop1","toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=400")}</script><img id="LINK4" name="LINK4" src="http://www.highlanderssoccer.com/images/2012/home-2-Links-Print-OFF.gif" width="16" height="16" border="0" onmouseover="MM_swapImage('LINK4','','/images/2012/home-2-Links-Print-OFF.gif',1);" onmouseout="MM_swapImgRestore();" /><br />
+</a>
+</td>
+<td ><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-6.gif" width="12" height="17" border="0" /></td>
+</tr>
+<tr>
+<td colspan="9"><img src="http://www.highlanderssoccer.com/images/2012/home-2-Links-7.gif" width="146" height="8" border="0" /></td>
+</tr>
+</table>
+<table width="970" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top: 4px;">
+  <tr valign="top">
+  <td style="background: url(/images/2012/L3-3-bg1.gif) repeat-y;"><img src="http://www.highlanderssoccer.com/images/2012/L3-3-1.gif" width="5" height="9" border="0" /></td>
+  <td bgcolor="#FFFFFF">
+  <div style="background: url(/images/2012/home-3-bg2.gif) repeat-x;"><img src="http://www.highlanderssoccer.com/images/2012/home-3-bg2.gif" width="960" height="5" border="0" /></div>
+<!---- Begin Main Content ---->
+<div class="addthis_toolbox addthis_default_style"  style="float:right;">
+  <a class="addthis_button_email"></a>
+  <a class="addthis_button_print"></a>
+  <span class="addthis_separator">|</span>
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_google_plusone" g:plusone:count="false"></a>
+  <a class="addthis_button_facebook_like"></a>
+</div>
+<div style="clear:both;"></div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=demosphere"></script>
+<div class="ArticleMainContent">
+  <div class="textlarge ArticleTitle">Coaches</div>
+  <div class="ArticleTitleSpacer"></div>
+  <div class="ArticleStory"><p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><strong style="font-size: 14px;">Coaching Staff</strong></span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><a href="http://www.highlanderssoccer.com/Staff/673274.html" style="color: rgb(0, 0, 153);"><span style="color: rgb(0, 0, 205);">Xhulio Guri</span></a><br />
+&rsquo;97 Boys</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;">&#39;02/&#39;03 Boys White</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><a href="http://www.highlanderssoccer.com/Staff/718064.html"><span style="color: rgb(0, 0, 205);">Apollo Turnbow</span></a><br />
+&rsquo;00 Boys</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;">&#39;02 Boys<br />
+<br />
+<a href="http://www.highlanderssoccer.com/Staff/673279.html" style="color: rgb(0, 0, 153);"><span style="color: rgb(0, 0, 205);">Tony Betts</span></a></span><br />
+<span style="font-size: 14px;">&rsquo;04 Boys Blue</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><a href="http://www.highlanderssoccer.com/Staff/673878.html"><span style="color: rgb(0, 0, 205);">Shawn Martin</span></a></span><br />
+<span style="font-size: 14px;">&rsquo;04 Boys Blue</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><a href="http://www.highlanderssoccer.com/Staff/706313.html"><span style="color: rgb(0, 0, 205);">Kyle Schumann</span></a><br />
+&rsquo;05 Boys Blue</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;">&rsquo;06 Boys Blue</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="color: rgb(0, 0, 205);"><u><span style="font-size: 14px;">Salim Nelson</span></u></span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;">&#39;04 Boys White</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size:14px;">&#39;05 Boys White</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size:14px;"><u>Ben Ray</u></span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size:14px;">&#39;06 Boys Black</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size:14px;"><u>Anthony Welch</u></span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size:14px;">&#39;07 Boys Blue</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><a href="http://www.highlanderssoccer.com/Staff/673066.html" style="color: rgb(0, 0, 153);">Randy Totty</a></span><br />
+<span style="font-size: 14px;">&rsquo;01 Girls</span></p>
+<p style="text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif;"><span style="font-size: 14px;">&#39;08 Boys</span></p>
+<p style="text-align: center;">&nbsp;</p></div>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;JQuery;</div>
+ <link rel="stylesheet" href="http://www.highlanderssoccer.com/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.highlanderssoccer.com/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.highlanderssoccer.com/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2014 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(e) {
+    var menuclass = $j(e).attr('menuclass');
+    if (menuclass) {
+      $j.ajax({
+            url: '/menu-' + menuclass + '.js',
+            type: 'GET',
+            dataType: 'json',
+            success: function(json) {
+              var jsontext = json.toJSON();
+              renderHTML(e, jsontext);
+            }
+      });
+    }
+  } // fetchMenu
+  var renderHTML = function(e, jsontext) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '493926';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.highlanderssoccer.com/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:73780\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var json = eval('(' + jsontext + ')'),
+        $div = $j(e),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  return {
+    init: function() {
+      var menudivs = $j('div.diimenu');
+      $j.each(menudivs,function(){
+        fetchMenu(this);
+      });
+    }, // init
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+<!---- End Main Content ---->
+  </td>
+  <td style="background: url(/images/2012/L2-3-bg1.gif) repeat-y;"><img src="http://www.highlanderssoccer.com/images/2012/L2-3-1.gif" width="5" height="9" border="0" /></td>
+  </tr>
+  </table>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+  <td><img src="http://www.highlanderssoccer.com/images/2012/L3-4-1.png" width="5" height="9" border="0" /></td>
+  <td width="100%" style="background: url(/images/2012/home-4-2.gif) repeat-x;"><img src="http://www.highlanderssoccer.com/images/2012/home-4-2.gif" width="1" height="9" border="0" /></td>
+  <td><img src="http://www.highlanderssoccer.com/images/2012/L2-4-1.png" width="5" height="9" border="0" /></td>
+  </tr>
+  </table>
+</td></tr>
+</table>
+<table width="970" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td class="textsmall" style="background: url(/images/2012/home-5-1.gif) no-repeat; font-weight: bold;">
+  <div><img src="http://www.highlanderssoccer.com/common/images/1x1.gif" width="739" height="4" border="0" /></div>
+  <div class="Copyright1" style="padding-left: 12px; padding-top:5px;">&copy; Copyright 2014
+ Bixby Highlanders. All rights reserved.</div>
+  <div class="Copyright2" style="padding-left: 18px;">&copy; Copyright 2014
+ <a href="http://www.demosphere.com" target="_new"><span class="Copyright2">Demosphere International, Inc.</span></a> All rights reserved.</div>
+</td>
+<td width="100%" style="background: url(/images/2012/home-5-2.gif) repeat-x;"><img src="http://www.highlanderssoccer.com/images/2012/home-5-2.gif" width="1" height="48" border="0" /></td>
+<td><a href="http://www.demosphere.com" target="_new"><img src="http://www.highlanderssoccer.com/images/2012/home-5-3.gif" width="230" height="48" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems" /></td>
+</tr>
+</table>
+<br />
+<br />
+</center>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34971720-14']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;JQuery;</div>
+</body>
+</html>

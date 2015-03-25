@@ -1,0 +1,885 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<head>
+  <base href="http://www.kcselect.org/View-users-list/Coaches.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="kansas city soccer, soccer kc, kc youth soccer, kansas city youth soccer" />
+  <meta name="description" content="KC Select, The Kansas City premier youth soccer organization; providing league play, player development, instructional programs and skill development opportunities." />
+  
+  <title>Coaches</title>
+  <link href="/templates/jv_chao/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.kcselect.org/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/jv_menus/jv_moomenu/jv.moomenu.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_stalker/assets/css/stalker.css" type="text/css" />
+  <style type="text/css">
+    <!--
+a.cefeedback{right:0;background:url("http://www.kcselect.org/plugins/system/cefeedback/feedback-blue-light.png") no-repeat scroll 0 50% transparent !important;outline:medium none;padding:0 !important;position:fixed;text-indent:-9999px;top:45%;width:26px;height:100px;}a.cefeedback:hover,a.cefeedback:focus,a.cefeedback:active{background:url("http://www.kcselect.org/plugins/system/cefeedback/feedback-blue-light.png") no-repeat scroll 0 50% transparent !important;}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://www.kcselect.org/components/com_k2/js/k2.js"></script>
+  <script type="text/javascript">
+window.addEvent('domready', function() {var ceFeedbackHover = new Asset.image('http://www.kcselect.org/plugins/system/cefeedback/feedback-blue-light.png');});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});var K2RatingURL = 'http://www.kcselect.org/';
+  </script>
+  <script type='text/javascript'>
+/*<![CDATA[*/
+	var jax_live_site = 'http://www.kcselect.org/index.php';
+	var jax_site_type = '1.5';
+	var jax_token_var = 'd1d1bc3b12f43e84c8268dbebc83e915';
+/*]]>*/
+</script><script type="text/javascript" src="http://www.kcselect.org/plugins/system/pc_includes/ajax_1.3.js"></script>
+  <script type="text/javascript" src="http://www.kcselect.org/components/com_comprofiler/js/jquery-1.5.2/jquery-1.5.2.min.js?v=567567e87a7ceb90"></script><script type="text/javascript"><!--
+jQuery.noConflict();
+--></script>
+	<script type="text/javascript" src="http://www.kcselect.org/components/com_comprofiler/js/tabpane.min.js?v=e3a419642b0778f8"></script>
+	<script type="text/javascript"><!--
+jQuery(document).ready(function($){
+var cbshowtabsArray = new Array();
+function showCBTab( sName ) {
+	if ( typeof(sName) == 'string' ) {
+		sName = sName.toLowerCase();
+	}
+	for (var i=0;i<cbshowtabsArray.length;i++) {
+		for (var j=0;j<cbshowtabsArray[i][0].length;j++) {
+			if (cbshowtabsArray[i][0][j] == sName) {
+				eval(cbshowtabsArray[i][1]);
+				return;
+			}
+		}
+	}
+}
+
+ {
+		var cbUserURLs = new Array('http://www.kcselect.org/View-user-profile.html?user=422','http://www.kcselect.org/View-user-profile.html?user=276','http://www.kcselect.org/View-user-profile.html?user=428','http://www.kcselect.org/View-user-profile.html?user=438','http://www.kcselect.org/View-user-profile.html?user=284','http://www.kcselect.org/View-user-profile.html?user=394','http://www.kcselect.org/View-user-profile.html?user=293','http://www.kcselect.org/View-user-profile.html?user=405','http://www.kcselect.org/View-user-profile.html?user=290','http://www.kcselect.org/View-user-profile.html?user=294','http://www.kcselect.org/View-user-profile.html?user=400','http://www.kcselect.org/View-user-profile.html?user=300','http://www.kcselect.org/View-user-profile.html?user=396','http://www.kcselect.org/View-user-profile.html?user=421','http://www.kcselect.org/View-user-profile.html?user=435','http://www.kcselect.org/View-user-profile.html?user=429','http://www.kcselect.org/View-user-profile.html?user=310','http://www.kcselect.org/View-user-profile.html?user=308','http://www.kcselect.org/View-user-profile.html?user=424','http://www.kcselect.org/View-user-profile.html?user=331','http://www.kcselect.org/View-user-profile.html?user=423','http://www.kcselect.org/View-user-profile.html?user=430','http://www.kcselect.org/View-user-profile.html?user=336','http://www.kcselect.org/View-user-profile.html?user=342','http://www.kcselect.org/View-user-profile.html?user=427','http://www.kcselect.org/View-user-profile.html?user=432','http://www.kcselect.org/View-user-profile.html?user=437','http://www.kcselect.org/View-user-profile.html?user=420','http://www.kcselect.org/View-user-profile.html?user=434','http://www.kcselect.org/View-user-profile.html?user=358','');
+		$('#cbUserTable > tbody > tr').click( function(e) {
+			if ( ! ( $(e.target).is('a') || ( $(e.target).is('img') && $(e.target).parent().is('a') ) || $(e.target).hasClass('cbClicksInside') || ( $(e.target).parents('.cbClicksInside').length > 0 ) || ( $(this).attr('id') == '' ) ) ) {
+				window.location = cbUserURLs[this.id.substr(3)];
+				return false;
+			}
+		} );
+	}});
+--></script>
+  <script type="text/javascript" src="http://www.kcselect.org/templates/jv_chao/jv_menus/jv_moomenu/jv.moomenu.js"></script>
+
+<link rel="stylesheet" href="http://www.kcselect.org/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://www.kcselect.org/templates/system/css/general.css" type="text/css" />
+		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'/>
+	
+			<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/default.css" type="text/css" />
+		<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/template.css" type="text/css" />
+
+				<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/typo.css" type="text/css" />
+		
+				<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/googlefonts.css" type="text/css" />
+		
+		<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/css3.php?url=http://www.kcselect.org/templates/jv_chao/" type="text/css" />
+	<script type="text/javascript">
+		var baseurl = "http://www.kcselect.org/";
+		var jvpathcolor = 'http://www.kcselect.org/templates/jv_chao/css/colors/';
+		var tmplurl = 'http://www.kcselect.org/templates/jv_chao/';
+		var CurrentFontSize = parseInt('3');
+	</script>
+	<script type="text/javascript" src="http://www.kcselect.org/templates/jv_chao/js/jv.script.js"></script>
+	
+	<!--[if lte IE 6]>
+	<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/ie6.css" type="text/css" />
+	<script type="text/javascript" src="http://www.kcselect.org/templates/jv_chao/js/ie_png.js"></script>
+	<script type="text/javascript">
+	window.addEvent ('load', function() {
+	   ie_png.fix('.png');
+	});
+	</script>
+	<![endif]-->
+	<!--[if lte IE 7]>
+	<link rel="stylesheet" href="http://www.kcselect.org/templates/jv_chao/css/ie7.css" type="text/css" />
+	<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12254621-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body id="bd" class="fs3   ltr">
+    <div id='fb-root'></div><script type='text/javascript'>
+    
+    // Load the SDK Asynchronously
+    (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = '//connect.facebook.net/en_GB/all.js';
+     d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+    
+    </script>
+
+<div id="jv-wrapper">
+	<div id="jv-wrapper-inner">
+	
+		<!-- HEADER -->
+		<div id="jv-header" class="clearfix">
+			<div class="jv-wrapper"> 
+				<div id="jv-header-inner">
+					
+					<div id="jv-logo">
+					 
+						 <a class="png" href="http://www.kcselect.org/" title="http://www.kcselect.org">
+						<span> http://www.kcselect.org </span>
+						</a> 
+						 
+
+						
+
+					</div>
+
+
+					 <div id="top_text">
+												One of Kansas City's Premier Youth <br>
+Soccer Organizations							 
+														&nbsp;
+					</div>  
+					
+					<div style="float:left;">
+					<!--  -->
+					
+					
+						
+					<div id="jv-topmenu">
+						<div id="jv-topmenu-inner">
+									<div class="moduletable">
+						<div class="modulecontent"><ul class="menu"><li class="item77 first last"><a href="http://www.kcselect.org/Log-in.html"><span>Login</span></a></li></ul></div>
+		</div>
+			<div class="moduletable">
+						<div class="modulecontent"><div id="modstalker">
+ <div id="modstalkerleft">
+  <ul>
+	<li class="leftnotext"><a href="http://www.facebook.com/profile.php?id=110185929027353" rel="nofollow" title="Facebook Page: 110185929027353" target="_blank"><img src="/media/stalker/icons/default/facebook.png" alt="Facebook Page: 110185929027353" width="36" height="36" id="FacebookPage" style="width:36px; height:36px;"  /></a></li>
+	<li class="leftnotext"><a href="http://twitter.com/kcselectsoccer" rel="nofollow" title="Twitter: kcselectsoccer" target="_blank"><img src="/media/stalker/icons/default/twitter.png" alt="Twitter: kcselectsoccer" width="36" height="36" id="Twitter" style="width:36px; height:36px;"  /></a></li>
+  </ul>
+ </div>
+ <div class="clear"></div>
+</div>
+
+</div>
+		</div>
+	
+						</div>
+					</div>	
+					  
+					
+										<div id="jv-search"><form action="index.php" method="post">
+	<div class="png search">
+		<input name="searchword" id="mod_search" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="134" />
+</form></div>
+					
+					</div>
+				
+					
+				</div>
+			</div>
+		</div>
+		<!-- END HEADER -->
+		
+				<div id="jv-mainmenu" class="noslide clearfix">
+					<div class="jv-wrapper">
+				<div id="jv-mainmenu-inner" >
+					<div class="menusys_moo"><ul id="menusys_moo"><li class="first-item"><a href="/"  class=' item' id="menusys1" title="Home"><span class="menusys_name">Home</span></a></li><li class=""><a href="/tryouts2.html"  class=' item' id="menusys159" title="Tryouts"><span class="menusys_name">Tryouts</span></a></li><li class=""><a href="/teams2.html"  class=' item' id="menusys160" title="Teams"><span class="menusys_name">Teams</span></a></li><li class=" hasChild"><a  id="menusys101" title="Programs"><span class="menusys_name">Programs</span></a><ul><li class="first-item"><a href="/programs/academy.html"  class=' item' id="menusys107" title="Soccer School"><span class="menusys_name">Soccer School</span></a></li><li class=""><a href="/programs/elite.html"  class=' item' id="menusys161" title="Elite Player Training"><span class="menusys_name">Elite Player Training</span></a></li><li class=""><a href="/programs/campsclinics.html"  class=' item' id="menusys108" title="Camps/Clinics"><span class="menusys_name">Camps/Clinics</span></a></li><li class=" hasChild"><a href="/programs/tournaments.html"  class=' item' id="menusys106" title="Tournaments"><span class="menusys_name">Tournaments</span></a><ul><li class="first-item"><a href="/programs/tournaments/midwest-mothers-day-classic.html"  class=' item' id="menusys127" title="Midwest Mother's Day Classic"><span class="menusys_name">Midwest Mother's Day Classic</span></a></li><li class="last-item"><a href="/programs/tournaments/midwest-kickoff-classic.html"  class=' item' id="menusys123" title="Midwest Kickoff Classic"><span class="menusys_name">Midwest Kickoff Classic</span></a></li></ul></li><li class=""><a href="/programs/collegeprep.html"  class=' item' id="menusys156" title="College Prep"><span class="menusys_name">College Prep</span></a></li><li class="last-item"><a href="/programs/golftournament.html"  class=' item' id="menusys162" title="Scholarship Golf Tournament"><span class="menusys_name">Scholarship Golf Tournament</span></a></li></ul></li><li class=" hasChild"><a  id="menusys102" title="Coaches"><span class="menusys_name">Coaches</span></a><ul><li class="first-item"><a href="/View-users-list/Coaches.html"  class=' active' id="menusys110" title="Directory"><span class="menusys_name">Directory</span></a></li><li class="last-item"><a href="/typography/policies.html"  class=' item' id="menusys112" title="Policies and Forms"><span class="menusys_name">Policies and Forms</span></a></li></ul></li><li class=" hasChild"><a  id="menusys41" title="Managers"><span class="menusys_name">Managers</span></a><ul><li class="first-item"><a href="/managers/forms.html"  class=' item' id="menusys115" title="Forms"><span class="menusys_name">Forms</span></a></li></ul></li><li class=" hasChild"><a  id="menusys149" title="Apparel"><span class="menusys_name">Apparel</span></a><ul><li class="first-item"><a target="_blank" href="/spirit-wear-coming-soon.html"  class=' item' id="menusys117" title="Spiritwear"><span class="menusys_name">Spiritwear</span></a></li></ul></li><li class=" hasChild"><a  id="menusys76" title="Contact"><span class="menusys_name">Contact</span></a><ul><li class="first-item"><a href="/contact/contact-us.html"  class=' item' id="menusys98" title="Contact Us"><span class="menusys_name">Contact Us</span></a></li><li class=""><a href="/View-users-list/KC-Select-Board.html"  class=' item' id="menusys99" title="KC Select Board"><span class="menusys_name">KC Select Board</span></a></li><li class="last-item"><a href="/contact/website-contact.html"  class=' item' id="menusys151" title="Website Contact"><span class="menusys_name">Website Contact</span></a></li></ul></li><li class="last-item hasChild"><a  id="menusys100" title="About KC Select"><span class="menusys_name">About KC Select</span></a><ul><li class="first-item"><a href="/about-kc-select.html"  class=' item' id="menusys134" title="Learn More..."><span class="menusys_name">Learn More...</span></a></li><li class=""><a href="/View-users-list/KC-Select-Board.html"  class=' item' id="menusys119" title="Board"><span class="menusys_name">Board</span></a></li><li class=""><a href="/about-us/alumni.html"  class=' item' id="menusys120" title="Alumni"><span class="menusys_name">Alumni</span></a></li><li class="last-item"><a href="/become-a-kc-select-sponsor.html"  class=' item' id="menusys122" title="Sponsors"><span class="menusys_name">Sponsors</span></a></li></ul></li></ul></div>				</div>
+			</div>
+		</div>
+
+		
+		
+				
+		<!-- MAINBODY -->
+		<div id="jv-mainbody" class="clearfix">
+			<div class="jv-wrapper">
+				<div id="jv-mainbody-inner">
+				
+					<!-- CONTAINER -->
+					<div id="jv-container-full" class="clearfix">
+						<div id="jv-content">
+							<div id="jv-maincontent" >
+								
+								
+								<div id="jv-component" class="clearfix">
+									
+									<div class="cbUsersList"><div id="cbUsersListInner">
+
+  <form class="cb_form" name="adminForm" id="adminForm" method="get" action="http://www.kcselect.org/index.php?option=com_comprofiler&amp;task=usersList&amp;listid=5&amp;Itemid=110&amp;action=search" >
+    <input type="hidden" name="option" value="com_comprofiler" />
+    <input type="hidden" name="task" value="usersList" />
+    <input type="hidden" name="Itemid" value="110" />
+    <input type="hidden" name="limitstart" id="cbListlimitstart" value="0" />
+    <input type="hidden" name="search" value="" />
+  <input type="hidden" name="cbsecuritym3" value="cbm_22111aad_1855fc0f_5464deb8063ce0bae4268982aa02cd86" />
+<div class="cb_template_default">
+	<div class="cbUserListHeadTitle">
+
+		<div class="cbUserListChanger">
+
+			<div class="cbUserListChangeItem cbUserListplists">
+<select name="listid" id="listid" class="inputbox" size="1" onchange="this.form.submit();">
+	<option value="5" selected="selected">Coaches</option>
+	<option value="10">Apollos 04/05</option>
+	<option value="11">Ambush 04/05</option>
+	<option value="12">Roughnecks 04/05</option>
+	<option value="13">Strikers 04/05</option>
+	<option value="15">United 03/04 Boys</option>
+	<option value="16">Rowdies 03/04</option>
+	<option value="17">Spurs 03/04</option>
+	<option value="18">Rangers 03/04</option>
+	<option value="19">United 02/03</option>
+	<option value="20">Arsenal 00/01</option>
+	<option value="26">United 99/00 Boys</option>
+	<option value="30">Academy Blast Red 04/05</option>
+	<option value="34">Academy Blast 04/05</option>
+	<option value="35">Academy Attack 03/04</option>
+	<option value="36">Academy Force 03/04</option>
+	<option value="37">Heat 03/04</option>
+	<option value="38">United 03/04</option>
+	<option value="42">Impact 01/02</option>
+	<option value="43">Flames Blue 01/02</option>
+	<option value="44">Fury 01/02</option>
+	<option value="45">Union 01/02</option>
+	<option value="47">Flames 01/02</option>
+	<option value="48">KCS Spirit USA 00/01</option>
+	<option value="50">Nationals 99/00</option>
+	<option value="51">United 99/00</option>
+	<option value="53">Velocity 98/99</option>
+	<option value="54">Fury 96/97</option>
+	<option value="55">Reign 96/97</option>
+	<option value="56">Renegades 96/97</option>
+	<option value="68">Dynamo 01/02</option>
+	<option value="73">Shock 00/01</option>
+	<option value="74">AR Select 99/00</option>
+	<option value="75">Impact 99/00</option>
+	<option value="14">Team Staff</option>
+	<option value="6">KC Select Board</option>
+	<option value="64">Academy Attack 05/06</option>
+	<option value="62">Rapids 01/02</option>
+	<option value="63">Academy Nitro 05/06</option>
+</select>
+</div>
+
+		</div>
+
+		<div class="contentheading cbUserListTitle">Coaches</div>
+
+   		<div class="contentdescription cbUserListDescription"><p>Current KC Select Coaches</p></div>
+
+	<div class="contentdescription cbUserListResultCount"><strong>31</strong>  User(s):</div>
+		<div class="cbClr"></div>
+
+	</div>
+</div>  </form>
+	<div class="cbUserListPagination cbUserListPaginationTop" style="width:100%;text-align:center;"><span class="pagenav">&lt;&lt; Start</span> <span class="pagenav">&lt; Prev</span> 
+ <span class="pagenav">[1]</span> 
+<a class="pagenav" href="http://www.kcselect.org/View-users-list/Coaches/Page-2.html"><strong>2</strong></a>
+<a class="pagenav" href="http://www.kcselect.org/View-users-list/Coaches/Page-2.html" title="Next">Next &gt;</a>
+<a class="pagenav" href="http://www.kcselect.org/View-users-list/Coaches/Page-2.html" title="End">End &gt;&gt;</a></div>
+<div class="cb_template_default">	<hr class="cbUserListHrTop" size="1" />
+	<table id="cbUserTable" class="cbUserListTable cbUserListT_5">
+	  <thead>
+		<tr class="sectiontableheader">
+			<th><b>Coach</b></th>
+			<th><b>Coach Profile</b></th>
+
+		</tr>
+	  </thead>
+	  <tbody>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU0">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=422">Aaron Phipps</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=422"><img src="http://www.kcselect.org/images/comprofiler/tn422_530b7bbf203dd.jpg" alt="Aaron Phipps" title="Aaron Phipps" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF "F" License-coached youth since 2011</li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU1">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=276">Aaron Littell</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=276"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Aaron Littell" title="Aaron Littell" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU2">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=428">Bill Tott</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=428"><img src="http://www.kcselect.org/images/comprofiler/tn428_530ba11701bd5.jpg" alt="Bill Tott" title="Bill Tott" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF "F" License</li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU3">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=438">Bob Littell</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=438"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Bob Littell" title="Bob Littell" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>USSF "D" License, involved in coaching 30 years</li>
+<li>NSCAA Diploma</li>
+<li>Retired Referee</li>
+<li>USSF, MSHAA, NISOA</li>
+<li>Former NPSL, MISL Official</li>
+</ul>
+<div></div>
+<div></div></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU4">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=284">Bryan Schmitt</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=284"><img src="http://www.kcselect.org/images/comprofiler/tn284_4e69109b66659.jpg" alt="Bryan Schmitt" title="Bryan Schmitt" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>NSCAA Advanced National Diploma -- (USSF B license equivalent)</li>
+<li>Played at Missouri State University 1988-90-NCAA Division 1</li>
+<li>Truman High School Boy's and Girl's coach from 1996-2011</li>
+<li>Physical Education Teacher at Truman High School 1996-present</li>
+<li>Missouri Public Schools Western Region Coach of the Year 2008</li>
+<li>KC Select girls coach since 2006</li>
+</ul>
+<p><span id="_plain_text_marker"> </span></p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU5">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=394">Chad Basler</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=394"><img src="http://www.kcselect.org/images/comprofiler/tn394_53176197dbe49.jpg" alt="Chad Basler" title="Chad Basler" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>USSF National "E" License -coaching youth since 2009 </li>
+<li>Vianney High School St. Louis 1992-1995, Soccer Co-Captain 1995</li>
+<li>NWMSU, Baseball Division II 1995-1999</li>
+</ul></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU6">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=293">Chris Travalent</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=293"><img src="http://www.kcselect.org/images/comprofiler/tn293_4e690e8f7e90e.jpg" alt="Chris Travalent" title="Chris Travalent" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>USSF D License, coached youth since 1999</li>
+<li>Coached first-ever girls team from KC Metro area to represent Missouri at the Region II Soccer Championships - 2003</li>
+<li>President and co-founder KC Select</li>
+<li>Past President KC Metro League </li>
+<li>Baker University Varsity GK - 4 years</li>
+<li>NAIA HAAC, All-Conference 4 years</li>
+<li>NAIA District 10 All-District 2 years, Team Captain</li>
+<li>Lee's Summit High School Varsity GK – 3 years 1984-1986</li>
+<li>All-Conference, All-District, Team Captain</li>
+</ul></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU7">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=405">Christine Cross</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=405"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Christine Cross" title="Christine Cross" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>USSF "F" License</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU8">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=290">Chuck Mathis</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=290"><img src="http://www.kcselect.org/images/comprofiler/tn290_4e690a8dd6a19.jpg" alt="Chuck Mathis" title="Chuck Mathis" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF D License, coached youth since 2001</li>
+<li>NSCAA Youth II Diploma</li>
+<li>NSCAA Goalkeeper I Diploma</li>
+<li>Missouri Southern State University-1987-1991, Co-Captain (1990, 1991)</li>
+<li>Lee's Summit High School Varsity-1985-1986</li>
+<li>All-Conference 1985, 1986, All-District 1985, 1986, All-Metro 1986, Co-Captain 1986</li>
+</ul>
+<p><span id="_plain_text_marker"> </span></p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU9">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=294">Clayden Weems</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=294"><img src="http://www.kcselect.org/images/comprofiler/tn294_4e6911391dca5.jpg" alt="Clayden Weems" title="Clayden Weems" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>English B License.</li>
+<li>Played with English professional club</li>
+<li>Represented the All-City and All-State teams, coached All-City teams.</li>
+<li>Four year starter at Alsager College, England</li>
+<li>Played in two British  College Finals .</li>
+<li>Youth Development Coordinator (Oldham Athletic F.C)</li>
+<li>Notre Dame de Sion head coach 1991-1995</li>
+<li>Co-Founder KC Select Soccer club.</li>
+<li>Organized and hosted the first MRL games in Kansas City.</li>
+<li>Coached 4 year starters at MU,KU,Nebraska,Iowa, Wake Forest etc.</li>
+<li>Coached State champions and Nationally ranked teams.</li>
+<li>B.Ed Honors degree: Physical Education and Mathematics</li>
+<li>Former Athletic Director in English High School</li>
+</ul>
+<p><span id="_plain_text_marker"> </span></p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU10">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=400">Donovan Willis</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=400"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Donovan Willis" title="Donovan Willis" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSF National "C" License</li>
+<li>NSCAA "C" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU11">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=300">Edward Burkett</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=300"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Edward Burkett" title="Edward Burkett" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSF National "D" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU12">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=396">Emir Esparza</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=396"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Emir Esparza" title="Emir Esparza" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSF National "C" License</li>
+<li>NSCAA "B" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU13">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=421">Ernie Craig</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=421"><img src="http://www.kcselect.org/images/comprofiler/tn421_530b7c7c70b9c.jpg" alt="Ernie Craig" title="Ernie Craig" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li><span style="line-height:1.3em;">USSF National "D" License -coached youth since 2010</span></li>
+</ul>
+<p>Coach Ernie at age five began playing soccer for the Paul Klover Soccer League in Sedalia, Mo.  During the next 7 years, his team garnered many division championships, and the 1984 team won the Indoor Division Title.</p>
+<p>From 1985 to 1989, he played Select soccer for the Sedalia Travelers, the Budweiser Travelers, and the Bandag Travelers.  His teams played tournaments at Kemper Arena (KC, MO), the Collinsville Invitational (IL), and the Show-Me-State Games, placing in the top three in each one.  Ernie's 1987 team won the Kansas City Soccer League Championship.</p>
+<p>He went on to Smithton H.S. where he played Varsity soccer from the '92-'93 to '94-'95 seasons.  During the '93 and '94 seasons, Ernie was named to both the All District and All Conference teams.  After leading Smithton with 21 goals his senior year (finishing his career with 36 goals, just 9 shy of the school record), Ernie was named to the Missouri All State team by the MSC/OA as a striker.</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU14">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=435">Fred Olsson</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=435"><img src="http://www.kcselect.org/images/comprofiler/tn435_53261d6e8d5b9.jpg" alt="Fred Olsson" title="Fred Olsson" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF "F" License-coached youth since 2011</li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU15">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=429">Jameson Rinehart</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=429"><img src="http://www.kcselect.org/images/comprofiler/tn429_5313ac14688f4.jpg" alt="Jameson Rinehart" title="Jameson Rinehart" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF National "D" License-coached youth since 2008</li>
+<li>Kearney HS player 1993-1997</li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU16">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=310">Jeff Davis</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=310"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Jeff Davis" title="Jeff Davis" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSA National "D" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU17">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=308">Jeffrey Cole</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=308"><img src="http://www.kcselect.org/images/comprofiler/tn308_4f373d61b6591.jpg" alt="Jeffrey Cole" title="Jeffrey Cole" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p><span style="text-decoration:underline;"><strong>Professional Licenses:</strong></span></p>
+<ul>
+<li>USSF National "A" (2012), USSF National "B" (2009)</li>
+<li>USSF National Goalkeepers License January 2011</li>
+<li>NSCAA Advanced National License (2007), National License (2006), State Diploma (2004)</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>Hutchinson Community College</strong></span>: Assistant women's soccer coach 2009 - 2010</p>
+<ul>
+<li>KJCAA Conference Champs (11-0) 16-1-1 overall Ranked as high as #10 in the Nation (2009)</li>
+<li>KJCAA Conference Champs (12-0) 21-1 overall (2010)</li>
+<li>Region VI Champs, Ranked as high as #3 in the Nation (2010)</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>River City Soccer Club:</strong></span> Staff Coach 1997-2010</p>
+<ul>
+<li>River City Flames U-12 Girls State Cup Champs (2008)</li>
+<li>River City Flames U-13 Girls State Cup Champs (2009)</li>
+<li>WFC Strikers U-12 Girls State Cup Finalist (2010)</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>US Youth Soccer Region II:</strong></span> Staff Coach 2009 - Present</p>
+<ul>
+<li>97 girls developmental staff coach (2009)</li>
+<li>97, 98 girls developmental staff coach (2010)</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>Kansas Olympic Development Program:</strong></span> Staff Coach 2007-Present</p>
+<ul>
+<li>91 girls assistant staff coach (2007)</li>
+<li>96 girls head staff coach (2008)</li>
+<li>98 girls head staff coach (2009)</li>
+<li>99 girls head staff coach (2010)</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>Wichita Wings:</strong></span> Developmental Player/Equipment Manager/Head of Game Day Operations June 1997-May 2001</p>
+<ul>
+<li>Developmental player</li>
+<li>Coordinated all game day operations at the Kansas Coliseum</li>
+<li>Managed activities in the press box including radio announcing</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>McPherson College:</strong></span> Assistant Men's Soccer Coach 1997-1998</p>
+<ul>
+<li>1998 8-10-0 overall / 4-4 conference lost in KCAC quarters</li>
+<li>1 player All-KCAC / 3 players 2nd team All-KCAC</li>
+<li>1997 4-13-0 overall / 3-5 conference</li>
+</ul>
+<ul>
+<li><span style="line-height:1.3em;">UMKC Women's Soccer Team Assistant Coach-2013 to present</span></li>
+</ul></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU18">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=424">John Dillon</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=424"><img src="http://www.kcselect.org/images/comprofiler/tn424_5326715a1c8b4.jpg" alt="John Dillon" title="John Dillon" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>USSF National "D" License</li>
+<li>Participated in soccer, basketball, track, and football in Burlington, Iowa, where he holds school’s record for career goals. </li>
+<li>After briefly playing on Iowa State's soccer club team, John walked-on as a place kicker for the Iowa State football team from 1994-1996. </li>
+<li>Coached youth soccer for 10 years. </li>
+<li>Tournament Championships include: 
+<ul>
+<li><span style="font-family:Arial,sans-serif;line-height:normal;">Midwest All Girls Invitational</span></li>
+<li><span style="font-family:Arial,sans-serif;line-height:normal;">Emerald Cup Tournament </span></li>
+<li><span style="font-family:Arial,sans-serif;line-height:normal;">Kansas City Cup Tournament</span></li>
+<li><span style="font-family:Arial,sans-serif;line-height:normal;">Autumn Bash Tournament </span></li>
+<li><span style="font-family:Arial,sans-serif;line-height:normal;">Kickin’ For Kids 3v3 Tournament</span></li>
+</ul>
+</li>
+</ul></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU19">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=331">Mark Bruno</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=331"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Mark Bruno" title="Mark Bruno" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSA National "D" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU20">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=423">Matt Robb</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=423"><img src="http://www.kcselect.org/images/comprofiler/tn423_530b743d8211e.jpg" alt="Matt Robb" title="Matt Robb" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF "D" License-coached youth since 2004</li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU21">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=430">Megan Stueve</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=430"><img src="http://www.kcselect.org/images/comprofiler/tn430_5317628abab6b.jpg" alt="Megan Stueve" title="Megan Stueve" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p><span style="line-height:1.3em;">Coaching experience: </span></p>
+<ul>
+<li><span style="line-height:1.3em;">USSF "F" License </span></li>
+<li><span style="line-height:1.3em;">Youth Private Soccer lessons 2012-14</span></li>
+<li><span style="line-height:1.3em;">MSSU: Coach Youth Soccer Camps 2008-12</span></li>
+<li><span style="line-height:1.3em;">Lee's Summit High School Girls Varsity Assistant Soccer Coach 2013-14</span></li>
+</ul>
+<p><span style="line-height:1.3em;">Playing experience: </span></p>
+<ul>
+<li><span style="line-height:1.3em;">Lee's Summit High School Varsity 2004-08 </span></li>
+<li><span style="line-height:1.3em;">All Conference, All District, All Metro, All Region </span></li>
+<li><span style="line-height:1.3em;">Attended Missouri Southern State University</span></li>
+<li><span style="line-height:1.3em;">Named MSSU Women’s athlete of the week three times </span></li>
+<li><span style="line-height:1.3em;">Nominated for All-MIAA Women’s soccer player of the week 5 times</span></li>
+<li><span style="line-height:1.3em;">Named All-MIAA Women’s soccer player of the week</span></li>
+<li><span style="line-height:1.3em;">Team Captain </span></li>
+<li><span style="line-height:1.3em;">First-team All Conference, All Region</span></li>
+<li><span style="line-height:1.3em;">MSSU Women's Soccer MVP MSSU Female Athlete of the Year</span></li>
+<li><span style="line-height:1.3em;">All-MIAA Player of the Year Nominee </span></li>
+<li><span style="line-height:1.3em;">Ranked 10th in the nation for fasted goal scored in D11 Women's Soccer</span></li>
+<li><span style="line-height:1.3em;">Invited to play Fall 2012 with Kansas City Shock as outside midfielder </span></li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU22">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=336">Mike Mathis</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=336"><img src="http://www.kcselect.org/images/comprofiler/tn336_4f73130bc323b.jpg" alt="Mike Mathis" title="Mike Mathis" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>USSF D License, coached youth since 1996</li>
+<li>NSCAA Youth II Diploma</li>
+<li>NSCAA Goalkeeper I Certification</li>
+<li>Missouri Southern State University Varsity Soccer: 1991, 1992, 1993, 1994</li>
+<li>All Academic MIAA, All Conference MIAA</li>
+<li>Lee's Summit High School Varsity Soccer:  1988, 1989, 1990 (All Conference, All District, All Area)</li>
+<li>Master of Science in Exercise Science</li>
+<li>Member of American College of Sports Medicine and National Strength and Conditioning Association</li>
+<li>Certified ACSM-HFI, NESTA.Speed, Agility & Quickness Trainer</li>
+</ul>
+<p><span id="_plain_text_marker"> </span></p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU23">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=342">Nicole Littell</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=342"><img src="http://www.kcselect.org/images/comprofiler/tn342_51a547e72d6e4.jpg" alt="Nicole Littell" title="Nicole Littell" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li><span style="line-height:1.3em;">*Youth coach since 2006</span></li>
+<li><span style="line-height:1.3em;">*William Jewell College Soccer (Captain, Offensive Player of the year-2009,2010)</span></li>
+<li><span style="line-height:1.3em;">*USA Women's National Futsal Team (invited 2010)</span></li>
+<li><span style="line-height:1.3em;">*Blue Springs South varsity Soccer (2002-2006; Captain, All Conference, All Area)</span></li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU24">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=427">Paul Thompson</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=427"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Paul Thompson" title="Paul Thompson" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li>USSF National "C" License</li>
+<li>NSCAA "B" License</li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU25">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=432">Ray Dlugolecki</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=432"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Ray Dlugolecki" title="Ray Dlugolecki" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSF National "D" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU26">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=437">Rich Wolf</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=437"><img src="http://www.kcselect.org/components/com_comprofiler/plugin/templates/webfx/images/avatar/tnnophoto_n.png" alt="Rich Wolf" title="Rich Wolf" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSF National "D" License</li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU27">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=420">Rob Rance</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=420"><img src="http://www.kcselect.org/images/comprofiler/tn420_53262d5f02edd.jpg" alt="Rob Rance" title="Rob Rance" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><ul>
+<li>USSF National "D" License</li>
+<li>FA Level 1 Coaching</li>
+</ul>
+<div><span style="color:#000000;font-family:arial,helvetica,sans-serif;line-height:normal;">Rob is from  London, England</span><span style="color:#000000;font-family:arial,helvetica,sans-serif;line-height:normal;"> and started playing soccer when he was six. He played representative soccer throughout his youth, and at the age of 13, he played for Alton Soccer Club in Hampshire.  Rob joined the Royal Navy and earned representative honors with both US Portsmouth FC and Devonport Services FC playing in semi-professional leagues on the South Coast.  Later he played and coached for many years with Bembridge FC as well as playing Representative football for the Navy.</span></div>
+<div><span style="color:#000000;font-family:arial,helvetica,sans-serif;line-height:normal;">
+<p style="margin:10px0px;padding:0px;font-family:Arial,sans-serif;"> </p>
+</span></div></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry1" style="cursor:hand;cursor:pointer;" id="cbU28">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=434">Ryan Kelly</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=434"><img src="http://www.kcselect.org/images/comprofiler/tn434_532666bd3385c.jpg" alt="Ryan Kelly" title="Ryan Kelly" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p>
+<ul>
+<li>USSF National "D" License- 2006</li>
+<li>Lee's Summit North Varsity Head Coach-Girls 2013-Present</li>
+<li>Lee's Summit North Assistant Coach-Girls August 2004-Present</li>
+<li>Lee's Summit North Assistant Coach-Boys August 2002-Present</li>
+<li>NSCAA High School Professional Development Certificate, January 2012</li>
+<li>NSCAA Advanced National Diploma, June 2011</li>
+<li>NSCAA Nation Diploma, June 2007</li>
+<li>Played at Lee's Summit High School 1992-95-3 Varsity Letters</li>
+<li>Played at William Jewell College 1996-1997 - Two year starter<span style="color:#222222;font-family:Arial,sans-serif;font-size:10pt;line-height:normal;"> </span></li>
+</ul>
+</p></span></div>
+			</td>
+		</tr>
+		<tr class="sectiontableentry2" style="cursor:hand;cursor:pointer;" id="cbU29">
+			<td valign="top" class="cbUserListCol1">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_formatname"><a href="http://www.kcselect.org/View-user-profile.html?user=358">Tait Einerson</a></span></div>
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_avatar"><a href="http://www.kcselect.org/View-user-profile.html?user=358"><img src="http://www.kcselect.org/images/comprofiler/tn358_530b90ab34747.jpg" alt="Tait Einerson" title="Tait Einerson" class="cbThumbPict" /></a></span></div>
+			</td>
+			<td valign="top" class="cbUserListCol2">
+				<div class="cbUserListFieldLine"><span class="cbListFieldCont cbUserListFC_cb_coachprofile"><p> </p>
+<ul>
+<li><span style="line-height:1.3em;">USSF National "D" License-coached youth since 1995</span></li>
+<li><span style="line-height:1.3em;">Liberty HS Coach 2000-2004</span></li>
+<li><span style="line-height:1.3em;">Blue Valley West HS Assist. Coach 2005-present</span></li>
+</ul>
+<p> </p></span></div>
+			</td>
+		</tr>
+	  </tbody>
+	</table>	
+
+	<hr class="cbUserListHrBottom" size="1" />
+</div>
+	<div class="cbUserListPagination cbUserListPaginationBottom" style="width:100%;text-align:center;"><span class="pagenav">&lt;&lt; Start</span> <span class="pagenav">&lt; Prev</span> 
+ <span class="pagenav">[1]</span> 
+<a class="pagenav" href="http://www.kcselect.org/View-users-list/Coaches/Page-2.html"><strong>2</strong></a>
+<a class="pagenav" href="http://www.kcselect.org/View-users-list/Coaches/Page-2.html" title="Next">Next &gt;</a>
+<a class="pagenav" href="http://www.kcselect.org/View-users-list/Coaches/Page-2.html" title="End">End &gt;&gt;</a></div>
+
+</div><div class="cbClr"> </div></div><div class="cbClr"> </div>
+
+								</div>
+
+								
+							</div>
+								
+															
+						</div>	
+					</div>
+					<!-- END CONTAINER -->
+					
+				</div>
+			</div>		
+		</div>
+		<!-- END MAINBODY -->
+
+
+			
+
+			
+
+		<div id="jv-bottom" class="clearfix">
+			<div class="jv-wrapper">
+				<div id="jv-bottom-inner">
+
+										
+
+					<div id="jv-footer">
+						<div id="jv-footer-inner"><ul class="menu"><li class="item77 first last"><a href="http://www.kcselect.org/Log-in.html"><span>Login</span></a></li></ul><ul class="menu"><li class="item130 first"><a href="/About-KC/privacy-statement.html"><span>Privacy Statement</span></a></li><li class="item131 last"><a href="/About-KC/terms-of-use.html"><span>Terms Of Use</span></a></li></ul></div>
+					</div>
+					
+					<div id="jv-copyright">
+						<div id="jv-copyright-inner">
+														<a href="http://www.enabletechnology.net">Website and Hosting by Enable Technology</a>													</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+<a style="text-decoration:none;z-index:9999;" 
+						href="http://www.kcselect.org/index.php?option=com_contact_enhanced&view=contact&id=10&content_title=NTUzZGQ1OTE5M1EyOWhZMmhsY3c9PQ==&content_url=M2EwN2E0ZDYwOGFIUjBjRG92TDNkM2R5NXJZM05sYkdWamRDNXZjbWN2Vm1sbGR5MTFjMlZ5Y3kxc2FYTjBMME52WVdOb1pYTXVhSFJ0YkQ4PQ==&tmpl=component" 
+						class="modal cefeedback" 
+						rel="{handler: 'iframe', size: {x:800, y:480}}"
+						title="Feedback"
+						id="cefeedback">&nbsp;</a></body>
+</html>

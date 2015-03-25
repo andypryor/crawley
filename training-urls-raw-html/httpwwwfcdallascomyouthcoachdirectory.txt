@@ -1,0 +1,1652 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" dir="ltr">
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Coaching Staff | FC Dallas</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta name="apple-itunes-app" content="app-id=397303467">
+<meta property="fb:app_id" content=""/>
+
+<script type="text/javascript" src="//cdn.gigya.com/js/socialize.js?apiKey=3_wylNZS6bIM-XHG1Io-H1JSA5xMgc6uH5iS7Du3LN0KwcjhBlzksohrk4oBntKubx&lang=en"> {lang: "en", enabledProviders: "facebook, twitter, googleplus, messenger", sessionExpiration: "1209600"} </script> <script type="text/javascript" src="//cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<meta property="og:title" content="Coaching Staff" />
+<meta property="og:description" content="
+
+
+
+				Coach Name
+
+				Coach Phone
+
+				Coach Email
+
+
+
+				Arellano, Aaron
+
+				972-335-3245
+
+				arelag@yahoo.com
+
+
+
+				Bailey, Justin
+
+				214-686-0961
+
+				jbailey070@gmail.com
+
+
+
+				Bazan, Jose" />
+<meta property="og:image" content="http://www.fcdallas.com/sites/editorial.fcdallas.com/themes/mls_child/logo.png" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.fcdallas.com/youth/coach/directory" />
+<meta property="og:site_name" content="FC Dallas" />
+<link rel="shortcut icon" href="/sites/editorial.fcdallas.com/themes/mls_child/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="http://www.fcdallas.com/sites/dallas/files/css/css_d4ccc82cd77c296308e20b2a07f82f65.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://www.fcdallas.com/sites/dallas/files/css/css_7e8611c6a6bd6016b71feeb854b240b7.css" />
+<style type="text/css">
+        #bg  {
+          background: transparent url(/sites/dallas/files/Web_BG_2015_0.jpg) no-repeat scroll center top;
+        }
+      </style>    <!-- Twitter -->
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <!-- Video script for iPad/HTML5 -->
+    <script type="text/javascript" src="/sites/all/themes/mls_parent/js/mls_castfire_html5ify.js"></script>
+    <script>
+      Castfire.html5ify({
+        ios_ext: "adaptive.m3u8", // Profile for iPhone, iPod touch, iPad
+        h264_ext: "640.mp4" // Profile for Android, webOS, Blackberry
+      });
+    </script>
+    <script type="text/javascript" src="http://www.fcdallas.com/sites/dallas/files/js/js_ed32d20e1cdee5cb3b935f36f7a4de5b.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","chartbeat":{"uid":6137,"domain":"fcdallas.com"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/dallas\/files","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"nice_menus_options":{"delay":"800","speed":"slow"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"cssInit":{"aggregator.css":true,"node.css":true,"defaults.css":true,"system.css":true,"system-menus.css":true,"user.css":true,"content-module.css":true,"ckeditor.css":true,"ctools.css":true,"date.css":true,"jquery-ui.css":true,"datepicker.1.7.css":true,"jquery.timeentry.css":true,"filefield.css":true,"lightbox.css":true,"nice_menus.css":true,"nice_menus_default.css":true,"views_slideshow.css":true,"castfire.css":true,"mls_blocknav.css":true,"mls_dfp.css":true,"mls_image_gallery.css":true,"views_slideshow_singleframe.css":true,"mls_globalnav.css":true,"fieldgroup.css":true,"views.css":true,"960.css":true,"layout.css":true,"html-elements.css":true,"video.css":true,"style.css":true},"jsInit":{"misc\/jquery.js":true,"misc\/drupal.js":true,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":true,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":true,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":true,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":true,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":true,"sites\/all\/modules\/contrib\/views_slideshow\/js\/jquery.cycle.all.min.js":true,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_singleframe\/views_slideshow.js":true,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_thumbnailhover\/views_slideshow.js":true,"sites\/all\/modules\/custom\/castfire\/js\/jquery.ctrotator.js":true,"sites\/all\/modules\/custom\/castfire\/js\/jquery.ctrotator.bridge.li.js":true,"sites\/all\/modules\/custom\/castfire\/castfire.js":true,"sites\/all\/modules\/custom\/mls_blocknav\/mls_blocknav.js":true,"sites\/all\/modules\/custom\/mls_gigya\/theme\/mls_gigya.js":true,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":true,"sites\/all\/themes\/mls_parent\/js\/jquery.livequery.js":true,"sites\/all\/themes\/mls_parent\/js\/jquery.countdown.min.js":true,"sites\/all\/themes\/mls_parent\/js\/mls_main.js":true}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15424317-7", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node =document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot('/8375/www.fcdallas.com/youth/coach/directory',[[728,90]],'dfp-holder-leaderboard').setTargeting('lang',['en']).setTargeting('position',['leaderboard']).addService(googletag.pubads());
+googletag.defineSlot('/8375/www.fcdallas.com/youth/coach/directory',[[220,90]],'dfp-holder-small-box').setTargeting('lang',['en']).setTargeting('position',['small-box']).addService(googletag.pubads());
+googletag.defineSlot('/8375/www.fcdallas.com/youth/coach/directory',[[300,100]],'dfp-holder-promo-header').setTargeting('lang',['en']).setTargeting('position',['promo-header']).addService(googletag.pubads());
+googletag.defineSlot('/8375/www.fcdallas.com/youth/coach/directory',[[300,250]],'dfp-holder-right1').setTargeting('lang',['en']).setTargeting('position',['right1']).addService(googletag.pubads());
+googletag.defineSlot('/8375/www.fcdallas.com/youth/coach/directory',[[300,250]],'dfp-holder-right2').setTargeting('lang',['en']).setTargeting('position',['right2']).addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+ var _gaq = window._gaq || (window._gaq = []);
+      twttr.events.bind('tweet', function(event) {
+        if (event) {
+          var targetUrl;
+          if (event.target && event.target.nodeName == 'IFRAME') {
+            targetUrl = event.target.src;
+          }
+          _gaq.push(['_trackSocial', 'twitter', 'tweet', targetUrl]);
+        }
+    });
+//--><!]]>
+</script>
+
+  </head>
+  <body class="not-front not-logged-in page-node node-type-page no-sidebars i18n-en">
+    <div id="skip">
+      <a href="#content">Skip To Content</a>
+    </div> <!-- /skip -->
+            <div id="topad-region">
+          <div id="topad-region-inner">
+            <div id="block-mls_dfp-50cf2f3c7ca79" class="block clear-block block-mls_dfp">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <div id="dfp-holder-leaderboard" class="dfp-holder" style="display:none;"><script type="text/javascript">googletag.cmd.push(function() {googletag.display('dfp-holder-leaderboard');});</script></div>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-mls_dfp-50cf2f3c7c2a7" class="block clear-block block-mls_dfp">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <div id="dfp-holder-small-box" class="dfp-holder" style="display:none;"><script type="text/javascript">googletag.cmd.push(function() {googletag.display('dfp-holder-small-box');});</script></div>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+          <div class="clear"></div>
+        </div></div>
+       <!-- /topad -->
+          <div id="globalnav-region">
+          <div id="globalnav">
+  <div id="preheader">
+  <div id="preheader-inner">
+        <div id="gigya_login">
+        <div class="gigya_profile" style="display: none;"><a href="/account"><img id="gigya_photo" src="" width="33" height="33" /><span id="gigya_name" ></span></a>
+        </div>
+        <div class="gigya_login_option clearfix" style="display: none;">
+          <a href="#" onclick="gigya.accounts.showScreenSet({screenSet:'Login-web'});">Login</a>
+          <div class="divider">|</div>
+          <a href="#" onclick="gigya.accounts.showScreenSet({screenSet:'Login-web', startScreen:'gigya-register-screen'});">Sign Up</a>
+        </div>
+      </div>
+  <div id="mls_network">
+  <a href="http://www.mlssoccer.com" class="league-next-logo">MLSSoccer.com</a>
+  <a href="http://www.mlssoccer.com" id="tray-control" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'MLS Network']);">
+    <img src="/sites/all/modules/custom/mls_globalnav/images/logos/logo_mlsnetwork.png">
+  </a>
+  <a href="http://www.chicago-fire.com" class="nav-logo chicago-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'CHI']);">
+    <img title="Chicago Fire" src="/sites/all/modules/custom/mls_globalnav/images/logos/chicago_20.png">
+  </a>
+  <a href="http://www.coloradorapids.com/" class="nav-logo colorado-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'COL']);">
+    <img title="Colorado Rapids" src="/sites/all/modules/custom/mls_globalnav/images/logos/colorado_20.png">
+  </a>
+  <a href="http://www.columbuscrewsc.com/" class="nav-logo columbus-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'CLB']);">
+    <img title="Columbus Crew SC" src="/sites/all/modules/custom/mls_globalnav/images/logos/crew_20.png">
+  </a>
+  <a href="http://www.dcunited.com/" class="nav-logo dcunited-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'DC']);">
+    <img title="D.C. United" src="/sites/all/modules/custom/mls_globalnav/images/logos/dc_20.png">
+  </a>
+  <a href="http://www.fcdallas.com/" class="nav-logo fcdallas-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'DAL']);">
+    <img title="FC Dallas" src="/sites/all/modules/custom/mls_globalnav/images/logos/dallas_20.png">
+  </a>
+  <a href="http://www.houstondynamo.com/" class="nav-logo houston-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'HOU']);">
+    <img title="Houston Dynamo" src="/sites/all/modules/custom/mls_globalnav/images/logos/houston_20.png">
+  </a>
+  <a href="http://www.lagalaxy.com/" class="nav-logo lagalaxy-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'LA']);">
+    <img title="Los Angeles Galaxy" src="/sites/all/modules/custom/mls_globalnav/images/logos/losangeles_20.png">
+  </a>
+  <a href="http://www.impactmontreal.com/" class="nav-logo montreal-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'MON']);">
+    <img title="Montreal Impact" src="/sites/all/modules/custom/mls_globalnav/images/logos/montreal_20.png">
+  </a>
+  <a href="http://www.revolutionsoccer.net/" class="nav-logo newengland-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'NE']);">
+    <img title="New England Revolution" src="/sites/all/modules/custom/mls_globalnav/images/logos/newengland_20.png">
+  </a>
+  <a href="http://www.nycfc.com/" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'NYC']);" class="nav-logo nyc-logo">
+    <img title="New York City FC" src="/sites/all/modules/custom/mls_globalnav/images/logos/NYCFC_FinalArtwork.png">
+  </a>
+  <a href="http://www.newyorkredbulls.com/" class="nav-logo newyork-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'NY']);">
+    <img title="New York Red Bulls" src="/sites/all/modules/custom/mls_globalnav/images/logos/newyork_20.png">
+  </a>
+  <a href="http://www.orlandocitysoccer.com/" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'ORL']);" class="last nav-logo orl-logo">
+    <img title="Orlando City SC" src="/sites/all/modules/custom/mls_globalnav/images/logos/orlando_new_20.png">
+  </a>
+  <a href="http://www.philadelphiaunion.com/" class="nav-logo philadelphia-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'PHI']);">
+    <img title="Philadelphia Union" src="/sites/all/modules/custom/mls_globalnav/images/logos/philadelphia_20.png">
+  </a>
+  <a href="http://www.timbers.com/" class="nav-logo portland-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'POR']);">
+    <img title="Portland Timbers" src="/sites/all/modules/custom/mls_globalnav/images/logos/portland_20.png">
+  </a>
+  <a href="http://www.realsaltlake.com/" class="nav-logo saltlake-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'RSL']);">
+    <img title="Real Salt Lake" src="/sites/all/modules/custom/mls_globalnav/images/logos/new_saltlake_20.png">
+  </a>
+  <a href="http://www.sjearthquakes.com/" class="nav-logo sanjose-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'SJ']);">
+    <img title="San Jose Earthquakes" src="/sites/all/modules/custom/mls_globalnav/images/logos/sanjose_20_2014.png">
+  </a>
+  <a href="http://www.soundersfc.com/" class="nav-logo seattle-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'SEA']);">
+    <img title="Seattle Sounders FC" src="/sites/all/modules/custom/mls_globalnav/images/logos/seattle_20.png">
+  </a>
+  <a href="http://www.sportingkc.com/" class="nav-logo sportingkc-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'KC']);">
+    <img title="Sporting Kansas City" src="/sites/all/modules/custom/mls_globalnav/images/logos/sportingkc_20.png">
+  </a>
+  <a href="http://www.torontofc.ca/" class="nav-logo toronto-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'TOR']);">
+    <img title="Toronto FC" src="/sites/all/modules/custom/mls_globalnav/images/logos/toronto_20.png">
+  </a>
+  <a href="http://www.whitecapsfc.com/" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'VAN']);" class="nav-logo vancouver-logo">
+    <img title="Vancouver Whitecaps FC" src="/sites/all/modules/custom/mls_globalnav/images/logos/vancouver_20.png">
+  </a>
+  <a href="http://www.mlsatlanta2017.com/" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'ATL']);" class="nav-logo atl-logo">
+    <img title="Atlanta" src="/sites/all/modules/custom/mls_globalnav/images/logos/atlanta_20.png">
+  </a>
+  <a href="http://www.lafc.com/" class="nav-logo lafc-logo" onclick="_gaq.push(['_trackEvent','Global Navigation', 'Click', 'LAFC']);">
+    <img title="Los Angeles FC" src="/sites/all/modules/custom/mls_globalnav/images/logos/lafc_20.png" style="padding-top: 10px;">
+  </a>
+  </div>
+        <form action="/search/apachesolr_search" accept-charset="UTF-8" method="get" id="slicksearch-form">
+      <div>
+      <div id="search" class="container-inline">
+      <div class="form-item" id="slickterm-wrapper">
+      <input type="text" maxlength="128" name="keys" id="slickterm" size="10" onfocus="javascript:this.value='';" value="Search" title="Enter the terms you wish to search for." class="form-text">
+      </div>
+      <input type="submit" name="op" id="edit-submit" value="go" class="form-submit">
+      <div id="rss">
+      <a href="http://www.fcdallas.com/rss/en.xml"><img src="/sites/all/modules/custom/mls_globalnav/images/rss.png" alt="RSS" /></a>
+      </div>
+      </div>
+      </div>
+      </form>
+  </div> <!-- closes preheader-inner -->
+  </div> <!-- closes preheader -->
+  </div>        <div class="clear"></div>
+      </div>
+     <!-- /globalnav -->
+    <div id="bg">
+                <div id="header-region" class="container-12">
+            <div id="logo">
+                <a href="/" title="Coaching Staff"><img src="/sites/editorial.fcdallas.com/themes/mls_child/logo.png" alt="Coaching Staff" /></a>            </div>
+              <div id="block-mls_dfp-50cf2f3c80cdf" class="block clear-block block-mls_dfp">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <div id="dfp-holder-promo-header" class="dfp-holder" style="display:none;"><script type="text/javascript">googletag.cmd.push(function() {googletag.display('dfp-holder-promo-header');});</script></div>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-mls_blocknav-blocknav" class="block clear-block block-mls_blocknav">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <div class="row_site_nav">
+<ul id="blockNav" class="main-menu">
+  <li id="nav-1" class="navLevel1 first"><a href="http://www.fcdallas.com/tickets" class="navLevel1item">Tickets</a>
+    <div class="dropdown dropdown_menu_cols2"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/tickets/STH" class="navLevel2item">Season Ticket Holders</a></li>
+        <li class="navLevel2"><a href="http://fcdallas.c1ms.com/2015tickets/" class="navLevel2item">2015 Season Tickets</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/schedule?month=all&amp;year=2015&amp;competition_type=46&amp;broadcast_type=all&amp;op=Search&amp;form_token=35c68c82efe5cab" class="navLevel2item">Single Game Tickets</a></li>
+        <li class="navLevel2"><a href="http://fcdallas.flashseats.com/" class="navLevel2item">FCD Flash Seats</a></li>
+        <li class="navLevel2"><a href="/tickets/groups" class="navLevel2item">Group Tickets</a></li>
+        <li class="navLevel2"><a href="http://fcdallas.c1ms.com/2015/" class="navLevel2item">Premium Seating</a></li>
+        <li class="navLevel2"><a href="/content/birthday-parties-0" class="navLevel2item">Birthdays</a></li>
+        <li class="navLevel2"><a href="/tickets/field-trips" class="navLevel2item">Field Trips</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/content/promotions" class="navLevel2item">Promotions</a></li>
+      </ul>
+      <div class="dropdown_ad"><p><a href="http://goo.gl/yJFsNW" target="_blank"><img alt="" src="/sites/dallas/files/7715_300x100.jpg" style="width: 300px; height: 100px;" /></a></p>
+</div>
+    </div>
+  </li>
+  <li id="nav-2" class="navLevel1"><a href="/schedule" class="navLevel1item">Schedule</a>
+    <div class="dropdown dropdown_menu_cols no_ad"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="http://www.fcdallas.com/schedule" class="navLevel2item">2015 Schedule</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/schedule/ecal" class="navLevel2item">2015 ECAL Schedule</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/content/2015-fc-dallas-schedule-wallpapers" class="navLevel2item">2015 Schedule Wallpapers</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="nav-3" class="navLevel1"><a href="/players" class="navLevel1item">Club</a>
+    <div class="dropdown dropdown_menu_cols2"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/players" class="navLevel2item">Roster</a></li>
+        <li class="navLevel2"><a href="/stats" class="navLevel2item">Stats</a></li>
+        <li class="navLevel2"><a href="/standings" class="navLevel2item">Standings</a></li>
+        <li class="navLevel2"><a href="/media" class="navLevel2item">Media Guide</a></li>
+        <li class="navLevel2"><a href="/club/front-office" class="navLevel2item">Front Office & Staff</a></li>
+        <li class="navLevel2"><a href="/partners" class="navLevel2item">Partners</a></li>
+        <li class="navLevel2"><a href="/club/about" class="navLevel2item">Club History</a></li>
+        <li class="navLevel2"><a href="/club/rivalry" class="navLevel2item">Rivalries</a></li>
+        <li class="navLevel2"><a href="/club/legacy" class="navLevel2item">Legacy</a></li>
+        <li class="navLevel2"><a href="/club/dallas-soccer-tribute-match" class="navLevel2item">Dallas Soccer Tribute Match</a></li>
+        <li class="navLevel2"><a href="/club/BR19" class="navLevel2item">BR19</a></li>
+        <li class="navLevel2"><a href="/hooper" class="navLevel2item">Tex Hooper</a></li>
+      </ul>
+      <div class="dropdown_ad"><p><a href="http://www.advocare.com/" target="_blank"><img alt="" src="/sites/dallas/files/AdvoCare_NavAd.jpg" style="width: 300px; height: 100px;" /></a></p>
+</div>
+    </div>
+  </li>
+  <li id="nav-4" class="navLevel1"><a href="http://mlsstore.com/FC_Dallas_Gear/source/BM-mlscom-FCDAL-TopNav-022615" class="navLevel1item">Shop</a>
+    <div class="dropdown no_ad"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="http://mlsstore.com/FC_Dallas_Gear/source/BM-mlscom-FCDAL-TopNavDD-022615" class="navLevel2item">FC Dallas Online Shop</a></li>
+        <li class="navLevel2"><a href="/stadium/team-shop" class="navLevel2item">FC Dallas Team Shop</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="nav-5" class="navLevel1"><a href="/news" class="navLevel1item">News</a>
+    <div class="dropdown dropdown_menu_cols2 no_ad"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/blog" class="navLevel2item">Red Alert</a></li>
+        <li class="navLevel2"><a href="/news" class="navLevel2item">Latest News</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/es/news" class="navLevel2item">Español</a></li>
+        <li class="navLevel2"><a href="/news/mls-regular-season" class="navLevel2item">Regular Season</a></li>
+        <li class="navLevel2"><a href="http://www.facebook.com/fcdallas#!/fcdallas?sk=photos" class="navLevel2item">Photos</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="nav-6" class="navLevel1"><a href="http://www.youtube.com/user/FCDCommunications" class="navLevel1item">FCD TV</a>
+  </li>
+  <li id="nav-7" class="navLevel1"><a href="/fans" class="navLevel1item">Fans</a>
+    <div class="dropdown dropdown_menu_cols2 no_ad"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/fans" class="navLevel2item">Supporters</a></li>
+        <li class="navLevel2"><a href="/fcdallasgirls" class="navLevel2item">FC Dallas Girls</a></li>
+        <li class="navLevel2"><a href="/pubs" class="navLevel2item">Party at the Pubs</a></li>
+        <li class="navLevel2"><a href="/interact" class="navLevel2item">Interact with FCD</a></li>
+        <li class="navLevel2"><a href="/hooper/appearances" class="navLevel2item">Meet Tex Hooper</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/content/downloadable-fifa-14-fcd-chants" class="navLevel2item">Downloadable FIFA 14 Chants</a></li>
+        <li class="navLevel2"><a href="/partners/soccertour" class="navLevel2item">FC Dallas Soccer Tour</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="nav-8" class="navLevel1"><a href="/community" class="navLevel1item">Community</a>
+    <div class="dropdown dropdown_menu_cols2 no_ad"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/community/foundation" class="navLevel2item">Foundation</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/community/sotx" class="navLevel2item">Special Olympics Team</a></li>
+        <li class="navLevel2"><a href="/community/events" class="navLevel2item">Events</a></li>
+        <li class="navLevel2"><a href="/community/clinics" class="navLevel2item">Community Clinics</a></li>
+        <li class="navLevel2"><a href="http://www.fcdallas.com/community/donation-requests" class="navLevel2item">Donation Requests</a></li>
+        <li class="navLevel2"><a href="/community/lights" class="navLevel2item">Name in Lights</a></li>
+        <li class="navLevel2"><a href="/community/kicksforkids" class="navLevel2item">Kicks for Kids presented by Raytheon</a></li>
+        <li class="navLevel2"><a href="/community/troops" class="navLevel2item">Tickets for Troops</a></li>
+        <li class="navLevel2"><a href="/red-friday-frisco" class="navLevel2item">Red Friday Frisco</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="nav-9" class="navLevel1"><a href="http://www.fcdallasyouth.com/" class="navLevel1item">Youth</a>
+    <div class="dropdown dropdown_menu_cols no_ad"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/youth/club/leadership" class="navLevel2item">Youth Leadership</a></li>
+        <li class="navLevel2"><a href="/youth/teams/academy" class="navLevel2item">Academy</a></li>
+        <li class="navLevel2"><a href="/youth/teams/juniors" class="navLevel2item">Juniors</a></li>
+        <li class="navLevel2"><a href="/youth/camps" class="navLevel2item">Soccer Camps</a></li>
+        <li class="navLevel2"><a href="/youth/camps/faq" class="navLevel2item">FAQ</a></li>
+        <li class="navLevel2"><a href="/youth/coach/association" class="navLevel2item">FCDCA</a></li>
+        <li class="navLevel2"><a href="/youth/coach/clinic" class="navLevel2item">Coaches Clinic</a></li>
+        <li class="navLevel2"><a href="/youth/club/development" class="navLevel2item">Player Development</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="nav-10" class="navLevel1"><a href="http://www.fcdallas.com/stadium" class="navLevel1item">Toyota Stadium</a>
+    <div class="dropdown dropdownRight"><span class="arrow_dropdown_on"></span>
+      <ul class="dropdown_menu">
+        <li class="navLevel2"><a href="/stadium/about" class="navLevel2item">About</a></li>
+        <li class="navLevel2"><a href="/stadium/events" class="navLevel2item">Events Schedule</a></li>
+        <li class="navLevel2"><a href="/youth/tournaments" class="navLevel2item">Tournaments</a></li>
+        <li class="navLevel2"><a href="/stadium/walk-of-fame" class="navLevel2item">Walk of Fame</a></li>
+      </ul>
+      <div class="dropdown_ad"><p><a href="http://www8.ticketingcentral.com/V2/Quantity.aspx?t=40D9E1138D1FC65341A002B&amp;og=-1" target="_blank"><img alt="" src="/sites/dallas/files/DALLAS_SMALL_WEB_AD.jpg" style="width: 300px; height: 100px;" /></a></p>
+</div>
+    </div>
+  </li>
+  <li id="nav-11" class="navLevel1"><a href="http://www.fcdallas.com/soccerpark" class="navLevel1item">MoneyGram Park</a>
+  </li>
+<div class="clear" style="zoom:1;"></div></ul><!-- /ul#blockNav -->
+</div>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+            <div class="clear"></div>
+          </div>
+         <!-- /header-region -->
+      <div id="bg_page"><div id="bg_page_top"><div id="bg_page_btm">
+        <div id="page-layout" class="container-12">
+           <!-- /subheader -->
+        <div id="main" class="container-12">
+          <div id="main_content" class="grid-8">
+                      <div id="content_top">
+                <div id="block-nice_menus-3" class="block clear-block block-nice_menus">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+          <h2><span class="nice-menu-hide-title">Youth Menu</span></h2>
+        </div>
+    <div class="block_body">
+      <style type="text/css">#block-nice_menus-3 {background: url(/sites/dallas/files/Youth_nicemenu2.jpg) no-repeat scroll 0 2px;padding: 95px 0 0 10px;}</style><ul class="nice-menu nice-menu-down" id="nice-menu-3"><li class="menu-23349 menu-path-node-10070 first  odd "><a href="/youth">Home</a></li>
+<li class="menu-23230 menuparent menu-path-node-5612 even "><a href="/youth/club/development">Club</a><ul><li class="menu-23286 menu-path-node-5615 first  odd "><a href="/youth/club/leadership">Contact Us</a></li>
+<li class="menu-23271 menu-path-node-9757 even "><a href="/youth/club/fcdway">The FCD Way</a></li>
+<li class="menu-23272 menu-path-node-5612 odd "><a href="/youth/club/development">Development System</a></li>
+<li class="menu-23273 menu-path-node-9758 even "><a href="/youth/club/curriculum">Curriculum </a></li>
+<li class="menu-23274 menu-path-node-5628 odd "><a href="/club/legacy">Legacy of Lamar Hunt </a></li>
+<li class="menu-23275 menu-path-node-9759 even "><a href="/youth/club/philosophy">Philosophy</a></li>
+<li class="menu-23276 menu-path-node-9760 odd "><a href="/youth/club/college-prep">College Preparation Program</a></li>
+<li class="menu-23277 menu-path-node-9761 even "><a href="/youth/club/college-alumni">College Alumni</a></li>
+<li class="menu-23278 menu-path-node-9763 odd "><a href="/youth/club/national-alumni">National Team Alumni</a></li>
+<li class="menu-23279 menu-path-node-9765 even "><a href="/youth/club/homegrowns">Homegrown Players</a></li>
+<li class="menu-23280 menu-path-node-9766 odd "><a href="/youth/club/involvement">How to Get Involved</a></li>
+<li class="menu-23281 menu-path-node-9767 even "><a href="/youth/club/fundraising">Fundraising</a></li>
+<li class="menu-23282 menu-path-node-9768 odd "><a href="/youth/club/fields">Fields</a></li>
+<li class="menu-23283 menu-path-node-9769 even "><a href="/youth/club/weather">Extreme Weather Policies</a></li>
+<li class="menu-23285 menu-path-node-9771 odd "><a href="/youth/club/sponsors">Sponsors</a></li>
+<li class="menu-23287 menu-path-node-9772 even  last "><a href="/youth/club/links">Helpful Links</a></li>
+</ul>
+</li>
+<li class="menu-23350 menuparent menu-path-node-10065 odd "><a href="/youth/teams">Programs</a><ul><li class="menu-23311 menu-path-node-5616 first  odd "><a href="/youth/teams/academy">Development Academy</a></li>
+<li class="menu-23313 menu-path-node-9724 even "><a href="/youth/teams/ecnl">ECNL</a></li>
+<li class="menu-23314 menu-path-node-9726 odd "><a href="/youth/teams/premier">Premier Development Program</a></li>
+<li class="menu-23315 menu-path-node-9727 even "><a href="/youth/teams/select">Select</a></li>
+<li class="menu-23316 menu-path-node-5608 odd  last "><a href="/youth/teams/juniors">Juniors</a></li>
+</ul>
+</li>
+<li class="menu-23231 menuparent menu-path-https--allplayerscom-g-fcdallas-register even "><a href="https://www.allplayers.com/g/fcdallas/register">Players</a><ul><li class="menu-23305 menu-path-fcdallascom-youth-players-account first  odd "><a href="http://www.fcdallas.com/youth/players/account">Player Registration</a></li>
+<li class="menu-23306 menu-path-allplayerscom-g-fcdallas- even "><a href="http://www.allplayers.com/g/fcdallas/">Sign In</a></li>
+<li class="menu-23307 menu-path-allplayerscom-g-fcdallas- odd "><a href="http://www.allplayers.com/g/fcdallas/">Make a Payment</a></li>
+<li class="menu-23308 menu-path-node-9224 even "><a href="/youth/players/tickets">FC Dallas Tickets</a></li>
+<li class="menu-23309 menu-path-node-9225 odd "><a href="/youth/players/uniforms">Uniforms &amp; Gear</a></li>
+<li class="menu-23310 menu-path-node-9226 even  last "><a href="/youth/players/gk-training">Goalkeeper Training</a></li>
+</ul>
+</li>
+<li class="menu-23232 menuparent menu-path-node-10065 odd "><a href="/youth/teams">Teams</a><ul><li class="menu-23354 menu-path-fcdallascom-youth-teams-academy first  odd "><a href="http://www.fcdallas.com/youth/teams/academy">Development Academy</a></li>
+<li class="menu-23352 menu-path-node-9724 even "><a href="/youth/teams/ecnl">ECNL</a></li>
+<li class="menu-26104 menu-path-fcdallascom-youth-teams-ecnl-u23 odd "><a href="http://www.fcdallas.com/youth/teams/ecnl/u23">ECNL U23 (Women&#039;s)</a></li>
+<li class="menu-23353 menu-path-fcdallascom-youth-teams-select-directory even "><a href="http://www.fcdallas.com/youth/teams/select/directory">Select</a></li>
+<li class="menu-23355 menu-path-node-10479 odd "><a href="/youth/teams/juniors/boys/directory">Juniors - Boys</a></li>
+<li class="menu-23356 menu-path-node-10482 even "><a href="/youth/teams/juniors/girls/directory">Juniors - Girls</a></li>
+<li class="menu-23318 menu-path-node-9754 odd  last "><a href="/youth/teams/tryouts">Tryouts</a></li>
+</ul>
+</li>
+<li class="menu-23233 menu-path-node-9218 even "><a href="/youth/affiliates">Affiliates</a></li>
+<li class="menu-23234 menuparent menu-path-node-9788 active-trail odd "><a href="/youth/coach/directory" class="active">Coaches</a><ul><li class="menu-23323 menu-path-node-9788 first  odd "><a href="/youth/coach/directory" class="active">Coaching Staff</a></li>
+<li class="menu-23324 menu-path-node-9721 even "><a href="/youth/coach/requirements">Coaching Requirements</a></li>
+<li class="menu-23325 menu-path-node-5611 odd "><a href="/youth/coach/clinic">Coaches Clinic</a></li>
+<li class="menu-23326 menu-path-node-5671 even "><a href="/youth/coach/association">Coaches Association</a></li>
+<li class="menu-23327 menu-path-node-9718 odd  last "><a href="/youth/coach/education">Coaches Education &amp; Licensing</a></li>
+</ul>
+</li>
+<li class="menu-23235 menuparent menu-path-node-5609 even "><a href="/youth/camps">Camps</a><ul><li class="menu-23328 menu-path-node-5613 first  odd  last "><a href="/youth/camps/faq">FAQs</a></li>
+</ul>
+</li>
+<li class="menu-23236 menuparent menu-path-node-5651 odd  last "><a href="/youth/tournaments">Tournaments</a><ul><li class="menu-23329 menu-path-fcdallascom-youth-tournaments-tut first  odd "><a href="http://www.fcdallas.com/youth/tournaments/tut">King TUT presented by Toyota</a></li>
+<li class="menu-23330 menu-path-fcdallascom-youth-tournaments-brown even "><a href="http://www.fcdallas.com/youth/tournaments/brown">Michael Brown Winter Classic</a></li>
+<li class="menu-23331 menu-path-fcdallascom-youth-tournaments-college odd "><a href="http://www.fcdallas.com/youth/tournaments/college">adidas FC Dallas College Showcase presented by AdvoCare</a></li>
+<li class="menu-23332 menu-path-fcdallascom-youth-tournaments-3v3 even "><a href="http://www.fcdallas.com/youth/tournaments/3v3">3v3 Heat Tournament</a></li>
+<li class="menu-23333 menu-path-fcdallascom-youth-tournaments-rhine odd  last "><a href="http://www.fcdallas.com/youth/tournaments/rhine">Bobby Rhine Invitational presented by MoneyGram</a></li>
+</ul>
+</li>
+</ul>
+    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+              <div class="clear"></div>
+            </div>
+           <!-- /content_top -->
+  
+          <div id="content">
+                                                  
+                          <div class="header_title">
+                                  <h1>Coaching Staff</h1>                              </div><!-- END: header_title -->
+                        
+                                  
+                                    
+
+
+<div id="node-9788" class="node">
+
+
+
+  
+  <div class="content clear-block">
+          <div class="share_bar">
+                <script type='text/javascript'>
+          var userAction = new gigya.socialize.UserAction();
+          var image = {type: 'image', src: 'http://www.fcdallas.com/sites/editorial.fcdallas.com/themes/mls_child/logo.png', href: 'http://www.fcdallas.com/youth/coach/directory'};
+
+          userAction.addMediaItem(image);
+          userAction.addActionLink('More', 'http://www.fcdallas.com/youth/coach/directory');
+          userAction.setDescription('');
+          userAction.setLinkBack('http://www.fcdallas.com/youth/coach/directory');
+          userAction.setTitle('Coaching Staff');
+
+          function OnShareButtonClickedHandler(eventObj) {
+            if (eventObj.shareItem.provider == 'comments') {
+              window.location.hash='';
+              window.location.hash='commentsDiv';
+            }
+          };
+
+          var showShareBarUI_params = {
+              containerID: 'sharebarDiv',
+              layout:'horizontal',
+              shareButtons: [{provider: 'facebook-like', tooltip: 'Like this on Facebook', action: 'like', font: 'arial'},{provider: 'twitter-tweet', defaultText: 'Coaching Staff #MLS', tooltip: 'Share on twitter', related:'mls'},{provider: 'google-plusone', tooltip: '+1 on Google+'},{provider: 'Reddit', iconOnly:'false', tooltip: 'Share this on Reddit'},{provider: 'email', iconOnly:'false', tooltip: 'Email this'}],
+              showCounts: 'top',
+              userAction: userAction,
+              onShareButtonClicked: OnShareButtonClickedHandler
+          };
+
+        </script>
+        <div id="sharebarDiv"></div>
+        <script type="text/javascript">
+          gigya.socialize.showShareBarUI(showShareBarUI_params);
+        </script>      </div>
+    <table>
+<tbody>
+<tr>
+<td style="background-color: rgb(0, 0, 102);">
+				<span style="color:#ffffff;"><strong>Coach Name</strong></span></td>
+<td style="background-color: rgb(0, 0, 102);">
+				<span style="color:#ffffff;"><strong>Coach Phone</strong></span></td>
+<td style="background-color: rgb(0, 0, 102);">
+				<span style="color:#ffffff;"><strong>Coach Email</strong></span></td>
+</tr>
+<tr>
+<td>
+				Arellano, Aaron</td>
+<td>
+				972-335-3245</td>
+<td>
+				<a href="mailto:arelag@yahoo.com">arelag@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/bailey" target="_blank">Bailey, Justin</a></td>
+<td>
+				214-686-0961</td>
+<td>
+				<a href="mailto:jbailey070@gmail.com">jbailey070@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/bazan">Bazan, Josema</a></td>
+<td>
+				469-365-0149</td>
+<td>
+				<a href="mailto:jbazan@fcdallas.net">jbazan@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/bertl">Bertl, Horst</a></td>
+<td>
+				214-354-4593</td>
+<td>
+				<a href="mailto:bertl47@aol.com">bertl47@aol.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/borgarello">Borgarello, Oscar</a></td>
+<td>
+				214-738-8504</td>
+<td>
+				<a href="mailto:batmanborg@msn.com">batmanborg@msn.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/boyles" target="_blank">Boyles, Tom</a></td>
+<td>
+				214-728-9679</td>
+<td>
+				<a href="mailto:tomboyles11@gmail.com">tomboyles11@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/broome">Broome, Paul</a></td>
+<td>
+				214-676-4885</td>
+<td>
+				<a href="mailto:pauljaybroome@yahoo.com">pauljaybroome@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/brown" target="_blank">Brown, Jason</a></td>
+<td>
+				214-726-2864</td>
+<td>
+				<a href="mailto:fcd05g@gmail.com">fcd05g@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/bryan" target="_blank">Bryan, Dominic</a></td>
+<td>
+				214-533-2005</td>
+<td>
+				<a href="mailto:dbryan@fcdallas.com">dbryan@fcdallas.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/cavalcante" target="_blank">Cavalcante, Ricky</a></td>
+<td>
+				972-898-1693</td>
+<td>
+				<a href="mailto:ricaeua@yahoo.com.br">ricaeua@yahoo.com.br</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/che">Che, Chris</a></td>
+<td>
+				972-345-2865</td>
+<td>
+				<a href="mailto:chrischenumber4@yahoo.com">chrischenumber4@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/clarke">Clarke, Chris</a></td>
+<td>
+				469-356-0021</td>
+<td>
+				<a href="mailto:cclarke@fcdallas.net">cclarke@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/crispino" target="_blank">Crispino, Vin</a></td>
+<td>
+				214-551-4692</td>
+<td>
+				<a href="mailto:vcrispino@gmail.com">vcrispino@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/crow">Crow, Dawn</a></td>
+<td>
+				972-838-7227</td>
+<td>
+				<a href="mailto:bootit05@yahoo.com">bootit05@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/dane" target="_self">Dane, Jay</a></td>
+<td>
+				214-931-4521</td>
+<td>
+				<a href="mailto:jdane@fcdallas.com">jdane@fcdallas.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/depew">Depew, Jim</a></td>
+<td>
+				972-571-6947</td>
+<td>
+				<a href="mailto:jwdepew64@att.net">jwdepew64@att.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/dewitt">DeWitt, Jamie</a></td>
+<td>
+				214-686-1207</td>
+<td>
+				<a href="mailto:Coachd1010@yahoo.com">Coachd1010@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/dymond">Dymond, Scott</a></td>
+<td>
+				469-365-0206</td>
+<td>
+				<a href="mailto:sdymond@fcdallas.net">sdymond@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/ekeme" target="_blank">Ekeme, Sammy</a></td>
+<td>
+				806-283-6353</td>
+<td>
+				<a href="mailto:sammyekeme@gmail.com">sammyekeme@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/ferruzzi">Ferruzzi, Marco</a></td>
+<td>
+				469-585-9432</td>
+<td>
+				<a href="mailto:mferruzzi@fcdallas.net">mferruzzi@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/fondren" target="_blank">Fondren, James</a></td>
+<td>
+				503-702-4168</td>
+<td>
+				<a href="mailto:james.fondren@ymail.com">james.fondren@ymail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/fonseca" target="_blank">Fonseca, Tony</a></td>
+<td>
+				972-741-0565</td>
+<td>
+				<a href="mailto:fonseca.soccer@gmail.com">fonseca.soccer@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/jgarcia">Garcia, Jimmy</a></td>
+<td>
+				214-517-5295</td>
+<td>
+				<a href="mailto:JiGarcia80@yahoo.com">JiGarcia80@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/dgentile">Gentile, Diego</a></td>
+<td>
+				972-974-3333</td>
+<td>
+				<a href="mailto:dgentile16@gmail.com">dgentile16@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/gentile" target="_blank">Gentile, Gabby</a></td>
+<td>
+				972-998-9611</td>
+<td>
+				<a href="mailto:ggentile@fcdallas.com">ggentile@fcdallas.com&nbsp;</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/gomez">Gomez, Phil</a></td>
+<td>
+				214-952-4004</td>
+<td>
+				<a href="mailto:coachphil.gomez@gmail.com">coachphil.gomez@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/goncalves">Goncalves, Thiago</a></td>
+<td>
+				706-266-0747</td>
+<td>
+				<a href="mailto:thiagoantunes82@gmail.com">t</a><a href="mailto:tgoncalves@fcdallas.net">goncalves@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/gonzales">Gonzales, Adrian</a></td>
+<td>
+				972-979-6173</td>
+<td>
+				<a href="mailto:adrianofutbol@yahoo.com">adrianofutbol@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/lgonzalez">Gonzalez, Luchi</a></td>
+<td>
+				469-365-0253</td>
+<td>
+				<a href="mailto:lgonzalez@fcdallas.net">lgonzalez@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/rgonzalez">Gonzalez, Raymundo</a></td>
+<td>
+				214-687-2067</td>
+<td>
+				<a href="mailto:rayglez_21@hotmail.com">rayglez_21@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/goodman" target="_blank">Goodman, CJ</a></td>
+<td>
+				214-514-5039</td>
+<td>
+				<a href="mailto:cjg741@hotmail.com">cjg741@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/grubb">Grubb, Matt</a></td>
+<td>
+				214-507-2259</td>
+<td>
+				<a href="mailto:mgrubb@fcdallas.net">mgrubb@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/hale" target="_blank">Hale, Gary</a></td>
+<td>
+				903-456-3553</td>
+<td>
+				<a href="mailto:garyhale1212@gmail.com">garyhale1212@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/hanlon" target="_blank">Hanlon, Megan</a></td>
+<td>
+				214-403-8418</td>
+<td>
+				<a href="mailto:meganhanlon@live.com">meganhanlon@live.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/harding">Harding, Ade</a></td>
+<td>
+				214-853-1594</td>
+<td>
+				<a href="mailto:adeneyi19.ah@gmail.com">adeneyi19.ah@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/hayden">Hayden, Chris</a></td>
+<td>
+				469-337-3960</td>
+<td>
+				<a href="mailto:chayden@fcdallas.net">chayden@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/heald">Heald, Michael</a></td>
+<td>
+				469-222-4931</td>
+<td>
+				<a href="mailto:coachheald@gmail.com">coachheald@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/hedges">Hedges, Darrin</a></td>
+<td>
+				214-538-7733</td>
+<td>
+				<a href="mailto:darrin.hedges@bishoplynch.org">darrin.hedges@bishoplynch.org</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/hunter" target="_blank">Hunter, Patrick</a></td>
+<td>
+				972-536-3543</td>
+<td>
+				<a href="mailto:fcdallaspat@gmail.com">fcdallaspat@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/juarez" target="_blank">Juarez, Juan</a></td>
+<td>
+				469-878-9141</td>
+<td>
+				<a href="mailto:johnnytheman@verizon.net">johnnytheman@verizon.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/gkang">Kang, Gil</a></td>
+<td>
+				469-288-6222</td>
+<td>
+				<a href="mailto:gilkang@hotmail.com">gilkang@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/ykang">Kang, Young</a></td>
+<td>
+				214-883-3829</td>
+<td>
+				<a href="mailto:youngntxu@live.com">youngntxu@live.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/akhastehdel">Khastehdel, Adam</a></td>
+<td>
+				972-896-2986</td>
+<td>
+				<a href="mailto:adamkhastehdel@gmail.com">adamkhastehdel@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/ekhastehdel">Khastehdel, Esy</a></td>
+<td>
+				214-924-3147</td>
+<td>
+				<a href="mailto:esysoccer@gmail.com">esysoccer@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/kounas">Kounas, Lee</a></td>
+<td>
+				214-502-1561</td>
+<td>
+				<a href="mailto:lkouna5@yahoo.com">lkouna5@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/glopez">Lopez, Guillermo</a></td>
+<td>
+				214-649-6188</td>
+<td>
+				<a href="mailto:glopez001@att.net">glopez001@att.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/jlopez">Lopez, Juan</a></td>
+<td>
+				469-343-2071</td>
+<td>
+				<a href="mailto:soccermundo@att.net">soccermundo@att.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/luna">Luna, Jesse</a></td>
+<td>
+				817-682-2193</td>
+<td>
+				<a href="mailto:coachluna73@yahoo.com">coachluna73@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/marshall">Marshall, Paul</a></td>
+<td>
+				214-934-6162</td>
+<td>
+				<a href="mailto:paulmarshall6@hotmail.com">paulmarshall6@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/martin">Martin, Brandon</a></td>
+<td>
+				817-229-2839</td>
+<td>
+				<a href="mailto:brandonlmartin@hotmail.com">brandonlmartin@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/cmartinez">Martinez, Ciro</a></td>
+<td>
+				972-569-7469</td>
+<td>
+				<a href="mailto:ciroamartinez@gmail.com">ciroamartinez@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				Martinez, Robert</td>
+<td>
+				972-523-1326</td>
+<td>
+				<a href="mailto:robmarti1@gmail.com">robmarti1@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/mcanally">McAnally, Jeff</a></td>
+<td>
+				214-232-6573</td>
+<td>
+				<a href="mailto:mcanally.jeff@yahoo.com">mcanally.jeff@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/medina">Medina, Victor</a></td>
+<td>
+				469-567-7104</td>
+<td>
+				<a href="mailto:elche25gol@hotmail.com">elche25gol@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/melancon">Melancon, Mark</a></td>
+<td>
+				214-641-4478</td>
+<td>
+				<a href="mailto:mark.melancon@bishoplynch.org">mark.melancon@bishoplynch.org</a></td>
+</tr>
+<tr>
+<td>
+				Merlo, Nestor</td>
+<td>
+				214-679-6292</td>
+<td>
+				<a href="mailto:nestormerlo1@hotmail.com">nestormerlo1@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/molina">Molina, Francisco </a></td>
+<td>
+				214-597-9458</td>
+<td>
+				<a href="mailto:elgfmolina@aol.com">elgfmolina@aol.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/lmoreno" target="_blank">Moreno, Luis</a></td>
+<td>
+				972-979-4299</td>
+<td>
+				<a href="mailto:mluis11@yahoo.com">mluis11@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/mmoreno" target="_blank">Moreno, Mario</a></td>
+<td>
+				469-826-8496</td>
+<td>
+				<a href="mailto:soccer4utoo@yahoo.com">soccer4utoo@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/oancea">Oancea, Clem</a></td>
+<td>
+				214-868-1794</td>
+<td>
+				<a href="mailto:coancea@fcdallas.net">coancea@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/oland" target="_blank">Oland, Sara</a></td>
+<td>
+				972-658-5820</td>
+<td>
+				<a href="mailto:so00264@georgiasouthern.edu">so00264@georgiasouthern.edu</a></td>
+</tr>
+<tr>
+<td>
+				Oldham, Mike</td>
+<td>
+				972-951-1591</td>
+<td>
+				<a href="mailto:moldham15@gmail.com">moldham15@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/palmisano">Palmisano, Ryan</a></td>
+<td>
+				214-236-6075</td>
+<td>
+				<a href="mailto:rpalmisano4@gmail.com"><font face="Tahoma" size="2">rpalmisano4@gmail.com</font></a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/alexperez" target="_self">Perez, Alex</a></td>
+<td>
+				972-256-6481</td>
+<td>
+				<a href="mailto:coachalex76@gmail.com">coachalex76@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/pino">Pino, Jose</a></td>
+<td>
+				954-851-2638</td>
+<td>
+				<a href="mailto:JPino@fcdallas.net">p</a><a href="mailto:pinosoccercsa@yahoo.com">inosoccercsa@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/apratt">Pratt, Aaron</a></td>
+<td>
+				972-302-3151</td>
+<td>
+				<a href="mailto:akp2213@hotmail.com">akp2213@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/bpratt">Pratt, Brian</a></td>
+<td>
+				469- 667-7553</td>
+<td>
+				<a href="mailto:brian.pratt@pisd.edu">brian.pratt@pisd.edu</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/pritchett">Pritchett, Paul</a></td>
+<td>
+				214-762-5228</td>
+<td>
+				<a href="mailto:liverpoolfan@sbcglobal.net">liverpoolfan@sbcglobal.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/erangel">Rangel, Eloyd</a></td>
+<td>
+				214-274-3059</td>
+<td>
+				<a href="mailto:rangeleloyd@att.net">rangeleloyd@att.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/redzic" target="_blank">Redzic, Ethem</a></td>
+<td>
+				469-556-9993</td>
+<td>
+				<a href="mailto:eredzic@fcdallas.com">eredzic@fcdallas.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/reese">Reese, Mackie</a></td>
+<td>
+				972-529-8089</td>
+<td>
+				<a href="mailto:Mackie.N.Reese@gmail.com">Mackie.N.Reese@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/renfro">Renfro, Stan</a></td>
+<td>
+				972-983-1635</td>
+<td>
+				<a href="mailto:srenfro@fcdallas.net">srenfro@fcdallas.</a><a href="mailto:srenfro@fcdallas.com">com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/ring">Ring, Chris</a></td>
+<td>
+				214-704-1063</td>
+<td>
+				<a href="mailto:cring@fcdallas.net">cring@fcdallas.c</a><a href="mailto:cring@fcdallas.com">om</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/riojas">Riojas, Roy</a></td>
+<td>
+				469-853-7921</td>
+<td>
+				<a href="mailto:mriojas98@me.com">r</a><a href="mailto:rriojas_stm@yahoo.com">riojas_stm@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/roach" target="_blank">Roach, Topher</a></td>
+<td>
+				214-244-5590</td>
+<td>
+				<a href="mailto:troach@fcdallas.com">T</a><a href="mailto:Topherroach7@gmail.com">opherroach7@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/ross">Ross, Gavin</a></td>
+<td>
+				972-839-1269</td>
+<td>
+				<a href="mailto:gavinshotmail@hotmail.com">gavinshotmail@hotmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/salyer" target="_blank">Salyer, Phil</a></td>
+<td>
+				214-317-9150</td>
+<td>
+				<a href="mailto:philipsalyer@gmail.com">philipsalyer@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/seaver">Seaver, Bryce</a></td>
+<td>
+				972-834-5707</td>
+<td>
+				<a href="mailto:bryce.seaver@yahoo.com">bryce.seaver@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/shepard" target="_blank">Shepard, Pat</a></td>
+<td>
+				469-826-8197</td>
+<td>
+				<a href="mailto:fcdshep@gmail.com">fcdshep@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/spear" target="_blank">Spear, Chris</a></td>
+<td>
+				972-979-5062</td>
+<td>
+				<a href="mailto:cspear@vaultworks.com">cspear@vaultworks.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/spiars">Spiars, Tim</a></td>
+<td>
+				214-384-3242</td>
+<td>
+				<a href="mailto:tim.spiars@spiarsengineering.com">tim.spiars@spiarsengineering.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/stanley" target="_blank">Stanley, Tom</a></td>
+<td>
+				817-975-6994</td>
+<td>
+				<a href="mailto:tom.stanley@sbcglobal.net">tom.stanley@sbcglobal.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/jsuarez">Suarez, Jesse</a></td>
+<td>
+				214-507-2363</td>
+<td>
+				<a href="mailto:jdjsuarez@hotmail.com">j</a><a href="mailto:jsuarez@fcdallas.com">suarez@fcdallas.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/tallal" target="_blank">Tallal, Trey</a></td>
+<td>
+				214-395-4252</td>
+<td>
+				<a href="mailto:trey@myvir.com">trey@myvir.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/tenbrink" target="_blank">TenBrink, Cory</a></td>
+<td>
+				214-924-2726</td>
+<td>
+				<a href="mailto:corytenbrink@yahoo.com">corytenbrink@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/thomas">Thomas, John</a></td>
+<td>
+				214-686-0740</td>
+<td>
+				<a href="mailto:jthomas@fcdallas.net">jthomas@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/thompson">Thompson, Bryan</a></td>
+<td>
+				972-983-3249</td>
+<td>
+				<a href="mailto:bryan1433@sbcglobal.net">t</a><a href="mailto:thompsob1433@gmail.com">hompsob1433@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/topletz">Topletz, Casey</a></td>
+<td>
+				214-457-3910</td>
+<td>
+				<a href="mailto:coachcaseyfcd@gmail.com">coachcaseyfcd@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/waldrum">Waldrum, Ben</a></td>
+<td>
+				214-542-6018</td>
+<td>
+				<a href="mailto:bwaldrum@fcdallas.net">bwaldrum@fcdallas.net</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/waters">Waters, Jon</a></td>
+<td>
+				469-207-6018</td>
+<td>
+				<a href="mailto:jonwaters5@gmail.com">jonwaters5@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/webb">Webb, Kat</a></td>
+<td>
+				972-679-1759</td>
+<td>
+				<a href="mailto:smu5kat@aol.com">smu5kat@aol.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/awilliams" target="_blank">Williams, Alex</a></td>
+<td>
+				901-219-1121</td>
+<td>
+				<a href="mailto:ladonn01@gmail.com">ladonn01@gmail.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/williams">Williams, Keith</a></td>
+<td>
+				214-244-8446</td>
+<td>
+				<a href="mailto:kdub06@yahoo.com">kdub06@yahoo.com</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://www.fcdallas.com/youth/coach/woodard" target="_blank">Woodard, Rick</a></td>
+<td>
+				214-417-7319</td>
+<td>
+				<a href="mailto:rick.woodard@pisd.edu">rick.woodard@pisd.edu</a></td>
+</tr>
+<tr>
+<td>
+				<a href="http://fcdallas.com/youth/coach/zuazua">Zuazua, Luis</a></td>
+<td>
+				469-855-9064</td>
+<td>
+				<a href="mailto:lvzuazua@sbcglobal.net">lvzuazua@sbcglobal.net</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+  </div>
+
+  <div class="clear-block">
+
+      </div>
+
+</div>
+
+
+                        <div class="clear"></div>
+          </div> <!-- /content -->
+            
+           <!-- /content_bottom -->
+        </div> <!-- /main_content -->
+
+                      <div id="sidebar_second" class="grid-4">
+                <div id="block-mls_dfp-50cf2f3c77872" class="block clear-block block-mls_dfp">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <div id="dfp-holder-right1" class="dfp-holder" style="display:none;"><script type="text/javascript">googletag.cmd.push(function() {googletag.display('dfp-holder-right1');});</script></div>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-block-22" class="block clear-block block-block">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      </p>
+<style>
+
+#block-block-22 .block_body {
+    background: none;
+    padding: 0px;
+}
+
+</style>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-block-15" class="block clear-block block-block">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+          <h2>Field Status</h2>
+        </div>
+    <div class="block_body">
+      <p></br><br />
+<strong><center>Last Updated: 3-20-15 3:00pm</center></strong></p>
+<table border="1" cellpadding="1" cellspacing="1" height="197">
+<tbody>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Toyota Soccer Center-Grass</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/redBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Toyota Soccer Center-Turf</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Wakeland High School</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Lonestar High School</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Frisco High School</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Centennial High School</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/redBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Heritage High School</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/redBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Greenhill School</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Brookhaven College</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">DYSP</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Carpenter</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/redBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Grimes</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Rowlett Community Park</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+<tr>
+<td>
+						<span style="font-size:12px;"><strong><span style="font-family: arial,helvetica,sans-serif;">Campbell Green</span></strong></span></td>
+<td>
+						<img src="/sites/dallas/files/image_nodes/2013/06/greenBTN3.jpg"/></td>
+</tr>
+</tbody>
+</table>
+<style>
+#block-block-15 .block_body {
+padding: 0px;
+}
+#block-block-15 .block_header h2 {
+padding: 5px;
+}
+#block-block-15 .block_bg {
+    font-size: 14px;
+    line-height: 6px;
+}
+</style>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-block-13" class="block clear-block block-block">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+          <h2>CONNECT WITH FCD YOUTH</h2>
+        </div>
+    <div class="block_body">
+      <p><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ffcdallasyouth&amp;width=292&amp;height=62&amp;show_faces=false&amp;colorscheme=light&amp;stream=false&amp;show_border=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe><br/></p>
+<p><a href="https://twitter.com/fcdallasyouth" class="twitter-follow-button" data-dnt="true" data-size="large">Follow @FCDallasYouth</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><style>
+#block-block-13 .block_body {
+    padding: 0px;
+}
+
+#block-block-13 .twitter-follow-button {
+margin: 0 0 10px 10px;
+}
+
+</style>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-mls_social_links-social_links_default" class="block clear-block block-mls_social_links">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+          <h2>Connect with FCD</h2>
+        </div>
+    <div class="block_body">
+      <div class="social_links_container clearfix">
+  <ul>
+  <li class="btn_def_facebook"><a href="http://www.facebook.com/fcdallas" target="_blank">facebook</a></li><li class="btn_def_twitter"><a href="http://www.twitter.com/FCDallas" target="_blank">twitter</a></li>  </ul>
+    <div class="twitter_follow">
+    <a href="https://twitter.com/FCDallas" class="twitter-follow-button" data-show-count="false">Follow @FCDallas</a>
+  </div>
+    
+      <div class="fb_container">
+      <fb:like href="http://www.facebook.com/fcdallas" show_faces="false" width="240" layout="button_count"></fb:like>
+    </div>
+    
+</div>
+    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-mls_dfp-50cf2f3c78428" class="block clear-block block-mls_dfp">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <div id="dfp-holder-right2" class="dfp-holder" style="display:none;"><script type="text/javascript">googletag.cmd.push(function() {googletag.display('dfp-holder-right2');});</script></div>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+              <div class="clear"></div>
+            </div>
+           <!-- /sidebar_second -->
+          <div class="clear"></div>
+        </div> <!-- /main -->
+
+                      <div id="footer" class="container-12">
+                <div id="block-menu-menu-footer-menu" class="block clear-block block-menu">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+          <h2>Footer Menu</h2>
+        </div>
+    <div class="block_body">
+      <ul class="menu"><li class="expanded first"><a href="/club/about" title="Sample Page">About</a><ul class="menu"><li class="leaf first"><a href="http://www.fcdallas.com/news/2014/02/fc-dallas-renews-television-deals-time-warner-cable-sports-and-txa21">Broadcast Partners</a></li>
+<li class="leaf"><a href="/club/front-office">Contact Us</a></li>
+<li class="leaf"><a href="/club/legacy">History</a></li>
+<li class="leaf last"><a href="http://mls.teamworkonline.com/teamwork/jobs/jobskey.cfm?s=dallas">Jobs</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.mlssoccer.com/2011-mls-roster-rules" target="_blank">The Game</a><ul class="menu"><li class="leaf first"><a href="http://pressbox.mlssoccer.com/content/competition-rules-and-regulations">2014 Competition Rules &amp; Regulations</a></li>
+<li class="leaf last"><a href="http://pressbox.mlssoccer.com/content/roster-rules-and-regulations">Roster Rules</a></li>
+</ul></li>
+<li class="expanded"><a href="/partners">Partners</a><ul class="menu"><li class="leaf first last"><a href="/partners">Partners</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.mlssoccer.com" target="_blank">MLS Soccer</a><ul class="menu"><li class="leaf first"><a href="http://www.mlssoccer.com/mlsworks" target="_blank">MLS WORKS</a></li>
+<li class="leaf"><a href="http://www.sumworld.com/" target="_blank">SUM</a></li>
+<li class="leaf"><a href="http://www.ussoccer.com/" target="_blank">U.S. Soccer</a></li>
+<li class="leaf last"><a href="http://www.mlssoccer.com/">MLSsoccer.com</a></li>
+</ul></li>
+<li class="expanded last"><a href="http://www.mlssoccer.com/community-guidelines" target="_blank">Legal</a><ul class="menu"><li class="leaf first"><a href="http://www.mlssoccer.com/terms-of-service" target="_blank">Terms of Service</a></li>
+<li class="leaf last"><a href="http://www.mlssoccer.com/privacy-policy" target="_blank">Privacy Policy</a></li>
+</ul></li>
+</ul>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-block-7" class="block clear-block block-block">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <style>
+.submitted { display: none; }
+.page-schedule .even .venue {
+background: #FFF !important; }
+
+.front #main_content .block-mls_dfp { float: left; }
+
+#block-block-12 .block_body { padding: 0px; } 
+
+#block-views-moneygram_soccerpark_dl-block_4 .block_body {
+    border-style: none !important;
+    padding: 0px !important;
+
+}
+
+</style>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-block-8" class="block clear-block block-block">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <p> <iframe id='ZAP' src='//b3.mookie1.com/2/ticketmaster/ZAP/1@x02?_RM_HTML_Artist_=FCDallas' frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="0" height="0"></iframe></p>
+    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+  <div id="block-block-27" class="block clear-block block-block">
+  <div class="block_bg"><div class="block_top"><div class="block_btm">
+    <div class="block_header">
+        </div>
+    <div class="block_body">
+      <script type="text/javascript">
+adroll_adv_id = "FM2I5U6OJBF57H6CD2G464";
+adroll_pix_id = "54LZ4WBDYNDUTO3W7OLPOB";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>    <div class="clear"></div>
+  </div>
+  </div></div></div>
+</div>
+              <p class="footer_message">© 2014 MLS. All Major League Soccer trademarks and copyrights used by
+permission. All rights reserved. <a href="http://dev.mlsdigital.net">Made by MLS Digital</a></p>
+              <div class="clear"></div>
+            </div>
+          <!-- /footer -->
+
+        </div> <!-- /page-layout -->
+          <div class="clear"></div>
+      </div></div></div> <!-- /bg_page -->
+    </div> <!-- /bg -->
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- Begin comScore Tag --> 
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6036539", c3: "", c4: "www.fcdallas.com/youth/coach/directory", c5: "", c6: "", c15: "" }); 
+      (function() { 
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 
+        el.parentNode.insertBefore(s, el); 
+      })(); 
+    </script> 
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036539&c3=&c4=www.fcdallas.com/youth/coach/directory&c5=&c6=&c15=&cv=2.0&cj=1" />
+    </noscript> 
+<!-- End comScore Tag -->
+
+  </body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/secondary_2column.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="favicon.ico" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Northwest Optimist Soccer: Staff</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="Styles/main.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body onload="MM_preloadImages('Images/registration_f2.jpg','Images/recreational_f2.jpg','Images/competitive_f2.jpg','Images/academy_f2.jpg','Images/schedules_f2.jpg','Images/staff_f2.jpg','Images/referee_f2.jpg','Images/forms_f2.jpg','Images/map_f2.jpg','Images/about_f2.jpg','Images/gotsport_f2.jpg','Images/home_f2.jpg','Images/email_f2.jpg')">
+<div id="parent_box">
+<div id="masthead"><img src="Images/masthead.jpg" alt="Northwest Optimist Soccer Club" width="992" height="245" /></div>
+<!-- Navigation top bar -->
+<div id="menu_container"><a href="registration.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Registration','','Images/registration_f2.jpg',1)"><img src="Images/registration.jpg" alt="Registration" name="Registration" width="100" height="30" border="0" id="Registration" /></a><a href="recreational.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Recreational','','Images/recreational_f2.jpg',1)"><img src="Images/recreational.jpg" alt="Recreational" name="Recreational" width="101" height="30" border="0" id="Recreational" /></a><a href="competitive.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Competitive','','Images/competitive_f2.jpg',1)"><img src="Images/competitive.jpg" alt="Competitive" name="Competitive" width="97" height="30" border="0" id="Competitive" /></a><a href="academy.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Academy','','Images/academy_f2.jpg',1)"><img src="Images/academy.jpg" alt="Academy" name="Academy" width="97" height="30" border="0" id="Academy" /></a><a href="schedules.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Schedules','','Images/schedules_f2.jpg',1)"><img src="Images/schedules.jpg" alt="Schedules" name="Schedules" width="98" height="30" border="0" id="Schedules"/></a><a href="staff.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Staff','','Images/staff_f2.jpg',1)"><img src="Images/staff.jpg" alt="Staff" name="Staff" width="100" height="30" border="0" id="Staff" /></a><a href="referee.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Referee','','Images/referee_f2.jpg',1)"><img src="Images/referee.jpg" alt="Referee" name="Referee" width="97" height="30" border="0" id="Referee" /></a><a href="forms.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Forms','','Images/forms_f2.jpg',1)"><img src="Images/forms.jpg" alt="Forms" name="Forms" width="97" height="30" border="0" id="Forms" /></a><a href="map.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Map','','Images/map_f2.jpg',1)"><img src="Images/map.jpg" alt="Map" name="Map" width="99" height="30" border="0" id="Map" /></a><a href="about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About','','Images/about_f2.jpg',1)"><img src="Images/about.jpg" alt="About" name="About" width="106" height="30" border="0" id="About" /></a></div>
+<!-- Navgiation secondary bar -->
+<div id="menu2_container"><img src="Images/menu_bottom_space.jpg" alt="." width="769" height="35" /><a href="http://www.gotsport.com/" target="_blank" onmouseover="MM_swapImage('Gotsport','','Images/gotsport_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="Images/gotsport.jpg" alt="Got Sport" name="Gotsport" width="98" height="35" border="0" id="Gotsport" /></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','Images/home_f2.jpg',1)"><img src="Images/home.jpg" alt="Home" name="Home" width="125" height="35" border="0" id="Home" /></a></div>
+<!-- Content container starts here -->
+<div id="content_box">
+<!-- Left column begins -->
+<div id="secondary_left_col">
+<div id="secondary_left_col_top" title="Page Header Graphic"><img id="untitled-region-1" class="editable" src="Images/Headers/staff_content_header.jpg" alt="STAFF" width="671" height="32" name="untitled-region-1" /></div>
+<div id="secondary_left_content" class="editable" title="Page Content"><h1><br> PRESIDENT:</h1>
+<p>If you have any questions regarding anything call one of the following numbers below.<br> Dave Sargent: 495-5860<br> Email: <a href="mailto:jd.sargent@cox.net?Subject=NWO%20Soccer">jd.sargent@cox.net</a></p>
+<h1>REGISTRAR:</h1>
+<p>Dave Sargent: 495-5860</p>
+<h1>COMPETITIVE COORDINATOR:</h1>
+<p>Dave Sargent: 495-5860</p>
+<p> </p>
+<h1>AGE GROUP COORDINATOR:</h1>
+<p>If you have a question about what age group your child will play under call one of the following numbers:</p>
+<p><strong>Under 6 Age Group Coordinator</strong>: Javier Lopez 440-2420</p>
+<p><strong>Under 8 Age Group Coordinator</strong>: Sean Satlow 371-1590</p>
+<p><strong>Under 10 Age Group Coordinator</strong>: Dave Sargent- 495-5860</p>
+<p><strong>Under 12-14-16 Coordinator</strong>: Dave Sargent 495-5860</p>
+<p><span style="font-size: medium;"><strong>Referee</strong> <strong>Assi</strong><strong>gno</strong>r: Casey Smith 405-519-5694</span></p>
+<p> <strong>Director of Academy Coaches</strong>:  VACANT<br> <strong>Director of Coaches: VACANT                       </strong><span style="color: #ff0000; font-size: small;"><strong> </strong></span></p>
+<p> </p>
+<!-- InstanceEndEditable --></div>
+<div id="secondary_left_bottom"></div>
+</div>
+<!-- Right column begins -->
+<div id="secondary_right_col">
+<div id="sidebar_top"><img id="untitled-region-2" class="editable" src="Images/Headers/sidebar_header.jpg" alt="More info" width="266" height="27" name="untitled-region-2" /></div>
+<div id="sidebar_content" class="editable" title="Sidebar Content Area"><h1><br> HOTLINE:</h1>
+<p class="emphasis"><strong>405.495.5860</strong></p>
+<p>Click here to sign up for<a href="http://lists.onenet.net/mailman/listinfo/nwoptimist" target="_blank"><br> email and text updates</a>.</p>
+<p> </p>
+<!-- InstanceEndEditable --></div>
+<div id="sidebar_bottom"></div>
+</div>
+<div id="footer">
+  <div align="center" class="footer">    NW Optimist Soccer Club  - 
+    Mailing Address - 4605 N Stanley - Oklahoma City, OK 73122 - (405) 495-5860</div>
+</div>
+<!-- Content container ending div is here --></div>
+
+<!-- Parentbox ending div is here --></div>
+</body>
+<!-- InstanceEnd --></html>

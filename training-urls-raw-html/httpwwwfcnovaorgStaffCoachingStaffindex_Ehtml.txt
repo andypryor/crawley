@@ -1,0 +1,1369 @@
+
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+     <html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 7-Jul-14 6:18 pm - /scripts/runisa.dll?M2:gp::74089+L3/+E+101+768521 ; \\10.10.10.25\html\fcnova.org\Staff\Coaching-Staff\index_E.html expires 1m = 7-Jul-14 6:19 pm -->
+<title>2014 - 2015 | FCNova U9 Gunners | FCN U10 Gunners; U11-U18 Competitive Coaching Staff - FC Nova</title>
+<meta name="description"        content="						<img alt= src=/imgs/Screen%20Shot%202014-04-01%20at%2012_" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.fcnova.org/index.xml" title="RSS Feed">
+ <link rel="stylesheet" href="http://www.fcnova.org/common/css/master.css" type="text/css"/>
+ <script src="http://www.fcnova.org/common/js/ps1.8.2/protoaculous.min.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.fcnova.org/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.fcnova.org/menus.css" type="text/css">
+<style type="text/css">
+/* overall page layout styles */
+body {text-align: center; margin-top: 0px; background: #000000 url(/images/2013/bg.jpg) no-repeat scroll center top; padding: 0px; -webkit-text-size-adjust:none;}
+#design-container {margin-left: auto; margin-right: auto; width: 1003px; text-align: left;}
+#design-header {}
+  #design-nav {background: #000 url(/images/2013/nav-bg.gif) repeat-x; padding-bottom:8px;}
+#design-centerContent {background: #ffffff;}
+  #design-centerContentmain {background: #000; width:599px;}
+#design-leftColumn {background: #000; width:202px;}
+#design-rightColumn {background: #000; width:202px;}
+#design-leftColumnL3 {background: url(/images/2013/L3-bg-left.gif) repeat-y;}
+#design-rightColumnL3 {background: url(/images/2013/L3-bg-right.gif) repeat-y;}
+#design-contentFooter {background: url(/images/2013/home-4-bg.gif) repeat-x;}
+#design-pageFooter {background: url(/images/2013/footer-bg.gif) repeat-x;}
+#design-headerPhotoLeft {width:133px; height:139px; overflow:hidden;}
+#design-headerPhotoRight {width:133px; height:139px; overflow:hidden;}
+#design-centerSize {width:585px; overflow:hidden;}
+#design-headerRighttop {float:left; width:138px; height:24px; overflow:hidden;}
+#design-headerRightbottom {float:left; width:138px; height:115px; overflow:hidden;}
+.lefttiles {width:97px; height:92px; overflow:hidden; float:left; margin-bottom:10px;}
+.righttiles {width:97px; height:92px; overflow:hidden; float:right; margin-bottom:10px;}
+#design-siteContent {width: 202px;}
+#design-leftContent {width: 200px;}
+#design-rightContent {width: 202px;}
+#design-copyright {margin: 5px 0 0 10px; font-weight: bold; color: #ffffff;}
+#design-copyrightDII {margin: 0 0 0 15px; font-weight: normal; color: #ffffff;}
+/* home page department list */
+.indexDIVL2-OuterBox {margin-left: 1px; margin-right: 1px;}
+.indexDIVL2-InnerBox {}
+.indexDIVL2-2Line {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold; cursor: pointer;}
+.indexDIVL2-2Line1 {}
+.indexDIVL2-2Line2 {}
+.indexDIVL2-2LineFirst {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2LineLast {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2Line a:link {color: #fff; text-decoration: none;}
+.indexDIVL2-2Line a:hover {color: #fff; text-decoration: none;}
+.indexDIVL2-2Line a:active {color: #fff; text-decoration: none;}
+.indexDIVL2-2Line a:visited {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink {background:#e14f10; margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineP {color: #C00000;}
+.indexDIVL2-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVL2-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVL2-Empty {padding: 8px; text-align: center; font-weight: bold; color: #5C5445;}
+/* home page calendar items */
+.indexDIVCalendar-OuterBox {}
+.indexDIVCalendar-InnerBox {}
+.indexDIVCalendar-2Line {padding: 4px; padding-left: 16px; color: #fff;}
+.indexDIVCalendar-Title {}
+.indexDIVCalendar-Event {font-weight: bold;}
+.indexDIVCalendar-2Line a:link {color: #fff;}
+.indexDIVCalendar-2Line a:hover {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2Line a:active {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2Line a:visited {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink {padding: 4px; padding-left: 16px; color: #fff;}
+.indexDIVCalendar-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVCalendar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #fff;}
+.indexDIVL2Links-OuterBox {margin-left: 1px; margin-right: 2px; border: 1px solid #25507A;}
+.indexDIVL2Links-InnerBox {border: 1px solid #E5F3FF; background: #B0CBE4;}
+.indexDIVL2Links-2Line {margin-left: 1px; margin-right: 1px; border-top: 1px dotted #7D9EBF; padding: 4px; padding-left: 16px;}
+.indexDIVL2Links-2Line a {color: #00478C;}
+.indexDIVL2Links-5BkHd {padding-left: 4px; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-style: bold; font-weight: bold; font-variant: normal; text-transform: none;}
+/* home page sidebar items */
+.indexDIVSideBar-OuterBox {margin-left: 1px; margin-right: 1px;}
+.indexDIVSideBar-InnerBox {}
+.indexDIVSideBar-2Line {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold; cursor: pointer;}
+.indexDIVSideBar-2Line1 {}
+.indexDIVSideBar-2Line2 {}
+.indexDIVSideBar-2LineFirst {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2LineLast {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2Line a:link {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2Line a:hover {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2Line a:active {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2Line a:visited {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink {background:#e14f10; margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineP {color: #C00000;}
+.indexDIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVSideBar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #5C5445;}
+/* L2 subdepartment list items */
+.L2DIVSideBar-OuterBox {margin-left: 1px; margin-right: 1px;}
+.L2DIVSideBar-InnerBox {}
+.L2DIVSideBar-2Line {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold; cursor: pointer;}
+.L2DIVSideBar-2Line1 {}
+.L2DIVSideBar-2Line2 {}
+.L2DIVSideBar-2LineFirst {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2LineLast {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2Line a:link {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2Line a:hover {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2Line a:active {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2Line a:visited {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink {background:#e14f10; margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2LineLink a:link {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:active {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineP {color: #C00000;}
+.L2DIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.L2DIVSideBar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #5C5445;}
+.DIVSubDeptDescription-OuterBox {border: 1px solid #27445F; border-bottom: 0px;}
+.DIVSubDeptDescription-InnerBox {border: 1px solid #EFEFEF; border-bottom: 0px;}
+.DIVSubDeptDescription-DEPT1 {background: #B0CBE4; font-weight: bold; color: #FFFFFF;}
+.DIVSubDeptDescription-DEPT2 {background: #D0E2F2; font-weight: bold; color: #516D88;}
+.DIVSubDeptDescription-SUBDEPT1 {background: #C0D8ED; font-weight: bold; color: #FFFFFF;}
+.DIVSubDeptDescription-SUBDEPT2 {background: #DEEAF5; font-weight: bold; color: #6683A0;}
+.DIVAdminCenter-OuterBox {margin-bottom: 12px; border: 1px solid #27445F; border-top: 0px; background: #EFEFEF; padding: 1px;}
+.DIVAdminCenter-InnerBox {border: 1px solid #88A3BC; background: #ADBFD0;}
+.DIVNewCenterArticle {padding: 8px; text-align: center;}
+.DIVNewCenterElement {border-left: 1px solid #D1DFED; background: #ADBFD0; padding: 8px; text-align: center;}
+.DIVAdminSide-OuterBox {border: 1px solid #27445F; background: #516D88;}
+.DIVAdminSide-InnerBox {}
+.DIVNewSideArticle {padding: 2px; text-align: center;}
+.DIVNewSideElement {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSideOutsideLink {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSubDepartment {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVMainAdmin-WW {border: 1px solid #90B1D0; background: #D0E2F2;}
+.DIVMainAdmin-WW table {padding-left: 16px;}
+.DIVMainAdmin-WW td {padding: 4px;}
+.DIVMainAdmin-WW div {border-left: 1px solid #FFFFFF; padding: 6px; background: #E4EEF7;}
+.DIVMainAdmin-WW input {border: 1px solid #ADBFD0;}
+.DIVMainAdmin-PE {border: 1px solid #90A090; background: #D0E0D0;}
+.DIVMainAdmin-PE table {padding-left: 16px;}
+.DIVMainAdmin-PE td {padding: 4px;}
+.DIVMainAdmin-PE div {border-left: 1px solid #FFFFFF; padding: 6px; background: #E0F0E0;}
+.DIVMainAdmin-PE input {border: 1px solid #A0B0A0;}
+.DIVMainAdmin-Submit {border: 1px solid #27445F; background: #ADBFD0;}
+.DIVSideBar-Admin {margin-top: 4px; margin-bottom: 2px; border: 1px solid #90B1D0; background: #D0E2F2;}
+.DIVSideBar-Admin table {}
+.DIVSideBar-Admin td {padding: 2px;}
+.DIVSideBar-Admin div {border-left: 1px solid #FFFFFF; padding: 4px; background: #E4EEF7;}
+.DIVSideBar-Admin input {border: 1px solid #ADBFD0; margin-left: 2px; margin-top: 1px;}
+.DIVSideBar-Submit {margin: 1px; border: 1px solid #27445F; background: #516D88; padding: 4px; text-align: center;}
+.indexDIVArticleBox-OuterBox {width: 440px; height: 500px; margin-right: 1px; overflow: hidden;}
+.indexDIVArticleBox-InnerBox1 {height: 100%; border: 1px solid #EFEFEF;}
+.indexDIVArticleBox-InnerBox2 {height: 100%; border: 1px solid #FFFFFF;}
+.indexDIVArticleBox-Caption {background: #000000; padding: 3px; padding-right: 8px; text-align: right; color: #AFAFAF;}
+.indexDIVArticleBox-Title {border: 1px solid #C0B296; background: #E3D7C0;}
+.indexDIVArticleBox-Headline {padding-left: 4px; padding-top: 2px; font-size: 18px; font-weight: bold;}
+.indexDIVArticleBox-SubHeadline {padding-left: 10px; padding-bottom: 4px;}
+.indexDIVArticleBox-Text {height: 100%; margin-top: 1px; border: 1px solid #E5DDCE; background: #FFF9ED; padding-left: 9px; padding-top: 2px; padding-right: 9px; padding-bottom: 4px; color: #413D36;}
+.indexDIVArticleBox-Links {width: 440px; margin-right: 1px; border: 1px solid #EFEFEF; border-top: 0px; background: #FFFFFF; padding: 1px;}
+img {border: none;}
+</style>
+<MAP NAME="TopLogozLeft">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="81,89,146,117" HREF="http://www.usclubsoccer.org/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="12,97,76,136" HREF="http://www.usyouthsoccer.org/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="88,13,138,70" HREF="http://www.idahoyouthsoccer.org/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="20,18,71,73" HREF="http://www.ussoccer.com/">
+</MAP>
+<MAP NAME="TopLogozRight">
+  <AREA SHAPE="circle" TARGET="_NEW" COORDS="103,82,20" HREF="http://www.eliteclubsnationalleague.com/">
+  <AREA SHAPE="circle" TARGET="_NEW" COORDS="41,87,26" HREF="http://www.westerncda.com/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="75,4,134,50" HREF="http://www.northwestchampions.com/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="3,3,61,54" HREF="http://www.puma.com/football/tcc">
+</MAP>
+<MAP NAME="SocialMediaz">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="70,6,99,35" HREF="http://www.youtube.com/user/fcnova10">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="35,6,66,36" HREF="https://twitter.com/FCNOVAIdaho">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="4,7,32,34" HREF="https://www.facebook.com/fcnova.supernova">
+</MAP>
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-50925426-18', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>
+<table id="design-container" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<table id="design-header" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td><img src="http://www.fcnova.org/images/2013/home-1-1.png" width="153" height="139" border="0" USEMAP="#TopLogozLeft"/></td>
+<td id="design-headerPhotoLeft">
+<style type="text/css">
+.imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+.imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+.imageContainerSize776203 {width: 133px; height: 139px;}
+</style>
+<script type="text/javascript">
+document.observe('dom:loaded', function() {
+  new diiFader('module_fade_776203', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+});
+</script>
+<div id="module_fade_776203" class="imageContainer imageContainerSize776203" subdept="776203">
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Boys1.jpg"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Girls1.JPG"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Boys2.JPG"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Girls2.JPG"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Boys3.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Girls3.png"   alt="" border="0"/></a></div>
+</div>
+</td>
+<td><a href="http://www.fcnova.org/index.html"><img src="http://www.fcnova.org/images/2013/home-1-2.png" width="446" height="139" border="0"/></a></td>
+<td id="design-headerPhotoRight">
+<style type="text/css">
+.imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+.imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+.imageContainerSize776204 {width: 133px; height: 139px;}
+</style>
+<script type="text/javascript">
+document.observe('dom:loaded', function() {
+  new diiFader('module_fade_776204', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+});
+</script>
+<div id="module_fade_776204" class="imageContainer imageContainerSize776204" subdept="776204">
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Boys4.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Girls4.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Boys5.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Girls5.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Boys6.jpg"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://" target="_new"><img src="http://www.fcnova.org/imgs/Girls6.JPG"   alt="" border="0"/></a></div>
+</div>
+</td>
+<td>
+  <div>
+    <div id="design-headerRighttop">
+    <div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({
+pageLanguage: 'en',
+layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+}, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+    <div id="design-headerRightbottom"><img src="http://www.fcnova.org/images/2013/home-1-3.png" width="138" height="115" border="0" USEMAP="#TopLogozRight"/><div>
+  </div>
+</td>
+</tr>
+</table>
+<table id="design-nav" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td align="left"><img src="http://www.fcnova.org/images/2013/nav-left.gif" width="237" height="39" border="0"/></td>
+<td>
+<div id="main-menu" class="diimenu" menuclass="mainmenu"></div>
+</td>
+<td><img src="http://www.fcnova.org/common/images/1x1.gif" width="2" height="39" border="0"/></td>
+<td align="right"><img src="http://www.fcnova.org/images/2013/nav-right.gif" width="105" height="39" border="0" USEMAP="#SocialMediaz"/></td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td id="design-centerContent"><img src="http://www.fcnova.org/common/images/1x1.gif" width="1003" height="1" border="0"/><br/>
+<table width="100%" cellpadding="4" cellspacing="4" border="0">
+<tr><td>
+<!---- Begin Main Content ---->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="textmain">
+<div class="ArticleMainContent ArticleMainContent">
+<div class="textlarge ArticleTitle ArticleTitle">2014 - 2015 | FCNova U9 Gunners | FCN U10 Gunners; U11-U18 Competitive Coaching Staff</div>
+<div class="ArticleSubTitle ArticleSubTitle">"Idaho's most experienced and licensed staff with a top player and team development pedigree!"</div>
+<div class="ArticleTitleSpacer ArticleTitleSpacer"></div>
+<div class="ArticleStory ArticleStory">
+<table align="left" border="1" cellpadding="3" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%204_45_31%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%204_46_10%20PM.png" style="width: 90px; height: 108px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%204_46_22%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%204_45_50%20PM.png" style="width: 90px; height: 113px;" /></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong><span style="font-size:9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">ERIC SIMMONSEN</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">GAVIN KEMPE</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">BRAD MAUZERALL</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">GEOFF POOLE</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);">
+			<p><strong><span style="font-size: 9px;">Title</span><br />
+			<span style="font-size:9px;">Phone</span><br />
+			<span style="font-size:9px;">Email</span></strong></p>
+			</td>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size:9px;"><strong>Director of Coaching</strong><br />
+			208-921-5110<br />
+			eric.simmonsen@fcnova.org</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;"><strong>Technical Director</strong><br />
+			208-440-1315<br />
+			gavin.kempe@fcnova.org</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;"><strong>Academy Director</strong><br />
+			208-412-6128<br />
+			brad.mauzerall@fcnova.org</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;"><strong>Juniors Director</strong><br />
+			208-340-9541<br />
+			geoff.poole@fcnova.org</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size:9px;"><strong>Licensure<br />
+			Experience</strong></span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">USSF &quot;A&quot;&quot; License<br />
+			USSF &quot;Y&quot; License<br />
+			NSCAA Premier Diploma<br />
+			HC - 2 National Championships (USYouth President&#39;s Cup and US Club X National Cup)</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">USSF &quot;A&quot; License<br />
+			Girls Varsity Coach - Centennial HS<br />
+			IYSA ODP Staff Exp</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">USSF &quot;B&quot; License<br />
+			NSCAA Premier Diploma<br />
+			IYSA ODP Staff Exp</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">USSF &quot;D&quot; License<br />
+			Current IYSA ODP Staff</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size:9px;"><strong>2014/15 Role/Position</strong></span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">Director of Coaching and Player Development (all programs)<br />
+			ECNL Director</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">Technical Director - Club&nbsp;<br />
+			U13-U14 Age Director<br />
+			U15-U16 Boys Age Director</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">Academy Director<br />
+			U11-U12 Age Director</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">Juniors/Gunner&#39;s Program<br />
+			U8, U9 &amp; U10</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size:8px;"><strong>2014/15 Team Assignment(s)</strong></span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">U14G ECNL - HC<br />
+			U10 Boy and Girls - Director</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">U13 &amp; U14 Boys &nbsp;- HC<br />
+			U13 &amp; U14 Girls &nbsp;- HC/AC</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">U11 &amp; U12 Boys - HC<br />
+			U11 &amp; U12 Girls - HC</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">U9 Gunner&#39;s Program HC<br />
+			Boys and Girls</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_28_47%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_08_27%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_03_31%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%2010_36_05%20AM.png" style="width: 90px; height: 113px;" /></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">BRIAN SMITH</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">JIM THOMAS</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">ED MOORE</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">MADISON COLLINS</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="font-size: 9px; text-align: center;">Title<br />
+			Licensure<br />
+			Experience</strong></td>
+			<td style="text-align: center;"><strong style="text-align: center;"><span style="font-size: 9px;">Technical/ECNL Staff</span></strong><br />
+			<span style="font-size:9px;">USSF &quot;A&quot; License</span><br />
+			<span style="font-size:9px;">Current College of Idaho Women&#39;s HC - NAIA</span></td>
+			<td style="text-align: center;"><strong style="text-align: center;"><span style="font-size: 9px;">Technical/ECNL Staff</span></strong><br />
+			<span style="font-size:9px;">USSF &quot;A&quot; License&nbsp;</span><br />
+			<span style="font-size:8px;">NSCAA Premier&nbsp;</span><br />
+			<span style="font-size: 9px;">Current BSU Women&#39;s HC<br />
+			Region IV ODP Staff</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Goalkeeper Lead/ECNL Staff</strong><br />
+			<span style="font-size:9px;">USSF &quot;A&quot; and National Goalkeeping Licenses</span><br />
+			<span style="font-size:8px;">Current BSU Asst/GK Coach</span></td>
+			<td style="text-align: center;"><strong style="text-align: center;"><span style="font-size: 9px;">Age Group HC/ECNL</span></strong><br />
+			<span style="font-size:9px;">USSF &quot;B&quot; License</span><br />
+			<span style="font-size:9px;">Current BSU Asst</span><br />
+			<span style="font-size:9px;">FCNova Alum</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="font-size: 9px; text-align: center;">2014/15 Role/Position</strong></td>
+			<td style="text-align: center;"><span style="font-size:8px;">U17-U18 Age Group Director</span><br />
+			<span style="font-size:9px;">Academy U12-U11 Boys Staff/Trainer</span></td>
+			<td style="text-align: center; white-space: nowrap;"><span style="font-size:8px;">U15-U16 Age Group Director</span><br />
+			<span style="font-size:9px;">Academy U12-U11 Girls<br />
+			Staff/Trainer</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;">Goalkeeping Lead</span><br />
+			<span style="font-size:9px;">U14 and above GK&#39;s</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">Technical/ECNL Staff</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="font-size: 8px; text-align: center;">2014/15 Team Assignment(s)</strong></td>
+			<td style="text-align: center; white-space: nowrap;"><span style="font-size:9px;">U17 ECNL - HC<br />
+			U18 ECNL - HC</span></td>
+			<td style="text-align: center; white-space: nowrap;"><span style="font-size:9px;">U15G ECNL - HC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U16G ECNL - HC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U13G PreECNL&nbsp;</span><br />
+			<span style="font-size:9px;">U17G Black - HC</span><br />
+			<span style="font-size:9px;">U17 &amp; U18 ECNL AC</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_13_57%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_14_33%20PM.png" style="width: 88px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_14_17%20PM.png" style="width: 87px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong><span style="font-size:9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">JUSTIN RACKLEFF</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">JAYSON TRANSTRUM</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">KEVIN COYLE</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">TOM FETZER</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><b style="font-size: 9px; text-align: center; background-color: rgb(204, 204, 204);">Title</b><br />
+			<strong><span style="font-size:9px;">Licensure<br />
+			Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:8px;">USSF &quot;D&quot; License<br />
+			PAC12 Student/Athlete - Cal&nbsp;<br />
+			Professional - Germany/US</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF &quot;C&quot; License<br />
+			Current Boys Varsity HC - Borah HS</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF &quot;D&quot; License</span><br />
+			<span style="font-size:9px;">Longtime FCNova and Les Bois Staff Coach</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF &quot;A&quot; License<br />
+			USSF &quot;Y&quot; License<br />
+			BNSC/Capitals Staff Exp</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong><span style="font-size:9px;">2014/15 Team Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U18 Boys - Black - HC<br />
+			U9B Gunners Coach</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U15G ECNL - AC<br />
+			U10G Gunners Coach</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U14G ECNL - AC<br />
+			U12G - HC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U15G Black - HC<br />
+			U16G ECNL - AC</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%207_29_03%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_04_02%20PM.png" style="width: 94px; height: 113px;" /></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">JEFF SCHATZ</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">SHAUN DUNN</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">MO WISHKOSKI</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:10px;">BRIAN BENNER</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Title<br />
+			Licensure<br />
+			Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;"><span style="font-size:8px;">Former NAIA Player and Coach at Northwest Nazarene (holds scoring record in a year w/20 goals)</span></span><br />
+			<span style="font-size:8px;">20+ years exp (Blast, Rush &amp; FCNova)</span></td>
+			<td style="text-align: center; white-space: nowrap;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:8px;">Former Technical Director<br />
+			Idaho Rush<br />
+			AC - Bishop Kelly HS - Boys Varsity</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">JFC (MS) &amp; Chicago Fire Juniors Girls Coach<br />
+			Triangle FC - NC - AC<br />
+			GNAC All American - Seattle University</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF &quot;E&quot; License<br />
+			FCN Staff - 4 years</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:8px;">U16G - White - HC<br />
+			U13G - PreECNL AC<br />
+			U13G - PreECNL Reserves HC<br />
+			U9 Gunners Staff</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U17B - Black - HC<br />
+			U16B - Black - HC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U14G Age Group STaff U14G - ECNL Reserves -HC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U14G - White - HC</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:9px;"><strong>MALLORY CARLSON</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:9px;"><strong>SHANNON SCHUEREN</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:9px;"><strong>KRISTA NOVASEL</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:9px;"><strong>ANDI MCCREATH</strong></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Title<br />
+			Licensure<br />
+			Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">FCNova Alum (played for DOC Eric Simmonsen)<br />
+			Furhman University - NCAA DI</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:8px;">2014 - Senior BSU Womens Soccer Team - NCAA DI<br />
+			MWC - Second Team<br />
+			Crossfire Premier Alum</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF &quot;D&quot; License<br />
+			FCN YL and Staff Exp<br />
+			FCNova (Capitals Alum)</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">FCNova Alum (played for DOC Eric Simmonsen)<br />
+			Northwest Nazarene - NCAA DII (concussions ended career)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U14G - ECNL Reserves - AC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U15G ECNL - AC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U11G - Staff Coach</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U10G - Gunners Coach</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-05-07%20at%206_21_25%20PM.png" style="width: 90px; height: 113px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">Dennis Howard</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">Ian Sandercock</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">Kylie Mascol</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">Dan Cubero</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Title<br />
+			Phone<br />
+			Email</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:9px;"><span style="font-size:8px;"><strong>U13-U15 Goalkeeper Coach</strong></span><br />
+			208-484-3567<br />
+			dennishoward27@gmail.com</span></td>
+			<td style="text-align: center;"><span style="font-size:8px;"><strong><span style="text-align: center;">U11-12 Goalkeeper Coach</span></strong></span><br style="font-size: 9px; text-align: center;" />
+			<span style="font-size:9px;">678-644-3013<br />
+			sanderci@slhs.org</span></td>
+			<td style="text-align: center;"><strong><span style="font-size:8px;"><span style="text-align: center;">U10 - Goalkeeper Coach</span></span></strong><br style="font-size: 9px; text-align: center;" />
+			<span style="font-size: 9px; text-align: center;">208-559-7330</span><br style="font-size: 9px; text-align: center;" />
+			<span style="font-size: 9px; text-align: center;">kylie.mascol@gmail.com</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;"><strong>Boys Staff Coach</strong><br />
+			208-371-3262<br />
+			dcubero10@gmail.com</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Licensure<br />
+			Experience</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:9px;">USSF &quot;D&quot; License<br />
+			NAIA Student-Athlete (GK) - NNU</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">LAT - ATC<br />
+			NWAACC Student/Athlete<br />
+			South Puget Sound CC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">Current GK for Boise State University Womens Team<br />
+			FCNova Alum</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">USSF &quot;D&quot; License<br />
+			FCNova Staff - 4 yrs<br />
+			NCAA DIII - Whitworth&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:9px;">Goalkeeper Programming</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">Goalkeeper Programming</span><br />
+			<span style="font-size:9px;">FCN Athletic Trainer</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">Goalkeeper Programming</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U12B &nbsp;- Coach</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);">
+			<p><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><font color="#ffffff"><span style="font-size: 11px;"><b>NILES GOODING</b></span></font></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><font color="#ffffff"><span style="font-size: 11px;"><b>DENNY CARTER</b></span></font></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><font color="#ffffff"><span style="font-size: 11px;"><b>IVAN BASQUIL</b></span></font></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><strong><span style="color:#FFFFFF;">DAVE REINHART</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);">
+			<p><span style="text-align: center;"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em;"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em;"><span style="font-size: 9px;">Experience</span></strong></p>
+			</td>
+			<td style="text-align: center;"><span style="font-size:9px;"><strong>Girls Staff Coach</strong><br />
+			USSF C Licence<br />
+			Team HC - 20+ years</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size: 9px; text-align: center;">FCN U9 Gunners&nbsp;</span><br />
+			<span style="font-size:9px;">Team Asst Coach&nbsp;<br />
+			10+ years</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">Taking &quot;E&quot; 2014<br />
+			NCAA DII - San Francisco State</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF D License<br />
+			FCN Staff - 6+ years</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size:9px;"><strong style="text-align: center;">2014/15 Team&nbsp;Assignment(s)</strong></span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U13G Age Group Staff<br />
+			U13G Red HC</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U13G Age Group Staff</span><br style="font-size: 9px; text-align: center;" />
+			<span style="font-size: 9px; text-align: center;">U13G Red AC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U11B and U14B Age Group Staff Coach</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U14B Age Group Staff Coach</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="opacity: 0.9; text-align: center; width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">DAN SAMMARTINO</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">JEDD PETERSON</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">DAVE PALSULICH</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><strong><span style="color:#FFFFFF;"><span style="font-size:11px;">STEVE ELWER</span></span></strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size: 9px; text-align: center;">USSF C Licence</span><br />
+			<span style="font-size:9px;">NCAA DI - Lafayette College</span><br />
+			<span style="font-size:9px;">Bishop Kelly JV -HC</span><br style="font-size: 9px; text-align: center;" />
+			<span style="font-size: 9px; text-align: center;">Team HC - 20+ years</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="text-align: center; font-size: 9px;">USSF D Licence</span><br />
+			<span style="font-size:9px;">FCN Staff - 4 years</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="text-align: center; font-size: 9px;">USSF D Licence</span><br style="text-align: center; font-size: 9px;" />
+			<span style="font-size: 9px;">FCN Staff - 4 years</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="text-align: center; font-size: 9px;">USSF E Licence</span><br style="text-align: center; font-size: 9px;" />
+			<span style="text-align: center; font-size: 9px;">FCN Staff - 2 years</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U14G Age Group Staff</span><br style="font-size: 9px; text-align: center;" />
+			<span style="font-size: 9px; text-align: center;">U14G White HC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U9 FCN Gunners - Boys</span><br />
+			<span style="font-size:9px;">Other Assignment - TBD</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U12B FCN Academy Age Group Staff</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U14G ECNL Reserves - AC</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="opacity: 0.9; text-align: center; width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>KACEY BOWEN</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:11px;"><strong>JACKIE HILL</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><strong><span style="color:#FFFFFF;">BETH MAKAAFI</span></strong></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><strong><span style="color:#FFFFFF;"><span style="font-size:11px;">KRISTIN BRUCE</span></span></strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF License<br />
+			FCN Alum/Staff</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">NCAA DII - MSU Billings<br />
+			FCN Alum</span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF License&nbsp;<br />
+			<span style="font-size:8px;">Elementary</span></span><span style="font-size:8px;">&nbsp;</span><span style="font-size:9px;">School Teacher<br />
+			<span style="font-size:8px;">FCN Staff - 4+ years</span></span></td>
+			<td style="text-align: center;"><strong style="font-size: 9px; text-align: center;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">FCN Alum (Les Bois)</span><br />
+			<span style="font-size:8px;">NCAA DI - U of Portland<br />
+			US U23 National Pool - Professional player - Norway</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U17G - Black - AC</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U11G or 12G - Age Group&nbsp;</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U10 FCN Gunners &nbsp;- Girls&nbsp;</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U9 FCN Gunners - Girls&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="opacity: 0.9; text-align: center; width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:10px;"><span style="color:#FFFFFF;"><strong>BROOKE HEIDEMANN</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>MITCHELL BUTT</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>CHRIS KEELEY</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><strong><span style="font-size:11px;">CESAR LANDA</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size: 9px;">FCN Alum - Junior on BSU NCAA DI Women&#39;s<br />
+			MWC Freshman of the Year<br />
+			MWC 1st Team</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">Played for FC Boise and Idaho Rush<br />
+			NCAA DII - Humboldt State</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF D License<br />
+			FCN Staff - 3+ years</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">USSF License<br />
+			Worked in Boise Nationals - Select Program</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U11G or 12G - Age Group</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">U16 and U17B - Black Assistant Coach</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U10 FCN Gunners &nbsp;- Girls&nbsp;</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U9 FCN Gunners - Boys</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="opacity: 0.9; text-align: center; width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:11px;"><strong>STEVE SMITH</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:11px;"><strong>SAUL HERNANDEZ</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:11px;"><strong>MICHAEL GRIFFITH</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:11px;"><strong>MATT WOODS</strong></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">Played for Boise Nationals<br />
+			NCAA DI - Duke University</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">FCN Staff - 1 year</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">Mens Nova Adult League<br />
+			FCN Staff - 1 year</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size: 9px;">Men&#39;s Club - Weber State<br />
+			FCN/Capitals Staff - 10+ years</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U11G or 12G - Age Group</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">U11B Academy Age Group</span></td>
+			<td style="text-align: center;"><span style="font-size:9px;">FCN U10 Gunners Staff - Boys<br />
+			U11B Academy Age Group</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U10 Gunners Staff - Boys</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="opacity: 0.9; text-align: center; width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>RIZAH DIZDAREVIC</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>DANA ASHTON</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>TOM PARK</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:11px;"><span style="color:#FFFFFF;"><strong>MIKE CAMACHO</strong></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size: 9px;">USSF License<br />
+			Professional/Semi Pro Bosnia/Serbia<br />
+			Former HS Varsity Boys - Centennial HS</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Boys Staff Coach</strong><br />
+			<span style="font-size:9px;">FCN Alum (Capitals - Played on original Gunners Team)<br />
+			GK at JUCO - North Idaho College</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size:9px;">SISL - Adult Men&#39;s League<br />
+			FCN Youth League Staff - 4 years</span></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size: 9px; text-align: center;">USSF E License<br />
+			FCN Youth League Staff - 4 years</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U10 Gunners Staff - Boys</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U10 Gunners Staff - Boys</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U9 Gunners Staff - Girls</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U9 Gunners Staff - Girls</span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-04-01%20at%2012_37_28%20PM.png" style="opacity: 0.9; text-align: center; width: 60px; height: 60px;" /></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center; background-color: rgb(0, 0, 0);"><span style="color:#FFFFFF;"><em><span style="text-align: center;">Photo</span><br style="text-align: center;" />
+			<span style="text-align: center;">Coming</span><br style="text-align: center;" />
+			<span style="text-align: center;">Soon</span></em></span></td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">Name</span></strong></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="color:#FFFFFF;"><span style="font-size:11px;"><strong>LEE WEATHERLY</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 0, 0);"><span style="font-size:10px;"><span style="color:#FFFFFF;"><strong>STEPHANIE HARTRUFT</strong></span></span></td>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</td>
+			<td style="text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><span style="text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;"><b>Title</b></span></span><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Licensure</span></strong><br />
+			<strong style="line-height: 1.6em; text-align: center; background-color: rgb(204, 204, 204);"><span style="font-size: 9px;">Experience</span></strong></td>
+			<td style="text-align: center;"><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<span style="font-size: 9px; text-align: center;">FCN U9 Gunners Staff</span></td>
+			<td style="text-align: center;">
+			<p><strong style="text-align: center; font-size: 9px;">Girls Staff Coach</strong><br />
+			<strong style="line-height: 1.6em; font-size: 9px;">USSF E License</strong><br />
+			<span style="font-size: 9px; line-height: 1.6em;">FCN U9 Gunners Staff</span></p>
+			</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; background-color: rgb(204, 204, 204);"><strong style="text-align: center;"><span style="font-size: 9px;">2014/15 Team&nbsp;Assignment(s)</span></strong></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U9 Gunners Staff - Girls</span></td>
+			<td style="text-align: center;"><span style="font-size: 9px; text-align: center;">FCN U9 Gunners Staff - Girls</span></td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+    </td>
+  </tr>
+</table>
+ <!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIFader;DIIImageModule;Date;JQuery;Mustache;JQueryCycle;JQueryScrollTo;</div>
+ <link rel="stylesheet" href="http://www.fcnova.org/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.fcnova.org/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.fcnova.org/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2014 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(e) {
+    var menuclass = $j(e).attr('menuclass');
+    if (menuclass) {
+      $j.ajax({
+            url: '/menu-' + menuclass + '.js',
+            type: 'GET',
+            dataType: 'json',
+            success: function(json) {
+              var jsontext = json.toJSON();
+              renderHTML(e, jsontext);
+            }
+      });
+    }
+  } // fetchMenu
+  var renderHTML = function(e, jsontext) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '772332';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.fcnova.org/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:74089\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var json = eval('(' + jsontext + ')'),
+        $div = $j(e),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  return {
+    init: function() {
+      var menudivs = $j('div.diimenu');
+      $j.each(menudivs,function(){
+        fetchMenu(this);
+      });
+    }, // init
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+ <script src="http://www.fcnova.org/common/js/date-en-US.js" language="JavaScript" type="text/javascript"></script> <script src="http://www.fcnova.org/common/js/time.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.fcnova.org/common/js/jquery.mustache-0.3.1/jquery.mustache.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+Copyright (c) 2014 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+rand4 = function (){return (''+Math.random()).slice(2,6);}
+diiGetV = function (v){
+  if(!v||!v.length||v=='')return '';
+  var ls = /^\s*/;  // Leading space regular expression
+  var ts = /\s*$/;  // Trailing space regular expression
+  return v.replace(ls, "").replace(ts, "");
+}
+diiClearTbody = function (tbody){while (tbody.rows.length>0) tbody.deleteRow(tbody.rows.length-1);}
+diiSetRowClassOddEven = function (tbody){if (tbody){
+  var cn1 = new RegExp("^\\s*odd|\\s+odd\\s*$", "g");
+  var cn2 = new RegExp("^\\s*even|\\s+even\\s*$", "g");
+  for (var i=0; tbody.rows.length>i; i++){
+    var clsnm = tbody.rows[i].className;
+    clsnm = clsnm.replace(cn1, "");
+    clsnm = clsnm.replace(cn2, "");
+    clsnm += (i % 2) ? ' odd' : ' even';
+    tbody.rows[i].className = normalizeString(clsnm);
+  }
+  }
+}
+function imBusy(idPrefix,msg){
+  return '<div style="height:40px;padding-top:10px;">'
+       + '<span id="'+idPrefix+'indicatorImg" style="margin-top:0px;">'
+       + '<img alt="Indicator" src="http://www.fcnova.org/common/images/indicator.gif" /> '
+       + '</span>'
+       + '<span id="'+idPrefix+'indicatorMsg" style="margin-top:0px;">'
+       + msg
+       + '</span>'
+       + '</div>';
+} // imBusy
+function appendBusyRow(tbodyId,msg,nCols){
+  var tbod = $(tbodyId); diiClearTbody(tbod);
+  var tr; var td;
+  tr = document.createElement('tr');
+  td = document.createElement('td');
+  td.innerHTML = imBusy(tbodyId,msg); td.colSpan = nCols;
+  tr.appendChild(td);
+  tbod.appendChild(tr);
+} // appendBusyRow
+function updateBusyRow(tbodyId,msg){
+  var tbod = $(tbodyId);
+  if (tbod&&tbod.rows&&tbod.rows.length>0){
+    var cells=tbod.rows[tbod.rows.length-1].cells;
+    if(cells&&cells.length>0)
+      cells[cells.length-1].innerHTML = msg;
+    }
+} // updateBusyRow
+function diiDMY_MDY(dt){
+  if(!dt||dt=='')return '';
+  var d=dt.match(/(\d+)-([A-Z]+)-(\d+)/);
+  if(!d||!d.length)return '';
+  var mm=d[2], dd=d[1], yy=d[3];
+  var mos=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  for (var i=0;mos.length>i;i++){if(mos[i]==mm){mm=(i+1)+'';break;}}
+  if(mm.length==1)mm='0'+mm;
+  if(dd.length==1)dd='0'+dd;
+  if(yy.length==4)yy=yy.slice(2,4);
+  return mm+'/'+dd+'/'+yy;
+}
+function diiH2A(h){
+  var a=$H(h).map(function(pair){
+    var k=pair.key;
+    var v=pair.value;
+    v.key=k;
+    return v;
+  })||[];
+  return $A(a);
+}
+var diiDateTimes = {
+  dates:{},
+  times:{},
+  getDateObj: function (dt, fullParseFlag) {
+    diiDateTimes.putDate(dt, fullParseFlag);
+    return diiDateTimes.dates[dt];
+  }, // getDateObj
+  getTimeInMinutes: function (tim) {
+    var timobj = diiDateTimes.getTimeObj(tim);
+    if (!timobj.timMinutes) {
+      timobj.timMinutes = parseInt(timobj.timH, 10) * 60 + parseInt(timobj.timM, 10);
+    }
+    return timobj.timMinutes;
+  }, // getTimeInMinutes
+  getTimeObj: function(tim) {
+    if (!tim) tim = 'TBD';
+    diiDateTimes.putTime(tim);
+    return diiDateTimes.times[tim];
+  }, // getTimeObj
+  putDate:function(dt,fullParseFlag){
+    if(!diiDateTimes.dates[dt]){
+      var dateobj = {D: '', M: '', Y: '', YMD: '', DDD: '', MMMD: '', MMMMYYYY: ''}, dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (dtA) {
+        dateobj.D = dtA[1];
+        dateobj.M = dtA[2];
+        dateobj.Y = dtA[3];
+      }
+      diiDateTimes.dates[dt] = dateobj;
+    }
+    if(fullParseFlag === true && !diiDateTimes.dates[dt].date && dt !== ''){
+      var dateobj = diiDateTimes.dates[dt];
+      var dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (!dtA) {
+        dtA = dt.match(/(\d+)\/(\d+)\/(\d+)/);
+      }
+      if (dtA) {
+        dateobj.date = Date.parse(dt);
+        dateobj.YMD      = dateobj.date.toString("yyyyMMdd");
+        dateobj.DDD      = dateobj.date.toString("ddd");
+        dateobj.MMMD     = dateobj.date.toString("MMM d");
+        dateobj.MMMMYYYY = dateobj.date.toString("MMMM yyyy");
+      }
+    }
+  }, // putDate
+  putTime: function(tim) {
+    function makeEntry(a1, a2, a3) {
+      var timeobj = {};
+      var h = parseInt(a1, 10);
+      if (a3 && a3.toUpperCase() === 'PM' && 12 > h) {
+        h = h + 12;
+      }
+      a1 = '' + h;
+      timeobj.timH = a1;
+      timeobj.timM = a2;
+      timeobj.timHHMM = (a1.length == 1 ? '0' : '') + a1 +
+                        (a2.length == 1 ? '0' : '') + a2;
+      timeobj.timDisp = (h > 11) ? '' + ((h > 12) ? h - 12 : h) + ':' + a2 + ' PM' : ((h == 0) ? '12' : a1) + ':' + a2 + ' AM';
+      return timeobj;
+    } // makeEntry
+    if (!tim) tim = 'TBD';
+    if (!diiDateTimes.times[tim]) {
+      var timeobj = {};
+      var timA = tim.match(/30-DEC-1899\s(\d+):(\d+)/);
+      if (timA && timA.length && timA.length > 0) {
+        timeobj = makeEntry (timA[1], timA[2], '');
+      } else {
+        var timA = tim.match(/(\d+):(\d+)\s(AM|PM)/i);
+        if (timA && timA.length && timA.length > 0) {
+          timeobj = makeEntry (timA[1], timA[2], timA[3]);
+        } else {
+          timeobj.timH='';
+          timeobj.timM='';
+          timeobj.timDisp = 'TBD';
+        }
+      }
+      diiDateTimes.times[tim] = timeobj;
+    }
+  }, // putTime
+  rangesOverlap:function(range1Lo, range1Hi, range2Lo, range2Hi) {
+  return ( (range1Hi.compareTo(range2Lo) >= 0) && (range1Lo.compareTo(range2Hi) <= 0) );
+  } // rangesOverlap
+}
+/******************************************************************/
+/* normalizeString Copyright 2002 by Mike Hall                    */
+/* Please see http://www.brainjar.com for terms of use.           */
+/******************************************************************/
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+function normalizeString(s) {
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+  return s;
+} // normalizeString
+/* copyright Stephen Chapman 24th March 2006, 10th February 2007 */
+/* permission to use this function is granted by Stephen Chapman */
+/* provided that this copyright notice is retained intact        */
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+  var x = Math.round(num * Math.pow(10,dec));if (x >= 0) n1=n2='';
+  var y = (''+Math.abs(x)).split('');var z = y.length - dec; if (0 > z) z--; for(var i = z; 0 > i; i++) y.unshift('0');y.splice(z, 0, pnt);
+  while (z > 3) {z-=3; y.splice(z,0,thou);}var r = curr1+n1+y.join('')+n2+curr2;return r;
+}
+function formatComma(n,dec){
+  if (!dec) dec=0;
+  var pnt = (dec>0)?'.':'';
+  return formatNumber(n,dec,',',pnt,'','','-','');
+}
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function diiMemoLink(key) {
+  if (key !== undefined) {
+    var clickpop1 = window.open('http://www.fcnova.org/scripts/runisa.dll?M2:gp::74089+Elements/Memo+' + key + '+SiteMap', "clickpop1",
+                                'toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=300');
+    clickpop1.focus();
+  }
+} // diiMemoLink
+function diiInitMemoLinks() {
+  if ($j === undefined || !$j) return;
+  var $memolinks = $j('span.dii-memo-link[key]'), $done = $memolinks.find('> img').parent();
+  $memolinks = $memolinks.not($done);
+  $memolinks.each(function(){
+    var $span = $j(this), imgsize = $span.attr('imgsize');
+    if (!imgsize) imgsize = '12';
+    if (imgsize === '0') {
+      var txt = $span.text();
+      if (txt && txt === $span.html()) {
+        $span.html('<a href="#">' + txt + '</a>');
+      }
+    } else {
+      var s = '<img src="http://www.fcnova.org/common/images/icons/{{imgsize}}-Help.png" width="{{imgsize}}" height="{{imgsize}}" vspace="0" hspace="0" align="top" border="0"/>';
+      s = s.replace(/{{imgsize}}/g, imgsize);
+      $span.html(s).css({cursor: 'pointer'});
+    }
+  })
+  .click(function(e){
+    e.preventDefault();
+    var $span = $j(this), key = $span.attr('key');
+    if (key !== undefined) {
+      diiMemoLink(key);
+    }
+  });
+} // diiInitMemoLinks
+document.observe('dom:loaded', diiInitMemoLinks);
+</script>
+ <script src="http://www.fcnova.org/common/js/jquery.cycle/jquery.cycle.all.min.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.fcnova.org/common/js/dii_fader/dii_fader-0.3.1.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.fcnova.org/common/js/jquery-1.3.2/jquery.scrollTo-1.4.1-min.js" language="JavaScript" type="text/javascript"></script>
+  <script src="http://www.fcnova.org/common/js/modules/dii_image_module-0.0.4.js" language="JavaScript" type="text/javascript"></script>
+ <!---- End Main Content ---->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table id="design-pageFooter" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td class="textsmall" style="background: url(/images/2013/footer-1.gif) no-repeat;">
+<img src="http://www.fcnova.org/common/images/1x1.gif" width="775" height="1" border="0"/><br/>
+<div id="design-copyright">&copy; 2014
+ FC Nova. All rights reserved.</div>
+<div id="design-copyrightDII">&copy; 2014
+ <a href="http://www.demosphere.com" style="color: #ffffff; text-decoration: none;" target="new">Demosphere International, Inc.</a> All rights reserved.</div>
+</td>
+<td width="100%"><img src="http://www.fcnova.org/common/images/1x1.gif" width="2" height="37" border="0"/></td>
+<td align="right"><a href="http://www.demosphere.com"><img src="http://www.fcnova.org/images/2013/footer-2.gif" width="226" height="37" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems"/></a></td>
+</tr>
+</table>
+<br/><br/>
+</td></tr>
+</table>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIFader;DIIImageModule;Date;JQuery;Mustache;JQueryCycle;JQueryScrollTo;</div>
+</body>
+</html>

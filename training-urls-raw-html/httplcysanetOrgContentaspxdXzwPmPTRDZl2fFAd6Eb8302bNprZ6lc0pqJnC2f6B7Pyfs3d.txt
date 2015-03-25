@@ -1,0 +1,451 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+    <head id="HeadTag"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b231fc0008","applicationID":"1623547","transactionName":"YlxTZEFUW0pYWhEIW1sWcGNjGlpLXhYGDlpBXF9EHVRGSUE=","queueTime":0,"applicationTime":70,"ttGuid":"EB1A3DE964B6FF4","agent":"js-agent.newrelic.com/nr-627.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script><title>
+	Lewis County Youth Soccer Association
+</title><meta id="MetaDesc" name="MetaDesc" content="" /><meta id="MetaKeyword" name="MetaKeyword" content="" /><link rel="stylesheet" type="text/css" href="/css/810/ts.css" /><link rel="stylesheet" type="text/css" href="/css/810/legacy.css" /><link id="StylesheetSkin" rel="stylesheet" type="text/css" href="/css/810/skin/Outlook.css" /><link rel="stylesheet" href="/common/font-awesome/3.2.1/css/font-awesome.min.css" />
+
+        <!--[if gte IE 9]>
+        <style type="text/css">
+         .gradient {
+          filter: none;
+          }
+       </style>
+        <![endif]-->
+
+        <!--[if IE 7]>
+            <link rel="stylesheet" href="/common/font-awesome/3.2.1/css/font-awesome-ie7.min.css" />
+        <![endif]-->
+
+
+         
+        <script type="text/javascript" src="/scripts/660/ts.js"></script>
+        <script type="text/javascript">
+ var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-2647984-2']); _gaq.push(['_setCustomVar', 1, 'Site', 'Organization', 3]); _gaq.push(['_setCustomVar', 2, 'Organization', '0464', 3]); _gaq.push(['_trackPageview']); (function () {  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();
+</script><link href="/Telerik.Web.UI.WebResource.axd?d=s2VCz4YubydhYPMgkCXRABs0IsZeDcVj9nSGrKZA_o28utqgr-JUgFzjEPK52xw1DCoKK4sL3y00iWZFkpeEvd2cbtUAO5Ur_kDd9qsU7bjFWXbnwgZ6yAhdPJScV_XEXP5zBZSnOyOFldLL2Tfe0g2&amp;t=635242721254820342&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2014.3.1209.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0e2aaed8-3b29-4dda-bbe2-51b16609be9a%3a92753c09%3a45085116%3a5951aeec%3a1f65231b%3aed2942d4%3ab7acb766%3a1c2121e%3bTelerik.Web.UI.Skins%2c+Version%3d2014.3.1209.79%2c+Culture%3dneutral%2c+PublicKeyToken%3d29ac1a93ec063d92%3aen-US%3a6830619e-3465-4697-ba12-f83cf787f683%3a30cd2a43%3af5bdd331%3a7a826919%3a2eb5172a%3a17af17ec%3a81e57fbe%3ab388bf1d" type="text/css" rel="stylesheet" /></head>
+
+    <body id="BodyTag" style="background-color:#000000;background-image:url(&#39;/Assets/Managed/464/PageBackground.gif&#39;);background-repeat:repeat;">  
+         
+                   
+        <form method="post" action="Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d" id="Org_MasterPage_Form">
+<input type="hidden" name="PageStyleSheetManager_TSSM" id="PageStyleSheetManager_TSSM" value="" />
+<input type="hidden" name="PageScriptManager_TSM" id="PageScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkMjM1MTgyNjY5NDM2NhgFBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCAUXY3RsMDAkUGFnZVdpbmRvd01hbmFnZXIFE2N0bDAwJE1lc3NhZ2VXaW5kb3cFFWN0bDAwJExlZnROYXZQYW5lbEJhcgUhY3RsMDAkTGVmdE5hdlBhbmVsQmFyJGkxJGkwJGN0bDAwBRZjdGwwMCRPcmdhbml6YXRpb25NZW51BRpjdGwwMCRNYXN0ZXJSYWRTb2NpYWxTaGFyZQUnY3RsMDAkTWFzdGVyUmFkU29jaWFsU2hhcmVfY29tcGFjdFBvcHVwBTJjdGwwMCRNYXN0ZXJSYWRTb2NpYWxTaGFyZV9jb21wYWN0UG9wdXAkQyRjb21ib0JveAUyY3RsMDAkTWFzdGVyUmFkU29jaWFsU2hhcmVfY29tcGFjdFBvcHVwJEMkY29tYm9Cb3gPFCsAAmVlZAUWY3RsMDAkU3BvbnNvcnNMaXN0Vmlldw8UKwAFZBQrAABkFgIeAl9jZmRkBRhjdGwwMCRSc0NhbGVuZGFyTGlzdFZpZXcPFCsABWQUKwAAZBYCHwBmZGQFEWN0bDAwJFNraW5DaG9vc2VyDxQrAAJlBQdPdXRsb29rZJ42xLgyizVpmDxZtVKVqg+WwxrTDLv/7c6dnNSwd6Fy" />
+
+
+<script src="/ScriptResource.axd?d=ECwe363Bsu9u2yQKUg2a9hVMA7kfF_bHbytwLg_6E8QFYAfRn8y1r_d6IzneDBl1-PbW-amgyhcGjvd2-_RZ6NLFj9LDcydPvpC-tkNqoX8m61Irtn-40GwqqWDlENirI9-VoHy2EuQ9ODp6Njh1dNpkhhmOpvzN5uDbI1TKPhc1&amp;t=ffffffffb53e74b8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=m-hX1Bgimkai3zkkUSzgqASFNsU29bzgt2sGmrsg3T8WEALhXLSX6OUb9H3RXMQ9QCKEa_1wocFuxakzoJdOpfl9xWSgq1x6V3h3vaUaKXxTrhV9oF3VLjhmI1QE97KsTmQBvVSSfC2_LhI6Hyp1ww2&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=lSYL42b1aRE5nn0JuGl_0RXwZ6bCvBtfE2nX62dXQUfULTJ-c0P4kfkWWaKmYAJtQ9392St3dWMQv84X-giKOrAK2IJ_D6x_bcHTBk51_rxVrjX5uBeIlH2RRmIuRQ4rY5iSkMLUts9CVzlQynZ0IA2&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-d66WKmLYOMVtXqBzkFrYz3o-G2KmhBfm5x-Ep73AXDkOD1pDw3iP52xIgaRKVIuktn-e9yMbYDRKg8c5WB8yHswKaB3KdVMaq7qgg0bSW59uqRqlWJqx0u3C6n0zx8aeAkoYmxcP8rbreBA1rrD0w2&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-vYapJ_x2QgZtPe4lixVOkn1ms18XzhVYRlWtMGLlKBtYJsozfUryZsvXNRhe8Qr5BrmgXQHEWMSh4HR_70d-0hLJ3o0zPr3IzFa6wOMG441GW85MJU7GSgrgXE0GJd2ryTNMGSjguwWjIJ6fQhFk6ACueoupK3puWSxaNXohOs1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FJDE6thCiqHoX0p774IIYJKxxwAJcmuxXRNHn-pG4EKuVX5KTudYXoJXLHkUMdr6hJA2TseFQtOvDUFtR3yOlHmDXCIS_7Qac0fLhwDjYkE9GNHHcd5lsLMzWJbT_KJmUj4vPrx9yAKo82sE_dtQYhHqXfz8IAzTZa-KysP7ssraPmA2hrGrkR7BGTa9TEok0&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FyXlvAsfvIuvq1sYy0ZRM53u6KokdJDKeogGHqsSVSiFKxfQ2iPcZgqm0osFQ6gvVufnCE3GvXWUZJG2lR0kqsIJhxHvzqm9bBh_mTEpG-335K0_i20hQTHMQam-JOZsV2loeT3_43IJDeuAAelw-FLkzw12m93EIHq8Jgm27KU1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1pW8LipIJQQx3VLC-5n8xR1wdkPWp3X-kxX9RUZrihg-HJYBWbVW0nPpdY9b3qTN2djhqcNi9I8jGfbPosQBnnrih9rhzFKYkblxLt9OUDV7IelfQrSCgqkGkl7oRtpqkaCUnUaKZmga8eFaGpGIExCFrD2lQyOJRv2mvM80hpM1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wNDiDMpy5F7J0mM--Hp3YzFa6jc2O4AX8sCnf8jp9XHP4oJ5qS8RAnZNeUFHyfg2KT1L-DWj77SfID9OsXmmrMxfYyJMmihTrEGyMLmzd25qIQIDN5R2_1_IQAZTY9arn7nymAkBW99KKqM_wp5jWg1yg_bSN70whBddk-xW3LA1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=agwuP9Bi1ciCC_M6D2bvEpkdjQPBeLF-POE5ekPpZ8veSqeDCF5v75VT5H6SmNownPDxvzh1Zk3RDqVNxEUR7NGL2APgNn5pokLoaZTZmtYFQV6392hZOZSGy5VgkyvoDQW1_lVMnVkp6ErZ_mN_Dj3LBirl0cG0mcNpNZxlYJQ1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9zBqkBAzB9pxbRXvySy8w1vDmSGiBjUWFrqBRPWEEmFdKsf-V0IHW3zWLlZMlWqxCAYnG7RD9rIg6LIeZ_EuC5zpSlH6zInoXhSd5Rm430A0ENl6U5Qbkcr7Z7ZZPRUWDkQ0Wpn5mBXsSBs8z72zZ03cpOQwOgjE8IhGJ_uFYiM1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=v11vF9ei5s4bjxwTXhnLhWMo3y_tdoxvPT1amJXiNX15Pj85Y9nuORaXWmP-HBOBCcdMuXV_TECZzXggfxufs1rSlnVk_9nFsxafIH1kQlgcJppc02RjbekfsrM5A765mRW5vk4kuOU_86OQ4KNed2qvKvzkhY0InODksWDd8c01&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=M_qQzNH3P6uEUHxJpUp2oBgBKyi0iH2Y0-5nq2_ULvjZEtsSrzcXHewtTaPq7bIKXdS56_hEKyT0uA_oYXVuB-V17XW99-zjUjrL5oI97oLN9ebYc7ndR_Cm1gf8SemQ4uHspotoetS_Ho3eNzM56Q2&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mnKySvGi6HpJ4wTj4kHcr9i2ySvWahsoyNfSvarAMQotyxtFX0H3TmpbklUItp-W1cwDKTAtTH6GgwxcOMeDg6nsxADi_0dvb97TPZsX2EBx9LFXf6_f65bEdOkfjknsIlGxSqprK7flr3EAm4_FgJv0qsc6_xoxiqGwFnSec0g1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6Bu7_80fBzXFeCE0KmRvwf77Gbdu_RUZ36VokFBiJCf0N5tubK1FMHd5x_Z4aVcpwV-nS8kUr-N8xTFhX3Btwe9c8eAMRJtjruBtI2-25CHLcjNJnEofax742MvK8P7SRiONr7HJv5id-e_dzCrXl6XdFf0Go0G3bUosNEInupU1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eh4Z-xg9ttDeX7DyU8Z4Yk_pem1P7aEADxCe8uN9j-89oemqd-M7W_Mlz1ksvjiE-IVzPaDty5IkNIbcvSnH8S7nOe_vyAV3vtc_bFzFV-Kld5XVEkFCjBpwss37UF5bxF8IuNfTVuNnA8ivap2e2sOJ5NFDwR9u17HoHuauDJY1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cBFl4-XCOAi1uyHnYKEKTjVqnHs7-WDnGOMOqVrHXSJxlS0tDGoRNSrWoClfk45XETRAOUokdbi6hp56b-9hmjz2LurvwUK14GC2ISNq6nbKvXkKGu5zNhqJZcihcK73Y8e6N6ybULzBgjaMViEtJkxvlx1mPzLVn6kMIE3L04s1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=up6EDlioL46E0k9l6WAL33D0oKz_YOtqXH2AAMo0EjrdfQWVG0CFk7A1sBieIW-HcqbhIjFCQBxA485mHq2kQ-y_jOr2NzpXYFMQWnt_LT8oVV1w1bMqfclUvc0_5dhF0emhEeEXd_UGMbRdq-HdH2-NefpoJ3euHgH00-7NvD81&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Vro2XzMQxHKRxWHBemgqDHnCX1q-THby7XcYCv2UM3o80ve8lVOjijzkrjCkWM7lItAlcCd3-dvtaOO4Vl11ofkr1OuS19NtKURN45vPqGL3LG8Ou_y6kt5iaXC7xTBaSI-osUymzOuO11WF0woFc-9ZXtBlICxMFZPG-XEjBzU1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Ozc-yr2nsvdEA8PcyDAXZnE0XZQ7vU9Vp1UJhxWcuiGhkK2ElvJRXlzvC_ky_RY7C497ATvawXKtYA4QtDeBmDhtS5QWZ4CyaWDXCsVZYNNEfraWLOUvljjs_A7qAsmH5TiwLpb52Xs1GRCwfaXXrprupC9QXnXfC0CJKgdpTQo1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1k6l--1571MI_5a5eyY7050nJUZMjV_0UiPewqiSssehRPkD1ZBa02zqKxwhdL3rT2tbwqb9ZeDOvrfs96i5_d3KClb_HlvwIhQk4LGrCJMIwrO_mfJASeNXV97Sx46EuDBVK9w8UcHTyq7bBowh7Q2&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pmgKARdQchHBr4_BQC1JDxnW5kYNqgSQqgRi9DushQMJGYM6hPMG716Dwlu7QyiOTsH0slJGBethyBR5KiVPB-k9cZsZo4Qc1SyiULgP94s1FToCkeA7_1NJm-kNFiol-TAiqm0Dy9VJs_u-IOWcTKEDZKgxKfrGbn_jAY6YRHk1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PUfTPyrNlT0D1BmdXmKbVZR-jVNTWS6X4c-j_e479o3-O8qTLfNKwhM6mZBEU6whZ4emvywsC_TBEOYdy4nEbKt_fygJBmoXalr8RCQM_Sg-pzrTzw9Kwa4ZiZl3VEmQK06JOJG8ITfxNURzVl2WRPGBgAN_gBaDwtsgO2dJ-LM1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Glpp-quH4vm934DWzNzOQTDzl1p56i_bJr8PnnTPgVD1py6ptXFR7k0UbtmyAZqS3gnn6ZLwyhNCNfSZDD5gtOPL5L4mprW1G7BOwPDjq-DrZt_Gw2lhGZfch6_l_qUyCa1lOg-ySDy6SgLBjm0bxhSSOv6vygLYbCNXBppvV_E1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9gyXNNfXDIzNUI439gbOUut2MH9A1IRB9TuTs3UTo5MDSUInJSmUd11BeujpcKL2HSrDolI_D2kUACPcuXZC5prccc7lqHu050APWtkC_wwwWuYeS78T9q3NfuUyv4reRakUrYXcJwP-__J2cQ62bbOm4MV1laESRk67VioDjJg1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PFbufSE4b5VW6R56Ro3ZZI4eejYUf9S6LOCKh_o8xEyz3jYUdUZKDxvXVZoWjyXjemkoZrHnnsGNxP9mxTqxzT3EyrhB0B35KHNwAgZn0D99Yj8_eSCazNepwqt8N_ydcxsHYEBbwi2H69Rox8XpCA1eSG9aWCCZV0NIQ6RLVQY1&amp;t=ffffffff83fd1515" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F6714B32" />
+    
+          
+                        
+        
+        <div id="ctl00_PageWindowManager" style="display:none;">
+	<!-- 2014.3.1209.40 --><div id="ctl00_MessageWindow" style="display:none;">
+		<div id="ctl00_MessageWindow_C" style="display:none;">
+			                    
+                                                                            
+                    
+		</div><input id="ctl00_MessageWindow_ClientState" name="ctl00_MessageWindow_ClientState" type="hidden" />
+	</div><div id="ctl00_PageWindowManager_alerttemplate" style="display:none;">
+		<div class="rwDialogPopup radalert">			
+			<div class="rwDialogText">
+			{1}				
+			</div>
+			
+			<div>
+				<a  onclick="$find('{0}').close(true);"
+				class="rwPopupButton" href="javascript:void(0);">
+					<span class="rwOuterSpan">
+						<span class="rwInnerSpan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="ctl00_PageWindowManager_prompttemplate" style="display:none;">
+		 <div class="rwDialogPopup radprompt">			
+			    <div class="rwDialogText">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function RadWindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text"  class="rwDialogInput" value="{2}" />
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);"				
+					    class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="ctl00_PageWindowManager_confirmtemplate" style="display:none;">
+		<div class="rwDialogPopup radconfirm">			
+			<div class="rwDialogText">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);"  class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="ctl00_PageWindowManager_ClientState" name="ctl00_PageWindowManager_ClientState" type="hidden" />
+</div>
+
+        <div id="PageAjaxManagerSU">
+	<span id="ctl00_PageAjaxManager" style="display:none;"></span>
+</div>                      
+
+        <div id="LoadingPanel" class="RadAjax RadAjax_Outlook" style="display:none;">
+	<div class="raDiv">
+
+	</div><div class="raColor raTransp">
+
+	</div>
+</div> 
+
+        
+ 
+
+        
+
+        
+
+                
+        <div id="UserMenuAnonymousPanel">
+	
+            <div style="padding-top:10px;"></div>
+        
+</div>
+
+        <div id="PageBackgroundInner" class="pageAreaBackground" style="Width:990px;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;background-color:#000000;">  
+         
+            <div class="bannerSection">
+                <table id="PageBannerSectionTable" cellspacing="0" cellpadding="0" align="center" width="990">
+	<tr>
+		<td>
+                            <img id="FullBannerImage" src="http://9c89ec00328c7dd23be1-9ad040f7bac6c67321124f01bb9421c4.r60.cf2.rackcdn.com/c519.png" alt="Lewis County Youth Soccer Association" width="990" />
+                            
+                            
+                        </td>
+	</tr>
+</table>
+
+            </div>  
+                                         
+           <table id="middleSectionTable" cellspacing="0" cellpadding="0" style="margin-top:3px;">
+	<tr valign="top">
+		<td id="LeftNav0" valign="top" style="border-style:none;Width:210px;">                    
+                      <div id="ctl00_LeftNavPanelBar" class="RadPanelBar RadPanelBar_Outlook">
+			<ul class="rpRootGroup">
+				<li class="rpItem rpFirst"><a href="/Org/Home.aspx?d=2eRW1wwXz8%2bCr8U4VTdd8g%3d%3d" class="rpLink rpExpandable rpExpanded"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Home</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst"><a href="/user/SignIn.aspx?d=2eRW1wwXz8%2bCr8U4VTdd8g%3d%3d" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Sign In</span></span></font></a></li><li class="rpItem rpLast"><a href="/Org/ContactOrg.aspx?d=2eRW1wwXz8%2bCr8U4VTdd8g%3d%3d" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Contact Us</span></span></font></a></li>
+					</ul>
+				</div></li><li class="rpItem"><a href="#" class="rpLink rpExpandable rpExpanded"><span class="rpOut"><span class="rpExpandHandle"></span><span class="rpText">Fall '14</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst rpLast"><div class="rpTemplate">
+							<div id="ctl00_LeftNavPanelBar_i1_i0_ctl00" class="RadTreeView RadTreeView_Outlook" style="overflow:hidden;">
+								<ul class="rtUL rtLines">
+									<li class="rtLI rtFirst"><div class="rtTop">
+										<span class="rtSp"></span><span class="rtMinus"></span><span title="Lewis County U10" class="rtIn"><font color="#FFFFFF">Lewis County U10</font></span>
+									</div><ul class="rtUL">
+										<li class="rtLI"><div class="rtTop">
+											<span class="rtSp"></span><span class="rtPlus"></span><a title="Boys" class="rtIn" href="/Org/StandingsResults.aspx?d=2eRW1wwXz8%2bAIvkS2ZU6oB1UUpPDsyYyIqGigBn4ufOfEgNHd7kbSCjOGBnuiHW9uvOS1fJXCnM%3d"><font color="#FFFFFF">Boys</font></a>
+										</div></li><li class="rtLI rtLast"><div class="rtBot">
+											<span class="rtSp"></span><span class="rtPlus"></span><a title="Girls" class="rtIn" href="/Org/StandingsResults.aspx?d=2eRW1wwXz8%2bAIvkS2ZU6oB1UUpPDsyYyIqGigBn4ufMajn0HBUr2fV2yx8r%2frHGTGdcCjtS1VRk%3d"><font color="#FFFFFF">Girls</font></a>
+										</div></li>
+									</ul></li><li class="rtLI"><div class="rtMid">
+										<span class="rtSp"></span><span class="rtMinus"></span><span title="Mossyrock" class="rtIn"><font color="#FFFFFF">Mossyrock</font></span>
+									</div><ul class="rtUL">
+										<li class="rtLI"><div class="rtTop">
+											<span class="rtSp"></span><span class="rtPlus"></span><a title="U6" class="rtIn" href="/Org/StandingsResults.aspx?d=2eRW1wwXz8%2bAIvkS2ZU6oFELEnTH8Faqo1kPfszEi7us7jm3icCsykaG3ofi14aZnd%2ftHsgQDYA%3d"><font color="#FFFFFF">U6</font></a>
+										</div></li><li class="rtLI rtLast"><div class="rtBot">
+											<span class="rtSp"></span><span class="rtPlus"></span><a title="U8" class="rtIn" href="/Org/StandingsResults.aspx?d=2eRW1wwXz8%2bAIvkS2ZU6oFELEnTH8Faqo1kPfszEi7tpSq3vJQdX6xTKKMhq%2f%2fwoMlAcT0Grs3A%3d"><font color="#FFFFFF">U8</font></a>
+										</div></li>
+									</ul></li><li class="rtLI rtLast"><div class="rtBot">
+										<span class="rtSp"></span><span class="rtMinus"></span><span title="Tournaments" class="rtIn"><font color="#FFFFFF">Tournaments</font></span>
+									</div><ul class="rtUL">
+										<li class="rtLI"><div class="rtTop">
+											<span class="rtSp"></span><span class="rtPlus"></span><a title="U6 Let&#39;s Kick It Season Opener" class="rtIn" href="/Org/StandingsResults.aspx?d=2eRW1wwXz8%2bAIvkS2ZU6oOx%2bGIHUS8YqEybRm2c89Qz0CobFWF3WRr61vzbzZeGPQT8k4K%2bRmJU%3d"><font color="#FFFFFF">U6 Let's Kick It Season Opener</font></a>
+										</div></li><li class="rtLI rtLast"><div class="rtBot">
+											<span class="rtSp"></span><span class="rtPlus"></span><a title="U8 Let&#39;s Kick It Season Opener" class="rtIn" href="/Org/StandingsResults.aspx?d=2eRW1wwXz8%2bAIvkS2ZU6oOx%2bGIHUS8YqEybRm2c89Qxg6N8Iqov6UJhF0H19EaCcHDOOg2c4RnA%3d"><font color="#FFFFFF">U8 Let's Kick It Season Opener</font></a>
+										</div></li>
+									</ul></li>
+								</ul><input id="ctl00_LeftNavPanelBar_i1_i0_ctl00_ClientState" name="ctl00_LeftNavPanelBar_i1_i0_ctl00_ClientState" type="hidden" />
+							</div>
+						</div></li>
+					</ul>
+				</div></li><li class="rpItem"><a href="#" class="rpLink rpExpandable rpExpanded"><span class="rpOut"><span class="rpExpandHandle"></span><span class="rpText">Quick Links</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst rpLast"><a href="http://www.nysl.com/Registration/Age_Division_Calculator.htm" title="Age Calculator" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Age Calculator</span></span></font></a></li>
+					</ul>
+				</div></li><li class="rpItem"><a href="#" class="rpLink rpExpandable rpExpanded"><span class="rpOut"><span class="rpExpandHandle"></span><span class="rpText">Clubs</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst"><a href="http://www.centraliayouthsoccer.com%ef%bb%bf" title="Centralia YS" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Centralia YS</span></span></font></a></li><li class="rpItem"><a href="http://www.chehalissoccer.org%ef%bb%bf" title="Chehalis YS" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Chehalis YS</span></span></font></a></li><li class="rpItem"><a href="http://Coming%20Soon" title="ELC YS" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">ELC YS</span></span></font></a></li><li class="rpItem"><a href="http://www.Mossyrocksoccer.com%ef%bb%bf" title="Mossyrock YS" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Mossyrock YS</span></span></font></a></li><li class="rpItem"><a href="http://www.napavineyouthsports.com%ef%bb%bf" title="Napavine YS" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Napavine YS</span></span></font></a></li><li class="rpItem"><a href="http://click.infospace.com/ClickHandler.ashx?du=http%3a%2f%2fwww.onysoccer.com%2f&amp;ru=http%3a%2f%2fwww.onysoccer.com%2f&amp;ld=20130425&amp;ap=3&amp;app=1&amp;c=srchresus5&amp;s=srchresus5&amp;coi=239137&amp;cop=main-title&amp;euip=75.172.8.149&amp;npp=3&amp;p=0&amp;pp=0&amp;pvaid=e3c7888cdec64d9f986c0041ee4deb2e&amp;ep=1&amp;mid=9&amp;hash=4F0685D4798DE74FC35F40BA4AEFAAE8" title="Onalaska YS" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Onalaska YS</span></span></font></a></li><li class="rpItem"><a href="http://Coming%20Soon" title="Toledo YS" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Toledo YS</span></span></font></a></li><li class="rpItem"><a href="http://www.winlocksoccer.org%ef%bb%bf" title="Winlock YS" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Winlock YS</span></span></font></a></li><li class="rpItem rpLast"><a href="http://www.volcanosoccer.com" title="Volcano (Select)" class="rpLink" target="_blank"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Volcano (Select)</span></span></font></a></li>
+					</ul>
+				</div></li><li class="rpItem"><a href="#" class="rpLink rpExpandable rpExpanded"><span class="rpOut"><span class="rpExpandHandle"></span><span class="rpText">LCYSA Request forms</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst rpLast"><a href="http://www.teamsideline.com/Org/Content/EntryForm.aspx?d=2eRW1wwXz8%2fkHVkwDTCC4xt%2fgBKh2VEMpL94qU8duT0%3d" title="Request/Camp Scholarship" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Request/Camp Scholarship</span></span></font></a></li>
+					</ul>
+				</div></li><li class="rpItem"><a href="#" class="rpLink rpExpandable rpExpanded"><span class="rpOut"><span class="rpExpandHandle"></span><span class="rpText">Volcano Soccer Camp</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst rpLast"><a href="http://www.teamsideline.com/Org/Content/EntryForm.aspx?d=2eRW1wwXz8%2fkHVkwDTCC40qsghHJaQALxeYpzgnnb28%3d" title="Volcano Soccer Camp" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Volcano Soccer Camp</span></span></font></a></li>
+					</ul>
+				</div></li><li class="rpItem rpLast"><a href="#" class="rpLink rpExpandable rpExpanded"><span class="rpOut"><span class="rpExpandHandle"></span><span class="rpText">LCYSA TOURNAMENTS</span></span></a><div class="rpSlide" style="display:block;">
+					<ul class="rpGroup rpLevel1 " style="display:block;">
+						<li class="rpItem rpFirst rpLast"><a href="http://www.teamsideline.com/Org/Content/EntryForm.aspx?d=2eRW1wwXz8%2fkHVkwDTCC46Az40cIbdd1oSk0sXfXwp8%3d" title="U8 Tiger Cup Invitational" class="rpLink"><font color="#FFFFFF"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">U8 Tiger Cup Invitational</span></span></font></a></li>
+					</ul>
+				</div></li>
+			</ul><input id="ctl00_LeftNavPanelBar_ClientState" name="ctl00_LeftNavPanelBar_ClientState" type="hidden" />
+		</div>                     
+                    </td>
+		<td id="SpacerColumn1" style="Width:10px;">
+                        &nbsp;
+                    </td>
+		<td id="ContentColumn" valign="top" align="left" style="Width:610px;">                                                            
+
+                        <div id="ContentPanel">
+			
+
+                        <div id="ctl00_OrganizationMenu" class="RadMenu RadMenu_Outlook rmSized" style="z-index:3000">
+				<ul class="rmRootGroup rmHorizontal">
+					<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/Org/Home.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"><span class="rmText">Home</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/CalendarView.aspx?d=XzwPmPTRDZlvthV9rR7KvC2%2bRI2GWuVh"><span class="rmText">Calendar</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/DownloadFiles.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"><span class="rmText">Downloads</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Locations.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"><span class="rmText">Field Locations</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqdWDVRJP4ANg%3d"><span class="rmText">LCYSA Board</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqCKOy0bJP6kA%3d"><span class="rmText">Coach Corner</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqS9olARYbtlQ%3d"><span class="rmText">Referee Resources</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqZzqNoJRrAHs%3d"><span class="rmText">Parent Information</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqCmmlEQML1Hs%3d"><span class="rmText">History of Soccer</span></a></li><li class="rmItem "><a class="rmLink rmRootLink rmSelected" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d"><span class="rmText">Club Contact Information</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel1">
+							<li class="rmItem rmFirst"><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d"><span class="rmText">Centralia Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqNzeDlm%2friMg%3d"><span class="rmText">Chehalis Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqWCNXScCMX9E%3d"><span class="rmText">Morton/ White Pass Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqYPwplbyg2BM%3d"><span class="rmText">Mossyrock Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqYtCo9KY5opk%3d"><span class="rmText">Napavine Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqTulGPkgYLFw%3d"><span class="rmText">Onalaska Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqfy%2fQIGTUkj0%3d"><span class="rmText">Toledo Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqA9h%2f56OGD68%3d"><span class="rmText">Winlock Youth Soccer</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqKSlc3Fn%2fCzk%3d"><span class="rmText">Volcano Youth Select Soccer</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqa4063YwGPHw%3d"><span class="rmText">LCYSA Website Links</span></a></li>
+						</ul>
+					</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqX6vIq0vG4m8%3d"><span class="rmText">Rules of the Game</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel1">
+							<li class="rmItem rmFirst"><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqX6vIq0vG4m8%3d"><span class="rmText">U6</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pq2jG7bGNURLI%3d"><span class="rmText">U8</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pq%2fgTpFxWMCRs%3d"><span class="rmText">U10</span></a></li><li class="rmItem "><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqNahGajMiQeE%3d"><span class="rmText">U12 and Above</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqRpqYEbpng8Y%3d"><span class="rmText">Organizational Chart</span></a></li>
+						</ul>
+					</div></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Org/News.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"><span class="rmText">LCYSA Tournaments</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel1">
+							<li class="rmItem rmFirst"><a class="rmLink" href="/Org/News.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"><span class="rmText">News</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.teamsideline.com/Org/Content/EntryForm.aspx?d=2eRW1wwXz8%2fkHVkwDTCC46Az40cIbdd1oSk0sXfXwp8%3d"><span class="rmText">U8 Tiger Cup Invitational</span></a></li>
+						</ul>
+					</div></li>
+				</ul><input id="ctl00_OrganizationMenu_ClientState" name="ctl00_OrganizationMenu_ClientState" type="hidden" />
+			</div>
+                                                           
+                        <table width="100%" cellspacing="0" cellpadding="0" style="clear:both">
+                            <tr align="left" valign="top">                           
+                                <td id="MainContentUnit" valign="top" class="mainContentUnit" style="background-color:#FFFFFF;Height:600px;">
+                                    <table id="MainContentTable" width="590" cellspacing="0" cellpadding="0">
+				<tr align="left" valign="top">
+					<td align="left" valign="top">                                                                                        
+                                                <div id="MessageDisplay">
+						
+                                                     
+                                                
+					</div>  
+                                                <div id="SocialSharePanel">
+						
+                                                   <div style="float: right; padding-right:5px; padding-top: 2px;">
+                                                        <div id="ctl00_MasterRadSocialShare" class="RadSocialShare RadSocialShare_Outlook">
+							<ul class="sshContent">
+								<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Show more"><span class="sshIcon sshCompactButton "></span></a></li>
+							</ul><div id="ctl00_MasterRadSocialShare_compactPopup" style="display:none;">
+								<div id="ctl00_MasterRadSocialShare_compactPopup_C" style="display:none;">
+									<div id="ctl00_MasterRadSocialShare_compactPopup_C_comboBox" class="RadComboBox RadComboBox_Outlook">
+										<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+											<tr>
+												<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$MasterRadSocialShare_compactPopup$C$comboBox" type="text" class="rcbInput radPreventDecorate rcbEmptyMessage" id="ctl00_MasterRadSocialShare_compactPopup_C_comboBox_Input" value=" " title="Type to filter" /></td><td class="rcbArrowCell rcbArrowCellRight rcbArrowCellHidden"><a id="ctl00_MasterRadSocialShare_compactPopup_C_comboBox_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+											</tr>
+										</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_MasterRadSocialShare_compactPopup_C_comboBox_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Outlook " style="display:none;"><div class="rcbScroll rcbWidth" style="height:0px;width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on GoogleBookmarks"><span class="sshIcon sshGoogleBookmarks "></span><span class="sshText" title="Share on GoogleBookmarks">GoogleBookmarks</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on LinkedIn"><span class="sshIcon sshLinkedIn "></span><span class="sshText" title="Share on LinkedIn">LinkedIn</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Delicious"><span class="sshIcon sshDelicious "></span><span class="sshText" title="Share on Delicious">Delicious</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Blogger"><span class="sshIcon sshBlogger "></span><span class="sshText" title="Share on Blogger">Blogger</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Digg"><span class="sshIcon sshDigg "></span><span class="sshText" title="Share on Digg">Digg</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Reddit"><span class="sshIcon sshReddit "></span><span class="sshText" title="Share on Reddit">Reddit</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on StumbleUpon"><span class="sshIcon sshStumbleUpon "></span><span class="sshText" title="Share on StumbleUpon">StumbleUpon</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on MySpace"><span class="sshIcon sshMySpace "></span><span class="sshText" title="Share on MySpace">MySpace</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Tumblr"><span class="sshIcon sshTumblr "></span><span class="sshText" title="Share on Tumblr">Tumblr</span></a></li><li class="rcbItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tell a friend"><span class="sshIcon sshMailTo "></span><span class="sshText" title="Tell a friend">Tell a friend</span></a></li></ul></div></div></div><input id="ctl00_MasterRadSocialShare_compactPopup_C_comboBox_ClientState" name="ctl00_MasterRadSocialShare_compactPopup_C_comboBox_ClientState" type="hidden" />
+									</div>
+								</div><input id="ctl00_MasterRadSocialShare_compactPopup_ClientState" name="ctl00_MasterRadSocialShare_compactPopup_ClientState" type="hidden" />
+							</div><input id="ctl00_MasterRadSocialShare_ClientState" name="ctl00_MasterRadSocialShare_ClientState" type="hidden" />
+						</div>
+                                                    </div>                                      
+                                                
+					</div>                                                                                                  
+                                                <div id="BreadCrumbPanel">
+						
+                                                    <div style="margin-left: 2px;margin-bottom: 4px;">
+                                                        
+                                                                <ul class="breadcrumbOld">                                            
+                                                            
+                                                                <li>
+                                                                    <a id="BreadCrumbRepeater_HyperLink1_0" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d">Club Contact Information</a>
+                                                                </li>
+                                                            
+                                                                <li> &nbsp;&nbsp;<i class="icon-angle-right"></i>&nbsp;&nbsp;  
+                                                            
+                                                                <li>
+                                                                    <a id="BreadCrumbRepeater_HyperLink1_1" href="/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d">Centralia Youth Soccer</a>
+                                                                </li>
+                                                            
+                                                                </ul>
+                                                            
+                                                    </div>
+                                                
+					</div>
+                                                
+                                                <div id="fullScreenDiv">
+                                                    
+                                                    <div id="contentDiv">
+                                                        
+
+    <div style="width: 584px; overflow: hidden">
+        <p  style="margin-top: 0px; margin-bottom: 0px;" align="center"><br><img style="width: 459px; height: 225px;" src="/Assets/464/Centralia.JPG" width="630" height="288"><br>Keith Neeley president <br><a href="mailto:kneeley@chronline.com" target="_blank">kneeley@chronline.<wbr>com</a> <br><a href="tel:3605086103" target="_blank" value="+13605086103">3605086103</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Shannon Baumel VP </p><a href="mailto:SBaumel@popeskidsplace.org" target="_blank"><p style="margin-top: 0px; margin-bottom: 0px;" align="center">SBaumel@popeskidsplace.org</p></a><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3608073391" target="_blank" value="+13608073391">3608073391</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Katrena Ash treasurer &amp; U12 boys and girls head</p><a href="mailto:Katrena.Ash@bankwithsterling.com" target="_blank"><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Katrena.Ash@bankwithsterling.<wbr>com</p></a><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3607048565" target="_blank" value="+13607048565">3607048565</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">April Kelly u-6 head</p><a href="mailto:mrsaprilkelly@hotmail.com" target="_blank"><p style="margin-top: 0px; margin-bottom: 0px;" align="center">mrsaprilkelly@hotmail.com</p></a><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3605086097" target="_blank" value="+13605086097">3605086097</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Ron Harrison U-8 boys head</p><a href="mailto:ronharrison12@gmail.com" target="_blank"><p style="margin-top: 0px; margin-bottom: 0px;" align="center">ronharrison12@gmail.com</p></a><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3602501104" target="_blank" value="+13602501104">3602501104</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Deb Lopez U-8 girls head</p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="mailto:lopezd1@michaels.com" target="_blank">lopezd1@michaels.com</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3608270777" target="_blank" value="+13608270777">3608270777</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Donna Neeley U10 girls head</p><a href="mailto:soccermom2020bug@gmail.com" target="_blank"><p style="margin-top: 0px; margin-bottom: 0px;" align="center">soccermom2020bug@gmail.com</p></a><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3602694694" target="_blank" value="+13602694694">3602694694</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Sybil Kuhn U10 boys head</p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="mailto:buybuildsellabetterhome@yahoo.com" target="_blank">buybuildsellabetterhome@yahoo.<wbr>com</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3603886651" target="_blank" value="+13603886651">3603886651</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"> </p><p style="margin-top: 0px; margin-bottom: 0px;" align="center">Tami Grubbs upper division head</p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="tel:3603883523" target="_blank" value="+13603883523">3603883523</a></p><p style="margin-top: 0px; margin-bottom: 0px;" align="center"><a href="mailto:grubbs370@msn.com" target="_blank">grubbs370@msn.com</a></p>
+    </div>
+    
+
+                                                    </div>
+                                                    
+                                                    <div id="SocialMediaFooterPanel">
+						                                                                                                                
+                                                        <table cellspacing="0" cellpadding="0"><tr><td style="Height:5px;Width:0px;"></td></tr></table>
+                                                        <div align="center">
+                                                            <table cellpadding="2" cellspacing="2">
+                                                                <tr>
+                                                                    <td>
+                                                                        <a id="FacebookHyperLink2" href="http://www.facebook.com/lcysa" target="_blank"><img id="FacebookImage" src="/img/Icon_Facebook.png" /></a>
+                                                                    </td>
+                                                                    <td valign="middle">
+                                                                        <a id="FacebookHyperLink" href="http://www.facebook.com/lcysa" target="_blank">Become a fan on Facebook</a>
+                                                                    </td>
+                                                                    <td>
+                                                                        
+                                                                    </td>
+                                                                    <td valign="middle">
+                                                                        
+                                                                    </td>
+                                                                </tr>                                                                                                                                                                     
+                                                            </table>                                                            
+                                                        </div>
+                                                    
+					</div>
+                                                </div>
+                                            </td>
+				</tr>
+			</table>
+			                                
+                                </td>
+			
+                            </tr>
+                        </table> 
+                       
+                        
+		</div>
+                       
+                        <div id="FooterLinkDiv" style="text-align:center;margin-top:10px;color:#FFFFFF;">
+                                     <a id="PoweredByHyperLink" class="footerLink" href="http://www.teamsideline.com"><font color="#FFFFFF">Site Powered by TeamSideline.com</font></a>
+                                        &nbsp;|&nbsp;
+                                     <a id="PrivacyPolicyHyperLink" class="footerLink" href="/Org/PrivacyPolicy.aspx?d=2eRW1wwXz8%2bCr8U4VTdd8g%3d%3d"><font color="#FFFFFF">Privacy Policy</font></a>
+                                     &nbsp;|&nbsp;
+                                     <a id="AdminSignInHyperLink" class="footerLink" href="/sites/lcysa/admin/sign_in" target="_top"><font color="#FFFFFF">Admin Sign In</font></a>                            
+                                     
+                                       
+                        </div>
+
+                    </td>
+		<td id="SpacerColumn2" style="Width:10px;">
+                        &nbsp;               
+                    </td>
+		<td id="RightSideBarColumn" valign="top" align="left" style="Width:150px;">
+                        
+                        
+                        
+                        
+                        <img src="http://9c89ec00328c7dd23be1-9ad040f7bac6c67321124f01bb9421c4.r60.cf2.rackcdn.com/c51a.png" width="150" />                        
+                        
+                                        
+                    </td>
+	</tr>
+</table>
+ 
+               
+        </div>         
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Telerik.Web.UI.RadTreeView._preInitialize("ctl00_LeftNavPanelBar_i1_i0_ctl00","0");;(function() {
+                        function loadHandler() {
+                            var hf = $get('PageStyleSheetManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2014.3.1209.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:0e2aaed8-3b29-4dda-bbe2-51b16609be9a:92753c09:45085116:5951aeec:1f65231b:ed2942d4:b7acb766:1c2121e;Telerik.Web.UI.Skins, Version=2014.3.1209.79, Culture=neutral, PublicKeyToken=29ac1a93ec063d92:en-US:6830619e-3465-4697-ba12-f83cf787f683:30cd2a43:f5bdd331:7a826919:2eb5172a:17af17ec:81e57fbe:b388bf1d';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":true,"behaviors":4,"clientStateFieldID":"ctl00_MessageWindow_ClientState","formID":"Org_MasterPage_Form","iconUrl":"","maxHeight":"320px","minimizeIconUrl":"","modal":true,"name":"MessageWindow","skin":"Outlook","visibleStatusbar":false,"width":"500px"}, null, null, $get("ctl00_MessageWindow"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"clientStateFieldID":"ctl00_PageWindowManager_ClientState","formID":"Org_MasterPage_Form","iconUrl":"","minimizeIconUrl":"","modal":true,"name":"PageWindowManager","skin":"Outlook","windowControls":"['ctl00_MessageWindow']"}, null, {"child":"ctl00_MessageWindow"}, $get("ctl00_PageWindowManager"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[{InitControlID : "",UpdatedControls : [{ControlID:"",PanelID:""}]}],"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$PageAjaxManager","updatePanelsRenderMode":0}, null, null, $get("ctl00_PageAjaxManager"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"Outlook","uniqueID":"ctl00$LoadingPanel","zIndex":90000}, null, null, $get("LoadingPanel"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTreeView, {"_skin":"Outlook","_uniqueId":"ctl00$LeftNavPanelBar$i1$i0$ctl00","attributes":{},"clientStateFieldID":"ctl00_LeftNavPanelBar_i1_i0_ctl00_ClientState","collapseAnimation":"{\"duration\":200}","expandAnimation":"{\"duration\":200}","nodeData":[{"expanded":true,"items":[{"value":"rKF8XOKec++Uhz+HwGYMqepjhDWDLtbu","expandMode":3,"toolTip":"Boys"},{"value":"rKF8XOKec++Uhz+HwGYMqY9Y6/OuJkRA","expandMode":3,"toolTip":"Girls"}],"toolTip":"Lewis County U10"},{"expanded":true,"items":[{"value":"rKF8XOKec++Bfl4Azg9Hf9Vw1FHfR8oT","expandMode":3,"toolTip":"U6"},{"value":"rKF8XOKec++Bfl4Azg9HfwnZLbYgcwYm","expandMode":3,"toolTip":"U8"}],"toolTip":"Mossyrock"},{"expanded":true,"items":[{"value":"rKF8XOKec+9XF1TJ5dNJc7ZfUfzTtrhY","expandMode":3,"toolTip":"U6 Let\u0027s Kick It Season Opener"},{"value":"rKF8XOKec+9XF1TJ5dNJc/uHQMYynA2U","expandMode":3,"toolTip":"U8 Let\u0027s Kick It Season Opener"}],"toolTip":"Tournaments"}],"webServiceSettings":"{\"path\":\"/Org/DynamicMenuServices.asmx\",\"method\":\"LoadNavNodes\"}"}, {"nodeDataBound":NavOnClientNodeDataBoundHandler}, null, $get("ctl00_LeftNavPanelBar_i1_i0_ctl00"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadPanelBar, {"_skin":"Outlook","clientStateFieldID":"ctl00_LeftNavPanelBar_ClientState","collapseAnimation":"{\"type\":0,\"duration\":450}","expandAnimation":"{\"type\":0,\"duration\":450}","itemData":[{"items":[{},{}],"preventCollapse":true,"expanded":true},{"items":[{"templated":true}],"preventCollapse":true,"expanded":true},{"items":[{"target":"_blank"}],"preventCollapse":true,"expanded":true},{"items":[{"target":"_blank"},{"target":"_blank"},{},{"target":"_blank"},{"target":"_blank"},{},{},{"target":"_blank"},{"target":"_blank"}],"preventCollapse":true,"expanded":true},{"items":[{}],"preventCollapse":true,"expanded":true},{"items":[{}],"preventCollapse":true,"expanded":true},{"items":[{}],"preventCollapse":true,"expanded":true}]}, null, null, $get("ctl00_LeftNavPanelBar"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_selectedItemIndex":"9","_selectedValue":"/org/content.aspx4631","_skin":"Outlook","attributes":{},"clientStateFieldID":"ctl00_OrganizationMenu_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"value":"/org/home.aspx","navigateUrl":"/Org/Home.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"},{"value":"/org/calendarview.aspx","navigateUrl":"/Org/CalendarView.aspx?d=XzwPmPTRDZlvthV9rR7KvC2%2bRI2GWuVh"},{"value":"/org/downloadfiles.aspx","navigateUrl":"/Org/DownloadFiles.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"},{"value":"/org/locations.aspx","navigateUrl":"/Org/Locations.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"},{"value":"/org/content.aspx4429","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqdWDVRJP4ANg%3d"},{"value":"/org/content.aspx4426","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqCKOy0bJP6kA%3d"},{"value":"/org/content.aspx4427","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqS9olARYbtlQ%3d"},{"value":"/org/content.aspx4025","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqZzqNoJRrAHs%3d"},{"value":"/org/content.aspx4872","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqCmmlEQML1Hs%3d"},{"items":[{"value":"/org/content.aspx4631","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d"},{"value":"/org/content.aspx4632","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqNzeDlm%2friMg%3d"},{"value":"/org/content.aspx4871","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqWCNXScCMX9E%3d"},{"value":"/org/content.aspx4634","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqYPwplbyg2BM%3d"},{"value":"/org/content.aspx4635","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqYtCo9KY5opk%3d"},{"value":"/org/content.aspx4636","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqTulGPkgYLFw%3d"},{"value":"/org/content.aspx4637","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqfy%2fQIGTUkj0%3d"},{"value":"/org/content.aspx4638","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqA9h%2f56OGD68%3d"},{"value":"/org/content.aspx4639","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqKSlc3Fn%2fCzk%3d"},{"value":"/org/content.aspx4819","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqa4063YwGPHw%3d"}],"value":"/org/content.aspx4631","selected":true,"navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqJnC%2f6B7Pyfs%3d"},{"items":[{"value":"/org/content.aspx6494","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqX6vIq0vG4m8%3d"},{"value":"/org/content.aspx6495","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pq2jG7bGNURLI%3d"},{"value":"/org/content.aspx5563","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pq%2fgTpFxWMCRs%3d"},{"value":"/org/content.aspx6496","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqNahGajMiQeE%3d"},{"value":"/org/content.aspx6497","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqRpqYEbpng8Y%3d"}],"value":"/org/content.aspx6494","navigateUrl":"/Org/Content.aspx?d=XzwPmPTRDZl%2fFAd6Eb830%2bNprZ6lc0pqX6vIq0vG4m8%3d"},{"items":[{"value":"/org/news.aspx","navigateUrl":"/Org/News.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"},{"value":"http://www.teamsideline.com/org/content/entryform.aspx?d=2erw1wwxz8%2fkhvkwdtcc46az40cibdd1osk0sxfxwp8%3d","navigateUrl":"http://www.teamsideline.com/Org/Content/EntryForm.aspx?d=2eRW1wwXz8%2fkHVkwDTCC46Az40cIbdd1oSk0sXfXwp8%3d"}],"value":"/org/news.aspx","navigateUrl":"/Org/News.aspx?d=XzwPmPTRDZmeqaXbyO%2fhAw%3d%3d"}]}, null, null, $get("ctl00_OrganizationMenu"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":0,"_enableScreenBoundaryDetection":false,"_height":0,"_skin":"Outlook","_uniqueId":"ctl00$MasterRadSocialShare_compactPopup$C$comboBox","clientStateFieldID":"ctl00_MasterRadSocialShare_compactPopup_C_comboBox_ClientState","closeDropDownOnBlur":false,"collapseAnimation":"{\"duration\":450}","emptyMessage":" ","expandAnimation":"{\"duration\":0}","filter":2,"itemData":[{},{},{},{},{},{},{},{},{},{}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}"}, null, null, $get("ctl00_MasterRadSocialShare_compactPopup_C_comboBox"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":true,"behaviors":44,"clientStateFieldID":"ctl00_MasterRadSocialShare_compactPopup_ClientState","enableShadow":true,"formID":"Org_MasterPage_Form","iconUrl":"","minimizeIconUrl":"","name":"MasterRadSocialShare_compactPopup","shortcuts":"[[\u0027close\u0027,\u0027Esc\u0027]]","skin":"Outlook","title":"Share on","visibleStatusbar":false}, null, null, $get("ctl00_MasterRadSocialShare_compactPopup"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$MasterRadSocialShare","clientStateFieldID":"ctl00_MasterRadSocialShare_ClientState","compactButtons":"[['GoogleBookmarks','','', '470', '470', '', ''],['LinkedIn','','', '470', '470', '', ''],['Delicious','','', '470', '470', '', ''],['Blogger','','', '470', '470', '', ''],['Digg','','', '470', '470', '', ''],['Reddit','','', '470', '470', '', ''],['StumbleUpon','','', '470', '470', '', ''],['MySpace','','', '470', '470', '', ''],['Tumblr','','', '470', '470', '', ''],['MailTo','','', '470', '470', '', '']]","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', ''],['CompactButton','','', '470', '470', '', '']]","titleToShare":"Centralia Youth Soccer | Lewis County Youth Soccer Association","urlToShare":"http://tmsdln.com/14vz"}, null, null, $get("ctl00_MasterRadSocialShare"));
+});
+//]]>
+</script>
+</form>
+          
+    </body>
+
+</html>
+

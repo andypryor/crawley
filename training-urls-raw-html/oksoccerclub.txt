@@ -1,0 +1,913 @@
+
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="pingback" href="http://www.oklahomafc.com/xmlrpc.php" />
+<link rel="shortcut icon" href="" type="image/x-icon" />
+<link rel="icon" href="" type="image/x-icon" />
+<script type="text/javascript">
+</script>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>2014/2015 Coaches - Oklahoma Football Club</title>
+<link rel="canonical" href="http://www.oklahomafc.com/coaches/2014-2015-coaches/" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Oklahoma Football Club &raquo; Feed" href="http://www.oklahomafc.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oklahoma Football Club &raquo; Comments Feed" href="http://www.oklahomafc.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.oklahomafc.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://www.oklahomafc.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.55' type='text/css' media='all' />
+<link rel='stylesheet' id='mtf_css-css'  href='http://www.oklahomafc.com/wp-content/plugins/mini-twitter-feed/minitwitter.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.oklahomafc.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.oklahomafc.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-css'  href='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/fancybox/jquery.fancybox-1.3.4.css?ver=4.1.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.3.3 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-37349011-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/www.oklahomafc.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.oklahomafc.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"0","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/www.oklahomafc.com\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/www.oklahomafc.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.55'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/html5shiv.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/jquery.themeboy-rotator.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/jquery.evenHeights.1.0.0-min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/fancybox/jquery.easing-1.3.pack.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=4.1.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oklahomafc.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oklahomafc.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://www.oklahomafc.com/?p=2474' />
+<style type="text/css">
+body,
+.image-rotator .image_thumb ul li .more a,
+.image-rotator .image_thumb ul li .more a:hover,
+.tb_players .gallery-view li .name a,
+ul.tb_matches-sidebar .kickoff time, ul.tb_matches-sidebar .kickoff .score,
+#wrapper, #menu #searchform input#s,
+ul.tb_matches-sidebar .kickoff a {
+	color: #333333}
+a,
+.highlighted,
+h2.entry-title {
+	color: #dd0000;
+}
+a:hover {
+	color: #b50000;
+}
+#header {
+	background-image: url(http://www.oklahomafc.com/wp-content/uploads/2013/07/cropped-OFC-Header22.jpg);
+}
+#header #maintitle h1,
+#header #maintitle h1 a {
+	color: #blank;
+}
+#header #maintitle h2,
+#header #maintitle h2 a {
+	color: #ebebeb;
+}
+.image-rotator {
+	background-color: #f5f5f5;	
+}
+.image-rotator .image_thumb ul li,
+.image-rotator .image_thumb ul li .more a {
+	color: #333333;
+}
+#wrapper,
+#menu #searchform input#s {
+	background-color: #ffffff;
+}
+#sidebar {
+	background-color: #f0f0f0;
+}
+.widget-container {
+	background-color: #ffffff;
+}
+#menu li:hover a,
+#menu li:hover input,
+#menu #searchform input#searchsubmit:hover,
+.image-rotator .image_thumb ul li.active,
+.image-rotator .image_thumb ul li.active a,
+#content section h3,
+.widget-container h3,
+.contactform .button:hover,
+input[type="submit"]:hover {
+	color: #ffffff;
+}
+#menu {
+	background-color: #333333;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #5b5b5b),
+		color-stop(0.3, #333333)
+	);
+	background-image: -moz-linear-gradient(
+	center top,
+		#5b5b5b 0%,
+		#333333 30%
+	);
+}
+#menu li {
+	border-right-color: #0b0b0b;
+	border-left-color: #5b5b5b;
+}
+#menu li a,
+#menu #searchform input#searchsubmit {
+	color: #dddddd;
+}
+#menu .menu li:hover {
+	background-color: #d30000;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #ff2828),
+		color-stop(0.3, #d30000),
+		color-stop(1, #d30000)
+	);
+	background-image: -moz-linear-gradient(
+	center top,
+		#ff2828 0%,
+		#d30000 30%,
+		#d30000 100%
+	);
+	border-right-color: #8d0000;
+	border-left-color: #dd0000;
+}
+#menu li ul.children,
+#menu li ul.sub-menu {
+	background-color: #d30000;
+}
+#content section h3,
+.widget-container h3,
+.tb_players .gallery-view li .number,
+.navigation .nav-previous a:hover,
+.navigation .nav-next a:hover,
+.commentlist .comment .reply a:hover,
+.contactform .button:hover,
+.link-button a:hover,
+input[type="submit"]:hover {
+	background: #d30000;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #dd0000),
+		color-stop(1, #b50000)
+	);	
+	background-image: -moz-linear-gradient(
+		center top,
+		#dd0000 0%,
+		#b50000 100%
+	);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dd0000', endColorstr='#b50000');
+}
+#respond h3 {
+	color: #dd0000;
+}
+.image-rotator .image_thumb ul li.active {
+	background: #d30000;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #dd0000),
+		color-stop(1, #a10000)
+	);
+	background-image: -moz-linear-gradient(
+		center top,
+		#dd0000 0%,
+		#a10000 100%
+	);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dd0000', endColorstr='#a10000');
+	cursor: default;
+	border-color: #790000;
+}
+.image-rotator .image_thumb ul li.active .more a:hover {
+	color: #ffffff;	
+}
+#footer-widgets {
+	background-color: #333333;
+}
+#footer-widgets #footer-logo {
+	background-image: url(http://oklahomafc.com/wp-content/uploads/2012/12/website-logo.png);
+}
+
+
+#content .navigation .nav-previous a:hover,
+#content .navigation .nav-next a:hover {
+	background: #d30000;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #dd0000),
+		color-stop(1, #b50000)
+	);
+	background-image: -moz-linear-gradient(
+		center top,
+		#dd0000 0%,
+		#b50000 100%
+	);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dd0000', endColorstr='#b50000');
+}
+
+#main table tbody tr,
+ul.tb_matches-sidebar li {
+	border-color: #ffffff;
+}
+a.tb_view_all {
+	color: #838383;
+	text-shadow: 1px 1px 0 #ffffff;
+}
+a.tb_view_all:hover {
+	color: #333333;
+}
+#sponsors {
+	background-color: #f0f0f0;
+}
+
+body.page .image-rotator { margin-left: -28px; margin-top: -28px; }
+
+a.changeRed:hover { /* change to red on mouseover */
+     color: #ff0000;
+}</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://www.oklahomafc.com/wp-content/uploads/2014/04/Background-Small.jpg'); background-repeat: repeat-x; background-position: top center; background-attachment: scroll; }
+</style>
+<script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//www.oklahomafc.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=EC32374E7BB5AD9C7C7C26D9D603252B'); 
+</script></head>
+
+<body class="page page-id-2474 page-child parent-pageid-54 page-template page-template-page-onecolumn page-template-page-onecolumn-php custom-background wpb-js-composer js-comp-ver-4.2 vc_responsive">
+<div id="fb-root"></div>
+<div id="wrapper">
+	<header id="header">
+		<a id="logo" href="http://www.oklahomafc.com"><img src="http://www.oklahomafc.com/wp-content/uploads/2014/09/Logo1.png" alt="Oklahoma Football Club" /></a>
+		<hgroup id="maintitle">
+					</hgroup>
+						<ul id="social">
+			<li class="facebook"><a href="http://www.facebook.com/pages/Oklahoma-Football-Club/131240533691939" title="Facebook" target="_blank">Facebook</a></li>			<li class="twitter"><a href="https://twitter.com/Oklahoma_FC" title="Twitter" target="_blank">Twitter</a></li>																	</ul>
+		<div class="clear"></div>
+	</header>
+	<nav id="menu" class="clearfix">
+		<div class="menu-header"><ul id="menu-home-menu" class="menu"><li id="menu-item-66" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66"><a href="http://oklahomafc.com/">Home</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.oklahomafc.com/about-us/">About</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-70"><a href="http://www.oklahomafc.com/coaches/">Coaches</a>
+<ul class="sub-menu">
+	<li id="menu-item-1304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1304"><a href="http://www.oklahomafc.com/coaches/20132014-coaches/">2013/2014 Coaches</a></li>
+	<li id="menu-item-2478" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2474 current_page_item menu-item-2478"><a href="http://www.oklahomafc.com/coaches/2014-2015-coaches/">2014/2015 Coaches</a></li>
+</ul>
+</li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://www.oklahomafc.com/teams/">Teams</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://www.oklahomafc.com/schedules/">Schedules</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="http://www.oklahomafc.com/fields/">Fields</a>
+<ul class="sub-menu">
+	<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="http://www.oklahomafc.com/fields/edmond-soccer-club/">Edmond Soccer Club</a></li>
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="http://www.oklahomafc.com/fields/north-oklahoma-city-soccer-club/">North Oklahoma City Soccer Club</a></li>
+</ul>
+</li>
+<li id="menu-item-1537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1537"><a href="http://www.oklahomafc.com/category/news/">News</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://www.oklahomafc.com/documents/">Documents</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.oklahomafc.com/links/">Links</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://www.oklahomafc.com/gear/">Gear</a></li>
+</ul></div>		<form role="search" method="get" id="searchform" action="http://www.oklahomafc.com/">
+	<ul>
+		<li class="query"><input type="text" value="" name="s" id="s" /></li>
+		<li><input type="submit" id="searchsubmit" value="Search" /></li>
+	</ul>
+</form>	</nav>
+	<div id="main" class="clearfix">
+		<div id="container" class="one-column">
+			<div class="featured-image">
+							</div>
+      
+	<div id="post-2474" class="post-2474 page type-page status-publish hentry">
+						<h1 class="entry-title">2014/2015 Coaches</h1>
+				<div id="content" role="main">
+			<div class="entry-content">
+					<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="200" />
+<col width="177" />
+<col width="166" />
+<col width="250" /></colgroup>
+<tbody>
+<tr>
+<td style="font-weight: bold;" colspan="4" rowspan="1">
+<h2 style="text-align: center;">2014/2015 OFC Competitive Boys</h2>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Team</span></td>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Coach</span></td>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Phone</span></td>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Email Address</span></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/boys-teams/04-boys-team/">OFC 04 Boys</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/james-soesbee/">James Soesbee</a></td>
+<td>(405) 409-2324</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#d0a3bfb3b3b5a2e9e9e9e9e9e9f5e4e0a3b2b3b7bcbfb2b1bcfebeb5a4" onclick="_gaq.push(['_trackEvent','mailto','soccer999999%40sbcglobal.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="d1a2beb2b2b4a3e8e8e8e8e8e891a2b3b2b6bdbeb3b0bdffbfb4a5">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/boys-teams/04-boys-white-team/">OFC 04 Boys White</a></td>
+<td style="color: #0000ff;"><a href="http://www.oklahomafc.com/coaches/tony-orsi/">Tony Orsi</a></td>
+<td>(405) 401-7808</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#43372c31302a7170033a222b2c2c6d202c2e" onclick="_gaq.push(['_trackEvent','mailto','torsi23@yahoo.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="e4908b96978dd6d7a49d858c8b8bca878b89">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/niall-crick/">Niall Crick</a></td>
+<td>(405) 320-4825</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#e9878a9b808a82ccddd99c9a8886c78c8d9c" onclick="_gaq.push(['_trackEvent','mailto','ncrick%40usao.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="2d434e5f444e466d585e4c4203484958">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td>OFC 04 Boys Black</td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/billy-martin/">Billy Martin</a></td>
+<td>(405) 659-7744</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#ddbfb0bcafa9b4b39dafb2aeb8f3b8b9a8" onclick="_gaq.push(['_trackEvent','mailto','bmartin@rose.edu']);" ><span class="__cf_email__" data-cfemail="fe9c939f8c8a9790be8c918d9bd09b9a8b">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/boys-teams/04-boys-red-team/">OFC 04 Boys Red</a></td>
+<td>I. Emegano</td>
+<td>(405) 919-1002</td>
+<td><a href="/cdn-cgi/l/email-protection#a1c8cac4c4ccc4c6c0cfcee1c6ccc0c8cd8fc2cecc" onclick="_gaq.push(['_trackEvent','mailto','ikeemegano@gmail.com']);" ><span class="__cf_email__" data-cfemail="9ff6f4fafaf2faf8fef1f0dff8f2fef6f3b1fcf0f2">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/boys-teams/04-boys-gold-team/">OFC 04 Boys Gold</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/billy-martin/" target="_blank">Billy Martin</a></td>
+<td>(405) 265-2316</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#8ef9e3effcfae7e0abbabee1e5edfba0ebeafb" onclick="_gaq.push(['_trackEvent','mailto','wmartin%40okcu.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="b6c1dbd7c4c2dfd8f6d9ddd5c398d3d2c3">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td></td>
+<td>James Cottage</td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#e68c878b8395b985899292878183c3d2d68e89928b878f8ac88589c8938d" onclick="_gaq.push(['_trackEvent','mailto','james_cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="5b313a363e280438342f2f3a3c3e1b33342f363a3237753834752e30">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/03-boys-team/">OFC 03 Boys</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/stephen-phillips/">Stephen Phillips</a></td>
+<td>(405) 245-8741</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#b0c5ded9c4d5d4d6d382808081958480d8dfc4ddd1d9dc9ed3dfdd" onclick="_gaq.push(['_trackEvent','mailto','unitedfc2001%40hotmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="c9bca7a0bdacadafaafbf9f9f889a1a6bda4a8a0a5e7aaa6a4">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/03-boys-white-team/">OFC 03 Boys White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/tommy-riley/">Tommy Riley</a></td>
+<td>(405) 408-5516</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#1662647f7a736f3322267e73647f627771737e777a7a3875797b" onclick="_gaq.push(['_trackEvent','mailto','triley%40heritagehall.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="92e6e0fbfef7ebd2faf7e0fbe6f3f5f7faf3fefebcf1fdff">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/03-boys-black-team/">OFC 03 Boys Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/matt-fansher/" target="_blank">Matt Fansher</a></td>
+<td>(405) 409-6288</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#b0ddd1c4c4958480c3dfd3d3d5c2d3d9c4c9dfdbd3d9c4c99ed3dfdd" onclick="_gaq.push(['_trackEvent','mailto','matt%40soccercityokcity.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="94f9f5e0e0d4e7fbf7f7f1e6f7fde0edfbfff7fde0edbaf7fbf9">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/02-boys-team/">OFC 02 Boys</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/james-soesbee/">James Soesbee</a></td>
+<td>(405) 409-2324</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#83f0ece0e0e6f1babababababaa6b7b3f0e1e0e4efece1e2efadede6f7" onclick="_gaq.push(['_trackEvent','mailto','soccer999999%40sbcglobal.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="493a262a2a2c3b707070707070093a2b2a2e25262b282567272c3d">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/02-boys-white-team/">OFC 02 Boys White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/dean-matacchiera/">Dean Mattaccheria</a></td>
+<td>(949) 230-3058</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#662d030316120307050e435256161409020f011f48080312" onclick="_gaq.push(['_trackEvent','mailto','Keepteach%40prodigy.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="6c2709091c18090d0f042c1c1e0308050b1542020918">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/02-boys-black-team/">OFC 02 Boys Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/paul-brash/">Paul Brash</a></td>
+<td>(405) 246-6052</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#abc9d9cad8c3d8c4c8c8ced998998e9f9bd2cac3c4c485c8c4c6" onclick="_gaq.push(['_trackEvent','mailto','brashsoccer32%40yahoo.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="a0c2d2c1d3c8d3cfc3c3c5d29392e0d9c1c8cfcf8ec3cfcd">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/01-boys-team/">OFC 01 Boys</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/amel-muhamedagic/">Amel Muhamedagic</a></td>
+<td>(319) 504-3488</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#b8d9d5ddd4d58f9d8c88c1d9d0d7d796dbd7d5" onclick="_gaq.push(['_trackEvent','mailto','amelm7%40yahoo.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="ed8c80888180daad948c858282c38e8280">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/01-boys-white-team/">OFC 01 Boys White</a></td>
+<td style="color: #0000ff;"><span style="color: #000000;">Mark Howard</span></td>
+<td>(913) 237-0202</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#397451564e584b5d010f7951564d54585055175a56174c52" onclick="_gaq.push(['_trackEvent','mailto','Mhoward86@hotmail.co.uk']);" ><span class="__cf_email__" data-cfemail="d79abfb8a0b6a5b3efe197bfb8a3bab6bebbf9b4b8f9a2bc">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/01-boys-black-team/">OFC 01 Boys Black</a></td>
+<td>James Cottage</td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#305a515d55436f535f4444515755150400585f445d51595c1e535f1e455b" onclick="_gaq.push(['_trackEvent','mailto','james_cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="096368646c7a566a667d7d686e6c4961667d64686065276a66277c62">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/00-boys/">OFC 00 Boys</a></td>
+<td style="color: #0000ff;"><a href="http://www.oklahomafc.com/coaches/tony-orsi/">Tony Orsi</a></td>
+<td>(405) 401-7808</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#a8dcc7dadbc19a9be8d1c9c0c7c786cbc7c5" onclick="_gaq.push(['_trackEvent','mailto','torsi23@yahoo.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="73071c01001a4140330a121b1c1c5d101c1e">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/00-boys-white-team/">OFC 00 Boys White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/amel-muhamedagic/">Amel Muhamedagic</a></td>
+<td>(319) 504-3488</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#ed8c80888180dac8d9dd948c858282c38e8280" onclick="_gaq.push(['_trackEvent','mailto','amelm7%40yahoo.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="91f0fcf4fdfca6d1e8f0f9fefebff2fefc">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/00-boys-black-team/">OFC 00 Boys Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/chris-lee/" target="_blank">Chris Lee</a></td>
+<td>(405) 320-3431</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#a0e3c8d2c9d3ccc5c5859490d5d3c1cf8ec5c4d5" onclick="_gaq.push(['_trackEvent','mailto','Chrislee%40usao.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="ca89a2b8a3b9a6afaf8abfb9aba5e4afaebf">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/99-boys-team/">OFC 99 Boys</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/stephen-phillips/">Stephen Phillips</a></td>
+<td>(405) 245-8741</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#8ffae1e6fbeaebe9ecbdbfbfbeaabbbfe7e0fbe2eee6e3a1ece0e2" onclick="_gaq.push(['_trackEvent','mailto','unitedfc2001%40hotmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="41342f2835242527227371717001292e352c20282d6f222e2c">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/jesse-faily/">Jesse Faily</a></td>
+<td>(405) 388-3833</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#6a000c0b0306134f5e5a09051203040f1e44040f1e" onclick="_gaq.push(['_trackEvent','mailto','jfaily%40coxinet.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="1e74787f7772675e7d716677707b6a30707b6a">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/99-boys-white-team/">OFC 99 Boys White</a></td>
+<td style="color: #0000ff;"><a href="http://www.oklahomafc.com/coaches/tony-orsi/">Tony Orsi</a></td>
+<td>(405) 401-7808</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#f7839885849ec5c4b78e969f9898d994989a" onclick="_gaq.push(['_trackEvent','mailto','torsi23@yahoo.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="50243f2223396263102931383f3f7e333f3d">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/99-boys-black-team/">OFC 99 Boys Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/jake-cottage/">Jake Cottage</a></td>
+<td>(405) 838-5938</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#791318121c571a160d0d181e1c5c4d4911160d14181015571a16570c12" onclick="_gaq.push(['_trackEvent','mailto','jake.cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="a7cdc6ccc289c4c8d3d3c6c0c2e7cfc8d3cac6cecb89c4c889d2cc">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a href="http://www.oklahomafc.com/teams/boys-teams/99-boys-red-team/">OFC 99 Boys Red</a></td>
+<td style="color: #0000ff;"><span style="color: #000000;">James Cottage</span></td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#197378747c6a467a766d6d787e7c3c2d2971766d74787075377a76376c72" onclick="_gaq.push(['_trackEvent','mailto','james_cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="8fe5eee2eafcd0ece0fbfbeee8eacfe7e0fbe2eee6e3a1ece0a1fae4">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/98-boys-team/">OFC 98 Boys</a></td>
+<td>Brian Harvey</td>
+<td>(405) 208-5165</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#395b51584b4f5c407956525a4c175c5d4c" onclick="_gaq.push(['_trackEvent','mailto','bharvey@okcu.edu']);" ><span class="__cf_email__" data-cfemail="caa8a2abb8bcafb38aa5a1a9bfe4afaebf">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/97-boys-team/">OFC 97 Boys</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/jesse-faily/">Jesse Faily</a></td>
+<td>(405) 388-3833</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#234945424a4f5a061713404c5b4a4d46570d4d4657" onclick="_gaq.push(['_trackEvent','mailto','jfaily%40coxinet.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="bdd7dbdcd4d1c4fdded2c5d4d3d8c993d3d8c9">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/boys-teams/97-boys-white-team/">OFC 97 Boys White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/daniel-gibson/">Danny Gibson</a></td>
+<td>(405) 875-2820</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#1377747a71607c7d2224232b53747e727a7f3d707c7e" onclick="_gaq.push(['_trackEvent','mailto','dgibson1708@gmail.com']);" ><span class="__cf_email__" data-cfemail="89edeee0ebfae6e7b8beb9b1c9eee4e8e0e5a7eae6e4">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/teams/boys-teams/97-boys-black-team/">OFC 97 Boys Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/daniel-gibson/">Danny Gibson</a></td>
+<td>(405) 875-2820</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#294d4e404b5a4647181e1911694e44484045074a4644" onclick="_gaq.push(['_trackEvent','mailto','dgibson1708@gmail.com']);" ><span class="__cf_email__" data-cfemail="bedad9d7dccdd1d08f898e86fed9d3dfd7d290ddd1d3">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="font-weight: bold;" colspan="4" rowspan="1">
+<h2 style="text-align: center;">2014/2015 OFC Competitive Girls</h2>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Team</span></td>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Coach</span></td>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Phone</span></td>
+<td style="font-weight: bold;"><span style="text-decoration: underline;">Email Address</span></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/girls-teams/04-girls-team/">OFC 04 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/stephen-phillips/">Stephen Phillips</a></td>
+<td>(405) 245-8741</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#2a5f44435e4f4e4c49181a1a1b0f1e1a42455e474b434604494547" onclick="_gaq.push(['_trackEvent','mailto','unitedfc2001%40hotmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="e1948f889584858782d3d1d1d0a1898e958c80888dcf828e8c">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/dean-matacchiera/">Dean Mattaccheria</a></td>
+<td>(949) 230-3058</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#abe0cecedbdfcecac8c38e9f9bdbd9c4cfc2ccd285c5cedf" onclick="_gaq.push(['_trackEvent','mailto','Keepteach%40prodigy.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="6328060613170602000b2313110c070a041a4d0d0617">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td>OFC 04 Girls White</td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/tommy-hubbard/">Tommy Hubbard</a></td>
+<td>(405) 816-1174</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#b9cdd1ccdbdbd8cbdd809c8d89ded4d8d0d597dad6d4" onclick="_gaq.push(['_trackEvent','mailto','thubbard9%40gmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="dbafb3aeb9b9baa9bfe29bbcb6bab2b7f5b8b4b6">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/girls-teams/04-girls-black-team/">OFC 04 Girls Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/dria-hampton/">Dria Hampton</a></td>
+<td>(405) 315-1082</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#6c081e050d040d011c18030249585c15010d0500420f0301" onclick="_gaq.push(['_trackEvent','mailto','driahampton%40ymail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="610513080009000c11150e0f21180c00080d4f020e0c">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td>OFC 04 Girls Red</td>
+<td><a href="http://www.oklahomafc.com/coaches/alli-fansher/">Alli Fansher</a></td>
+<td>(405) 625-5800</td>
+<td><a href="/cdn-cgi/l/email-protection#4e232f3a3a2f222227282f203d262b3c0e29232f2722602d2123" onclick="_gaq.push(['_trackEvent','mailto','mattallifansher@gmail.com']);" ><span class="__cf_email__" data-cfemail="5934382d2d383535303f38372a313c2b193e34383035773a3634">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td><a href="http://www.oklahomafc.com/teams/girls-teams/04-girls-gold-team/">OFC 04 Girls Gold</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/tommy-hubbard/">Tommy Hubbard</a></td>
+<td>(405) 816-1174</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#f3879b869191928197cad6c7c3949e929a9fdd909c9e" onclick="_gaq.push(['_trackEvent','mailto','thubbard9%40gmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="ee9a869b8c8c8f9c8ad7ae89838f8782c08d8183">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/03-girls-team/">OFC 03 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/gary-boreham/">Gary Boreham</a></td>
+<td>(405) 701-5553</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#23414c51464b424e504c40404651061713404c5b0d4d4657" onclick="_gaq.push(['_trackEvent','mailto','borehamsoccer%40cox.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="82e0edf0e7eae3eff1ede1e1e7f0c2e1edfaacece7f6">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/alexis-vizarelis/">Alexis Vizarelis</a></td>
+<td>(405) 216-5004</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#2f4e5946554e5d4a43465c0a1b1f5a5c4e40014a4b5a" onclick="_gaq.push(['_trackEvent','mailto','avizarelis%40usao.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="8decfbe4f7ecffe8e1e4fecdf8feece2a3e8e9f8">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/03-girls-white-team/">OFC 03 Girls White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/jordan-jordanov/">Jordan Jordanov</a></td>
+<td>(405) 843-8121</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#a0cacfd2c4c1ce8ecacfd2c4c1cecfd6859490c1c68dc7d2cfd5d08ec3cfcd" onclick="_gaq.push(['_trackEvent','mailto','jordan.jordanov%40af-group.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="264c4954424748084c495442474849506647400b41544953560845494b">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/03-girls-black-team/">OFC 03 Girls Black</a></td>
+<td style="color: #0000ff;"><span style="color: #000000;">Gareth Evans</span></td>
+<td>(910) 431-7494</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#deb9bfacbbaab6bba8bfb0adecea9eb9b3bfb7b2f0bdb1b3" onclick="_gaq.push(['_trackEvent','mailto','garethevans24@gmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="197e786b7c6d717c6f78776a2b2d597e74787075377a7674">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/03-girls-red-team/">OFC 03 Girls Red</a></td>
+<td>James Cottage</td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#cea4afa3abbd91ada1babaafa9abebfafea6a1baa3afa7a2e0ada1e0bba5" onclick="_gaq.push(['_trackEvent','mailto','james_cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="f79d969a9284a894988383969092b79f98839a969e9bd99498d9829c">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/03-girls-gold-team/">OFC 03 Girls Gold</a></td>
+<td>James Cottage</td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#a8c2c9c5cddbf7cbc7dcdcc9cfcd8d9c98c0c7dcc5c9c1c486cbc786ddc3" onclick="_gaq.push(['_trackEvent','mailto','james_cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="076d666a62745864687373666062476f68736a666e6b29646829726c">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/02-girls-team/">OFC 02 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/matt-fansher/">Matt Fansher</a></td>
+<td>(405) 409-6288</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#c1aca0b5b5e4f5f1b2aea2a2a4b3a2a8b5b8aeaaa2a8b5b8efa2aeac" onclick="_gaq.push(['_trackEvent','mailto','matt%40soccercityokcity.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="cca1adb8b88cbfa3afafa9beafa5b8b5a3a7afa5b8b5e2afa3a1">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/02-girls-white-team/">OFC 02 Girls White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/tommy-riley/">Tommy Riley</a></td>
+<td>(405) 408-5516</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#c4b0b6ada8a1bde1f0f4aca1b6adb0a5a3a1aca5a8a8eaa7aba9" onclick="_gaq.push(['_trackEvent','mailto','triley%40heritagehall.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="d4a0a6bdb8b1ad94bcb1a6bda0b5b3b1bcb5b8b8fab7bbb9">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/02-girls-black-team/">OFC 02 Girls Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/gary-boreham/">Gary Boreham</a></td>
+<td>(405) 701-5553</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#55373a27303d3438263a36363027706165363a2d7b3b3021" onclick="_gaq.push(['_trackEvent','mailto','borehamsoccer%40cox.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="ee8c819c8b868f839d818d8d8b9cae8d8196c0808b9a">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/02-girls-red-team/">OFC 02 Girls Red</a></td>
+<td>Keith Cole</td>
+<td>(405) 323-1500</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#93f0fcfff6f8f6fae7fba4a1d3f4fef2faffbdf0fcfe" onclick="_gaq.push(['_trackEvent','mailto','colekeith72@gmail.com']);" ><span class="__cf_email__" data-cfemail="7f1c10131a141a160b17484d3f18121e1613511c1012">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/02-girls-gold-team/">OFC 02 Girls Gold</a></td>
+<td><a href="http://www.oklahomafc.com/coaches/alli-fansher/">Alli Fansher</a></td>
+<td>(405) 625-5800</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#cfa2aebbbbaea3a3a6a9aea1bca7aabd8fa8a2aea6a3e1aca0a2" onclick="_gaq.push(['_trackEvent','mailto','mattallifansher@gmail.com']);" ><span class="__cf_email__" data-cfemail="3e535f4a4a5f525257585f504d565b4c7e59535f5752105d5153">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a href="http://www.oklahomafc.com/teams/girls-teams/02-girls-green-team/">OFC 02 Girls Green</a></td>
+<td>Keith Cole</td>
+<td>(405) 323-1500</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#e2818d8e8789878b968ad5d0a2858f838b8ecc818d8f" onclick="_gaq.push(['_trackEvent','mailto','colekeith72@gmail.com']);" ><span class="__cf_email__" data-cfemail="88ebe7e4ede3ede1fce0bfbac8efe5e9e1e4a6ebe7e5">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"></td>
+<td><span style="color: #000000;">Caitlin Mooney</span></td>
+<td>(405) 255-4397</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#1a797b736e76737434777575747f632e5a637b72757534797577" onclick="_gaq.push(['_trackEvent','mailto','caitlin.mooney4@yahoo.com']);" ><span class="__cf_email__" data-cfemail="4e2d2f273a22272060232121202b377a0e372f262121602d2123">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/01-girls-team/">OFC 01 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/stephen-phillips/">Stephen Phillips</a></td>
+<td>(405) 245-8741</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#ea9f84839e8f8e8c89d8dadadbcfdeda82859e878b8386c4898587" onclick="_gaq.push(['_trackEvent','mailto','unitedfc2001%40hotmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="681d06011c0d0c0e0b5a5858592800071c05090104460b0705">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/01-girls-white-team/">OFC 01 Girls White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/tommy-hubbard/">Tommy Hubbard</a></td>
+<td>(405) 816-1174</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#a7d3cfd2c5c5c6d5c39e829397c0cac6cecb89c4c8ca" onclick="_gaq.push(['_trackEvent','mailto','thubbard9%40gmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="dda9b5a8bfbfbcafb9e49dbab0bcb4b1f3beb2b0">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/01-girls-black-team/">OFC 01 Girls Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/gary-boreham/">Gary Boreham</a></td>
+<td>(405) 701-5553</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#57353825323f363a24383434322572636734382f79393223" onclick="_gaq.push(['_trackEvent','mailto','borehamsoccer%40cox.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="cba9a4b9aea3aaa6b8a4a8a8aeb98ba8a4b3e5a5aebf">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/01-girls-red-team/">OFC 01 Girls Red</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/daniel-gibson/">Danny Gibson</a></td>
+<td>(405) 875-2820</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#5f3b38363d2c30316e687a6b6f38323e3633713c3032" onclick="_gaq.push(['_trackEvent','mailto','dgibson17%40gmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="86e2e1efe4f5e9e8b7b1c6e1ebe7efeaa8e5e9eb">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/01-girls-gold-team/">OFC 01 Girls Gold</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/gary-boreham/">Gary Boreham</a></td>
+<td>(405) 701-5553</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#583a372a3d3039352b373b3b3d2a7d6c683b372076363d2c" onclick="_gaq.push(['_trackEvent','mailto','borehamsoccer%40cox.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="adcfc2dfc8c5ccc0dec2cecec8dfedcec2d583c3c8d9">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/jake-cottage/">Jake Cottage</a></td>
+<td>(405) 371-8599</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#365c575d5318555942425751531302065e59425b575f5a18555918435d" onclick="_gaq.push(['_trackEvent','mailto','jake.cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="197378727c377a766d6d787e7c5971766d74787075377a76376c72">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/00-girls-team/">OFC 00 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/jimmy-hampton/">Jimmy Hampton</a></td>
+<td>(405) 409-2275</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#7b4a480318131a160b5e4f4b0819181c1714191a1755151e0f" onclick="_gaq.push(['_trackEvent','mailto','13xchamp%40sbcglobal.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="2e1f1d564d464f435e6e5d4c4d4942414c4f4200404b5a">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/00-girls-white-team/">OFC 00 Girls White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/dria-hampton/">Dria Hampton</a></td>
+<td>(405) 315-1082</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#c2a6b0abaaa3afb2b6adacfa82a5afa3abaeeca1adaf" onclick="_gaq.push(['_trackEvent','mailto','drihampton8@gmail.com']);" ><span class="__cf_email__" data-cfemail="82e6f0ebeae3eff2f6edecbac2e5efe3ebeeace1edef">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/00-girls-black-team/">OFC 00 Girls Black</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/jake-cottage/">Jake Cottage</a></td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#ef858e848ac18c809b9b8e888acadbdf87809b828e8683c18c80c19a84" onclick="_gaq.push(['_trackEvent','mailto','jake.cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="8ee4efe5eba0ede1fafaefe9ebcee6e1fae3efe7e2a0ede1a0fbe5">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/00-girls-red-team/">OFC 00 Girls Red</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/jordan-jordanov/">Jordan Jordanov</a></td>
+<td>(405) 843-8121</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#472d2835232629692d2835232629283162737726216a20352832376924282a" onclick="_gaq.push(['_trackEvent','mailto','jordan.jordanov%40af-group.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="c4aeabb6a0a5aaeaaeabb6a0a5aaabb284a5a2e9a3b6abb1b4eaa7aba9">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/99-girls-team/">OFC 99 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/jimmy-hampton/">Jimmy Hampton</a></td>
+<td>(405) 409-2275</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#e3d2d09b808b828e93c6d7d3908180848f8c81828fcd8d8697" onclick="_gaq.push(['_trackEvent','mailto','13xchamp%40sbcglobal.net']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="3504064d565d5458457546575652595a5754591b5b5041">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/99-girls-white-team/">OFC 99 Girls White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/niall-crick/">Niall Crick</a></td>
+<td>(405) 320-4825</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#573934253e343c7263672224363879323322" onclick="_gaq.push(['_trackEvent','mailto','ncrick%40usao.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="630d00110a0008231610020c4d060716">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/99-girls-black-team/">OFC 99 Girls Black</a></td>
+<td>F. Gibson</td>
+<td></td>
+<td style="color: #0000ff;"></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/98-girls-team/">OFC 98 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/alexis-vizarelis/">Alexis Vizarelis</a></td>
+<td>(405) 216-5004</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#0465726d7e657661686d772130347177656b2a616071" onclick="_gaq.push(['_trackEvent','mailto','avizarelis%40usao.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="95f4e3fceff4e7f0f9fce6d5e0e6f4fabbf0f1e0">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/98-girls-white-team/">OFC 98 Girls White</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/coaches/daniel-gibson/">Danny Gibson</a></td>
+<td>(405) 875-2820</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#4521222c27362a2b74726071752228242c296b262a28" onclick="_gaq.push(['_trackEvent','mailto','dgibson17%40gmail.com']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="8de9eae4effee2e3bcbacdeae0ece4e1a3eee2e0">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/97-girls-team/" target="_blank">OFC 97 Girls</a></td>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://www.oklahomafc.com/coaches/alexis-vizarelis/">Alexis Vizarelis</a></td>
+<td>(405) 216-5004</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#afced9c6d5ceddcac3c6dc8a9b9fdadccec081cacbda" onclick="_gaq.push(['_trackEvent','mailto','avizarelis%40usao.edu']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="94f5e2fdeef5e6f1f8fde7d4e1e7f5fbbaf1f0e1">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+<tr>
+<td style="color: #0000ff;"><a class="in-cell-link" href="http://oklahomafc.com/teams/girls-teams/97-girls-white-team/">OFC 97 Girls White</a></td>
+<td>James Cottage</td>
+<td>(405) 838-3097</td>
+<td style="color: #0000ff;"><a href="/cdn-cgi/l/email-protection#771d161a120428141803031610125243471f18031a161e1b59141859021c" onclick="_gaq.push(['_trackEvent','mailto','james_cottage%40hotmail.co.uk']);" class="in-cell-link"  target="_blank"><span class="__cf_email__" data-cfemail="187279757d6b477b776c6c797f7d5870776c75797174367b77366d73">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+</tbody>
+</table>
+								</div><!-- .entry-content -->
+					<div class="fb-like" data-href="http://www.oklahomafc.com/coaches/2014-2015-coaches/" data-send="true" data-layout="button_count" data-show-faces="false"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-via="Oklahoma_FC" data-lang="en-us" data-related="themeboy" data-hashtags="">Tweet</a>
+			</div><!-- #post-## -->
+	</div>
+		</div><!-- #container -->
+
+	<div id="sponsors"><ul class="sponsors"></ul></div>
+	</div><!-- #main -->
+	<div id="footer-widgets" role="contentinfo" class="clearfix">
+		<div id="colophon">
+			<div id="footer-widget-area" role="complementary">
+	<div id="footer-logo" class="widget-area"></div>
+					
+					<div id="second" class="widget-area">
+				<ul class="xoxo">
+					<li id="nav_menu-2" class="widget-container widget_nav_menu"><h3 class="widget-title">Learn More</h3><div class="menu-learn-more-container"><ul id="menu-learn-more" class="menu"><li id="menu-item-1436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1436"><a href="http://www.oklahomafc.com/about-us/">About OFC</a></li>
+<li id="menu-item-1438" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-1438"><a href="http://www.oklahomafc.com/coaches/">Coaches</a></li>
+<li id="menu-item-2413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2413"><a href="http://www.oklahomafc.com/tryouts/">Tryouts</a></li>
+<li id="menu-item-1435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1435"><a href="http://www.oklahomafc.com/fields/">Fields</a></li>
+</ul></div></li>				</ul>
+			</div><!-- #second .widget-area -->
+			</div><!-- #footer-widget-area -->
+		</div><!-- #colophon -->
+	</div><!-- #footer-widgets -->
+	
+</div><!-- #wrapper -->
+<footer class="clearfix">
+	<div style="color: #ffffff;" class="left">&copy; 2015 Oklahoma Football Club</div>
+	<div style="color: #ffffff;" class="right">Designed & Maintained by <a href="http://moderninfluence.com/" target="_blank"><font color="00ACED">Modern Influence</FONT></a></div>
+</footer>
+	
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<link rel='stylesheet' id='adminbar-stylesheet-css'  href='http://www.oklahomafc.com/wp-content/themes/footballclub-2.1/css/adminbar.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-includes/js/comment-reply.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.oklahomafc.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.oklahomafc.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1'></script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+(function($) {
+	// fancybox all image links
+	$('a').each(function() {
+		var self = this;
+		var file =  $(self).attr('href');
+		if (file) {
+			var extension = file.substr( (file.lastIndexOf('.') +1) );
+			switch(extension) {
+				case 'jpg':
+				case 'png':
+				case 'gif':
+					$(self).fancybox({
+						'overlayColor' : '#fff'
+					});
+			}
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 1949/2089 objects using disk
+
+ Served from: www.oklahomafc.com @ 2015-03-25 15:09:45 by W3 Total Cache -->

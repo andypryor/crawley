@@ -1,0 +1,1273 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]>    <html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]>    <html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="lt-ie9"><![endif]-->
+<!--[if IE 9]>    <html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="ie9"><![endif]-->
+<!--[if gt IE 9]><!--> <html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<![endif]-->
+<head id="head"><title>
+	Staff List - Sockers FC Staff | Sockers FC
+</title><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="X-Frame-Options" content="deny" />
+    <script type="text/javascript">
+       /* <![CDATA[ */
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38875728-1']);
+        _gaq.push(['_trackPageview']);
+
+        
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+     /* ]]> */
+    </script>
+
+
+
+<link rel="stylesheet" type="text/css" href="/cms/includes/style.css?g=AJhm2P5epv6s%2bmApxXTi90D3jtp4kV%2bNDTD5nnfdWE5pg%2f9FdBVH91N1E1xkdE3s" />
+<link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/FAQs.css?g=ppKOuymg4LtF02A7sxvg0dU%2bPMJSwWQL8veFgdPCenu9XOELLw%2fmHOyrtnBt1vvi" />
+<link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/newsletter.css?g=bowHvfOTYCWOPIigtOVVhYr0Ea6izrfAg3RI%2fM1cLbwhN7fCWC7X5QYNVA5eCVMg" />
+<link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/news.css?g=rEFJTGP7jvlSbdQAXPAvOWLjXKUxmlKcu5J2C315inAbUB5YP%2bfZ1XZRUZ%2fOIgzY" />
+<link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/photogallery.css?g=KTxX5SnZjn2K889dYQYmbJsZ0Ewcc5hLzO7NXPqN6YWvRVcIcHIP2zpMFLfmTNt8" />
+<link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/slideshow.css?g=eFDlaog%2buu6Esrz8aruDLvINys8ynPLui%2bbnqbn2cUzkMzBkuaNSyb%2f%2bTYnjLba0" />
+<link rel="stylesheet" type="text/css" href="/cms/includes/jquery-ui.css?g=%2f51O9ShNaLqVdYV6ep8Xro1I2PsvjRSXcanMmxoZEr6FvgFl86PMCsRQyJlJP2hg" />
+<script type="text/javascript" src="/cms/includes/jquery-core.js?Guid=OPdtQeChVURS%2f0iaUutLx4wvCADvIPP7PixxjdtCkYtjoSsuMpXjergvowYgOiT6"></script>
+<script type="text/javascript" src="/cms/includes/jquery-plugins.js?Guid=5pjJKD6pd%2fZ0Dh7WrOM7Oi16Ku3waIkyQJZng4HXlfPRO9Evch1oLG0%2fqj5RmqtS"></script>
+<script type="text/javascript" src="/cms/includes/jquery-functions.js?Guid=Zb9SRK%2fKv%2byNHZwtWzMmsQTNAhsmGiRESTIYTWiSAFybin33kO56bu0uZ%2bVdHjqr"></script>
+<script type="text/javascript" src="/cms/includes/FunctionsC.js?Guid=knjeEIsw1PybczPUos2kfLcFdfg%2bYoknmi2N%2bcJmMpvSLHZnFFLq%2f5rK%2botJwjeV"></script>
+<script type="text/javascript" src="/cms/includes/moc.js?Guid=7CHMS0JZYvC6SC5V9h8mmjPbmNnUKCKJbXABHEaydi4jSUH6TXOx%2fgSxX6BhGjOR"></script>
+</head>
+
+<body class="mainbody">
+
+	<form name="main" method="post" action="/club/staff-list/" id="main">
+<div>
+
+</div>
+
+
+<script src="/ScriptResource.axd?d=RvMnTq-mtCE0NFMdISYFyz52Z12I6rw-wyk-FutOBNXAzEISYPl6Gmk9Dot7J_aNaWqRGdF1oGkLimQWjBVlPymOstQ9OdOOqTtT6iQq8LEssFQZ3jlq2X-GjCQRbKwEwWLBKnSQUWsmNKJWYB9KQEm4YqoX28a6yPKbHL_dMLk1&amp;t=1c6ae475" type="text/javascript"></script><input type="hidden" name="hdnSubDirectory" id="hdnSubDirectory" />
+	
+
+	<div class="bdywrpr">
+		
+
+
+<div class="hdrwrpr">
+
+	<div class="hdrNav">
+		<a href="/">Home</a> | <a href="/faq/">FAQ's</a> | <a href="/contact/">Contact Us</a>
+	</div>
+	<div class="clear">&nbsp;</div>
+	<div class="nike">
+		<a href="http://www.nike.com/us/en_us/lp/football" target="_blank"><img src="/cms/images/layout/nike_logo.png" alt="a Nike Club"/></a>
+	</div>
+	
+	
+
+<div class="mainNav">
+	<ul class="sf-menu clearfix">
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl00_liItem" class="firstnavitemli on">
+			 <a href="/club/" id="CT_Header_ccTopNav_rptNav_ctl00_lnkLink1" class="firstnavitema">Club</a>
+			 
+			 
+    <div class="SubWrpr">
+        <ul>
+    
+    <li>
+        <a href="/club/tradition/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl01_lnk" style="">Tradition</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/club/tradition/history/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl01_lnkInner" style="">History</a>
+            </li>
+            
+            <li>
+                <a href="/club/accomplishments/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl02_lnkInner" style="">Accomplishments</a>
+            </li>
+            
+            <li>
+                <a href="/club/alumni/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl03_lnkInner" style="">Alumni</a>
+            </li>
+            
+            <li>
+                <a href="/club/tradition/who-we-are-today/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl04_lnkInner" style="">Who we are today!</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/club/identity/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_lnk" style="">Identity</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/club/mission-statement/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl01_lnkInner" style="">Mission Statement</a>
+            </li>
+            
+            <li>
+                <a href="/club/values/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl02_lnkInner" style="">Values</a>
+            </li>
+            
+            <li>
+                <a href="/club/more-than-a-club/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl03_lnkInner" style="">More than a club</a>
+            </li>
+            
+            <li>
+                <a href="/club/the-club-badge/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl04_lnkInner" style="">The Club Badge</a>
+            </li>
+            
+            <li>
+                <a href="/club/club-in-figures/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl05_lnkInner" style="">Club in Figures</a>
+            </li>
+            
+            <li>
+                <a href="/club/club-by-location/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl06_lnkInner" style="">Club by Location</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/club/in-the-community/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl03_lnk" style="">In The Community </a>
+        
+            <ul>
+            
+            <li>
+                <a href="/club/sockers-youth-foundation/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl01_lnkInner" style="">Youth Foundation</a>
+            </li>
+            
+            <li>
+                <a href="/club/partners-and-sponsors/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl02_lnkInner" style="">Partners & Sponsors </a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/club/coaching-staff/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl04_lnk" style="">Sockers FC Staff</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/club/sockers-fc-office/" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_rptSubNav_ctl04_rptSubSubNav_ctl01_lnkInner" style="">Sockers FC Office</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    </ul>
+    
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl00$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl00_ccSubNav_hdn" value="1" />
+		</li>
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl01_liItem">
+			 <a href="/program/" id="CT_Header_ccTopNav_rptNav_ctl01_lnkLink1">Program</a>
+			 
+			 
+    <div class="SubWrpr">
+        <ul>
+    
+    <li>
+        <a href="/program/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_lnk" style="">Program Overview</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/program/the-blueprint/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl01_lnkInner" style="">The Blueprint</a>
+            </li>
+            
+            <li>
+                <a href="/program/sockers-fc-juniors-program/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl02_lnkInner" style="">Sockers FC Juniors</a>
+            </li>
+            
+            <li>
+                <a href="/program/u7-9-program/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl03_lnkInner" style="">U7-9 Program</a>
+            </li>
+            
+            <li>
+                <a href="/program/u10-11-program/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl04_lnkInner" style="">U10-11 Program</a>
+            </li>
+            
+            <li>
+                <a href="/program/u12-14-program/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl05_lnkInner" style="">U12-14 Program</a>
+            </li>
+            
+            <li>
+                <a href="/program/u15-18-program/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl06_lnkInner" style="">U15-18 Program</a>
+            </li>
+            
+            <li>
+                <a href="/program/goalkeeping/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl07_lnkInner" style="">Goalkeeping</a>
+            </li>
+            
+            <li>
+                <a href="/program/sparq-and-sports-performance/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl08_lnkInner" style="">Sparq & Sport Performance</a>
+            </li>
+            
+            <li>
+                <a href="/program/locations/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl09_lnkInner" style="">Training Locations</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/program/competition-platforms/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl02_lnk" style="">Competition Platforms</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/program/elite-clubs-national-league/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl01_lnkInner" style="">Elite Clubs National League</br></a>
+            </li>
+            
+            <li>
+                <a href="/program/midwest-developmental-leagues/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl02_lnkInner" style="">Midwest Developmental League</br></a>
+            </li>
+            
+            <li>
+                <a href="/program/northern-illinois-soccer-league/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl03_lnkInner" style=""></br>NISL</a>
+            </li>
+            
+            <li>
+                <a href="/program/national-premier-leagues/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl04_lnkInner" style=""></br>National Premier Leagues</a>
+            </li>
+            
+            <li>
+                <a href="/program/us-soccer-development-academy/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl05_lnkInner" style=""></br>U.S. Soccer Development Academy</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/program/camps-and-clinics/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl03_lnk" style="">Camps & Clinics</a>
+        
+    </li>
+    
+    <li>
+        <a href="/player-portal/optional-training-information/" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl04_lnk" style="">Optional Training</a>
+        
+            <ul>
+            
+            <li>
+                <a href="https://docs.google.com/forms/d/1z7VZhxn7Mxm3_scVtqnr6iuvtgHK4xsrrmYO_frWcbk/viewform" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl04_rptSubSubNav_ctl01_lnkInner" style="">U23 Program</a>
+            </li>
+            
+            <li>
+                <a href="http://www.bridgesfc.com" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_rptSubNav_ctl04_rptSubSubNav_ctl02_lnkInner" style="" target="_blank">Bridges FC</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    </ul>
+    
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl01$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl01_ccSubNav_hdn" value="3" />
+		</li>
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl02_liItem">
+			 <a href="/news/" id="CT_Header_ccTopNav_rptNav_ctl02_lnkLink1">News</a>
+			 
+			 
+    <div class="SubWrpr">
+        <ul>
+    
+    <li>
+        <a href="/news" id="CT_Header_ccTopNav_rptNav_ctl02_ccSubNav_rptSubNav_ctl01_lnk" style="">Headline News</a>
+        
+    </li>
+    
+    <li>
+        <a href="/subscribe/" id="CT_Header_ccTopNav_rptNav_ctl02_ccSubNav_rptSubNav_ctl02_lnk" style="">Newsletter</a>
+        
+    </li>
+    
+    <li>
+        <a href="/photos/" id="CT_Header_ccTopNav_rptNav_ctl02_ccSubNav_rptSubNav_ctl03_lnk" style="">Photo Gallery</a>
+        
+    </li>
+    
+    </ul>
+    
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl02$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl02_ccSubNav_hdn" value="4" />
+		</li>
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl03_liItem">
+			 <a href="/tryouts/" id="CT_Header_ccTopNav_rptNav_ctl03_lnkLink1">Tryouts</a>
+			 
+			 
+    <div class="SubWrpr">
+        <ul>
+    
+    <li>
+        <a href="/tryouts/2014-2015-tryouts/" id="CT_Header_ccTopNav_rptNav_ctl03_ccSubNav_rptSubNav_ctl01_lnk" style="">2014-2015 Tryouts</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/tryouts/information/" id="CT_Header_ccTopNav_rptNav_ctl03_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl01_lnkInner" style="">Information</a>
+            </li>
+            
+            <li>
+                <a href="/program/why-join-our-program/" id="CT_Header_ccTopNav_rptNav_ctl03_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl02_lnkInner" style="">Why Join Our Program?</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    </ul>
+    
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl03$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl03_ccSubNav_hdn" value="5" />
+		</li>
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl04_liItem">
+			 <a href="/club/events/" id="CT_Header_ccTopNav_rptNav_ctl04_lnkLink1">Events</a>
+			 
+			 
+    <div class="SubWrpr">
+        <ul>
+    
+    <li>
+        <a href="/club/events/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_lnk" style="">Tournaments  </a>
+        
+            <ul>
+            
+            <li>
+                <a href="/events/nike-academy-showcase/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl01_lnkInner" style="">Nike Academy Showcase</a>
+            </li>
+            
+            <li>
+                <a href="/events/nike-classic-cup-spring/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl02_lnkInner" style="">Nike Classic Cup Spring</a>
+            </li>
+            
+            <li>
+                <a href="/events/nike-crystal-cup/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl03_lnkInner" style="">Nike Crystal Cup</a>
+            </li>
+            
+            <li>
+                <a href="/events/nike-labor-day-classic/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl04_lnkInner" style="">Nike Labor Day Classic</a>
+            </li>
+            
+            <li>
+                <a href="/events/nike-classic-cup-fall/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl05_lnkInner" style="">Nike Classic Cup Fall</a>
+            </li>
+            
+            <li>
+                <a href="/events/tournament-center/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl06_lnkInner" style="">Tournament Center</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/club/events/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl02_lnk" style="">Showcases</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/events/girls-indoor-college-showcase/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl01_lnkInner" style="">Girls College Showcase</a>
+            </li>
+            
+            <li>
+                <a href="/events/boys-indoor-college-showcase/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl02_lnkInner" style="">Boys College Showcase </a>
+            </li>
+            
+            <li>
+                <a href="/events/sockers-fc-college-combine/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl03_lnkInner" style="">Sockers College Combine</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/club/events/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl03_lnk" style="">Club Events</a>
+        
+            <ul>
+            
+            <li>
+                <a href="http://www.sockersfcchicago.com/join-us-on-saturday-january-17-2015-/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl01_lnkInner" style="" target="_blank">Anniversary Gala</a>
+            </li>
+            
+            <li>
+                <a href="http://sockersfcyouthfoundation.com/syfgolf/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl02_lnkInner" style="" target="_blank">Annual Golf Outing</a>
+            </li>
+            
+            <li>
+                <a href="/events/european-tour/" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl03_lnkInner" style="">European Tour 2014</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    </ul>
+    
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl04$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl04_ccSubNav_hdn" value="7" />
+		</li>
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl05_liItem">
+			 <a href="/player-portal/" id="CT_Header_ccTopNav_rptNav_ctl05_lnkLink1">Player Portal</a>
+			 
+			 
+    <div class="SubWrpr">
+        <ul>
+    
+    <li>
+        <a href="/player-portal/family-tools/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl01_lnk" style="">Family Tools</a>
+        
+            <ul>
+            
+            <li>
+                <a href="https://secure.sports-it.com/mysam/?cid=sockers" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl01_lnkInner" style="" target="_blank">MySAM</a>
+            </li>
+            
+            <li>
+                <a href="http://sockers.myteamevents.com/Calendar/List/List" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl02_lnkInner" style="" target="_blank">Club Calendar</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/facility-locations-and-maps/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl03_lnkInner" style="">Field Locations</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/downloadable-forms/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl01_rptSubSubNav_ctl04_lnkInner" style="">Downloadable Forms</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/player-portal/player-resources/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_lnk" style="">Player Resources</a>
+        
+            <ul>
+            
+            <li>
+                <a href="/player-portal/nutrition/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl01_lnkInner" style="">Nutrition</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/college-commitments/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl02_lnkInner" style="">College Commitments</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/college-placement/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl03_lnkInner" style="">College Placement</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/optional-training-information/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl04_lnkInner" style="">Optional Training Information</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/id2-program/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl05_lnkInner" style="">ID2 Program</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/fitness-tests/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl06_lnkInner" style="">Fitness Testing</a>
+            </li>
+            
+            <li>
+                <a href="/player-portal/player-profile-form/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl07_lnkInner" style="">Player Profile Form</a>
+            </li>
+            
+            <li>
+                <a href="http://www.sockersfcchicago.com/club/professional-players/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl02_rptSubSubNav_ctl08_lnkInner" style="">Sockers Alumni in the Pros</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/player-portal/get-connected/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl03_lnk" style="">Get Connected</a>
+        
+            <ul>
+            
+            <li>
+                <a href="https://www.facebook.com/SockersFCChicago" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl01_lnkInner" style="" target="_blank">Sockers FC Facebook</a>
+            </li>
+            
+            <li>
+                <a href="https://twitter.com/SockersChicago" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl03_rptSubSubNav_ctl02_lnkInner" style="" target="_blank">Sockers FC Twitter</a>
+            </li>
+            
+            </ul>
+            
+    </li>
+    
+    <li>
+        <a href="/photos/" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_rptSubNav_ctl04_lnk" style="">Photo Gallery</a>
+        
+    </li>
+    
+    </ul>
+    
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl05$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl05_ccSubNav_hdn" value="6" />
+		</li>
+	
+		<li id="CT_Header_ccTopNav_rptNav_ctl06_liItem" class="lastnavitemli">
+			 <a href="http://www.sockersfcchicago.com/" id="CT_Header_ccTopNav_rptNav_ctl06_lnkLink1" class="lastnavitema">Store</a>
+			 
+			 
+
+<input type="hidden" name="CT_Header$ccTopNav$rptNav$ctl06$ccSubNav$hdn" id="CT_Header_ccTopNav_rptNav_ctl06_ccSubNav_hdn" value="8" />
+		</li>
+	
+	</ul>
+	<div class="clear">&nbsp;</div>
+</div>
+
+
+
+
+	<div class="hdrLogo">
+		<a title="Back to Sockers FC Homepage" href="/"><img src="/cms/images/layout/sockers_logo.png" alt="Sockers FC Chicago"></a>
+	</div>
+</div>	
+		<div class="pagetools clearfix">
+			
+
+
+<div class="breadcrumbs">
+    <a href="/">Home</a><span class="default">//</span><a  href="/club/">Club</a><span class="default">//</span><a  href="/club/coaching-staff/">Sockers FC Staff</a><span class="default">//</span>Staff List
+</div>
+
+
+			<div class="socialTools">
+				
+<a class="print" rel="nofollow" href="http://www.sockersfcchicago.com/club/staff-list/?print=y" target="_blank">PRINT PAGE</a>        
+				
+<a class="email" rel="nofollow" href="#" onclick="NewWindow('/friend/?URL=%2fclub%2fstaff-list%2f&amp;h=dAJOaT9KRD8%2fKDlhWD8%2fPz9WPz8%3d', 'sendtofriend', 700, 430, 'yes', 'no'); return false;">SEND TO FRIEND</a>
+			</div>
+		</div>
+		<div class="corwrpr-int clearfix">
+			<div class="corlnav">
+				
+
+<div id="CT_Left_0_cache_pnlLeftNav">
+	
+	
+			<ul class="lnav">
+		
+			<li id="CT_Left_0_cache_rptSecondLevel_ctl01_liSecondLevel"><a id="CT_Left_0_cache_rptSecondLevel_ctl01_hlkSecondLevel" href="/club/tradition/">Tradition</a>
+			
+			</li>    
+		
+			<li id="CT_Left_0_cache_rptSecondLevel_ctl02_liSecondLevel"><a id="CT_Left_0_cache_rptSecondLevel_ctl02_hlkSecondLevel" href="/club/identity/">Identity</a>
+			
+			</li>    
+		
+			<li id="CT_Left_0_cache_rptSecondLevel_ctl03_liSecondLevel"><a id="CT_Left_0_cache_rptSecondLevel_ctl03_hlkSecondLevel" href="/club/in-the-community/">In The Community </a>
+			
+			</li>    
+		
+			<li id="CT_Left_0_cache_rptSecondLevel_ctl04_liSecondLevel"><a id="CT_Left_0_cache_rptSecondLevel_ctl04_hlkSecondLevel" class="on" class="on" href="/club/coaching-staff/">Sockers FC Staff</a>
+			
+					<ul>
+				
+				   <li id="CT_Left_0_cache_rptSecondLevel_ctl04_rptThirdLevel_ctl01_liThirdLevel"><a id="CT_Left_0_cache_rptSecondLevel_ctl04_rptThirdLevel_ctl01_hlkThirdLevel" href="/club/sockers-fc-office/">Sockers FC Office</a></li>
+				
+					</ul>
+				
+			</li>    
+		
+			</ul>
+		
+
+</div>
+
+
+
+			</div>
+			<div class="cormain">
+				
+				
+<div id="CT_Main_0_cache_pnlPageHeading">
+	
+    <h1>Staff List</h1>
+
+</div>
+
+
+
+
+<div class="block"><table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="5" style="width: 855px; height: 26px;">
+				<h4 align="center">
+					<u>Sockers FC President:</u></h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 41px;">
+				<p align="center">
+					David</p>
+			</td>
+			<td style="width: 112px; height: 41px;">
+				<p align="center">
+					Richardson</p>
+			</td>
+			<td style="width: 329px; height: 41px;">
+				<p align="center">
+					President, Technical and Academy Director</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 41px;">
+				<p align="center">
+					<a href="mailto:davidrichardson@sockersfc.net">davidrichardson@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Nilton</span></td>
+			<td style="width: 112px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Batata</span></td>
+			<td style="width: 329px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Club Vice-President, Director of Operations</span></td>
+			<td colspan="2" style="width: 345px; height: 41px; text-align: center; ">
+				<a href="mailto:batata7@sockersfc.net" style="text-decoration: none; text-align: -webkit-center; ">batata7@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 855px; height: 24px;">
+				<h4 align="center">
+					<u>Sockers FC Administration</u></h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 42px;">
+				<p align="center">
+					Todd</p>
+			</td>
+			<td style="width: 112px; height: 42px;">
+				<p align="center">
+					Bailey</p>
+			</td>
+			<td style="width: 329px; height: 42px;">
+				<p align="center">
+					Tournament Director & Asst Academy Director&nbsp;</p>
+			</td>
+			<td style="width: 142px; height: 42px;">
+				<p align="center">
+					847-788-5326</p>
+			</td>
+			<td style="width: 203px; height: 42px;">
+				<p align="center">
+					<a href="mailto:bailey@sockersfc.net" style="text-decoration: none; ">bailey@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Trey</span></td>
+			<td style="width: 112px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Bradberry</span></td>
+			<td style="width: 329px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Director of ECNL & Coaching Director of High School - Naperville</span></td>
+			<td style="width: 142px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">847-788-5326</span></td>
+			<td style="width: 203px; height: 42px; text-align: center; ">
+				<a href="mailto:trey@sockersfc.net" style="text-align: -webkit-center; ">trey@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Ahmed</span></td>
+			<td style="width: 112px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Gad</span></td>
+			<td style="width: 329px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Director of Coaching U7-U14 Schaumburg</span></td>
+			<td style="width: 142px; height: 42px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">847-788-5326</span></td>
+			<td style="width: 203px; height: 42px; text-align: center; ">
+				<a href="mailto:ahmed@sockersfc." style="text-align: -webkit-center; ">ahmed@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 42px; text-align: center; ">
+				Scott</td>
+			<td style="width: 112px; height: 42px; text-align: center; ">
+				Keena</td>
+			<td style="width: 329px; height: 42px; text-align: center; ">
+				Director of Coaching U7-U18 Naperville</td>
+			<td style="width: 142px; height: 42px; text-align: center; ">
+				847-788-5326</td>
+			<td style="width: 203px; height: 42px; text-align: center; ">
+				<a href="mailto:skeena@sockersfc.net">skeena@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 46px;">
+				<p align="center">
+					Lynn</p>
+			</td>
+			<td style="width: 112px; height: 46px;">
+				<p align="center">
+					Jeskey</p>
+			</td>
+			<td style="width: 329px; height: 46px;">
+				<p align="center">
+					Club & Academy Administrator</p>
+			</td>
+			<td style="width: 142px; height: 46px;">
+				<p align="center">
+					847-788-5326</p>
+			</td>
+			<td style="width: 203px; height: 46px;">
+				<p align="center">
+					<a href="mailto:lynn@sockersfc.net">lynn@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 27px;">
+				<p align="center">
+					Leanne</p>
+			</td>
+			<td style="width: 112px; height: 27px;">
+				<p align="center">
+					Mueller</p>
+			</td>
+			<td style="width: 329px; height: 27px;">
+				<p align="center">
+					Finance Manager</p>
+			</td>
+			<td style="width: 142px; height: 27px;">
+				<p align="center">
+					847-788-5321</p>
+			</td>
+			<td style="width: 203px; height: 27px;">
+				<p align="center">
+					<a href="mailto:leanne@sockersfc.net">leanne@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Karl</span></td>
+			<td style="width: 112px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">Smith</span></td>
+			<td style="width: 329px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">McHenry Director of Coaching, Staff Coach</span></td>
+			<td style="width: 142px; height: 41px; text-align: center; ">
+				<span style="text-align: -webkit-center; ">847-788-5326</span></td>
+			<td style="width: 203px; height: 41px; text-align: center; ">
+				<a href="mailto:karl@sockersfc.net%20" style="text-align: -webkit-center; ">karl@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 41px; text-align: center; ">
+				Oleg</td>
+			<td style="width: 112px; height: 41px; text-align: center; ">
+				Vatchev</td>
+			<td style="width: 329px; height: 41px; text-align: center; ">
+				Senior Staff Coach, Staff Educator</td>
+			<td style="width: 142px; height: 41px; text-align: center; ">
+				847-788-5326</td>
+			<td style="width: 203px; height: 41px; text-align: center; ">
+				<a href="mailto:oleg@sockersfc.net">oleg@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 855px; height: 27px;">
+				<h4 align="center">
+					<u>Coaches:</u></h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 29px; text-align: center;">
+				Jennifer</td>
+			<td style="width: 112px; height: 29px; text-align: center;">
+				Russ</td>
+			<td style="width: 329px; height: 29px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 29px; text-align: center;">
+				<a href="mailto:jenruss@sockersfc.net">jenruss@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 29px;">
+				<p style="text-align: center;">
+					Nino</p>
+			</td>
+			<td style="width: 112px; height: 29px;">
+				<p style="text-align: center;">
+					DaSilva</p>
+			</td>
+			<td style="width: 329px; height: 29px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 29px;">
+				<p style="text-align: center;">
+					<a href="mailto:nino@sockersfc.net">nino@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 29px; text-align: center;">
+				Joe</td>
+			<td style="width: 112px; height: 29px; text-align: center;">
+				Ducci</td>
+			<td style="width: 329px; height: 29px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 29px; text-align: center;">
+				<a href="mailto:jducci@sockersfc.net">jducci@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 29px;">
+				<p style="text-align: center;">
+					Vince</p>
+			</td>
+			<td style="width: 112px; height: 29px;">
+				<p style="text-align: center;">
+					Kalke</p>
+			</td>
+			<td style="width: 329px; height: 29px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 29px;">
+				<p style="text-align: center;">
+					<a href="mailto:vince@sockersfc.net">vince@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 20px;">
+				<p style="text-align: center;">
+					Leo</p>
+			</td>
+			<td style="width: 112px; height: 20px;">
+				<p style="text-align: center;">
+					Kulinczenko</p>
+			</td>
+			<td style="width: 329px; height: 20px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 20px;">
+				<p style="text-align: center;">
+					<a href="mailto:leo@sockersfc.net">leo@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 31px;">
+				<p style="text-align: center;">
+					Cindy</p>
+			</td>
+			<td style="width: 112px; height: 31px;">
+				<p style="text-align: center;">
+					Martillaro</p>
+			</td>
+			<td style="width: 329px; height: 31px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 31px;">
+				<p style="text-align: center;">
+					<a href="mailto:cindy@sockersfc.net">cindy@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 31px; text-align: center;">
+				Jeremy</td>
+			<td style="width: 112px; height: 31px; text-align: center;">
+				Ngameni</td>
+			<td style="width: 329px; height: 31px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 31px; text-align: center;">
+				<a href="mailto:jeremy@sockersfc.net">jeremy@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 25px;">
+				<p style="text-align: center;">
+					Brian</p>
+			</td>
+			<td style="width: 112px; height: 25px;">
+				<p style="text-align: center;">
+					Plotkin</p>
+			</td>
+			<td style="width: 329px; height: 25px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 25px;">
+				<p style="text-align: center;">
+					<a href="mailto:brian@sockersfc.net">brian@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 28px;">
+				<p style="text-align: center;">
+					Sergio</p>
+			</td>
+			<td style="width: 112px; height: 28px;">
+				<p style="text-align: center;">
+					Realegano</p>
+			</td>
+			<td style="width: 329px; height: 28px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 28px;">
+				<p style="text-align: center;">
+					<a href="http://Sergio@sockersfc.net"><u>sergio@sockersfc.net</u></a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 28px; text-align: center;">
+				Michael</td>
+			<td style="width: 112px; height: 28px; text-align: center;">
+				Richardson</td>
+			<td style="width: 329px; height: 28px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 28px; text-align: center;">
+				<a href="mailto:michael@chicagosoccer.com">michael@chicagosoccer.com</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 28px; text-align: center;">
+				Jessica</td>
+			<td style="width: 112px; height: 28px; text-align: center;">
+				Rosales</td>
+			<td style="width: 329px; height: 28px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 28px; text-align: center;">
+				<a href="mailto:jessie@sockersfc.net">jessie@sockersfc.net</a></td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px;">
+				<p style="text-align: center;">
+					Art</p>
+			</td>
+			<td style="width: 112px; height: 19px;">
+				<p style="text-align: center;">
+					Wywrot</p>
+			</td>
+			<td style="width: 329px; height: 19px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					<a href="mailto:art@sockersfc.net">art@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px;">
+				<p style="text-align: center;">
+					Dan</p>
+			</td>
+			<td style="width: 112px; height: 19px;">
+				<p style="text-align: center;">
+					Smeja</p>
+			</td>
+			<td style="width: 329px; height: 19px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px; text-align: center;">
+				Rudy</td>
+			<td style="width: 112px; height: 19px; text-align: center;">
+				Cleveland</td>
+			<td style="width: 329px; height: 19px; text-align: center;">
+				Staff Coach</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					<a href="mailto:rudy@sockersfc.net">rudy@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px;">
+				<p style="text-align: center;">
+					<span style="font-family:arial,helvetica,sans-serif;">Terry&nbsp;</span></p>
+			</td>
+			<td style="width: 112px; height: 19px;">
+				<p style="text-align: center;">
+					<span style="font-family:arial,helvetica,sans-serif;">Adamson</span></p>
+			</td>
+			<td style="width: 329px; height: 19px;">
+				<p style="text-align: center;">
+					<span style="font-family:arial,helvetica,sans-serif;">Staff Coach</span></p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px;">
+				<p style="text-align: center;">
+					Jim</p>
+			</td>
+			<td style="width: 112px; height: 19px;">
+				<p style="text-align: center;">
+					Colvin</p>
+			</td>
+			<td style="width: 329px; height: 19px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px;">
+				<p style="text-align: center;">
+					Joel</p>
+			</td>
+			<td style="width: 112px; height: 19px;">
+				<p style="text-align: center;">
+					Eriksen</p>
+			</td>
+			<td style="width: 329px; height: 19px;">
+				<p style="text-align: center;">
+					Staff Coach</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 855px; height: 26px;">
+				<p style="text-align: center;">
+					<br />
+					<strong><u>Goalkeeping Coaches</u>:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 28px;">
+				<p style="text-align: center;">
+					Albert</p>
+			</td>
+			<td style="width: 112px; height: 28px;">
+				<p style="text-align: center;">
+					Martin</p>
+			</td>
+			<td style="width: 329px; height: 28px;">
+				<p style="text-align: center;">
+					Dir of Goalkeeping - McHenry/Schaumburg</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 28px;">
+				<p style="text-align: center;">
+					<a href="mailto:albert@sockersfc.net">albert@sockersfc.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 70px; height: 19px;">
+				<p style="text-align: center;">
+					Neil</p>
+			</td>
+			<td style="width: 112px; height: 19px;">
+				<p style="text-align: center;">
+					Thompson</p>
+			</td>
+			<td style="width: 329px; height: 19px;">
+				<p style="text-align: center;">
+					Dir of Goalkeeping &ndash; Naperville/Wheaton</p>
+			</td>
+			<td colspan="2" style="width: 345px; height: 19px;">
+				<p style="text-align: center;">
+					<a href="mailto:neil@sockersfc.net">neil@sockersfc.net</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p align="center">
+	&nbsp;</p>
+</div>
+
+			</div>
+		</div>
+		<div class="ftrwrpr">
+			<div id="ftrLogos"><div class="ftrLogos">
+	<a href="http://www.northernillinoissoccerleague.com/" target="_blank"><img align="middle" alt="NISL" src="/cms/images/layout/nisl.png" /></a> <a href="http://www.iwsl.com" target="_blank"><img align="middle" alt="iwslnw" src="/assets/1/7/iwslnw.png" style="width: 73px; height: 87px;" /></a><a href="http://www.ussoccer.com/Teams/Development-Academy/Academy.aspx" target="_blank"><img align="middle" alt="devacahor" src="/assets/1/7/devacahor.png" style="width: 203px; height: 83px;" /></a> <a href="http://www.eliteclubsnationalleague.com" target="_blank"><img align="middle" alt="ECNL" src="/cms/images/layout/ecnl.png" /></a> <a href="http://www.usclubsoccer.org" target="_blank"><img align="middle" alt="US Club Soccer" src="/cms/images/layout/uscs.png" /></a> <a href="http://nplmidwest.demosphere.com/index.html" target="_blank"><img align="middle" alt="Midwest Developmental League" src="/cms/images/layout/mwdl.png" /></a> <a href="http://nationalpremierleagues.com" target="_blank"><img align="middle" alt="National Premier Leagues" class="last" src="/cms/images/layout/npl.png" /></a></div>
+
+
+</div>
+			<div class="clearfix">
+				<div id="ftrNav"><div class="ftrCol1">
+	<h3>
+		Club</h3>
+	<ul>
+		<li>
+			<a href="/club/tradition/history/">History</a></li>
+		<li>
+			<a href="/club/identity/">Identity</a></li>
+		<li>
+			<a href="/club/alumni/">Alumni</a></li>
+		<li>
+			<a href="/club/accomplishments/">Acomplishments</a></li>
+		<li>
+			<a href="/club/in-the-community/">In The Community</a></li>
+	</ul>
+	<h3>
+		Program</h3>
+	<ul>
+		<li>
+			<a href="/program/">Overview</a></li>
+		<li>
+			<a href="/program/us-soccer-development-academy/">USSDA</a></li>
+		<li>
+			<a href="/program/elite-clubs-national-league/">ECNL</a></li>
+		<li>
+			<a href="/program/goalkeeping/">Goalkeeping</a></li>
+		<li>
+			<a href="/program/sparq-and-sports-performance/">SPARQ</a></li>
+		<li>
+			<a href="/program/locations/">Training Locations</a></li>
+		<li>
+			<a href="/program/camps-and-clinics/">Camps and Clinics</a></li>
+	</ul>
+</div>
+<div class="ftrCol2">
+	<h3>
+		News</h3>
+	<ul>
+		<li>
+			<a href="/news/">Headline News</a></li>
+	</ul>
+	<h3>
+		Player PORTAL</h3>
+	<ul>
+		<li>
+			<a href="/player-portal/family-tools/">Family Tools</a></li>
+		<li>
+			<a href="/player-portal/player-resources/">Player Resources</a></li>
+		<li>
+			<a href="/player-portal/facility-locations-and-maps/">Field Locations</a></li>
+		<li>
+			<a href="/player-portal/optional-training-information/">Optional Training</a></li>
+		<li>
+			<a href="/photos/">Photo Gallery</a></li>
+	</ul>
+	<h3>
+		Tryouts</h3>
+	<ul>
+		<li>
+			<a href="/tryouts/2013-2014-tryouts/" style="text-decoration: none; ">2014-2015 Tryouts</a></li>
+		<li>
+			<a href="/Tryouts/information/">Information</a></li>
+		<li>
+			<a href="/program/why-join-our-program/">Why Join Our Program?</a></li>
+	</ul>
+</div>
+<div class="ftrCol3">
+	<h3>
+		Events</h3>
+	<ul>
+		<li>
+			<a href="/events/nike-academy-showcase/">Academy Showcase</a></li>
+		<li>
+			<a href="/events/nike-classic-cup-spring/">Nike Classic Cup</a></li>
+		<li>
+			<a href="/events/european-tour/">European Tour</a></li>
+		<li>
+			<a href="/events/boys-indoor-college-showcase/">Boys College Combine</a></li>
+		<li>
+			<a href="/events/girls-indoor-college-showcase/">Girls College Combine</a></li>
+	</ul>
+	<h3>
+		FAQ&#39;s</h3>
+	<ul>
+		<li>
+			<a href="/faq/">General</a></li>
+	</ul>
+	<h3>
+		Store</h3>
+	<ul>
+		<li>
+			Online Store Coming Soon!</li>
+	</ul>
+</div>
+
+
+</div>
+				<div id="ftrRight"><div id="CT_ftright_0_pnlModule">
+	
+	
+	<h2 class="white">Sign up for our emails</h2>
+	<div class="newsletter">
+		<input name="CT_ftright_0$txtEmail" type="text" value="enter email here" maxlength="100" id="CT_ftright_0_txtEmail" class="ibox" onfocus="if (this.value==&#39;enter email here&#39;){this.value=&#39;&#39;;this.style.textAlign=&#39;left&#39;;}" onblur="if (this.value==&#39;&#39;){this.style.textAlign=&#39;left&#39;;this.value=&#39;enter email here&#39;;}" style="width: 170px;" />
+		<!--
+		<input type="image" name="CT_ftright_0$btnSend" id="CT_ftright_0_btnSend" Text="Go" onmouseover="src=&#39;/cms/images/btn-go-on.gif&#39;" onmouseout="src=&#39;/cms/images/btn-go.gif&#39;" src="/cms/images/btn-go.gif" style="border-width:0px;vertical-align: top;" />
+		-->
+		
+		<input type="submit" name="CT_ftright_0$btnSignupSm" value="Submit" id="CT_ftright_0_btnSignupSm" class="btn" style="vertical-align: top;" />
+		
+	</div>
+
+</div>
+
+
+
+<div class="ftrAddress">
+	<h4>
+		Sockers FC Chicago</h4>
+	<p>
+		545 S. Consumers Ave., Palatine, IL 60074 USA</p>
+	<h4>
+		Office Hours</h4>
+	<p>
+		Monday - Friday: 10:00 - 4:00pm (Finance 9.00 - 2.00pm)</p>
+	<h4>
+		Contact Us</h4>
+	<p>
+		Phone 847.788.5326<br />
+		Office 847.788.5321 (Financial)<br />
+		Fax 847.788.5330</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		2013 Sockers FC Chicago. All rights reserved.</p>
+</div>
+
+
+</div>
+			</div>
+		</div>
+		<div class="ftrBottom">
+			<div id="ftrBtm"><div class="bottomLeft">
+	<a href="/sitemap/">Site Map</a> | <a href="/privacy/">Privacy Policy</a> | <a href="/terms/">Terms & Conditions</a>&nbsp;| <a href="http://www.sockersfcchicago.com/refundpolicy/">Refund Policy</a></div>
+<div class="bottomRight">
+	Website design and development by Americaneagle.com</div>
+
+
+</div>
+		</div>
+		
+	</div>
+
+
+<!-- start of global MOC wrapper -->
+<div id="overlay-main" class="siteOverlay">
+        <div class="overlayBar"><div class="overlayClose">close (X)</div></div>
+        <div class="overlayContent" id="mainOverlayContent"></div>
+</div>
+<!-- end of global MOC wrapper -->
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="24827FA6" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDAK3jeSQCwKCjKBYArW4tYcOAo6Dkx0Cq7LOqwQCrPPa+AYCyYSW8QwC0uLQ2gECv/6ulQMCpdODvgwCyfuYkw8CwL3U/guN/taB9vrYcgnbLSMbpi1VYBKgbvK1z2X+82Kz0dD6Ug==" />
+</div><div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgQCAg9kFgICAw9kFgJmDxYCHgdWaXNpYmxlZ2QCBQ9kFgICEQ9kFgICAQ9kFgJmD2QWAmYPZBYCAgEPFgIeBFRleHQFClN0YWZmIExpc3RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBQ1DVF9NYWluXzEkZmNrBRRDVF9mdHJpZ2h0XzAkYnRuU2VuZAE2McoLK481HOXRKclpTv9+7hCMyXvDbdcUnyI3JO5x" /></div></form>
+</body>
+</html>

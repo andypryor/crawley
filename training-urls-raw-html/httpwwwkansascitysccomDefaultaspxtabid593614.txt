@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	KCSC Coach Chris Jayaram
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="DESCRIPTION" content="Kansas City Soccer Club" /><meta id="MetaKeywords" name="KEYWORDS" content="Kansas City Soccer Club" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright (c) 2015 by Kansas City Soccer Club" /><meta id="MetaAuthor" name="AUTHOR" content="Kansas City Soccer Club" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/default.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/admin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/skins/zeus/skin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/containers/zeus/container.css?cdv=13" type="text/css" rel="stylesheet"/><script src="/resources/shared/scripts/jquery/jquery.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-migrate.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-ui.min.js?cdv=13" type="text/javascript"></script><link href="http:///Default.aspx?tabid=593614" rel="canonical" /><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2472549-6']);
+_gaq.push(['_setDomainName', 'sports.bluesombrero.com']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['b._setAccount', 'UA-31133633-1']);
+_gaq.push(['b._trackPageview']);
+
+            (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3aed2942d4" type="text/css" rel="stylesheet" /></head>
+<body id="Body">
+    
+    <form name="Form" method="post" action="/Default.aspx?tabid=593614" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qnwrB9qkQuZQDXUrY38S+6G32ortHHzBQXUhKh/A4tt5hSa65WYr67LvRsvvih2ZVF2porvoMm0Czp0e3DZYWomJVsNFaWnXDUi3mlqZrr2CRv76gJRXkrT8NZ9uyqb2O9xN43vJBxeaEMJDPxqflXxPmpttlcPyFaT5EG07Qm6e2Iaf+BcBEuF0KQmUzlApx25zkxG7p58LXkiBzneQP560dxorOOyldApzWGkhgO7kxGojScfMrWk2rL5cxZqh30am8uTpzj3wJexhPRvbQ9wkkBohHxSPRTtIaPoMMZvv0m0WFw/3R+UDk7tTj8FI/9XASB9JcMJIU5GFJmOHNoqRw0Xo3bE60jNzMvqHM7RWoI7zlbq0AvxZ90F/APV83Iuzy5A3CHe2c/V1bLU3DiFooyeRKAajtWmRq8B3LRP/rYg+PWKwyLXAsUom8hFUFrSiIBXd5pvC2ZnLSj8YGZohpU5FfqXcoZF+yQIBNv9BXKpg3x3jfSFf2PVKf3/8A3PnN7lVzqpMG28zAbdCZsB7fXaSt5DJ7BKDPJpeZtP7H9LR1w7y88E4ar98JiFwT7l9IV/5wPy+z6RohpW8g0/Jyp+uC7K8ceoAXKNAyhOvsel7T84aGkEpCfO+5nEixK338XY9TjAn5xHtDWM53MEYxQBldUT6r2x/M1N26vLlzPVVNhUYKZ83TKK2t52kE4pazy5uOKqrxnn732o+hLwFOjp79S3zp/wiSBD5Ob1b2bzs4h6pbtkuHv2tPP+nh27kgLkOayAE6+on4HMTDVmUjSsc6j5TUXpRv03IV7QUz9olS2ZttQLlPIcL1d847CjIJIyeRRESmQ5aSscSDxiEFqT7e1U2vbn58yigXivXSJ8KYuN/vR4A7jdq0CgfqTcEyHUc9ANx1JQcwUfMSl2z1Jc108E1sQl4B+2POBm7jmW302clr+QbVIgPAqg+YWJVsYRpLRwkXtToAuVG+TtrZrn7ckBB+mc8ubAdSczudn4LdVIiVTeLQ3Nz1pv1WVDYgQWbP/NH3X8N3Dvje9zqkpSqt6r7u90gHjUC9q05/JnPjOhYmyIcQf1USOd4m0NAYRpcCOiitJzv3MTFCjmbdm7/IyAOi38nNcE5ua+w9fN2SilV/aA3sx5gRWkeJt++hMJV0rWbc7OHz38Jg64YytIzERbz6IGL15YdY24W8qPsrMFTEkOmz8EfywxUA3hl7q7+7LmsLuxhTlcL8wfbJnknAL179ukLAVS1i2ZR0SjiFiiMzGgBFsAkxl8eSIZQTDDc8OxqQ2l6vLxlCKbdN7kxJ9UKJ/wxx2PRfCZ6WLzZlhMF/dKNmbkiJt6/359ThgZR7tK3C0aUmR0rmfSHFZpS/+FlbxxfaNm6rDOsTXep5kU4rtuDgqnu0Mqu49J+IF9s8F2bhL9Oa7bwh8loLa2AylcNPlz/JEdSffQx29bthAI2HFaLLARDsW/nR7I2fmziH9D1PW9EBO3B+TJ6wBQ9kZSh1kzSj4a+6gLnTqkhMM8oXc+bn5BEGMIOM4Z9H5DMwWI4xje40sowyfzMdD4ftdqP2VqHKy1cP4DZrK9VbkkYUPTHXlz6RfB87XBtk9BmFJZDhSHTriYG/Eq+7iydsIOsqyDG995LKFg4/FvP+Xq96YGRIYYKzCMntaUqkRTsCBh5TpEQtENnpKd56nb5Ymcy6n/v4b8DXuMo/FweGIR+ujuu9ggRUBPIOmKVug==" />
+</div>
+
+
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.hoverintent.js?v=10" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.controlpanel/resources/bsb_controlpanel.css?v=10' rel='stylesheet' rev='Stylesheet' type='text/css' />
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af319b152-218f-4c14-829d-050a68bb1a61%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a1e771326%3a88144a7a%3ac8618e41%3a1a73651d%3a333f8d94" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/debug/dnn.modalpopup.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=13" type="text/javascript"></script>
+        
+        
+
+<!--[if lte IE 7]><link href="/Portals/_default/Skins/Zeus/IEFix.css" type="text/css" rel="stylesheet"/><![endif]-->
+<script type="text/javascript">jQuery('body').addClass('zeusGray zeusDefault zeusInner');</script>
+<div class="Skin_Area">
+	<div class="Skin_Header">
+		<div class="Skin_Width">
+			<div class="CSS_FloatRight">
+				<span class="Skin_BannerText">Kansas City Soccer Club
+</span>
+				
+	<a href="//www.facebook.com/kansascitysc" target="_blank" class="socialMediaLinks">
+		<img src="/Portals/_default/Skins/Zeus/Images/icn_facebook.png" alt="Facebook"/>
+	</a>
+
+
+	<a href="//www.twitter.com/KCSC14" target="_blank" class="socialMediaLinks">
+		<img src="/Portals/_default/Skins/Zeus/Images/icn_twitter.png" alt="Twitter"/>
+	</a>
+
+
+				<a id="dnn_dnnLOGIN_cmdLogin" class="SkinObject" href="/Default.aspx?tabid=572990&amp;isLogin=True">Login</a>&nbsp;|&nbsp;&nbsp;&nbsp;<a id="dnn_dnnUSER_cmdRegister" class="SkinObject" href="/Default.aspx?tabid=572990">Register</a>
+				<div class="CSS_ClearBoth"></div>
+			</div>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+	</div>
+	<div class="Skin_MainNav">
+		<div class="Skin_Width">
+			<div class="Skin_Logo"><a id="dnn_dnnLOGO_hypLogo" title="Kansas City Soccer Club" href="/default.aspx?portalid=6441"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/6441/logo/Logo635356758340488155.png" alt="Kansas City Soccer Club" style="border-width:0px;" /></a></div>
+			<div class="Skin_Nav">
+				<div id="dnn_RadMenu1_RadMenu1" class="RadMenu RadMenu_SkinNAV rmSized" style="width:100%;">
+	<!-- 2014.1.318.45 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/Default.aspx?tabid=720709"><span class="rmText">Calendar</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=572980"><span class="rmText">Home</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=584393"><span class="rmText">About Us</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=593766"><span class="rmText">Philosophy</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593767"><span class="rmText">Player Development: U7-U9</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593768"><span class="rmText">Player Development U10-U12</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=593769"><span class="rmText">Player Development U13-U18</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink  rmSelected" href="/Default.aspx?tabid=585621"><span class="rmText">Coaches</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=593633"><span class="rmText">John Duker</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593612"><span class="rmText">Luke Cavlovich </span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593613"><span class="rmText">Derek Hamer</span></a></li><li class="rmItem "><a class="rmLink  rmSelected" href="/Default.aspx?tabid=593614"><span class="rmText">Chris Jayaram</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593615"><span class="rmText">Mike Jensen (MJ)</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593616"><span class="rmText">Alex Lima</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=593617"><span class="rmText">Kem Thomas</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=593627"><span class="rmText">Bryan Turner</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=584395"><span class="rmText">Academy</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=593674"><span class="rmText">We Are KCSC</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/Default.aspx?tabid=696899"><span class="rmText">KCSC Store</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=584396"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=584394"><span class="rmText">Tryouts</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=612252"><span class="rmText">U8-U14 Estimated Costs</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=612258"><span class="rmText">U15-U18 Estimated Costs</span></a></li>
+			</ul>
+		</div></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Default.aspx?tabid=617807"><span class="rmText">Forms</span></a></li>
+	</ul><input id="dnn_RadMenu1_RadMenu1_ClientState" name="dnn_RadMenu1_RadMenu1_ClientState" type="hidden" />
+</div>
+<script>
+jQuery(document).ready(function(){
+	var menu = $find("dnn_RadMenu1_RadMenu1");
+if (!menu) return;
+	var Items = menu.get_items();
+	var totalWidth = 0;
+	for (var i = 0; i < Items.get_count(); i++)
+	{
+		totalWidth += Items.getItem(i).get_element().offsetWidth;
+	}
+	menu.get_element().style.width = totalWidth + "px";
+});
+</script>
+			</div>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+	</div>
+	<div class="CSS_ClearBoth"></div>
+	<div class="Skin_Content">
+		<table class="Skin_Width" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td class="IP_Wrapper">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td class="ContentPane"colspan="2">
+								<div id="dnn_ContentPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-617476"><a name="617476"></a>
+<div class="default_container clubHome_DefaultContainer">
+	<div class="head_title clubHome_Header">
+		<div class="c_actions">
+		</div>
+		<div class="c_icon">
+			<span class="Header_Icon"></span>
+			<h2 class="c_title"><span id="dnn_ctr617476_dnnTITLE_titleLabel" class="title">Chris Jayaram</span>
+
+
+</h2>
+		</div>
+		<div class="title_vis">
+		</div><div class="CSS_ClearBoth"></div>
+	</div>
+	<div class="c_content clubHome_content">
+		<div id="dnn_ctr617476_ContentPane" class="Normal"><!-- Start_Module_617476 --><div id="dnn_ctr617476_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr617476_HtmlModule_lblContent" class="Normal">
+	<table style="width: 805px; height: 329px;">
+    <tbody>
+        <tr>
+            <td style="width: 250px; text-align: center; vertical-align: middle;"><br />
+            <br />
+            <img alt="" src="/portals/6441/Images/ChrisJ-large.jpg" style="width: 200px; height: 200px;" /><br />
+            <br />
+            <br />
+            <strong>Coach:&nbsp;<br />
+            Chris Jayaram<br />
+            <br />
+            Phone:&nbsp;<br />
+            (816)914-5069<br />
+            <br />
+            E-Mail:&nbsp;</strong><br />
+            <a href="mailto:chris@kansascitysc.com" target="_blank">chris@kansascitysc.com</a><br />
+            <br />
+            </td>
+            <td style="text-align: left; vertical-align: middle;"><strong>Coaching license:&nbsp;<br />
+            </strong>national USSF D coaching license<br />
+            <br />
+            <strong>Coaching experience:<br />
+            </strong>five years of youth coaching experience. 2010 Johnson County Youth Soccer<br />
+            <br />
+            <strong>Coach of the Year<br />
+            </strong><br />
+            <strong>Personal:&nbsp;<br />
+            </strong>Chris was raised in Kansas City, and he is a graduate of Rockhurst High School. He received his undergraduate degree from the University of Kansas, where he played for the university's competitive club team and competed in the national university club championship tournament in 1992-1993. Chris is also a graduate from Northwestern School of Law at Lewis and Clark College in Portland, Oregon, and he is a practicing attorney in the metropolitan area. Chris has continued to play soccer both competitively and recreationally, but he is equally passionate about teaching the game. He lives in Overland Park with his wife, Denice, and their three children.<br />
+            <br />
+            Favorite players:&nbsp;Clint Dempsey, Gareth Bale, Arjen Robben&nbsp;<br />
+            Hobbies:&nbsp;running, hiking, travel<br />
+            Favorite food:&nbsp;Mexican food<br />
+            Favorite color:&nbsp;green<br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            &nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+</div><!-- End_Module_617476 --></div>
+		<div class="CSS_ClearBoth"></div>
+	</div>
+</div></div></div>
+							</td>
+						</tr>
+						<tr>
+							<td class="LeftPane">
+								<div id="dnn_LeftPane" class="DNNEmptyPane"></div>
+							</td>
+							<td class="RightPane">
+								<div id="dnn_RightPane" class="DNNEmptyPane"></div>
+							</td>
+						</tr>
+						<tr>
+							<td class="BottomPane"colspan="2">
+								<div id="dnn_BottomPane" class="DNNEmptyPane"></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="CSS_ClearBoth"></div>
+	<div class="Skin_Footer">
+		<div class="Skin_Width">
+			<div class="CSS_FloatLeft">
+				<span id="dnn_dnnCOPYRIGHT_lblCopyright" class="SkinObject">Copyright (c) 2015 Kansas City Soccer Club</span>
+<br/>
+				
+	Kansas City SC<br />
+
+
+	PO Box 7029<br />Overland Park, KS. 66207<br/>
+
+
+	Phone : <a href="tel:913-575-1278">913-575-1278</a><br />
+
+
+	Email: <a href="mailto:John@kansascitysc.com">John@kansascitysc.com</a>
+
+
+
+			</div>
+			<div class="CSS_FloatRight textAlignRight">&nbsp;
+			<a id="dnn_dnnLOGINAdmin_cmdLogin" class="hiddenlogin" href="/Default.aspx?tabid=572990">Log In</a>
+				<a id="dnn_dnnTERMS_hypTerms" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=593614&amp;ctl=Terms">Terms of Use</a>&nbsp;|&nbsp;<a id="dnn_dnnPRIVACY_hypPrivacy" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=593614&amp;ctl=Privacy">Privacy Policy</a><br/>
+				<a class="Skin_Powerby" href="http://www.bluesombrero.com">
+					<img src="/Portals/_default/Skins/Zeus/images/PoweredByBlueSombrero.png" alt="Powered by Blue Sombrero"/>
+				</a>
+			</div>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="/Portals/_default/Skins/Zeus/js/jquery.pngFix.js"></script>
+<script type="text/javascript">jQuery(document).ready(function() { if(jQuery.browser.msie && jQuery.browser.version >= 6){ jQuery(document).pngFix(); } });</script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`593614`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('StylesheetManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2014.1.318.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:0746398c-8ed4-4bb4-ac7c-2ae23e943aae:ed2942d4';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"SkinNAV","clientStateFieldID":"dnn_RadMenu1_RadMenu1_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=720709"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=572980"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593766"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593767"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593768"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593769"}],"navigateUrl":"/Default.aspx?tabid=584393"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593633"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593612"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593613"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593614","cssClass":" rmSelected"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593615"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593616"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593617"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=593627"}],"navigateUrl":"/Default.aspx?tabid=585621","cssClass":" rmSelected"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=584395"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=696899"}],"navigateUrl":"/Default.aspx?tabid=593674"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=584396"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=612252"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=612258"}],"navigateUrl":"/Default.aspx?tabid=584394"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=617807"}]}, null, null, $get("dnn_RadMenu1_RadMenu1"));
+});
+//]]>
+</script>
+</form>
+    
+    
+</body>
+</html>

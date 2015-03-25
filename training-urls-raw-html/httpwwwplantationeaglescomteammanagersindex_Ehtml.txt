@@ -1,0 +1,886 @@
+
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 13-Oct-14 10:52 pm - /scripts/runisa.dll?M2:gp::72103+L2/+E+155 ; \\10.10.10.25\html\plantationeagles.com\teammanagers\index_E.html expires 1m = 13-Oct-14 10:53 pm -->
+<title>2014-2015 Team Managers - Plantation Eagles FC</title>
+<meta name="description"        content="						<td style=width: 63.0px; height: 16.0px; background-color: #bec0bf; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #000000 #00" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.plantationeagles.com/index.xml" title="RSS Feed">
+ <link rel="stylesheet" href="http://www.plantationeagles.com/common/css/master.css" type="text/css"/>
+ <script src="http://www.plantationeagles.com/common/js/ps1.8.2/protoaculous.min.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.plantationeagles.com/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<style type="text/css">
+body {background-color: #0808ff;}
+.IndexSSAdd {margin-left: 3px; margin-top: 16px; margin-right: 3px; border: 1px solid #CFD4E2; border-bottom: 0px; background-color: #DDE3F2; padding: 4px; padding-left: 12px; white-space: nowrap;}
+.IndexSS-2Line1 {}
+.IndexSS-2Line2 {}
+.IndexSS-2LineFirst {border-top: 0px;}
+.IndexSS-2LineLast {}
+.IndexSSAdmin {background-color: #fffedc;}
+.IndexSSInnerTable {margin-bottom: 4px; border: 1px solid #D6D0BB; background-color: #FFFFFF; }
+.IndexSSTitle {margin-bottom: 1px; background-color: #F6F1E2; padding: 4px; padding-left: 8px; padding-right: 8px; font-size: 14px; font-weight: bold;}
+.IndexSSSubTitle {font-weight: bold;}
+.IndexSSText {padding: 8px;}
+.IndexSSContinue {text-align: right;}
+.IndexSSPhoto {padding: 4px;}
+.IndexSSPhotoCaption {color: #999999;}
+.DIVSubDeptDescription-OuterBox {border: 1px solid #27445F; border-bottom: 0px;}
+.DIVSubDeptDescription-InnerBox {border: 1px solid #EFEFEF; border-bottom: 0px;}
+.DIVSubDeptDescription-DEPT1 {background-color: #B0CBE4; font-weight: bold; color: #FFFFFF;}
+.DIVSubDeptDescription-DEPT2 {background-color: #D0E2F2; font-weight: bold; color: #516D88;}
+.DIVSubDeptDescription-SUBDEPT1 {background-color: #C0D8ED; font-weight: bold; color: #FFFFFF;}
+.DIVSubDeptDescription-SUBDEPT2 {background-color: #DEEAF5; font-weight: bold; color: #6683A0;}
+.DIVAdminCenter-OuterBox {margin-bottom: 12px; border: 1px solid #27445F; border-top: 0px; background-color: #EFEFEF; padding: 1px;}
+.DIVAdminCenter-InnerBox {border: 1px solid #88A3BC; background-color: #ADBFD0;}
+.DIVNewCenterArticle {padding: 8px; text-align: center;}
+.DIVNewCenterElement {border-left: 1px solid #D1DFED; background-color: #ADBFD0; padding: 8px; text-align: center;}
+.DIVAdminSide-OuterBox {border: 1px solid #27445F; background-color: #516D88;}
+.DIVAdminSide-InnerBox {}
+.DIVNewSideArticle {padding: 2px; text-align: center;}
+.DIVNewSideElement {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSideOutsideLink {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSubDepartment {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVMainAdmin-WW {border: 1px solid #90B1D0; background-color: #D0E2F2;}
+.DIVMainAdmin-WW table {padding-left: 16px;}
+.DIVMainAdmin-WW td {padding: 4px;}
+.DIVMainAdmin-WW div {border-left: 1px solid #FFFFFF; padding: 6px; background-color: #E4EEF7;}
+.DIVMainAdmin-WW input {border: 1px solid #ADBFD0;}
+.DIVMainAdmin-PE {border: 1px solid #90A090; background-color: #D0E0D0;}
+.DIVMainAdmin-PE table {padding-left: 16px;}
+.DIVMainAdmin-PE td {padding: 4px;}
+.DIVMainAdmin-PE div {border-left: 1px solid #FFFFFF; padding: 6px; background-color: #E0F0E0;}
+.DIVMainAdmin-PE input {border: 1px solid #A0B0A0;}
+.DIVMainAdmin-Submit {border: 1px solid #27445F; background-color: #ADBFD0;}
+.DIVSideBar-Admin {margin-top: 4px; margin-bottom: 2px; border: 1px solid #FFFFFF; background-color: #D0E2F2;}
+.DIVSideBar-Admin table {padding-left: 8px;}
+.DIVSideBar-Admin td {padding-left: 4px; padding-top: 2px; padding-right: 4px; padding-bottom: 2px;}
+.DIVSideBar-Admin div {border-left: 1px solid #FFFFFF; padding: 4px; background-color: #E4EEF7;}
+.DIVSideBar-Admin input {border: 1px solid #ADBFD0;}
+.DIVSideBar-Submit {border: 1px solid #27445F; background-color: #516D88; padding: 4px; text-align: center;}
+.indexDIVArticleBox-OuterBox {width: 440px; height: 500px; margin-right: 1px; overflow: hidden;}
+.indexDIVArticleBox-InnerBox1 {height: 100%; border: 1px solid #EFEFEF;}
+.indexDIVArticleBox-InnerBox2 {height: 100%; border: 1px solid #FFFFFF;}
+.indexDIVArticleBox-Caption {background-color: #000000; padding: 3px; padding-right: 8px; text-align: right; color: #AFAFAF; }
+.indexDIVArticleBox-Title {border: 1px solid #C0B296; background-color: #E3D7C0;}
+.indexDIVArticleBox-Headline {padding-left: 4px; padding-top: 2px; font-size: 18px; font-weight: bold;}
+.indexDIVArticleBox-SubHeadline {padding-left: 10px; padding-bottom: 4px;}
+.indexDIVArticleBox-Text {height: 100%; margin-top: 1px; border: 1px solid #E5DDCE; background-color: #FFF9ED; padding-left: 9px; padding-top: 2px; padding-right: 9px; padding-bottom: 4px; color: #413D36;}
+.indexDIVArticleBox-Links {width: 440px; margin-right: 1px; border: 1px solid #E0E0E0; background-color: #EFEFEF; padding: 1px;}
+.indexDIVArticleBox-LinksART {margin-left: 2px; margin-right: 2px; padding: 2px; font-weight: bold;}
+.indexDIVArticleBox-LinksNUM {margin: 1px; border: 1px solid #AFD0E5; background-color: #DEEDF7; padding-left: 4px; padding-top: 1px; padding-right: 4px; padding-bottom: 1px;}
+.indexDIVL2-OuterBox {margin-left: 0px; margin-right: 0px; overflow: hidden;}
+.indexDIVL2-InnerBox {margin-left: 0px; margin-right: 0px;}
+.indexDIVL2-2Line {margin-left: 0px; margin-right: 0px; border-top: 1px solid #ffffff; border-bottom: 1px solid #999999; padding: 4px; padding-left: 8px; font-weight: bold;}
+.indexDIVL2-2Line a:link {color: #000066; text-decoration: none;}
+.indexDIVL2-2Line a:hover {color: #0808ff; text-decoration: none;}
+.indexDIVL2-2Line a:active {color: #000066; text-decoration: none;}
+.indexDIVL2-2Line a:visited {color: #000066; text-decoration: none;}
+.indexDIVL2-2LineP {color: #C00000;}
+.indexDIVL2-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVL2-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVL2-Empty {}
+.indexDIVL3-OuterBox {height: 500px; margin-left: 1px; margin-right: 1px; overflow: hidden;}
+.indexDIVL3-InnerBox {height: 100%;}
+.indexDIVL3-2Line {margin-left: 1px; margin-right: 1px; border-bottom: 1px dotted #CCCCCC; padding: 4px; padding-left: 24px; font-weight: bold;}
+.indexDIVL3-2Line a:link {color: #3A76B2; text-decoration: none;}
+.indexDIVL3-2Line a:hover {color: #113E6A; text-decoration: none;}
+.indexDIVL3-2Line a:active {color: #113E6A; text-decoration: none;}
+.indexDIVL3-2Line a:visited {color: #113E6A; text-decoration: none;}
+.indexDIVL3-2LineP {color: #C00000;}
+.indexDIVL3-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVL3-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVL3-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVL3-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVL3-5BkHd {margin-left: 1px; margin-right: 1px; border-bottom: 1px dotted #CCCCCC; padding: 4px; padding-left: 8px; font-weight: bold;}
+.indexDIVL3-5BkHd a:link {color: #3A76B2; text-decoration: none;}
+.indexDIVL3-5BkHd a:hover {color: #113E6A; text-decoration: none;}
+.indexDIVL3-5BkHd a:active {color: #113E6A; text-decoration: none;}
+.indexDIVL3-5BkHd a:visited {color: #113E6A; text-decoration: none;}
+.indexDIVL3-Empty {}
+.indexDIVCalendar-OuterBox {margin-left: 1px; margin-right: 2px; margin-bottom: 2px; border: 1px solid #135035;}
+.indexDIVCalendar-InnerBox {height: 120px; border: 1px solid #D1FFEB; background-color: #96CDB5; padding-right: 1px; overflow: auto; scrollbar-face-color: #96EAC6; scrollbar-shadow-color: #96EAC6; scrollbar-highlight-color: #96EAC6; scrollbar-3dlight-color: #3BA175; scrollbar-darkshadow-color: #3BA175; scrollbar-track-color: #A1D7BF; scrollbar-arrow-color: #3BA175;}
+.indexDIVCalendar-2Line {margin-left: 1px; margin-right: 1px; border-top: 1px dotted #74B699; padding: 4px; padding-left: 20px; color: #094936;}
+.indexDIVCalendar-Title {}
+.indexDIVCalendar-Event {font-weight: bold;}
+.indexDIVCalendar-2Line a:link {color: #094936;}
+.indexDIVCalendar-2Line a:hover {color: #1E332D; text-decoration: none;}
+.indexDIVCalendar-2Line a:active {color: #1E332D; text-decoration: none;}
+.indexDIVCalendar-2Line a:visited {color: #1E332D; text-decoration: none;}
+.indexDIVCalendar-Empty {}
+.indexDIVL2Links-OuterBox {margin-left: 1px; margin-right: 2px; border: 1px solid #25507A; overflow: auto;}
+.indexDIVL2Links-InnerBox {border: 1px solid #E5F3FF; background-color: #B0CBE4;}
+.indexDIVL2Links-2Line {margin-left: 1px; margin-right: 1px; border-top: 1px dotted #7D9EBF; padding: 4px; padding-left: 16px;}
+.indexDIVL2Links-2Line a {color: #00478C;}
+.indexDIVL2Links-5BkHd {padding-left: 4px; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-style: bold; font-weight: bold; font-variant: normal; text-transform: none;}
+.indexDIVSideBar-OuterBox {margin-left: 1px; margin-right: 2px; border: 1px solid #25507A; background-color: #B0CBE4;}
+.indexDIVSideBar-InnerBox {height: 342px; border: 1px solid #E5F3FF; padding-right: 1px; overflow: auto; scrollbar-face-color: #A5D2FF; scrollbar-shadow-color: #A5D2FF; scrollbar-highlight-color: #A5D2FF; scrollbar-3dlight-color: #5E8EBE; scrollbar-darkshadow-color: #5E8EBE; scrollbar-track-color: #BBD4EB; scrollbar-arrow-color: #5E8EBE;}
+.indexDIVSideBar-2Line {margin-left: 1px; margin-right: 1px; border-top: 1px dotted #7D9EBF; padding: 4px; padding-right: 1px;}
+.indexDIVSideBar-2Line ul {margin: 0px; margin-left: 15px; padding: 0px; list-style-type: square; color: #90B1D0;}
+.indexDIVSideBar-2Line a:link {color: #3A76B2;}
+.indexDIVSideBar-2Line a:hover {color: #00478C; text-decoration: none;}
+.indexDIVSideBar-2Line a:active {color: #00478C; text-decoration: none;}
+.indexDIVSideBar-2Line a:visited {color: #00478C; text-decoration: none;}
+.indexDIVSideBar-2LineP {color: #C00000;}
+.indexDIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.L2DIVSideBar-OuterBox {margin-left: 1px; border: 1px solid #135035; background-color: #B0CBE4;}
+.L2DIVSideBar-InnerBox {border: 1px solid #E5F3FF;}
+.L2DIVSideBar-2Line {margin-left: 1px; margin-right: 1px; border-top: 1px dotted #7D9EBF; padding: 4px; padding-right: 1px;}
+.L2DIVSideBar-2Line ul {margin: 0px; margin-left: 15px; padding: 0px; list-style-type: square; color: #90B1D0;}
+.L2DIVSideBar-2Line a:link {color: #3A76B2;}
+.L2DIVSideBar-2Line a:hover {color: #00478C; text-decoration: none;}
+.L2DIVSideBar-2Line a:active {color: #00478C; text-decoration: none;}
+.L2DIVSideBar-2Line a:visited {color: #00478C; text-decoration: none;}
+.L2DIVSideBar-2LineP {color: #C00000;}
+.L2DIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+</style>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18097847-51']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+</head>
+<body topmargin="10" leftmargin="0" marginheight="10" marginwidth="0">
+<center>
+<table width="980" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/2008/bg1.gif">
+<tr>
+<td align="left"><img src="http://www.plantationeagles.com/images/2008/home-1-1.gif" width="760" height="32" /></td>
+<td align="right">
+  <table width="220" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  <td><img src="http://www.plantationeagles.com/images/2008/L2-1-2.gif" width="196" height="32" border="0" usemap="#siteLinks" /></td>
+  <td><img src="http://www.plantationeagles.com/common/images/1x1.gif" width="24" height="1" border="0"/><br/>
+<a href="javascript:PrintFriendly()"><script language="JavaScript">function PrintFriendly(){clickpop1=window.open("http://www.plantationeagles.com/scripts/runisa.dll?M2:gp::72103+print/Display+E+155+155+478021","clickpop1","toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=400")}</script><img src="http://www.plantationeagles.com/common/images/icons/16-Print.png" width="16" height="16" border="0"/><br/>
+</a>
+</td>
+  </tr>
+  </table>
+</td></tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/2008/bg2.gif">
+<tr>
+<td align="left">
+  <table width="975" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  <td><a href="/index.html"><img src="http://www.plantationeagles.com/images/2008/home-1-4.gif" width="181" height="105" border="0" /></a></td>
+  <td><img src="http://www.plantationeagles.com/images/2008/home-1-5.gif" width="617" height="105" /></td>
+  <td><img src="http://www.plantationeagles.com/images/2008/home-1-6.gif" width="178" height="105" /></td>
+  </tr>
+  </table>
+</td>
+<td align="right"><img src="http://www.plantationeagles.com/images/2008/home-1-7.gif" width="5" height="105" /></td>
+</tr>
+</table>
+<map name="siteLinks" id="siteLinks"><area shape="rect" coords="17,8,49,21" href="/index.html" /><area shape="rect" coords="67,8,116,21" href="/calendar/index.html" /><area shape="rect" coords="133,8,186,21" href="/sitemap.html" /></map>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td bgcolor="#ffffff"><img src="http://www.plantationeagles.com/common/images/1x1.gif" width="10" height="1" border="0"/></td>
+<td bgcolor="#ffffff"><img src="http://www.plantationeagles.com/common/images/1x1.gif" width="960" height="1" border="0"/><br/>
+<table width="100%" cellpadding="4" cellspacing="4" border="0">
+<tr><td>
+<!---- Begin Main Content ---->
+<div class="addthis_toolbox addthis_default_style"  style="float:right;">
+  <a class="addthis_button_email"></a>
+  <a class="addthis_button_print"></a>
+  <span class="addthis_separator">|</span>
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_google_plusone" g:plusone:count="false"></a>
+  <a class="addthis_button_facebook_like"></a>
+</div>
+<div style="clear:both;"></div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=demosphere"></script>
+<div class="ArticleMainContent">
+  <div class="textlarge ArticleTitle">2014-2015 Team Managers</div>
+  <div class="ArticleTitleSpacer"></div>
+  <div class="ArticleStory"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+	<tbody>
+		<tr>
+			<td style="width: 63.0px; height: 16.0px; background-color: #bec0bf; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 132.0px; height: 15.0px; background-color: #bec0bf; border-style: solid; border-width: 1.0px 1.0px 3.0px 1.0px; border-color: #000000 #000000 #cbcbcb #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 120.0px; height: 15.0px; background-color: #bec0bf; border-style: solid; border-width: 1.0px 1.0px 3.0px 1.0px; border-color: #000000 #000000 #cbcbcb #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 199.0px; height: 15.0px; background-color: #bec0bf; border-style: solid; border-width: 1.0px 1.0px 3.0px 1.0px; border-color: #000000 #000000 #cbcbcb #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 102.0px; height: 15.0px; background-color: #bec0bf; border-style: solid; border-width: 1.0px 1.0px 3.0px 1.0px; border-color: #000000 #000000 #cbcbcb #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><u><b>Team Managers List</b></u></font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><u><b>Girls</b></u></font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U9</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Marsha Avilla</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:abcelmo0215@gmail.com"><u>abcelmo0215@gmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">786-368-9334</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-10</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Rich Kleva</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:richkleva@hotmail.com"><u>richkleva@hotmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-260-4011</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-10</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Taj Marshall</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:taj.marshall@gmail.com"><u>taj.marshall@gmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">646-305-0331</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-10</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Melanie Kennedy</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:kennedymel7@gmail.com"><u>kennedymel7@gmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-804-8065</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U11 Copa</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Peter Finley</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:peter_finley@hotmail.com"><u>peter_finley@hotmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-410-6947</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U11 Predator</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Susan LaVrar</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:slavrar@bellsouth.net"><u>slavrar@bellsouth.net</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-649-2625</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U11</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Erika Medel</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:emedel@wplg.com"><u>emedel@wplg.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-593-4236</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U12</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Sabine Miller</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:sabimill@yahoo.com">sabimill@yahoo.com</a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-305-5877</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U13</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Lora Schemel</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Kcecho3@aol.com</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-401-0819</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U14</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Lisa Cunningham</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">drlisacunningham@yahoo.com</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-579-0727</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U15</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Diana Sheffer</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">dbsheffer@aol.com</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-895-9177</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U16</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U17 Copa</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Laurie Sanfilippo&nbsp;</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">las0418@gmail.com</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-696-7781</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">G-U18 Copa</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Michelle Malone</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:dmmalo1996@att.net"><u>dmmalo1996@att.net</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-224-2850</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">&nbsp;</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">&nbsp;</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">&nbsp;</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">&nbsp;</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><u><b>Boys</b></u></font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U9</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Ayodele Ira Bain</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:ayodelebain@gmail.com"><u>ayodelebain@gmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-263-6491</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U9</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Chris DePalma</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:depalma1199@att.net"><u>depalma1199@att.net</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U10</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Stacey Kashi</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:kashifam@msn.com"><u>kashifam@msn.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-647-6376</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U11</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Lora Schemel</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:kcecho3@aol.com">kcecho3@aol.com</a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-829-3575</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U11</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">James Dolan</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:jdolan.u11b@gmail.com"><u>jdolan.u11b@gmail.com</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-816-5773</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U12</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Jeff Whitney (temp)</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Jeffrey.whitney@att.net</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-540-2127</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U13</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Jeff Whitney</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Jeffrey.whitney@att.net</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-540-2127</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U14&nbsp;</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Bryan O&rsquo;Toole</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">otooleb@bellsouth.net</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-336-7788</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 29.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 35.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U15</font></p>
+			</td>
+			<td style="width: 116.0px; height: 35.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Avi Cohen</font></p>
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Glenn Kipilman</font></p>
+			</td>
+			<td style="width: 195.0px; height: 35.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">cohenavi1@yahoo.com</font></p>
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">tgkip@bellsouth.net</font></p>
+			</td>
+			<td style="width: 98.0px; height: 35.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-993-9623</font></p>
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-993-6325</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U16 Copa</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Allan McDonald</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">mack1892@bellsouth.net&nbsp;&nbsp;</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">786-367-2714</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U16 Predator</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">William Freund</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">wfreund@gbs-global.com</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-342-7938</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U17 Copa</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Leon Elalouf</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Lelalouf@gmail.com</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">305-610-4497</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U17 Predator</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Susan LaVrar</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;"><a href="mailto:slavrar@bellsouth.net"><u>slavrar@bellsouth.net</u></a></font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 0.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-649-2625</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 62.0px; height: 17.0px; background-color: #dcdcdc; border-style: solid; border-width: 1.0px 3.0px 1.0px 1.0px; border-color: #000000 #cbcbcb #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px" valign="top">
+			<p style="margin: 0px; font-size: 12px; font-family: Helvetica; min-height: 14px;">&nbsp;</p>
+			</td>
+			<td style="width: 128.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">B-U18</font></p>
+			</td>
+			<td style="width: 116.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">Wayne McClennon</font></p>
+			</td>
+			<td style="width: 195.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">waynemc2013@gmail.com&nbsp;</font></p>
+			</td>
+			<td style="width: 98.0px; height: 23.0px; border-style: solid; border-width: 3.0px 3.0px 3.0px 3.0px; border-color: #cbcbcb #cbcbcb #cbcbcb #cbcbcb; padding: 0.0px 5.0px 0.0px 5.0px" valign="middle">
+			<p style="margin: 0.0px 0.0px 5.0px 0.0px"><font color="#000000" face="Lucida Grande" style="font-size: 12px; font-family: 'Lucida Grande'; letter-spacing: 0px;">954-465-6401</font></p>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;JQuery;</div>
+ <link rel="stylesheet" href="http://www.plantationeagles.com/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.plantationeagles.com/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.plantationeagles.com/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+<!---- End Main Content ---->
+</td></tr>
+</table>
+</td>
+<td width="10" bgcolor="#ffffff"><img src="http://www.plantationeagles.com/common/images/1x1.gif" width="10" height="1" border="0"/></td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" background="/images/2008/bg3.gif">
+<tr>
+<td align="left"><img src="http://www.plantationeagles.com/images/2008/L3-4-1.gif" width="181" height="9" border="0"/></td>
+<td><img src="http://www.plantationeagles.com/common/images/1x1.gif" width="617" height="1" border="0"/></td>
+<td align="right"><img src="http://www.plantationeagles.com/images/2008/home-4-2.gif" width="183" height="9" border="0"/></td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<td class="textsmall" style="color:#FFFFFF; font-weight:bold;">
+<img src="http://www.plantationeagles.com/common/images/1x1.gif" width="770" height="1" border="0"/><br/>
+&nbsp; &copy; Copyright 2014
+ Plantation Eagles FC. All rights reserved.<br/>
+&nbsp; &copy; Copyright 2014
+ Demosphere International, Inc. All rights reserved.<br/></td>
+<td align="right"><a href="http://www.demosphere.com"><img src="http://www.plantationeagles.com/images/2008/home-5-1.gif" width="210" height="41" border="0"/></a></td>
+</tr>
+</table>
+</td></tr>
+</table>
+<br/><br/>
+</center>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;JQuery;</div>
+</body>
+</html>

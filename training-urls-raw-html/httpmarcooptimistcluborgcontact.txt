@@ -1,0 +1,367 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 9]>             <html class="no-js ie lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#""><![endif]-->
+<!--[if IE 9]>                <html class="no-js ie ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">   <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="no-js no-ie" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">    <!--<![endif]-->
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/js/selectivizr.min.js"></script>
+		<![endif]-->
+		<title>Contact - Optimist Club of Marco Island - Soccer Club</title>
+		<meta property="og:site_name" content="Optimist Club of Marco Island - Soccer Club" /><meta property="og:title" content="Contact - Optimist Club of Marco Island - Soccer Club" /><meta property="og:locale" content="en_US" /><meta property="og:url" content="http://marcooptimistclub.org/contact/" /><meta property="og:description" content="Meghan Bonos - Program Director  Lyndsi Koszo - Program Director  Tom Bonos - Recreational Soccer  Patric Baldwin - Competitive Soccer  Adam Koszo - Marketing  Adam Campkin - Marketing You can complete our form We will do our best to get back t [...]" /><meta property="og:image" content="http://optimistsoccer.com/wp-content/uploads/2014/08/patch-small21.png" />
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://marcooptimistclub.org/contact/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Contact - Optimist Club of Marco Island - Soccer Club" />
+<meta property="og:url" content="http://marcooptimistclub.org/contact/" />
+<meta property="og:site_name" content="Optimist Club of Marco Island - Soccer Club" />
+<meta property="article:publisher" content="https://www.facebook.com/marcooptimistclub" />
+<meta property="fb:admins" content="1370690522" />
+<meta property="og:image" content="http://marcooptimistclub.org/wp-content/uploads/2013/07/meghan.jpg" />
+<meta property="og:image" content="http://marcooptimistclub.org/wp-content/uploads/2014/08/lyndsi.jpg" />
+<meta property="og:image" content="http://marcooptimistclub.org/wp-content/uploads/2013/09/tom.jpg" />
+<meta property="og:image" content="http://marcooptimistclub.org/wp-content/uploads/2014/08/patric.jpg" />
+<meta property="og:image" content="http://marcooptimistclub.org/wp-content/uploads/2013/07/AdamK.jpg" />
+<meta property="og:image" content="http://marcooptimistclub.org/wp-content/uploads/2014/08/AdamC.jpg" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='wild-googlemap-frontend-css'  href='http://marcooptimistclub.org/wp-content/plugins/wild-googlemap/wild-googlemap-css-frontend.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfb-css'  href='http://optimistsoccer.com/wp-content/plugins/wp-filebase/wp-filebase.css?ver=0.3.0.06' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://marcooptimistclub.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdonations-frontend-css'  href='http://marcooptimistclub.org/wp-content/plugins/donation/assets/css/frontend.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://marcooptimistclub.org/wp-includes/css/dashicons.min.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspress-general-css'  href='//marcooptimistclub.org/wp-content/plugins/sportspress/assets/css/sportspress.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='time-3rd-party-css'  href='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/css/3rd-party.min.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='time-style-css'  href='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/css/style.min.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='time-scheme-css'  href='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/css/bright.min.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='time-stylesheet-css'  href='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/style.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='time-mobile-css'  href='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/css/mobile.min.css?ver=3.9.3' type='text/css' media='only screen and (max-width: 767px)' />
+<link rel='stylesheet' id='jq_ui_css-css'  href='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/css/jquery-ui-1.8.16.custom.css?ver=1.8.16' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/css/custom.css?ver=1.0.4' type='text/css' media='all' />
+<style type="text/css"> /* SportsPress Frontend CSS */ .sp-event-calendar tbody td a,.sp-event-calendar tbody td a:hover{background: none;}.sp-data-table th,.sp-calendar th,.sp-data-table tfoot,.sp-calendar tfoot,.sp-button,.sp-heading{background:#364c74 !important}.sp-data-table tbody a,.sp-calendar tbody a{color:#364c74 !important}.sp-data-table tbody,.sp-calendar tbody{background: #f4f4f4 !important}.sp-data-table tbody,.sp-calendar tbody{color: #363f48 !important}.sp-data-table th,.sp-data-table th a,.sp-data-table tfoot,.sp-data-table tfoot a,.sp-calendar th,.sp-calendar th a,.sp-calendar tfoot,.sp-calendar tfoot a,.sp-button,.sp-heading{color: #ffffff !important}.sp-data-table tbody a,.sp-data-table tbody a:hover,.sp-calendar tbody a:focus{color: #00a69c !important}.sp-highlight,.sp-calendar td#today{background: #ffffff !important}</style><script type='text/javascript' src='http://marcooptimistclub.org/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;ver=3.9.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/wild-googlemap/wild-googlemap-js.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/wild-googlemap/wild-googlemap-js-frontend.js?ver=3.9.3'></script>
+<meta name="generator" content="WordPress 3.9.3" />
+<meta name="generator" content="SportsPress 1.5" />
+<link rel="shortcut icon" href="http://optimistsoccer.com/wp-content/uploads/2014/08/patch-small21.png" /><style>a, a.alt:hover, .alt a:hover, #bottom a.alt:hover, #bottom .alt a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, input[type="button"].active, button.active, .button.active, .color, .super-tabs > div > .nav h2 span, .toggles > div > h3:hover > i, .logo, nav a:hover, #bottom nav a:hover, nav .current > a, nav .current>a:hover{color:#1271FF}mark, .slider .control-nav li a:hover, .slider .control-nav li a.active, #top:before, #top > .before, .background-color, nav.mobile a:hover, nav.mobile .current > a, .mejs-controls .mejs-time-rail .mejs-time-loaded, .mejs-controls .mejs-time-rail .mejs-time-current{background-color:#1271FF}.zoom-hover>.zoom-hover-overlay{background-color:rgba(18, 113, 255, 0.75)}blockquote.bar, .sticky:before, #bottom .outer-container{border-color:#1271FF}</style>
+<script>timeConfig={templatePath:'http://marcooptimistclub.org/wp-content/themes/optimistsoccer',zoomHoverIcons:{"default":"icon-plus-circled","image":"icon-search","mail":"icon-mail","title":"icon-right"},flexsliderOptions:{"animation":"slide","direction":"horizontal","animationSpeed":600,"slideshowSpeed":7000,"slideshow":false},layersliderOptions:{}};(function($){$(document).ready(function($){$('.widget_pages, .widget_archive, .widget_categories, .widget_recent_entries, .widget_recent_comments, .widget_display_forums, .widget_display_replies, .widget_display_topics, .widget_display_views').each(function(){$('ul',this).addClass('fancy alt');$('li',this).prepend($('<i />',{'class':'icon-right-open'}));if($(this).closest('#top').length>0){$('i',this).addClass('color');}});$('#top .widget_meta > ul').wrap('<nav class="aside arrows" />');});})(jQuery);</script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4834506-31', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>	</head>
+
+	<body class="time-2-5-1 page page-id-703 page-template page-template-custom-page-php layout-boxed scheme-bright rand-integer-38-38">
+
+		<div id="top" class="fixed">
+
+			
+	<div class="backgrounds"></div>
+
+			<div class="upper-container fixed">
+
+			  <div class="outer-container">
+
+											<nav id="menu" class="mobile">
+							<ul id="menu-main" class=""><li id="menu-item-5270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5270"><a href="#">Basketball</a>
+<ul class="sub-menu">
+	<li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="http://marcooptimistclub.org/basketball-program/">Registration</a></li>
+</ul>
+</li>
+<li id="menu-item-5272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5272"><a href="http://marcooptimistclub.org/marco-island-soccer-program/">Soccer</a>
+<ul class="sub-menu">
+	<li id="menu-item-4025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4025"><a href="#">Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5343"><a href="http://marcooptimistclub.org/spring-break-5-days-soccer-clinic/">Spring Break 5 Days Soccer Clinic</a></li>
+		<li id="menu-item-5344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5344"><a href="http://marcooptimistclub.org/marco-island-soccer-program/">Spring Soccer</a></li>
+		<li id="menu-item-4029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4029"><a href="http://marcooptimistclub.org/soccer-clinics-kick-arounds/">Soccer Clinics / Kick-Arounds</a></li>
+		<li id="menu-item-4028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4028"><a href="http://marcooptimistclub.org/recreational-soccer-program/">Recreational Soccer</a></li>
+		<li id="menu-item-4027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4027"><a href="http://marcooptimistclub.org/recreational-travel-program/">Recreational Travel Soccer</a></li>
+		<li id="menu-item-4026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4026"><a href="http://marcooptimistclub.org/competitive-soccer/">Competitive Soccer</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4135"><a href="#">Registration</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4136"><a href="http://marcooptimistclub.org/free-clinic-sign-up/">Free Clinic</a></li>
+		<li id="menu-item-4137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4137"><a href="http://marcooptimistclub.org/registration/">Rec Soccer</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3850"><a href="http://marcooptimistclub.org/events/">Calendar</a></li>
+<li id="menu-item-4367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4367"><a href="#">Photos</a>
+<ul class="sub-menu">
+	<li id="menu-item-4368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4368"><a href="http://optimistsoccer.com/gallery/adrenaline-soccer-clinic/">Adrenaline Clinic</a></li>
+	<li id="menu-item-4456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4456"><a href="http://optimistsoccer.com/gallery/fgcu-clinic/">FGCU Clinic</a></li>
+	<li id="menu-item-4614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4614"><a href="http://optimistsoccer.com/gallery/optimist-clinic/">Optimist Clinic</a></li>
+</ul>
+</li>
+<li id="menu-item-4576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4576"><a href="http://marcooptimistclub.org/for-parents/">For Parents</a></li>
+<li id="menu-item-3852" class="menu-item menu-item-type-post_type menu-item-object-page current current-menu-item page_item page-item-703 current current_page_item menu-item-3852"><a href="http://marcooptimistclub.org/contact/">Contact</a></li>
+</ul>						</nav>
+					
+					
+				</div>
+
+				<div class="outer-container ">
+
+					<header class="header">
+
+						<div class="container">
+
+							<div class="mobile-helper vertical-align">
+
+																	<a href="#menu" class="button" title="Menu"><i class="icon-menu"></i></a>
+								
+								
+								
+							</div>
+
+							
+							<h1 class="logo vertical-align"><a href="http://marcooptimistclub.org/" title="Optimist Club of Marco Island &#8211; Soccer Club" rel="home"><img src="http://marcooptimistclub.org/wp-content/uploads/2015/01/marco-island-soccer.png" width="244" height="150" alt="Optimist Club of Marco Island &#8211; Soccer Club" /></a></h1>
+															<nav class="primary vertical-align">
+									<ul id="menu-main-1" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5270"><a href="#">Basketball</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="http://marcooptimistclub.org/basketball-program/">Registration</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5272"><a href="http://marcooptimistclub.org/marco-island-soccer-program/">Soccer</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4025"><a href="#">Programs</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5343"><a href="http://marcooptimistclub.org/spring-break-5-days-soccer-clinic/">Spring Break 5 Days Soccer Clinic</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5344"><a href="http://marcooptimistclub.org/marco-island-soccer-program/">Spring Soccer</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4029"><a href="http://marcooptimistclub.org/soccer-clinics-kick-arounds/">Soccer Clinics / Kick-Arounds</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4028"><a href="http://marcooptimistclub.org/recreational-soccer-program/">Recreational Soccer</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4027"><a href="http://marcooptimistclub.org/recreational-travel-program/">Recreational Travel Soccer</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4026"><a href="http://marcooptimistclub.org/competitive-soccer/">Competitive Soccer</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4135"><a href="#">Registration</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4136"><a href="http://marcooptimistclub.org/free-clinic-sign-up/">Free Clinic</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4137"><a href="http://marcooptimistclub.org/registration/">Rec Soccer</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3850"><a href="http://marcooptimistclub.org/events/">Calendar</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4367"><a href="#">Photos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4368"><a href="http://optimistsoccer.com/gallery/adrenaline-soccer-clinic/">Adrenaline Clinic</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4456"><a href="http://optimistsoccer.com/gallery/fgcu-clinic/">FGCU Clinic</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4614"><a href="http://optimistsoccer.com/gallery/optimist-clinic/">Optimist Clinic</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4576"><a href="http://marcooptimistclub.org/for-parents/">For Parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current current-menu-item page_item page-item-703 current current_page_item menu-item-3852"><a href="http://marcooptimistclub.org/contact/">Contact</a></li>
+</ul>								</nav>
+							
+						</div>
+
+					</header>
+
+					
+	<nav class="secondary">
+		<div class="container">
+					</div>
+	</nav>
+
+				</div>
+
+			</div>
+
+			
+			
+
+
+		<div class="outer-container">
+		
+		<div class="content"><div class="container"><div class="main alpha" style="padding: 0 240px 0 0px; margin: 0 -240px 0 -0px;">
+<div class="columns"><ul>
+<li class="col-1-3">
+<figure id="attachment_704" class="featured size-small-width wp-image-704 alignnone" style="width: 364px;"><a class="zoom-hover fb" href="mailto:marcooptimistsoccer@gmail.com"><img  src="http://marcooptimistclub.org/wp-content/uploads/2013/07/meghan.jpg" alt="Contact Meghan" width="364" height="165" /></a></figure>
+<h3>Meghan Bonos &#8211; Program Director</h3>
+</li>
+<li class="col-1-3">
+<figure id="attachment_705" class="featured size-small-width wp-image-705 alignnone" style="width: 364px;"><a class="zoom-hover fb" href="mailto:marcooptimistsoccer@gmail.com"><img  src="http://marcooptimistclub.org/wp-content/uploads/2014/08/lyndsi.jpg" alt="Contact Lyndsi" width="364" height="165" /></a></figure>
+<h3>Lyndsi Koszo &#8211; Program Director</h3>
+</li>
+<li class="col-1-3">
+<figure id="attachment_705" class="featured size-small-width wp-image-705 alignnone" style="width: 364px;"><a class="zoom-hover fb" href="mailto:marcooptimistsoccer@gmail.com"><img  src="http://marcooptimistclub.org/wp-content/uploads/2013/09/tom.jpg" alt="Contact Tom" width="364" height="165" /></a></figure>
+<h3>Tom Bonos &#8211; Recreational Soccer</h3>
+</li>
+<li class="col-1-3">
+<figure id="attachment_707" class="featured size-small-width wp-image-707 alignnone" style="width: 364px;"><a class="zoom-hover fb" href="mailto:marcooptimistsoccer@gmail.com"><img  src="http://marcooptimistclub.org/wp-content/uploads/2014/08/patric.jpg" alt="contact-4" width="364" height="165" /></a></figure>
+<h3>Patric Baldwin &#8211; Competitive Soccer</h3>
+</li>
+<li class="col-1-3">
+<figure id="attachment_708" class="featured size-small-width wp-image-708 alignnone" style="width: 364px;"><a class="zoom-hover fb" href="mailto:marcooptimistsoccer@gmail.com"><img  src="http://marcooptimistclub.org/wp-content/uploads/2013/07/AdamK.jpg" alt="contact-5" width="364" height="165" /></a></figure>
+<h3>Adam Koszo &#8211; Marketing</h3>
+</li>
+<li class="col-1-3">
+<figure id="attachment_709" class="featured size-small-width wp-image-709 alignnone" style="width: 364px;"><a class="zoom-hover fb" href="mailto:marcooptimistsoccer@gmail.com"><img  src="http://marcooptimistclub.org/wp-content/uploads/2014/08/AdamC.jpg" alt="contact-6" width="364" height="165" /></a></figure>
+<h3>Adam Campkin &#8211; Marketing</h3>
+</li>
+</ul></div>
+<section class="section">
+<div class="columns"><ul>
+<li class="col-3-5">
+<h3>You can complete our form</h3>
+<div class="wpcf7" id="wpcf7-f5-p703-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form name="" action="/contact/#wpcf7-f5-p703-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5" />
+<input type="hidden" name="_wpcf7_version" value="4.0.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-p703-o1" />
+<input type="hidden" name="_wpnonce" value="cecc2f121c" />
+</div>
+<p>Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Subject<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </p>
+<p>Your Message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+<p><i style="color: #000000;">We will do our best to get back to you within 24 hours.  If you do not hear from us promptly, we sincerely apologize.  Please feel free to send us another email.  Thank you!</i></p>
+</li>
+<li class="col-2-5">
+</li>
+</ul></div>
+</section>
+
+
+
+	<section class="section">		<ul class="meta social">
+			<li><div class="fb-like" data-href="http://marcooptimistclub.org/contact/" data-send="false" data-layout="button_count" data-show-faces="false"></div></li><li><a class="twitter-share-button" href="https://twitter.com/share" data-url="http://marcooptimistclub.org/contact/" data-text="Contact" data-count="horizontal">Tweet</a></li><li><div class="g-plusone" data-href="http://marcooptimistclub.org/contact/" data-size="medium" data-annotation="bubble"></div></li><li><script class="inshare" type="IN/Share" data-url="http://marcooptimistclub.org/contact/" data-counter="right" data-showzero="true"></script></li><li><a data-pin-config="beside" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmarcooptimistclub.org%2Fcontact%2F&amp;media=&amp;description=Contact" data-pin-do="buttonPin"><img src="http://assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></li>		</ul>
+	</section>
+</div><aside class="aside beta" style="width: 240px;"><section id="time-unwrapped-text-3" class="section widget widget-unwrapped-text"><img name="" src="http://metroeasthealthandwellness.com/optimistsoccer/wp-content/uploads/2014/08/optimist-fysa.jpg" width="200" height="215" alt="Optimist Club of Marco Island - Soccer Program" longdesc="Optimist Club of Marco Island - Soccer Club" /></section><section id="time-posts-list-2" class="section widget widget-posts-list"><h2 class="title">Latest News</h2><ul class="posts-list"><li><figure class="alignleft fixed"><a class="inset-border fb" href="http://marcooptimistclub.org/risk-management/"><img width="48" height="48" src="http://marcooptimistclub.org/wp-content/uploads/2014/09/risk-management1-48x48.jpg" class="attachment-post-thumbnail-mini wp-post-image" alt="Optimist Club of Marco Island Soccer" data-2x="http://marcooptimistclub.org/wp-content/uploads/2014/09/risk-management1-96x96.jpg" /></a></figure><h3><a href="http://marcooptimistclub.org/risk-management/" title="Risk Management">Risk Management</a></h3></li><li><figure class="alignleft fixed"><a class="inset-border fb" href="http://marcooptimistclub.org/sports-injuries/"><img width="48" height="48" src="http://marcooptimistclub.org/wp-content/uploads/2014/09/sport-injuries-48x48.jpg" class="attachment-post-thumbnail-mini wp-post-image" alt="Sport Injuries" data-2x="http://marcooptimistclub.org/wp-content/uploads/2014/09/sport-injuries-96x96.jpg" /></a></figure><h3><a href="http://marcooptimistclub.org/sports-injuries/" title="Sports Injuries">Sports Injuries</a></h3></li><li><figure class="alignleft fixed"><a class="inset-border fb" href="http://marcooptimistclub.org/printable-calendar/"><img width="48" height="48" src="http://marcooptimistclub.org/wp-content/uploads/2014/09/calendar2-48x48.jpg" class="attachment-post-thumbnail-mini wp-post-image" alt="Optimist Club of Marco Island Soccer Program" data-2x="http://marcooptimistclub.org/wp-content/uploads/2014/09/calendar2-96x96.jpg" /></a></figure><h3><a href="http://marcooptimistclub.org/printable-calendar/" title="Printable Calendar">Printable Calendar</a></h3></li></ul></section><section id="time-unwrapped-text-2" class="section widget widget-unwrapped-text"><h2 class="title">Upcoming Event</h2><style>.cat1,.cat1 .fc-event-skin,.fc-agenda .cat1,a.cat1,a.cat1:active,a.cat1:visited{color:#FFFFFF !important;background-color:#4b77cf !important;border-color:#4b77cf !important}
+a.cat1:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#4b77cf !important;border-color:#FFFFFF !important}
+.cat2,.cat2 .fc-event-skin,.fc-agenda .cat2,a.cat2,a.cat2:active,a.cat2:visited{color:#FFFFFF !important;background-color:#ff4a03 !important;border-color:#ff4a03 !important}
+a.cat2:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#ff4a03 !important;border-color:#FFFFFF !important}
+.cat3,.cat3 .fc-event-skin,.fc-agenda .cat3,a.cat3,a.cat3:active,a.cat3:visited{color:#FFFFFF !important;background-color:#009448 !important;border-color:#009448 !important}
+a.cat3:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#009448 !important;border-color:#FFFFFF !important}
+.cat4,.cat4 .fc-event-skin,.fc-agenda .cat4,a.cat4,a.cat4:active,a.cat4:visited{color:#FFFFFF !important;background-color:#940076 !important;border-color:#940076 !important}
+a.cat4:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#940076 !important;border-color:#FFFFFF !important}
+.cat5,.cat5 .fc-event-skin,.fc-agenda .cat5,a.cat5,a.cat5:active,a.cat5:visited{color:#FFFFFF !important;background-color:#000594 !important;border-color:#000594 !important}
+a.cat5:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#000594 !important;border-color:#FFFFFF !important}
+</style><ul class='aec-eventlist'><li>No upcoming events</li></ul>
+<span class='aec-credit'>AEC v1.0.4</span>
+</section></aside></div></div>
+	</div>
+
+
+		</div>
+
+		<div id="bottom">
+
+			
+<div class="outer-container">
+
+	
+		<div class="container">
+
+			<section class="section">
+
+				<div class="columns alt-mobile">
+					<ul>
+													<li class="col-1-4">
+								<div id="time-contact-2" class="widget widget-contact"><h2 class="title">Contact Us</h2><form action="http://marcooptimistclub.org/wp-admin/admin-ajax.php" method="post" class="contact-form"><input type="hidden" name="action" value="time_contact_form" /><p><input type="text" name="name" placeholder="name*" /></p><p><input type="text" name="email" placeholder="e-mail*" /></p><p><input type="text" name="subject" placeholder="subject" /></p><p><textarea class="full-width" name="message"></textarea></p><p><input type="submit" value="Send&nbsp;&rsaquo;" /><i class="icon-arrows-ccw load"></i><span class="msg small"></span></p></form></div>							</li>
+													<li class="col-1-4">
+								<div id="time-social-media-2" class="widget widget-social-media"><h2 class="title">Social Connect</h2><div class="social-icons"><ul class="alt"><li><a href="https://www.facebook.com/marcooptimistclub" title="Facebook" class="tipsy-tooltip" data-tipsy-tooltip-gravity="e" target="_blank"><i class="icon-facebook-circled"></i></a></li><li><a href="https://twitter.com/OCMISoccer" title="Twitter" class="tipsy-tooltip" data-tipsy-tooltip-gravity="e" target="_blank"><i class="icon-twitter-circled"></i></a></li><li><a href="http://instagram.com/optimistsoccer" title="Instagram" class="tipsy-tooltip" data-tipsy-tooltip-gravity="e" target="_blank"><i class="icon-instagram-filled"></i></a></li></ul></div></div>							</li>
+													<li class="col-1-4">
+								<div id="time-unwrapped-text-4" class="widget widget-unwrapped-text"><h2 class="title">Upcoming Events</h2><style>.cat1,.cat1 .fc-event-skin,.fc-agenda .cat1,a.cat1,a.cat1:active,a.cat1:visited{color:#FFFFFF !important;background-color:#4b77cf !important;border-color:#4b77cf !important}
+a.cat1:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#4b77cf !important;border-color:#FFFFFF !important}
+.cat2,.cat2 .fc-event-skin,.fc-agenda .cat2,a.cat2,a.cat2:active,a.cat2:visited{color:#FFFFFF !important;background-color:#ff4a03 !important;border-color:#ff4a03 !important}
+a.cat2:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#ff4a03 !important;border-color:#FFFFFF !important}
+.cat3,.cat3 .fc-event-skin,.fc-agenda .cat3,a.cat3,a.cat3:active,a.cat3:visited{color:#FFFFFF !important;background-color:#009448 !important;border-color:#009448 !important}
+a.cat3:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#009448 !important;border-color:#FFFFFF !important}
+.cat4,.cat4 .fc-event-skin,.fc-agenda .cat4,a.cat4,a.cat4:active,a.cat4:visited{color:#FFFFFF !important;background-color:#940076 !important;border-color:#940076 !important}
+a.cat4:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#940076 !important;border-color:#FFFFFF !important}
+.cat5,.cat5 .fc-event-skin,.fc-agenda .cat5,a.cat5,a.cat5:active,a.cat5:visited{color:#FFFFFF !important;background-color:#000594 !important;border-color:#000594 !important}
+a.cat5:hover{-moz-box-shadow:0 0 2px #000;-webkit-box-shadow:0 0 2px #000;box-shadow:0 0 2px #000;color:#FFFFFF !important;background-color:#000594 !important;border-color:#FFFFFF !important}
+</style><ul class='aec-eventlist'><li>No upcoming events</li></ul>
+<span class='aec-credit'>AEC v1.0.4</span>
+</div>							</li>
+													<li class="col-1-4">
+								<div id="time-unwrapped-text-5" class="widget widget-unwrapped-text"><h2 class="title">Where We Practice?</h2>
+<div class="gmap_call" data-id="gmap_2" data-class="" data-lat="25.9291" data-lng="-81.7129" data-zoom="13" data-mapTypeId="ROADMAP" data-mapTypeControl="true" data-streetViewControl="true" data-zoomControl="true" data-panControl="true" data-scaleControl="false" data-overviewMapControl="false" data-draggable="true" data-scrollwheel="true" data-styles="[]" data-markers="1" data-marker0-lat="25.929134" data-marker0-lng="-81.71286399999997" data-marker0-title="Frank E. Mackle Community Park" data-marker0-icon="http://marcooptimistclub.org/wp-content/plugins/wild-googlemap/icons/default.png" data-marker0-shadow="http://marcooptimistclub.org/wp-content/plugins/wild-googlemap/icons/default.shadow.png" data-marker0-behaviour="1" data-marker0-content="&lt;div class='gmap_infowindow'&gt;&lt;p class='gmap_name'&gt;&lt;strong&gt;Frank E. Mackle Community Park&lt;/strong&gt;&lt;/p&gt;&lt;p class='gmap_description'&gt;1361 Andalusia Terrace. Marco Island, FL 34135&lt;/p&gt;&lt;p class='gmap_directions'&gt;&lt;a href='https://maps.google.com/?daddr=Frank+E.+Mackle+Community+Park%4025.929134,-81.71286399999997' target='_blank'&gt;Get directions&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;" ></div>
+<div id="gmap_2" class="gmap " style="width:100%;height:200px"></div></div>							</li>
+											</ul>
+				</div><!-- // .columns -->
+
+			</section>
+
+		</div><!-- // .container -->
+
+	
+</div><!-- // .outer-container -->
+							<footer class="footer">
+
+					<div class="container">
+
+						<div class="section">
+							<p class="small alpha">&copy; Copyright 2014 Optimist Club of Marco Island | All Rights Reserved</p>
+							<p class="small beta"><a href="http://optimistsoccer.com/privacy-policy/">Privacy Policy</a> |  <a href="http://optimistsoccer.com/childrens-privacy">Children's Privacy</a> | <a href="http://optimistsoccer.com/terms-conditions/">Terms and Conditions </a></p>
+						</div>
+
+					</div>
+
+				</footer>
+			
+		</div>
+
+		<script type='text/javascript' src='http://marcooptimistclub.org/wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/marcooptimistclub.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/sportspress/assets/js/jquery.dataTables.min.js?ver=1.9.4'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/sportspress/assets/js/jquery.countdown.min.js?ver=2.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var localized_strings = {"days":"days","hrs":"hrs","mins":"mins","secs":"secs","previous":"Previous","next":"Next"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/sportspress/assets/js/sportspress.js?ver=1427315927'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-includes/js/comment-reply.min.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/js/3rd-party.min.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/themes/optimistsoccer/data/js/time.min.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/js/jquery.fullcalendar.min.js?ver=1.5.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/js/jquery.simplemodal.1.4.3.min.js?ver=1.4.3'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/js/jquery.mousewheel.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/js/jquery.jgrowl.min.js?ver=1.2.5'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var custom = {"is_rtl":"","locale":"en","start_of_week":"1","step_interval":"30","datepicker_format":"mm\/dd\/yy","is24HrTime":"","show_weekends":"1","agenda_time_format":"h:mmt{ - h:mmt}","other_time_format":"h:mmt","axis_time_format":"h:mmt","limit":"0","today":"Today","all_day":"All Day","years":"Years","year":"Year","months":"Months","month":"Month","weeks":"Weeks","week":"Week","days":"Days","day":"Day","hours":"Hours","hour":"Hour","minutes":"Minutes","minute":"Minute","january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December","jan":"Jan","feb":"Feb","mar":"Mar","apr":"Apr","may_short":"May","jun":"Jun","jul":"Jul","aug":"Aug","sep":"Sep","oct":"Oct","nov":"Nov","dec":"Dec","sunday":"Sunday","monday":"Monday","tuesday":"Tuesday","wednesday":"Wednesday","thursday":"Thursday","friday":"Friday","saturday":"Saturday","sun":"Sun","mon":"Mon","tue":"Tue","wed":"Wed","thu":"Thu","fri":"Fri","sat":"Sat","close_event_form":"Close Event Form","loading_event_form":"Loading Event Form...","update_btn":"Update","delete_btn":"Delete","category_type":"Category type","hide_all_notifications":"hide all notifications","has_been_created":"has been created.","has_been_modified":"has been modified.","has_been_deleted":"has been deleted.","add_event":"Add Event","edit_event":"Edit Event","delete_event":"Delete this event?","loading":"Loading Events...","category_filter_label":"Category filter label","repeats_every":"Repeats Every","until":"Until","success":"Success!","whoops":"Whoops!","ajaxurl":"http:\/\/marcooptimistclub.org\/wp-admin\/admin-ajax.php","editable":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://marcooptimistclub.org/wp-content/plugins/ajax-event-calendar/js/jquery.init_show_calendar.js?ver=1.0.4'></script>
+
+	</body>
+
+</html>

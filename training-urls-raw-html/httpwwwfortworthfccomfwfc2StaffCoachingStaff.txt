@@ -1,0 +1,1929 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Fort Worth FC > Staff > Coaching Staff
+</title><meta id="MetaDescription" name="DESCRIPTION" content="Fort Worth FC (FWFC) was established in 1997 as a competitive youth soccer club to provide professional quality soccer education to aspiring youth soccer players of the Fort Worth and Tarrant County, Texas community. FWFC has realized positive steady growth over the years and today enjoy a solid reputation as one of the leading soccer clubs in the Dallas-Fort Worth metro area. All FWFC teams play in the highly competitive boys and girls NTX classic leagues. FWFC has gained their positive status " /><meta id="MetaKeywords" name="KEYWORDS" content="Fort Worth FC, Fort Worth, Texas, soccer, youth soccer, North Texas Soccer, Dallas Classic, Lake Highlands Classic" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2015 by Fort Worth FC" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+        <meta content="text/javascript" http-equiv="Content-Script-Type" />
+        <meta content="text/css" http-equiv="Content-Style-Type" />
+        <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+        <meta name="REVISIT-AFTER" content="1 DAYS" />
+        <meta name="RATING" content="GENERAL" />
+    <link href="/fwfc2/Portals/_default/default.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><link href="/fwfc2/DesktopModules/HTML/module.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><link href="/fwfc2/Resources/Search/SearchSkinObjectPreview.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><link href="/fwfc2/Portals/_default/Skins/Wave-Nevo/skin.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><link href="/fwfc2/Portals/_default/Containers/Wave-Nevo/container.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><link href="/fwfc2/Portals/0/portal.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><link href="/fwfc2/Portals/_default/Skins/Wave-Nevo//DNNStandard/StandardMenu.css?cdv=125" media="all" type="text/css" rel="stylesheet"/><script src="/fwfc2/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/Resources/libraries/jQuery-UI/01_10_03/jquery-ui.js?cdv=125" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/fwfc2/Portals/0/favicon.ico' type='image/x-icon' /></head>
+<body id="Body">
+    
+    <form method="post" action="/fwfc2/Staff/Coaching-Staff" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="4KP4KV+GBE07RbdF/UuFcmUyOegxMNaJUCokwP30OeQNcmQWqIwxrCx7Kz2a1YaS1S6mm1Ci7l5NSZyEfYZsEpKw5Pc=" />
+</div>
+
+
+<script src="/fwfc2/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af319b152-218f-4c14-829d-050a68bb1a61%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9CEFAE25" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="8TkWvUFqILlaR5MX+YMx/UMbSBSqX9zZb4buGPSM9jqCj+S5efY8yxX+6YZBnnlNVXGcxE1jSGl/Y43lYwKgw8rGvy4Tx9EJwkckYwbpcZUMQrsV96faxs4ZM+c/6mIzuEJdd45cVV9KFbgWcrACRxp+vvkqe/J/IdM+Jk1F9Lwy6/49O0itOqN1aKM=" />
+</div><script src="/fwfc2/js/dnn.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/js/dnn.modalpopup.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/Resources/Search/SearchSkinObjectPreview.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/js/dnn.servicesframework.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/js/dnncore.js?cdv=125" type="text/javascript"></script><script src="/fwfc2/Portals/_default/Skins/Wave-Nevo//DNNStandard/StandardMenu.js?cdv=125" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+<meta name="viewport" content="user-scalable=no,width=device-width,height=device-height"> 
+<script type='text/javascript' src="/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/lightbox.js"></script>
+<script type='text/javascript' src="/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/nevo-library.js"></script>
+<script type='text/javascript' src='/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/nevo-shortcodes.js'></script>
+<script type='text/javascript' src='/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/nevo-tuner.js'></script>
+<script type='text/javascript' src='/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/nevo.js'></script>
+
+<link rel="stylesheet" type="text/css" href="/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/kickstart.css" media="all" />      
+<script type="text/javascript" src="/fwfc2/Portals/_default/Skins/Wave-Nevo/scripts/kickstart.js"></script> 
+<link rel="stylesheet" href="/fwfc2/Portals/_default/Skins/Wave-Nevo//scripts/style.css" type="text/css"/>
+<script type="text/javascript" src="/fwfc2/Portals/_default/Skins/Wave-Nevo//scripts/script.js"></script>  
+
+<script type='text/javascript' src="/fwfc2/Portals/0/Skins/Wave-Nevo/scripts/portal.js"></script><link href="/fwfc2/Portals/0/Skins/Wave-Nevo/WaveTuner.css" type="text/css" rel="stylesheet" /><link href="/fwfc2/Portals/_default/Skins/Wave-Nevo/mobile.css" type="text/css" rel="stylesheet" />
+
+<script>
+    var sohandlerUrl = '/fwfc2/DesktopModules/WaveTuner/AjaxHandler.ashx';
+    var getWebsitePath = 'http://www.fortworthfc.com';
+    var getSkinPath = '/Portals/_default/Skins/Wave-Nevo';
+    var userBG = "";
+    var userPattern = "";
+    var stylesCSS = "";
+    var IE = "";
+    var lastBGOption = "Image";
+    var selectedAccordion = "SkinColorContainer";
+    var newColor = '';
+    var userHeader = "images/HeaderBlack.jpg";
+    var titleColor = "";
+    var contentColor = "";
+    var contentDisplay = "";
+
+    $(function () {
+        //Sticky Nav
+        var stickyNavTop = $('#MenuBG').offset().top;
+
+        var stickyNav = function () {
+            var scrollTop = $(window).scrollTop();
+
+            if (scrollTop > stickyNavTop) {
+                $('#MenuBG').addClass('nevo-stickyNav');
+                $('#Menu').addClass('nevo-stickyNavHeight');
+                $('#MenuBG').removeClass('headerHeight');
+                $('#Logo').css("padding-top", "11px");
+                $('#dnnMenu li.rootItem').addClass('nevo-stickyMenu');
+                $('#dnnMenu li.rootItem').removeClass('headerHeight');
+                $('#dnnMenu .subLevel').addClass('nevo-stickySubMenu');
+
+                $('#megamenu li.level0').addClass('nevo-stickyMenu');
+                $('#megamenu li.level0').removeClass('headerHeight');
+                $('#megamenu .sub').addClass('nevo-stickySubMenu');
+                $('#mobileMenuContent').css("top", "72px");
+   
+
+                $('#HeaderShadow').hide();
+                $('.nevo-stickyHeaderLine').show();
+                $('#mobileMenu').addClass('nevo-stickyMobileMenu');
+                $("#HeaderShadowSticky").show();
+            } else {
+                $('#MenuBG').removeClass('nevo-stickyNav');
+                $('#Menu').removeClass('nevo-stickyNavHeight');
+                $('#MenuBG').addClass('headerHeight');
+                $('#Logo img').css("width", "");
+                $('#Logo img').css("height", "");
+                $('#Logo').css("padding-top", "17px");
+                $('#dnnMenu li.rootItem').removeClass('nevo-stickyMenu');
+                $('#dnnMenu li.rootItem').addClass('headerHeight');
+                $('#dnnMenu .subLevel').removeClass('nevo-stickySubMenu');
+
+                $('#megamenu li.level0').removeClass('nevo-stickyMenu');
+                $('#megamenu li.level0').addClass('headerHeight');
+                $('#megamenu .sub').removeClass('nevo-stickySubMenu');
+                $('#mobileMenuContent').css("top", "auto");
+
+
+                $('#HeaderShadow').show();
+                $('.nevo-stickyHeaderLine').hide();
+                $('#mobileMenu').removeClass('nevo-stickyMobileMenu');
+                $("#HeaderShadowSticky").hide();
+            }
+        };
+
+        stickyNav();
+
+        $(window).scroll(function () {
+            stickyNav();
+        });
+
+        $.getJSON(sohandlerUrl,
+            {
+                FN: "ReadCSSFile"
+            },
+            function (data) {
+
+                userBG = data.BackgroundImage;
+                userHeader = data.HeaderImage;
+                titleColor = data.ContainerTitleFontColour;
+                newColor = data.ThemeColour;
+                contentDisplay = data.ContainerTitleFontColour;
+
+                $("#dnnMenu .subLevel").css("top", data.HeaderHeight);
+                $(".Containers .Normal").css('color', data.ContainerContentFontColour);
+                $("footer .Normal").css('color', data.FooterContentFontColour);
+
+
+                if (data.ShowLanguage == "") {
+                    LanguageDisplay(true);
+                } else {
+                    LanguageDisplay(false);
+                }
+
+                if (data.ShowHeader == "none") {
+                    HeaderDisplay(false);
+                }
+
+                if (data.SkinWidth == "100%") {
+                    setBackgroundImage('stretched');
+                } else {
+                    setBackgroundImage('box');
+                }
+
+                if (data.ShowContent == "") {
+                    setBackgroundImage('box');
+                    setWhiteText();
+                }
+
+                if (data.ShowDark != "") {
+                    DarkDisplay(true);
+                    titleColor = "#fff";
+                }
+
+                if (data.ShowSemiTransparentContent != "") {
+                    titleColor = "#fff";
+                    setSemiTransparent();
+                    setBackgroundImage('box');
+                }
+                
+                changeColor(newColor);
+                checkSocial(data);
+                
+                $(".Containers .DnnModule").not("#Shortcode .DnnModule").hover(
+                    function () {
+                        if (!$(this).children().hasClass("containerTheme")) {
+                            $(this).find('.nevo .themeTitleFontColor').animate({ color: newColor }, 300);
+                        }
+                    },
+                    function () {
+                        $(this).find('.nevo .themeTitleFontColor').animate({ color: titleColor }, 300);
+                    }
+                );
+
+                $("footer .DnnModule").not(".themeColorBG .DnnModule").hover(
+                    function () {
+                        $(this).find('.nevo .themeTitleFontColor').animate({ color: newColor }, 300);
+                    },
+                    function () {
+                        $(this).find('.nevo .themeTitleFontColor').animate({ color: data.FooterTitleFontColour }, 300);
+                    }
+                );
+            });
+    });
+</script>
+
+
+<div id="banner-texture"></div>
+<div id="nevo-background"></div>
+
+
+<header>
+	<div class="headerLine">
+	<div class="languageToken contentWidth">
+		<div class='Containers headerPaneLayout'>
+			<div id="dnn_HeaderPane" class="paneColumns1 DNNEmptyPane"></div>
+		</div>
+		<div class="language">
+			<div class="language-object" >
+
+
+</div>
+		</div>
+	</div>
+	</div>
+	<div class="headerHeight">
+		<div id="MenuBG" class="headerHeight">
+			<div class="nevo-stickyHeaderLine" style='display:none;'></div>
+				<div class="contentWidth">
+					<div id="Logo"><a id="dnn_dnnLOGO_hypLogo" title="Fort Worth FC" href="http://www.fortworthfc.com/fwfc2/"><img id="dnn_dnnLOGO_imgLogo" src="/fwfc2/Portals/0/FWFC_Logoclr.png" alt="Fort Worth FC" /></a></div>
+					<div id="Menu" style="display:none;">
+						<!-- DDRmenu v02.00.01 - DNNStandard template --><!--SEO NOINDEX-->
+<div id="dnnMenu">
+    <ul class="topLevel">
+	    
+	<li class="rootItem item first notSelected headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/"><div class='rootMenuText'>Home</div></a>
+		
+	</li>
+
+	<li class="rootItem item notSelected haschild headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Staff"><div class='rootMenuText'>Staff</div></a>
+		
+            <div class="subLevel">
+				<div class="menuLine"></div>
+			    <ul>
+				    
+	<li class="subItem item first">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Staff/Club-Directors"><div><span class='childMenuText'>Club Directors</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Staff/Officers"><div><span class='childMenuText'>Officers</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item selected">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Staff/Coaching-Staff"><div><span class='childMenuText'>Coaching Staff</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Staff/Managers"><div><span class='childMenuText'>Managers</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+	<li class="rootItem item notSelected haschild headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams"><div class='rootMenuText'>Teams</div></a>
+		
+            <div class="subLevel">
+				<div class="menuLine"></div>
+			    <ul>
+				    
+	<li class="subItem item first haschild">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams"><div><span class='childMenuText'>Boys Teams</span><span class="subChild"></span></div></a><div class="itemSep"></div>
+		
+            <div class="subLevelRight">
+			    <ul>
+				    
+	<li class="subItem item first">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-04-White"><div><span class='childMenuText'>Boys 04 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-03-White"><div><span class='childMenuText'>Boys 03 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-02-White"><div><span class='childMenuText'>Boys 02 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-01-White"><div><span class='childMenuText'>Boys 01 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-01-Red"><div><span class='childMenuText'>Boys 01 Red</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-99-White"><div><span class='childMenuText'>Boys 99 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-98-White"><div><span class='childMenuText'>Boys 98 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+	<li class="subItem item haschild">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams"><div><span class='childMenuText'>Girls Teams</span><span class="subChild"></span></div></a><div class="itemSep"></div>
+		
+            <div class="subLevelRight">
+			    <ul>
+				    
+	<li class="subItem item first">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-04-White"><div><span class='childMenuText'>Girls 04 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-03-White"><div><span class='childMenuText'>Girls 03 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-03-Black"><div><span class='childMenuText'>Girls 03 Black</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-02-White"><div><span class='childMenuText'>Girls 02 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-01-Red"><div><span class='childMenuText'>Girls 01 Red</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-01-Black"><div><span class='childMenuText'>Girls 01 Black</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-00-White"><div><span class='childMenuText'>Girls 00 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-99-White"><div><span class='childMenuText'>Girls 99 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-98-Red"><div><span class='childMenuText'>Girls 98 Red</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-97-White"><div><span class='childMenuText'>Girls 97 White</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-97-Red"><div><span class='childMenuText'>Girls 97 Red</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://wpsl.fortworthfc.com/"><div><span class='childMenuText'>Panthers (WPSL)</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+	<li class="rootItem item notSelected haschild headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club"><div class='rootMenuText'>Club</div></a>
+		
+            <div class="subLevel">
+				<div class="menuLine"></div>
+			    <ul>
+				    
+	<li class="subItem item first">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/About-Our-Club"><div><span class='childMenuText'>About Our Club</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/Club-News"><div><span class='childMenuText'>Club News</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/FWFC-TV"><div><span class='childMenuText'>FWFC-TV</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/Sponsors"><div><span class='childMenuText'>Sponsors</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/Sponsorship"><div><span class='childMenuText'>Sponsorship</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/Coaching-Opportunities"><div><span class='childMenuText'>Coaching Opportunities</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/Fundraising"><div><span class='childMenuText'>Fundraising</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Club/Cold-Weather-Policy"><div><span class='childMenuText'>Cold Weather Policy</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+	<li class="rootItem item notSelected headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Academy"><div class='rootMenuText'>Academy</div></a>
+		
+	</li>
+
+	<li class="rootItem item notSelected haschild headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training"><div class='rootMenuText'>Training</div></a>
+		
+            <div class="subLevel">
+				<div class="menuLine"></div>
+			    <ul>
+				    
+	<li class="subItem item first">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training/Training-Facility"><div><span class='childMenuText'>Training Facility</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training/SAQ-Training"><div><span class='childMenuText'>S.A.Q. Training</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training/Keeper-Academy"><div><span class='childMenuText'>Keeper Academy</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://ericbellsocceracademy.com/"><div><span class='childMenuText'>Soccer Camp</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training/Sports-Medicine"><div><span class='childMenuText'>Sports Medicine</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training/School-of-Excellence"><div><span class='childMenuText'>School of Excellence</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+	<li class="rootItem item last notSelected haschild headerHeight">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events"><div class='rootMenuText'>Events</div></a>
+		
+            <div class="subLevel">
+				<div class="menuLine"></div>
+			    <ul>
+				    
+	<li class="subItem item first">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events/Toys-For-Tots"><div><span class='childMenuText'>Toys For Tots</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events/Match-Week"><div><span class='childMenuText'>Match Week</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events/Club-Calendar"><div><span class='childMenuText'>Club Calendar</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Training/2015-Open-Practices"><div><span class='childMenuText'>2015 Open Practices</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events/2015-Tryouts"><div><span class='childMenuText'>2015 Tryouts</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events/College-Corner"><div><span class='childMenuText'>College Corner</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+	<li class="subItem item last">
+		
+			<a href="http://www.fortworthfc.com/fwfc2/Events/In-The-Community"><div><span class='childMenuText'>In The Community</span></div></a><div class="itemSep"></div>
+		
+	</li>
+
+					<div class="endLine"></div>
+			    </ul>
+            </div>
+		
+	</li>
+
+    </ul>
+</div>
+<!--END SEO-->
+
+
+
+						<div id="mobileMenu"><div class="mobile-nav" href="#"></div></div>
+					</div>
+				</div>
+				<div id="HeaderShadowSticky" class='shadowToken' style='display:none;'></div>
+		</div>
+	</div>
+	
+	<div id="mobileMenuContent" style='display:none;'><!-- DDRmenu v02.00.01 - DNNStandardMobile template --><!--SEO NOINDEX-->
+<ul class="nav themeColorBG">
+	
+	<li class='root'><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/">Home</a>
+		
+	</li>
+
+	<li class='root'><span class='arrow-parent'></span><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/Staff">Staff</a>
+		
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Staff/Club-Directors">Club Directors</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Staff/Officers">Officers</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText selected ' href="http://www.fortworthfc.com/fwfc2/Staff/Coaching-Staff">Coaching Staff</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Staff/Managers">Managers</a>
+			
+		</li>
+	</ul>
+
+	</li>
+
+	<li class='root'><span class='arrow-parent'></span><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams">Teams</a>
+		
+	<ul style='z-index:10;'>
+		<li><span class='arrow-parent'></span><a class='childMenuText hasChild' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams">Boys Teams</a>
+			
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-04-White">Boys 04 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-03-White">Boys 03 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-02-White">Boys 02 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-01-White">Boys 01 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-01-Red">Boys 01 Red</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-99-White">Boys 99 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Boys-Teams/Boys-98-White">Boys 98 White</a></li>
+	</ul>
+
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><span class='arrow-parent'></span><a class='childMenuText hasChild' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams">Girls Teams</a>
+			
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-04-White">Girls 04 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-03-White">Girls 03 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-03-Black">Girls 03 Black</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-02-White">Girls 02 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-01-Red">Girls 01 Red</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-01-Black">Girls 01 Black</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-00-White">Girls 00 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-99-White">Girls 99 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-98-Red">Girls 98 Red</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-97-White">Girls 97 White</a></li>
+	</ul>
+
+	<ul style='z-index:15;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Teams/Girls-Teams/Girls-97-Red">Girls 97 Red</a></li>
+	</ul>
+
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://wpsl.fortworthfc.com/">Panthers (WPSL)</a>
+			
+		</li>
+	</ul>
+
+	</li>
+
+	<li class='root'><span class='arrow-parent'></span><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/Club">Club</a>
+		
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/About-Our-Club">About Our Club</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/Club-News">Club News</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/FWFC-TV">FWFC-TV</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/Sponsors">Sponsors</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/Sponsorship">Sponsorship</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/Coaching-Opportunities">Coaching Opportunities</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/Fundraising">Fundraising</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Club/Cold-Weather-Policy">Cold Weather Policy</a>
+			
+		</li>
+	</ul>
+
+	</li>
+
+	<li class='root'><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/Academy">Academy</a>
+		
+	</li>
+
+	<li class='root'><span class='arrow-parent'></span><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/Training">Training</a>
+		
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Training/Training-Facility">Training Facility</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Training/SAQ-Training">S.A.Q. Training</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Training/Keeper-Academy">Keeper Academy</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://ericbellsocceracademy.com/">Soccer Camp</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Training/Sports-Medicine">Sports Medicine</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Training/School-of-Excellence">School of Excellence</a>
+			
+		</li>
+	</ul>
+
+	</li>
+
+	<li class='root'><span class='arrow-parent'></span><a class='rootMenuText ' href="http://www.fortworthfc.com/fwfc2/Events">Events</a>
+		
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Events/Toys-For-Tots">Toys For Tots</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Events/Match-Week">Match Week</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Events/Club-Calendar">Club Calendar</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Training/2015-Open-Practices">2015 Open Practices</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Events/2015-Tryouts">2015 Tryouts</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Events/College-Corner">College Corner</a>
+			
+		</li>
+	</ul>
+
+	<ul style='z-index:10;'>
+		<li><a class='childMenuText ' href="http://www.fortworthfc.com/fwfc2/Events/In-The-Community">In The Community</a>
+			
+		</li>
+	</ul>
+
+	</li>
+
+</ul>
+<!--END SEO-->
+
+
+
+
+</div>
+</header>
+
+<div class="skinWidth">
+	<div class="Containers">
+		<div id="container" class="contentBG">
+			<div class='themeColorBG'>
+					<div class="contentWidth">
+						<div class='innerContainer'><div id="dnn_B2_Column1" class="paneColumns1 DNNEmptyPane"></div></div>
+    					<div id="SearchBar" class="searchToken innerSearch">
+                            
+							<span id="dnn_dnnSEARCH_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+        <input name="dnn$dnnSEARCH$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSEARCH_txtSearch" class="NormalTextBox" autocomplete="off" placeholder="Search..." />
+        <a class="dnnSearchBoxClearText"></a>
+    </span>
+    <a id="dnn_dnnSEARCH_cmdSearch" class="dnnSearchCss" href="javascript:__doPostBack(&#39;dnn$dnnSEARCH$cmdSearch&#39;,&#39;&#39;)"><img src="/fwfc2/Portals/_default/Skins/Wave-Nevo/images/Search.png" width="13" height="17" border="0" alt=""/></a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 2,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'en-US',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_dnnSEARCH_SiteRadioButton');
+            var webBtn = $('#dnn_dnnSEARCH_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+
+						</div>
+					</div>
+				</div>
+			<div id="content" class="contentWidth">
+                <div style="float:left;">Our Sponsor...<br /><a href="/fwfc2/Training/Sports-Medicine"><img src="/fwfc2/Portals/_default/Skins/Wave-Nevo/images/TexasHealthlogohd.png" width="250" height="55" border="0" alt="Texas Health Resources"/></a></div>
+				<div id="BreadCrumb_Search">
+					<div id="BreadCrumb" class="breadcrumbToken">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="dnn_dnnBreadcrumb_lblBreadCrumb"><a href="http://www.fortworthfc.com/fwfc2/Staff" class="breadcrumb themeContentFontColor">Staff</a><span class="Sep">  >  </span><a href="http://www.fortworthfc.com/fwfc2/Staff/Coaching-Staff" class="breadcrumb themeContentFontColor">Coaching Staff</a></span>
+
+					</div>
+				</div>
+				<div class="empty" style="height:0px;"></div>
+				<div>
+
+						<div id="dnn_contentPane" class="cpane paneColumns1 DNNEmptyPane"></div>
+
+						<div id="dnn_C_Row2_Left" class="cpane paneColumns3 marginRight DNNEmptyPane"></div>
+						<div id="dnn_C_Row2_Middle" class="cpane paneColumns3 DNNEmptyPane"></div>
+						<div id="dnn_C_Row2_Right" class="cpane paneColumns3 marginLeft DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row3_Full" class="cpane paneColumns1 DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row4_Left70" class="cpane paneColumns2_70 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_C_Row4_Right30" class="cpane paneColumns2_30 marginHalfLeft DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row5_Left30" class="cpane paneColumns2_30 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_C_Row5_Right70" class="cpane paneColumns2_70 marginHalfLeft DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row6_Left" class="cpane paneColumns2 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_C_Row6_Right" class="cpane paneColumns2 marginHalfLeft DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row7_Left" class="cpane paneColumns3 marginRight DNNEmptyPane"></div>
+						<div id="dnn_C_Row7_Middle" class="cpane paneColumns3 DNNEmptyPane"></div>
+						<div id="dnn_C_Row7_Right" class="cpane paneColumns3 marginLeft DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row8_OuterLeft" class="cpane paneColumns4 marginHalfRight"><div class="DnnModule DnnModule-DNN_HTML DnnModule-721"><a name="721"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr721_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_721 --><div id="dnn_ctr721_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr721_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_acuff.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Cassidy Acuff</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">214-796-7886</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:cla022000@gmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Cassidy-Acuff-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_721 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-722"><a name="722"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr722_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_722 --><div id="dnn_ctr722_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr722_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_Clementson.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Adam Clementson</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">682-444-1977</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:cleggy22@aol.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Adam-Clementson-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_722 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-723"><a name="723"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr723_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_723 --><div id="dnn_ctr723_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr723_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_delValle.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Alex Del Valle</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-819-0101</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:adelvalle@ufpi.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Alex-Del-Valle-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_723 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-724"><a name="724"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr724_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_724 --><div id="dnn_ctr724_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr724_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_Hudson.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Austin Hudson</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">000-000-0000</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="#">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Austin-Hudson-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_724 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-428"><a name="428"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr428_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_428 --><div id="dnn_ctr428_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr428_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_richardson.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Gilbert Richardson</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-657-1043</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:gsdhr@att.net">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Gilbert-Richardson-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_428 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-430"><a name="430"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr430_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_430 --><div id="dnn_ctr430_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr430_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/SAQ_Michelle.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Michelle Stellato (SAQ)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-614-4106</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:ts1306@gmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Training/SAQ-Training">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_430 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div></div>
+						<div id="dnn_C_Row8_InnerLeft" class="cpane paneColumns4 marginHalfRight marginHalfLeft"><div class="DnnModule DnnModule-DNN_HTML DnnModule-725"><a name="725"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr725_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_725 --><div id="dnn_ctr725_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr725_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_amos.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Blake Amos</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-905-3730</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:amosb@trinityvalleyschool.org">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Blake-Amos-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_725 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-726"><a name="726"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr726_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_726 --><div id="dnn_ctr726_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr726_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_cox.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Carolina Cox</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-791-5012</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:ccox157@aol.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Carolina-Cox-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_726 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-727"><a name="727"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr727_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_727 --><div id="dnn_ctr727_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr727_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_Garcia.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">David Garcia</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-715-7454</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:fwfc05white@gmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/David-Garcia-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_727 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-728"><a name="728"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr728_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_728 --><div id="dnn_ctr728_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr728_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_naizer.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Chad Naizer</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-253-9675</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:cnaizer@msn.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Chad-Naizer-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_728 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-737"><a name="737"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr737_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_737 --><div id="dnn_ctr737_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr737_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_saldana.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Carlos Alberto Saldana</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-614-4106</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:carlosasaldana1970@hotmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Carlos-Alberto-Saldana-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_737 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-738"><a name="738"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr738_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_738 --><div id="dnn_ctr738_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr738_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/SAQ_JoJo2.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Jo Jo Stellato (SAQ)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-614-4106</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="#">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Training/SAQ-Training">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_738 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div></div>
+						<div id="dnn_C_Row8_InnerRight" class="cpane paneColumns4 marginHalfRight marginHalfLeft"><div class="DnnModule DnnModule-DNN_HTML DnnModule-729"><a name="729"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr729_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_729 --><div id="dnn_ctr729_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr729_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_byerly.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Ryan Byerly</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-771-9366</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:rbyerly226@yahoo.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Ryan-Byerly-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_729 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-730"><a name="730"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr730_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_730 --><div id="dnn_ctr730_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr730_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_cummins.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Kristin Cummins</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">214-417-1320</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:kcummins88@yahoo.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Kristin-Cummins-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_730 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-731"><a name="731"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr731_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_731 --><div id="dnn_ctr731_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr731_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_grady.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Brittany Grady</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-343-8500</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:grady91@sbcglobal.net">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Brittany-Grady-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_731 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-732"><a name="732"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr732_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_732 --><div id="dnn_ctr732_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr732_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_pinkerton.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Chris Pinkerton</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">972-795-2954</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:ccpinkerton@aol.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Chris-Pinkerton-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_732 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-431"><a name="431"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr431_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_431 --><div id="dnn_ctr431_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr431_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_valcik.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Benji Valcik</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-319-3525</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:bvalcik@yahoo.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Benjie-Valcik-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_431 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-739"><a name="739"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr739_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_739 --><div id="dnn_ctr739_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr739_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/SAQ_Tommy.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Tommy Stellato (SAQ)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-614-4106</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:ts1306@gmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Training/SAQ-Training">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_739 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div></div>
+						<div id="dnn_C_Row8_OuterRight" class="cpane paneColumns4 marginHalfLeft"><div class="DnnModule DnnModule-DNN_HTML DnnModule-733"><a name="733"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr733_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_733 --><div id="dnn_ctr733_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr733_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_blank.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Nick Cardillo</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">000-000-0000</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="#">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Nick-Cardillo-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_733 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-734"><a name="734"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr734_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_734 --><div id="dnn_ctr734_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr734_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_curs.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Jessica Curs</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-832-8830</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:mamacurs@sbcglobal.net">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Jessica-Curs-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_734 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-735"><a name="735"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr735_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_735 --><div id="dnn_ctr735_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr735_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_guendouzi.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Tarik Guendouzi</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">336-420-2356</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:fortworthfc@hotmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Tarik-Guendouzi-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_735 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-736"><a name="736"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr736_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_736 --><div id="dnn_ctr736_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr736_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_remmel.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Frank Remmel</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">682-213-1414</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:Blink1965@aol.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Frank-Remmel-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_736 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-429"><a name="429"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr429_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_429 --><div id="dnn_ctr429_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr429_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_williams.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">Ben Williams</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">817-965-6903</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="mailto:bplw1987@hotmail.com">EMAIL</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="/fwfc2/Staff/Coaching-Staff/Ben-Williams-Bio">COACH'S BIO</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_429 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-740"><a name="740"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr740_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_740 --><div id="dnn_ctr740_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr740_HtmlModule_lblContent" class="Normal">
+	<div class="StaffList">
+<table align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><img alt="" src="/fwfc2/portals/0/staff/coach_red.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="#">&nbsp;</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;"><a href="#">&nbsp;</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_740 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div></div>
+						<div style='clear:both;'></div>
+
+						<div id="dnn_C_Row9_Full" class="cpane paneColumns1 DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+						<div id="dnn_C_Row10_Left" class="cpane paneColumns3 marginRight DNNEmptyPane"></div>
+						<div id="dnn_C_Row10_Middle" class="cpane paneColumns3 DNNEmptyPane"></div>
+						<div id="dnn_C_Row10_Right" class="cpane paneColumns3 marginLeft DNNEmptyPane"></div>
+						<div style='clear:both;'></div>
+
+				</div>
+				<div class="empty"></div>
+			</div>
+		</div>
+	
+	
+	</div>
+</div>
+	
+    <footer class='skinWidth'>
+	<div id="dnn_WaveTuner_Pane" class="DNNEmptyPane"></div>
+	<div class="ContentSeperator themeColor"></div>
+			<div class="themeColorBG">
+		<div class="contentWidth contentGreyPadding">
+
+												<div id="dnn_CG_Row1_Full" class="cpane paneColumns1 DNNEmptyPane"></div>
+						<div id="dnn_CG_Row2_Left70" class="cpane paneColumns2_70 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_CG_Row2_Right30" class="cpane paneColumns2_30 marginHalfLeft DNNEmptyPane"></div>
+						<div id="dnn_CG_Row3_Left30" class="cpane paneColumns2_30 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_CG_Row3_Right70" class="cpane paneColumns2_70 marginHalfLeft DNNEmptyPane"></div>
+						<div id="dnn_CG_Row4_Left" class="cpane paneColumns2 marginHalfLeft DNNEmptyPane"></div>
+						<div id="dnn_CG_Row4_Right" class="cpane paneColumns2 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_CG_Row5_Left" class="cpane paneColumns3 marginRight DNNEmptyPane"></div>
+						<div id="dnn_CG_Row5_Middle" class="cpane paneColumns3 DNNEmptyPane"></div>
+						<div id="dnn_CG_Row5_Right" class="cpane paneColumns3 marginLeft DNNEmptyPane"></div>
+
+		</div>
+	</div>
+			<div id="FooterBG">
+			<div id="TopFooter">
+				<div  id="contentFooter" class="contentWidth footerDisplay">
+				<div class="" style="padding-top:25px;">
+
+						<div id="dnn_F_Row1_Full" class="cpane paneColumns1"><div class="DnnModule DnnModule-DNN_HTML DnnModule-719"><a name="719"></a>
+<div class='nevo' style='padding:0px!important'>
+    <div id="dnn_ctr719_ContentPane" class="containerContent themeContentFont themeContentFontColor themeContentFontSize"><!-- Start_Module_719 --><div id="dnn_ctr719_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr719_HtmlModule_lblContent" class="Normal">
+	<div style="width: 100%; alignment-adjust: central;">
+<div style="width: 20%; float: left;">
+Staff:
+<ul>
+    <li><a href="/fwfc2/Staff/Club-Directors">Club Directors</a></li>
+    <li><a href="/fwfc2/Staff/Officers">Officers</a></li>
+    <li><a href="/fwfc2/Staff/Coaching-Staff">Coaching Staff</a></li>
+    <li><a href="/fwfc2/Staff/Managers">Managers</a></li>
+</ul>
+</div>
+<div style="width: 20%; float: left;">
+Teams:
+<ul>
+    <li><a href="/fwfc2/Teams/Boys-Teams">Boys Select Teams</a></li>
+    <li><a href="/fwfc2/Teams/Girls-Teams">Girls Select Teams</a></li>
+    <li><a href="/fwfc2/Academy">Academy</a></li>
+    <li><a href="http://wpsl.fortworthfc.com/" target="_blank">FW Panthers (WPSL)</a></li>
+</ul>
+</div>
+<div style="width: 20%; float: left;">
+Club:
+<ul>
+    <li><a href="/fwfc2/Club/About-Our-Club">About Our Club</a></li>
+    <li><a href="/fwfc2/Club/Club-News">Club News</a></li>
+    <li><a href="/fwfc2/Club/FWFC-TV">FWFC-TV</a></li>
+    <li><a href="/fwfc2/Club/Sponsors">Sponsors</a></li>
+    <li><a href="/fwfc2/Club/Sponsorship">Sponsorship</a></li>
+    <li><a href="/fwfc2/Club/Coaching-Opportunities">Coaching Opportunities</a></li>
+    <li><a href="/fwfc2/Club/Fundraising">Fundraising</a></li>
+</ul>
+</div>
+<div style="width: 20%; float: left;">
+Training:
+<ul>
+    <li><a href="/fwfc2/Training/Training-Facility">Training Facility</a></li>
+    <li><a href="/fwfc2/Training/SAQ-Training">S.A.Q. Training</a></li>
+    <li><a href="/fwfc2/Training/Keeper-Academy">Keeper Academy</a></li>
+    <li><a href="http://ericbellsocceracademy.com/" target="_blank">Soccer Camp</a></li>
+    <li><a href="/fwfc2/Training/Sports-Medicine">Sports Medicine</a></li>
+    <li><a href="/fwfc2/Training/School-of-Excellence">School of Excellence</a></li>
+</ul>
+</div>
+<div style="width: 20%; float: left;">
+Events:
+<ul>
+    <li><a href="/fwfc2/Events/Club-Calendar">Club Calendar</a></li>
+    <li><a href="/fwfc2/Training/2015-Open-Practices">2015 Open Practices</a></li>
+    <li><a href="/fwfc2/Events/2015-Tryouts">2015 Tryouts</a></li>
+    <li><a href="/fwfc2/Events/College-Corner">College Corner</a></li>
+    <li><a href="/fwfc2/Events/In-The-Community">In The Community</a></li>
+</ul>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+
+</div><!-- End_Module_719 --></div>
+    <div class="dnnActionButtons">
+        
+		
+    </div>
+</div></div></div>
+
+
+						<div id="dnn_F_Row2_Left" class="cpane paneColumns2 marginHalfRight DNNEmptyPane"></div>
+						<div id="dnn_F_Row2_Right" class="cpane paneColumns2 marginHalfLeft DNNEmptyPane"></div>
+
+					<div id="wrapper">
+						<div id="dnn_F_Row3_Left" class="cpane paneColumns3 marginRight DNNEmptyPane"></div>
+						<div id="dnn_F_Row3_Middle" class="cpane paneColumns3 DNNEmptyPane"></div>
+						<div id="dnn_F_Row3_Right" class="cpane paneColumns3 marginLeft DNNEmptyPane"></div>
+						<div style="clear:both"></div>
+					</div>
+				</div>
+				</div>
+			<div id="bottomFooter">
+				<div class="contentWidth">
+					<div id="footerLeft">
+						<div id="footerLeftLayout">
+							<div style="padding-top:10px;">
+								<div class="termsAndPrivacy">
+									<div style="float:left;"><a id="dnn_dnnPRIVACY_hypPrivacy" class="footerLink themeColorLink containerContentFont" rel="nofollow" href="http://www.fortworthfc.com/fwfc2/Privacy">Privacy Statement</a></div>
+									<div style="float:left;"><div class="footerLink themeColorLink">&nbsp;&nbsp;|&nbsp;&nbsp;</div></div>
+									<div style="float:left;"><a id="dnn_dnnTERMS_hypTerms" class="footerLink themeColorLink containerContentFont" rel="nofollow" href="http://www.fortworthfc.com/fwfc2/Terms">Terms Of Use</a></div>
+									<div style="float:left;"><div class="footerLink themeColorLink">&nbsp;&nbsp;|&nbsp;&nbsp;</div></div>
+								</div>
+								<div class="registerToken">	
+									<div style="float:left;">
+</div>
+									<div style="float:left;"><div class="footerLink themeColorLink">&nbsp;&nbsp;|&nbsp;&nbsp;</div></div>						
+								</div>
+								<div class="loginToken">
+									<div style="float:left;"><a id="dnn_dnnLogin_loginLink" title="Login" class="footerLink themeColorLink containerContentFont" rel="nofollow" onclick="this.disabled=true;" href="http://www.fortworthfc.com/fwfc2/Staff-Login?returnurl=%2ffwfc2%2fStaff%2fCoaching-Staff">Login</a>
+</div>
+								</div>
+							</div>
+							<div style="clear:both;">
+								<span id="dnn_dnnCOPYRIGHT_lblCopyright" class="footerLink themeColorLink containerContentFont">Copyright 2015 by Fort Worth FC</span>
+
+							</div>
+						</div>
+					</div>
+					<div id="footerRight">
+						<div id="footerRightLayout">
+								<div id="SocialIcons" style="padding-top:7px;width:70%;display:inline-block;">
+									<div id="SocialIconsLayout" style="float:right;">
+									</div>
+									
+								</div>
+								<div id="dnn_F4_Column1" class="pane_Logo DNNEmptyPane"></div>
+						</div>
+					</div>
+				</div>
+				</div>
+			</div>
+			</div>
+<div id="toTop">
+</div>
+
+</footer>
+
+<!--CDF(Javascript|/fwfc2/Portals/_default/Skins/Wave-Nevo//DNNStandard/StandardMenu.js?cdv=125)-->
+<!--CDF(Javascript|/fwfc2/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=125)-->
+<!--CDF(Css|/fwfc2/Portals/_default/Skins/Wave-Nevo//DNNStandard/StandardMenu.css?cdv=125)-->
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/fwfc2/`,`sf_tabId`:`92`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="4dHxD_DRm2R4AI7zb0_JxyaVGSaUZ9lCgVmexk0iXpncboQJQEnv4TdmZaPXCSje7Iv1v3tW3cxyZfJ-5Dy7XLBnEbnR6eNxSPB3fn2W_oUGgh4t66vHdxpQ0vw1" />
+    
+<script type="text/javascript" src="/fwfc2/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+</body>
+</html>

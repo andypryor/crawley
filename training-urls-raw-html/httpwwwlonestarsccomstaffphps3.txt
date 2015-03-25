@@ -1,0 +1,966 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Staff</title>
+<link href="css/layout.css" rel="stylesheet" type="text/css" />
+<link href="css/sitetools2.css" rel="stylesheet" type="text/css" />
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/days-one:n4:default.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.cycle/2.99/jquery.cycle.all.min.js"></script><script type="text/javascript">
+$(document).ready(function() {
+
+		$('#st_sponsors ul').cycle({
+		fx:     'fade',
+		speed:   1000,
+		pause:   1,
+		timeout: 3000	
+	});
+
+	$('#st_sponsors img').click(function() {
+
+
+		var ad=$(this).attr('ad');
+		var sponsor=$(this).attr('url');
+		$.post('sitetools/sponsor_stats.php', { 'id': ad, 'mm_sponsors':'c' },function(data) {
+     		$(location).attr('href',sponsor);
+   		});
+		    		
+	});
+});
+</script>
+</head>
+<body>
+<div id="main">
+<div id="header"><p><a href="index.php"><img alt="Lonestar Soccer Club, Austin Soccer" src="UserFiles/images/theme/headerSETON.jpg" style="height: 159px; width: 1100px;" /></a></p>
+
+<div id="translate-es"><a href="https://translate.google.com/translate?js=n&amp;sl=en&amp;tl=es&amp;u=http://lonestar-sc.com" target="_blank">&nbsp;</a></div>
+</div>
+<div id="top-menu" class="clearfix">
+  <div id="top-menu-inner-left">
+    <div class="main-nav"><ul>
+	<li><a href="index.php">Home</a></li>
+	<li><a href="#">Resources</a>
+	<ul>
+		<li>
+		<table border="0" cellpadding="5" cellspacing="0" height="209" width="826">
+			<tbody>
+				<tr>
+					<td rowspan="2" style="text-align: left; vertical-align: top; white-space: nowrap;">
+					<p><b>Events</b></p>
+
+					<p><a href="page.php?p=84" target="_self">24 Hr Marathon</a></p>
+
+					<p><a href="page.php?p=281" target="_self">Golf Tournament</a></p>
+
+					<p><a href="page.php?p=146" target="_self">Europe Trip&nbsp;2014&nbsp;</a></p>
+
+					<p><a href="page.php?p=356" target="_self">Internat&#39;l&nbsp;Tours 2015</a></p>
+
+					<p><a href="page.php?p=203" target="_self">Red &amp; Black Banquet</a></p>
+
+					<p>&nbsp;</p>
+					</td>
+					<td rowspan="2" style="text-align: left; vertical-align: top; white-space: nowrap;">
+					<p><strong>Player Development</strong></p>
+
+					<p><a href="page.php?p=404" target="_self">College Placement</a></p>
+
+					<p><a href="page.php?p=108">Alumni List</a></p>
+
+					<p><a href="page.php?p=223">Alumni News</a></p>
+					<a href="http://www.bulbapp.com/lonestarsc" target="_blank">Online Player Dev Center</a>
+
+					<p><a href="page.php?p=218">Schools Program</a></p>
+
+					<p><a href="page.php?p=124" target="_self">Private Training</a></p>
+
+					<p><a href="UserFiles/files/PDF's%20Fall%202014/GoalkeeperSpreadsheet0925.pdf" target="_blank">GK&nbsp;Fall Schedule</a></p>
+					</td>
+					<td rowspan="2" style="text-align: left; vertical-align: top; white-space: nowrap;"><b>Information</b>
+					<p><a href="calendar.php" style="white-space: nowrap;">Calendar</a></p>
+
+					<p><a href="page.php?p=89">Manager Tools</a></p>
+
+					<p><a href="fields.php" style="white-space: nowrap;">Fields</a></p>
+
+					<p><a href="page.php?p=137" target="_self">Game Locations</a></p>
+
+					<p><a href="page.php?p=118" target="_self">Referees</a></p>
+
+					<p><a href="page.php?p=254" target="_self">Lost &amp; Found</a></p>
+
+					<p><a href="page.php?p=310" target="_self">Concussions</a></p>
+
+					<p><a href="UserFiles/files/PDF's%20Fall%202014/LSC_Lightning-Procedure-policy_2014-08-27.pdf" target="_blank">Lightning&nbsp;Protocol</a></p>
+
+					<p><a href="UserFiles/files/LSC%20ACL.pdf">ACL PEP</a></p>
+					</td>
+					<td rowspan="2" style="text-align: left; vertical-align: top; white-space: nowrap;"><strong>About Us</strong>
+					<p><a href="page.php?p=88">Mission and Vision</a></p>
+
+					<p><a href="page.php?p=340" target="_self">Testimonials</a></p>
+
+					<p><a href="teams.php">Select Teams</a></p>
+
+					<p><a href="UserFiles/files/PDF's%202013/Edited%20LSC%20Handbook.pdf" target="_blank">Handbook</a></p>
+
+					<p><a href="UserFiles/files/PDF'S%20Spring%20'14/LSC%20-%20Economic%20Impact%20Study%202013.pdf" target="_self">Economic Impact</a></p>
+					</td>
+					<td rowspan="2" style="text-align: left; vertical-align: top; white-space: nowrap;">
+					<p><b>Contact Us</b><br />
+					<a href="page.php?p=279" target="_self">Communication Flow</a><br />
+					<a href="staff.php?s=1" target="_self">Board of Directors</a></p>
+
+					<p><a href="staff.php?s=5">Executive Leadership Team</a><br />
+					<a href="staff.php?s=3">DoC&#39;s &amp; Coaches</a><br />
+					<a href="staff.php?s=4">Office Staff</a></p>
+
+					<p><a href="UserFiles/files/PDF's%20Fall%202014/LSC%20Player-Parent%20Problem%20Escalation%20Process%2011-2014.pdf" target="_self">Player-Parent Concerns</a></p>
+
+					<p><a href="mailto:info@lonestar-sc.com?subject=LSC%20Inquiry">Email Us</a></p>
+					</td>
+					<td rowspan="2" style="text-align: left; vertical-align: top; white-space: nowrap;">
+					<p><b>Partners</b></p>
+
+					<p><a href="page.php?p=138">Our Partners</a></p>
+
+					<p><a href="page.php?p=139">Club Level Partners</a></p>
+
+					<p><a href="page.php?p=140">Black &amp; Red Partners</a></p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div><div id="social-icons">
+<div id="icon-fb"><a href="http://www.facebook.com/lonestarsc" target="_blank">&nbsp;</a></div>
+
+<div id="icon-tw"><a href="http://www.twitter.com/lonestarsc" target="_blank">&nbsp;</a></div>
+
+<div id="icon-yt"><a href="http://www.youtube.com/lonestarsoccerclubtv" target="_blank">&nbsp;</a></div>
+
+<div id="icon-ig"><a href="http://www.instagram.com/lonestarsc" target="_blank">&nbsp;</a></div>
+</div>
+  </div>
+  <div id="top-menu-inner-right">
+    <div class="main-nav-right"><ul>
+	<li><a href="#">National Leagues</a>
+	<ul>
+		<li><a href="#">Programs</a>
+		<ul>
+			<li><a href="page.php?p=73" target="_self">ECNL Home</a></li>
+			<li><a href="page.php?p=74">USSDA Home</a></li>
+			<li><a href="page.php?p=202">Pre-USSF Home</a></li>
+		</ul>
+		</li>
+		<li><a href="#">Links</a>
+		<ul>
+			<li><a href="http://www.eliteclubsnationalleague.com/index.html" target="_blank">ECNL Website</a></li>
+			<li><a href="http://www.ussoccer.com/teams/development-academy/academy.aspx" target="_blank">USSDA Website</a></li>
+		</ul>
+		</li>
+		<li><a href="#">Schedules</a>
+		<ul>
+			<li><a href="http://www.eliteclubsnationalleague.com/clubs/schedule/26969905.html" target="_blank">ECNL</a></li>
+			<li><a href="http://ussda.demosphere.com/Clubs/schedule/10995532.html" target="_blank">USSDA</a></li>
+			<li><a href="http://www.nationalpremierleagues.com/TEXPAL/Schedules/index_E.html" target="_blank">Pre-USSF</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=136">Uniforms</a></li>
+	</ul>
+	</li>
+	<li><a href="#">SELECT</a>
+	<ul>
+		<li><a href="page.php?p=211" target="_self">Program Overview</a></li>
+		<li><a href="#">Programs</a>
+		<ul>
+			<li><a href="page.php?p=76" target="_self">PL Girls</a></li>
+			<li><a href="page.php?p=77" target="_self">PL Boys</a></li>
+			<li><a href="page.php?p=78" target="_self">SCL/DI Girls</a></li>
+			<li><a href="page.php?p=79" target="_self">SCL/DI Boys</a></li>
+			<li><a href="page.php?p=80" target="_self">SII/DII Girls</a></li>
+			<li><a href="page.php?p=81" target="_self">SII/DII Boys</a></li>
+		</ul>
+		</li>
+		<li><a href="#">Registration</a>
+		<ul>
+			<li><a href="page.php?p=334" target="_self">Player Registration</a></li>
+			<li><a href="UserFiles/files/PDF'S%20Spring%20'14/LSC_U12-U18-select-progrm-fees-for-2014-15-season_2014-05-10%20(1).pdf" target="_blank">2014-15&nbsp;Fees</a></li>
+			<li><a href="page.php?p=127">Financial Aid</a></li>
+		</ul>
+		</li>
+		<li><a href="staff.php?s=3" target="_self">Staff</a></li>
+		<li><a href="teams.php" target="_self">Select Teams</a></li>
+		<li><a href="#">Game Schedules</a>
+		<ul>
+			<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=43471" target="_blank">State Cup</a></li>
+			<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=43469">Presidents Cup</a></li>
+			<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=43468" target="_blank">Directors Cup</a></li>
+			<li><a href="http://www.stxsoccer.org/Competitions/DistrictSTC/index_E.html#.VOaAqfnF-Hg">South Texas Cup/CAYSA</a>
+			<ul>
+				<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=44005">Girls</a></li>
+				<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=44008">Boys</a></li>
+			</ul>
+			</li>
+			<li>Northzone Super II</li>
+			<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=43335">WDDOA Texas Cup</a></li>
+			<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=44083">State Classic League</a></li>
+			<li>Region Premier League</li>
+			<li>Premier League West</li>
+		</ul>
+		</li>
+		<li><a href="UserFiles/files/PDF's%20SPRING%2015/Spring%202015%20GK%20Schedule.pdf" target="_blank">GK Training Schedule</a></li>
+		<li><a href="page.php?p=136" target="_self">Uniforms</a></li>
+		<li><a href="page.php?p=166" target="_self">Volunteer</a></li>
+	</ul>
+	</li>
+	<li><a href="#">JR. ACADEMY</a>
+	<ul>
+		<li><a href="page.php?p=91">Program Overview</a></li>
+		<li><a href="#">Locations</a>
+		<ul>
+			<li><a href="page.php?p=171">Steiner Ranch</a></li>
+			<li><a href="page.php?p=172">Town &amp; Country</a></li>
+			<li><a href="page.php?p=173">Westcreek</a></li>
+			<li><a href="page.php?p=174">Williamson County Regional Park</a></li>
+			<li><a href="page.php?p=199">Justin Lane</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=92">Calendar</a></li>
+		<li><a href="page.php?p=93">Staff</a></li>
+		<li><a href="page.php?p=112">Schedules</a></li>
+		<li><a href="page.php?p=113">Fields </a></li>
+		<li><a href="page.php?p=169">Uniforms</a></li>
+		<li><a href="page.php?p=518">Frequently Asked Questions</a></li>
+	</ul>
+	</li>
+	<li><a href="#">RECREATIONAL</a>
+	<ul>
+		<li><a href="page.php?p=250" target="_self">Program Overview</a></li>
+		<li><a href="page.php?p=100">South Rec (LSC-AUC)</a>
+		<ul>
+			<li><a href="page.php?p=176">Registration</a></li>
+			<li><a href="page.php?p=210">Calendar</a></li>
+			<li><a href="page.php?p=115">Schedules</a></li>
+			<li><a href="page.php?p=119">Developmental Training</a></li>
+			<li><a href="page.php?p=105">Lil Lonestars</a></li>
+			<li><a href="page.php?p=479">Contacts</a></li>
+			<li><a href="page.php?p=519">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=120" target="_self">Central&nbsp;Rec (LSC-CBA)</a>
+		<ul>
+			<li><a href="page.php?p=213" target="_self">Registration</a></li>
+			<li><a href="page.php?p=122" target="_self">Calendar</a></li>
+			<li><a href="page.php?p=123" target="_self">Schedules</a></li>
+			<li><a href="page.php?p=214" target="_self">Developmental Training</a></li>
+			<li><a href="page.php?p=106">Lil Lonestars</a></li>
+			<li><a href="page.php?p=488">Contacts</a></li>
+			<li><a href="page.php?p=519">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=208" target="_self">Northwest&nbsp;Rec (LSC-CCU)</a>
+		<ul>
+			<li><a href="page.php?p=170" target="_self">Registration</a></li>
+			<li><a href="page.php?p=130" target="_self">Calendar</a></li>
+			<li><a href="page.php?p=135" target="_self">Schedules</a></li>
+			<li><a href="page.php?p=215" target="_self">Developmental Training</a></li>
+			<li><a href="page.php?p=104" target="_self">Lil&nbsp;Lonestars</a></li>
+			<li><a href="page.php?p=475" target="_self">Contact Us</a></li>
+			<li><a href="page.php?p=519">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=529">Leander Rec&nbsp;(LSC-Leander)</a>
+		<ul>
+			<li><a href="page.php?p=530">Registration</a></li>
+			<li><a href="page.php?p=531">Calendar</a></li>
+			<li><a href="page.php?p=532">Schedules</a></li>
+			<li><a href="page.php?p=534">Developmental Trainig</a></li>
+			<li><a href="page.php?p=533">Lil Lonestars</a></li>
+			<li><a href="page.php?p=536">Contact Us</a></li>
+			<li>Frequently Asked Questions</li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=436" target="_self">North&nbsp;Rec (LSC-WCRP)</a>
+		<ul>
+			<li><a href="page.php?p=463" target="_self">Registration</a></li>
+			<li><a href="page.php?p=464" target="_self">Calendar</a></li>
+			<li><a href="page.php?p=462" target="_self">Schedules</a></li>
+			<li><a href="page.php?p=465" target="_self">Developmental Training</a></li>
+			<li><a href="page.php?p=466" target="_self">Lil&nbsp;Lonestars</a></li>
+			<li><a href="page.php?p=486" target="_self">Contact Us</a></li>
+			<li><a href="page.php?p=519">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=477">Northeast Rec (LSC-RR)</a>
+		<ul>
+			<li><a href="page.php?p=429" target="_self">Registration</a></li>
+			<li><a href="page.php?p=427">Calendar</a></li>
+			<li><a href="page.php?p=433">Schedules</a></li>
+			<li><a href="page.php?p=420">Developmental Training</a></li>
+			<li><a href="page.php?p=431">Lil&nbsp;Lonestars</a></li>
+			<li><a href="page.php?p=489">Contacts</a></li>
+			<li><a href="page.php?p=519">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=478">Taylor (LSC-Taylor)</a>
+		<ul>
+			<li><a href="page.php?p=430">Registration</a></li>
+			<li><a href="page.php?p=428">Calendar</a></li>
+			<li><a href="page.php?p=434">Schedules</a></li>
+			<li><a href="page.php?p=424">Developmental Training</a></li>
+			<li><a href="page.php?p=432">Lil&nbsp;Lonestars</a></li>
+			<li><a href="page.php?p=490">Contacts</a></li>
+			<li><a href="page.php?p=519">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=205" target="_self">Coaches Corner</a></li>
+		<li><a href="page.php?p=470">Contact Us</a></li>
+		<li><a href="#">Rec Partners</a>
+		<ul>
+			<li><a href="http://soccer.tandcsports.org/" target="_blank">TC Optimist Soccer</a></li>
+			<li><a href="http://lonestar-sc.com/UserFiles/files/PDF's%20Fall%202014/2014%20Fall%20flyer.pdf" target="_blank">TC Optimist Fall 2014 Flyer</a></li>
+			<li><a href="http://www.westlakesoccer.com/" target="_blank">Westlake Youth Soccer</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a href="#">TOURNAMENTS</a>
+	<ul>
+		<li><a href="page.php?p=34">TOURNAMENTS HOME</a></li>
+		<li><a href="page.php?p=111">ALDC</a>
+		<ul>
+			<li><a href="page.php?p=111">HOME</a></li>
+			<li><a href="page.php?p=379">Rules</a></li>
+			<li><a href="page.php?p=380">Hotels</a></li>
+			<li><a href="page.php?p=381">Schedules &amp; Scores</a></li>
+			<li><a href="page.php?p=382">Fields</a></li>
+			<li><a href="page.php?p=401">Referees</a></li>
+			<li><a href="page.php?p=231">Tournament Apparel</a></li>
+			<li><a href="page.php?p=383">Volunteers</a></li>
+			<li><a href="page.php?p=384">FAQ</a></li>
+			<li><a href="page.php?p=385">Contact</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=95">Boys Showcase</a>
+		<ul>
+			<li><a href="page.php?p=95">HOME</a></li>
+			<li><a href="page.php?p=143">Rules&nbsp;&amp; Check In</a></li>
+			<li><a href="page.php?p=144">College Coaches</a></li>
+			<li><a href="page.php?p=152">Player Profiles</a></li>
+			<li><a href="page.php?p=148">Hotels</a></li>
+			<li><a href="page.php?p=149">Schedules</a></li>
+			<li><a href="page.php?p=150">Fields</a></li>
+			<li><a href="page.php?p=231">Tournament Apparel</a></li>
+			<li><a href="page.php?p=151">Volunteers</a></li>
+			<li><a href="page.php?p=153">FAQ</a></li>
+			<li><a href="page.php?p=184">Contact</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=96">Capital City Classic</a>
+		<ul>
+			<li><a href="page.php?p=96">HOME</a></li>
+			<li><a href="page.php?p=179">Rules&nbsp;&amp; Check In</a></li>
+			<li><a href="page.php?p=180">Hotels</a></li>
+			<li><a href="page.php?p=181">Schedules and Scores</a></li>
+			<li><a href="page.php?p=183">Fields</a></li>
+			<li><a href="page.php?p=231">Tournament Apparel</a></li>
+			<li><a href="page.php?p=182">Volunteers</a></li>
+			<li><a href="page.php?p=221">FAQ</a></li>
+			<li><a href="page.php?p=185">Contact</a></li>
+		</ul>
+		</li>
+		<li><a href="#">3v3 Winter</a>
+		<ul>
+			<li><a href="page.php?p=195">Home</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=242">Jr ECNL</a>
+		<ul>
+			<li><a href="page.php?p=242">HOME</a></li>
+			<li><a href="page.php?p=243">Rules&nbsp;and Check In</a></li>
+			<li><a href="page.php?p=244">Hotels</a></li>
+			<li><a href="page.php?p=245">Schedules</a></li>
+			<li><a href="page.php?p=246">Fields</a></li>
+			<li><a href="page.php?p=231">Tournament Apparel</a></li>
+			<li><a href="page.php?p=249">Volunteers</a></li>
+			<li><a href="#">FAQ</a></li>
+			<li><a href="page.php?p=247">Contact</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=142">Girls Showcase</a>
+		<ul>
+			<li><a href="page.php?p=142">HOME</a></li>
+			<li><a href="page.php?p=186">Rules&nbsp;&amp; Check In</a></li>
+			<li><a href="page.php?p=222">College Coaches</a></li>
+			<li><a href="page.php?p=282">Player Profiles</a></li>
+			<li><a href="page.php?p=187">Hotels</a></li>
+			<li><a href="page.php?p=189">Schedules</a></li>
+			<li><a href="page.php?p=191">Fields</a></li>
+			<li><a href="page.php?p=231">Tournament Apparel</a></li>
+			<li><a href="page.php?p=192">Volunteers</a></li>
+			<li><a href="page.php?p=193">FAQ</a></li>
+			<li><a href="page.php?p=190">Contact</a></li>
+		</ul>
+		</li>
+		<li><a href="page.php?p=315">Spring SHOOTOUT</a>
+		<ul>
+			<li><a href="page.php?p=315">HOME</a></li>
+			<li><a href="#">Rules</a><a href="page.php?p=316">&nbsp;&amp; Check In</a></li>
+			<li><a href="page.php?p=317">Hotels</a></li>
+			<li><a href="page.php?p=318">Schedules &amp; Scores</a></li>
+			<li><a href="page.php?p=319">Fields</a></li>
+			<li><a href="page.php?p=231">Tournament Apparel</a></li>
+			<li><a href="page.php?p=320">Volunteers</a></li>
+			<li><a href="#">FAQ</a></li>
+			<li><a href="page.php?p=321">Contact</a></li>
+		</ul>
+		</li>
+		<li><a href="#">3v3 Summer</a>
+		<ul>
+			<li><a href="page.php?p=194">Home</a></li>
+			<li>&nbsp;</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a href="page.php?p=235" target="_self">CAMPS</a>
+	<ul>
+		<li><a href="page.php?p=235" target="_self">Premier Camps</a></li>
+		<li><a href="page.php?p=372" target="_self">Elite Tech&nbsp;Camps</a></li>
+		<li><a href="page.php?p=435">Camp Calendar</a></li>
+	</ul>
+	</li>
+</ul>
+</ul>
+    </div>
+  </div>
+</div>
+<div id="content-container-wide" class="clearfix">
+  <div id="wide-area-container">
+    <div>
+      <h1 id="page-title">
+        Coaching Staff      </h1>
+    </div>
+    <div id="wide-area-content">
+      
+Click Name for email address<br />
+<br />
+<table width="100%" border="0" cellpadding="5" cellspacing="0" class="st_staff_table" >
+  <tr valign="top">
+    <th align="center" nowrap>Name/Title</th>
+    <th align="center" nowrap>Phone</th>
+    <th align="center" nowrap>Bio</th>
+    <th align="center">Photo</th>
+  </tr>
+      <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:sallison@lonestar-sc.com" >Steve Allison</a></strong><br/>
+        Exec. Dir. of College Placement</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 336-908-9580        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=28">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=28"><img src="st_photos/staff/28_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:don_cameron@lonestar-sc.com" >Don Cameron</a></strong><br/>
+        Executive Dir. of Select Soccer</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=27">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=27"><img src="st_photos/staff/27_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:rob_ferguson@lonestar-sc.com" >Rob Ferguson</a></strong><br/>
+        Executive Dir. of Business</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425 x5        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=21">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=21"><img src="st_photos/staff/21_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:vpace@lonestar-sc.com" >Victor Pace</a></strong><br/>
+        Executive Dir. of USSF Programs</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-786-4551        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=29">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=29"><img src="st_photos/staff/29_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:sbailey@lonestar-sc.com" >Steve Bailey</a></strong><br/>
+        Boys Premier League DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=41">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=41"><img src="st_photos/staff/41_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:rblanton@lonestar-sc.com" >Rory Blanton</a></strong><br/>
+        Jr. Acad. DoC - South/Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=71">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=71"><img src="st_photos/staff/71_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:kc_crabb@lonestar-sc.com" >KC Crabb</a></strong><br/>
+        Girls SII & DII DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=62">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=62"><img src="st_photos/staff/62_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:afincher@lonestar-sc.com" >Allen 'Finchy' Fincher</a></strong><br/>
+        Dir Buss Oper. & Boys DI/SCL DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425 x4        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=57">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=57"><img src="st_photos/staff/57_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:agutierrez@lonestar-sc.com" >Alfonso Gutierrez</a></strong><br/>
+        Boys SII & DII DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=90">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=90"><img src="st_photos/staff/90_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:rlopez@lonestar-sc.com" >Robert Lopez</a></strong><br/>
+        LRR/TAYLOR & camp DoC / HD coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-496-7072        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=55">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=55"><img src="st_photos/staff/55_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:lpapandrea@lonestar-sc.com" >Luis Papandrea</a></strong><br/>
+        Co-Technical DoC/Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=50">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=50"><img src="st_photos/staff/50_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:tstjohn@lonestar-sc.com" >Tommy St. John</a></strong><br/>
+        Jr. Academy DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=51">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=51"><img src="st_photos/staff/51_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:eric_stilley@lonestar-sc.com" >Eric Stilley</a></strong><br/>
+        Girls SCL & DI DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=31">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=31"><img src="st_photos/staff/31_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:rswain@lonestar-sc.com" >Rich Swain</a></strong><br/>
+        LSC-AUC Recreational DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=66">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=66"><img src="st_photos/staff/66_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:mteale@lonestar-sc.com" >Maca Teale</a></strong><br/>
+        CCU & CBA Recreational DoC</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=54">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=54"><img src="st_photos/staff/54_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:lcameron@lonestar-sc.com" >Lorne Cameron</a></strong><br/>
+        Asst. DoC/Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=72">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=72"><img src="st_photos/staff/72_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:vdixit@lonestar-sc.com" >Vijay Dixit</a></strong><br/>
+        Asst. DoC/Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=43">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=43"><img src="st_photos/staff/43_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:smundy@lonestar-sc.com" >Sophia Mundy</a></strong><br/>
+        Asst. DoC/Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=56">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=56"><img src="st_photos/staff/56_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:bmurphy@lonestar-sc.com" >Bobby Murphy</a></strong><br/>
+        Asst. DoC/Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-327-1213        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=48">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=48"><img src="st_photos/staff/48_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:atapp@lonestar-sc.com" >Alex Tapp</a></strong><br/>
+        Asst. DoC/Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=53">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=53"><img src="st_photos/staff/53_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:dwarham@lonestar-sc.com" >Darren Warham</a></strong><br/>
+        Asst. DoC/Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=78">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=78"><img src="st_photos/staff/78_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:jchandler@lonestar-sc.com" >Jared Chandler</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=58">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=58"><img src="st_photos/staff/58_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:cclements@lonestar-sc.com" >Chris Clements</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=96">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=96"><img src="st_photos/staff/96_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:mharvey@lonestar-sc.com" >Mike Harvey</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=98">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=98"><img src="st_photos/staff/98_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:jharwell@lonestar-sc.com" >Jeffrey Harwell</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=88">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=88"><img src="st_photos/staff/88_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:mlally@lonestar-sc.com" >Mike Lally</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=97">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=97"><img src="st_photos/staff/97_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:dlozano@lonestar-sc.com" >David Lozano</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=65">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=65"><img src="st_photos/staff/65_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:tmacdonald@lonestar-sc.com" >Tara Macdonald</a></strong><br/>
+        Goalkeeper Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=100">GO</a></td>
+      <td align="center" nowrap>        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:smaguire@lonestar-sc.com" >Shane Maguire</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=80">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=80"><img src="st_photos/staff/80_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:cmaguire@lonestar-sc.com" >Ciaran Maguire</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=61">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=61"><img src="st_photos/staff/61_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:jmather@lonestar-sc.com" >Jeny Mather</a></strong><br/>
+        Head Coach/CCU Admin/Website</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425 x6        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=84">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=84"><img src="st_photos/staff/84_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:pmccann@lonestar-sc.com" >Peter McCann</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=64">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=64"><img src="st_photos/staff/64_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:dmcullough@lonestar-sc.com" >David McCullough</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=47">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=47"><img src="st_photos/staff/47_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:tmcgary@lonestar-sc.com" >Tony McGary</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=60">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=60"><img src="st_photos/staff/60_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:tmeyer@lonestar-sc.com" >Tim Meyer</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-983-0443        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=77">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=77"><img src="st_photos/staff/77_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:jnarita@lonestar-sc.com" >Junro Narita</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=79">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=79"><img src="st_photos/staff/79_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:mosullivan@lonestar-sc.com" >Matt O'Sullivan</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=46">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=46"><img src="st_photos/staff/46_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:aparra@lonestar-sc.com" >Alex Parra</a></strong><br/>
+        Goalkeeper Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=63">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=63"><img src="st_photos/staff/63_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:tponce@lonestar-sc.com" >Tyra Ponce</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=70">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=70"><img src="st_photos/staff/70_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:zack_pope@lonestar-sc.com" >Zack Pope</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=94">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=94"><img src="st_photos/staff/94_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:mprindle@lonestar-sc.com" >Mark Prindle</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=52">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=52"><img src="st_photos/staff/52_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:equintana@lonestar-sc.com" >Eddie Quintana</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-899-1049        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=40">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=40"><img src="st_photos/staff/40_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:krdzanek@lonestar-sc.com" >Kelsey Rdzanek</a></strong><br/>
+        Head Coach & NL Admin</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425 x8        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=68">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=68"><img src="st_photos/staff/68_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:jreyes@lonestar-sc.com" >Josh Reyes</a></strong><br/>
+        Head Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=104">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=104"><img src="st_photos/staff/104_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:fribas@lonestar-sc.com" >Fernando Ribas</a></strong><br/>
+        Goalkeeper Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=103">GO</a></td>
+      <td align="center" nowrap>        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:uvazquez@lonestar-sc.com" >Ubaldo Vazquez</a></strong><br/>
+        Goalkeeper Coach</td>
+      <td align="left" nowrap>                        <strong>Work:</strong> 512-336-5425        </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=35">GO</a></td>
+      <td align="center" nowrap>                <a href="bio.php?sid=35"><img src="st_photos/staff/35_t.jpg" hspace="0" border="0"></a>
+        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:doc@westlakesoccer.com" >Steve Ferguson</a></strong><br/>
+        Westlake Youth Soccer DoC</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=44">GO</a></td>
+      <td align="center" nowrap>        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:lonestarkilleen@ymail.com" >Freddy Guerrero</a></strong><br/>
+        CTX DoC/Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=74">GO</a></td>
+      <td align="center" nowrap>        </td>
+    </tr>
+        <tr valign="top">
+      <td align="left" nowrap><strong><a href="mailto:jgustafson@lonestar-sc.com" >Josh Gustafson</a></strong><br/>
+        Dev Training Head Coach</td>
+      <td align="left" nowrap>                </td>
+      <td align="center" valign="middle" nowrap><a href="bio.php?sid=39">GO</a></td>
+      <td align="center" nowrap>        </td>
+    </tr>
+    </table>
+    </div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div id="links-section">
+  <h2 class="quick-links-title">QUICK LINKS</h2>
+  <div id="links-section-inner"><table align="center" border="0" cellpadding="5" cellspacing="0" style="width: 100%;">
+	<thead>
+		<tr>
+			<th scope="col"><strong><span style="font-family:arial,helvetica,sans-serif;">National Leagues</span></strong></th>
+			<th scope="col"><strong><span style="font-family:arial,helvetica,sans-serif;">Select</span></strong></th>
+			<th scope="col"><strong><span style="font-family:arial,helvetica,sans-serif;">Jr. Academy</span></strong></th>
+			<th scope="col"><strong><span style="font-family:arial,helvetica,sans-serif;">Events</span></strong></th>
+			<th scope="col"><strong><span style="font-family:arial,helvetica,sans-serif;">Tournaments</span></strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center; vertical-align: top;">
+			<p><a href="page.php?p=73">ECNL Home</a></p>
+
+			<p><a href="page.php?p=74">USSF Home</a></p>
+
+			<p><a href="page.php?p=202">Pre USSF Home</a></p>
+
+			<p><a href="http://www.eliteclubsnationalleague.com/clubs/schedule/26969905.html" target="_blank">LSC ECNL Schedule</a></p>
+
+			<p><a href="http://ussda.demosphere.com/Clubs/schedule/10995532.html" target="_blank">LSC USSF&nbsp;Schedule</a></p>
+			</td>
+			<td style="text-align: center; vertical-align: top;">
+			<p><a href="#">Select Home</a></p>
+
+			<p><a href="page.php?p=89">Team&nbsp;Manager Tools</a></p>
+
+			<p><a href="teams.php">Teams</a></p>
+
+			<p><a href="page.php?p=404" target="_self">College Placement</a></p>
+
+			<p><a href="fields.php">Fields</a></p>
+			</td>
+			<td style="text-align: center; vertical-align: top;">
+			<p><a href="page.php?p=91">Jr Academy Home</a></p>
+
+			<p><a href="page.php?p=93">Contacts</a></p>
+
+			<p><a href="page.php?p=92">Calendar</a></p>
+
+			<p><a href="page.php?p=113">Fields</a></p>
+
+			<p><a href="page.php?p=112">Schedules</a></p>
+			</td>
+			<td style="text-align: center; vertical-align: top;">
+			<p><a href="page.php?p=83">Events Home</a></p>
+
+			<p><a href="page.php?p=84">24 Hr Marathon</a></p>
+
+			<p><a href="page.php?p=85">Golf Tournament</a></p>
+
+			<p><a href="page.php?p=203" target="_self">Red &amp; Black Banquet</a></p>
+			<a href="page.php?p=146">Europe Trip</a></td>
+			<td style="text-align: center; vertical-align: top;">
+			<p><a href="page.php?p=34">Tournaments Home</a></p>
+
+			<p><a href="page.php?p=111">ALDC</a></p>
+
+			<p><a href="page.php?p=95">Boys Showcase</a></p>
+
+			<p><a href="page.php?p=96">Capital City Classic</a></p>
+
+			<p><a href="page.php?p=242">Jr. ECNL Event</a></p>
+
+			<p><a href="page.php?p=142">Girls Showcase</a></p>
+
+			<p><a href="page.php?p=315">Spring Shootout</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+<div id="footer"><table border="0" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td><img alt="" src="UserFiles/images/theme/lsc-logo-footer.png" style="height:104px; width:240px" /></td>
+			<td>
+			<h2>NORTH OFFICE</h2>
+
+			<p>Office Hours: 9-5, Mon-Fri</p>
+
+			<p>12325 Hymeadow Drive, Bldg 1-200<br />
+			Austin, TX 78750<br />
+			512.336.5425 Office Number<br />
+			512.336.7877 Fax Number<br />
+			<a href="https://maps.google.com/maps?expflags=enable_star_based_justifications:true&amp;ie=UTF8&amp;f=d&amp;daddr=Lonestar+Soccer+Club,+12325+Hymeadow+Dr,+Austin,+TX+78750&amp;geocode=CZloX0ixO5DMFUe10AEdzb0r-iGX3PjR7BGiag&amp;gl=US&amp;hl=en-US" target="_blank">Map/Directions</a></p>
+			</td>
+			<td>
+			<h2>SOUTH OFFICE</h2>
+
+			<p>Office Hours: 10-5, Mon-Fri</p>
+
+			<p>5716 Hwy 290 West, Suite 212<br />
+			Austin, TX 78735<br />
+			512.899.1049 Office Number<br />
+			512.899.1089 Fax Number<br />
+			<a href="https://maps.google.com/maps?q=Suite+212,+5716+Hwy+290+West+Austin,+TX+78735&amp;hl=en&amp;ll=30.236555,-97.847178&amp;spn=0.00799,0.006266&amp;sll=30.236842,-97.846684&amp;sspn=0.01598,0.012531&amp;hnear=5716+W+Hwy+290+%23212,+Austin,+Texas+78735&amp;t=m&amp;z=17&amp;iwloc=A" target="_blank">Map/Directions</a></p>
+			</td>
+			<td style="text-align: right;"><a href="http://www.lonestar-sc-sa.com"><img alt="" src="UserFiles/images/theme/lsc-sa-button-1.png" style="height:73px; width:196px" /></a></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<div id="copyright-container" class="clearfix"><div id="copyright">&copy;2013 by Lonestar SC</div>
+
+<div id="steeltree">Website by <a href="http://steeltree.com">steeltree</a></div>
+</div>
+</div>
+</body>
+</html>

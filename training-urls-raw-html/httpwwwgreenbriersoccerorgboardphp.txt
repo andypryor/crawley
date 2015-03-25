@@ -1,0 +1,208 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Greenbrier Soccer Club</title>
+<link href="soccer.css" rel="stylesheet">
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+</head>
+<body>
+<div align="center"><table border="0" cellpadding="0" cellspacing="0"><tr>
+<td>
+<!-- saved from url=(0013)about:internet -->
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '800',
+			'height', '171',
+			'src', 'header',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'header',
+			'bgcolor', '#000000',
+			'name', 'header',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', 'header',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="800" height="171" id="header" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="header.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" />	<embed src="header.swf" quality="high" bgcolor="#000000" width="800" height="171" name="header" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+</td>
+</tr><tr>
+<td class="sidebkg">
+
+   <div align="center"><table border="0" cellpadding="0" cellspacing="0" width="783"><tr>
+   <td class="topbar"><img src="img/bar_top.png"></td>
+   </tr><tr>
+   <td class="bodybkg">
+
+      <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+      <td valign="top" align="left">
+
+
+<!-- Begin Navigation Table -->
+<table border="0" cellpadding="0" cellspacing="0" width="171">
+<tr><td width="171" height="24" class="navbkg"><a href="index.php" class="sidelinks">&nbsp;&nbsp;Home</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="news.php" class="sidelinks">&nbsp;&nbsp;News</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="schedules.php" class="sidelinks">&nbsp;&nbsp;Schedules</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="http://greenbriersoccer.org/photos.php" class="sidelinks" target="_blank">&nbsp;&nbsp;Photos</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="http://greenbriersoccer.org/calendar/" class="sidelinks" target="_blank">&nbsp;&nbsp;Event Calendar</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="http://www.prepsportswear.com/Redirector.aspx?system=teamstoreadmin&keyword=websitelink&SchoolId=1753674" class="sidelinks" target="_blank">&nbsp;&nbsp;Club Gear</a></td></tr>
+<!-- tr><td width="171" height="24" class="navbkg"><a href="http://www.glowar.com/casl/age_brackets.html" class="sidelinks" target="_blank">&nbsp;&nbsp;Age Brackets</a></td></tr -->
+<tr><td width="171" height="24" class="navbkg"><a href="http://maps.yahoo.com/maps_result.php?q1=61+Glenn+Ln%2C+Greenbrier%2C+AR+72058&rd=1" class="sidelinks" target="_blank">&nbsp;&nbsp;Maps</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="soccerlinks.php" class="sidelinks">&nbsp;&nbsp;Soccer Links</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="coach.php" class="sidelinks">&nbsp;&nbsp;Coach's Corner</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="ref.php" class="sidelinks">&nbsp;&nbsp;Referee Program</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="board.php" class="sidelinks">&nbsp;&nbsp;Board of Directors</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="GreenbrierSoccerClubandParkPolicies.pdf" target="_blank" class="sidelinks">&nbsp;&nbsp;Club & Park Policy</a></td></tr>
+<tr><td width="171" height="24" class="navbkg"><a href="communique.php" class="sidelinks">&nbsp;&nbsp;Contact</a></td></tr>
+<!--<tr><td width="171" height="24" class="navbkg"><a href="https://www.gotsport.com/asp/application/easyreg/?ProgramID=3487" class="sidelinks" target="_blank">&nbsp;&nbsp;Online Registration</a></td></tr>-->
+</table>
+<!-- End Navigation Table -->
+
+<p>&nbsp;
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="171" class="bodybkg">
+<tr><td width="171" height="24" class="navbkg">
+&nbsp;&nbsp;<span class="sidelinks">Club Sponsors</span></td></tr>
+<tr><td width="171" align="center"><br>
+<a href='http://greenbriersoccer.org' target='_blank'><img src='img/sponsors/mom.png' border='0'></a><p>
+<a href='http://www.my100bank.com/' target='_blank'><img src='img/sponsors/centennial_bank.png' border='0'></a><p align="right"><a href="sponsors.php"><b>Be a Club Sponsor&nbsp;&nbsp;<br>Click Here</b></a>&nbsp;&nbsp;</p>
+</td></tr>
+</table>
+<p>&nbsp;
+<p>&nbsp;
+      </td>
+      <td valign="top" width="70%">
+
+<!-- Begin Body Table -->
+         <div align="center"><table border="0" width="95%"><tr>
+         <td>
+
+<br>
+<div align="center" class="title">
+Board of Directors
+</div>
+<br>
+
+        <div align="center">
+          <table border="0" cellpadding="0" cellspacing="5">
+            <tr>
+              <td>
+<ul><span class="board">President:</span>
+<li>Russell Everett
+<li><a href="mailto:president@greenbriersoccer.org">president@greenbriersoccer.org</a>
+</ul>
+
+<ul><span class="board">Vice-President</span>
+<li><!-- Kate Hoopchuk -->
+<li><!-- <a href="mailto:vicepresident@greenbriersoccer.org">vicepresident@greenbriersoccer.org</a> -->
+</ul>
+
+<ul><span class="board">Registrar:</span>
+<li>Timsey Everett
+<li><a href="mailto:registrar@greenbriersoccer.org">registrar@greenbriersoccer.org</a>
+</ul>
+
+<ul><span class="board">Treasurer:</span>
+<li>Bruce Welch
+<li><a href="mailto:treasurer@greenbriersoccer.org">treasurer@greenbriersoccer.org</a>
+</ul>
+
+<ul><span class="board">Fundraising Coordinator:</span>
+<li>Lauren Limperis
+<li><a href="mailto:fundraiser@greenbriersoccer.org">fundraiser@greenbriersoccer.org</a>
+</ul>
+
+<ul><span class="board">Field Maintenance:</span>
+<li>Steve Tapley
+<li><a href="mailto:field@greenbriersoccer.org">field@greenbriersoccer.org</a>
+</ul> 
+
+<ul><span class="board">Coaching Coordinators:</span>
+<li>Lavonne Johnston
+<li>Larry Green
+<li><a href="mailto:coach@greenbriersoccer.org">coach@greenbriersoccer.org</a>
+</ul>
+
+<ul><span class="board">Referee Coordinator:</span>
+<li>Wesley Hibner
+<li><a href="mailto:referee@greenbriersoccer.org">referee@greenbriersoccer.org</a>
+</ul>
+             </td>
+            </tr>
+          </table>
+        </div>
+        <div align="center">
+          <table border="0" cellpadding="0" cellspacing="5">
+            <tr>
+              <td bgcolor="#FFFFFF">Mail us at:
+                                    <br>P.O. Box 897
+                                    <br>Greenbrier, AR 72058</td>
+            </tr>
+          </table>
+        </div>
+
+<br>
+
+<p>&nbsp;
+
+         </td>
+         </tr></table></div>
+<!-- End Body Table -->
+
+      <td valign="top" align="right">
+<p>&nbsp;
+
+
+<table border='0' cellpadding='0' cellspacing='0' width='171' class='bodybkg'>
+<tr><td width='171' height='24' class='navbkg'>
+&nbsp;&nbsp;<span class='sidelinks'>Field Status</span> <img src='img/field_open.png'></td></tr>
+<tr><td width='171'>&nbsp;&nbsp;
+</td></tr>
+</table>
+
+<p>&nbsp;
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="171" class="bodybkg">
+<tr><td width="171" height="24" class="navbkg">
+&nbsp;&nbsp;<span class="sidelinks">Club Sponsors</span></td></tr>
+<tr><td width="171" align="center"><br>
+<a href='http://www.alacritous.com' target='_blank'><img src='img/sponsors/alacritous.png' border='0'></a><p>
+<a href='http://greenbriersoccer.org' target='_blank'><img src='img/sponsors/dad.png' border='0'></a><p align="right"><a href="sponsors.php"><b>Be a Club Sponsor&nbsp;&nbsp;<br>Click Here</b></a>&nbsp;&nbsp;</p>
+</td></tr>
+</table>
+      </td>
+      </tr></table>
+
+   </td>
+   </tr></table></div>
+
+</td>
+</tr></table></div>
+<p>&nbsp;
+<div align="center">
+<img src="img/log.jpg"><br>
+<a href="mailto:webmaster@greenbriersoccer.org"><span class="baseline">Greenbrier Soccer Club</span></a></div>
+</body>
+</html>

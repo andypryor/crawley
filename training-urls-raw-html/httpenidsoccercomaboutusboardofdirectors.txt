@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Board of Directors | Enid Soccer Club</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://enidsoccer.com/wp-content/themes/twentyten/style.css" />
+<link rel="pingback" href="http://enidsoccer.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Enid Soccer Club &raquo; Feed" href="http://enidsoccer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Enid Soccer Club &raquo; Comments Feed" href="http://enidsoccer.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Enid Soccer Club &raquo; iCal Feed" href="http://enidsoccer.com/events/?ical=1" />
+<link rel='stylesheet' id='wpsqt-main-css'  href='http://enidsoccer.com/wp-content/plugins/wp-survey-and-quiz-tool/css/main.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='announcer-css-css'  href='http://enidsoccer.com/wp-content/plugins/announcer/public/announcer-styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://enidsoccer.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.4-5380' type='text/css' media='screen' />
+<link rel='stylesheet' id='toc-screen-css'  href='http://enidsoccer.com/wp-content/plugins/table-of-contents-plus/screen.css?ver=1404' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-full-calendar-style-css'  href='http://enidsoccer.com/wp-content/plugins/the-events-calendar/resources/tribe-events-full.min.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-style-css'  href='http://enidsoccer.com/wp-content/plugins/the-events-calendar/resources/tribe-events-theme.min.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css'  href='http://enidsoccer.com/wp-content/plugins/the-events-calendar/resources/tribe-events-full-mobile.min.css?ver=3.8.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='tribe-events-calendar-mobile-style-css'  href='http://enidsoccer.com/wp-content/plugins/the-events-calendar/resources/tribe-events-theme-mobile.min.css?ver=3.8.1' type='text/css' media='only screen and (max-width: 768px)' />
+        <script type="text/javascript">
+            var eppathtoscripts = "http://enidsoccer.com/wp-content/plugins/youtube-embed-plus/scripts/";
+            var epresponsiveselector = ["iframe[src*='youtube.com']","iframe[src*='youtube-nocookie.com']","iframe[data-ep-src*='youtube.com']","iframe[data-ep-src*='youtube-nocookie.com']"];
+            var epdovol = true; //false;
+        </script>
+        <script type='text/javascript' src='http://enidsoccer.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://enidsoccer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://enidsoccer.com/wp-content/plugins/wp-survey-and-quiz-tool/js/site.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://enidsoccer.com/wp-content/plugins/announcer/public/announcer-js.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://enidsoccer.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://enidsoccer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://enidsoccer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<link rel='canonical' href='http://enidsoccer.com/about-us/board-of-directors/' />
+<link rel='shortlink' href='http://enidsoccer.com/?p=291' />
+</head>
+
+<body class="page page-id-291 page-child parent-pageid-6 page-template-default custom-background tribe-theme-twentyten page-template-page-php">
+<div id="wrapper" class="hfeed">
+	<div id="header" style="position: relative;">
+		<a href="http://enidsoccer.com/" title="Enid Soccer Club" rel="home"><img src="http://enidsoccer.com/wp-content/uploads/2014/07/esc.png" style="position: absolute; top: 15px; left: 10px;" /></a>
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a style="padding-left: 170px;" href="http://enidsoccer.com/" title="Enid Soccer Club" rel="home">Enid Soccer Club</a>
+					</span>
+				</div>
+				<div id="site-description">Home of the Pumas and Pride</div>
+
+										<img src="http://enidsoccer.com/wp-content/uploads/2014/06/940x100_1.png" width="940" height="100" alt="" />
+
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+
+
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-top" class="menu"><li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-38"><a href="http://enidsoccer.com/">Home</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-39"><a href="http://enidsoccer.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-291 current_page_item menu-item-299"><a href="http://enidsoccer.com/about-us/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="http://enidsoccer.com/about-us/club-history/">Club History</a></li>
+	<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://enidsoccer.com/about-us/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://enidsoccer.com/registration/">Registration</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://enidsoccer.com/schedule/">Schedule</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://enidsoccer.com/resources/">Resources</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="http://enidsoccer.com/events/">Events</a></li>
+<li id="menu-item-1021" class="menuRight menu-item menu-item-type-custom menu-item-object-custom menu-item-1021"><a href="http://enidsoccer.com/wp-login.php?redirect_to=%2F">Login</a></li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+<br />
+				<div id="post-291" class="post-291 page type-page status-publish hentry">
+											<h1 class="entry-title">Board of Directors</h1>
+					
+					<div class="entry-content">
+						<p>Board meetings are held monthly. A general membership meeting is held once each season (usually May and November). Board member elections are held every year during the spring membership meeting. Directors serve for two years. Five of the ten positions are up for election in any given year.</p>
+<p>More detailed information and rules on voting can be found in the ESC Bylaws.</p>
+<p>Current directors are listed below.</p>
+<ul>
+<li>Chad Owens &#8211; <em>President (</em><a href="mailto:president@enidsoccer.com">president@enidsoccer.com</a>)</li>
+<li>Brian Hacker &#8211; <em>1st Vice President </em>(<a href="mailto:1stvp@enidsoccer.com">1stvp@enidsoccer.com</a>)</li>
+<li>Jeff Phillips &#8211; <em>Registrar</em> (<a href="mailto:registrar@enidsoccer.com">registrar@enidsoccer.com</a>)</li>
+<li>Carrie Villarreal &#8211; <em>Scheduler</em> (<a href="mailto:scheduler@enidsoccer.com">scheduler@enidsoccer.com</a>)</li>
+<li>Charles Owens &#8211; <em>Head Coach</em> (<a href="mailto:headcoach@enidsoccer.com">headcoach@enidsoccer.com</a>)</li>
+<li>Tim Rehmel &#8211; <em>Head Referee</em> (<a href="mailto:headref@enidsoccer.com">headref@enidsoccer.com</a>)</li>
+<li>Carolyn Rehmel &#8211; <em>Secretary</em> (<a href="mailto:secretary@enidsoccer.com">secretary@enidsoccer.com</a>)</li>
+<li>Heather Thomas &#8211; <em>Treasurer</em> (<a href="mailto:treasurer@enidsoccer.com">treasurer@enidsoccer.com</a>)</li>
+<li>Hillary Dodson &#8211; <em>Awards</em> (<a href="mailto:awards@enidsoccer.com">awards@enidsoccer.com</a>)</li>
+</ul>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+				
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-3" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://enidsoccer.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="nav_menu-4" class="widget-container widget_nav_menu"><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="http://enidsoccer.com/stay-connected/">Stay Connected with ESC</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624"><a href="http://enidsoccer.com/volunteer-to-coach/">Volunteer to Coach</a></li>
+<li id="menu-item-625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-625"><a href="https://www.gotsport.com/asp/coaches/login.asp">Coach Background Check</a></li>
+<li id="menu-item-661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661"><a href="http://enidsoccer.com/schedule/">Schedule and Results</a></li>
+</ul></div></li><li id="nav_menu-3" class="widget-container widget_nav_menu"><h3 class="widget-title">Help</h3><div class="menu-help-container"><ul id="menu-help" class="menu"><li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="http://enidsoccer.com/parent-player-guide/">Parent and Player Guide</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="http://enidsoccer.com/coaching-handbook/">Coaching Handbook</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="http://enidsoccer.com/registration-guide/">Registration Guide</a></li>
+<li id="menu-item-591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-591"><a href="http://enidsoccer.com/contact-us/">Contact Us</a></li>
+</ul></div></li><li id="nav_menu-2" class="widget-container widget_nav_menu"><h3 class="widget-title">Information</h3><div class="menu-info-container"><ul id="menu-info" class="menu"><li id="menu-item-574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-574"><a href="http://enidsoccer.com/playing-rules/">Playing Rules</a></li>
+<li id="menu-item-877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-877"><a href="http://enidsoccer.com/age-groups/">Age Group Calculator</a></li>
+<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="http://enidsoccer.com/terms-basics/">Soccer Terms and Basics</a></li>
+<li id="menu-item-571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571"><a href="http://enidsoccer.com/myths-facts/">Myths and Misunderstandings</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="http://enidsoccer.com/parent-and-spectator-rules/">Parent and Spectator Rules</a></li>
+<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="http://enidsoccer.com/competitive-and-travel-teams/">Competitive and Travel Teams</a></li>
+<li id="menu-item-678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-678"><a href="http://enidsoccer.com/refs/">Referee Qualification</a></li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="http://enidsoccer.com/fields-parking/">Fields and Parking</a></li>
+<li id="menu-item-601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-601"><a href="http://enidsoccer.com/teams/">Team List (names/colors)</a></li>
+</ul></div></li><li id="wpsite_follow_us_badges-3" class="widget-container widget_wpsite_follow_us_badges"><h3 class="widget-title">Follow Us</h3><div class="wpsite_follow_us_div twitterbox"><a href="https://twitter.com/EnidSoccer" class="twitter-follow-button" data-show-count="true" data-dnt="false" data-show-screen-name="false" data-size="medium" data-lang="en" data-align="left" data-width="100%"></a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+						<div class="wpsite_follow_us_div facebookbox"><div class="fb-like" data-href="https://facebook.com/EnidSoccerClub" data-share="false" data-action="like" data-show-faces="false" data-layout="button_count" data-colorscheme="light"></div>
+							<div id="fb-root"></div>
+							<script>(function(d, s, id) {
+							  var js, fjs = d.getElementsByTagName(s)[0];
+							  if (d.getElementById(id)) return;
+							  js = d.createElement(s); js.id = id;
+							  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+							  fjs.parentNode.insertBefore(js, fjs);
+							}(document, "script", "facebook-jssdk"));</script></div>
+						</li><li id="kebo_twitter_feed_widget-2" class="widget-container kebo_twitter_feed_widget"><h3 class="widget-title">Tweets</h3>
+
+<ul class="kebo-tweets list light">
+        
+        
+        
+        
+        
+                
+            
+            <li class="ktweet">
+
+                <div class="kmeta">
+                    <a class="kaccount" href="https://twitter.com/Enidsoccer" target="_blank" rel="nofollow">@Enidsoccer</a>
+                    <a class="kdate" href="https://twitter.com/Enidsoccer/statuses/580558975495749632" target="_blank" rel="nofollow">
+                        <time title="Time posted: 24th Mar 2015 21:37:00" datetime="2015-03-24T21:37:00+00:00" aria-label="Posted on 24th Mar 2015 21:37:00">18 hours</time>
+                    </a>
+                </div>
+
+                <p class="ktext">
+                                        3/24/2015:  Due to unforeseen circumstances, we are in need of a U10 boys coach.  Contact <a href="mailto:registrar@enidsoccer.com" rel="nofollow" target="_blank">registrar@enidsoccer.com</a> if interested.                </p>
+
+                <div class="kfooter">
+                                            
+                                    </div>
+                
+                                
+            </li>
+
+            
+        
+                
+            
+            <li class="ktweet">
+
+                <div class="kmeta">
+                    <a class="kaccount" href="https://twitter.com/Enidsoccer" target="_blank" rel="nofollow">@Enidsoccer</a>
+                    <a class="kdate" href="https://twitter.com/Enidsoccer/statuses/580354382786498561" target="_blank" rel="nofollow">
+                        <time title="Time posted: 24th Mar 2015 08:04:01" datetime="2015-03-24T08:04:01+00:00" aria-label="Posted on 24th Mar 2015 08:04:01">March 24, 2015</time>
+                    </a>
+                </div>
+
+                <p class="ktext">
+                                        3/24/2015:  New referee training class:  April 6-7, 6-9PM  Contact <a href="mailto:headref@enidsoccer.com" rel="nofollow" target="_blank">headref@enidsoccer.com</a> by March 30 if interested.  For ages 11-adult.                </p>
+
+                <div class="kfooter">
+                                            
+                                    </div>
+                
+                                
+            </li>
+
+            
+        
+                
+            
+            <li class="ktweet">
+
+                <div class="kmeta">
+                    <a class="kaccount" href="https://twitter.com/Enidsoccer" target="_blank" rel="nofollow">@Enidsoccer</a>
+                    <a class="kdate" href="https://twitter.com/Enidsoccer/statuses/578954860533420032" target="_blank" rel="nofollow">
+                        <time title="Time posted: 20th Mar 2015 11:22:49" datetime="2015-03-20T11:22:49+00:00" aria-label="Posted on 20th Mar 2015 11:22:49">March 20, 2015</time>
+                    </a>
+                </div>
+
+                <p class="ktext">
+                                        3/20/2015:  The soccer complex is closed today due to the city spraying for weeds.  It will reopen tomorrow.                </p>
+
+                <div class="kfooter">
+                                            
+                                    </div>
+                
+                                
+            </li>
+
+                        
+                
+                
+    
+</ul>
+
+</li><li id="tribe-events-list-widget-2" class="widget-container tribe-events-list-widget"><h3 class="widget-title">Upcoming Events</h3>
+	<ol class="hfeed vcalendar" style="margin-left: 0px;">
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-1616 tribe-clearfix tribe-events-venue-136" style="margin-bottom: 10px;">
+
+								<!-- Event Title -->
+				<a href="http://enidsoccer.com/event/first-rec-games/" rel="bookmark">First Rec games</a>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">March 28<span class="value-title" title="2015-03-28CDT12:00"></span></span>				</div>
+
+				
+
+			</li>
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-2124 tribe-clearfix tribe-events-venue-1210" style="margin-bottom: 10px;">
+
+								<!-- Event Title -->
+				<a href="http://enidsoccer.com/event/09-referee-clinic-3/" rel="bookmark">09 Referee clinic</a>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">April 6 @ 6:00 PM<span class="value-title" title="2015-04-06CDT06:00"></span></span> - <span class="date-end dtend">April 7 @ 9:00 PM<span class="value-title" title="2015-04-07CDT09:00"></span></span>				</div>
+
+				
+
+			</li>
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-1846 tribe-clearfix tribe-events-category-coaching tribe-events-venue-390" style="margin-bottom: 10px;">
+
+								<!-- Event Title -->
+				<a href="http://enidsoccer.com/event/coaching-course-ussf-e/" rel="bookmark">Coaching Course (USSF E)</a>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">April 10 @ 8:00 AM<span class="value-title" title="2015-04-10CDT08:00"></span></span> - <span class="date-end dtend">April 12 @ 5:00 PM<span class="value-title" title="2015-04-12CDT05:00"></span></span>				</div>
+
+				
+
+			</li>
+			</ol><!-- .hfeed -->
+
+	<p class="tribe-events-widget-link">
+		<a href="http://enidsoccer.com/events/" rel="bookmark">View All Events</a>
+	</p>
+
+	</li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+		<br />			<li>
+				<a href="http://enidsoccer.com/2015/03/09/coaching-education-opportunities/">Coaching Education Opportunities</a>
+						</li>
+					<li>
+				<a href="http://enidsoccer.com/2015/03/05/spring-2015-team-uniforms/">Spring 2015 Team Uniforms</a>
+						</li>
+					<li>
+				<a href="http://enidsoccer.com/2015/03/03/enid-high-soccer/">Enid High Soccer</a>
+						</li>
+				</ul>
+		</li><li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-4"><a href="http://enidsoccer.com/category/soccer-camp/" >Camp</a> (3)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://enidsoccer.com/category/coaching/" >Coaching</a> (5)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://enidsoccer.com/category/fundraiser/" >Fundraiser</a> (2)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://enidsoccer.com/category/news/" >News</a> (27)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://enidsoccer.com/category/referees/" >Referees</a> (1)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://enidsoccer.com/category/registration/" >Registration</a> (5)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://enidsoccer.com/category/resources/" >Resources</a> (2)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://enidsoccer.com/category/summer/" >Summer</a> (2)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://enidsoccer.com/category/tournament/" >Tournament</a> (2)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://enidsoccer.com/category/tryouts/" >Tryouts</a> (1)
+</li>
+		</ul>
+</li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='http://enidsoccer.com/2015/03/'>March 2015</a>&nbsp;(3)</li>
+	<li><a href='http://enidsoccer.com/2015/02/'>February 2015</a>&nbsp;(2)</li>
+	<li><a href='http://enidsoccer.com/2015/01/'>January 2015</a>&nbsp;(3)</li>
+	<li><a href='http://enidsoccer.com/2014/11/'>November 2014</a>&nbsp;(5)</li>
+	<li><a href='http://enidsoccer.com/2014/10/'>October 2014</a>&nbsp;(3)</li>
+	<li><a href='http://enidsoccer.com/2014/09/'>September 2014</a>&nbsp;(3)</li>
+	<li><a href='http://enidsoccer.com/2014/08/'>August 2014</a>&nbsp;(1)</li>
+	<li><a href='http://enidsoccer.com/2014/07/'>July 2014</a>&nbsp;(6)</li>
+	<li><a href='http://enidsoccer.com/2014/06/'>June 2014</a>&nbsp;(2)</li>
+		</ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<a href="http://enidsoccer.com/" title="Enid Soccer Club" rel="home">
+					Enid Soccer Club				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<br /><link rel='stylesheet' id='wpsite_follow_us_badges_widget_css-css'  href='http://enidsoccer.com/wp-content/plugins/wpsite-follow-us-badges/css/wpsite-follow-us-badges.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kebo-twitter-plugin-css'  href='http://enidsoccer.com/wp-content/plugins/kebo-twitter-feed/css/plugin.css?ver=1.5.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://enidsoccer.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.4-5380'></script>
+<script type='text/javascript' src='http://enidsoccer.com/wp-content/plugins/table-of-contents-plus/front.js?ver=1404'></script>
+<script type='text/javascript' src='http://enidsoccer.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.0.1'></script>
+    <script type="text/javascript">
+        
+        //<![CDATA[
+        jQuery(document).ready(function() {
+            
+            jQuery( '.ktweet .kfooter a:not(.ktogglemedia)' ).click(function(e) {
+
+                // Prevent Click from Reloading page
+                e.preventDefault();
+
+                var khref = jQuery(this).attr('href');
+                window.open( khref, 'twitter', 'width=600, height=400, top=0, left=0');
+
+            });
+            
+        });
+        //]]>
+        
+    </script>
+    </body>
+</html>

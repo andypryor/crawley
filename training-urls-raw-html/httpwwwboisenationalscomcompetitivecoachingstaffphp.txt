@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Coaching Staff | Boise Nationals Soccer Club of Boise, Idaho | Official Website</title>
+<meta name="description" content="Thank you for visiting the Boise Nationals Soccer Club website to view team scores, player stats, and the latest news from our club. " />
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="drop-down.css" rel="stylesheet" type="text/css">
+<script src="jquery-1.6.4.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37762602-33']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div id="container">
+  <meta name="format-detection" content="telephone=no">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="drop-down.css" rel="stylesheet" type="text/css">
+<div id="banner">
+    <div id="banner-logo"><a href="index.php"><img src="media/images/banner-logo.png" alt="boise nationals" width="127" height="148" class="nobord" /></a></div>
+    <div id="banner-left">
+      <div id="banner-top-links">
+        <div class="topnav" id="top-button"><a href="http://www.meridianpal.org/Sports/soccer.aspx" target="_blank">Meridian PAL</a></div>
+        <div class="topnav" id="top-button2"><a href="http://www.nationalswest.com" target="_blank">Nationals West</a></div>
+        <div class="topnav" id="top-button3"><a href="http://www.boisenationals.com/" target="_blank">Boise Nationals</a></div>
+      </div>
+      <div id="banner-title"><a href="index.php"><img src="media/images/banner-title.png" alt="boise nationals soccer club" width="341" height="79" class="nobord" /></a></div>
+    	
+    </div>
+    <div id="banner-right">
+      <div id="banner-address">6128 W. Fairview Ave. Ste 2C. Boise, ID 83704 | <span class="banner-phone"><a href="tel:208-342-2249">208-342-2249</a></span></div>
+      <div id="banner-icons"><a href="https://www.facebook.com/boisenationalssoccerclub?fref=ts" target="_blank"><img src="media/images/banner-fb.png" alt="boise nationals facebook" width="42" height="41" class="nobord" /></a> <a href="https://twitter.com/BoiseNationals" target="_blank"><img src="media/images/banner-twit.png" alt="twitter" width="42" height="41" class="nobord" /></a> <a href="mailto:bnscoffice@gmail.com"><img src="media/images/banner-mail.png" alt="mail" width="41" height="41" class="nobord" /></a></div>
+      <div id="banner-hours">Hours: Monday-Thursday 10am-3pm</div>
+      <div id="banner-slogan"><em>“Idaho’s Oldest &amp; Most Successful Soccer Club�?</em></div>
+    	
+    </div>
+    <div id="banner-nike"><img src="media/images/banner-nike.png" alt="nike premier club" width="108" height="144" class="nobord" /></div>
+    
+  	<div id="nav-hold">
+    <ul id="nav">
+	<li><a href="index.php">Home</a></li>
+    <li><a href="about.php">About BNSC</a>
+    <ul>
+      <li><a href="about-mission.php">Mission & Core Values</a></li>
+      <li><a href="about-structure.php">Structure</a></li>
+      <li><a href="about-nike.php">Nike Premier Club</a></li>
+      <li><a href="about-history.php">History</a></li>
+      <li><a href="about-hall.php">Hall of Fame</a></li>
+      <li><a href="about-mccandlish-scholars.php">McCandlish Scholars</a></li>
+      <li><a href="about-field-maps.php">Field Maps</a></li>
+      <li><a href="about-forms.php">Forms</a></li>
+      <li><a href="about-links.php">Links</a></li>
+      <li><a href="about-board-of-directors.php">Board of Directors</a></li>
+      <li><a href="contact.php">Contact Us</a></li>
+    </ul>
+    </li>
+    <li><a href="competitive.php">Competitive</a>
+    <ul>
+      <li><a href="competitive-program.php">Program Overview</a></li>
+      <li><a href="competitive-why-bnsc.php">Why BNSC?</a></li>
+      <li><a href="competitive-tryout.php">Tryout for BNSC</a></li>
+      <li><a href="competitive-club-fees.php">Club Fees</a></li>
+      <li><a href="competitive-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="competitive-teams.php">Teams</a></li>
+      <li><a href="competitive-goalkeepers.php">Goalkeepers</a></li>
+      <li><a href="competitive-injury.php">Injury/Medical</a></li>
+      <li><a href="competitive-faq.php">FAQ</a></li>
+      <li><a href="registration.php">Registration</a></li>
+    </ul>    
+    </li>
+    <li><a href="select.php">Select</a>
+    <ul>
+      <li><a href="select-schedules.php">Schedules</a></li>
+      <li><a href="select-program-overview.php">Program Overview</a></li>
+      <li><a href="competitive-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="select-faq.php">FAQ</a></li>
+      <li><a href="select-fees.php">Select Fees</a></li>
+      <li><a href="registration.php">Registration</a></li>
+    </ul> 
+    </li>
+    <li><a href="recreational.php">Recreational</a>
+    <ul>
+      <li><a href="recreational-program-overview.php">Program Overview</a></li> 
+      <li><a href="recreational-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="competitive-faq.php">FAQ</a></li>
+      <li><a href="registration.php">Registration</a></li>
+      <li><a href="youth-soccer-schedules.php">Schedule and Rosters</a></li>
+    </ul> 
+    </li>
+    <li><a href="tykes.php">Tykes</a>
+    <ul>
+      <li><a href="tykes-program-overview.php">Program Overview</a></li>
+      <li><a href="competitive-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="tykes-upcoming-classes.php">Upcoming Classes</a></li>
+      <li><a href="competitive-faq.php">FAQ</a></li>
+      <li><a href="registration.php">Registration</a></li>
+    </ul> 
+    </li>
+    <li><a href="college.php">College</a>
+    <ul>
+      <li><a href="college-advisory.php">College Advisory Program</a></li>
+      <li><a href="college-player-placement.php">Player Placement History</a></li>
+      <li><a href="college-team-bios.php">Team Bios & Rosters</a></li>
+      <li><a href="college-team-video-vault.php">Video Vault</a></li>
+      <li><a href="college-resources.php">Resources</a></li>
+    </ul> 
+    </li>
+    <li><a href="#">Camps & Tournaments</a>
+    <ul>
+      <li><a href="camps-spring-break.php">Spring Break Camp</a></li>
+      <li><a href="camps-intermountain.php">Intermountain Showcase</a></li>
+      <li><a href="camps-3v3.php">Sun Cup 3v3 Tournament</a></li>
+      <li><a href="camps-team-camp.php">Team Camp</a></li>
+      <li><a href="camps-summer-youth.php">Summer Youth Camp</a></li>
+      <li><a href="camps-summer-tykes.php">Tykes Summer Camp</a></li>
+      <li><a href="camps-elite-skills.php">BNSC Skills Camp</a></li>
+    </ul>
+    </li>
+    <li><a href="fundraising.php">Fundraising</a>
+    <ul>
+      <li><a href="fundraising-club-sponsors.php">Club Sponsors</a></li>
+      <li><a href="fundraising-sponsorship-packages.php">Sponsorship Packages</a></li>
+      <li><a href="fundraising-dinner-auction.php">Dinner Auction</a></li>
+      <li><a href="fundraising-golf-tournament.php">Golf Tournament</a></li>
+      <li><a href="fundraising-team-fundraising.php">Team Fundraising</a></li>
+    </ul>
+    </li>
+    <li><a href="registration.php">Registration</a></li>
+    </ul>
+<script type="text/javascript">
+$(document).ready(function () {	
+	
+	$('#nav li').hover(
+		function () {
+			//show its submenu
+			$('ul', this).stop(true,true).slideDown(300);
+
+		}, 
+		function () {
+			//hide its submenu
+			$('ul', this).stop(true,true).slideUp(300);			
+		}
+	);
+	
+});
+</script>
+    </div>
+  </div>  <div id="main-body">
+    <div id="main-content-sub"> <h1>Competitive - Coaching Staff</h1>
+<p><span class="style1"><br />
+  Technical Training Staff</span><br />
+  <br />
+  <strong>Select Director</strong></p>
+<p>U-9/U-10 Select - Taylor Bodily - <a href="mailto:tsbodily@outlook.com">tsbodily@outlook.com </a></p>
+<p><strong>Associate Director </strong><br />
+  U-10 – U-13 Competitive Boys – Brad Thorne – <a href="mailto:jtdbnscb@outlook.com">jtdbnscb@outlook.com</a></p>
+<p><strong>Associate Director </strong></p>
+<p>U-10 – U-13 Competitive Girls – Matt Billings – <a href="mailto:mrbbnsc@outlook.com">mrbbnsc@outlook.com</a></p>
+<p><strong>Director of Coaching </strong><br />
+  U-14 – U-18 Competitive Boys/Girls – Jon Curry –<a href="mailto:jrcurry@gmail.com"> jrcurry@gmail.com</a></p>
+<p><br />
+  <br />
+  The BNSC Technical Training Staff (TTS) is responsible for BNSC player and coach development.  The TTS is comprised of a Director of Coaching and a staff of Technical Directors &amp; floating coaches.  The TTS is responsible for each of the following elements of the BNSC program:</p>
+<ul>
+  <li>BNSC Curriculum</li>
+  <li>Coach Selection</li>
+  <li>Training Evaluation</li>
+  <li>Competition Program</li>
+  <li>Off-season Training</li>
+  <li>Floating With All Club Teams</li>
+  <li>Game Evaluation</li>
+  <li>Coach Assistance &amp; Cover</li>
+  <li>Parent Feedback &amp; Appeal</li>
+</ul>
+<p>&nbsp;</p>
+<table width="1026" border="0" align="center">
+  <tr>
+    <td width="413" align="left" valign="top"><p><br />
+    </p>
+      <hr align="center" width="990" size="1" />
+      <br />
+      <p align="center"><strong><span class="style1">2014-15 Coaching Assignments &amp; Staff Bios</span></strong><br />
+        <br />
+        <a href="forms/staff-bios-2014.pdf" target="_blank">Click here to view Staff Bios</a><br />
+      </p>
+      <table border="1" cellspacing="0" cellpadding="0">
+        <tr class="style3">
+          <td align="center" valign="top"><strong>Girls Coaching Staff</strong> &nbsp;</td>
+          <td align="center" valign="top"><strong>Boys Coaching Staff</strong></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p> U10: (Monaco) Pool   Coach: Jordan Fenwick<br />
+            Pool Coach: Chad   Hartley </p></td>
+          <td width="468" valign="top"><p align="center">U10: (Celtic) Pool   Head Coach: Jon Curry <br />
+            Assistant Coach:   Bret Bastian <br />
+            Assistant Coach:   TJ Thaemert</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U11:   (Breakers)<br />
+            &nbsp;Pool Head Coach: Nicole Frank<br />
+            Assistant Coach:   Jenn Hull<br />
+            Assistant Coach: McKenzie   Berg</p></td>
+          <td width="468" valign="top"><p align="center">U11: (Barcelona)   Pool Head Coach: John Gwin<br />
+            Assistant Coach:   Chris Butzier<br />
+            U11: (Barcelona)   Team Head Coach: Brandon Rankin</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U12: (Flamengo) Pool   Head Coach: George Kovacs <br />
+          </p></td>
+          <td width="468" valign="top"><p align="center">U12: (Bayern) Pool   Head Coach: Brad Thorne<br />
+            Assistant Coach:   Kellen Wantulok</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U13: (Premier):   Head Coach: Mark Prince<br />
+            Assistant Coach:   Gian Torres </p></td>
+          <td width="468" valign="top"><p align="center">U13: (Galaxy) Head   Coach: Jeff Bendawald<br />
+            Assistant Coach:   Jon Curry</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U13: (Blue): Head   Coach: Curtis Crystal<br />
+            Assistant Coach:   Mark Prince</p></td>
+          <td width="468" valign="top"><p align="center">U13: (Galaxy Gold)   Head Coach: Eric Anderson<br />
+            Assistant Coach:   Chris Mader</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U14: (Sao Paola):   Head Coach: Meagan McKinney<br />
+            Assistant Coach:   Nicole Frank</p></td>
+          <td width="468" valign="top"><p align="center">U14: (Madrid) Head   Coach: Tony Maxwell<br />
+            Assistant Coach:   Kellen Wantulok</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U15: (Premier) Head   Coach: Mark Prince<br />
+            U15: (Velocity)   Head Coach: Allen Jackson<br />
+            U15: Head   Coach: Gian Torres</p></td>
+          <td width="468" valign="top"><p align="center">U14: (Athletico)   Head Coach: Tyler Bruns<br />
+            Assistant Coach:   Offer Pending</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U16: (Premier):   Head Coach: Jared Vreeland<br />
+            Assistant Coach:   Bill Taylor</p></td>
+          <td width="468" valign="top"><p align="center">U15: (Arsenal) Head   Coach: Stephen Marshall</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U16: (White): Head Coach: Robbie Prokop</p></td>
+          <td width="468" valign="top"><p align="center">U15: (Chelsea) Head   Coach: Jeff Bendawald<br />
+            Associate Head   Coach: Tony Maxwell</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U16: (Blue): Head   Coach: Ron Ray</p></td>
+          <td width="468" valign="top"><p align="center">U15: (Hotspur) Head   Coach:Cesar Valencia<br />
+            Assistant Coach:   Mark Munroe</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U17: Italia: Head   Coach: Mary Trigg</p></td>
+          <td width="468" valign="top"><p align="center">U16: (Inter) Head   Coach: Jon Curry Associate Head Coach: TJ Thaemert</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U17: Napoli: Head   Coach: Macy Vasquez</p></td>
+          <td width="468" valign="top"><p align="center">U17: (Liverpool)   Head Coach: Coe Michaelson</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U18: Premier: Head   Coach: Matt Billings</p></td>
+          <td width="468" valign="top"><p align="center">U18: (Milan) Head   Coach: Stephen Marshall</p></td>
+        </tr>
+        <tr>
+          <td width="364" valign="top"><p align="center">U19: Premier: Head   Coach: TBD</p></td>
+          <td width="468" valign="top"><p align="center">U19: (Celtic) Head   Coach: Matt Billings</p></td>
+        </tr>
+      </table>
+      <br />
+      <p align="center"><strong><u>Contact Information</u></strong></p>
+      <p><strong>Contact Information</strong></p>
+      <p><strong>Director of Coaching </strong><br />
+        U-14 – U-18 Competitive Boys/Girls – Jon Curry –<a href="mailto:jrcurry@gmail.com"> jrcurry@gmail.com</a></p>
+      <p> <strong>Associate Director </strong></p>
+      <p>U-10 – U-13 Competitive Boys – Brad Thorne – <a href="mailto:jtdbnscb@outlook.com">jtdbnscb@outlook.com</a></p>
+      <p><strong>Associate Director </strong></p>
+      <p>U-10 – U-13 Competitive Girls – Matt Billings – <a href="MAILTO:mrbbnsc@outlook.com">mrbbnsc@outlook.com</a></p>
+      <p><strong>Academy Director </strong></p>
+      <p>U5-U8 Boys and Girls - Chad Hartley - <a href="mailto:bnscyouthacademy@gmail.com">bnscyouthacademy@gmail.com</a></p>
+      <p><strong>Select Director</strong></p>
+      <p>U-9/U-10 Select - Taylor Bodily - <a href="mailto:tsbodily@outlook.com">tsbodily@outlook.com </a></p>
+      <p><strong>Technical Director </strong><br />
+        Coe Michaelson – <a href="mailto:director@boisenationals.com">director@boisenationals.com</a></p>
+      <strong><br />
+      </strong>
+      <p></p>
+      <p>&nbsp;</p></td>
+  </tr>
+</table>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<hr align="center" width="990" size="1" />
+<p><span class="style1"><br />
+  BNSC Coaches Code of Conduct</span><br />
+  <br />
+  <strong>As a BNSC coach, you have the following responsibilities:<br />
+</strong></p>
+<ul>
+  <li>Be a good role model. Demonstrate self-control, integrity, and professional behavior on and off the field.</li>
+  <li>Show respect for players, parents, opponents and referees.</li>
+  <li>Demonstrate good sportsmanship. Maintain a balanced perspective.</li>
+  <li>Support the principles of BNSC and follow the direction/curriculum established by the DOC.</li>
+  <li>Run organized and challenging team practices.</li>
+  <li>Attend and be on time for practices and games.</li>
+  <li>Ensure that the travel plans and expectations of the team are clearly communicated early in the season.</li>
+  <li>Clearly communicate team goals and expectations to parents and players.</li>
+  <li>Provide players and parents with written player evaluations each season.</li>
+  <li>Be approachable to players and parents to help them resolve problems.</li>
+  <li>Be dedicated to player development. Praise effort, not just good results. Teach and inspire.</li>
+  <li>Challenge individual players to improve their skills and understanding of the game.</li>
+  <li>Use positive reinforcement and use appropriate and consistent discipline for inappropriate behavior.</li>
+  <li>Ensure that the players have an emotionally and physically safe atmosphere to learn and play soccer.</li>
+  <li>Recommend that an injured player receive proper medical treatment.</li>
+  <li>Ensure that a medical release for each player, a first aid kit and ice are available at every practice and game.</li>
+  <li>Reinforce and support the BNSC tradition of academic excellence and community involvement.</li>
+  <li>Cooperate with players and their other extra-curricular events.</li>
+  <li>Work with your team manager, parents and DOC to ensure the best team harmony and to create a fun environment. In addition, support and foster club level activities.</li>
+  <li>Continue upgrading your soccer education and proficiency as a coach.</li>
+  <li>Maintain equipment that is issued to you and return it to BNSC at the end of the playing year.</li>
+  <li>Adhere to the BNSC Code of Conduct and the BNSC Handbook.<br />
+    <br />
+    <br />
+  </li>
+</ul>
+<hr align="center" width="990" size="1" />
+<p><span class="style1"><br />
+  Coach For Idaho's #1 Soccer Club!</span><br />
+  <br />
+  For those interested in coaching for Idaho&rsquo;s premier soccer club, please get into touch with Coe Michaelson (BNSC DOC).<br />
+  <br />
+  Coe can be reached at 208.350.9689 or by  <a href="mailto:director@boisenationals.com">director@boisenationals.com</a> .</p>
+<p><strong> A few of the benefits of coaching for BNSC include the following:</strong><br />
+</p>
+<ul>
+  <li>Coaching Development Seminars &amp; Meetings</li>
+  <li>Coaching courses are paid for by BNSC</li>
+  <li>A methodology of proven success and merit</li>
+  <li>Our coaching staff is a family in which all members are equal</li>
+  <li>PRIDE of wearing the famous BNSC of Idaho&rsquo;s oldest &amp; most successful soccer club</li>
+  <li>Positions range from apprenticeships to paid coaching positions</li>
+  <li>Opportunity for advancement</li>
+</ul>
+<p>Jon can be reached at 208.908.2354 or by <a href="mailto:jrcurry@gmail.com">jrcurry@gmail.com</a><br />
+</p>
+<hr align="center" width="990" size="1" />
+<p><br />
+  <span class="style1">Idaho's Premier Coaching Staff<br />
+  </span><br />
+  The strength of BNSC has long been the depth and quality of the coaching staff.  The BNSC Coaching Staff is comprised of both a Technical Training Staff and a Team Coaching Staff.  We take great pride in a staff that is indisputably the top staff in the state of Idaho and one of the best in the Region.  Our coaches are selected based upon each of the following areas: coaching experience, playing experience, proven success, education, commitment, personality relative to age group and character.  While all members of the Technical Staff are required to have a current national coaching license, all members of our coaching staff as a whole either have coaching licenses or are in the process of obtaining a license.  <br />
+  <br />
+  Our depth is unparalleled, giving families the comfort that each and every year you will not be left wondering if you will receive a quality coach.  We have a stable of both experienced and young coaches who we develop for the future, to ensure the quality of our staff for years to come.  Young coaches are mentored and developed alongside experienced staff to continue our legacy of Idaho&rsquo;s top coaching staff.  Our coaches stay with teams for one or two year cycles before moving on to a new team.  The quality and depth of our staff ensures that you will have a quality coach every year.  Across the board, the vast majority of our coaches also work exclusively with one team.  While it is not guaranteed, most of our teams also have two or more coaches, to ensure quality development for our players.</p>
+<p><em><strong>Staff Facts</strong></em></p>
+<ul>
+  <li>Idaho&rsquo;s largest staff with 50  coaches</li>
+  <li>30  former collegiate players</li>
+  <li>20  National Licenses (C or higher) obtained</li>
+  <li>10  current or former high school varsity coaches</li>
+  <li>7  current or former collegiate coaches</li>
+</ul>
+<p>&nbsp; </p>    </div>
+  <link href="css/main.css" rel="stylesheet" type="text/css">
+<div id="footer">
+    <div id="foot-left-link1"><span class="btmnav"><a href="index.php">Home</a></span><br />
+      <span class="btmnav"><a href="about.php">About BNSC</a></span><br />
+      <span class="btmnav"><a href="competitive.php">Competitive</a></span><br />
+    </div>
+    <div id="foot-left-link1"><span class="btmnav"><a href="select.php">Select</a></span><br />
+      <span class="btmnav"><a href="recreational.php">Recreational</a></span><br />
+    <span class="btmnav"><a href="tykes.php">Tykes</a></span> </div>
+    <div id="foot-left-link1"><span class="btmnav"><a href="college.php">College</a></span><br />
+      <span class="btmnav"><a href="camps.php">Camps &amp; Tournaments</a></span><br />
+    <span class="btmnav"><a href="fundraising.php">Fundraising</a></span> </div>
+    <div id="foot-logo"><a href="index.php"><img src="media/images/foot-logo.png" alt="boise nationals" width="88" height="103" class="nobord" /></a></div>
+    <div class="btmnav" id="foot-right">
+       © 2015  Boise National Soccer Club.  All Rights Reserved.<br />
+    6128 W. Fairview Avenue, Ste. 2C, Boise, ID 83704    <br />
+    Site by Thrive Web Designs, a <a href="http://www.thrivewebdesigns.com" target="_blank">Boise Web Design</a> Co. </div>
+    
+  </div>  </div>
+  
+	
+</div>
+</body>
+</html>

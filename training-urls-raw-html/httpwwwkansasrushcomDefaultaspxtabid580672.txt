@@ -1,0 +1,1070 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	Coaches
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="DESCRIPTION" content="Kansas Rush Soccer Club" /><meta id="MetaKeywords" name="KEYWORDS" content="Kansas Rush Soccer Club" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright (c) 2015 by Kansas Rush Soccer Club" /><meta id="MetaAuthor" name="AUTHOR" content="Kansas Rush Soccer Club" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/default.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/admin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/skins/orpheus/skin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/containers/orpheus/container.css?cdv=13" type="text/css" rel="stylesheet"/><script src="/resources/shared/scripts/jquery/jquery.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-migrate.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-ui.min.js?cdv=13" type="text/javascript"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2472549-6']);
+_gaq.push(['_setDomainName', 'sports.bluesombrero.com']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['b._setAccount', 'UA-29192804-1']);
+_gaq.push(['b._trackPageview']);
+
+            (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3aed2942d4" type="text/css" rel="stylesheet" /></head>
+<body id="Body">
+    
+    <form name="Form" method="post" action="/Default.aspx?tabid=580672" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qfYdfHRRFzWHSsqtCHvxoHLQ93tS4nm7Bj8oaeKJxR3FowoLpNPGe0hgdT3dJ3lVqI5062xQyRO/uyAy+c2XyvziWFg2kFBaOswnNdvECzkAQChfE83MoCkm3ZxJqLXKg+3TVjnmSshRrkhCzFyPP8logHE1zaVh16pix4x1bEz6/3AuZ5G0w4mYoBU8EjA1D9paFC7PkpuHiKPCpCNco7zIyW1qpo6zFWKeXkPe1gdIC+NlhjcrEbHDnr5JQoswbI/ctMH0XCPUEBkxRyyTgoTPySA0tqDXsa6r7wDFyfpLNE87ukhVbCcrWiqllNR4fzibNG9SUSyILf0KbehnBIHafzd9HME9+5lwTF1WUrMLgKc2HTvrggdBoi+STzJZNE/LAXfIvHJuUOsQ/bo+NLSCPxBADq39wSWW57A+IAhWOhiSuOaUWww13+e8v1FBfjim99fGelmKAJT9CvwgG4PSwZEQ6xw20YepxHJhDYCxKjBHNQ2kLq3Bj+sCPQP32R8ebAcrFlNvOcXa6zv5R5zS82jdsKYXgHxvXZW6dmaM8LScDCXAnpQKp06KrfKqDIHK76yks1NNbUcDeZEfbpQGJkgfuDQbHDQ1uCRPNXoXg0GdAWr3VsdKBg07p44Ngwy52N97+s2joLvECzMRCQMUuPtxO59C2athAwFHQ5zQIijkZkkwsd20loD9Tt2cPtlqrLNVqtgR3Al5i133UAhMhFA9j6Lh9asfGy1YpQK1iy1Fqz6j2L3zjtvul424Q1J/+IT3ksmAMwha4a7Y/+sHScqWofi2L8ujvAxFdESsNu1TTiKvG5T7RLlVvxhDHVPI4TLYnYpFFzWVG13CIiB9jzFhAN8YM5s5U9dq2qXB0Z8aBJD87aQ0PBMm/3Dnr23vi4jAeboJn0BZ134uzP8OWLStGFdRNr9ISzS+kln3qBDK2xuPgMQgdmb4MRPFgwGBaDURXUrWZeYevQeCWXNyXQ0MGJtGCIU3knxmOPmLR5qmaDUCkxiK1HUjgxidWAPU/OsqmVJGfdDs+nGhxv1z3Dr91XhGqBAgshO7aRlJIoJ3zeYy242diyOuqYLSSDYhs8ze0I/HCcdmwAiyVXQERklAY505DYYA4SbwoDu/NRKOcIbmucm1+aS43L38BBu8bzaR1b4QvobTDqdi62xOwLkx2YdGDZy7U3uIcLBO/d+mQcm5cSalmDmuOfh4NP5x6LfdUsmBDZMUtp17dcXFEBFP4WAPwaNsRWknTS2FznK7hH9/FYbBfunJKJqNF9TEN+sFgoHao7XMZ+hCAZkCq4ihDNexm4HS3xD0m68sxdpZXpAsEkcJK5pLDciZdrMzqcsRFQn/ygqY49/Rc1t3urDpeBka2YNNBWH/swfE9mo6ckzcFfKYK2sPFN7uUYFiq/zssb/1ZAbGOCPceK880NGnQxg8YBCTi0SvbJ8TMLdyriOhxdfwyvXedpmbLBWGrrIdxkbTIrmh1/MI1VQxkTPZkQZyVdsJkiIMOQ6w+6hMjqCo9JWB5huDJiE+AVYP+WSNfOXKEFAzu2Sy0C7iJZpApAja1cWmJkwYW61P8APDsAoDfGCqToTk7v3CfFTtWM21/MyOCIBdNQ8SUnGZYcH2wTJB2s5jrEXo0Nf2hKD2QRgICXDNp/vARlNmyL2p4n9+LHzJ4Wt1LhQjeuO/qKHQAbMMgokk3hmdetW4lSEmAcPLvQG4L2jmMBlqvFburIC3YiNzR15b" />
+</div>
+
+
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.hoverintent.js?v=10" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.controlpanel/resources/bsb_controlpanel.css?v=10' rel='stylesheet' rev='Stylesheet' type='text/css' />
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af319b152-218f-4c14-829d-050a68bb1a61%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a1e771326%3a88144a7a%3ac8618e41%3a1a73651d%3a333f8d94" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/debug/dnn.modalpopup.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=13" type="text/javascript"></script>
+        
+        
+
+<!--[if lte IE 7]><link href="/Portals/_default/Skins/Orpheus/IEFix.css" type="text/css" rel="stylesheet"/><![endif]-->
+<script type="text/javascript">jQuery("body").addClass("orpheusBlue orpheusDefault");</script>
+<script type="text/javascript" src="/DesktopModules/BSB/BSB.Controls/Resources/jquery.contenthome.helper.js"></script>
+<div class="skin-area">
+	<div class="skin-width">
+		<div class="skin-header">
+			<div class="float-left">
+				<div class="skin-logo"><a id="dnn_dnnLOGO_hypLogo" title="Kansas Rush Soccer Club" href="/default.aspx?portalid=4034"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/4034/logo/Logo635354000394035405.png" alt="Kansas Rush Soccer Club" style="border-width:0px;" /></a></div>
+				<h1 class="skin-banner">Kansas Rush Soccer Club
+</h1>
+			</div>
+			<div class="float-right">
+				<div class="float-left">
+					<a id="dnn_dnnLOGIN_cmdLogin" class="skin-button" href="/Default.aspx?tabid=269625&amp;isLogin=True">Log In</a>
+					<a id="dnn_dnnUSER_cmdRegister" class="skin-button" href="/Default.aspx?tabid=269625">Register</a>
+				</div>
+				<div class="float-left"><div class="social-link-holder">
+	<a href="//www.facebook.com/Kansas-Rush" target="_blank" class="social-link facebook-link">Facebook</a>
+	<a href="//www.twitter.com/KSRushSoccer" target="_blank" class="social-link twitter-link">Twitter</a>
+	<div class="clear-both"></div>
+</div>
+</div>
+				<div class="clear-both"></div>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+		<div class="skin-nav">
+			<div id="dnn_RadMenu1_RadMenu1" class="RadMenu RadMenu_SkinNAV rmSized" style="width:100%;">
+	<!-- 2014.1.318.45 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/Default.aspx?tabid=269614"><span class="rmText">Home</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="#"><span class="rmText">Club</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=580614"><span class="rmText">About Us</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580617"><span class="rmText">Board of Directors</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580612"><span class="rmText">Forms</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=596967"><span class="rmText">Calendar</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink  rmSelected" href="#"><span class="rmText">Competitive</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=580571"><span class="rmText">General Information</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=596934"><span class="rmText">Why Kansas Rush?</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=597078"><span class="rmText">Competitive Fee Structure</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=580575"><span class="rmText">Age Group Priorities</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580573"><span class="rmText">Tryouts</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=597080"><span class="rmText">Tryout Process</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=610913"><span class="rmText">Age Group Cutoffs</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=598548"><span class="rmText">Tryout Schedule</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=598547"><span class="rmText">Coaching Assignments</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580588"><span class="rmText">Tournaments</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=580589"><span class="rmText">Crossroads Classic</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580590"><span class="rmText">KC Super Cup</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580591"><span class="rmText">Autumn Festival</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=636434"><span class="rmText">KC Fall Finale</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink  rmSelected" href="/Default.aspx?tabid=580672"><span class="rmText">Coaches</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580624"><span class="rmText">Camps</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580615"><span class="rmText">Goalkeeping</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=597082"><span class="rmText">Field Status</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="#"><span class="rmText">Recreational</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=580616"><span class="rmText">General Information</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580590"><span class="rmText">Tournaments</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580624"><span class="rmText">Camps</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580609"><span class="rmText">For Coaches</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580610"><span class="rmText">Rules </span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580611"><span class="rmText">Schedules</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=597082"><span class="rmText">Field Status</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="#"><span class="rmText">Our Other Programs</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="#"><span class="rmText">Micro Soccer</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=596958"><span class="rmText">General Information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=597082"><span class="rmText">Field Status</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="#"><span class="rmText">Skills School</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=596961"><span class="rmText">General Information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=597082"><span class="rmText">Field Status</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=580670"><span class="rmText">Adult League</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=596963"><span class="rmText">General Information</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=269619"><span class="rmText">Schedules & Standings</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.kansasrush.com/Default.aspx?tabid=269620"><span class="rmText">Scores/Results</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=596964"><span class="rmText">Rules</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=597082"><span class="rmText">Field Status</span></a></li>
+					</ul>
+				</div></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=596965"><span class="rmText">Referees</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=269625"><span class="rmText">Registration</span></a></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Default.aspx?tabid=269619"><span class="rmText">Schedules</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/Default.aspx?tabid=269621"><span class="rmText">View Standings</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input id="dnn_RadMenu1_RadMenu1_ClientState" name="dnn_RadMenu1_RadMenu1_ClientState" type="hidden" />
+</div>
+<script>
+jQuery(document).ready(function(){
+	var menu = $find("dnn_RadMenu1_RadMenu1");
+if (!menu) return;
+	var Items = menu.get_items();
+	var totalWidth = 0;
+	for (var i = 0; i < Items.get_count(); i++)
+	{
+		totalWidth += Items.getItem(i).get_element().offsetWidth;
+	}
+	menu.get_element().style.width = totalWidth + "px";
+});
+</script>
+			<div class="clear-both"></div>
+		</div>
+	</div>
+	<div class="skin-content">
+		<table class="skin-width" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td class="ContentPane" colspan="2">
+					<div id="dnn_ContentPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-604312"><a name="604312"></a>
+<div class="default-container">
+	<div class="default-CN-wrapper">
+		<div class="default-CN-header">
+			<span class="default-CN-action">
+			</span>
+			<span class="default-CN-icon"></span>
+			<h2 class="default-CN-head"><span id="dnn_ctr604312_dnnTITLE_titleLabel" class="Head"> </span>
+
+
+</h2>
+			<div class="default-CN-clearboth"></div>
+		</div>
+		<div id="dnn_ctr604312_ContentPane" class="default-CN-container Normal"><!-- Start_Module_604312 --><div id="dnn_ctr604312_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr604312_HtmlModule_lblContent" class="Normal">
+	<div class="Template_StaffDirectory">
+<h1>Meet our Coaches</h1>
+<p><span class="Intro">We are here to provide you and your family with the best youth soccer experience possible! We are proud to bring you a group of highly accomplished coachess. Read the bios below to learn more about your coach and the other members of our great staff.</span></p>
+<table width="100%" border="0" cellspacing="1" cellpadding="0">
+    <!-- Item Start -->
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Daouda%20Kante-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Daouda Kante</h3>
+                        Technical Director
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:dkante@kansasrush.com">dkante@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Former MLS player and Mali National Team player. During his career with New England Revolution, he was an Eastern Conference Champion and played in the 2002 MLS final. He was selected 2nd team all MLS in 2002. Former FIU collegiate player, elected to NJCAA Men&rsquo;s Soccer Hall of Fame, 1999 and 2000 All American former assistant womens coach for Baker University, Head Coach for Sporting KC Juniors and Head Coach for 98 Kansas ODP for 2 years. He currently holds a USSF B license with 10 plus years coaching youth.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Dan%20Naidu-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Dan Naidu</h3>
+                        Recreational Director
+                        <br />
+                        Tournament Director
+                        <br />
+                        RASL Director
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email: <a href="mailto:dnaidu@kansasrush.com">dnaidu@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Former youth player United Quest, Stone Mountain Storm, Atlanta, Georgia. Former collegiate player at the University of Georgia, NIRSA powerhouse. Dan has been coaching youth soccer for 10+ years. For the past 9 years Dan has coached competitive soccer at Kansas Rush and held variety administrative positions including Director of Micro Soccer, Tournament Director, Rush Academy Director , RASL Director, and Recreational League Director.  He currently holds a USSF National "C" License and his NSCAA National Diploma.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Randall%20Porter-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Randall Porter</h3>
+                        Director of Coaching (Boys)
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:rporter@kansasrush.com">rporter@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Former Professional Indoor player with the Sacramento Knights as well as former Professional Indoor Head Coach with the Kansas Magic and college player at Graceland University. Randall has been coaching in the KC area for 13 years starting with the KC Nomads then with BVSC and the KC Wizards Juniors. He has won 6 state cup championships as a head coach and 1 regional championship as an assistant coach for the U19 Wizards Juniors. He is the Director of Coaching-Boys with Kansas Rush and coaches both boys and girls teams of all ages. Randall also holds a USSF &ldquo;D&rdquo; liscense.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Aaron%20Payne-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Aaron Payne</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:apayne@kansasrush.com">apayne@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Aaron has been coaching with the Kansas Rush Soccer Club for the past 14 years and currently holds the USSF &ldquo;National D&rdquo; License, NSCAA Professional Development Certificate and the Coerver Youth Diploma. Aaron has worked as the head coach of many boys and girls competitive teams during his time with Kansas Rush as well as served in the position of Youth Academy Director for the club. Having grown up and played soccer locally Aaron is excited to be a part of the phenomenal growth of soccer in Kansas City and is committed to the development of individual technical confidence and creativity of the players and teams under his direction.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Fatai%20Ayoade-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Fatai Ayoade</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:fayoade@kansasrush.com">fayoade@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Fatai has been coaching youth soccer for 20+ years in the Kansas City area.  He is currently the head men's coach at Johnson County Community College where he has earned many accolades including the 2001 NSCAA/Adidas Central Region Coach of the Year award and 2009 KJCCC Men's Coach of the Year.  Fatai currently holds the USSF "D" License, NSCAA Advanced Regional Diploma, and a Professional Development Certificate.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Scott%20Siegel-Staff.jpg" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Scott Siegel</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:ssiegel@kansasrush.com">ssiegel@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Played soccer at Rockhurst High School, and went to play collegiately at Rockhurst University and UMKC. After playing in college he started coaching at both St. Teresa's Academy and Rockhurst High School. He was at Rockhurst for 8 years in many capacities including the JV Coach and Lead Varsity Assistant. While there Rockhurst won back-to-back State Championships in 1998 and 1999. He was the Head Coach at St. Teresa's Academy for 10 years, from 2001-2010. While there the team won 4 out of 5 State Championships from 2002-2006. He was named the Missouri State High School Soccer Coaches Association Coach of the Year in 2002, 2003, 2005 and 2006. In 2003 he was named the National Federation of School's (NFS) Regional Coach of the Year, and in 2006 was named the NSCAA's Regional Coach of the Year in 2006. He has coached many players on to Division I schools including, Notre Dame, Marquette, Missouri State, Nebraska, Drake, Purdue and TCU</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Ibrahim%20Kante-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Ibrahim Kante</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:ikatne@kansasrush.com">ikante@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Pro Player Ibrahim Kante has played in the MLS, MISL and USL since 2003.  Winning 3 championships in 2004 &amp; 2006 with the Baltimore Blast, and again in 2010 with Monterrey, Mexico.  As an oversees player from Bamako, Mali, Kante has made appearances with several major league teams across the United States.  As a previous captain for several of these teams he has the ability to lead a team to victory.  He carries years of experience coaching and sharing his expertise to age groups of all ranges.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Dan%20Bishop-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Dan Bishop</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:dbishop@kansasrush.com">dbiship@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>USSF "D" License<br />
+                        <span style="font-size: 12px;">Former Oral Roberts University Player<br />
+                        </span><span style="font-size: 12px;">Former Johnson County CC Player<br />
+                        </span><span style="font-size: 12px;">Current Kansas ODP Staff Coach<br />
+                        </span><span style="font-size: 12px;">Former Olathe East Varsity Assistant<br />
+                        </span><span style="font-size: 12px;">Former KC Fusion Coach<br />
+                        </span><span style="font-size: 12px;">Former KC Hotspurs Youth Player</span></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Bernard%20Pro-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Bernard Pro</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:bpro@kansasrush.com">bpro@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>From Orleans, France, Bernard played for the Arago &lsquo;Football&rsquo; club, France including several seasons in Div III. Obtained &nbsp;USSF National D license in 1987 and has been coaching US premier soccer for more than 25 years including private teams and clubs such as Udinese, Olathe Spirit, Shawnee Elite, Aston Villa Premier programs and Force Soccer Academy. I coach soccer for the love of the game, enjoy teaching all aspects of the game at all level and sharing the passion of soccer to develop creative, skilled and confident players</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/John%20Markey-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>John Markey</h3>
+                        <h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:jmarkey@kansasrush.com">jmarkey@kansasrush.com</a></p>
+                        </h3>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Holds a USSF National B license<br />
+                        <span style="font-size: 12px;">Played 1 year professional indoor for the Missouri Comets<br />
+                        </span><span style="font-size: 12px;">4 years semi-professional PDL player<br />
+                        </span><span style="font-size: 12px;">Division 1 college soccer player for University of Alabama at Birmingham.<br />
+                        </span><span style="font-size: 12px;">6 years Alabama ODP team<br />
+                        </span><span style="font-size: 12px;">2 years region III pool team<br />
+                        </span><span style="font-size: 12px;">2011 head coach for OMHS varsity girls soccer team<br />
+                        </span><span style="font-size: 12px;">10 years of competitive coaching at Academy, ECNL, MRL, and state levels for Birmungham United and Sporting Blue Valley.</span></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/Coaches/Jennifer%20Whiteley-Staff.jpg" /></td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Jennifer Whiteley</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:jwhiteley@kansasrush.com">jwhitley@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <p>Former Olathe Spirit and Udinese player, Jennifer Whiteley played for Olathe East High School, where she helped bring the Hawks their first Girls State Soccer Title in 2001. She went on to play collegiate soccer at Rockhurst University.  She was awarded All-Conference player for the Missouri Great Lakes Valley Conference.  Jennifer has coached many different age groups from ages 4 to 16.  This will be her first year coaching for Kansas Rush.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>David Barraza</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:dbarraza@kansasrush.com">dbarraza@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Dalio Mercado</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:dmercado@kansasrush.com">dmercado@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Riny De Boer</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:rdeboer@kansasrush.com">rdeboer@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Josh Rydberg</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:jrydberg@kansasrush.com">jrydberg@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Geoff VanDeusen</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:gvandeusen@kansasrush.com">gvandeusen@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Jared Schelp</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:jschelp@kansasrush.com">jschelp@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+        <!-- Item Start -->
+    </tbody>
+    <tbody>
+        <tr>
+            <td class="StaffDirectoryImage" valign="top"><img alt="" src="/portals/4034/Images/rushcompetitive%20copy.jpg" style="width: 300px; height: 202px;" /><br />
+            </td>
+            <td class="StaffDirectoryDetail">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                        <h3>Casey Stevens</h3>
+                        Staff Coach
+                        <p>Phone: 913-764-4111
+                        <br />
+                        Email:&nbsp;<a href="mailto:cstevens@kansasrush.com">cstevens@kansasrush.com</a></p>
+                        </td>
+                        <td align="right" valign="top">
+                        <ul class="SocialNetwork">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                        <br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <!-- Item End -->
+    </tbody>
+</table>
+</div>
+</div>
+
+</div><!-- End_Module_604312 --></div>
+		<div class="default-CN-clearboth"></div>
+	</div>
+</div></div></div>
+				</td>
+			</tr>
+			<tr>
+				<td class="innerpage-leftPane">
+					<div id="dnn_LeftPane" class="DNNEmptyPane"></div>
+				</td>
+				<td class="innerpage-rightPane">
+					<div id="dnn_RightPane" class="DNNEmptyPane"></div>
+				</td>
+			</tr>
+			<tr>
+				<td class="BottomPane" colspan="2">
+					<div id="dnn_BottomPane" class="DNNEmptyPane"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="skin-width">
+		<div class="skin-footer SameHeightHolder">
+			
+				<div class="skin-footer-left SameHeight">
+					<div class="footer-container">
+						<h2 class="footer-header">Site Links</h2>
+						<div class="footer-content">
+							
+			<ul class="site-links">
+		
+			<li class="site-link-item"><a class="site-link" href="/Default.aspx?tabid=597082" >Field Status</a></li>
+		
+			<li class="site-link-item"><a class="site-link" href="/Default.aspx?tabid=580588" >Tournaments</a></li>
+		
+			<li class="site-link-item"><a class="site-link" href="https://sports.bluesombrero.com/Default.aspx?tabid=269625" >Register Now!</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+		
+			<ul class="site-links">
+		
+			<li class="site-link-item"><a class="site-link" href="/Default.aspx?tabid=580588" >Tournament Series</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+		
+
+							<div class="clear-both"></div>
+						</div>
+					</div>
+				</div>
+			
+				<div class="skin-footer-middle SameHeight">
+					<div class="skin-sponsors">
+						
+		<div class="sponsors-holder">
+			<ul id="sponsors-list" class="sponsors-list">
+	
+				<li class="sponsors-item">
+					<a href="http://www.adidas.com" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635328405488468826.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.dickssportinggoods.com/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635328406462657601.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.garmin.com" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635328406869024576.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.performancerehabkc.com/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635472511002192718.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.chevrolet.com" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635347413289937622.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.eurosport.com" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635328408506660086.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.heartlandsoccer.net" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635328407783779256.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="/http://www.kansasyouthsoccer.org/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635347356580396764.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.midwestregionalleague.com/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635347357062892392.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.usclubsoccer.org/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635347357768150308.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.usyouthsoccer.org/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635347358306024516.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.sportingkc.com/" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/4034/homesponsors/homesponsors635347359187089924.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+			</ul>
+			<div class="clear-both"></div>
+		</div>
+		<script type="text/javascript" src="/DesktopModules/BSB/BSB.Controls/Resources/jquery.carouFredSel-5.3.0-packed.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready( function() {
+				function applySponsorScript() {
+					if( jQuery(".sponsors-item").length > 1 ){
+						jQuery(".sponsors-holder").append( "<a id=\"prev-button\" class=\"sponsors-prevButton\" href=\"javascript:void(0);\">&lt;</a>" + 
+														"<a id=\"next-button\" class=\"sponsors-nextButton\" href=\"javascript:void(0);\">&gt;</a>" );
+						jQuery("#sponsors-list").carouFredSel({ prev: "#prev-button", next: "#next-button", auto: true, circular: true, items : { visible : 1 }});
+					}
+				}
+				if(jQuery.browser.webkit){ jQuery(window).load( function() { applySponsorScript(); }); }
+				else{ applySponsorScript(); }
+			});
+		</script>
+	
+
+					</div>
+				</div>
+			
+			<div class="skin-footer-right SameHeight">
+				<div class="footer-container">
+					<h2 class="footer-header">
+						<div class="float-left">Contact Info</div>
+						<div class="float-left"><div class="social-link-holder">
+	<a href="//www.facebook.com/Kansas-Rush" target="_blank" class="social-link facebook-link">Facebook</a>
+	<a href="//www.twitter.com/KSRushSoccer" target="_blank" class="social-link twitter-link">Twitter</a>
+	<div class="clear-both"></div>
+</div>
+</div>
+						<div class="clear-both"></div>
+					</h2>
+					<div class="footer-content"><div class="club-info">
+	Kansas Rush Soccer Club<br/>
+	1570A S. Mahaffie Circle<br />Olathe, KS 66062<br /><br />Office Hours:<br />Monday-Friday 10am-3pm<br /><br />Recreational Rainout   913-747-2515<br />Adult League Rainout  913-747-2514<br/>
+	Email : <a class="club-email" href="mailto:officestaff@kansasrush.com">officestaff@kansasrush.com</a><br/>
+	Phone : <a href="tel:913-764-4111">913-764-4111</a>
+</div>
+</div>
+				</div>
+			</div>
+			<div class="clear-both"></div>
+			<div class="skin-info">
+				<div class="skin-info-left">
+					<span id="dnn_dnnCOPYRIGHT_lblCopyright" class="SkinObject">Copyright (c) 2015 Kansas Rush Soccer Club</span>
+&nbsp;&middot;&nbsp;
+					<a id="dnn_dnnPRIVACY_hypPrivacy" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=580672&amp;ctl=Privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="dnn_dnnTERMS_hypTerms" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=580672&amp;ctl=Terms">Terms of Use</a>
+					<a id="dnn_dnnLOGIN1_cmdLogin" class="SkinObject hiddenlogin" href="/Default.aspx?tabid=269625">Log In</a>
+				</div>
+				<div class="skin-info-right">
+					<a href="//www.bluesombrero.com" alt="_blank">
+						<img src="/portals/_default/powered-by-blue-sombrero-gray.png" alt="Powered By Blue Sombrero"/>
+					</a>
+				</div>
+				<div class="clear-both"></div>
+			</div>
+		</div>
+	</div>
+</div>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`580672`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('StylesheetManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2014.1.318.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:0746398c-8ed4-4bb4-ac7c-2ae23e943aae:ed2942d4';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"SkinNAV","clientStateFieldID":"dnn_RadMenu1_RadMenu1_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=269614"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580614"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580617"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580612"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596967"}]},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596934"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597078"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580575"}],"navigateUrl":"/Default.aspx?tabid=580571"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597080"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=610913"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=598548"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=598547"}],"navigateUrl":"/Default.aspx?tabid=580573"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580589"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580590"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580591"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=636434"}],"navigateUrl":"/Default.aspx?tabid=580588"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580672","cssClass":" rmSelected"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580624"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580615"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597082"}],"cssClass":" rmSelected"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580616"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580590"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580624"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580609"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580610"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=580611"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597082"}]},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596958"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597082"}]},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596961"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597082"}]},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596963"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=269619"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://www.kansasrush.com/Default.aspx?tabid=269620"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596964"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=597082"}],"navigateUrl":"/Default.aspx?tabid=580670"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=596965"}]},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=269625"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=269621"}],"navigateUrl":"/Default.aspx?tabid=269619"}]}, null, null, $get("dnn_RadMenu1_RadMenu1"));
+});
+//]]>
+</script>
+</form>
+    
+    
+</body>
+</html>

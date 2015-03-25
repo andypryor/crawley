@@ -1,0 +1,287 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>Canadian Valley Futbol Club</title>
+	<link rel="stylesheet" type="text/css" href="css/cvfc_style2.css">
+	<link rel="stylesheet" href="../jqwidgets/styles/jqx.base.css" type="text/css" />    
+	<link rel="stylesheet" href="../jqwidgets/styles/jqx.cvfc.css" type="text/css" />    
+	<script type="text/javascript" src="../scripts/jquery-1.11.1.min.js"></script>    
+	<script type="text/javascript" src="../scripts/demos.js"></script>    
+	<script type="text/javascript" src="../jqwidgets/jqxcore.js"></script>    
+	<script type="text/javascript" src="../jqwidgets/jqxmenu.js"></script>    
+	<script type="text/javascript" src="../jqwidgets/jqxcheckbox.js"></script>	
+</head>
+
+
+
+<body class="bg">
+<div class="page-wrapper">
+	<div class="header">
+		<a href="http://www.canadianvalleyfc.com"><img src="/images/spacer.gif" alt="Canadian Valley Futbol Club" class="logo" /></a>
+		<div class="social">
+			<div><a class="social1" href="http://www.facebook.com/CanadianValleyFC" target="_blank"></a></div>
+			<div><a class="social2" href="http://twitter.com/CVFC" target="_blank"></a></div>
+		</div>
+		<div class="nav">
+							<script type="text/javascript">            
+					$(document).ready(function () {                
+					// Create a jqxMenu                
+					$("#jqxMenu").jqxMenu({ width: '750', height: '30px',theme:'CVFC'});                
+					$("#jqxMenu").css('visibility', 'visible');                
+					$("#disabled").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#open").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#hover").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#topLevelArrows").jqxCheckBox({  width: '200px', height: '20px' });                
+					$("#animation").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#animation").on('change', function (event) {                    
+						var value = event.args.checked;                    
+						// enable or disable the menu's animation.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ animationShowDuration: 0, animationHideDuration: 0, animationShowDelay: 0 });   
+						}                   
+						else {                        
+							$("#jqxMenu").jqxMenu({ animationShowDuration: 300, animationHideDuration: 200, animationShowDelay: 200 });
+						}                
+					});                
+					$("#disabled").on('change', function (event) {  
+						var value = event.args.checked;                  
+						// enable or disable the menu                    
+						if (!value) {
+							$("#jqxMenu").jqxMenu({ disabled: false });                    
+						}                    
+						else {                       
+							$("#jqxMenu").jqxMenu({ disabled: true });    
+						}                
+					});                
+					$("#hover").on('change', function (event) {      
+						var value = event.args.checked;                    
+						// enable or disable the menu's hover effect.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ enableHover: false });               
+						}                    
+						else {     
+							$("#jqxMenu").jqxMenu({ enableHover: true });     
+						}
+					});                
+					$("#open").on('change', function (event) { 
+						var value = event.args.checked;                    
+						// enable or disable the opening of the top level menu items when the user hovers them.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ autoOpen: false });                    
+						}                    
+						else {                        
+							$("#jqxMenu").jqxMenu({ autoOpen: true });                    
+						}                
+					});                
+					$("#topLevelArrows").on('change', function (event) {                    
+						var value = event.args.checked;                    
+						// enable or disable the opening of the top level menu items when the user hovers them.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ showTopLevelArrows: false });                    
+						}                    
+						else {                        
+							$("#jqxMenu").jqxMenu({ showTopLevelArrows: true });                    
+						}                
+					});            
+				});        
+			</script>        
+			<div id='jqxWidget' style='height: 300px;'>            
+				<div id='jqxMenu' style='visibility: hidden; margin-left: 5px;'>                
+					<ul>                    
+						<li><a href="default.asp">Home</a></li>                    
+						<li>About                       
+							 <ul style='width: 250px;'>                            
+								<li><a href="cvfc2_about.asp">About CVFC</a></li>                            
+								<li><a href="cvfc2_boardstaff.asp">Board & Staff</a></li>                            
+								<li><a href="cvfc2_policies.asp">Policies & By-Laws</a></li>                            
+								<li><a href="calendar2.asp">Calendar</a></li>                            
+								<li type='separator'></li>                           
+                                <li><a href="http://www.soccer.com/teamGateway.php?club_id=14443066&spiritwear=1" target="_blank">Shop Fan Gear</a></li> 
+								<li><a href="cvfc2_contact.asp">Contact Us</a></li>                    
+							</ul>                    
+						</li>                    
+						<li>Competitive                        
+							<ul style='width: 200px;'>                           
+								 <li><a href="cvfc2_comp_about.asp">About Competitive</a></li>                            
+								 <li><a href="cvfc2_comp_teams.asp">Teams</a></li>                            
+								 <li><a href="cvfc2_comp_tryouts.asp">Tryouts</a></li>                            
+								 <li><a href="cvfc2_comp_fees.asp">Fees</a></li>                            
+								 <li><a href="cvfc2_comp_schedules.asp">Schedules</a></li>                            
+								 <li><a href="cvfc2_comp_forms.asp">Forms & Links</a></li>                            
+								 <li><a href="cvfc2_comp_resources.asp">College Recruitment Resources</a></li>   
+								 <!--								 <li><a href="cvfc2_comp_accomplishments.asp">Accomplishments</a></li>                       -->     
+							</ul>                    
+						</li>                   
+						<li>Academy                        
+							<ul style='width: 200px;'>                           
+								 <li><a href="cvfc2_academy_about.asp">About Academy</a></li>                            
+								 <li><a href="cvfc2_academy_teams.asp">Teams</a></li>                            
+								 <li><a href="cvfc2_academy_evaluations.asp">Evaluations</a></li>                            
+								 <li><a href="cvfc2_academy_fees.asp">Fees</a></li>                            
+								 <li><a href="cvfc2_academy_schedules.asp">Schedules</a></li>                            
+								 <li><a href="cvfc2_academy_forms.asp">Forms & Links</a></li>                            
+								<!-- <li><a href="cvfc2_academy_accomplishments.asp">Accomplishments</a></li>                            -->
+							</ul>                    
+						</li>                   
+						<li>Recreational                        
+							<ul style='width: 300px;'>                            
+								<li><a href="http://www.mysasoccer.org" target="_blank">Mustang Youth Soccer Association</a></li>                           
+								<li><a href="http://www.yukonsoccer.net" target="_blank">Yukon Soccer Club</a></li>                            
+							</ul>                    
+						</li>  
+                        <li><a href="cvfc2_coaches.asp">Coaches</a></li>                  
+						<li><a href="cvfc2_payments.asp">Payments</a></li>               
+						<li><a href="cvfc2_programs.asp">Programs</a></li>
+						<li><a href="http://www.canadianvalleyfc.com/cvfcadmin.asp">Login</a></li>                        
+					</ul>            
+				</div>	
+			</div>
+
+
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="backto"><a href="default.asp">Back to Home</a></div>
+	<div class="maincolumn">
+		<table border="0" cellpadding="0" cellspacing="0" class="events_wide">
+			<tr>
+				<td class="title" align="left" valign="top">CVFC Board & Staff</td>
+			</tr>
+				<tr>
+				<td align="center" valign="top">
+					<table border="0" cellpadding="5" cellspacing="0" width="100%">
+						<tr class="headerrow">
+							<td align="left" valign="top">First Name</td>
+							<td align="left" valign="top">Last Name</td>
+							<td align="left" valign="top">Position</td>
+							<td align="left" valign="top">Email</td>
+						</tr>
+						
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Josh&nbsp;</td>
+									<td align="left" valign="top">Hill&nbsp;</td>
+									<td align="left" valign="top">MYSA Competitive Commissioner (CVFC President)&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:jhill@studioarc.com">jhill@studioarc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Matt&nbsp;</td>
+									<td align="left" valign="top">Anson&nbsp;</td>
+									<td align="left" valign="top">YSC Competitive Commissioner (CVFC VP)&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:yukonrage@yahoo.com">yukonrage@yahoo.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Bryan&nbsp;</td>
+									<td align="left" valign="top">Donnelly&nbsp;</td>
+									<td align="left" valign="top">MYSA President&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:president@mysasoccer.org">president@mysasoccer.org</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Pam&nbsp;</td>
+									<td align="left" valign="top">Taylor&nbsp;</td>
+									<td align="left" valign="top">YSC President&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:president@yukonsoccer.net">president@yukonsoccer.net</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Melissa&nbsp;</td>
+									<td align="left" valign="top">Willingham&nbsp;</td>
+									<td align="left" valign="top">Secretary&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:secretary@canadianvalleyfc.com">secretary@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Mary&nbsp;</td>
+									<td align="left" valign="top">Guzman&nbsp;</td>
+									<td align="left" valign="top">Registrar&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:mary.guzman.soccer@gmail.com">mary.guzman.soccer@gmail.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Open&nbsp;</td>
+									<td align="left" valign="top">(Done by Mandi Phillips until filled)&nbsp;</td>
+									<td align="left" valign="top">Treasurer&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:treasurer@canadianvalleyfc.com">treasurer@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Rich&nbsp;</td>
+									<td align="left" valign="top">Hudson&nbsp;</td>
+									<td align="left" valign="top">Technical Director&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:rich@canadianvalleyfc.com">rich@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Zenati&nbsp;</td>
+									<td align="left" valign="top">Al Zenati&nbsp;</td>
+									<td align="left" valign="top">Assistant Technical Directory&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:zenati@canadianvalleyfc.com">zenati@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Jeanna&nbsp;</td>
+									<td align="left" valign="top">Thompson&nbsp;</td>
+									<td align="left" valign="top">Payment Coordinator&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:cvfc_payments@yahoo.com">cvfc_payments@yahoo.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Open&nbsp;</td>
+									<td align="left" valign="top">&nbsp;</td>
+									<td align="left" valign="top">Fields & Grounds Committee Chair&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:yukonrage@yahoo.com">yukonrage@yahoo.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Julie&nbsp;</td>
+									<td align="left" valign="top">Watson&nbsp;</td>
+									<td align="left" valign="top">Website Administrator&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:julie@canadianvalleyfc.com">julie@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Katherine&nbsp;</td>
+									<td align="left" valign="top">Barragan&nbsp;</td>
+									<td align="left" valign="top">Apparel Coordinator&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:uniforms@canadianvalleyfc.com">uniforms@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">Michelle&nbsp;</td>
+									<td align="left" valign="top">Biddle&nbsp;</td>
+									<td align="left" valign="top">Manager Coordinator &nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:managercoordinator@canadianvalleyfc.com">managercoordinator@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+								<tr onmouseover="style.backgroundColor='#CCCCCC';" onmouseout="style.backgroundColor='#FFFFFF'"> 
+									<td align="left" valign="top">New-Open&nbsp;</td>
+									<td align="left" valign="top">&nbsp;</td>
+									<td align="left" valign="top">Fundraiser Committee Chair&nbsp;</td>
+									<td align="left" valign="top"><a href="mailto:questions@canadianvalleyfc.com">questions@canadianvalleyfc.com</a>&nbsp;</td>
+								</tr>
+							
+					</table>
+				</td>
+			</tr>
+		</table>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<div class="bottomwrapper">
+	<div class="page-footer">
+		<table cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td align="center" valign="top" class="footer" style="padding-top:20px;">
+			       Canadian Valley Football Club, PO Box 860231, Yukon, OK 73085<br><a href="mailto:questions@canadianvalleyfc.com">questions@canadianvalleyfc.com</a>
+				</td>
+			<?tr>
+		</table>
+	</div>
+</div> 
+</body>
+</html>

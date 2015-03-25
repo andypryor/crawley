@@ -1,0 +1,617 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	ABOUT US
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="DESCRIPTION" content="Warner Soccer" /><meta id="MetaKeywords" name="KEYWORDS" content="Warner Soccer" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright (c) 2015 by Warner Soccer" /><meta id="MetaAuthor" name="AUTHOR" content="Warner Soccer" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/default.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/admin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/skins/skin011/skin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/containers/skin011/container.css?cdv=13" type="text/css" rel="stylesheet"/><script src="/resources/shared/scripts/jquery/jquery.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-migrate.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-ui.min.js?cdv=13" type="text/javascript"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2472549-1']);
+_gaq.push(['_setDomainName', 'clubs.bluesombrero.com']);
+_gaq.push(['_trackPageview']);
+
+            (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+</head>
+<body id="Body">
+    
+    <form name="Form" method="post" action="/Default.aspx?tabid=201833" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="30TS5zAXf29zFqTTPTupUAXLnMBCY43CDnZ8LAByfQPmzUx6q1tHsANIAJAHUPMAF/qrFU3g+XmApffECul81eyVK/gdHzSCCs1fenDmeoRg+AdqBzrDFSXFRJNXRP9GwMXLV+4vBJMk7+q/jfr3WdRAeS1BHkbK0TY9dNt68esuV71xhA9Ah/XQXAaqENhmmbPglMooxn4XDbDs9TpezGN0IROL6hSjfSZQhB6IYJCdKBDCRhPzr8qTOCBh0rfm700mkSPyyyRRIChCXYFZLbeXqHDqEhN43HHXRNU7lMhAYOZEPzDvK8BYFS01WtlLgGdqfzVP+/7eykNM76IhFTcNYpkgRH/dJKVuccV8hp4lmvFhRPo5eQk9DxkC+2TL4T9pS7MWcieGzHwhuB/GjoU5N23D0uSOh8fabOJQXK1FbgwcQLYQMu+HbscMetqs3kVio12ZS8R3rrh5GndeQ20l5KLCXs5lUT6UjMHBv+cjepg6vBNRLGCXd6vQFoWVC//8RQwfiD9/LbY5S566K3pNBTAEyzfQWAJ4tyvCjSXRM/ajJNFJLu755FnJvFgyJZUN+Jq0tG+xdrtTmlvW2l0fh/cxbT9tRG6uK2VzGySsMAE9zi3PbEi2e6EXaGb1FoYukxr3wAaprlA98S7rgw3KpDKX3SLR4AjkGLnzxITksRWXMCS/8m0T5oPNNsHYKxHSC1iAny/YaMyjDN6DiZhdbrgGhttr3WOzJHmUf0+vRE4VOZsn5DGGen39V16tx197mNyjlq+zTU+woKar4WRr4bG9ztSsLVgh3p2RMS54KZb4QhWCm8cPvIs86Qn6UgYEvfpayTaK6CysmRPhGVRxHcRZRNGQkSVZ3wD6jPvEY5ZRv59dsUTgAGeD32Ki5K3+ISW07cT+xOsWYJ+QYjR8h8V8Zfy9AUVBTAZOEOw4GqYYDWqFLoH9kGBWGnd28LDEFyjuRaqJ5NkERAOkkXpa6rPXs+pvZWy5+0ITbwP9Md4X7ImHy5NA3YjLlNYztaTokc23ILRtIO8HDqp6gA+qoLHjwZ53ULf5hELmuOk9hVqZv/Ya0uJl8mo48q/z686YRAwNhq/joBDebiHrxfn323/yOJrNSsg10Xq7VsiDpOVihYaS14al0MD4Zttsvo6hgFdlgdxZHwsuCptd1LmYTm7DGjgQMdjotosLAeyRKu+X+QErVu4doRpxOeJr6PfgJhN/WK6P8GSo4OEwjQS/ZQNbv9NG+yiteCHMFA65Bm8Bh0YkePPst7LuMlJeRiXBP4uVfHE7M/HW4lnFEZpp47az7zq5MzpS0i4W0W0OpnfQ6yuKEMb8NOqvrM8j+ln+ebCA6xHvOOcQNkNmNkie1RdDbpk4g1Xc31ZZfj9iioWGRRE66IOkIenKtMIVCIyCr+x6m3qF3VBZI5BtQ5B9TbiHhIqb3yyr72cla84MYQi9qYH9UHW1cK/U2/qPQZuj2dz+SBMexGM1WmdtzHgbzZTTlTmT1/oQCZQyGy1pQyTYBTBNInfVHD7DFbSUTHCd2cqPINCgzr71UmF7zne0O94R95qGfnSh5skXQd1eYbT8rqh47uaNW1bWDeKvNy6UF2qLpJZ35sRYoItni3I52xnYACUyxxYIPpcrX2k0NXfIn4TUdOX+Po/g2T7iewA7kB/b7N84QoP4v0T6qirgbP+oDsrV/QaGQQ==" />
+</div>
+
+
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.hoverintent.js?v=12" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.controlpanel/resources/bsb_controlpanel.css?v=12' rel='stylesheet' rev='Stylesheet' type='text/css' /><script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.hoverIntent)) document.write(unescape('%3Cscript src="/DesktopModules/DDRMenu/3ColMegaMenu/hoverIntent.js" type="text/javascript"%3E%3C/script%3E'));</script><script type="text/javascript" src="/DesktopModules/DDRMenu/3ColMegaMenu/3ColMegaMenu.js"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af319b152-218f-4c14-829d-050a68bb1a61%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/debug/dnn.modalpopup.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=13" type="text/javascript"></script>
+        
+        
+
+<div class="skin-area">
+	<div class="skin-width">
+		<div class="skin-header">
+			<div class="float-left">
+				<div class="skin-logo"><a id="dnn_dnnLogo_hypLogo" title="Warner Soccer" href="/default.aspx?portalid=1287"><img id="dnn_dnnLogo_imgLogo" src="/Portals/1287/logo/Warner_Soccer_634813985370759748.png" alt="Warner Soccer" style="border-width:0px;" /></a></div>
+				<h1 class="skin-banner">Warner Soccer
+</h1>
+				<div class="clear-both"></div>
+			</div>
+			<div class="float-right">
+				<div class="skin-login">
+					<div class="skin-loginLeft">
+						<div class="skin-loginRight">
+							<div class="skin-loginContent">
+								<a id="dnn_dnnUser_cmdRegister" class="UserLink" href="/Default.aspx?tabid=200842">Create Account</a> 
+								<a id="dnn_dnnLogin_cmdLogin" class="LoginLink" href="/Default.aspx?tabid=200842&amp;isLogin=True">Log In</a>
+								<div class="clear-both"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear-both"></div>
+				<div class="skin-sociallinks">
+					<div class="social-link-holder">
+	<a href="//www.facebook.com/106405126088606" target="_blank" class="social-link facebook-link">Facebook</a>
+	<a href="//www.twitter.com/warnersoccer" target="_blank" class="social-link twitter-link">Twitter</a>
+	<a href="#" target="_blank" class="social-link youtube-link">YouTube</a>
+	<div class="clear-both"></div>
+</div>
+
+
+				</div>
+				<div class="clear-both"></div>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+		<div class="skin-nav">
+			<!-- DDRmenu v02.00.01 - 3ColMegaMenu template --><script type="text/javascript">
+			jQuery(document).ready(function() {
+				splitSubMenu(3);
+			});
+		</script><ul class="megamenu" id="megamenu">
+  <li class="level0 current"><a class="level0 current" href="/Default.aspx?tabid=201833">ABOUT US</a></li>
+  <li class="level0 "><a class="level0 " href="/Default.aspx?tabid=200827">Home</a></li>
+  <li class="level0  child"><a class="level0 " href="/Default.aspx?tabid=201834">YOUTH<span class="root-pointer">&nbsp;&raquo;</span></a><div class="sub">
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201842">LIL' KICKS AGES 3-4</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201843">MINI KICKERS AGES 5-6</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201844">ASG ACADEMY - U7 &amp; U8</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201845">WARNER SOCCER REC LEAGUE AGES 6-18</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=283749">Warner Summer League</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201852">AGE CHART 2014-2015</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=213291">SCHEDULES</a></h2>
+        </li>
+        <li class="sublink"><a href="/Default.aspx?tabid=213294"><span class="child-pointer">&raquo;&nbsp;</span>U7 REC LEAGUE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=213293"><span class="child-pointer">&raquo;&nbsp;</span>U7/8 REC LEAGUE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=292438"><span class="child-pointer">&raquo;&nbsp;</span>U9 REC LEAGUE SCHEDULE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=277243"><span class="child-pointer">&raquo;&nbsp;</span>U9/U10 REC LEAGUE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=213295"><span class="child-pointer">&raquo;&nbsp;</span>U11/12 REC LEAGUE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=213296"><span class="child-pointer">&raquo;&nbsp;</span>U13/14 REC LEAGUE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=281529"><span class="child-pointer">&raquo;&nbsp;</span>SENIOR PREMIER LEAGUE</a></li>
+      </ul>
+    </div>
+  </li>
+  <li class="level0  child"><a class="level0 " href="/Default.aspx?tabid=201838">CAMPS &amp; SPECIALTY PROGRAMS<span class="root-pointer">&nbsp;&raquo;</span></a><div class="sub">
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201874">ADP </a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201840">Winter Skills Builder</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201841">Spring Break Indoor Futsal Camp</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201839">Summer Local Camp</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201862">College Preparatory Camp</a></h2>
+        </li>
+        <li class="sublink"><a href="/Default.aspx?tabid=275104"><span class="child-pointer">&raquo;&nbsp;</span>Girl's Local Schedule</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=294224"><span class="child-pointer">&raquo;&nbsp;</span>Boy's Local Schedule</a></li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201866">Academy Camp</a></h2>
+        </li>
+        <li class="sublink"><a href="/Default.aspx?tabid=294222"><span class="child-pointer">&raquo;&nbsp;</span>Academy Schedule</a></li>
+      </ul>
+    </div>
+  </li>
+  <li class="level0 "><a class="level0 " href="/Default.aspx?tabid=201846">FORMS</a></li>
+  <li class="level0  child"><a class="level0 " href="/Default.aspx?tabid=202085">FLORIDA ALLIANCE SOCCER LEAGUE<span class="root-pointer">&nbsp;&raquo;</span></a><div class="sub">
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=286077">REFEREE &amp; FIELD FEES</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=286100">DOCUMENTS &amp; CHECK IN </a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=286101">LEAGUE FIELDS </a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=286223">SCHEDULES</a></h2>
+        </li>
+      </ul>
+    </div>
+  </li>
+  <li class="level0  child"><a class="level0 " href="/Default.aspx?tabid=201835">ADULT<span class="root-pointer">&nbsp;&raquo;</span></a><div class="sub">
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201849">COMPETITIVE</a></h2>
+        </li>
+        <li class="sublink"><a href="/Default.aspx?tabid=208833"><span class="child-pointer">&raquo;&nbsp;</span>C0ED COMPETITIVE INFORMATION</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=203472"><span class="child-pointer">&raquo;&nbsp;</span>MEN'S LEAGUE INFORMATION</a></li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201875">RECREATION</a></h2>
+        </li>
+        <li class="sublink"><a href="/Default.aspx?tabid=286067"><span class="child-pointer">&raquo;&nbsp;</span>ADULT COED RECREATION LEAGUE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=207995"><span class="child-pointer">&raquo;&nbsp;</span>Still Kickin (M035)</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=207996"><span class="child-pointer">&raquo;&nbsp;</span>SCHEDULE-REC SAT</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=293872"><span class="child-pointer">&raquo;&nbsp;</span>SCHEDULE REC-WED</a></li>
+      </ul>
+    </div>
+  </li>
+  <li class="level0  child"><a class="level0 " href="/Default.aspx?tabid=201871">ASG D1<span class="root-pointer">&nbsp;&raquo;</span></a><div class="sub">
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=271146">Schedule</a></h2>
+        </li>
+        <li class="sublink"><a href="/Default.aspx?tabid=271147"><span class="child-pointer">&raquo;&nbsp;</span>U10 ASGD1 SCHEDULE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=296953"><span class="child-pointer">&raquo;&nbsp;</span>U10G ASGD1 SCHEDULE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=271149"><span class="child-pointer">&raquo;&nbsp;</span>U12 ASGD1 SCHEDULE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=296954"><span class="child-pointer">&raquo;&nbsp;</span>U12G ASGD1 SCHEDULE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=281575"><span class="child-pointer">&raquo;&nbsp;</span>U14 ASGD1 SCHEDULE</a></li>
+        <li class="sublink"><a href="/Default.aspx?tabid=271151"><span class="child-pointer">&raquo;&nbsp;</span>ASGD1 SENIOR DIVISION SCHEDULE</a></li>
+      </ul>
+    </div>
+  </li>
+  <li class="level0  child"><a class="level0 " href="/Default.aspx?tabid=201847">ASG SELECT<span class="root-pointer">&nbsp;&raquo;</span></a><div class="sub">
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=201867">TRAINING</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=289509">2014-2015 HIGHLIGHTS</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=278790">2013-2014 HIGHLIGHTS</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=275286">2012-2013 HIGHLIGHTS</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=203202">2011-2012 HIGHLIGHTS</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=204609">COACHES</a></h2>
+        </li>
+      </ul>
+      <ul class="megamenusubcontent">
+        <li class="subheader">
+          <h2><a href="/Default.aspx?tabid=281114">TOURNAMENT CHAMPIONS AND RESULTS</a></h2>
+        </li>
+      </ul>
+    </div>
+  </li>
+  <li class="level0 "><a class="level0 " href="/Default.aspx?tabid=201869">TASA RAIDERS</a></li>
+  <li class="level0 "><a class="level0 " href="#" onclick="return false">TEAMS</a></li>
+</ul>
+			<div class="clear-both"></div>
+		</div>
+		<div class="clear-both"></div>
+	</div>
+	<table class="skin-width" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="innerpage-content">
+				<table cellpadding="0" cellspacing="0" width="100%">
+					<tr>
+						<td class="ContentPane" colspan="2">
+							<div id="dnn_ContentPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-230371"><a name="230371"></a>
+<div class="default-container">
+	<div class="default-header">
+		<div class="default-action"></div>
+		<div class="default-icn"></div>
+		<h2 class="default-head"><span id="dnn_ctr230371_dnnTITLE_titleLabel" class="default-title">ABOUT US</span>
+
+
+</h2>
+		<div class="clear-both"></div>
+	</div>
+	<div class="default-content"><div id="dnn_ctr230371_ContentPane"><!-- Start_Module_230371 --><div id="dnn_ctr230371_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr230371_HtmlModule_lblContent" class="Normal">
+	<h5><strong>Warner Soccer</strong></h5>
+is a full-time professional soccer education company based in Tallahassee, Florida. Since 1989, Warner Soccer has been training youth soccer players of all ages and abilities from all over the Southeastern United States. Our full-time staff consists of professional licensed coaches that are on the cutting edge of soccer education.<br />
+<strong><br />
+<h4>Our Philosophy</h4>
+</strong><span></span>Based on over 25 years of coaching experience, there are four areas to which Warner Soccer orientates its soccer education programs:<br />
+<br />
+<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp; Activity</strong></h5>
+<h5><span><strong>&nbsp;&nbsp;&nbsp;&nbsp; Challenge</strong></span>&nbsp;</h5>
+<h5><span><strong>&nbsp;&nbsp;&nbsp;&nbsp; Successful Response &amp; Correct Repetition&nbsp;</strong></span></h5>
+<ul></ul>
+    <ul></ul>
+        <ul></ul>
+            <h5><span><strong>&nbsp;&nbsp;&nbsp;&nbsp; Fun &amp; Enjoyment</strong></span></h5>
+</div>
+
+</div><!-- End_Module_230371 --></div><div class="clear-both"></div></div>
+	<div class="clear-both"></div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-230439"><a name="230439"></a>
+<div class="default-container">
+	<div class="default-header">
+		<div class="default-action"></div>
+		<div class="default-icn"></div>
+		<h2 class="default-head"><span id="dnn_ctr230439_dnnTITLE_titleLabel" class="default-title">CONTACT US</span>
+
+
+</h2>
+		<div class="clear-both"></div>
+	</div>
+	<div class="default-content"><div id="dnn_ctr230439_ContentPane" class="DNNAlignleft"><!-- Start_Module_230439 --><div id="dnn_ctr230439_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr230439_HtmlModule_lblContent" class="Normal">
+	<div id="dnn_ctr230371_HtmlModule_lblContent">
+<h4>Warner Soccer</h4>
+<p>1695-4 Metropolitan Circle</p>
+<p>Tallahassee, FL 32308</p>
+<p>850-386-3866 (Office)</p>
+<p>850-386-5799 (Fax)&nbsp;</p>
+<strong>
+<h4>Staff Email Addresses:</h4>
+</strong>Andrew Warner - President and Director of Coaching - <a href="mailto:apwarner@gmail.com?subject=Message%20from%20WarnerSoccer.com">apwarner@gmail.com</a><br />
+Beverley Warner- Director of Youth Education Programs - <a href="mailto:coachbev60@comcast.net?subject=Message%20from%20WarnerSoccer.com">coachbev60@comcast.net</a><br />
+Cyndi Boswell - Financial Manager and Director of&nbsp;Operations - &nbsp;<a href="mailto:cboswell@warnersoccer.com?subject=Message%20from%20WarnerSoccer.com">cboswell@warnersoccer.com</a><br />
+Lisa Warner - Director of Adult Programs &amp; Registrar - <a href="mailto:lisa@warnersoccer.com?subject=Message%20from%20WarnerSoccer.com">lisa@warnersoccer.com</a><br />
+Erin Foote - Outreach Programs Coordinator - <a href="mailto:erin@warnersoccer.com">erin@warnersoccer.com</a><br />
+Hillary Clark - Junior Academy Coordinator - <a href="mailto:hillclark24@gmail.com">hillary@warnersoccer.com</a></div>
+</div>
+
+</div><!-- End_Module_230439 --></div><div class="clear-both"></div></div>
+	<div class="clear-both"></div>
+</div></div></div>
+						</td>
+					</tr>
+					<tr>
+						<td class="innerpage-leftPane">
+							<div id="dnn_LeftPane" class="DNNEmptyPane"></div>
+						</td>
+						<td class="innerpage-rightPane">
+							<div id="dnn_RightPane" class="DNNEmptyPane"></div>
+						</td>
+					</tr>
+					<tr>
+						<td class="BottomPane" colspan="2">
+							<div id="dnn_BottomPane" class="DNNEmptyPane"></div>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<div class="skin-width">
+		<div class="skin-Bottom SameHeightHolder">
+			
+				<div class="BottomLeftPane">
+					<div class="redCN-Wrapper">
+						<h2 class="redCN-header">Links</h2>
+						<div class="clear-both"></div>
+						<div class="redCN-content">
+							<div class="redCN-whitebg SameHeight">
+								
+			<ul class="links-holder">
+		
+			<li class="link-item"><a class="link-anchor" href="http://instagram.com/asgfloridasoccer" >ASG on Instagram</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="http://www.soccer.com/playerpassnav/index.php?zid=16434786" target='_blank'>ASG Gear</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="/Default.aspx?tabid=201847" target='_blank'>ASG FL</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="/Default.aspx?tabid=201871" target='_blank'>ASG DIV I</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="/Default.aspx?tabid=208437" target='_blank'>Fields</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+			<script type="text/javascript">jQuery(document).ready( function() { jQuery(".links-holder:last").addClass("lastlinks-holder"); });</script>
+		
+			<ul class="links-holder">
+		
+			<li class="link-item"><a class="link-anchor" href="/Default.aspx?tabid=201845" target='_blank'>Recreational</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="/Default.aspx?tabid=201835" target='_blank'>Adult</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="/Default.aspx?tabid=201869" target='_blank'>TASA Raiders</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="http://www.warnersoccer.com/Default.aspx?tabid=200827&mid=229122&newskeyid=HN1&ctl=viewallnews" target='_blank'>News</a></li>
+		
+			<li class="link-item"><a class="link-anchor" href="http://www.warnersoccer.com/Default.aspx?tabid=202090" >First Kicks of FL</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+			<script type="text/javascript">jQuery(document).ready( function() { jQuery(".links-holder:last").addClass("lastlinks-holder"); });</script>
+		
+
+								<div class="clear-both"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+			<div class="BottomMiddlePane">
+				<div class="redCN-Wrapper">
+					<h2 class="redCN-header">Connect</h2>
+					<div class="clear-both"></div>
+					<div class="redCN-content">
+						<div class="redCN-whitebg SameHeight">
+							<a href="//www.facebook.com/106405126088606" target="_blank" class="social-button facebook"><img src="/Portals/_default/Skins/Skin011//images/facebook-button.png" alt="Facebook"/></a>
+<a href="//www.twitter.com/warnersoccer" target="_blank" class="social-button twitter"><img src="/Portals/_default/Skins/Skin011//images/Twitter-button.png" alt="Twitter"/></a>
+<a href="javascript:void(0);" target="_blank" class="social-button youtube"><img src="/Portals/_default/Skins/Skin011//images/YouTube-button.png" alt="YouTube"/></a>
+
+
+
+							<a href="mailto:warnersoccer@warnersoccer.com" target="_blank" class="social-button contact"><img src="/portals/_default/skins/skin011/images/email-button.png" alt="Contact"/></a>
+
+							<div class="clear-both"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+				<div class="BottomRightPane">
+					<div class="redCN-Wrapper">
+						<h2 class="redCN-header">Sponsors</h2>
+						<div class="clear-both"></div>
+						<div class="redCN-content">
+							<div class="redCN-whitebg SameHeight">
+								
+		<div class="sponsors-wrapper">
+			<ul id="sponsors-list" class="sponsors-list clear-both">
+	
+				<li class="sponsors-item">
+					<a href="http://www.sunshinesavingsbank.com/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors634956491793584928.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://millertreesrv.com/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635381824953424771.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.neecetire.com/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635446368295972933.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="https://bsbproduction.s3.amazonaws.com/portals/1287/docs/dixie paving ad.pdf" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635381825421727765.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.infinity-software.com/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635381832737831068.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.daleearnhardtjrchevy.net/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors634898838944553067.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://http://wrongfullyinjured.com/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635382439094547176.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://electrotechllc.net/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635422179262765877.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.ccbg.com/?utm_source=ASG%2BFL%2BWebsite&utm_medium=banner&utm_campaign=sponsorship&utm_term=soccer" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635386168916438040.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.michelinsoccer.com/" target='_blank'>
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635440533300426982.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.dickssportinggoods.com/home/index.jsp" >
+						<img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/1287/homesponsors/homesponsors635606341366468163.png" alt="" height='90' width='210'/>
+					</a>
+				</li>
+	
+			</ul>
+		</div>
+		<script type="text/javascript" src="/DesktopModules/BSB/BSB.Controls/Resources/jquery.carouFredSel-5.3.0-packed.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready( function() {
+				function applySponsorScript() {
+					if ( jQuery(".sponsors-item").length > 1 ){
+						jQuery(".sponsors-wrapper").prepend("<a id=\"prev-button\" class=\"sponsors-prevButton\" href=\"javascript:void(0);\">&lt;</a>" +
+							"<a id=\"next-button\" class=\"sponsors-nextButton\" href=\"javascript:void(0);\">&gt;</a>");
+						jQuery("#sponsors-list").carouFredSel({ prev: "#prev-button", next: "#next-button", auto: true, circular: true, items : { visible : 1 }});
+					}
+				}
+				if(jQuery.browser.webkit){ jQuery(window).load( function() { applySponsorScript(); }); }
+				else{ applySponsorScript(); }
+			});
+		</script>
+	
+
+								<div class="clear-both"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+			<div class="clear-both"></div>
+		</div>
+		<div class="skin-footer">
+			
+				<div class="FooterLeftPane">
+					<div class="footerCN-Wrapper">
+						<h2 class="footerCN-header">Site Navigation</h2>
+						<div class="footerCN-content">
+							
+			<ul class="footerlinks-holder">
+		
+			<li class="footerlinks-item"><a class="footerlink-anchor" href="/Default.aspx?tabid=208437" target='_blank'>Fields</a></li>
+		
+			<li class="footerlinks-item"><a class="footerlink-anchor" href="http://www.fysa.com/" target='_blank'>Florida Youth Soccer Association</a></li>
+		
+			<li class="footerlinks-item"><a class="footerlink-anchor" href="http://www.usclubsoccer.org/" target='_blank'>US Club Soccer</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+		
+			<ul class="footerlinks-holder">
+		
+			<li class="footerlinks-item"><a class="footerlink-anchor" href="http://instagram.com/#asgfloridasoccer" >Instagram</a></li>
+		
+			<li class="footerlinks-item"><a class="footerlink-anchor" href="https://www.facebook.com/pages/Warner-Soccer/106405126088606?ref=ts" target='_blank'>Facebook</a></li>
+		
+			<li class="footerlinks-item"><a class="footerlink-anchor" href="https://twitter.com/warnersoccer" target='_blank'>@warnersoccer </a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+		
+
+						</div>
+					</div>
+				</div>
+			
+			<div class="FooterRightPane">
+				<div class="footerCN-Wrapper">
+					<h2 class="footerCN-header">Contact Us</h2>
+					<div class="footerCN-content">
+						<table class="contact-info" cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>
+			Warner Soccer<br/>
+			1695-4 Metropolitan Circle<br />Tallahassee, FL 32308<br/>
+		</td>
+		<td>
+			Email : <a class="email-link" href="mailto:warnersoccer@warnersoccer.com">warnersoccer@warnersoccer.com</a><br/>
+			Phone : <a href="tel:850-386-3866">850-386-3866</a>
+		</td>
+	</tr>
+</table>
+
+					</div>
+				</div>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+		<div class="skin-info">
+			<div class="skin-infoLeft">
+				<span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Copyright (c) 2015 Warner Soccer</span>
+
+				<a id="dnn_dnnTerms_hypTerms" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=201833&amp;ctl=Terms">Terms Of Use</a>&nbsp;|&nbsp;
+				<a id="dnn_dnnPrivacy_hypPrivacy" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=201833&amp;ctl=Privacy">Privacy Statement</a>
+			</div>
+			<div class="skin-infoRight">
+				<a href="http://www.bluesombrero.com" target="_blank">
+					<img src="/portals/_default/powered-by-blue-sombrero-gray.png" alt="Powered By Blue Sombrero"/>
+				</a>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+	</div>
+</div>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`201833`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+</body>
+</html>

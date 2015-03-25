@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Contact | Boise Nationals Soccer Club of Boise, Idaho | Official Website</title>
+<meta name="description" content="Thank you for visiting the Boise Nationals Soccer Club website to view team scores, player stats, and the latest news from our club. Contact our club today." />
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="drop-down.css" rel="stylesheet" type="text/css">
+<script src="jquery-1.6.4.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37762602-33']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div id="container">
+  <meta name="format-detection" content="telephone=no">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="drop-down.css" rel="stylesheet" type="text/css">
+<div id="banner">
+    <div id="banner-logo"><a href="index.php"><img src="media/images/banner-logo.png" alt="boise nationals" width="127" height="148" class="nobord" /></a></div>
+    <div id="banner-left">
+      <div id="banner-top-links">
+        <div class="topnav" id="top-button"><a href="http://www.meridianpal.org/Sports/soccer.aspx" target="_blank">Meridian PAL</a></div>
+        <div class="topnav" id="top-button2"><a href="http://www.nationalswest.com" target="_blank">Nationals West</a></div>
+        <div class="topnav" id="top-button3"><a href="http://www.boisenationals.com/" target="_blank">Boise Nationals</a></div>
+      </div>
+      <div id="banner-title"><a href="index.php"><img src="media/images/banner-title.png" alt="boise nationals soccer club" width="341" height="79" class="nobord" /></a></div>
+    	
+    </div>
+    <div id="banner-right">
+      <div id="banner-address">6128 W. Fairview Ave. Ste 2C. Boise, ID 83704 | <span class="banner-phone"><a href="tel:208-342-2249">208-342-2249</a></span></div>
+      <div id="banner-icons"><a href="https://www.facebook.com/boisenationalssoccerclub?fref=ts" target="_blank"><img src="media/images/banner-fb.png" alt="boise nationals facebook" width="42" height="41" class="nobord" /></a> <a href="https://twitter.com/BoiseNationals" target="_blank"><img src="media/images/banner-twit.png" alt="twitter" width="42" height="41" class="nobord" /></a> <a href="mailto:bnscoffice@gmail.com"><img src="media/images/banner-mail.png" alt="mail" width="41" height="41" class="nobord" /></a></div>
+      <div id="banner-hours">Hours: Monday-Thursday 10am-3pm</div>
+      <div id="banner-slogan"><em>“Idaho’s Oldest &amp; Most Successful Soccer Club�?</em></div>
+    	
+    </div>
+    <div id="banner-nike"><img src="media/images/banner-nike.png" alt="nike premier club" width="108" height="144" class="nobord" /></div>
+    
+  	<div id="nav-hold">
+    <ul id="nav">
+	<li><a href="index.php">Home</a></li>
+    <li><a href="about.php">About BNSC</a>
+    <ul>
+      <li><a href="about-mission.php">Mission & Core Values</a></li>
+      <li><a href="about-structure.php">Structure</a></li>
+      <li><a href="about-nike.php">Nike Premier Club</a></li>
+      <li><a href="about-history.php">History</a></li>
+      <li><a href="about-hall.php">Hall of Fame</a></li>
+      <li><a href="about-mccandlish-scholars.php">McCandlish Scholars</a></li>
+      <li><a href="about-field-maps.php">Field Maps</a></li>
+      <li><a href="about-forms.php">Forms</a></li>
+      <li><a href="about-links.php">Links</a></li>
+      <li><a href="about-board-of-directors.php">Board of Directors</a></li>
+      <li><a href="contact.php">Contact Us</a></li>
+    </ul>
+    </li>
+    <li><a href="competitive.php">Competitive</a>
+    <ul>
+      <li><a href="competitive-program.php">Program Overview</a></li>
+      <li><a href="competitive-why-bnsc.php">Why BNSC?</a></li>
+      <li><a href="competitive-tryout.php">Tryout for BNSC</a></li>
+      <li><a href="competitive-club-fees.php">Club Fees</a></li>
+      <li><a href="competitive-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="competitive-teams.php">Teams</a></li>
+      <li><a href="competitive-goalkeepers.php">Goalkeepers</a></li>
+      <li><a href="competitive-injury.php">Injury/Medical</a></li>
+      <li><a href="competitive-faq.php">FAQ</a></li>
+      <li><a href="registration.php">Registration</a></li>
+    </ul>    
+    </li>
+    <li><a href="select.php">Select</a>
+    <ul>
+      <li><a href="select-schedules.php">Schedules</a></li>
+      <li><a href="select-program-overview.php">Program Overview</a></li>
+      <li><a href="competitive-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="select-faq.php">FAQ</a></li>
+      <li><a href="select-fees.php">Select Fees</a></li>
+      <li><a href="registration.php">Registration</a></li>
+    </ul> 
+    </li>
+    <li><a href="recreational.php">Recreational</a>
+    <ul>
+      <li><a href="recreational-program-overview.php">Program Overview</a></li> 
+      <li><a href="recreational-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="competitive-faq.php">FAQ</a></li>
+      <li><a href="registration.php">Registration</a></li>
+      <li><a href="youth-soccer-schedules.php">Schedule and Rosters</a></li>
+    </ul> 
+    </li>
+    <li><a href="tykes.php">Tykes</a>
+    <ul>
+      <li><a href="tykes-program-overview.php">Program Overview</a></li>
+      <li><a href="competitive-coaching-staff.php">Coaching Staff</a></li>
+      <li><a href="tykes-upcoming-classes.php">Upcoming Classes</a></li>
+      <li><a href="competitive-faq.php">FAQ</a></li>
+      <li><a href="registration.php">Registration</a></li>
+    </ul> 
+    </li>
+    <li><a href="college.php">College</a>
+    <ul>
+      <li><a href="college-advisory.php">College Advisory Program</a></li>
+      <li><a href="college-player-placement.php">Player Placement History</a></li>
+      <li><a href="college-team-bios.php">Team Bios & Rosters</a></li>
+      <li><a href="college-team-video-vault.php">Video Vault</a></li>
+      <li><a href="college-resources.php">Resources</a></li>
+    </ul> 
+    </li>
+    <li><a href="#">Camps & Tournaments</a>
+    <ul>
+      <li><a href="camps-spring-break.php">Spring Break Camp</a></li>
+      <li><a href="camps-intermountain.php">Intermountain Showcase</a></li>
+      <li><a href="camps-3v3.php">Sun Cup 3v3 Tournament</a></li>
+      <li><a href="camps-team-camp.php">Team Camp</a></li>
+      <li><a href="camps-summer-youth.php">Summer Youth Camp</a></li>
+      <li><a href="camps-summer-tykes.php">Tykes Summer Camp</a></li>
+      <li><a href="camps-elite-skills.php">BNSC Skills Camp</a></li>
+    </ul>
+    </li>
+    <li><a href="fundraising.php">Fundraising</a>
+    <ul>
+      <li><a href="fundraising-club-sponsors.php">Club Sponsors</a></li>
+      <li><a href="fundraising-sponsorship-packages.php">Sponsorship Packages</a></li>
+      <li><a href="fundraising-dinner-auction.php">Dinner Auction</a></li>
+      <li><a href="fundraising-golf-tournament.php">Golf Tournament</a></li>
+      <li><a href="fundraising-team-fundraising.php">Team Fundraising</a></li>
+    </ul>
+    </li>
+    <li><a href="registration.php">Registration</a></li>
+    </ul>
+<script type="text/javascript">
+$(document).ready(function () {	
+	
+	$('#nav li').hover(
+		function () {
+			//show its submenu
+			$('ul', this).stop(true,true).slideDown(300);
+
+		}, 
+		function () {
+			//hide its submenu
+			$('ul', this).stop(true,true).slideUp(300);			
+		}
+	);
+	
+});
+</script>
+    </div>
+  </div>  <div id="main-body">
+    <div id="main-content-sub"> <h1>Contact Us</h1>
+<p>The BNSC Office is open Mondays through Thursdays from 10-3 daily.  We are closed on all major Holidays and at other select times throughout the year.  To reach us by phone call 208.342.2249 or email <a href="mailto:bnscoffice@gmail.com">bnscoffice@gmail.com</a>.<strong class="style1"><br />
+  <br />
+  Office Location and Phone Numbers: </strong><br />
+  Welcome to the General Forms section of the website.  This area contains most of the forms that our parents, players and managers are likely to need.  To the left you will find relevant club documents.  If there are any additional forms that you think would be helpful, please e-mail <a href="mailto:bnscoffice@gmail.com?subject=BNSC Forms">bnscoffice@gmail.com</a>.<strong><br />
+  </strong><br />
+  6128 W. Fairview Ave<br />
+  Suite 2C<br />
+  Boise, ID 83704<br />
+  Phone: 208-342-2249<br />
+  Fax: 208-947-0067<strong><br />
+  <br />
+</strong></p>
+<hr width="990" size="1" />
+<p><strong><br />
+  <span class="style1">Office Hours: </span><br />
+  <br />
+  </strong>- Monday, Tuesday, Wednesday and Thursday:  10:00 a.m. - 3:00 p.m.  <br />
+  - Closed Friday<strong><br />
+  <br />
+</strong></p>
+<hr width="990" size="1" />
+<p><strong> <br />
+  <br />
+  <span class="style1">Office Contacts:</span><br />
+  </strong><br />
+  Club Registrar and Office Administator:  Terri Cain   <a href="mailto:bnscoffice@gmail.com">bnscoffice@gmail.com</a><strong><br />
+  </strong>Club Treasurer:  Barb Egland   <a href="mailto:boisenationalstreasury@gmail.com">boisenationalstreasury@gmail.com</a><br />
+  Fundraising: Sam Sandmire   <a href="mailto:carysamidaho@cableone.net">carysamidaho@cableone.net</a><br />
+  <br />
+</p>
+<hr width="990" size="1" />
+<p class="style1"><strong><br />
+  BNSC Technical Staff</strong>:</p>
+<p><strong>Technical Director:</strong></p>
+<p>Coe Michaelson  - (208) 350-9689 - <a href="mailto:director@boisenationals.com">director@boisenationals.com</a></p>
+<p><strong>Associate Director:  U10-U13 Boys:</strong></p>
+<p>Brad Thorne  -<a href="mailto:jtdbnscb@outlook.com"> jtdbnscb@outlook.com</a></p>
+<p><strong>Youth Academy DOC:  2-10 Boys &amp; Girls:</strong></p>
+<p>Chad Hartley - (208) 757-1972 - <a href="mailto:bnscyouthacademy@gmail.com">bnscyouthacademy@gmail.com</a></p>
+<p><strong>Associate Director: U10-U13 Girls:</strong></p>
+<p>Matt Billings - (208) 954-9805 – <a href="mailto:mrbbnsc@outlook.com">mrbbnsc@outlook.com</a></p>
+<p><strong>Director of Coaching U14-18 Boys/Girls:</strong></p>
+<p>Jon Curry - (208) 908 2354 -<a href="mailto:jrcurry@gmail.com"> jrcurry@gmail.com</a><br />
+</p>
+<p><strong>Select DOC: </strong></p>
+<p> Taylor Bodily - (208) 440 0894 - <a href="mailto:tsbodily@outlook.com">tsbodily@outlook.com</a></p>
+<p><strong><br />
+</strong></p> </div>
+  <link href="css/main.css" rel="stylesheet" type="text/css">
+<div id="footer">
+    <div id="foot-left-link1"><span class="btmnav"><a href="index.php">Home</a></span><br />
+      <span class="btmnav"><a href="about.php">About BNSC</a></span><br />
+      <span class="btmnav"><a href="competitive.php">Competitive</a></span><br />
+    </div>
+    <div id="foot-left-link1"><span class="btmnav"><a href="select.php">Select</a></span><br />
+      <span class="btmnav"><a href="recreational.php">Recreational</a></span><br />
+    <span class="btmnav"><a href="tykes.php">Tykes</a></span> </div>
+    <div id="foot-left-link1"><span class="btmnav"><a href="college.php">College</a></span><br />
+      <span class="btmnav"><a href="camps.php">Camps &amp; Tournaments</a></span><br />
+    <span class="btmnav"><a href="fundraising.php">Fundraising</a></span> </div>
+    <div id="foot-logo"><a href="index.php"><img src="media/images/foot-logo.png" alt="boise nationals" width="88" height="103" class="nobord" /></a></div>
+    <div class="btmnav" id="foot-right">
+       © 2015  Boise National Soccer Club.  All Rights Reserved.<br />
+    6128 W. Fairview Avenue, Ste. 2C, Boise, ID 83704    <br />
+    Site by Thrive Web Designs, a <a href="http://www.thrivewebdesigns.com" target="_blank">Boise Web Design</a> Co. </div>
+    
+  </div>  </div>
+  
+	
+</div>
+</body>
+</html>

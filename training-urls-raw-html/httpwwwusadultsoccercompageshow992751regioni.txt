@@ -1,0 +1,3294 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en-us" id="ngin4400" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en-us" id="ngin4400" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en-us" id="ngin4400" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en-us" id="ngin4400" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-us" id="ngin4400"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-us" id="ngin4400"> <!--<![endif]-->
+<head>
+<!--[if lte IE 8]>
+    <meta http-equiv="refresh" content="0; url=/unsupported_browser" />
+    <script type="text/javascript">
+        window.top.location = '/unsupported_browser';
+    </script>
+<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7b8dc0b815","applicationID":"16731","transactionName":"IQkMERZcXApQQRZAAAUDTRYMXEc=","queueTime":1,"applicationTime":19,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAECQldVDwAB"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="Q9wjQBaW30mBHhlHWVMWHE2ciNATTaX2bzhFypqgoxI=" name="csrf-token" />
+  <title>Region I</title>
+
+  <!-- application -->
+
+  <link rel="shortcut icon" href="http://assets.ngin.com/site_files/4400/favicon.ico" />
+
+  
+
+
+  <link href="http://app-assets3.sportngin.com/site_stylesheets/4400/page_elements.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets2.sportngin.com/site_stylesheets/4400/sports.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets2.sportngin.com/site_stylesheets/4400/minimal.css?1427213208" id="LayoutThemeCSS" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets1.sportngin.com/site_stylesheets/4400/jquery_treeTable.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+
+  <!--[if IE 9]>
+  <script type="text/javascript" charset="utf-8">var IE = "9";</script>
+  <link href="http://app-assets2.sportngin.com/stylesheets/ie9/default_ie9.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">var IE = "8";</script>
+<![endif]-->
+
+<!--[if IE 7]>
+  <script type="text/javascript" charset="utf-8">var IE = "7";</script>
+<![endif]-->
+
+<!--[if IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if lte IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if !IE]><!--><script type="text/javascript" charset="utf-8">var IE = null;</script><!-- <![endif]-->
+
+
+  
+
+  <link href="http://app-assets1.sportngin.com/stylesheets/print/website_print.css?1427213208" media="print" rel="stylesheet" type="text/css" />
+
+  <script type='text/javascript' src='/javascripts/jquery/jquery-1.7.1.min.js'></script>
+<script type='text/javascript'>
+  var $j = jQuery.noConflict();
+</script>
+
+
+  
+  <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700,300' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="//assets.ngin.com/site_files/4400/4400_styles.css" />
+
+    <style type="text/css">
+    
+  </style>
+
+<style type="text/css">
+html {
+  background: #0d2d4f url("http://cdn3.sportngin.com/attachments/background_graphic/4214/3570/background.jpg") no-repeat center top scroll;
+}
+</style>
+
+
+  
+
+  <script protocol="http://" src="http://app-assets3.sportngin.com/javascripts/base_packaged.js?1427312913" type="text/javascript"></script>
+
+  <script src="http://app-assets3.sportngin.com/javascripts/dropdown_nav.js?1427312913" type="text/javascript"></script>
+
+  
+  
+
+      <meta property="og:title" content="Region I"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.usadultsoccer.com/page/show/992751-region-i"/>
+    <meta property="og:site_name" content="United States Adult Soccer Association"/>
+
+    <script src="http://app-assets2.sportngin.com/javascripts/themes/.js?1427312913" type="text/javascript"></script>
+
+
+  
+    <!-- dynamic head code -->
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-821370-1']);
+    _gaq.push(['_setDomainName', 'usadultsoccer.com']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setCustomVar', 1, 'Product','sport-ngin',3]);
+    _gaq.push(['_setCustomVar', 2, 'Sport','soccer',3]);
+    _gaq.push(['_setCustomVar', 3, 'SiteID','4400',3]);
+    _gaq.push(['_setCustomVar', 4, 'State','IL',3]);
+    _gaq.push(['_setCustomVar', 5, 'DMA','3',3]);
+
+        _gaq.push(['b._setAccount', 'UA-1756896-1']);
+        _gaq.push(['b._trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+
+  <!-- Quantcast Tag -->
+  <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+      var elem = document.createElement('script');
+
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+      _qevents.push({
+        qacct: "p-56Ph9bjA0FOcE",
+        labels: "Product.sport-ngin, Sport.soccer, State.IL, Site.4400, Ads.No"
+      });
+  </script>
+  <noscript>
+    <div style="display:none;">
+      <img alt="Quantcast" border="0" height="1" src="https://pixel.quantserve.com/pixel/p-56Ph9bjA0FOcE.gif" width="1" />
+    </div>
+  </noscript>
+  <!-- End Quantcast tag -->
+
+
+  <script type="text/javascript">var RecaptchaOptions = { theme : 'clean', tabindex : 3 };</script>
+  <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+
+</head>
+
+<body class="minimal noUserBar user_mode">
+
+
+    <script src="http://app-assets3.sportngin.com/javascripts/connect.facebook.net.en_US.all.js#xfbml=1?1427213208" type="text/javascript"></script>
+
+  <a href="#yieldContent" style="color:#FFF;position:absolute;height:1px;width:1px;left:-9999px;">skip navigation</a>
+
+  
+
+  <div id="top"></div>
+  
+  
+  
+
+
+  <div id="siteContainer2" class="siteContainer two_panel">
+    
+    <div id="siteHeader" class="bannerGraphic">
+    <a class="usasaHome" title="Home" href="/">Home</a>
+<ul class="socialMedia">
+  <li><a class="facebook" href="//www.facebook.com/USAdultSoccer" title="Facebook">Facebook</a></li>
+  <li><a class="twitter" href="//twitter.com/USAdultSoccer" title="Twitter">Twitter</a></li>
+</ul>      <h1><a href="http://www.usadultsoccer.com" title="United States Adult Soccer Association Homepage">United States Adult Soccer Association</a></h1>
+  
+  
+  
+</div>
+
+    <div id="topNav">
+        <table>
+  <tr>
+      <td align="center" class="home enabled firstNavElement" id="top_nav_node_page_node_926661">
+        <a id="nav_id-page_node_926661" href="/page/show/926661-home" title="click to go to &#x27;Home&#x27;"  >
+          Home
+        </a>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_992688">
+        <a id="nav_id-page_node_992688" href="/page/show/992688-about" title="click to go to &#x27;About&#x27;"  >
+          About
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/949803-staff" class="" title="click to go to &#x27;Staff&#x27;" >
+                Staff
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/949804-usasa-national-board-of-directors" class="" title="click to go to &#x27;USASA National Board of Directors&#x27;" >
+                NBOD
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/949937-contact-us" class="" title="click to go to &#x27;Contact Us&#x27;" >
+                Contact Us
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/963969-sponsors-partners" class="" title="click to go to &#x27;Sponsors/Partners&#x27;" >
+                Sponsors/Partners
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/971558-calendar" class="" title="click to go to &#x27;Calendar&#x27;" >
+                Calendar
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/971559-news" class="" title="click to go to &#x27;News&#x27;" >
+                News
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/996410-admin" class="" title="click to go to &#x27;Admin&#x27;" >
+                Admin
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/949920-hall-of-fame" class="" title="click to go to &#x27;Hall of Fame&#x27;" >
+                    Hall of Fame
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949923-minutes" class="" title="click to go to &#x27;Minutes&#x27;" >
+                    Minutes
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949924-financial-reports" class="" title="click to go to &#x27;Financial Reports&#x27;" >
+                    Financial Reports
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949925-registration-stats" class="" title="click to go to &#x27;Registration Stats&#x27;" >
+                    Registration Stats
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949927-privacy-legal" class="" title="click to go to &#x27;Privacy/Legal&#x27;" >
+                    Privacy/Legal
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949928-employment" class="" title="click to go to &#x27;Employment&#x27;" >
+                    Employment
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949929-services-grants-rebates" class="" title="click to go to &#x27;Services/Grants/Rebates&#x27;" >
+                    Services/Rebates
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949935-insurance" class="" title="click to go to &#x27;Insurance&#x27;" >
+                    Insurance
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/964080-resources" class="" title="click to go to &#x27;Resources&#x27;" >
+                    Resources
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/949938-faq" class="" title="click to go to &#x27;FAQ&#x27;" >
+                    FAQ
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/1124785-photo-galleries" class="" title="click to go to &#x27;Photo Galleries&#x27;" >
+                Photo Galleries
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_949793">
+        <a id="nav_id-page_node_949793" href="/page/show/949793-events" title="click to go to &#x27;Events&#x27;"  >
+          Events
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/963902-events-to-host" class="" title="click to go to &#x27;Events To Host&#x27;" >
+                Events To Host
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1010311-us-soccer-national-amateur-championships" class="" title="click to go to &#x27;US Soccer National Amateur Championships&#x27;" >
+                Amateur Championships
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/963914-midyear-meeting" class="" title="click to go to &#x27;Midyear Meeting&#x27;" >
+                Midyear Meeting
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/963915-us-soccer-agm" class="" title="click to go to &#x27;US Soccer AGM&#x27;" >
+                US Soccer AGM
+                
+              </a>
+            </li>
+            <li>
+              <a href="http://www.usadultsoccer.com/nationalchampionshipseries" class="" title="click to go to &#x27;2015 National Championship Series&#x27;" >
+                NTL Championship Series
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1551451-2015-national-veterans-cup" class="" title="click to go to &#x27;2015 National Veterans Cup&#x27;" >
+                Veterans Cup
+                
+              </a>
+            </li>
+            <li>
+              <a href="http://www.usadultsoccer.com/u23championships" class="" title="click to go to &#x27;2015 Men&#x27;s U23 Championships&#x27;" >
+                U23 Championships
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1551907-2015-women-s-championships" class="" title="click to go to &#x27;2015 Women&#x27;s Championships&#x27;" >
+                Women&#x27;s Championships
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1552956-2015-men-s-national-cups" class="" title="click to go to &#x27;2015 Men&#x27;s National Cups&#x27;" >
+                Men&#x27;s National Cups
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_949794">
+        <a id="nav_id-page_node_949794" href="/page/show/949794-premier-leagues" title="click to go to &#x27;Premier Leagues&#x27;"  >
+          Premier Leagues
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/996422-elite-amateur-leagues" class="" title="click to go to &#x27;Elite Amateur Leagues&#x27;" >
+                Elite Amateur Leagues
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/1093358-coast-soccer-league-cal-south-" class="" title="click to go to &#x27;Coast Soccer League (Cal South)&#x27;" >
+                    CSL (CA-S)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1067274-cosmopolitan-soccer-league" class="" title="click to go to &#x27;Cosmopolitan Soccer League&#x27;" >
+                    CSL (NJ/ENY)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1046206-long-island-soccer-football-league" class="" title="click to go to &#x27;Long Island Soccer Football League&#x27;" >
+                    LISFL (ENY)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1046193-maryland-major-soccer-league" class="" title="click to go to &#x27;Maryland Major Soccer League&#x27;" >
+                    Maryland Major 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1189586-michigan-premier-soccer-league" class="" title="click to go to &#x27;Michigan Premier Soccer League&#x27;" >
+                    MPSL (MI)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1189606-rochester-district-soccer-league" class="" title="click to go to &#x27;Rochester District Soccer League&#x27;" >
+                    RDSL (WNY)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1046197-san-francisco-soccer-football-league" class="" title="click to go to &#x27;San Francisco Soccer Football League&#x27;" >
+                    SFSFL (CA-N)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1044148-united-soccer-league-of-pennsylvania" class="" title="click to go to &#x27;United Soccer League of Pennsylvania&#x27;" >
+                    United Soccer League 
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1056705-united-premier-soccer-league-cal-south-" class="" title="click to go to &#x27;United Premier Soccer League (Cal South)&#x27;" >
+                    UPSL (CA-S)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1093359-washington-premier-league-maryland-" class="" title="click to go to &#x27;Washington Premier League (Maryland)&#x27;" >
+                    WPL (MD)
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1225814-evergreen-premier-league-wa-" class="" title="click to go to &#x27;Evergreen Premier League (WA)&#x27;" >
+                    EPLWA (WA)
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/996419-npsl" class="" title="click to go to &#x27;NPSL&#x27;" >
+                NPSL
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/996418-united-soccer-leagues" class="" title="click to go to &#x27;United Soccer Leagues&#x27;" >
+                USL
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/996421-wpsl" class="" title="click to go to &#x27;WPSL&#x27;" >
+                WPSL
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_949796">
+        <a id="nav_id-page_node_949796" href="/page/show/949796-usasa-regions-and-affiliates" title="click to go to &#x27;USASA Regions &amp; Affiliates&#x27;"  >
+          Members
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/992751-region-i" class="" title="click to go to &#x27;Region I&#x27;" >
+                Region I
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/992761-region-ii" class="" title="click to go to &#x27;Region II&#x27;" >
+                Region II
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/992762-region-iii" class="" title="click to go to &#x27;Region III&#x27;" >
+                Region III
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/992765-region-iv" class="" title="click to go to &#x27;Region IV&#x27;" >
+                Region IV
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1034162-national-affiliates" class="" title="click to go to &#x27;National Affiliates&#x27;" >
+                National Affiliates
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_949797">
+        <a id="nav_id-page_node_949797" href="/page/show/949797-affiliation" title="click to go to &#x27;Affiliation&#x27;"  >
+          Affiliation
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/963979-how-to-affiliate" class="" title="click to go to &#x27;How To Affiliate&#x27;" >
+                How To Affiliate
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled lastNavElement" id="top_nav_node_page_node_997081">
+        <a id="nav_id-page_node_997081" href="/page/show/997081-footer-content" title="click to go to &#x27;Footer Content&#x27;"  >
+          Footer Content
+        </a>
+      </td>
+
+
+
+  </tr>
+</table>
+
+<script type="text/javascript">
+  dropdown_nav_init();
+</script>
+
+
+</div>
+
+<script type="text/javascript">
+  function topNavSelect(){
+	   $j('#nav_id-page_node_949796').addClass('selected').closest('td').addClass('selected');
+  }
+</script>
+
+<script type="text/javascript" charset="utf-8">
+  $j(function(){
+    $j('#topNav').trigger('topnav.loaded');
+  });
+</script>
+
+
+    
+    <div id="pageContentContainer">
+      
+        <div id="panelOne">
+          <div class="subNavContainer">
+  <div class="subNav">
+    <h4>Current Section</h4>
+      <ul class="parents" id="parent_nodes">
+            <li id="page_node_949796" class="enabled"><a href="/page/show/949796-usasa-regions-and-affiliates" title="click to go to 'USASA Regions & Affiliates'">Members</a></li>
+        <li id="page_node_992751" class="enabled selected"><a href="/page/show/992751-region-i" title="click to go to 'Region I'">Region I</a></li>
+      </ul>
+
+  </div>
+
+    <div class="relatedSections">
+      <h4>Related Pages</h4>
+      <ul class="siblings" id="sibling_nodes">
+          <li id="page_node_992751" class="enabled selected"><a href="/page/show/992751-region-i" title="click to go to 'Region I'">Region I</a></li>
+          <li id="page_node_992761" class="enabled"><a href="/page/show/992761-region-ii" title="click to go to 'Region II'">Region II</a></li>
+          <li id="page_node_992762" class="enabled"><a href="/page/show/992762-region-iii" title="click to go to 'Region III'">Region III</a></li>
+          <li id="page_node_992765" class="enabled"><a href="/page/show/992765-region-iv" title="click to go to 'Region IV'">Region IV</a></li>
+          <li id="page_node_1034162" class="enabled"><a href="/page/show/1034162-national-affiliates" title="click to go to 'National Affiliates'">National Affiliates</a></li>
+      </ul>
+    </div>
+</div>
+
+
+
+          <div id="leftHandGraphics">
+      <div class="clientGraphic image">
+          <a href="http://www.mlssoccer.com" target="_blank"><img alt="Mls_logo" src="http://cdn1.sportngin.com/attachments/lefthand_graphic/2739/8465/MLS_Logo.jpg" /></a>
+      </div>
+      <div class="clientGraphic image">
+          <img alt="Official_sports_logo" src="http://cdn1.sportngin.com/attachments/lefthand_graphic/2739/8466/Official_Sports_Logo.jpg" />
+      </div>
+      <div class="clientGraphic image">
+          <a href="http://www.nike.com/nikesoccer/" target="_blank"><img alt="Logo_rotations_2" src="http://cdn3.sportngin.com/attachments/lefthand_graphic/2739/1102/logo_rotations_2.png" /></a>
+      </div>
+
+
+</div>
+
+
+
+        </div><!-- closing panelOne -->
+      <div id="panelTwo">
+        <div id="displayBodyContent">
+          <div id="yieldContent">
+              <h2 id="displayBodyHeader" class=""><span>Region I</span></h2>
+
+
+            <div id="errorNotice">
+  
+  
+  
+  
+</div>
+
+
+
+            <div class='yieldAdminContent'></div>
+            <div class='yieldPageContent'>
+                    
+
+        <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_48767244" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: left;"><span>Website</span></h3>
+
+
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_48767329" class="pageEl"  >
+  
+      <div class="pageElement linkElement">
+  <h4><a href="http://usasa1.wix.com/region1" target=_blank class="icon goToLink">US Adult Soccer Region I</a></h4>
+  <p class="text">Region I is composed of member state associations located in the Northeast &amp; Mid-Atlantic area of the country.  It also includes national &amp; regional leagues that play in our region.  The region has a long and strong history in US Soccer.  Our leagues have produced champions in many competitions conducted by US Adult Soccer and offer the best experience of organized adult soccer.</p>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_37877408" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: left;"><span>Executive Committee</span></h3>
+
+
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_40565401" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Fritz Marth</h3>
+		<p><strong>Director</strong></p>
+
+<p>Home: 609-265-2442<br />
+Fax: 609-2655-2004<br />
+Email: <a href="mailto:usasamarth@aol.com">usasamarth@aol.com</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40565434" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>John Kahmke</h3>
+		<p><strong>Treasurer</strong><br />
+Mobile: 585-278-5378<br />
+Email: <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><a href="mailto:jkahmke@yahoo.com">jkahmke@yahoo.com</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_40565421" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Anthony Falcone</h3>
+		<p><strong>Deputy Director</strong><br />
+Home: 301-422-2393<br />
+Email: <a href="mailto:USASAFalcone@msn.com">USASAFalcone@msn.com</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40565445" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Scott Mapes</h3>
+		<p><strong>Secretary</strong><br />
+Work: 802-864-8100<br />
+Email: <a href="mailto:smmapes@aol.com">smmapes@aol.com</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294946" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_37879062" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="connecticut" name="connecticut"></a></p>
+
+<h3 style="text-align: left;"><span>CONNECTICUT STATE SOCCER ASSOCIATION</span></h3>
+
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40554399" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a href="http://www.cssasoccer.com">www.cssasoccer.com</a></p>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_40565494" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Daniel Rooney</h3>
+		<p><strong>President</strong><br />
+Email: <a href="mailto:DanRooney2009@gmail.com">DanRooney2009@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40565497" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Jack Testani</h3>
+		<p><strong>1st Vice President</strong><br />
+Mobile: 203-217-5507<br />
+Email: <a href="mailto:torrice6@aol.com">torrice6@aol.com</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40565509" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Marco Viola</h3>
+		<p><strong>2nd Vice President</strong></p>
+
+<p>Work: 203-569-8946<br />
+Fax: 203-569-8940<br />
+Email: <a href="mailto:MarcoViola@aol.com">MarcoViola@aol.com</a></p>
+
+<p><em>*State verification officer</em></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_40565524" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Szu Hao Chen</h3>
+		<p><strong>Registra</strong>r<br />
+Mobile: 203-984-8615<br />
+Email:&nbsp;<a href="mailto:chenzao@gmail.com">chenzao@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40565535" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Mike Schechter</h3>
+		<p><strong>Treasurer/Secretary</strong><br />
+Email: <a href="mailto:michael@stitchgifts.com">michael@stitchgifts.com</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40565543" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Ken Brown</h3>
+		<p><strong>Discipline Chairperson</strong><br />
+Work: 860-677-3359<br />
+Email: <a href="mailto:kb.adsb@cox.net">kb.adsb@cox.net</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294888" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38285617" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="delaware" name="delaware"></a></p>
+
+<h3 style="text-align: left;"><span>DELAWARE SOCCER ASSOCIATION</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38285807" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Robert Tsaganos </h3>
+		<p><strong>President/State Administrator</strong></p>
+
+<p>Work: 610-459-0587<br />
+FAX: 610-459-1083<br />
+Email: <a href="mailto:rtsaganos@aol.com">rtsaganos@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294845" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286059" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="newyork" name="newyork"></a></p>
+
+<h3 style="text-align:left">Eastern New York State Soccer Association</h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40568897" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>25 Bryant Street</p>
+
+<p>Staten Island, NY 10307</p>
+
+<p><a href="http://www.enyssa.com">www.enyssa.com</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38286408" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Sal Rapaglia </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 718-948-7744<br />
+FAX: 718-227-1777<br />
+Email: <a href="mailto:shopgirlar17@aol.com">shopgirlar17@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286441" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Albino Guimaraes </h3>
+		<p><strong>1st Vice President</strong></p>
+
+<p>Home: 914-698-7214</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286467" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Alfonso Vargas </h3>
+		<p><strong>3rd Vice President</strong></p>
+
+<p>Home: 718-657-4335</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286511" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Orlando Byfield</h3>
+		<p><strong>Recording Secretary</strong></p>
+
+<p>Mobile: 917-929-6173</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286550" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Enrico Romano</h3>
+		<p><strong>SRA</strong></p>
+
+<p>Phone: 845-721-6324</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286724" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Nino De Pasquale</h3>
+		<p><strong>Women&#39;s State Coach</strong></p>
+
+<p>Home: 718-946-2142</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38286423" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Peter Pinori </h3>
+		<p><strong>General Secretary</strong></p>
+
+<p>Phone: 646-302-3828<br />
+Email: <a href="mailto:peterpinori@gmail.com">peterpinori@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286451" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Gus Xikis </h3>
+		<p><strong>2nd Vice President, Registrar, National Cups Commissioner</strong></p>
+
+<p>Home: 516-679-8672<br />
+FAX: 516-679-9457<br />
+Email: <a href="mailto:newworld@aol.com">newworld@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286479" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Peter Strumpf</h3>
+		<p><strong>4th Vice President</strong></p>
+
+<p>Home: 718-966-4406</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286531" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Mario Treglia </h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Home: 516-626-7807<br />
+Email: <a href="mailto:mario.treglia@mariotregliacpa.com">mario.treglia@mariotregliacpa.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286668" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Enrico Varani </h3>
+		<p><strong>Men&#39;s State Coach</strong></p>
+
+<p>Home: 516-374-0834</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294789" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286867" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="pennsylvania" name="pennsylvania"></a></p>
+
+<h3 style="text-align: left;"><span>Eastern Pennsylvania Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40569668" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>4070 Butler Pike<br />
+Suite 100<br />
+Plymouth Meeting, PA 19462</p>
+
+<p>Home: 610-940-5755<br />
+FAX: 610-238-9933</p>
+
+<p><a href="http://www.eastpasa.wix.com/eastpasa">http://www.eastpasa.wix.com/eastpasa</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38286948" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>James Bollinger </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 215-887-4316<br />
+Mobile: 610-940-5755<br />
+FAX: 610-238-9933<br />
+Email: <a href="mailto:EastPaSa@verizon.net">EastPaSa@verizon.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38286997" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Blair Thomson</h3>
+		<p><strong>2nd Vice President</strong></p>
+
+<p>Home: 215-257-2176<br />
+Email: <a href="mailto:blairthomson@juno.com">blairthomson@verizon.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287041" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Leonard Weckel </h3>
+		<p><strong>General Secretary</strong></p>
+
+<p>Home: 610-926-3731<br />
+Work: 610-223-0800<br />
+FAX: 610-916-5985<br />
+Email: <a href="mailto:brynlen@aol.com">brynlen@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287077" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Jeff DeLuca </h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Mobile: 215-289-6631<br />
+Email:<a href="mailto: jdlepsa@verizon.net"> jdlepsa@verizon.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287114" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Ron Burnett </h3>
+		<p><strong>National Cups Commissioner</strong></p>
+
+<p>Home: 215-233-0237<br />
+Work: 215-740-9374<br />
+Email: <a href="mailto:rhbchem@aol.com">rhbchem@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38286969" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Larry Samples </h3>
+		<p><strong>1st Vice President</strong></p>
+
+<p>Home: 717-566-6592<br />
+FAX: 717-566-0615<br />
+Email: <a href="mailto:cowdoc1@aol.com">cowdoc1@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287008" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Jim Kuntz</h3>
+		<p><strong>3rd Vice President</strong></p>
+
+<p>Mobile: 717-475-3231<br />
+Email:<a href="mailto: jkuntz1@comcast.net"> jkuntz1@comcast.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287056" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Frank Giancroce </h3>
+		<p><strong>SRA</strong></p>
+
+<p>Home: 610-869-3781<br />
+Mobile: 484-433-3230<br />
+FAX: 610.869.2401<br />
+Email: <a href="mailto:epsarc@verizon.net">epsarc@verizon.net</a><br />
+Alternate: <a href="mailto:sra@epsarc.org">sra@epsarc.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287088" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Werner Fricker Jr. </h3>
+		<p><strong>Past President</strong></p>
+
+<p>Home: 267-210-7021<br />
+Email: <a href="mailto:wjfricker@hotmail.com">wjfricker@hotmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287126" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Joanne Neal </h3>
+		<p><strong>Office Administrator</strong></p>
+
+<p>Work: 610-940-5755<br />
+Email: <a href="mailto:eastpasa@verizon.net">eastpasa@verizon.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294785" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287204" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="maryland" name="maryland"></a></p>
+
+<h3 style="text-align: left;"><span>Maryland State Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40570947" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>2305 Drexel St.<br />
+Hyattsville, MD 20783</p>
+
+<p>301-422-2393</p>
+
+<p><a href="http://www.marylandsoccer.com">http://www.marylandsoccer.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38287316" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Anthony Falcone </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 301-422-2393<br />
+Email: <a href="mailto:MSSAFalcone@msn.com">MSSAFalcone@msn.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287339" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Anna Steffen </h3>
+		<p><strong>Secretary</strong></p>
+
+<p>Home: 410-242-5864<br />
+Email: <a href="mailto:annsteffen@aol.com">annsteffen@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287490" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Gregory Watson </h3>
+		<p><strong>SRA</strong></p>
+
+<p>Work: 443-684-8054<br />
+Email: <a href="mailto:srawatsong@gmail.com">srawatsong@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38287330" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Fran McGrath </h3>
+		<p><strong>Vice President/National Cups Commissioner</strong></p>
+
+<p>Work: 410-530-2018<br />
+Email: <a href="mailto:mcgrath494@aol.com">mcgrath494@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287400" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Kevin Anderson </h3>
+		<p><strong>Treasurer</strong><br />
+Home: 240-401-2760<br />
+Email: <a href="mailto:andersk2@hotmail.com">andersk2@hotmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294780" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38287638" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="massachusetts" name="massachusetts"></a></p>
+
+<h3 style="text-align: left;"><span>Massachusetts Adult State Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40571033" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>14 Joseph Road<br />
+Framingham, MA 01701</p>
+
+<p>Phone:&nbsp;617-564-3133</p>
+
+<p>Email: <a href="mailto:Operations@Mass-Soccer.org" style="text-decoration: underline; color: rgb(0, 0, 0); line-height: 1.2em; outline-style: none; outline-width: initial; outline-color: initial; ">Operations@Mass-Soccer.org</a></p>
+
+<p><a href="http://www.mass-soccer.org">http://www.mass-soccer.org</a></p>
+
+<p>&nbsp;</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38289227" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Andy Weiss</h3>
+		<p><strong>President</strong></p>
+
+<p>Phone: 617-639-5300</p>
+
+<p>Email: <a href="mailto:President@Mass-Soccer.org">President@Mass-Soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38288054" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Cezar Wasecki </h3>
+		<p><strong>Past President</strong></p>
+
+<p>Phone: 617-233-3537<br />
+Email: <a href="mailto:Cezar@mass-soccer.org">PastPresident@Mass-Soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_64517180" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Logan Wangsgard</h3>
+		<p><strong>Secretary</strong></p>
+
+<p>Phone: 617-820-0180</p>
+
+<p>Email: <a href="mailto:secretary@mass-soccer.org">secretary@mass-soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289208" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Sean Carey </h3>
+		<p><strong>Vice President</strong></p>
+
+<p>Phone: 508-667-4123</p>
+
+<p>Email: <a href="mailto:spcarey@hotmail.com">VicePresident@Mass-Soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38289217" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Andrea Cardarelli </h3>
+		<p><strong>State Administrator</strong></p>
+
+<p>Email: <a href="mailto:masocceroperations@yahoo.com">Admin@Mass-Soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_59067935" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Robert Akie</h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Phone: 617-513-2207</p>
+
+<p>Email: <a href="mailto:masocceroperations@yahoo.com">Treasurer@Mass-Soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294777" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289283" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="metro" name="metro"></a></p>
+
+<h3 style="text-align: left;"><span>Metropolitan DC-VA Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40571060" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>P.O. Box 673<br />
+Locust Grove, VA 22508</p>
+
+<p>Work: 703-492-5425</p>
+
+<p><a href="http://www.mdcvsasoccer.org">http://www.mdcvsasoccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38289318" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>James Sadowski </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 202-236-6091<br />
+Work: 202-452-1400 x5407<br />
+FAX: 202-452-1410<br />
+Email: <a href="mailto:mdcvsaprez@gmail.com">mdcvsaprez@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289349" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Jessie Kratz</h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Email: <a href="mailto:jessie.kratz@gmail.com">jessie.kratz@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289368" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Mary Beth Falk </h3>
+		<p><strong>State Verification Officer</strong></p>
+
+<p>Home: 703-492-5425</p>
+
+<p>Email: <a href="mailto:mdcvsa.info@gmail.com">mdcvsa.info@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38289331" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Marti Bevan </h3>
+		<p><strong>Vice President</strong></p>
+
+<p>Home: 757-422-8183</p>
+
+<p>Work: 757-668-8771<br />
+Mobile: 757-630-0180<br />
+Email: <a href="mailto:mdcvsavp@gmail.com">mdcvsavp@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289359" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Luis Chinchilla </h3>
+		<p><strong>Registrar</strong></p>
+
+<p>Home: 703-328-7823</p>
+
+<p>Email: <a href="mailto:chinchillagin@gmail.com">chinchillagin@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294771" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289438" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="newhampshire" name="newhampshire"></a></p>
+
+<h3 style="text-align: left;"><span>New Hampshire Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40571077" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>1600 Candia Rd, Suite 3<br />
+Manchester, NH 03109</p>
+
+<p>Work: 603-626-9686<br />
+FAX: 603-626-9687<br />
+Email: <a href="mailto:nhadmin@soccer.nh.org">nhadmin@soccer.nh.org</a></p>
+
+<p><a href="http://www.soccernh.org">http://www.soccernh.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38289488" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Bob Willey </h3>
+		<p><strong>President</strong></p>
+
+<p>Work: 603-485-3821<br />
+Email: <a href="mailto:ewilley@comcast.net">ewilley@comcast.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289528" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Mark Chagnon</h3>
+		<p><strong>Executive Director</strong></p>
+
+<p>Home: 603-644-2425<br />
+Mobile: 603-703-4357<br />
+Email: <a href="mailto:chagnonx4@aol.com">chagnonx4@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289577" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Ric Marion </h3>
+		<p><strong>State Administrator, Marketing/PR, Registrar</strong></p>
+
+<p>Work: 603-626-9686<br />
+Email: <a href="mailto:nhadmin@soccernh.org">nhadmin@soccernh.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38289503" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Cory Halvorsen</h3>
+		<p><strong>Vice President Indoor</strong></p>
+
+<p>Work: 603-440-8061<br />
+Email: <a href="mailto:chalvorsen@multiplexcompany.com">chalvorsen@multiplexcompany.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289561" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Carla Nastri </h3>
+		<p><strong>Secretary</strong></p>
+
+<p>Home: 603-672-0733<br />
+Mobile: 603-860-4395<br />
+Email: <a href="mailto:NHODP-admindirector@soccernh.org">NHODP-admindirector@soccernh.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289590" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Mark Sadler </h3>
+		<p><strong>SRA</strong></p>
+
+<p>Mobile: 603-738-3688</p>
+
+<p>Email: <a href="mailto:sra@soccernh.org">sra@soccernh.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294766" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38289612" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="newjersey" name="newjersey"></a></p>
+
+<h3 style="text-align: left;"><span>New Jersey soccer association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40571098" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>P.O. Box 9765<br />
+Trenton, NJ 08650</p>
+
+<p>Home: 609-587-9265<br />
+FAX: 609-587-9266<br />
+Email: <a href="mailto:njsa_office@yahoo.com">njsa_office@yahoo.com</a></p>
+
+<p><a href="http://www.soccernjsa.com">http://www.soccernjsa.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38289815" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>John Zangrilli </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 609-587-9265<br />
+Email:<a href="mailto: jzripi@yahoo.com"> jzripi@yahoo.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38290031" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>George O&#x27;Gorman</h3>
+		<p><strong>VP Financial Operations/Treasurer</strong></p>
+
+<p>Work: 609-989-6541</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38290068" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Ellen Volk </h3>
+		<p><strong>Registrar</strong></p>
+
+<p>Work: 609-587-9265<br />
+Email: <a href="mailto:njsa_office@yahoo.com">njsa_office@yahoo.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38289855" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Pat Varsallona</h3>
+		<p><strong>Executive Director</strong></p>
+
+<p>Phone: 609-587-9265<br />
+Email: <a href="mailto:njsa_office@yahoo.com">njsa_office@yahoo.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38290044" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Roberto Ignaccolo </h3>
+		<p><strong>VP Marketing Operations</strong></p>
+
+<p>Work: 201-848-9897<br />
+FAX: 201-847-0139</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38290082" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>John Kilby </h3>
+		<p><strong>Recording Secretary</strong></p>
+
+<p>Work: 908-273-0440</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294764" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38290165" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="pennsylvania" name="pennsylvania"></a></p>
+
+<h3 style="text-align: left;"><span>Pennsylvania West Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40571220" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>111 Whitehead Lane Suite 200<br />
+Monroeville, PA 15120</p>
+
+<p>Home: 412-856-8011<br />
+FAX: 412-856-8012<br />
+Email: <a href="mailto:stateoffice@pawest-soccer.org">stateoffice@pawest-soccer.org</a></p>
+
+<p><a href="http://www.pawest-soccer.org">http://www.pawest-soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38290298" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Randy Lowden</h3>
+		<p><strong>President</strong></p>
+
+<p>Phone: 412-720-7904<br />
+FAX: 412-856-8012<br />
+Email: <a href="mailto:1gpsl@comcast.net">1gpsl@comcast.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38290368" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Keith Renner</h3>
+		<p><strong>Vice President Adults</strong></p>
+
+<p>Home: 412-464-0829<br />
+FAX: 412-856-8012<br />
+Email: <a href="mailto:Rdksportsinc@aol.com">Rdksportsinc@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38292134" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Peggy Neason</h3>
+		<p><strong>SRA</strong></p>
+
+<p>Work: 724-379-5386<br />
+Email: <a href="mailto:secretary@pawest-soccer.org">secretary@pawest-soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38290310" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Cheryl Mignogna </h3>
+		<p><strong>Registrar/State Administrator</strong></p>
+
+<p>Work: 412-856-8011<br />
+FAX: 412-856-8012<br />
+Email: <a href="mailto:stateoffice@pawest-soccer.org">stateoffice@pawest-soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38292060" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3> Tom Beecher</h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Home: 412-486-2550<br />
+Email: <a href="mailto:treasurer@pawest-soccer.org">treasurer@pawest-soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38292391" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3> Tim McCoy </h3>
+		<p><strong>Executive Director</strong></p>
+
+<p>Home: 412-856-8011</p>
+
+<p>Email: <a href="mailto:tim@pawest-soccer.org">tim@pawest-soccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294762" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38292671" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="rhodeisland" name="rhodeisland"></a></p>
+
+<h3 style="text-align: left;"><span>Rhode Island Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40571799" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>100 Lafayette Street<br />
+Pawtucket, RI 02860</p>
+
+<p>Home: 401-724-0830<br />
+FAX: 401-728-2520</p>
+
+<p><a href="http://www.risa.org">http://www.risa.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38292808" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>David Borts </h3>
+		<p><strong>President</strong></p>
+
+<p>Work: 401-724-0830<br />
+Mobile: 401-241-0535<br />
+FAX: 401-728-2520<br />
+Email: <a href="mailto:galazo52@aol.com">galazo52@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293251" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Pat Votolato </h3>
+		<p><strong>Secretary/Registrar</strong></p>
+
+<p>Home: 401-949-0094<br />
+Mobile: 401-255-5178<br />
+Email: <a href="mailto:pvoto@aol.com">pvoto@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293455" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Steven Mauricio </h3>
+		<p><strong>SRA/Referee Assignor</strong></p>
+
+<p>Work: 401-692-7285<br />
+Email: <a href="mailto:smauricio2@cox.net">smauricio2@cox.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38292849" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Kabba Joof</h3>
+		<p><strong>Director of Amateurs</strong></p>
+
+<p>Home: 401-349-2950<br />
+Mobile: 401-578-6907<br />
+Email: <a href="mailto:kjoof@aol.com">kjoof@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293285" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Anne Smith</h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Home: 401-474-6336<br />
+Email: <a href="mailto:ballet5slippers@cox.net">ballet5slippers@cox.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294758" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293675" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="vermont" name="vermont"></a></p>
+
+<h3 style="text-align: left;"><span>Vermont State Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40572489" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>P.O. Box 5517<br />
+Burlington, VT 05402-5517</p>
+
+<p>Home: 802-864-8100<br />
+Email: <a href="mailto:smmapes@aol.com">smmapes@aol.com</a></p>
+
+<p><a href="http://www.vermontamateursoccer.com/vssa">http://www.vermontamateursoccer.com/vssa</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38293789" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Scott Mapes </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 802-864-8100<br />
+Email: <a href="http://smmapes@aol.com">smmapes@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293807" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Michael J. Woulf </h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Home: 802-578-8607<br />
+Email: <a href="mailto:mjwoulf@hotmail.com">mjwoulf@hotmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38293798" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Jonas Hart</h3>
+		<p><strong>Secretary / Registrar</strong></p>
+
+<p>Home: 802-355-8558<br />
+Email: <a href="mailto:jonas.hart3@gmail.com">jonas.hart3@gmail.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_61424219" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Steve Lunna</h3>
+		<p><strong>SRA</strong></p>
+
+<p>Phone: 802-309-0563<br />
+Email: <a href="mailto:slunna@comcast.net">slunna@comcast.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294756" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293820" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="westvirginia" name="westvirginia"></a></p>
+
+<h3 style="text-align: left;"><span>West Virginia Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40572644" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>P.O. Box 3360<br />
+Beckley, WV 25801</p>
+
+<p>Home: 800-894-9872<br />
+Work: 304-252-9872<br />
+FAX: 304-252-9878</p>
+
+<p><a href="http://www.wvsoccer.net">http://www.wvsoccer.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38293928" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Len Rogers </h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 304-654-2391<br />
+Email: <a href="mailto:lrogers449@aol.com">lrogers449@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38293995" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Thresea McCrady </h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Mobile: 304-210-3991</p>
+
+<p>Email:<a href="mailto: thresea.mccrady@bpd.treas.gov"> thresea.mccrady@bpd.treas.gov</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38293964" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Dave Laraba</h3>
+		<p><strong>Executive Director</strong></p>
+
+<p>Work: 304-252-9872 ext 303<br />
+Email: <a href="mailto:dave@wvsoccer.net">dave@wvsoccer.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294078" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Aaron Wood</h3>
+		<p><strong>VP Adult</strong></p>
+
+<p>Mobile: 304-932-8873</p>
+
+<p>Email: <a href="mailto:awood@quantumsoccer.com">awood@quantumsoccer.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294109" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Kristi Richmond </h3>
+		<p><strong>State Verification Officer</strong></p>
+
+<p>Work: 304-252-9872 ext 302</p>
+
+<p>Email: <a href="mailto:office@wvsoccer.net">office@wvsoccer.net</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_38294748" class="pageEl"  >
+  
+      <hr class="hrElement" />
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294142" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+
+
+    <div class="text clearfix">
+    <p><a id="newyork" name="newyork"></a></p>
+
+<h3 style="text-align: left;"><span>Western New York Soccer Association</span></h3>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_40572865" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>State Office</h3>
+		<p>1526 Aster Terrace<br />
+Walworth, NY 14568</p>
+
+<p>Home: 315-986-9171<br />
+FAX: 315-986-9739<br />
+Email: <a href="mailto:arman@eznet.net">arman@eznet.net</a><br />
+<a href="http://www.wnysasoccer.org">http://www.wnysasoccer.org</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer twoColumn5050 ">
+    
+          <div class="column1 column pe50">
+                <div id="pageEl_38294471" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Arman Capan</h3>
+		<p><strong>President</strong></p>
+
+<p>Home: 315-986-9171<br />
+FAX: 315-986-9739<br />
+Email: <a href="mailto:arman@eznet.net">arman@eznet.net</a></p>
+
+<p>Web Admin/State Select Team Coordinator/State Women&#39;s Select Team Coach</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294500" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Larry Outhouse </h3>
+		<p><strong>2nd Vice President</strong></p>
+
+<p>Home: 585-289-3548<br />
+Email:<a href="mailto: louthouse@rochester.rr.com"> louthouse@rochester.rr.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294531" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>John Kahmke </h3>
+		<p><strong>Registrar</strong></p>
+
+<p>Home: 585-392-6036<br />
+Mobile: 585-278-5378<br />
+Email: <a href="mailto:jkahmke@localnet.com">jkahmke@localnet.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294570" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Matthew Krywonos</h3>
+		<p><strong>Secretary/State Cups Commissioner</strong></p>
+
+<p>Home: 585-216-1232<br />
+Work: 585-422-1070<br />
+Mobile: 585-350-6746<br />
+Email: <a href="mailto:Krywonos@yahoo.com">Krywonos@yahoo.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294602" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Ian Redpath</h3>
+		<p><strong>Assoc. Legal Rep</strong></p>
+
+<p>Work: 716-689-4793<br />
+Mobile: 716-510-3400<br />
+FAX: 716-565-1316<br />
+Email:<a href="mailto: ianredpath@redpathlaw.com"> ianredpath@redpathlaw.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe50">
+                <div id="pageEl_38294486" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Kosmas Sarigiannis</h3>
+		<p><strong>1st Vice President</strong></p>
+
+<p>Home: 315-699-4896<br />
+Work: 315-455-2213<br />
+Email: <a href="mailto:ksarigiannis@twcny.rr.com">ksarigiannis@twcny.rr.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294515" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Andrew Aldeman</h3>
+		<p><strong>3rd Vice President</strong></p>
+
+<p>Work: 716-662-1326<br />
+FAX: 716-662-1326<br />
+Email: <a href="mailto:akhomer97@aol.com">akhomer97@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294557" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Lou Boyon</h3>
+		<p><strong>Treasurer</strong></p>
+
+<p>Home: 585-334-5059<br />
+FAX: 585-334-3167<br />
+Email:<a href="mailto: lboyon1058@aol.com"> lboyon1058@aol.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294586" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Brent Conley</h3>
+		<p><strong>Men&#39;s State Select Team Coach</strong></p>
+
+<p>Mobile: 585-329-4995<br />
+Email: <a href="mailto:bconley1@rochester.rr.com">bconley1@rochester.rr.com</a></p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_38294743" class="pageEl"  >
+  
+      <div class="pageElement sponsorElement">
+	<div class="description">
+		<h3>Michael P. Tata </h3>
+		<p><strong>State Referee Administrator</strong></p>
+
+<p>Work: 585-889-4848<br />
+Email: <a href="mailto:sra@wnyreferee.org">sra@wnyreferee.org</a></p>
+
+<p>Western New York State Referee Association, Inc.</p>
+
+	</div>
+	<span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+
+
+
+
+
+<script type="text/javascript">
+  var init_nss = function() {
+    var $nss = $j('.newsSlideShow-container');
+    // debug.info("Found "+$nss.length+" News Slideshow Elements");
+    $nss.each(function(){
+      var $ss = $j(this);
+      if ( ! $ss.data('activenewsslideshow') ) {
+        $ss.data('activenewsslideshow',true);
+        $ss.newsSlideShow();
+      }
+    });
+  }
+  // call on document ready for most browsers
+  init_nss();
+  // call again on window load for IE :(
+  $j(window).load(init_nss);
+  // check for new slideshow elements after valid.deactivate
+  $j('body').bind('pageElement.render',init_nss);
+</script>
+
+
+            </div>
+
+
+          </div>
+        </div>
+        <div class="clearAll"></div>
+      </div><!-- closing panelTwo -->
+
+      
+      
+      <div class="clearAll"></div>
+      
+    </div><!--  closing pageContentContainer3  -->
+  <div class="footerPush"></div>
+  </div><!--  closing siteContainer3  -->
+  
+
+  <div id="siteFooter">
+  
+    
+    <script src="http://s3.amazonaws.com/assets.ngin.com/site_files/4400/js/4400_scripts.js"><script>
+<script type="text/javascript" src="http://assets.ngin.com/site_files/4400/footer.js"></script>
+    <ul>
+      <li>&copy;2015 United States Adult Soccer Association / <a href="http://go.ngin.com/l/8062/2011-07-13/1D11/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications" >Sport Ngin</a>. All Rights Reserved.</li>
+      <li><a href="/legal/terms_of_use" class="legalLink">Terms of Use</a></li>
+        <li><a href="http://www.sportngin.com/legal/privacy_policy" class="legalLink">Privacy Policy</a></li>
+      <li><a href="/help" class="legalLink">Help</a></li>
+      <li><a href="https://login.sportngin.com" class="legalLink" id="loginLink">Login</a></li>
+      <li id="poweredByNGIN"><a href="http://www.sportngin.com/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications" onclick="javascript:window.location=('http://www.sportngin.com/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications'); return false;"><img src="/app_images/sportngin_footer_logo.png" alt="Powered by Sport Ngin" title="Click here to learn how Sport Ngin can empower your organization!" /></a></li>
+    </ul>
+</div>
+
+  
+  
+  
+
+  
+  
+  
+</body>
+</html>

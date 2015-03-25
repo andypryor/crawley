@@ -1,0 +1,700 @@
+<!DOCTYPE html><html
+lang="en-US"><head><link
+rel='stylesheet' href='http://brooksidesoccer.org/wp-content/plugins/wp-minify/min/?f=wp-content/themes/creativo/style.css,wp-content/themes/creativo/css/responsive.css,wp-content/themes/creativo/flexislider/flexslider.css,wp-content/themes/creativo/3d.css,wp-content/themes/creativo/css/prettyPhoto.css,wp-content/plugins/button-maker/style.css,wp-includes/css/dashicons.min.css,wp-includes/js/thickbox/thickbox.css,wp-content/plugins/event-registration/css/jquery-ui.css,wp-content/plugins/formidable/css/frm_display.css,wp-content/plugins/LayerSlider/static/css/layerslider.css,wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/download-manager/css/front.css,wp-content/plugins/download-manager/bootstrap/css/bootstrap.css,wp-content/plugins/revslider/rs-plugin/css/settings.css,wp-content/plugins/jetpack/css/jetpack.css,wp-content/plugins/event-registration/evr_public_style.css,wp-content/plugins/event-registration/evr_calendar.css,wp-content/plugins/event-registration/evr_pop_style.css,wp-content/plugins/event-registration/scripts/fancybox/jquery.fancybox-1.3.4.css,wp-content/plugins/event-registration/colorbox/css/colorbox.css,wp-content/themes/creativo/custom.css&amp;m=1423760384' type='text/css' media='screen' /> <script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/wp-minify/min/?f=wp-content/plugins/button-maker/jscolor/jscolor.js,wp-includes/js/jquery/jquery.js,wp-includes/js/jquery/jquery-migrate.min.js,wp-includes/js/utils.min.js,wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js,wp-content/plugins/LayerSlider/static/js/greensock.js,wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js,wp-content/plugins/download-manager/bootstrap/js/bootstrap.min.js,wp-content/plugins/download-manager/js/front.js,wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js,wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js,wp-content/themes/creativo/js/navigation.js,wp-content/themes/creativo/flexislider/jquery.flexslider.js,wp-content/themes/creativo/js/modernizr.min.js,wp-content/themes/creativo/js/modernizr.custom.79639.js,wp-content/themes/creativo/js/jquery.elastislide.js,wp-content/themes/creativo/js/jquery.prettyPhoto.js,wp-content/themes/creativo/js/jquery.isotope.min.js,wp-content/themes/creativo/js/jquery.cycle.lite.js,wp-content/themes/creativo/js/hover.js,wp-content/themes/creativo/js/main.js,wp-content/plugins/google-analyticator/external-tracking.min.js&amp;m=1421958643'></script> <link
+rel="shortcut icon" href="http://brooksidesoccer.org/wp-content/uploads/2014/06/coaches.jpg" type="image/x-icon" /><meta
+charset="UTF-8" /><title>Brookside Soccer Club   &#8211;  Coaching Staff</title><meta
+name="viewport" content="width=device-width, initial-scale=1.0" /><link
+href='http://fonts.googleapis.com/css?family=Lato:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' /><link
+href='http://fonts.googleapis.com/css?family=Lato:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' /><link
+href='http://fonts.googleapis.com/css?family=Oswald:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' /><link
+rel="alternate" type="application/rss+xml" title="Brookside Soccer Club &raquo; Coaching Staff Comments Feed" href="http://brooksidesoccer.org/coaching-staff/feed/" /><link
+rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&#038;subset=latin,latin-ext' type='text/css' media='all' /><style id='rs-plugin-settings-inline-css' type='text/css'>.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+.tp-caption a:hover {
+color:#ffa902;
+}</style><link
+rel='stylesheet' id='rs-plugin-captions-css'  href='http://brooksidesoccer.org/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.3.8&#038;ver=4.1.1' type='text/css' media='all' /> <script type='text/javascript'>/*  */
+var userSettings = {"url":"\/","uid":"0","time":"1427315915","secure":""};
+/*  */</script> <link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://brooksidesoccer.org/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://brooksidesoccer.org/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 4.1.1" /><link
+rel='canonical' href='http://brooksidesoccer.org/coaching-staff/' /><link
+rel='shortlink' href='http://brooksidesoccer.org/?p=2642' /><meta
+name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>  <script type="text/javascript">var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';</script> <script type="text/javascript">var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();</script> <style>body,#nav ul li ul li a,
+		.more,
+		.meta .date,
+		.review blockquote q,
+		.review blockquote div strong,
+		.footer-area  h3,
+		.image .image-extras .image-extras-content h4,
+		.project-content .project-info h4,
+		.post-content blockquote,
+		.button.large,
+		.button.small{
+			font-family:'Lato', Arial, Helvetica, sans-serif;
+			font-size:13px;
+		}
+		h1, h2, h3, h4, h5, h6,  h3.sidebar-title, .content_box_title span.grey, .bellow_header_title,.qbox_title1,.content_box_title span.white,.full .title,.tab-holder .tabs li{
+			font-family: 'Lato', Arial, Helvetica, sans-serif !important;
+		}
+		.woocommerce h1,.woocommerce h2,.woocommerce h3,.woocommerce h4,.woocommerce h5 {
+			font-family: 'Lato', Arial, Helvetica, sans-serif !important;
+		}
+		.main-navigation {
+			font-family: 'Oswald', Arial, Helvetica, sans-serif !important;
+		}
+		.tp-bannertimer {
+			background-image:none !important;
+			height:7px;
+		}
+		.latest-posts h2, .page-title, .action_bar_inner h2{
+			font-family:'Lato', Arial, Helvetica, sans-serif !important;
+		}
+			a,.front_widget a, .vc_front_widget a,.shortcode-tabs, h5.toggle a.default_color,.portfolio-navigation a:hover,h2.page404,.project-feed .title a, .col:hover .date, .col h3 a:hover,.col h4 a:hover {
+			color:#0048c6;
+		}
+		.high_default, #navigation > ul > li > a:hover, #navigation > ul li:hover > a, #navigation ul li li:hover > a,.sf-sub-indicator, #navigation > ul > li.current-menu-item > a, #navigation > ul > li.current-menu-parent > a, #navigation > ul > li.current-menu-parent > ul > li.current-menu-item > a {
+			 background-color:#0048c6;
+		}
+		.post-gallery-item a:hover img, .recent-portfolio a:hover img, .recent-flickr a:hover img{
+			border-color:;
+		}
+		.default_dc{
+			color:#0048c6;
+		}
+		/* tagline styling */
+		.default_border{
+			border:2px solid #0048c6;
+		}
+		.default_border:hover{
+			border-color: #0048c6;
+		}
+		.reading-box {
+			background-color: #f8f8f8;
+		}
+		.reading-box:hover {
+			background-color: #ffffff;
+		}
+			.gallery_zoom{
+			background-color: #0048c6;
+		}
+		.vc_front_widget {
+			background-color: #f8f8f8;
+		}
+		.vc_front_widget a{
+			color: #0048c6;
+		}
+		.vc_front_widget:hover {
+			background-color: #0048c6;
+			color:#fff;
+		}
+		.vc_front_widget:hover a{
+			color:#fff;
+		}
+			.progress-bar-content,.ch-info-back4,.ch-info-back3,.ch-info-back2,.ch-info-back1,.col:hover .bottom,.tp-bannertimer {
+			background-color:#0048c6;
+		}
+		.front_widget:hover, .front_widget:hover a, .portfolio-tabs a:hover, .portfolio-tabs li.active a{
+			color:#fff; background-color:#0048c6;
+		}
+		._border:hover, .review blockquote q, .pagination a.inactive{
+			border-color:#0048c6;
+		}
+		.review blockquote div {
+			color:#0048c6;
+		}
+		.pagination .current, .pagination a.inactive:hover {
+			background-color:#0048c6;
+			border-color:#0048c6;
+		}
+			.button_default, .button_default:hover{
+			color: #000000 !important;
+		}
+			.button_default{
+			text-shadow: 1px 1px 1px #fcfcfc;
+		}
+			.border_default{
+			border: 1px solid #7a7a7a;
+		}
+		.button_default{
+			border-color:#7a7a7a;
+			background-image: -moz-linear-gradient(#ededed, #ededed);
+			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ededed), to(#ededed));
+			background-image: -webkit-linear-gradient(#ededed, #ededed);
+			background-image: -o-linear-gradient(#ededed, #ededed);
+			background-color: #ededed;
+		}
+		.button_default:hover{
+			border-color:#7a7a7a;
+			background-image: -moz-linear-gradient(#ededed, #ededed);
+			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ededed), to(#ededed));
+			background-image: -webkit-linear-gradient(#ededed, #ededed);
+			background-image: -o-linear-gradient(#ededed, #ededed);
+			background-color: #ededed;
+		}
+			.footer_widget_content a, .footer_widget_content ul.twitter li span a{
+			color:#0048c6 ;
+		}
+		.header{
+		margin-bottom: 0px;
+		margin-top: 0px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+			background-color:#3a3a3a;
+			}
+			.main-navigation {
+			float:right;
+		}
+		#navigation ul li {
+		font-size: 13px;
+	}
+			#navigation ul li a {
+			color:#ffffff !important;
+		}
+		#navigation ul > li > ul > li > a {
+			color: #777 !important;
+		}
+			#navigation > ul > li > a:hover, #navigation > ul li:hover > a, #navigation ul li li:hover > a, .sf-sub-indicator, #navigation > ul > li.current-menu-item > a, #navigation > ul > li.current-menu-parent > a, #navigation > ul > li.current-menu-parent > ul > li.current-menu-item > a {
+			color:#ffffff !important;
+		}
+	.footer {
+					background-color: #000000;
+	}
+	.footer_widget {
+					background-color: #f8f8f8;
+	}
+	.copyright {
+		color: #999999;
+	}
+	.footer .copyright a {
+		color: #ffffff;
+	}
+	.footer .copyright a:hover {
+		color: #d6d6d6;
+	}
+			#gotoTop {
+			background-color: #3a3a3a;
+		}
+		#gotoTop:hover {
+			background-color: #d6d6d6;
+		}
+	.bellow_header{
+		background-color:#f8f8f8;
+	}
+	.bellow_header_title, .page-title .breadcrumb, .page-title .breadcrumb a {
+		color: #4d4d4d;
+	}
+			#branding img {
+			max-width: 270px;; ?>
+		}
+				.shortcode_img img{
+			max-width: 32px;
+			height:auto;
+		}
+			@media screen and (max-width: 600px){
+   .wpb_layerslider_element {
+       display: none;
+   }
+}</style> <script type="text/javascript">jQuery(document).ready(function($) {
+		function onAfter(curr, next, opts, fwd) {
+		  var $ht = $(this).height();
+		  //set the container's height to that of the current slide
+		  $(this).parent().animate({height: $ht});
+		}
+	    $('.reviews').cycle({
+			fx: 'fade',
+			after: onAfter,
+			timeout: 3000,
+			pause:1		});
+		$("a[rel^='prettyPhoto']").prettyPhoto();
+	});</script> </head><body
+class="page page-id-2642 page-template page-template-page-full page-template-page-full-php wpb-js-composer js-comp-ver-3.7.3 vc_responsive"><div
+class="container"> <header
+class="header"><div
+class="inner"><div
+id="branding"><h1> <a
+class="logo" href="http://brooksidesoccer.org" rel="home" title="Brookside Soccer Club"> <img
+src="http://brooksidesoccer.org/wp-content/uploads/2014/06/logo2.png" alt="Brookside Soccer Club" title="Brookside Soccer Club"> </a></h1></div><div
+class="main-navigation"><div
+class="table"> <nav
+id="navigation"><ul
+id="menu-menu" class="menu"><li
+id="menu-item-2571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2571"><a
+href="#">Recreational</a><ul
+class="sub-menu"><li
+id="menu-item-3480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3480"><a
+href="http://brooksidesoccer.org/schedules/">Calendar/Schedules</a></li><li
+id="menu-item-2965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a
+href="http://brooksidesoccer.org/coaching/">Coaching</a></li><li
+id="menu-item-2896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2896"><a
+href="http://brooksidesoccer.org/division-coordinator/">Division Coordinators</a></li><li
+id="menu-item-2890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2890"><a
+href="http://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/laws-of-the-game/index.html">Laws of the Game</a></li><li
+id="menu-item-3205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3205"><a
+href="http://brooksidesoccer.org/recreational-soccer-map/">Map/Directions</a></li><li
+id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3242"><a
+href="http://brooksidesoccer.org/parents-code-of-conduct/">Parents Code of Conduct</a></li><li
+id="menu-item-2583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2583"><a
+href="http://brooksidesoccer.org/accordion/">Recreation FAQ</a></li><li
+id="menu-item-3359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3359"><a
+href="http://brooksidesoccer.org/recreational-fees/">Recreational Fees</a></li><li
+id="menu-item-2959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2959"><a
+href="http://brooksidesoccer.org/referees/">Referees</a></li><li
+id="menu-item-3423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3423"><a
+href="http://brooksidesoccer.org/refund-policy/">Refund Policy</a></li><li
+id="menu-item-2719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2719"><a
+href="https://clubs.bluesombrero.com/Default.aspx?tabid=263275&#038;isLogin=True">Registration</a></li><li
+id="menu-item-3326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3326"><a
+href="http://brooksidesoccer.org/scholarship-application/">Scholarship Application</a></li><li
+id="menu-item-4188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4188"><a
+href="http://allthingsathletickc.com/?product_cat=brooksidesoccerclub">Spirit Wear</a></li></ul></li><li
+id="menu-item-2572" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2572"><a
+href="#">Competitive</a><ul
+class="sub-menu"><li
+id="menu-item-4062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4062"><a
+href="http://brooksidesoccer.org/calendar-2/">Calendar</a></li><li
+id="menu-item-2656" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2642 current_page_item menu-item-2656"><a
+href="http://brooksidesoccer.org/coaching-staff/">Coaching Staff</a></li><li
+id="menu-item-2717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2717"><a
+href="http://brooksidesoccer.org/competitive-faqs/">Competitive FAQs</a></li><li
+id="menu-item-3204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3204"><a
+href="http://brooksidesoccer.org/competitive-location-maps/">Maps/Directions</a></li><li
+id="menu-item-3327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3327"><a
+href="http://brooksidesoccer.org/scholarship-application/">Scholarship Application</a></li><li
+id="menu-item-2665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2665"><a
+href="http://allthingsathletickc.com/?product_cat=brooksidesoccerclub">Uniform Orders/<br
+/>Spirit Wear</a></li></ul></li><li
+id="menu-item-2574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2574"><a
+href="#">Events</a><ul
+class="sub-menu"><li
+id="menu-item-3024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a
+href="http://brooksidesoccer.org/upcoming-events/">Current &#038; Future Events</a></li><li
+id="menu-item-2585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2585"><a
+href="http://brooksidesoccer.org/about-us/">Past Events</a></li></ul></li><li
+id="menu-item-2570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2570"><a
+href="#">About</a><ul
+class="sub-menu"><li
+id="menu-item-2586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2586"><a
+href="http://brooksidesoccer.org/about/">About BSC</a></li><li
+id="menu-item-3181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3181"><a
+href="http://brooksidesoccer.org/board-of-directors/">Board of Directors</a></li><li
+id="menu-item-2718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2718"><a
+href="http://brooksidesoccer.org/our-history/">BSC History</a></li><li
+id="menu-item-3037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3037"><a
+href="http://brooksidesoccer.org/contact-2/">Contact</a></li><li
+id="menu-item-3530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3530"><a
+href="http://brooksidesoccer.org/executive-director/">Executive Director</a></li><li
+id="menu-item-3424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3424"><a
+href="http://brooksidesoccer.org/recreational-soccer-map/">Map/Directions</a></li><li
+id="menu-item-3230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3230"><a
+href="http://brooksidesoccer.org/refund-policy/">Refund Policy</a></li></ul></li><li
+id="menu-item-2575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2575"><a
+href="#">Sponsors</a><ul
+class="sub-menu"><li
+id="menu-item-3364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3364"><a
+href="http://brooksidesoccer.org/current-sponsors/">Current Sponsors</a></li><li
+id="menu-item-2676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2676"><a
+href="http://brooksidesoccer.org/sponsorship-opportunities/">Sponsorship Opportunities</a></li></ul></li><li
+id="menu-item-4187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4187"><a
+href="http://allthingsathletickc.com/?product_cat=brooksidesoccerclub">Spirit Wear</a></li><li
+id="menu-item-2664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2664"><a
+href="https://clubs.bluesombrero.com/Default.aspx?tabid=263275&#038;isLogin=True&#038;%2fDefault.aspx%3ftabid%3d263265">Log In</a></li></ul> </nav></div></div><div
+class="clr"></div></div> </header><div
+class="bellow_header"><div
+class="bellow_header_title"> Coaching Staff</div></div><div
+class="row_full"><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span12 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class='content_box_title'><span
+class='white' style='background-color: #ffffff; color:#666666;'>Competitive Coaching Staff</span></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="142" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Pedro-Colato-2.png" class="attachment-thumbnail" alt="Pedro Colato 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="134" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Carl-Forrester-2.png" class="attachment-thumbnail" alt="Carl Forrester 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="143" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Nick-Garcia-2.png" class="attachment-thumbnail" alt="Nick Garcia 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="105" height="145" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Jason-Lee-31.png" class="attachment-thumbnail" alt="Jason Lee 3" /></div></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Pedro Colato<br
+/> U8 Boys / U10 Boys<br
+/> <a
+title="Pedro Colato" href="http://brooksidesoccer.org/?page_id=3089" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:pedro.e.colato@gmail.com">Pedro.E.Colato@gmail.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Carl Forrester<br
+/> U9 Girls / U11 Boys / U13 Girls<br
+/> <a
+title="Carl Forrester" href="http://brooksidesoccer.org/?page_id=3097" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:%20cmforrestor@att.net">CMForrestor@att.net</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Nick Garcia<br
+/> U15/16 Boys<br
+/> <a
+title="Nick Garcia" href="http://brooksidesoccer.org/?page_id=3104" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:nick@brooksidesoccer.org">Nick@BrooksideSoccer.org</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Jason Lee<br
+/> Youth Development Director<br
+/> and U8 Girls/U10 Girls<br
+/> <a
+href="http://brooksidesoccer.org/jason-lee/">Coach Bio</a><br
+/> Email:  <a
+href="mailto:jason@brooksidesoccer.org">Jason@BrooksideSoccer.org</a></p></div></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="110" height="131" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Carlos-McField-21.png" class="attachment-thumbnail" alt="Carlos McField 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="110" height="144" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Dave-Owens-2.png" class="attachment-thumbnail" alt="Dave Owens 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="143" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Matt-Pritchett-2.png" class="attachment-thumbnail" alt="Matt Pritchett 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="95" height="136" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Alex-Raich-2.png" class="attachment-thumbnail" alt="Alex Raich 2" /></div></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Carlos McField<br
+/> U8 Boys / U15/16 Girls<br
+/> <a
+title="Carlos McField" href="http://brooksidesoccer.org/?page_id=3109" target="_blank">Coach Bio</a><br
+/> Email:  <a
+href="mailto:carlosmcfield@icloud.com">CarlosMcField@icloud.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach David Owens<br
+/> U11 Boys/U13 Boys<br
+/> <a
+title="David Owens" href="http://brooksidesoccer.org/david-owens/">Coach Bio</a><br
+/> Email: <a
+href="mailto:David.Owens@mcckc.edu">David.Owens@mcckc.edu</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Matt Pritchett<br
+/> U12 Boys<br
+/> <a
+title="Matthew Pritchett" href="http://brooksidesoccer.org/?page_id=3125" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:phcoach1@gmail.com">PHCoach1@gmail.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Alex Raich<br
+/> U10 Girls / U11 Girls / U12 Girls<br
+/> <a
+title="Alex Raich" href="http://brooksidesoccer.org/?page_id=3128" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:%20alex_raich@mymail.eku.edu">Alex_Raich@mymail.eku.edu</a></p></div></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:10px; margin-bottom:10px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span12 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="divider_solid wpb_content_element"></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="142" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Mike-Tabory-2.png" class="attachment-thumbnail" alt="Mike Tabory 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="142" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Matt-Tomlin-2.png" class="attachment-thumbnail" alt="Matt Tomlin 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="142" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Josh-White-2.png" class="attachment-thumbnail" alt="Josh White 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="150" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Jefferson-Wolfe-2-100x150.png" class="attachment-thumbnail" alt="Jefferson Wolfe 2" /></div></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Mike Tabory<br
+/> U9 Boys<br
+/> <a
+title="Mike Tabory" href="http://brooksidesoccer.org/?page_id=3133" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:%20mike.tabory@gmail.com">Mike.Tabory@gmail.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Matt Tomlin<br
+/> U9 Boys / U11 Girls<br
+/> <a
+title="Matt Tomlin" href="http://brooksidesoccer.org/?page_id=3136" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:tomlinmc@gmail.com">TomlinMC@gmail.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Josh White<br
+/> U10 Boys<br
+/> <a
+title="Josh White" href="http://brooksidesoccer.org/?page_id=3138" target="_blank">Coach Bio</a><br
+/> Email: J<a
+href="mailto:JoshKWhite@gmail.com">oshKWhite@gmail.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Jefferson Wolfe<br
+/> U10 Boys/ U14 Boys<br
+/> <a
+title="Jefferson Wolfe" href="http://brooksidesoccer.org/?page_id=3140" target="_blank">Coach Bio</a><br
+/> Email: <a
+href="mailto:jefferson.wolfe@nkcschools.org">Jefferson.Wolfe@NKCSchools.org</a></p></div></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:10px; margin-bottom:10px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span12 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="divider_solid wpb_content_element"></div></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_single_image wpb_content_element vc_align_left"><div
+class="wpb_wrapper"> <img
+width="100" height="142" src="http://brooksidesoccer.org/wp-content/uploads/2014/06/Robb-Yagmin-2.png" class="attachment-thumbnail" alt="Robb Yagmin 2" /></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"></div></div></div></div><div
+class="wpb_row vc_row-fluid outer_wrap" style="margin-top:20px; margin-bottom:20px; background-color:#ffffff;padding-top:10px; padding-bottom:10px; "><div
+class="inner_wrap clearfix"><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"><div
+class="wpb_text_column wpb_content_element "><div
+class="wpb_wrapper"><p>Coach Robb Yagmin<br
+/> U9 Boys<br
+/> <a
+title="Rob Yagmin" href="http://brooksidesoccer.org/?page_id=3084" target="_blank">Coach Bio</a><br
+/> email: <a
+href="mailto:YagminRobb@yahoo.com">YagminRobb@yahoo.com</a></p></div></div></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"></div></div><div
+class="vc_span3 wpb_column column_container"><div
+class="wpb_wrapper"></div></div></div></div></div><div
+class="clr"></div> <footer
+class="footer"><div
+class="footer_widget"><div
+class="footer_widget_inside"><div
+class="footer_widget_content"><h3 class="footer-widget-title">Contact Info</h3><div
+class="contact"><ul><li
+class="address">P.O. Box 7192 Kansas City, MO 64113</li><li
+class="phone">Phone: 913.787.1536<br>or 816.522.7729<br
+/></li><li
+class="email">Email: <a
+href="mailto:info@brooksidesoccer.org">info@brooksidesoccer.org</a><br
+/></li></ul></div></div><div
+class="footer_widget_content"><h3 class="footer-widget-title">Mission</h3><div
+class="textwidget"><p>Delivering quality youth soccer programs that build positive character through participation in a fun, family-oriented soccer environment.</p><p>Brookside Soccer Club is a non-profit organization that is passionate about providing a fair, fun and safe environment to help the Kansas City area youth from 4 to 18 years of age grow through playing soccer.</p></div></div><div
+class="footer_widget_content third"><h3 class="footer-widget-title">Recent Tweets</h3><ul
+id="twitter_update_list_24" class="twitter"><li> RT &nbsp;<a
+href="http://twitter.com/FCKansasCity" target="_blank">@FCKansasCity</a>&nbsp;: Do you have your tickets for our home opener at &nbsp;<a
+href="http://twitter.com/SportingPark" target="_blank">@SportingPark</a>&nbsp; yet? Call 855.4KC.GOAL and get them now starting @ $10. htt… <a
+href="http://twitter.com/brooksidesc/statuses/580547595518480384" class="jtwt_date">19 hours ago </a></li><li> Beautiful day and some good games. Perfect opening week! <a
+href="http://twitter.com/brooksidesc/statuses/579363738630811648" class="jtwt_date">4 days ago </a></li></ul><p
+class="nobottommargin topmargin2 tright"><a
+href="http://twitter.com/brooksidesc" class="ntip" title="Follow brooksidesc on Twitter">Follow on Twitter &rarr;</a></p> <a
+href="http://twitter.com/brooksidesc" class="twitter-link"></a></div><div
+class="footer_widget_content"><h3 class="footer-widget-title">BSC Photostream</h3> <script type="text/javascript">function jsonFlickrApi(rsp) {
+			if (rsp.stat != "ok"){
+				// If this executes, something broke!
+				return;
+			}
+			//variable "s" is going to contain
+			//all the markup that is generated by the loop below
+			var s = "";
+			//this loop runs through every item and creates HTML
+			for (var i=0; i < rsp.photos.photo.length; i++) {
+				photo = rsp.photos.photo[ i ];
+				//notice that "t.jpg" is where you change the
+				//size of the image
+				t_url = "http://farm" + photo.farm +
+				".static.flickr.com/" + photo.server + "/" +
+				photo.id + "_" + photo.secret + "_" + "s.jpg";
+				p_url = "http://www.flickr.com/photos/" +
+				photo.owner + "/" + photo.id;
+				s +=  '<div class="recent-flickr"><a href="' + p_url + '">' + '<img alt="'+
+				photo.title + '"src="' + t_url + '"/>' + '</a></div>';
+			}
+			document.write(s);
+		}</script> <script type="text/javascript" src="https://api.flickr.com/services/rest/?format=json&amp;method=flickr.photos.search&amp;user_id=brooksidesoccerclub&amp;api_key=c9d2c2fda03a2ff487cb4769dc0781ea&amp;media=photos&amp;per_page=9&amp;privacy_filter=1"></script> <script type="text/javascript" src="https://api.flickr.com/services/rest/?format=json&amp;method=flickr.photos.search&amp;group_id=brooksidesoccerclub&amp;api_key=c9d2c2fda03a2ff487cb4769dc0781ea&amp;media=photos&amp;per_page=9&amp;privacy_filter=1"></script> </div><div
+class="clr"></div></div></div><div
+class="inner"><div
+class="copyright"> © Copyright 2014. Brookside Soccer Club</div><div
+class="top_social clearfix"> <a
+href="https://twitter.com/brooksidesc" class="twitter" title="Follow on Twitter" target="_blank" rel="nofollow">Follow on Twitter</a> <a
+href="https://www.facebook.com/brooksidesoccer" class="facebook" title="Follow on Facebook" target="_blank" rel="nofollow">Follow on Facebook</a> <a
+href="http://feeds.feedburner.com/BrooksideSoccerClub" class="rss" title="Rss" target="_blank">Rss</a></div></div> </footer></div><div
+id="gotoTop"></div><link rel='stylesheet' id='js_composer_front-css'  href='http://brooksidesoccer.org/wp-content/themes/creativo/builder/js_composer/assets/css/js_composer_front.css?ver=3.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://brooksidesoccer.org/wp-content/uploads/js_composer/custom.css?ver=3.7.3' type='text/css' media='screen' />
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/brooksidesoccer.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-admin/js/editor.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/shortcode.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-admin/js/media-upload.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/brooksidesoccer.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201513'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/event-registration/js/jquery.tooltip.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/event-registration/evr_public_script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/event-registration/colorbox/js/jquery.colorbox.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/event-registration/scripts/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/event-registration/scripts/fancybox/jquery.easing-1.3.pack.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/plugins/event-registration/scripts/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://brooksidesoccer.org/wp-content/themes/creativo/builder/js_composer/assets/js/js_composer_front.js?ver=3.7.3'></script>
+
+	<script src="http://stats.wp.com/e-201513.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3',blog:'69286785',post:'2642',tz:'0'});
+	var load_cmc = function(){linktracker_init(69286785,2642,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>        <script type="text/javascript">
+        jQuery(document).ready(function(){
+           jQuery.ajax({
+                url:"http://brooksidesoccer.org/wp-admin/admin-ajax.php",
+                type: "POST",
+                dataType:"json",
+                data:({
+                    btns:'1',
+                    action:"map_post_type_show"
+                }),
+                success: function(data) {
+                }
+            });
+           
+           jQuery('.mybtn').click(function(){
+                var btnid = this.id;
+                var id = btnid.replace("custombtn","");
+                jQuery.ajax({
+                    url:"http://brooksidesoccer.org/wp-admin/admin-ajax.php",
+                    type: "POST",
+                    dataType:"json",
+                    data:({
+                        btn_id:id,
+                        action:"map_post_type_show"
+                    }),
+                    success: function(data) {
+                        if(data.output === 'yes') {
+                            document.location.href = data.url;
+                        }
+                    }
+                 });
+           });
+           
+           jQuery('.mybtn').mouseover(function(){
+                var alt = jQuery(this).attr('alt');
+                var getcolors = alt.split('_');
+                var hovercolor = getcolors[0];
+                jQuery(this).find('#btnAddProfile').css('background','#'+hovercolor);
+           });
+           
+           jQuery('.mybtn').mouseout(function(){
+                var alt = jQuery(this).attr('alt');
+                var getcolors = alt.split('_');
+                var backcolor = getcolors[1];
+                jQuery(this).find('#btnAddProfile').css('background','#'+backcolor);
+           });
+        });
+        </script>
+        </body>
+</html>
+
+<!-- Dynamic page generated in 3.798 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-03-25 20:38:37 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>PCSI Contacts | Ponca City Soccer</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.poncasoccer.com/club/wp-content/themes/twentyten/style.css" />
+<link rel="pingback" href="http://www.poncasoccer.com/club/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Ponca City Soccer &raquo; Feed" href="http://www.poncasoccer.com/club/feed" />
+<link rel="alternate" type="application/rss+xml" title="Ponca City Soccer &raquo; Comments Feed" href="http://www.poncasoccer.com/club/comments/feed" />
+<link rel='stylesheet' id='genericons-css'  href='http://www.poncasoccer.com/club/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.poncasoccer.com/club/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.1' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.poncasoccer.com/club/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.poncasoccer.com/club/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='canonical' href='http://www.poncasoccer.com/club/contact' />
+<link rel='shortlink' href='http://wp.me/P4AHiy-1j' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #151421; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="PCSI Contacts" />
+<meta property="og:url" content="http://www.poncasoccer.com/club/contact" />
+<meta property="og:description" content="Contact Ponca Soccer by phone: (580) 762-9056 Executive Director: Lewis Smethers - 762-9056 PCSI Board Members Bobby Snow - PCSI President - 580-763-1772 Wendy Terrazas - PCSI Vice President - 716-..." />
+<meta property="article:published_time" content="2009-01-20T19:29:23+00:00" />
+<meta property="article:modified_time" content="2014-09-13T02:07:37+00:00" />
+<meta property="article:author" content="http://www.poncasoccer.com/club/author/admin" />
+<meta property="og:site_name" content="Ponca City Soccer" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@jetpack" />
+<meta name="twitter:card" content="summary" />
+</head>
+
+<body class="page page-id-81 page-template-default custom-background">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a href="http://www.poncasoccer.com/club/" title="Ponca City Soccer" rel="home">Ponca City Soccer</a>
+					</span>
+				</div>
+				<div id="site-description"></div>
+
+										<img src="http://www.poncasoccer.com/club/wp-content/uploads/2010/06/poncasoccer1.jpg" width="940" height="198" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-main-page-navigation" class="menu"><li id="menu-item-594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-594"><a href="http://www.poncasoccer.com/club/">Home</a></li>
+<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-595"><a href="http://www.poncasoccer.com/club/about">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a title="Directions to Woodridge Soccer Complex" href="http://www.poncasoccer.com/club/about/directions-to-complex">Directions to Complex</a></li>
+	<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="http://www.poncasoccer.com/club/about/contacts-board">Contacts &#8211; Board</a></li>
+	<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="http://www.poncasoccer.com/club/about/next-pcsi-board-meeting">Next PCSI Board Meeting</a></li>
+</ul>
+</li>
+<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-844"><a href="http://www.poncasoccer.com/club/competitive">Competitive</a>
+<ul class="sub-menu">
+	<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-854"><a href="http://www.poncasoccer.com/club/competitive/schedules-and-information-links">Competitive Schedules, Forms, Contacts, and Information Links</a></li>
+	<li id="menu-item-858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="http://www.poncasoccer.com/club/competitive/tournaments">Tournaments</a></li>
+	<li id="menu-item-855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-855"><a href="http://www.poncasoccer.com/club/category/competitive-news">Competitive News</a></li>
+	<li id="menu-item-1464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1464"><a href="http://01boys.poncasoccer.com">01 Boys team site</a></li>
+</ul>
+</li>
+<li id="menu-item-1659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1659"><a href="http://www.poncasoccer.com/club/academy">Academy</a>
+<ul class="sub-menu">
+	<li id="menu-item-1660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1660"><a href="http://www.poncasoccer.com/club/academy/contacts">Contacts</a></li>
+	<li id="menu-item-1662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1662"><a href="http://www.poncasoccer.com/club/academy/pcsi-academy-boys">PCSI Academy Boys</a></li>
+	<li id="menu-item-1661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1661"><a href="http://www.poncasoccer.com/club/academy/pcsi-academy-girls">PCSI Academy Girls</a></li>
+</ul>
+</li>
+<li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-872"><a href="http://www.poncasoccer.com/club/coaches-corner">Coaching</a>
+<ul class="sub-menu">
+	<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="http://www.poncasoccer.com/club/coaches-corner/pcsi-player-development-guide">PCSI Player Development Guide</a></li>
+	<li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://www.poncasoccer.com/club/coaches-corner/help-for-new-coaches">Help for New Coaches</a></li>
+	<li id="menu-item-874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://www.poncasoccer.com/club/coaches-corner/training-library">Training Library</a></li>
+	<li id="menu-item-873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-873"><a href="http://www.poncasoccer.com/club/coaches-corner/education">Education</a></li>
+	<li id="menu-item-877" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-877"><a href="http://www.poncasoccer.com/club/category/coaches">Coaches News</a></li>
+</ul>
+</li>
+<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1553"><a href="http://www.poncasoccer.com/club/camps">Camps</a>
+<ul class="sub-menu">
+	<li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="http://www.poncasoccer.com/club/camps/british-soccer-camps">British Soccer Camps</a></li>
+	<li id="menu-item-1555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1555"><a href="http://www.poncasoccer.com/club/camps/osu-soccer-camp">Oklahoma State Soccer Camp</a></li>
+</ul>
+</li>
+<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-963"><a href="http://www.poncasoccer.com/club/adult-soccer">Adult Soccer</a>
+<ul class="sub-menu">
+	<li id="menu-item-964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-964"><a href="http://www.poncasoccer.com/club/category/adult-amateur">Adult Amateur News</a></li>
+</ul>
+</li>
+<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="http://www.poncasoccer.com/club/schedules">Schedules</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-81 current_page_item menu-item-has-children menu-item-596"><a href="http://www.poncasoccer.com/club/contact">PCSI Contacts</a>
+<ul class="sub-menu">
+	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a title="Directions to Woodridge Soccer Complex" href="http://www.poncasoccer.com/club/about/directions-to-complex">Directions to Complex</a></li>
+	<li id="menu-item-1437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1437"><a href="http://poncasoccer.com/mailing-list/">Join Mailing List</a></li>
+</ul>
+</li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+				<div id="post-81" class="post-81 page type-page status-publish hentry">
+											<h1 class="entry-title">PCSI Contacts</h1>
+					
+					<div class="entry-content">
+						<p><strong>Contact Ponca Soccer by phone:</strong><br />
+(580) 762-9056</p>
+<p><strong>Executive Director:</strong><br />
+Lewis Smethers &#8211; 762-9056</p>
+<p><strong>PCSI Board Members</strong><br />
+Bobby Snow &#8211; PCSI President &#8211; 580-763-1772</p>
+<p>Wendy Terrazas &#8211; PCSI Vice President &#8211; 716-8727</p>
+<p>Phylisha Kimbrel &#8211; PCSI Treasurer / Lead Rec Commissioner &#8211;<br />
+580-491-9504</p>
+<p>JB Bohon &#8211; PCSI Recording Secretary &#8211; 580-761-6845</p>
+<p>Jim McDaniel &#8211; Referee Assignor / Referee Instructor &#8211; 580-716-4740</p>
+<p>Jeremy Kimbrel &#8211; Field Painter &#8211; 580-491-9242</p>
+<p>Mike Arnold &#8211; Board Member &#8211; 580-382-1101</p>
+<p>David Carson -Board Member/Director of Coaching &amp; Player Development- 580-716-2856</p>
+<p>Steve Stobbe &#8211; Board Member &#8211; 580-382-1674</p>
+<p>Jared Fisher &#8211; Board Member &#8211; 763-7040</p>
+<p><strong>Other contacts:</strong><br />
+Jason Mabry &#8211; Web site related issues</p>
+<p>Bubba Smethers &#8211; Competitive Commissioner / PCSI Registrar / Risk Management Coordinator</p>
+<p>Tim Burden &#8211; PCSI Game Scheduler &#8211; 580-491-2212</p>
+<p>Mike Mead &#8211; Area Referee/ Referee Instructor- 580-304-2322</p>
+<p><strong>COMMISSIONERS</strong><br />
+Lead Rec Commissioner &#8211; Phylisha Kimbrel &#8211; 580-491-9504</p>
+<p>Boys Commissioner &#8211; Wendy Terrazes &#8211; 716-8727</p>
+<p>Girls Commissioner &#8211; Yonde George 580-761-0512</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-81" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-81" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-81" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-81" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/contact?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+				
+			<div id="comments">
+
+
+
+		
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-4" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.poncasoccer.com/club/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li>		<li id="recent-posts-5" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest News</h3>		<ul>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule">2015 Spring Picture Schedule</a>
+							<span class="post-date">March 25, 2015</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1699/spring-soccer-signups">Spring Soccer Signups</a>
+							<span class="post-date">January 9, 2015</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1696/weather-cancellation">Weather Cancellation</a>
+							<span class="post-date">November 14, 2014</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1693/rec-schedules-posted">Rec Schedules Posted</a>
+							<span class="post-date">September 16, 2014</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season">SOCCER RULES FOR THE FALL 2014 SEASON</a>
+							<span class="post-date">September 11, 2014</span>
+						</li>
+				</ul>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="footer-widget-area" role="complementary">
+
+				<div id="first" class="widget-area">
+					<ul class="xoxo">
+						<li id="meta-5" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.poncasoccer.com/club/wp-login.php">Log in</a></li>
+			<li><a href="http://www.poncasoccer.com/club/feed">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.poncasoccer.com/club/comments/feed">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</li>					</ul>
+				</div><!-- #first .widget-area -->
+
+
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+				<a href="http://www.poncasoccer.com/club/" title="Ponca City Soccer" rel="home">
+					Ponca City Soccer				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<!-- Powered by WPtouch: 3.7.5 -->	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/www.poncasoccer.com\/club\/contact":81}	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+							<script type="text/javascript">
+			jQuery(document).on('ready', function(){
+				jQuery('body').on('click', 'a.share-pinterest', function(e){
+					e.preventDefault();
+
+					// Load Pinterest Bookmarklet code
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = window.location.protocol + "//assets.pinterest.com/js/pinmarklet.js?r=" + ( Math.random() * 99999999 );
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+
+					// Trigger Stats
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = this + ( this.toString().indexOf( '?' ) ? '&' : '?' ) + 'js_only=1';
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+				});
+			});
+			</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201513'></script>
+<script type='text/javascript' src='http://www.poncasoccer.com/club/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.poncasoccer.com/club/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.poncasoccer.com/club/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.4.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201513.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.4.1',blog:'67851594',post:'81',tz:'-5'} ]);
+	_stq.push([ 'clickTrackerInit', '67851594', '81' ]);
+</script>
+</body>
+</html>

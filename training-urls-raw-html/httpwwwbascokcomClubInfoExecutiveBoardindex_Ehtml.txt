@@ -1,0 +1,655 @@
+
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 14-Jan-15 2:34 pm - /scripts/runisa.dll?M2:gp::74039+L3/+E+101+747271 ; \\10.10.10.25\html\bascok.com\ClubInfo\ExecutiveBoard\index_E.html expires 1m = 14-Jan-15 2:35 pm -->
+<title>Executive Board & Staff - Broken Arrow Soccer Club</title>
+<meta name="description"        content="BASC is operated by volunteer members elected to serve on the Executive Board and as Club Officers.  Elections are held annually for each position at General Membership meetings.  Any member interested in serving on the Board or as a com" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.bascok.com/index.xml" title="RSS Feed">
+ <link rel="stylesheet" href="http://www.bascok.com/common/css/master.css" type="text/css"/>
+ <script src="http://www.bascok.com/common/js/ps1.8.2/protoaculous.min.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.bascok.com/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.bascok.com/css/layout.css" type="text/css">
+<link rel="stylesheet" href="http://www.bascok.com/css/content.css" type="text/css">
+<link rel="stylesheet" href="http://www.bascok.com/css/menus.css" type="text/css">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-41674940-37', 'bascok.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>
+<div id="design-page-container">
+<div id="design-container-header">
+  <div id="design-header" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <div id="design-header-left"><a href="HTTP://www.bascok.com/scripts/runisa.dll?M2:gp::74039+index/" ><img src="http://www.bascok.com/images/2013/headerLeft.png" width="814" height="150" border="0"/></a></div>
+    <div id="design-header-right" style="width: 186px; height: 150px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="186" height="1" border="0"/><br/>
+      <div id="design-topLinks">
+        <div class="design-topLinks"><a href="HTTP://www.bascok.com/scripts/runisa.dll?M2:gp::74039+index/" target="_blank"><img src="http://www.bascok.com/images/2013/home.png" width="60" height="16" border="0"/></a></div>
+        <div class="design-topLinks"><a href="HTTP://www.bascok.com/scripts/runisa.dll?M2:gp::74039+calendar/" target="_blank"><img src="http://www.bascok.com/images/2013/calendar.png" width="75" height="16" border="0"/></a></div>
+        <div class="design-topLinks" style="padding-left: 8px;">
+<a href="javascript:PrintFriendly()"><script language="JavaScript">function PrintFriendly(){clickpop1=window.open("http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+print/Display+E+101+747271+747272","clickpop1","toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=400")}</script><img src="http://www.bascok.com/common/images/icons/16-Print.png" width="16" height="16" border="0"/><br/>
+</a>
+</div>
+      </div>
+      <div id="design-socialMedia">
+        <div class="design-socialMedia"><a href="https://www.facebook.com/pages/Broken-Arrow-Soccer-Club/334988845759" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/facebook.png" width="32" height="32" border="0"/></a></div>
+        <div class="design-socialMedia"><a href="https://twitter.com/BASoccerClub" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/twitter.png" width="32" height="32" border="0"/></a></div>
+        <div class="design-socialMedia"><a href="http://www.youtube.com/channel/UC7wSqpZeq8FmeIxsQKevetw" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/youtube.png" width="32" height="32" border="0"/></a></div>
+        <div class="design-socialMedia"><a href="http://www.pinterest.com/brokenarrowsc/" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/pinterest.png" width="32" height="32" border="0"/></a></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="design-container-nav">
+  <div id="design-nav">
+    <div id="design-nav-left"><img src="http://www.bascok.com/images/2013/navLeft.gif" width="205" height="40" border="0"/></div>
+    <div id="design-nav-right">
+<div id="main-menu" class="diimenu" menuclass="mainmenu"></div>
+</div>
+  </div>
+</div>
+<div id="design-container-main">
+  <div id="design-main">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+  <td><img src="http://www.bascok.com/common/images/1x1.gif" width="5" height="1" border="0"/></td>
+  <td id="design-centerContent-L3"><img src="http://www.bascok.com/common/images/1x1.gif" width="990" height="1" border="0"/><br/>
+  <table width="100%" cellpadding="5" cellspacing="5" border="0">
+  <tr><td>
+<!---- Begin Main Content ---->
+<div class="addthis_toolbox addthis_default_style"  style="float:right;">
+  <a class="addthis_button_email"></a>
+  <a class="addthis_button_print"></a>
+  <span class="addthis_separator">|</span>
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_google_plusone" g:plusone:count="false"></a>
+  <a class="addthis_button_facebook_like"></a>
+</div>
+<div style="clear:both;"></div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=demosphere"></script>
+<div class="ArticleMainContent">
+  <div class="textlarge ArticleTitle">Executive Board & Staff</div>
+  <div class="ArticleTitleSpacer"></div>
+  <div class="ArticleStory"><p>BASC is operated by volunteer members elected to serve on the Executive Board and as Club Officers. &nbsp;Elections are held annually for each position at General Membership meetings. &nbsp;Any member interested in serving on the Board or as a committee member is encouraged to contact the club for further details.</p>
+<p>Club Officers serve at the behest of the membership. &nbsp;If you need assistance or have a question please contact the appropriate Board or&nbsp;Staff member using the email links below or you may send an email to the General Manager. &nbsp;You may also call or text 918-258-5770.</p>
+<p>&nbsp;</p>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;">
+	<tbody>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>PRESIDENT</div>
+			</td>
+			<td style="width:1.75in;border:solid black 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">SCOTT HAMILTON</td>
+			<td style="width:189.0pt;border:solid black 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252"><a href="mailto:basc@hamiltoncorner.net"><u>b</u>asc@hamiltoncorner.net</a></td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<p>1ST VP <span style="font-size:10px;">(Tournaments&amp; Awards)</span></p>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<div>&nbsp;</div>
+			<div>RANDY ATHERTON</div>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<p><a href="mailto:basc-atherton@cox.net" style="font-size: 11pt; font-family: calibri, sans-serif; line-height: 1.6em;">basc-atherton@cox.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<p>2ND VP <span style="font-size:10px;">(ISSC Fields)</span></p>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<div>AL BEALL</div>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<div><a href="mailto:albeall@cox.net">albeall@cox.net</a></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<p>3RD VP <span style="font-size:10px;">(Practice Fields)</span></p>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<div>STEVE MOSINSKI</div>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<div><a href="mailto:smosinski@hotmail.com">smosinski@hotmail.com</a></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>REGISTRAR</div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">DAVID REDICK</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252"><a href="mailto:registrar@bascok.com">registrar@bascok.com</a></td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>GAMES COMMISSIONER</div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<div>ROBERT LINDSEY</div>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<div><a href="mailto:rlindsey41@cox.net">rlindsey41@cox.net</a></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>HEAD COACH</div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">PAUL HINKLE</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252"><a href="mailto:headcoach@bascok.com">headcoach@bascok.com</a></td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>AREA REFEREE</div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<div>MIKE WITTEN</div>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252"><a href="mailto:areareferee@bascok.com ">areareferee@bascok.com</a></td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>TREASURER</div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">LARA ATHERTON</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252"><span style="font-family:calibri,sans-serif;"><span style="font-size:11.0pt;"><a href="mailto:basc-atherton@cox.net">basc-atherton@cox.net</a></span></span></td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div><span style="line-height: 1.6em;">SECRETARY</span><span style="line-height: 1.6em;">&nbsp;</span><span style="line-height: 1.6em;">&nbsp;</span></div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<p>TAWNYA TORRES</p>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<p><a href="mailto:bamomof3@cox.net">bamomof3@cox.net</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<div>TSC HURRICANE DIRECTOR</div>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<div>JIM TINDELL</div>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<p><a href="mailto:jimtindell@me.com" style="line-height: 1.6em;">jimtindell@me.com</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">
+			<p>GENERAL MANAGER</p>
+			</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">
+			<p><span style="line-height: 1.6em;">BARBARA WILSON</span></p>
+			</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<p>&nbsp;<a href="mailto:info@bascok.com" style="line-height: 1.6em;">info@bascok.com</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:1.95in;border:solid black 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187">OFFICE &amp; PROGRAM ADMINISTRATOR</td>
+			<td style="width:1.75in;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="168">SHARON GARLAND</td>
+			<td style="width:189.0pt;border-top:none;border-left:
+            none;border-bottom:solid black 1.0pt;
+            border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="252">
+			<p><a href="mailto:sgarland@bascok.com">sgarland@bascok.com&nbsp;</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIImageModule;Date;JQuery;JQueryCycle;JQueryScrollTo;</div>
+ <link rel="stylesheet" href="http://www.bascok.com/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.bascok.com/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.bascok.com/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(e) {
+    var menuclass = $j(e).attr('menuclass');
+    if (menuclass) {
+      $j.ajax({
+            url: '/menu-' + menuclass + '.js',
+            type: 'GET',
+            dataType: 'json',
+            success: function(json) {
+              var jsontext = json.toJSON();
+              renderHTML(e, jsontext);
+            }
+      });
+    }
+  } // fetchMenu
+  var renderHTML = function(e, jsontext) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '689220';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.bascok.com/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:74039\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var json = eval('(' + jsontext + ')'),
+        $div = $j(e),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  return {
+    init: function() {
+      var menudivs = $j('div.diimenu');
+      $j.each(menudivs,function(){
+        fetchMenu(this);
+      });
+    }, // init
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+ <script src="http://www.bascok.com/common/js/date-en-US.js" language="JavaScript" type="text/javascript"></script> <script src="http://www.bascok.com/common/js/time.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+rand4 = function (){return (''+Math.random()).slice(2,6);}
+diiGetV = function (v){
+  if(!v||!v.length||v=='')return '';
+  var ls = /^\s*/;  // Leading space regular expression
+  var ts = /\s*$/;  // Trailing space regular expression
+  return v.replace(ls, "").replace(ts, "");
+}
+diiClearTbody = function (tbody){while (tbody.rows.length>0) tbody.deleteRow(tbody.rows.length-1);}
+diiSetRowClassOddEven = function (tbody){if (tbody){
+  var cn1 = new RegExp("^\\s*odd|\\s+odd\\s*$", "g");
+  var cn2 = new RegExp("^\\s*even|\\s+even\\s*$", "g");
+  for (var i=0; tbody.rows.length>i; i++){
+    var clsnm = tbody.rows[i].className;
+    clsnm = clsnm.replace(cn1, "");
+    clsnm = clsnm.replace(cn2, "");
+    clsnm += (i % 2) ? ' odd' : ' even';
+    tbody.rows[i].className = normalizeString(clsnm);
+  }
+  }
+}
+function imBusy(idPrefix,msg){
+  return '<div style="height:40px;padding-top:10px;">'
+       + '<span id="'+idPrefix+'indicatorImg" style="margin-top:0px;">'
+       + '<img alt="Indicator" src="http://www.bascok.com/common/images/indicator.gif" /> '
+       + '</span>'
+       + '<span id="'+idPrefix+'indicatorMsg" style="margin-top:0px;">'
+       + msg
+       + '</span>'
+       + '</div>';
+} // imBusy
+function appendBusyRow(tbodyId,msg,nCols){
+  var tbod = $(tbodyId); diiClearTbody(tbod);
+  var tr; var td;
+  tr = document.createElement('tr');
+  td = document.createElement('td');
+  td.innerHTML = imBusy(tbodyId,msg); td.colSpan = nCols;
+  tr.appendChild(td);
+  tbod.appendChild(tr);
+} // appendBusyRow
+function updateBusyRow(tbodyId,msg){
+  var tbod = $(tbodyId);
+  if (tbod&&tbod.rows&&tbod.rows.length>0){
+    var cells=tbod.rows[tbod.rows.length-1].cells;
+    if(cells&&cells.length>0)
+      cells[cells.length-1].innerHTML = msg;
+    }
+} // updateBusyRow
+function diiDMY_MDY(dt){
+  if(!dt||dt=='')return '';
+  var d=dt.match(/(\d+)-([A-Z]+)-(\d+)/);
+  if(!d||!d.length)return '';
+  var mm=d[2], dd=d[1], yy=d[3];
+  var mos=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  for (var i=0;mos.length>i;i++){if(mos[i]==mm){mm=(i+1)+'';break;}}
+  if(mm.length==1)mm='0'+mm;
+  if(dd.length==1)dd='0'+dd;
+  if(yy.length==4)yy=yy.slice(2,4);
+  return mm+'/'+dd+'/'+yy;
+}
+function diiH2A(h){
+  var a=$H(h).map(function(pair){
+    var k=pair.key;
+    var v=pair.value;
+    v.key=k;
+    return v;
+  })||[];
+  return $A(a);
+}
+var diiDateTimes = {
+  dates:{},
+  times:{},
+  getDateObj: function (dt, fullParseFlag) {
+    diiDateTimes.putDate(dt, fullParseFlag);
+    return diiDateTimes.dates[dt];
+  }, // getDateObj
+  getTimeInMinutes: function (tim) {
+    var timobj = diiDateTimes.getTimeObj(tim);
+    if (!timobj.timMinutes) {
+      timobj.timMinutes = parseInt(timobj.timH, 10) * 60 + parseInt(timobj.timM, 10);
+    }
+    return timobj.timMinutes;
+  }, // getTimeInMinutes
+  getTimeObj: function(tim) {
+    if (!tim) tim = 'TBD';
+    diiDateTimes.putTime(tim);
+    return diiDateTimes.times[tim];
+  }, // getTimeObj
+  putDate:function(dt,fullParseFlag){
+    if(!diiDateTimes.dates[dt]){
+      var dateobj = {D: '', M: '', Y: '', YMD: '', DDD: '', MMMD: '', MMMMYYYY: ''}, dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (dtA) {
+        dateobj.D = dtA[1];
+        dateobj.M = dtA[2];
+        dateobj.Y = dtA[3];
+      }
+      diiDateTimes.dates[dt] = dateobj;
+    }
+    if(fullParseFlag === true && !diiDateTimes.dates[dt].date && dt !== ''){
+      var dateobj = diiDateTimes.dates[dt];
+      var dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (!dtA) {
+        dtA = dt.match(/(\d+)\/(\d+)\/(\d+)/);
+      }
+      if (dtA) {
+        dateobj.date = Date.parse(dt);
+        dateobj.YMD      = dateobj.date.toString("yyyyMMdd");
+        dateobj.DDD      = dateobj.date.toString("ddd");
+        dateobj.MMMD     = dateobj.date.toString("MMM d");
+        dateobj.MMMMYYYY = dateobj.date.toString("MMMM yyyy");
+      }
+    }
+  }, // putDate
+  putTime: function(tim) {
+    function makeEntry(a1, a2, a3) {
+      var timeobj = {};
+      var h = parseInt(a1, 10);
+      if (a3 && a3.toUpperCase() === 'PM' && 12 > h) {
+        h = h + 12;
+      }
+      a1 = '' + h;
+      timeobj.timH = a1;
+      timeobj.timM = a2;
+      timeobj.timHHMM = (a1.length == 1 ? '0' : '') + a1 +
+                        (a2.length == 1 ? '0' : '') + a2;
+      timeobj.timDisp = (h > 11) ? '' + ((h > 12) ? h - 12 : h) + ':' + a2 + ' PM' : ((h == 0) ? '12' : a1) + ':' + a2 + ' AM';
+      return timeobj;
+    } // makeEntry
+    if (!tim) tim = 'TBD';
+    if (!diiDateTimes.times[tim]) {
+      var timeobj = {};
+      var timA = tim.match(/30-DEC-1899\s(\d+):(\d+)/);
+      if (timA && timA.length && timA.length > 0) {
+        timeobj = makeEntry (timA[1], timA[2], '');
+      } else {
+        var timA = tim.match(/(\d+):(\d+)\s(AM|PM)/i);
+        if (timA && timA.length && timA.length > 0) {
+          timeobj = makeEntry (timA[1], timA[2], timA[3]);
+        } else {
+          timeobj.timH='';
+          timeobj.timM='';
+          timeobj.timDisp = 'TBD';
+        }
+      }
+      diiDateTimes.times[tim] = timeobj;
+    }
+  }, // putTime
+  rangesOverlap:function(range1Lo, range1Hi, range2Lo, range2Hi) {
+  return ( (range1Hi.compareTo(range2Lo) >= 0) && (range1Lo.compareTo(range2Hi) <= 0) );
+  } // rangesOverlap
+}
+/******************************************************************/
+/* normalizeString Copyright 2002 by Mike Hall                    */
+/* Please see http://www.brainjar.com for terms of use.           */
+/******************************************************************/
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+function normalizeString(s) {
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+  return s;
+} // normalizeString
+/* copyright Stephen Chapman 24th March 2006, 10th February 2007 */
+/* permission to use this function is granted by Stephen Chapman */
+/* provided that this copyright notice is retained intact        */
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+  var x = Math.round(num * Math.pow(10,dec));if (x >= 0) n1=n2='';
+  var y = (''+Math.abs(x)).split('');var z = y.length - dec; if (0 > z) z--; for(var i = z; 0 > i; i++) y.unshift('0');y.splice(z, 0, pnt);
+  while (z > 3) {z-=3; y.splice(z,0,thou);}var r = curr1+n1+y.join('')+n2+curr2;return r;
+}
+function formatComma(n,dec){
+  if (!dec) dec=0;
+  var pnt = (dec>0)?'.':'';
+  return formatNumber(n,dec,',',pnt,'','','-','');
+}
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function diiMemoLink(key) {
+  if (key !== undefined) {
+    var clickpop1 = window.open('http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+Elements/Memo+' + key + '+SiteMap', "clickpop1",
+                                'toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=300');
+    clickpop1.focus();
+  }
+} // diiMemoLink
+function diiInitMemoLinks() {
+  if ($j === undefined || !$j) return;
+  var $memolinks = $j('span.dii-memo-link[key]'), $done = $memolinks.find('> img').parent();
+  $memolinks = $memolinks.not($done);
+  $memolinks.each(function(){
+    var $span = $j(this), imgsize = $span.attr('imgsize');
+    if (!imgsize) imgsize = '12';
+    if (imgsize === '0') {
+      var txt = $span.text();
+      if (txt && txt === $span.html()) {
+        $span.html('<a href="#">' + txt + '</a>');
+      }
+    } else {
+      var s = '<img src="http://www.bascok.com/common/images/icons/{{imgsize}}-Help.png" width="{{imgsize}}" height="{{imgsize}}" vspace="0" hspace="0" align="top" border="0"/>';
+      s = s.replace(/{{imgsize}}/g, imgsize);
+      $span.html(s).css({cursor: 'pointer'});
+    }
+  })
+  .click(function(e){
+    e.preventDefault();
+    var $span = $j(this), key = $span.attr('key');
+    if (key !== undefined) {
+      diiMemoLink(key);
+    }
+  });
+} // diiInitMemoLinks
+document.observe('dom:loaded', diiInitMemoLinks);
+</script>
+ <script src="http://www.bascok.com/common/js/jquery.cycle/jquery.cycle.all.min.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.bascok.com/common/js/jquery-1.3.2/jquery.scrollTo-1.4.1-min.js" language="JavaScript" type="text/javascript"></script>
+  <script src="http://www.bascok.com/common/js/modules/dii_image_module-0.0.4.js" language="JavaScript" type="text/javascript"></script>
+<!---- End Main Content ---->
+  </td></tr>
+  </table>
+  </td>
+  <td><img src="http://www.bascok.com/common/images/1x1.gif" width="5" height="1" border="0"/></td>
+  </tr>
+  </table>
+  </div>
+</div>
+<div id="design-container-footer">
+  <div id="design-footer">
+    <div id="design-footer-left"><img src="http://www.bascok.com/common/images/1x1.gif" width="769" height="1" border="0"/><br/>
+      <div id="design-copyright">&copy; 2015
+ Broken Arrow Soccer Club. All rights reserved.</div>
+      <div id="design-copyrightDII">&copy; 2015
+ <a href="http://www.demosphere.com" target="_blank">Demosphere International, Inc.</a> All rights reserved.</div>
+    </div>
+    <div id="design-footer-right"><a href="http://www.demosphere.com"><img src="http://www.bascok.com/images/2013/footerRight.png" width="230" height="59" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems"/></a></td>
+  </div>
+</div>
+<br/><br/>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIImageModule;Date;JQuery;JQueryCycle;JQueryScrollTo;</div>
+</body>
+</html>

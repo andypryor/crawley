@@ -1,0 +1,1184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html  lang="en-US">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke� - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2008                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<meta id="MetaDescription" name="DESCRIPTION" content="Contact Info" /><meta id="MetaKeywords" name="KEYWORDS" content="Contact Info,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2010-11" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="Dynamos Soccer" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link id="_Portals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="_Portals_9_Skins_Enchant_S_" rel="stylesheet" type="text/css" href="/Portals/9/Skins/Enchant_S/skin.css" /><link id="_Portals_9_Containers_BlackBeauty_C_" rel="stylesheet" type="text/css" href="/Portals/9/Containers/BlackBeauty_C/container.css" /><link id="_Portals_9_" rel="stylesheet" type="text/css" href="/Portals/9/portal.css" />	<link id="CISS_module_751" rel="stylesheet" type="text/css" href="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/HorizonTab1_Dynamos.css" /><title>
+	Contact Info
+</title></head>
+<body id="Body">
+    <noscript></noscript>
+    <form method="post" action="/ContactUs/tabid/264/Default.aspx" id="Form" enctype="multipart/form-data" style="height: 100%;" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjgzMDU3ODk3D2QWBmYPFgIeBFRleHQFPjwhRE9DVFlQRSBIVE1MIFBVQkxJQyAiLS8vVzNDLy9EVEQgSFRNTCA0LjAgVHJhbnNpdGlvbmFsLy9FTiI+ZAIBD2QWDAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4HY29udGVudAUMQ29udGFjdCBJbmZvZAIDDxYCHwIFG0NvbnRhY3QgSW5mbyxEb3ROZXROdWtlLEROTmQCBA8WAh8CBRFDb3B5cmlnaHQgMjAxMC0xMWQCBQ8WAh8CBQtEb3ROZXROdWtlIGQCBg8WAh8CBQ5EeW5hbW9zIFNvY2NlcmQCAg9kFgICAQ9kFgICBA9kFgJmD2QWFAIBDxYCHgVjbGFzcwUMRE5ORW1wdHlQYW5lZAIDD2QWAmYPDxYEHgdUb29sVGlwBQ5EeW5hbW9zIFNvY2Nlch4LTmF2aWdhdGVVcmwFJWh0dHA6Ly9keW5hbW9zc29jY2VyLmNvbS9EZWZhdWx0LmFzcHhkZAINDxYCHwFnFgICAQ9kFgJmD2QWAgIBD2QWAgIBDw8WAh8BZ2QWAmYPFgIfAAWKQzwhLS0gTWVudSBnZW5lcmF0ZWQgYnkgTmF2aWdhdGlvbiBTdWl0ZSBmb3IgRG90TmV0TnVrZSAsIHd3dy5kbm4zNjAubmV0IC0tPjx0YWJsZSBzdHlsZT0iIHBvc2l0aW9uOiByZWxhdGl2ZTsgei1pbmRleDogMTAwOyIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyNiIgYm9yZGVyPSIwcHgiIGNlbGxwYWRkaW5nPSIwcHgiIGNlbGxzcGFjaW5nPSIwcHgiIGNsYXNzPSJINGNfU3R5bGUxIiA+PHRyIHN0eWxlPSIgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7ICIgaGVpZ2h0PSIyNiI+PHRkPiZuYnNwOyZuYnNwOzwvdGQ+PHRkIGNsYXNzPSJINGNfU3R5bGU0Ij48aW1nIGFsdD0iIiBzcmM9Ii9EZXNrdG9wTW9kdWxlcy9DSVNTLlNpZGVNZW51L1N0eWxlcy9Ib3Jpem9uVGFiMV9EeW5hbW9zL21lbnVfbGVmdC5naWYiIHdpZHRoPSI5IiBoZWlnaHQ9IjI2IiAvPjwvdGQ+PHRkIG5vd3JhcD0ibm93cmFwIiBjbGFzcz0iSDRjX1N0eWxlMyIgaGVpZ2h0PSIyNCI+PGEgY2xhc3M9Ikg0Y19NZW51TGV2ZWwwIiBocmVmPSJodHRwOi8vZHluYW1vc3NvY2Nlci5jb20vVG9wbGlua3MvVHJhaW5lcnMvdGFiaWQvMjkzL0RlZmF1bHQuYXNweCIgb25tb3VzZW91dD0icmVzZXRpdChldmVudCkiIG9ubW91c2VvdmVyPSJzaG93aXQoMCkiPlRyYWluZXJzPC9hPjwvdGQ+PHRkIGhlaWdodD0iMjQiPjxpbWcgYWx0PSIiIHNyYz0iL0Rlc2t0b3BNb2R1bGVzL0NJU1MuU2lkZU1lbnUvU3R5bGVzL0hvcml6b25UYWIxX0R5bmFtb3MvbWVudV9yaWdodC5naWYiIHdpZHRoPSI5IiBoZWlnaHQ9IjI2IiAvPjwvdGQ+PHRkIGNsYXNzPSJINGNfU3R5bGU0Ij48aW1nIGFsdD0iIiBzcmM9Ii9EZXNrdG9wTW9kdWxlcy9DSVNTLlNpZGVNZW51L1N0eWxlcy9Ib3Jpem9uVGFiMV9EeW5hbW9zL21lbnVfbGVmdC5naWYiIHdpZHRoPSI5IiBoZWlnaHQ9IjI2IiAvPjwvdGQ+PHRkIG5vd3JhcD0ibm93cmFwIiBjbGFzcz0iSDRjX1N0eWxlMyIgaGVpZ2h0PSIyNCI+PGEgY2xhc3M9Ikg0Y19NZW51TGV2ZWwwIiBocmVmPSJodHRwOi8vZHluYW1vc3NvY2Nlci5jb20vVG9wbGlua3MvVHJhaW5pbmdTY2hlZHVsZS90YWJpZC80ODEvRGVmYXVsdC5hc3B4IiBvbm1vdXNlb3V0PSJyZXNldGl0KGV2ZW50KSIgb25tb3VzZW92ZXI9InNob3dpdCgxKSI+VHJhaW5pbmcgU2NoZWR1bGU8L2E+PC90ZD48dGQgaGVpZ2h0PSIyNCI+PGltZyBhbHQ9IiIgc3JjPSIvRGVza3RvcE1vZHVsZXMvQ0lTUy5TaWRlTWVudS9TdHlsZXMvSG9yaXpvblRhYjFfRHluYW1vcy9tZW51X3JpZ2h0LmdpZiIgd2lkdGg9IjkiIGhlaWdodD0iMjYiIC8+PC90ZD48dGQgY2xhc3M9Ikg0Y19TdHlsZTQiPjxpbWcgYWx0PSIiIHNyYz0iL0Rlc2t0b3BNb2R1bGVzL0NJU1MuU2lkZU1lbnUvU3R5bGVzL0hvcml6b25UYWIxX0R5bmFtb3MvbWVudV9sZWZ0LmdpZiIgd2lkdGg9IjkiIGhlaWdodD0iMjYiIC8+PC90ZD48dGQgbm93cmFwPSJub3dyYXAiIGNsYXNzPSJINGNfU3R5bGUzIiBoZWlnaHQ9IjI0Ij48YSBjbGFzcz0iSDRjX01lbnVMZXZlbDAiIGhyZWY9Imh0dHA6Ly9keW5hbW9zc29jY2VyLmNvbS9Ub3BsaW5rcy9GaWVsZHNNYXBzL3RhYmlkLzI5NS9EZWZhdWx0LmFzcHgiIG9ubW91c2VvdXQ9InJlc2V0aXQoZXZlbnQpIiBvbm1vdXNlb3Zlcj0ic2hvd2l0KDIpIj5GaWVsZHMvTWFwczwvYT48L3RkPjx0ZCBoZWlnaHQ9IjI0Ij48aW1nIGFsdD0iIiBzcmM9Ii9EZXNrdG9wTW9kdWxlcy9DSVNTLlNpZGVNZW51L1N0eWxlcy9Ib3Jpem9uVGFiMV9EeW5hbW9zL21lbnVfcmlnaHQuZ2lmIiB3aWR0aD0iOSIgaGVpZ2h0PSIyNiIgLz48L3RkPjx0ZCBoZWlnaHQ9IjI0IiBub3dyYXA9Im5vd3JhcCIgYWxpZ249InJpZ2h0IiB3aWR0aD0iNTAlIj48L3RkPjx0ZCB3aWR0aD0iNTAlICI+PC90ZD48L3RyPjwvdGFibGU+DQo8ZGl2IHdpZHRoPSIxMDAlIiBoZWlnaHQ9MjUgbmFtZT0iZGVwMSI+DQo8ZGl2IG5hbWU9ImRlcDIiIHdpZHRoPTEwMCUgaGVpZ2h0PTI1PjwvZGl2Pg0KPC9kaXY+PHRhYmxlIGNsYXNzPSJINGNfQmdsZXZlbDIiICB3aWR0aD0iMTAwJSIgYm9yZGVyPSAiMHB4IiBjZWxscGFkZGluZz0gIjBweCIgY2VsbHNwYWNpbmc9ICIwcHgiIHN0eWxlPSJtYXJnaW4tdG9wOi0xcHg7IHotaW5kZXg6IC0xMDA7IiA+DQoJPHRyIHN0eWxlPSIgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7ICIgaGVpZ2h0PSIyNSI+PHRkIHdpZHRoPSAiMTAwJSAiIHN0eWxlPSJjb2xvcjogIzk5OTk5OTtmb250LXNpemU6IDEycHg7Zm9udC13ZWlnaHQ6IGJvbGQ7cGFkZGluZy1sZWZ0OiAxMHB4ICAiID4NCg0KPGRpdiBpZD0iZGVzY3JpYmUiIHN0eWxlPSJ3aWR0aDoxMDAlO2hlaWdodDoyNXB4IiBvbm1vdXNlb3Zlcj0iY2xlYXJfZGVsYXloaWRlKCkiIG9ubW91c2VvdXQ9InJlc2V0aXQoZXZlbnQpIiA+PC9kaXY+DQo8L3RkPjwvdHI+PC90YWJsZT4NCjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQxLjIiID4NCi8vPCFbQ0RBVEFbDQoNCg0KLyoNClRhYnMgTWVudSAobW91c2VvdmVyKS0gQnkgRHluYW1pYyBEcml2ZQ0KRm9yIGZ1bGwgc291cmNlIGNvZGUgYW5kIG1vcmUgREhUTUwgc2NyaXB0cywgdmlzaXQgaHR0cDovL3d3dy5keW5hbWljZHJpdmUuY29tDQpUaGlzIGNyZWRpdCBNVVNUIHN0YXkgaW50YWN0IGZvciB1c2UNCiovDQoNCnZhciBzdWJtZW51PW5ldyBBcnJheSgpDQovL1NldCBzdWJtZW51IGNvbnRlbnRzLiBFeHBhbmQgYXMgbmVlZGVkLiBGb3IgZWFjaCBjb250ZW50LCBtYWtlIHN1cmUgZXZlcnl0aGluZyBleGlzdHMgb24gT05FIExJTkUuIE90aGVyd2lzZSwgdGhlcmUgd2lsbCBiZSBKUyBlcnJvcnMuDQogDQogDQovL11dPg0KIDwvc2NyaXB0PjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQxLjIiID4NCi8vPCFbQ0RBVEFbDQoNCiA7c3VibWVudVswXT0iIjs7c3VibWVudVsxXT0iIjs7c3VibWVudVsyXT0iIjsNCg0KLy9dXT4JCQkNCiA8L3NjcmlwdD48c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0MS4yIiA+DQovLzwhW0NEQVRBWw0KDQoNCi8vU2V0IGRlbGF5IGJlZm9yZSBzdWJtZW51IGRpc2FwcGVhcnMgYWZ0ZXIgbW91c2UgbW92ZXMgb3V0IG9mIGl0IChpbiBtaWxsaXNlY29uZHMpDQp2YXIgZGVsYXlfaGlkZT01MDANCg0KLy8vLy9ObyBuZWVkIHRvIGVkaXQgYmV5b25kIGhlcmUNCg0KdmFyIG1lbnVvYmo9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQ/IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJkZXNjcmliZSIpIDogZG9jdW1lbnQuYWxsPyBkb2N1bWVudC5hbGwuZGVzY3JpYmUgOiBkb2N1bWVudC5sYXllcnM/IGRvY3VtZW50LmRlcDEuZG9jdW1lbnQuZGVwMiA6ICIiDQoNCg0KLy9dXT4NCiA8L3NjcmlwdD48c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0MS4yIiA+DQovLzwhW0NEQVRBWw0KDQpmdW5jdGlvbiBzaG93aXQod2hpY2gpew0KY2xlYXJfZGVsYXloaWRlKCkNCg0KdGhlY29udGVudD0od2hpY2g9PS0xKT8gc3VibWVudVswIF0gOiBzdWJtZW51W3doaWNoXSANCmlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZHx8ZG9jdW1lbnQuYWxsKQ0Kew0KaWYgKHR5cGVvZiB0aGVjb250ZW50IT0idW5kZWZpbmVkIikNCm1lbnVvYmouaW5uZXJIVE1MPXRoZWNvbnRlbnQNCn0NCmVsc2UgaWYgKGRvY3VtZW50LmxheWVycyl7DQogIGlmICh0eXBlb2YgdGhlY29udGVudCE9InVuZGVmaW5lZCIpDQogIHsNCiAgIG1lbnVvYmouZG9jdW1lbnQud3JpdGUodGhlY29udGVudCkNCiAgIG1lbnVvYmouZG9jdW1lbnQuY2xvc2UoKQ0KICAgfQ0KfQ0KfQ0KIDwvc2NyaXB0PjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQxLjIiID4NCg0KZnVuY3Rpb24gcmVzZXRpdChlKXsNCmlmIChkb2N1bWVudC5hbGwmJiFtZW51b2JqLmNvbnRhaW5zKGUudG9FbGVtZW50KSkNCmRlbGF5aGlkZT1zZXRUaW1lb3V0KCJzaG93aXQoLTEpIixkZWxheV9oaWRlKQ0KZWxzZSBpZiAoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmUuY3VycmVudFRhcmdldCE9IGUucmVsYXRlZFRhcmdldCYmICFjb250YWluc19uczYoZS5jdXJyZW50VGFyZ2V0LCBlLnJlbGF0ZWRUYXJnZXQpKQ0KZGVsYXloaWRlPXNldFRpbWVvdXQoInNob3dpdCgtMSkiLGRlbGF5X2hpZGUpDQp9DQoNCmZ1bmN0aW9uIGNsZWFyX2RlbGF5aGlkZSgpew0KaWYgKHdpbmRvdy5kZWxheWhpZGUpDQpjbGVhclRpbWVvdXQoZGVsYXloaWRlKQ0KfQ0KDQpmdW5jdGlvbiBjb250YWluc19uczYoYSwgYikgew0Kd2hpbGUgKGIucGFyZW50Tm9kZSkNCmlmICgoYiA9IGIucGFyZW50Tm9kZSkgPT0gYSkNCnJldHVybiB0cnVlOw0KcmV0dXJuIGZhbHNlOw0KfQ0KPC9zY3JpcHQ+CQkNCgkJCQkNCgkJCQk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoJCQkJLy88IVtDREFUQVsNCg0KCQkJCS8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKg0KCQkJCSogQW55TGluayBEcm9wIERvd24gTWVudS0gwqkgRHluYW1pYyBEcml2ZSAod3d3LmR5bmFtaWNkcml2ZS5jb20pDQoJCQkJKiBUaGlzIG5vdGljZSBNVVNUIHN0YXkgaW50YWN0IGZvciBsZWdhbCB1c2UNCgkJCQkqIFZpc2l0IGh0dHA6Ly93d3cuZHluYW1pY2RyaXZlLmNvbS8gZm9yIGZ1bGwgc291cmNlIGNvZGUNCgkJCQkqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8NCgkJCQkNCiANCgkJDQp2YXIgbWVudXdpZHRoPScxNjVweCcgLy9kZWZhdWx0IG1lbnUgd2lkdGgNCnZhciBtZW51Ymdjb2xvcj0nbGlnaHR5ZWxsb3cnICAvL21lbnUgYmdjb2xvcg0KdmFyIGRpc2FwcGVhcmRlbGF5PTI1MCAgLy9tZW51IGRpc2FwcGVhciBzcGVlZCBvbm1vdXNlb3V0IChpbiBtaWxpc2Vjb25kcykNCnZhciBoaWRlbWVudV9vbmNsaWNrPSJ5ZXMiIC8vaGlkZSBtZW51IHdoZW4gdXNlciBjbGlja3Mgd2l0aGluIG1lbnU/DQoNCi8vLy8vTm8gZnVydGhlciBlZGl0dGluZyBuZWVkZWQNCg0KdmFyIGllND1kb2N1bWVudC5hbGwNCnZhciBuczY9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJiFkb2N1bWVudC5hbGwNCg0KaWYgKGllNHx8bnM2KQ0KZG9jdW1lbnQud3JpdGUoJzxkaXYgaWQ9ImRyb3BtZW51ZGl2IiBzdHlsZT0idmlzaWJpbGl0eTpoaWRkZW47d2lkdGg6JyttZW51d2lkdGgrJztiYWNrZ3JvdW5kLWNvbG9yOiNmZmZmZmYiIG9ubW91c2VvdmVyPSJjbGVhcmhpZGVtZW51KCkiIG9ubW91c2VvdXQ9ImR5bmFtaWNoaWRlKGV2ZW50KSI+PC9kaXY+JykNCg0KZnVuY3Rpb24gZ2V0cG9zT2Zmc2V0KHdoYXQsIG9mZnNldHR5cGUpew0KdmFyIHRvdGFsb2Zmc2V0PShvZmZzZXR0eXBlPT0ibGVmdCIpPyB3aGF0Lm9mZnNldExlZnQgOiB3aGF0Lm9mZnNldFRvcDsNCnZhciBwYXJlbnRFbD13aGF0Lm9mZnNldFBhcmVudDsNCndoaWxlIChwYXJlbnRFbCE9bnVsbCl7DQp0b3RhbG9mZnNldD0ob2Zmc2V0dHlwZT09ImxlZnQiKT8gdG90YWxvZmZzZXQrcGFyZW50RWwub2Zmc2V0TGVmdCA6IHRvdGFsb2Zmc2V0K3BhcmVudEVsLm9mZnNldFRvcDsNCnBhcmVudEVsPXBhcmVudEVsLm9mZnNldFBhcmVudDsNCn0NCnJldHVybiB0b3RhbG9mZnNldDsNCn0NCg0KDQpmdW5jdGlvbiBzaG93aGlkZShvYmosIGUsIHZpc2libGUsIGhpZGRlbiwgbWVudXdpZHRoKXsNCmlmIChpZTR8fG5zNikNCmRyb3BtZW51b2JqLnN0eWxlLmxlZnQ9ZHJvcG1lbnVvYmouc3R5bGUudG9wPSItNTAwcHgiDQppZiAobWVudXdpZHRoIT0iIil7DQpkcm9wbWVudW9iai53aWR0aG9iaj1kcm9wbWVudW9iai5zdHlsZQ0KZHJvcG1lbnVvYmoud2lkdGhvYmoud2lkdGg9bWVudXdpZHRoDQp9DQppZiAoZS50eXBlPT0iY2xpY2siICYmIG9iai52aXNpYmlsaXR5PT1oaWRkZW4gfHwgZS50eXBlPT0ibW91c2VvdmVyIikNCm9iai52aXNpYmlsaXR5PXZpc2libGUNCmVsc2UgaWYgKGUudHlwZT09ImNsaWNrIikNCm9iai52aXNpYmlsaXR5PWhpZGRlbg0KfQ0KDQpmdW5jdGlvbiBpZWNvbXBhdHRlc3QoKXsNCnJldHVybiAoZG9jdW1lbnQuY29tcGF0TW9kZSAmJiBkb2N1bWVudC5jb21wYXRNb2RlIT0iQmFja0NvbXBhdCIpPyBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQgOiBkb2N1bWVudC5ib2R5DQp9DQoNCmZ1bmN0aW9uIGNsZWFyYnJvd3NlcmVkZ2Uob2JqLCB3aGljaGVkZ2Upew0KdmFyIGVkZ2VvZmZzZXQ9MA0KaWYgKHdoaWNoZWRnZT09InJpZ2h0ZWRnZSIpew0KdmFyIHdpbmRvd2VkZ2U9aWU0ICYmICF3aW5kb3cub3BlcmE/IGllY29tcGF0dGVzdCgpLnNjcm9sbExlZnQraWVjb21wYXR0ZXN0KCkuY2xpZW50V2lkdGgtMTUgOiB3aW5kb3cucGFnZVhPZmZzZXQrd2luZG93LmlubmVyV2lkdGgtMTUNCmRyb3BtZW51b2JqLmNvbnRlbnRtZWFzdXJlPWRyb3BtZW51b2JqLm9mZnNldFdpZHRoDQppZiAod2luZG93ZWRnZS1kcm9wbWVudW9iai54IDwgZHJvcG1lbnVvYmouY29udGVudG1lYXN1cmUpDQplZGdlb2Zmc2V0PWRyb3BtZW51b2JqLmNvbnRlbnRtZWFzdXJlLW9iai5vZmZzZXRXaWR0aA0KfQ0KZWxzZXsNCnZhciB0b3BlZGdlPWllNCAmJiAhd2luZG93Lm9wZXJhPyBpZWNvbXBhdHRlc3QoKS5zY3JvbGxUb3AgOiB3aW5kb3cucGFnZVlPZmZzZXQNCnZhciB3aW5kb3dlZGdlPWllNCAmJiAhd2luZG93Lm9wZXJhPyBpZWNvbXBhdHRlc3QoKS5zY3JvbGxUb3AraWVjb21wYXR0ZXN0KCkuY2xpZW50SGVpZ2h0LTE1IDogd2luZG93LnBhZ2VZT2Zmc2V0K3dpbmRvdy5pbm5lckhlaWdodC0xOA0KZHJvcG1lbnVvYmouY29udGVudG1lYXN1cmU9ZHJvcG1lbnVvYmoub2Zmc2V0SGVpZ2h0DQppZiAod2luZG93ZWRnZS1kcm9wbWVudW9iai55IDwgZHJvcG1lbnVvYmouY29udGVudG1lYXN1cmUpeyAvL21vdmUgdXA/DQplZGdlb2Zmc2V0PWRyb3BtZW51b2JqLmNvbnRlbnRtZWFzdXJlK29iai5vZmZzZXRIZWlnaHQNCmlmICgoZHJvcG1lbnVvYmoueS10b3BlZGdlKTxkcm9wbWVudW9iai5jb250ZW50bWVhc3VyZSkgLy91cCBubyBnb29kIGVpdGhlcj8NCmVkZ2VvZmZzZXQ9ZHJvcG1lbnVvYmoueStvYmoub2Zmc2V0SGVpZ2h0LXRvcGVkZ2UNCn0NCn0NCnJldHVybiBlZGdlb2Zmc2V0DQp9DQoNCmZ1bmN0aW9uIHBvcHVsYXRlbWVudSh3aGF0KXsNCmlmIChpZTR8fG5zNikNCmRyb3BtZW51b2JqLmlubmVySFRNTD13aGF0LmpvaW4oIiIpDQp9DQoNCg0KZnVuY3Rpb24gZHJvcGRvd25tZW51KG9iaiwgZSwgbWVudWNvbnRlbnRzLCBtZW51d2lkdGgpew0KaWYgKHdpbmRvdy5ldmVudCkgZXZlbnQuY2FuY2VsQnViYmxlPXRydWUNCmVsc2UgaWYgKGUuc3RvcFByb3BhZ2F0aW9uKSBlLnN0b3BQcm9wYWdhdGlvbigpDQpjbGVhcmhpZGVtZW51KCkNCmRyb3BtZW51b2JqPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkPyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZHJvcG1lbnVkaXYiKSA6IGRyb3BtZW51ZGl2DQpwb3B1bGF0ZW1lbnUobWVudWNvbnRlbnRzKQ0KDQppZiAoaWU0fHxuczYpew0Kc2hvd2hpZGUoZHJvcG1lbnVvYmouc3R5bGUsIGUsICJ2aXNpYmxlIiwgImhpZGRlbiIsIG1lbnV3aWR0aCkNCmRyb3BtZW51b2JqLng9Z2V0cG9zT2Zmc2V0KG9iaiwgImxlZnQiKQ0KZHJvcG1lbnVvYmoueT1nZXRwb3NPZmZzZXQob2JqLCAidG9wIikNCmRyb3BtZW51b2JqLnN0eWxlLmxlZnQ9ZHJvcG1lbnVvYmoueC1jbGVhcmJyb3dzZXJlZGdlKG9iaiwgInJpZ2h0ZWRnZSIpKyJweCINCmRyb3BtZW51b2JqLnN0eWxlLnRvcD1kcm9wbWVudW9iai55LWNsZWFyYnJvd3NlcmVkZ2Uob2JqLCAiYm90dG9tZWRnZSIpK29iai5vZmZzZXRIZWlnaHQrInB4Ig0KfQ0KDQpyZXR1cm4gY2xpY2tyZXR1cm52YWx1ZSgpDQp9DQoNCmZ1bmN0aW9uIGNsaWNrcmV0dXJudmFsdWUoKXsNCmlmIChpZTR8fG5zNikgcmV0dXJuIGZhbHNlDQplbHNlIHJldHVybiB0cnVlDQp9DQoNCmZ1bmN0aW9uIGNvbnRhaW5zX25zNihhLCBiKSB7DQp3aGlsZSAoYi5wYXJlbnROb2RlKQ0KaWYgKChiID0gYi5wYXJlbnROb2RlKSA9PSBhKQ0KcmV0dXJuIHRydWU7DQpyZXR1cm4gZmFsc2U7DQp9DQoNCmZ1bmN0aW9uIGR5bmFtaWNoaWRlKGUpew0KaWYgKGllNCYmIWRyb3BtZW51b2JqLmNvbnRhaW5zKGUudG9FbGVtZW50KSkNCmRlbGF5aGlkZW1lbnUoKQ0KZWxzZSBpZiAobnM2JiZlLmN1cnJlbnRUYXJnZXQhPSBlLnJlbGF0ZWRUYXJnZXQmJiAhY29udGFpbnNfbnM2KGUuY3VycmVudFRhcmdldCwgZS5yZWxhdGVkVGFyZ2V0KSkNCmRlbGF5aGlkZW1lbnUoKQ0KfQ0KDQpmdW5jdGlvbiBoaWRlbWVudShlKXsNCmlmICh0eXBlb2YgZHJvcG1lbnVvYmohPSJ1bmRlZmluZWQiKXsNCmlmIChpZTR8fG5zNikNCmRyb3BtZW51b2JqLnN0eWxlLnZpc2liaWxpdHk9ImhpZGRlbiINCn0NCn0NCg0KZnVuY3Rpb24gZGVsYXloaWRlbWVudSgpew0KaWYgKGllNHx8bnM2KQ0KZGVsYXloaWRlPXNldFRpbWVvdXQoImhpZGVtZW51KCkiLGRpc2FwcGVhcmRlbGF5KQ0KfQ0KDQpmdW5jdGlvbiBjbGVhcmhpZGVtZW51KCl7DQppZiAodHlwZW9mIGRlbGF5aGlkZSE9InVuZGVmaW5lZCIpDQpjbGVhclRpbWVvdXQoZGVsYXloaWRlKQ0KfQ0KDQppZiAoaGlkZW1lbnVfb25jbGljaz09InllcyIpDQpkb2N1bWVudC5vbmNsaWNrPWhpZGVtZW51DQoNCi8vXV0+DQoJCTwvc2NyaXB0Pg0KDQoNCmQCDw8WAh8BZ2QCEQ8WAh8DBRZyaWdodHBhbmUgRE5ORW1wdHlQYW5lZAITDxYCHwMFF2JvdHRvbXBhbmUgRE5ORW1wdHlQYW5lZAIVDxYCHwFnFgICAQ9kFgoCAQ8PFgIfAWhkZAIDD2QWAmYPDxYEHgdFbmFibGVkaB8BaGRkAgcPDxYCHwFoZGQCCQ8PFgIfAWhkZAIKDw8WAh8BaGRkAhcPFgIfAWdkAh0PZBYCZg8PFgYeCENzc0NsYXNzBQR1c2VyHgRfIVNCAgIfAWhkZAIfD2QWAmYPDxYGHwcFBHVzZXIfAAUFTG9naW4fCAICZGRkZYimpu3x+5KAMU8P8IWD4amogiw=" />
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script><script type="text/javascript">if (!window.DDRjQuery) {if (window.jQuery && (jQuery.fn.jquery>="1.3")) DDRjQuery=jQuery; else document.write(unescape('%3Cscript src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"%3E%3C/script%3E'));}</script><script type="text/javascript">if (!window.DDRjQuery) DDRjQuery=jQuery.noConflict(true);</script><script type="text/javascript">if (!(window.DDR && window.DDR.Menu && window.DDR.Menu.Providers && window.DDR.Menu.Providers.SolPart)) document.write(unescape('%3Cscript src="/DesktopModules/DDRMenu/SolPart/SolPartMenu.min.js" type="text/javascript"%3E%3C/script%3E'));</script>
+<script src="/ScriptResource.axd?d=YxT6GcP-H5eOnoF_uOPf4FG5JGoQ-FHPUYH4R6nvw444ZBZawh5YOQbQEh2KSVsSz9DrymbClf7s5sflMPa8tzk4rzP26LFUo5x-Xecx8fLnVUMRLEMh1k7Wmf6o3qtUmXwve4H1pihX5q13yMABdZ0LrqU1&amp;t=7e632e9f" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+        
+        
+<link href="/portals/9/skins/enchant_s/skin.css" rel="stylesheet" type="text/css">
+
+
+<style type="text/css">
+<!--
+.style1 {color: #1A14AA}
+-->
+</style>
+<table width="780"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tr>
+        
+      </tr>
+	</table></td>
+  </tr>
+  
+  
+  <tr>
+    <td>
+    
+    <table width="100%" background="/portals/9/skins/enchant_s/images/Dynamosheader.jpg" style="background-repeat:no-repeat;" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="2" valign="bottom">
+        <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td  height="205"><div id="dnn_BannerImagePane" class="DNNEmptyPane"></div>
+</td>
+          </tr>
+          
+          
+          <tr>
+            <td></td>
+          </tr>
+        </table></td>
+        
+        <td  colspan="2" valign="middle" width="467">
+        <table height="230" width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="2" valign="top" align="right" class="user">
+            <table width="250" border="0" cellspacing="3" cellpadding="0">
+            <tr>
+          
+            <td colspan="2" align="center"  style="padding:25px 25px 0px 0px;"><a id="dnn_dnnLOGO_hypLogo" title="Dynamos Soccer" href="http://dynamossoccer.com/Default.aspx"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/9/Images/Logos/DYNAMOS-logo-gold275b.gif" alt="Dynamos Soccer" border="0" /></a></td>
+          </tr>
+              
+            </table></td>
+            
+          </tr>
+          
+          
+         
+          <tr>
+          <td height="20"><img src="/portals/9/skins/enchant_s/images/spacer.gif" width="20" height="1">&nbsp;</td>
+                
+              </tr>
+        </table></td>
+        </tr>
+    </table>
+    
+    
+    
+    </td>
+  </tr>
+  
+  
+  
+  
+  
+  <tr>
+    <td valign="top">
+    
+    <table width="100%"  border="0" cellspacing="0" cellpadding="0" background="/portals/9/skins/enchant_s/images/dynamosheader3.jpg"  style="background-repeat:no-repeat; background-position:top left;">
+      <tr>
+        <td height="19" colspan="4" class="breadcrumb" background="/portals/9/skins/enchant_s/images/dynamosheader2.jpg" style="background-repeat:no-repeat; background-position: left;"><img src="/portals/9/skins/enchant_s/images/spacer.gif" width="11" height="19"><span id="dnn_dnnCURRENTDATE_lblDate" class="links">March 25, 2015</span>
+&nbsp;&nbsp;&nbsp;</td>
+        <td width="100%" height="19"rowspan="2" Align="left" valign="bottom" nowrap="nowrap" class="breadcrumb">
+        <div><img src="/portals/9/skins/enchant_s/images/spacer.gif" width="400" height="10" /></div>
+        <div class="breadcrumb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You are here &gt;&nbsp; <span id="dnn_dnnBREADCRUMB_lblBreadCrumb"><a href="http://dynamossoccer.com/ContactUs/tabid/264/Default.aspx" class="breadcrumb">Contact Us</a></span>
+<img src="/portals/9/skins/enchant_s/images/spacer.gif" width="174" height="19"></div></td>
+		
+        <td colspan="4" background="/portals/9/skins/enchant_s/images/dynamosheader4.jpg" style="background-repeat:no-repeat; background-position: center;" class="breadcrumb"><div align="right" class="breadcrumb"></div></td>
+        </tr>
+      
+      
+      
+      
+      <tr>
+        <td height="11" width="1"></td>
+		<td width="10" ><img src="/portals/9/skins/enchant_s/images/l2_blue.gif" width="10" height="11"></td>
+        <td width="186" bgcolor="d4ebff"><img src="/portals/9/skins/enchant_s/images/spacer.gif" width="135" height="11" align="top"></td>
+        <td width="11" ><img src="/portals/9/skins/enchant_s/images/l3_blue.gif" width="10" height="11"></td>
+        <td width="10" ><img src="/portals/9/skins/enchant_s/images/l2_blue.gif" width="10" height="11" align="top"></td>
+        <td width="150" bgcolor="d4ebff"><img src="/portals/9/skins/enchant_s/images/spacer.gif" width="150" height="11" align="top"></td>
+        <td width="10" ><img src="/portals/9/skins/enchant_s/images/l3_blue.gif" width="10" height="11"></td>
+        <td height="11" width="1"></td>
+      </tr>
+      <tr >
+        <td width="1"></td>
+        <td width="10" bgcolor="d4ebff"></td>
+        <td bgcolor="d4ebff" rowspan="2" valign="top">
+        <table width=100% border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="blue"><div align="left"><!-- DDRmenu v02.00.01 - SolPart template --><script type="text/javascript">
+			DDR.Menu.registerMenu('dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU', {MenuStyle:"SolPart",ControlID:"ctldnnSOLPARTMENU",PathImage:"/Portals/9/",PathSystemImage:"/images/",PathSystemScript:"/controls/SolpartMenu/",IndicateChildImageSub:"breadcrumb.gif",IndicateChildImageRoot:"breadcrumb.gif",CSSContainerSub:"submenu",CSSNodeRoot:"rootmenuitem",CSSNodeHoverSub:"submenuitemselected",CSSNodeHoverRoot:"rootmenuitemselected",CSSBreadCrumbSub:"submenuitembreadcrumb",CSSBreadCrumbRoot:"rootmenuitembreadcrumb",CSSNodeSelectedSub:"submenuitemselected",CSSNodeSelectedRoot:"rootmenuitembreadcrumb",StyleControlHeight:0,StyleBorderWidth:0,StyleNodeHeight:0,StyleIconWidth:0,StyleFontSize:0,EffectsDuration:0,EffectsShadowStrength:0,ControlOrientation:"Vertical",ControlAlignment:"Left",ForceDownLevel:"False",MouseOutHideDelay:0,MouseOverDisplay:"Highlight",MouseOverAction:"Expand",ForceCrawlerDisplay:"False",IndicateChildren:true,SeparatorHTML:"<img src=\"/Portals/9/Skins/Enchant_S/images/m_sep.gif\">",NodeLeftHTMLBreadCrumbSub:"<img alt='*' BORDER='0' src='/images/breadcrumb.gif'>",PopulateNodesFromClient:false});
+		</script><div id="dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU">
+  <ul>
+    <li nid="261"><a href="http://dynamossoccer.com/Home/tabid/261/Default.aspx"><span>Home</span></a></li>
+    <li nid="263"><a href="http://dynamossoccer.com/AbouttheDynamos/tabid/263/Default.aspx"><span>About the Dynamos</span></a></li>
+    <li nid="264" class="selected breadcrumb"><a href="http://dynamossoccer.com/ContactUs/tabid/264/Default.aspx"><span>Contact Us</span></a></li>
+    <li nid="265"><a href="http://stx-cfdyna.affinitysoccer.com/reg/index.asp?sessionguid&amp;AdminType=4&amp;AdminId=162"><span>DYNAMOS Registration</span></a></li>
+    <li nid="266"><a href="http://dynamossoccer.com/Teams/tabid/266/Default.aspx"><span>Teams</span></a></li>
+    <li nid="282"><a href="http://dynamossoccer.com/CoachesMemo/tabid/282/Default.aspx"><span>Coaches Memo</span></a></li>
+    <li nid="283"><a href="http://dynamossoccer.com/KeeperClub/tabid/283/Default.aspx"><span>Keeper Club</span></a></li>
+    <li nid="284"><a href="http://dynamossoccer.com/StrikerZone/tabid/284/Default.aspx"><span>Striker Zone</span></a></li>
+    <li nid="287"><a href="http://dynamossoccer.com/DynamosAcademy/tabid/287/Default.aspx"><span>Dynamos Academy</span></a></li>
+    <li nid="288"><a href="http://stx-cfdyna.affinitysoccer.com/reg/index.asp?sessionguid&amp;AdminType=4&amp;AdminId=162"><span>ACADEMY Registration</span></a></li>
+    <li nid="492"><a href="http://dynamossoccer.com/FutureStars/tabid/492/Default.aspx"><span>Future Stars</span></a></li>
+    <li nid="289"><a href="http://dynamossoccer.com/Camps/tabid/289/Default.aspx"><span>Camps</span></a></li>
+    <li nid="460"><a href="http://dynamossoccer.com/DynamosPumaCup/tabid/460/Default.aspx"><span>Dynamos Puma Cup</span></a></li>
+    <li nid="487"><a href="http://dynamossoccer.com/DynamosFanGear/tabid/487/Default.aspx"><span>Dynamos Fan Gear </span></a></li>
+    <li nid="290"><a href="http://dynamossoccer.com/Forms/tabid/290/Default.aspx"><span>Forms</span></a></li>
+    <li nid="291"><a href="http://dynamossoccer.com/Links/tabid/291/Default.aspx"><span>Links</span></a></li>
+    <li nid="376"><a href="http://www.cyfairsoccer.org"><span>Cy-Fair Youth Soccer</span></a></li>
+    <li nid="480"><a href="http://home.gotsoccer.com/?p=login"><span>GS Coach/Mgr. Login</span></a></li>
+    <li nid="486"><a href="http://www.usclubsoccer.org"><span>NPL Coach/Mgr. Login</span></a></li>
+  </ul>
+</div></div></td>
+              </tr>
+              <tr>
+            <td id="dnn_leftpane" height="100%" width="135" valign="top" class="leftpane"><a name="620"></a><span id="dnn_ctr620_ContentPane" class="DNNAligncenter"><!-- Start_Module_620 --><div id="dnn_ctr620_ModuleContent">
+	<div id="dnn_ctr620_HtmlModule_HtmlModule_lblContent" class="Normal">
+	<div align="center"></div>
+<div align="center"></div>
+<div align="center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<table border="0" cellspacing="2" cellpadding="2" width="98%" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><img alt="" width="140" height="53" src="/Portals/9/Images/Logos/NPL South Central Premier League logo.jpg" /></div>
+            <hr />
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><span style="font-size: medium"><font size="3"><font color="#996600"><img alt="" width="160" height="197" src="/Portals/9/Images/homepage/U11G-Gold  for web 1.jpg" /></font></font></span></div>
+            <hr />
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><span style="font-size: small"><span style="font-family: Verdana"><font color="#996600"><strong>CATCH</strong></font></span></span></div>
+            <div style="text-align: center"></div>
+            <div align="center"><font size="3"><font color="#0000ff" size="2" face="Georgia, Times New Roman, Times, serif"><strong>Glenn Davis</strong></font></font></div>
+            <div align="center"><font size="3"><font color="#0000ff" size="2" face="Georgia, Times New Roman, Times, serif"><strong>SOCCER MATTERS</strong></font></font></div>
+            <div align="center"><font size="3"><strong><font color="#0000ff" size="1" face="Verdana, Arial, Helvetica, sans-serif">Tuesdays, 7-9pm</font></strong></font></div>
+            <div align="center"><font size="3"><strong><font color="#0000ff" size="1" face="Verdana, Arial, Helvetica, sans-serif">on ESPN Radio (FM97.5)</font></strong></font></div>
+            <div align="center"><font size="3"><font color="#996600" size="2" face="Verdana, Arial, Helvetica, sans-serif">********</font></font></div>
+            <div align="center"><span style="font-size: small"><font color="#0000ff"><strong>&#160;</strong></font></span><span style="font-family: Verdana"><span style="font-size: x-small"><span><font color="#0000ff"><strong><font color="#0033ff">DYNAMO ALL ACCESS</font></strong></font></span></span></span></div>
+            <div align="center"><font size="3"><font color="#0000ff" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Thursdays, 7-9pm</strong></font></font></div>
+            <div align="center"><font size="3"><font color="#0000ff" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>on Yahoo Radio (AM1560)</strong></font></font></div>
+            <div align="center"><font size="3"><font color="#996600" size="2" face="Verdana, Arial, Helvetica, sans-serif">********</font></font></div>
+            <div style="text-align: center"><font size="3"><font color="#0000ff" size="2" face="Times New Roman, Times, serif"><strong>Read Glenn's comments on</strong></font></font></div>
+            <div style="text-align: center"><font size="3"><font color="#0000ff" size="2" face="Times New Roman, Times, serif"><strong>every phase of soccer at</strong></font></font></div>
+            <div style="text-align: center"><font size="3"><font color="#0000ff" size="2" face="Times New Roman, Times, serif"><strong><a href="http://glenndavissoccer.com">http://glenndavissoccer.com</a></strong></font></font></div>
+            <div style="text-align: center"><span style="color: #996600"><span style="font-size: x-small"><span style="font-family: Verdana">********</span></span></span></div>
+            <div style="text-align: center"><span style="color: #996600"><span style="font-size: x-small"><span style="font-family: Verdana"><img alt="" width="150" height="132" src="/Portals/9/Images/Logos/Dynamo_Logo_300_DPI.JPG" /></span></span></span></div>
+            <hr />
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><img width="160" height="104" alt="" src="/Portals/9/Images/homepage/U9B Acad Angelo for web.jpg" /></div>
+            <hr />
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><img alt="" width="123" height="127" src="/Portals/9/Images/Logos/Houston Dash Logo.bmp" /></div>
+            <hr />
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><img alt="" width="160" height="203" src="/Portals/9/Images/homepage/U12B Gold for web.JPG" /></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            </div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center"><hr />
+            <div></div>
+            <div><img alt="" width="122" height="122" src="/Portals/9/Images/Memo/Aces logo.jpg" /></div>
+            </div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div></div>
+            <div></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div align="center"></div>
+            <div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <p style="text-align: center"></p>
+            <p style="text-align: center"></p>
+            <p style="text-align: center"></p>
+            <div style="text-align: center"><span style="font-size: small"><span style="font-family: Verdana"><strong>HOUSTON ACES</strong></span></span></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"><a href="http://www.thehoustonaces.com"><span style="font-family: Tahoma"><span style="font-size: x-small"><strong>TICKETS&#160;INFORMATION</strong></span></span></a></div>
+            <div style="text-align: center"><a href="http://www.thehoustonaces.com"><span style="font-family: Tahoma"><span style="font-size: x-small"><strong>&amp; PURCHASE</strong></span></span></a></div>
+            <hr />
+            <hr />
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <div></div>
+            <div style="text-align: center"></div>
+            <div style="text-align: center"></div>
+            <p style="text-align: center"><img alt="" width="25" height="25" src="/Portals/9/Images/soccerball.gif" />&#160;&#160; &#160; &#160; &#160; &#160;<img alt="" width="25" height="25" src="/Portals/9/Images/soccerball.gif" />&#160;&#160; &#160; &#160; &#160;&#160;<img alt="" width="25" height="25" src="/Portals/9/Images/soccerball.gif" /></p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div></div>
+</div>
+<!-- End_Module_620 -->
+</div></span>
+</td>
+
+          </tr>
+          </table></td>
+        <td bgcolor="d4ebff"></td>
+        <td valign="top" bgcolor="#FFFFFF">
+        <table width="100%"  border="0" cellspacing="0" cellpadding="0" >
+              
+			  <tr>
+                <td id="dnn_toppane" colspan="2" height="100%" valign="top" class="toppane"><a name="751"></a><span id="dnn_ctr751_ContentPane" class="DNNAlignleft"><!-- Start_Module_751 --><div id="dnn_ctr751_ModuleContent">
+	<!-- Menu generated by Navigation Suite for DotNetNuke , www.dnn360.net --><table style=" position: relative; z-index: 100;" width="300" height="26" border="0px" cellpadding="0px" cellspacing="0px" class="H4c_Style1" ><tr style=" background: transparent; " height="26"><td>&nbsp;&nbsp;</td><td class="H4c_Style4"><img alt="" src="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/menu_left.gif" width="9" height="26" /></td><td nowrap="nowrap" class="H4c_Style3" height="24"><a class="H4c_MenuLevel0" href="http://dynamossoccer.com/Toplinks/Trainers/tabid/293/Default.aspx" onmouseout="resetit(event)" onmouseover="showit(0)">Trainers</a></td><td height="24"><img alt="" src="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/menu_right.gif" width="9" height="26" /></td><td class="H4c_Style4"><img alt="" src="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/menu_left.gif" width="9" height="26" /></td><td nowrap="nowrap" class="H4c_Style3" height="24"><a class="H4c_MenuLevel0" href="http://dynamossoccer.com/Toplinks/TrainingSchedule/tabid/481/Default.aspx" onmouseout="resetit(event)" onmouseover="showit(1)">Training Schedule</a></td><td height="24"><img alt="" src="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/menu_right.gif" width="9" height="26" /></td><td class="H4c_Style4"><img alt="" src="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/menu_left.gif" width="9" height="26" /></td><td nowrap="nowrap" class="H4c_Style3" height="24"><a class="H4c_MenuLevel0" href="http://dynamossoccer.com/Toplinks/FieldsMaps/tabid/295/Default.aspx" onmouseout="resetit(event)" onmouseover="showit(2)">Fields/Maps</a></td><td height="24"><img alt="" src="/DesktopModules/CISS.SideMenu/Styles/HorizonTab1_Dynamos/menu_right.gif" width="9" height="26" /></td><td height="24" nowrap="nowrap" align="right" width="50%"></td><td width="50% "></td></tr></table>
+<div width="100%" height=25 name="dep1">
+<div name="dep2" width=100% height=25></div>
+</div><table class="H4c_Bglevel2"  width="100%" border= "0px" cellpadding= "0px" cellspacing= "0px" style="margin-top:-1px; z-index: -100;" >
+	<tr style=" background: transparent; " height="25"><td width= "100% " style="color: #999999;font-size: 12px;font-weight: bold;padding-left: 10px  " >
+
+<div id="describe" style="width:100%;height:25px" onmouseover="clear_delayhide()" onmouseout="resetit(event)" ></div>
+</td></tr></table>
+<script language="JavaScript1.2" >
+//<![CDATA[
+
+
+/*
+Tabs Menu (mouseover)- By Dynamic Drive
+For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+This credit MUST stay intact for use
+*/
+
+var submenu=new Array()
+//Set submenu contents. Expand as needed. For each content, make sure everything exists on ONE LINE. Otherwise, there will be JS errors.
+ 
+ 
+//]]>
+ </script><script language="JavaScript1.2" >
+//<![CDATA[
+
+ ;submenu[0]="";;submenu[1]="";;submenu[2]="";
+
+//]]>			
+ </script><script language="JavaScript1.2" >
+//<![CDATA[
+
+
+//Set delay before submenu disappears after mouse moves out of it (in milliseconds)
+var delay_hide=500
+
+/////No need to edit beyond here
+
+var menuobj=document.getElementById? document.getElementById("describe") : document.all? document.all.describe : document.layers? document.dep1.document.dep2 : ""
+
+
+//]]>
+ </script><script language="JavaScript1.2" >
+//<![CDATA[
+
+function showit(which){
+clear_delayhide()
+
+thecontent=(which==-1)? submenu[0 ] : submenu[which] 
+if (document.getElementById||document.all)
+{
+if (typeof thecontent!="undefined")
+menuobj.innerHTML=thecontent
+}
+else if (document.layers){
+  if (typeof thecontent!="undefined")
+  {
+   menuobj.document.write(thecontent)
+   menuobj.document.close()
+   }
+}
+}
+ </script><script language="JavaScript1.2" >
+
+function resetit(e){
+if (document.all&&!menuobj.contains(e.toElement))
+delayhide=setTimeout("showit(-1)",delay_hide)
+else if (document.getElementById&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhide=setTimeout("showit(-1)",delay_hide)
+}
+
+function clear_delayhide(){
+if (window.delayhide)
+clearTimeout(delayhide)
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+</script>		
+				
+				<script type="text/javascript">
+				//<![CDATA[
+
+				/***********************************************
+				* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+				* This notice MUST stay intact for legal use
+				* Visit http://www.dynamicdrive.com/ for full source code
+				***********************************************/
+				
+ 
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='lightyellow'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onmouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:#ffffff" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+//]]>
+		</script>
+
+
+<!-- End_Module_751 -->
+</div></span>
+</td>
+
+              </tr>
+              <tr>
+                <td id="dnn_contentpane" height="100%" valign="top" class="contentpane"><a name="754"></a><span id="dnn_ctr754_ContentPane" class="DNNAligncenter"><!-- Start_Module_754 --><div id="dnn_ctr754_ModuleContent">
+	<div id="dnn_ctr754_HtmlModule_HtmlModule_lblContent" class="Normal">
+	
+</div>
+<!-- End_Module_754 -->
+</div></span>
+<a name="627"></a><span id="dnn_ctr627_ContentPane" class="DNNAligncenter"><!-- Start_Module_627 --><div id="dnn_ctr627_ModuleContent">
+	<div id="dnn_ctr627_HtmlModule_HtmlModule_lblContent" class="Normal">
+	<div style="text-align: center"><span style="font-size: medium"><span style="color: rgb(0,0,255)"><span style="font-family: Arial"><strong>DYNAMOS SELECT SOCCER CLUB</strong></span></span></span></div>
+<div style="text-align: center">Mailing Address:</div>
+<div style="text-align: center"><strong>10924 GRANT RD., #224</strong></div>
+<div style="text-align: center"><strong>HOUSTON, TEXAS 77070</strong></div>
+<div style="text-align: center"><strong>Phone: 281-374-7800</strong></div>
+<div style="text-align: center">(weatherline press 4)</div>
+<div style="text-align: center"><strong>Fax: 281-727-0893</strong></div>
+<div style="text-align: center"><span style="color: rgb(255,255,255)">o</span></div>
+<div style="text-align: center"><span style="font-size: small"><strong>DYNAMOS SELECT COMMITTEE</strong></span></div>
+<table border="1" cellspacing="1" cellpadding="1" width="600">
+    <tbody>
+        <tr>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Chairman</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Joe B. Napier</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div><a href="mailto:joeb.napier@gmail.com">joeb.napier@gmail.com</a></div>
+            </td>
+            <td><span style="color: #ffffff">o</span></td>
+        </tr>
+        <tr>
+            <td>Director of Training</td>
+            <td>Olivier Finidori</td>
+            <td><a href="mailto:dynamo14@dynamossoccer.com">dynamo14@dynamossoccer.com</a></td>
+            <td>
+            <div>281-374-7800 #1</div>
+            <div>713-304-5060 (c)</div>
+            <div>281-320-1259 (f)</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div>Technical Director/</div>
+            <div>Head Trainer</div>
+            </td>
+            <td>Mark Wilkinson</td>
+            <td><a href="mailto:hibywilkie@sbcglobal.net">mwilkinson@dynamossoccer.com</a></td>
+            <td>
+            <div>281-374-7800 #2</div>
+            <div>832-656-6345 (c)</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div>Consultant/</div>
+            <div>Keeper Club</div>
+            </td>
+            <td>Jim Walker</td>
+            <td><a href="mailto:jwalker332@aol.com">jwalker@dynamossoccer.com</a></td>
+            <td>
+            <div>281-374-7800 #3</div>
+            <div>281-217-1612 (c)</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Treasurer</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Dyanna McCoy</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div><a href="mailto:dmccoy@spiritoftexasbank.com">dmccoy@spiritoftexasbank.com</a></div>
+            </td>
+            <td><span style="color: #ffffff">o</span></td>
+        </tr>
+        <tr>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Volunteer Coordinator</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Sue Easley</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div><a href="mailto:sue.easley@gmail.com">sue.easley@gmail.com</a></div>
+            </td>
+            <td><span style="color: #ffffff">o</span></td>
+        </tr>
+        <tr>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Marketing &amp; Publicity</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Andrew Bridges</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div><a href="mailto:abridges@edc-mover.com">abridges@dynamossoccer.com</a></div>
+            </td>
+            <td>
+            <div><span style="color: #ffffff">Oo</span></div>
+            <div>832-647-1247 (c)</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Administrator</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div>Loree vanKraayenburg</div>
+            </td>
+            <td>
+            <div></div>
+            <div><span style="color: #ffffff">o</span></div>
+            <div><a href="mailto:lvank@dynamossoccer.com">lvank@dynamossoccer.com</a></div>
+            </td>
+            <td>
+            <div>281-374-7800 #9</div>
+            <div>281-727-0893 (f)</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center"></div>
+<div style="text-align: center"><span style="color: rgb(255,255,255)">o</span></div>
+<div style="text-align: center"></div>
+<div></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><strong>
+<div style="margin: 0in 0in 0pt"></div>
+</strong></div>
+<div style="text-align: center"><strong>
+<div style="margin: 0in 0in 0pt"></div>
+<div></div>
+</strong></div>
+<div style="text-align: center"></div>
+<div style="text-align: center">
+<div style="text-align: center"></div>
+<div><span style="font-size: xx-small"><span style="color: #ffffff">o</span></span></div>
+<div></div>
+<span style="font-size: small">
+<div></div>
+</span></div>
+<div></div>
+<div style="text-align: center"><strong>
+<div style="margin: 0in 0in 0pt"><span style="font-size: xx-small"><span style="color: #ffffff"><span style="font-family: Verdana">o</span></span></span></div>
+<div style="margin: 0in 0in 0pt"></div>
+<span style="font-family: Arial">
+<div style="margin: 0in 0in 0pt"></div>
+</span><span style="font-size: medium">
+<div style="margin: 0in 0in 0pt"></div>
+</span></strong></div>
+<div style="text-align: center"></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<!-- End_Module_627 -->
+</div></span>
+</td>
+
+                
+              </tr>
+              <tr>
+                
+              </tr>
+          </table></td>
+        <td bgcolor="d4ebff"></td>
+        <td bgcolor="d4ebff" width="150" height="200" valign="top">
+        <table>
+        <tr><td id="dnn_toprightpane" bgcolor="d4ebff" height="100%" valign="top" class="rightpane"><a name="750"></a>
+<link href="/portals/9/containers/blackbeauty_c/container.css" rel="stylesheet" type="text/css"><div id="common">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+   <tr>
+     <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+       <tr>
+         <td width="12" background="/portals/9/containers/blackbeauty_c/c11.gif">&nbsp;</td>
+         <td background="/portals/9/containers/blackbeauty_c/c112.gif" style="padding-left:5px;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+           <tr>
+             <td width="1" class="Head2"></td>
+             <td class="Head2" nowrap>&nbsp;</td>
+             <td align="right" class="Head2" width="1"></td>
+           </tr>
+         </table></td>
+         <td width="12" background="/portals/9/containers/blackbeauty_c/c12.gif">&nbsp;</td>
+       </tr>
+     </table></td>
+   </tr>
+   <tr>
+     <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+       <tr>
+         <td width="12" background="/portals/9/containers/blackbeauty_c/c141.gif"><img src="/portals/9/containers/blackbeauty_c/c141.gif" width="12" height="1"></td>
+         <td bgcolor="#1a14ab" style="padding-top:10px;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="dnn_ctr750_ContentPane" colspan="2" valign="top" width="100%" class="Normal DNNAligncenter"><!-- Start_Module_750 --><div id="dnn_ctr750_ModuleContent">
+	<div id="dnn_ctr750_HtmlModule_HtmlModule_lblContent" class="Normal">
+	<div><span style="color: #ffffff">
+<div>
+<div>
+<div style="text-align: center">
+<div></div>
+</div>
+</div>
+</div>
+</span></div>
+<div>
+<div>
+<div style="text-align: center">
+<div><span style="color: rgb(192,192,192)">
+<div style="text-align: center"></div>
+</span><span style="font-family: 'Comic Sans MS'"><span style="font-size: medium"><strong><span style="color: rgb(255,255,255)">DYNAMOS</span></strong></span></span><strong><span style="font-size: x-small"><span style="color: #ffffff"><span style="font-family: Tahoma"> </span></span></span></strong>
+<div></div>
+<div style="text-align: center"></div>
+<div>
+<div style="text-align: center"></div>
+<span style="color: #ffffff">
+<div style="text-align: center"></div>
+</span><span style="color: #ffffff">
+<div style="text-align: center"></div>
+</span></div>
+<span style="color: #ffffff">
+<div>
+<div style="text-align: center"><span style="font-family: 'Comic Sans MS';"><strong><span style="color: rgb(255, 255, 255);">Select Soccer Club</span></strong></span></div>
+</div>
+</span><span style="color: #ffffff">
+<div>
+<div style="text-align: center"></div>
+</div>
+</span><span style="font-size: small"><span style="color: #c0c0c0">
+<div>
+<div style="text-align: center"></div>
+</div>
+<div></div>
+</span>
+<div></div>
+</span>
+<div><span style="color: #ffffcc"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span><span style="color: rgb(192,192,192)"><span style="font-size: xx-small">
+<div style="text-align: center"><span style="font-family: 'Comic Sans MS'"><span style="color: rgb(255,255,255)">(mailing address)</span></span></div>
+</span></span></div>
+<div><span style="font-family: Verdana"><span style="color: #c0c0c0">
+<div></div>
+</span></span></div>
+<span style="color: #ffffff"><span style="font-size: x-small">
+<div></div>
+</span></span><span style="color: #c0c0c0"><span style="font-size: x-small">
+<div></div>
+</span></span><span style="color: #ffffff"><span style="font-size: x-small">
+<div></div>
+</span></span><span style="font-size: x-small">
+<div><span style="color: rgb(192,192,192)">
+<div></div>
+</span></div>
+<div style="text-align: center"></div>
+<div></div>
+</span>
+<div><span style="color: #ffffcc"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span><span style="color: rgb(192,192,192)"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span></div>
+<span style="font-size: x-small"><span style="font-family: Arial">
+<div></div>
+</span></span><span style="font-family: Arial">
+<div><span style="color: rgb(192,192,192)"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span></div>
+</span><span style="font-size: x-small"><span style="font-family: Arial">
+<div><span style="color: rgb(192,192,192)">
+<div style="text-align: center"><strong><span style="font-family: 'Comic Sans MS'"><span style="color: rgb(255,255,255)">10924 Grant Rd., #224</span></span></strong></div>
+</span></div>
+</span></span><span style="font-family: Tahoma">
+<div></div>
+</span><span style="font-size: x-small"><span style="font-family: Arial">
+<div></div>
+</span></span>
+<div><span style="font-family: Verdana"><span style="color: #c0c0c0">
+<div></div>
+</span></span></div>
+<span style="font-size: x-small"><span style="font-family: Arial">
+<div></div>
+</span></span><span style="font-family: Arial">
+<div></div>
+</span><span style="font-family: Tahoma">
+<div></div>
+</span><span style="font-size: x-small"><span style="font-family: Tahoma">
+<div></div>
+</span></span><strong><span style="color: #ffffff">
+<div></div>
+</span></strong><span style="color: #ffffff">
+<div></div>
+<div></div>
+<div></div>
+</span>
+<div></div>
+<strong>
+<div><span style="color: rgb(192,192,192)">
+<div></div>
+</span></div>
+<span style="font-size: x-small"><span style="font-family: Arial">
+<div></div>
+</span></span><span style="font-family: Arial">
+<div></div>
+</span>
+<div style="text-align: center"></div>
+<div></div>
+<div></div>
+</strong>
+<div><span style="color: #ffffcc">
+<div style="text-align: center"></div>
+</span><span style="font-family: Verdana"><strong><span style="color: rgb(192,192,192)">
+<div style="text-align: center"></div>
+</span></strong></span><span style="font-size: x-small"><span style="font-family: Verdana"><strong><span style="color: rgb(192,192,192)">
+<div style="text-align: center"><span style="font-family: 'Comic Sans MS'"><span style="color: rgb(255,255,255)">Houston, Texas 77070</span></span><span style="color: #ffffff"><br />
+</span></div>
+</span></strong></span></span><span style="color: rgb(192,192,192)">
+<div style="text-align: center"></div>
+</span></div>
+<div><span style="font-size: xx-small"><span style="color: rgb(255,255,255)"><hr />
+</span></span></div>
+<div></div>
+<span style="color: #c0c0c0">
+<div>
+<div></div>
+</div>
+<div></div>
+<div></div>
+<div></div>
+</span>
+<div><span style="font-size: smaller">
+<div></div>
+</span></div>
+<div style="text-align: center"></div>
+<div><span style="color: #ffffcc"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span><span style="color: rgb(192,192,192)"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span></div>
+<span style="font-size: small">
+<div><span style="color: rgb(192,192,192)">
+<div style="text-align: center"><span style="font-family: 'Comic Sans MS'"><strong><span style="color: rgb(255,255,255)">Phone: 281-374-7800</span></strong></span></div>
+</span></div>
+</span>
+<div><span style="font-family: Verdana"><span style="color: #c0c0c0">
+<div></div>
+</span></span></div>
+<span style="font-size: small">
+<div></div>
+</span><strong><span style="color: #ffffff">
+<div></div>
+</span></strong><span style="color: #ffffff">
+<div></div>
+<div></div>
+</span>
+<div></div>
+<strong>
+<div><span style="color: rgb(192,192,192)">
+<div></div>
+</span></div>
+<div style="text-align: center"></div>
+<div></div>
+<div></div>
+</strong>
+<div><span style="color: #ffffcc">
+<div style="text-align: center"></div>
+</span><strong><span style="color: rgb(192,192,192)">
+<div style="text-align: center"><span style="font-family: 'Comic Sans MS'"><span style="color: rgb(255,255,255)">Fax: 281-727-0893</span></span><span style="color: #ffffff"><span style="font-family: Verdana"><br />
+</span></span></div>
+</span></strong><span style="color: rgb(192,192,192)">
+<div style="text-align: center"></div>
+</span></div>
+<div><span style="font-size: xx-small"><span style="color: rgb(255,255,255)"><hr />
+</span></span></div>
+<div></div>
+<span style="color: #c0c0c0">
+<div>
+<div></div>
+</div>
+<div></div>
+<div></div>
+<div></div>
+</span>
+<div><span style="font-size: smaller">
+<div></div>
+</span></div>
+<div style="text-align: center"></div>
+<div><span style="color: #ffffcc"><span style="font-size: xx-small">
+<div style="text-align: center"></div>
+</span></span><span style="color: rgb(192,192,192)"><span style="font-size: xx-small">
+<div style="text-align: center">
+<div><span style="font-family: 'Comic Sans MS'"><span style="color: rgb(255,255,255)"><strong>OLIVIER FINIDORI, DIRECTOR</strong></span></span></div>
+<span style="font-family: Verdana"><a href="mailto:dynamo14@dynamossoccer.com"><span style="color: rgb(255,255,255)"><span style="font-family: 'Comic Sans MS'">dynamo14@dynamossoccer.com</span></span></a></span>
+<div><span style="color: #ffffff"><span style="font-family: Verdana">******</span></span></div>
+<div></div>
+<div></div>
+<span style="font-family: 'Comic Sans MS'">
+<div><span style="font-family: 'Comic Sans MS'"><strong><span style="color: rgb(255,255,255)">Loree van Kraayenburg</span></strong></span></div>
+</span>
+<div><span style="font-family: 'Comic Sans MS'"><strong><span style="color: rgb(255,255,255)">Administrator</span></strong></span></div>
+<div><span style="color: #c0c0c0"><span style="font-family: Verdana"><a href="mailto:lvank@dynamossoccer.com"><span style="font-family: Comic Sans MS"><span style="color: #ffffff">lvank@dynamossoccer.com</span></span></a></span></span></div>
+<div></div>
+<div></div>
+</div>
+</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End_Module_750 -->
+</div></td>
+
+              </tr>
+              <tr>
+                <td width="99%" valign="bottom" class="Head" style="padding-top:2px;"></td>
+                <td align="right" valign="bottom" nowrap class="Head" style="padding-top:2px;"></td>
+              </tr>
+            </table></td>
+         <td width="12" bgcolor="#1a14ab"><img src="/portals/9/containers/blackbeauty_c/c14.gif" width="12" height="12"></td>
+       </tr>
+     </table></td>
+   </tr>
+    <tr>
+     <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="12"><img src="/portals/9/containers/blackbeauty_c/c14.gif" width="12" height="12"></td>
+          <td background="/portals/9/containers/blackbeauty_c/c134.gif"><img src="/portals/9/containers/blackbeauty_c/c134.gif" width="1" height="12"></td>
+          <td width="12"><img src="/portals/9/containers/blackbeauty_c/c13.gif" width="12" height="12"></td>
+        </tr>
+      </table></td>
+    </tr>
+  </table></div>
+<div><img src="/portals/9/containers/blackbeauty_c/spacer.gif" height="5"></div>
+</td>
+
+        </tr>
+        <tr>
+        <td id="dnn_bottomrightpane" bgcolor="d4ebff" height="100%" valign="top" class="rightpane"><a name="621"></a><span id="dnn_ctr621_ContentPane" class="DNNAligncenter"><!-- Start_Module_621 --><div id="dnn_ctr621_ModuleContent">
+	<div id="dnn_ctr621_HtmlModule_HtmlModule_lblContent" class="Normal">
+	<div style="text-align: center"><span style="font-size: x-small"><font color="#000066" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.facebook.com/DynamosSoccerClub"><img alt="" width="30" height="30" src="/Portals/9/Images/Logos/facebook logo.png" /></a>&#160; &#160; <a href="http://www.twitter.com/DynamosSC"><img alt="" width="30" height="30" src="/Portals/9/Images/Logos/twitter-bird-white-on-blue.png" /></a>&#160; &#160;&#160;<a href="http://instagram.com/dynamosoccerclub"><img alt="" width="30" height="30" src="/Portals/9/Images/Logos/Instagram logo.JPG" /></a></strong></font></span></div>
+<div></div>
+<div></div>
+<hr />
+<div align="center">
+<div style="text-align: center"></div>
+</div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><span style="color: #ff6600"><span style="font-size: medium"><strong><span style="font-family: Arial">Weatherline</span></strong></span></span></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><span style="color: #ff6600"><span style="font-size: x-small"><span style="font-family: Tahoma"><strong>281-374-7800 X 4</strong></span></span></span></div>
+<div style="text-align: center"><span style="color: #ff6600"><span style="font-size: small"><strong><span style="font-family: Arial">-------------</span></strong></span></span></div>
+<div style="text-align: center"><span style="font-size: x-small"><span style="font-family: Arial">Training Facilities</span></span></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div><span style="font-family: Arial">
+<div style="text-align: center"></div>
+<span style="font-size: small">
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+</span>
+<div style="text-align: center"></div>
+</span></div>
+<div style="text-align: center"><span style="font-size: small"><span style="color: #0000ff"><a href="http://www.cyfairsoccer.org/LinkClick.aspx?fileticket=HEgq2jrjWlw%3d&amp;tabid=356"><span style="font-family: Arial"><strong>Dyess Soccer Complex</strong></span></a></span></span></div>
+<div style="text-align: center"><span style="color: #0000ff"><span style="font-size: small"><strong><span style="font-family: Arial">-------------</span></strong></span></span></div>
+<div style="text-align: center"></div>
+<div><span style="font-family: Arial">
+<div style="text-align: center"><span style="font-size: x-small"><strong>A. D. Dyess Park</strong></span></div>
+</span></div>
+<div style="text-align: center"></div>
+<div><span style="font-family: Arial">
+<div style="text-align: center"><span style="font-size: x-small"><strong>16822 Kitzman Rd.</strong></span></div>
+<div style="text-align: center"><span style="font-size: x-small"><strong>Cypress, Texas 77429</strong></span></div>
+</span></div>
+<div style="text-align: center"></div>
+<p style="text-align: center"></p>
+<hr />
+<div style="text-align: center"></div>
+<div style="text-align: center"><img alt="" width="130" height="173" src="/Portals/9/Images/homepage/Marty Winking 2010.jpg" /></div>
+<p style="text-align: center"></p>
+<div style="text-align: center"><span style="color: #996600"><span><u><strong><span style="font-size: small"><a href="http://www.dynamossoccer.com/MartysTeam/tabid/463/Default.aspx">MARTY'S TEAM</a></span></strong></u></span></span></div>
+<div style="text-align: center"></div>
+<div align="center">
+<div></div>
+<div></div>
+<hr />
+<div></div>
+<div>
+<div><span style="font-family: Tahoma"><span style="font-size: x-small"><span style="color: #996600"><strong>&#160;THE DYNAMOS THANK</strong></span></span></span></div>
+<div><span style="font-family: Tahoma"><span style="font-size: x-small"><span style="color: #996600"><strong>&#160;2014 MARTY </strong></span></span></span><span style="font-family: Tahoma"><span style="font-size: x-small"><span style="color: #996600"><strong>ESPINOZA</strong></span></span></span></div>
+<div><span style="font-family: Tahoma"><span style="font-size: x-small"><span style="color: #996600"><strong>MEMORIAL</strong></span></span></span><span style="font-family: Tahoma"><span style="font-size: x-small"><span style="color: #996600"><strong> GOLF</strong></span></span></span></div>
+<div><span style="font-family: Tahoma"><span style="font-size: x-small"><span style="color: #996600"><strong>TOURNAMENT SPONSORS:</strong></span></span></span></div>
+<p></p>
+<div><span style="font-family: Tahoma"><span style="font-size: x-small"><strong>Allen Boone Humphries</strong></span></span></div>
+<div><span style="font-family: Tahoma"><span style="font-size: x-small"><strong>Robinson LLP</strong></span></span></div>
+<div></div>
+<p><span style="font-family: Tahoma"><span style="font-size: x-small"><strong>P &amp; N Machine Co., Inc.</strong></span></span></p>
+<p><span style="font-family: Tahoma"><span style="font-size: x-small"><strong>Sander Engineering Corp.</strong></span></span></p>
+<p></p>
+<div></div>
+<div align="center">
+<div></div>
+<div></div>
+<hr width="100%" size="2" />
+</div>
+</div>
+<div></div>
+</div>
+<div></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><img alt="" width="160" height="198" src="/Portals/9/Images/homepage/U17B web oka.JPG" /></div>
+<hr />
+<div style="text-align: center"></div>
+<div align="center"><strong><span style="font-family: Tahoma"><span style="font-size: x-small">&#160;</span></span></strong><span style="font-size: x-small"><span style="font-family: Tahoma"><strong><u>2014/2015 TEAM SPONSORS</u></strong></span></span></div>
+<div align="center"></div>
+<div><span style="font-family: Arial">
+<div align="center"></div>
+</span><span style="font-size: x-small"><span style="font-family: Arial">
+<div align="center"></div>
+</span><span style="font-family: Verdana">
+<div align="center"></div>
+</span><span style="font-size: xx-small"><span style="font-family: Verdana">
+<div align="center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Clampitt Paper Co.</span></span></span></div>
+<div align="center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">The Dempster Family</span></span></span></div>
+<div align="center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Dental Illusions</span></span></span></div>
+<div align="center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Dixie Drilling Co., Inc.</span></span></span></div>
+<div align="center"></div>
+<div align="center"></div>
+<div align="center"></div>
+<div align="center"></div>
+<div align="center"></div>
+</span></span></span></div>
+<div style="text-align: center"></div>
+<div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">The Factory Salon</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">First Community Credit Union</span></span></span></div>
+<div style="text-align: center"><span style="font-size: x-small"><span style="font-family: Arial"><span style="color: rgb(0,0,255)">Gerrit D'Ablaing and</span></span></span></div>
+<div style="text-align: center"><span style="font-size: x-small"><span style="font-family: Arial"><span style="color: rgb(0,0,255)">Stephanie Goodrich</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">JK3 Yachts</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">John Eagle Honda</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Lepow Dental</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">MBS Tool &amp; Fastener</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Natalitas, Inc.</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">National Oilwell Varco</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Noltensmeyer Insurance</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Oceaneering International</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Restoration Cleaners</span></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: x-small"><span style="color: rgb(0,0,255)">Space City Machine &amp; Tool, Inc.</span></span></span></div>
+</div>
+<div align="center"></div>
+<div align="center"></div>
+<div align="center"></div>
+<hr />
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><img alt="" width="160" height="198" src="/Portals/9/Images/homepage/U11GsilverGoalie ok web.jpg" /></div>
+<hr />
+<div style="text-align: center"><span style="font-family: Verdana">The Dynamos support</span></div>
+<p style="text-align: center"></p>
+<div style="text-align: center"><span style="font-size: medium"><span style="color: #800000"><span style="font-family: Times New Roman"><strong>TEXAS A&amp;M</strong></span></span></span></div>
+<div style="text-align: center"><span style="font-size: medium"><span style="color: #800000"><span style="font-family: Times New Roman"><u><strong>&#160;Summer Camps</strong></u></span></span></span></div>
+<p style="text-align: center"></p>
+<div style="text-align: center"><a href="http://www.aggiesoccercamp.com">www.aggiesoccercamp.com</a></div>
+<hr />
+<div style="text-align: center"></div>
+<div></div>
+<div style="text-align: center"></div>
+<div></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<div style="text-align: center"><img width="160" height="120" alt="" src="/Portals/9/Images/homepage/Boys w scarves for web.jpg" /></div>
+<hr />
+<div style="text-align: center"><span style="font-family: Arial"><span style="font-size: medium"><strong><span style="color: #ff0000">COTO SPORTS</span></strong></span></span></div>
+<div style="text-align: center"><span style="font-size: x-small"><span style="font-family: Arial"><strong>INDOOR</strong></span></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><strong><span style="font-size: small"><span style="font-size: x-small">Summer 3v3 League</span></span></strong></span></div>
+<div style="text-align: center"><span style="font-family: Arial"><strong><span style="color: #0000ff"><a href="http://cotosports.liveeditaurora.com/pages/summer-3v3-league"><span style="font-family: Verdana"><span style="font-size: x-small">REGISTRATION</span></span></a></span></strong></span></div>
+<div style="text-align: center"></div>
+<hr />
+<div style="text-align: center"></div>
+<div style="text-align: center"></div>
+<hr />
+<div style="text-align: center">&#160;</div>
+<div style="text-align: center"><img alt="" width="25" height="25" src="/Portals/9/Images/soccerball.gif" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<img alt="" width="25" height="25" src="/Portals/9/Images/soccerball.gif" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <a href="/LinkClick.aspx?link=297&amp;tabid=261"><img border="0" alt="" width="25" height="25" src="/Portals/9/Images/soccerball.gif" /></a></div>
+</div>
+<!-- End_Module_621 -->
+</div></span>
+</td>
+
+        </tr>
+        </table>
+          <p>&nbsp;</p></td>
+        <td bgcolor="d4ebff"></td>
+        <td width="1"></td>
+      </tr>
+      <tr>
+        <td width="1"></td>
+        <td><img src="/portals/9/skins/enchant_s/images/b2_blue.gif" width="10" height="39"></td>
+        <td bgcolor="d4ebff"></td>
+        <td colspan="4"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td bgcolor="#1A14AA">&nbsp;</td>
+            <td bgcolor="#1A14AA"><img src="/portals/9/skins/enchant_s/images/spacer.gif" width="60" height="39"></td>
+            <td align="right" nowrap bgcolor="#1A14AA" class="footer"><a id="dnn_dnnTERMS_hypTerms" class="footer" href="http://dynamossoccer.com/Home/tabid/261/ctl/Terms/Default.aspx">Terms Of Use</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a id="dnn_dnnPRIVACY_hypPrivacy" class="footer" href="http://dynamossoccer.com/Home/tabid/261/ctl/Privacy/Default.aspx">Privacy Statement</a>&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;<a id="dnn_dnnLOGIN_cmdLogin" class="user" href="javascript:__doPostBack(&#39;dnn$dnnLOGIN$cmdLogin&#39;,&#39;&#39;)">Login</a>&nbsp;&nbsp;</td>
+          </tr>
+        </table></td>
+        <td width="1"></td>
+      </tr>
+    </table></td>
+  </tr><tr>
+                <td>
+                <div>&nbsp;</div>
+                <div align="center" class="style1" nowrap><span id="dnn_dnnCOPYRIGHT_lblCopyright" class="footer">Copyright 2010-11</span>
+</div>
+                <div align="center" nowrap class="style1"><a id="dnn_dnnHOSTNAME_hypHostName" class="footer" href="http://host2.netprocity.com">Hosting & Design by NetProCity.com</a></div>
+                </td>
+              </tr>
+</table>
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" />
+    </form>
+</body>
+</html>
