@@ -1,0 +1,500 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	Three Rivers FC/Muskogee Soccer Club > Home
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="DESCRIPTION" content="Three Rivers FC/Muskogee Soccer Club" /><meta id="MetaKeywords" name="KEYWORDS" content="Three Rivers FC/Muskogee Soccer Club" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright (c) 2015 by Three Rivers FC/Muskogee Soccer Club" /><meta id="MetaAuthor" name="AUTHOR" content="Three Rivers FC/Muskogee Soccer Club" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/default.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/admin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/skins/orpheus/skin.css?cdv=13" type="text/css" rel="stylesheet"/><script src="/resources/shared/scripts/jquery/jquery.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-migrate.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-ui.min.js?cdv=13" type="text/javascript"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2472549-6']);
+_gaq.push(['_setDomainName', 'sports.bluesombrero.com']);
+_gaq.push(['_trackPageview']);
+
+            (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3aed2942d4" type="text/css" rel="stylesheet" /></head>
+<body id="Body">
+    
+    <form name="Form" method="post" action="/" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0vRIf6mYUamzx1Jo16HSc8zeVVQmxf5TT124cY5SW6v2qVPKRkuNb6tKAtuYC73wNFUbQCnwZwxD2bzry36wcj3ncEzPE43DpeiXDTAh3RSAowac8+GjlRPP35xENm/sXKAh5OQAx+0s5rCgNrGqIBG05AScLl5yIXV7JowZN7hrm7Vw+Oj2N2SpaZEHEpVIp4r+NZKtclrGsGE6vxl36V2kgylY2FbI8x1rmZu9tuXWt4cPcBTu3CDX9a4IsJV7oiWWzX9A3y9vwzzC8uGRG1aTlUzaLxHFqdbxA2qR/XVqwt5MWTZRFd7EcUZbhQud9h3kD7b0uh1U7mqFxMjbVurjvl5v15FZBQ0JW/2hZc7jLqo/jxTaqg8W79AjQqw9D4czD2X7kT6uLdO+g16sPcEx2617vwRFLcgg8TPCrHXlhTZ9HN0M23AB9fsj1oodwXUC3GFRVuqZrTklI2H0lgAnxa0pZTm8dwazvzPNO8doog1RAQEdmDEOf8ghs2/hW3W2naXf1crAF6Tq2uLSWC44xx4mcKuR81/HoCdfWNJkqgCWDiaMm95vanPBjjFlrcsfI/O8+ECXGJedCIcy76JzswnVPGq/Kb7KWZtRMmv7pNgqUKld40bXf6yjSWxmpnJdepx+z7Wj3tbZZsv+eow+An5xNfdIj3v6dZ5c+SLbgFu8sKvRhpKT6eGHaCvnSQrGuWpo5L+iBg1v+/ib/7Njj5BprQD/Vb+KdZSSb3Iy6KCS7lQ1UzyGEfrHXoHvFuYworKHzXygng8AxoFkEXKi7ILEJxNS6g4D5lf/G5VX/iWrH24mgm6w9UKjD3h2FwuzYgAJ/LfB19CwI6TZy/blXxkDjNJIhkMkMaLUVJjAzPa6MucfoIeoK+wBZewnkL1pcyKMJKyPUbYVRDb/RyWFqTIXh7BlzZ9Poy4AP7OQdUKbcIvQfGh/Xnt8De4eAbejwOk4LX075AO/exNARv8Z0YKP/vIMF8jumlX/UBC38Lf1P7Y4FO8hUp203gyadUkKv3czr0z3LXIjFpDMKKU7wKETmfj2iRJlsQTZFSVSMt8GFqixmzdlxYUCpjgYh6CT/PRLYJttI4RymlEsCNOg2gogZiHQJo1kuDUoZ+/UyWzMJQvY4dIKdqY/hoP+d/ex/PGyPbMkIeQgyV5p/C07WBSU0SZj8c7USoWcekrQDfjvc//CzP1hP0mq774fS3RJmbSAwc/yC+A2BWI0NJgtPwCA6+CwE+1wnbeOne75kHD3ZJbIoXCkxz7BR6QRnP+R9/8bcXNl9GOIBJw1otD6/XDR03/6G25+qh3QuHYRkgNmF3Bv/hqxGG6ZFrS649wSRGwlFcxuJK9v6vf0SfjSqF6lJMt351UqQtxK2l0LR4Nb0AfHgEBau+52yEzTkvoTrELLPfD+to/9Ep6A85vFQCWrANWP+Rh9sXklNVuNu+HcY8osyExiCclgBNM840ubz4G35J8PeakQ4taxueRY7i1Ly8aDQRK9QT/DTUSPwUY0iIgOVOR2xmRzlUMfK+7u6DB1sXPfYnQgMuMl86iabLnYEW7cCJy9QjsmA9T7eXOp5JRoYjZniacMXxZLCxsqDHizfEfsZZzLsnyqJfYV8WIp+QHFMHYs7JaDIcYVQ+hS12ZDJAmSg2Srn6JfT/EHeKb3cfrhqmAeyo/KGmjGAsjfAZ3hLRbulFbvPDxnDpZm3m1cqTZv0qAfNclNN30ASG2empgxPnHPRnZEwS/bGYbHGJy8C2beED6H29bTFmkooiuqEQOdERzElUUHCHL52oDL1DrFRMXpbpKK24FkhgzhSUe2k7s5RHsbOK5z/sJMHH8QDN/qKD7+3irtIBOG8frulk9EuM7qZWBPj3Q1aeY=" />
+</div>
+
+
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.hoverintent.js?v=10" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.controlpanel/resources/bsb_controlpanel.css?v=10' rel='stylesheet' rev='Stylesheet' type='text/css' />
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.contenthome.helper.js?v=10" type="text/javascript"></script>
+<script src="/desktopmodules/at/at.common.usercontrols/resources/jquery.smallpluggins.js?v=10" type="text/javascript"></script>
+<script src="/resources/shared/scripts/jquery/jquery-ui.min.js?v=10" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.contentrotator/clientresources/featured-slider/featured-slider.css?v=10' rel='stylesheet' rev='Stylesheet' type='text/css' />
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af319b152-218f-4c14-829d-050a68bb1a61%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a1e771326%3a88144a7a%3ac8618e41%3a1a73651d%3a333f8d94" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/debug/dnn.modalpopup.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=13" type="text/javascript"></script>
+        
+        
+
+<link rel="stylesheet" href="/Portals/_default/Skins/Orpheus//mobile.css" media="screen, projection" />
+<!--[if lte IE 7]><link href="/Portals/_default/Skins/Orpheus/IEFix.css" type="text/css" rel="stylesheet"/><![endif]-->
+<script type="text/javascript" src="/Portals/_default/Skins/Orpheus//mobile.helper.js"></script>
+<script type="text/javascript">jQuery("body").addClass("orpheusGreen orpheusDefault");</script>
+<div class="skin-area orpheusHome-skin">
+	<div class="skin-width">
+		<div class="skin-header">
+			<div class="float-left">
+				<div class="skin-logo"><a id="dnn_dnnLOGO_hypLogo" title="Three Rivers FC/Muskogee Soccer Club" href="/default.aspx?portalid=6006"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/6006/logo/Logo635281687863656039.png" alt="Three Rivers FC/Muskogee Soccer Club" style="border-width:0px;" /></a></div>
+				<h1 class="skin-banner">MUSKOGEE  SOCCER  CLUB
+</h1>
+				<div class="clear-both"></div>
+			</div>
+			<div class="float-right">
+				<div class="float-left">
+					<a id="dnn_dnnLOGIN_cmdLogin" class="skin-button" href="/Default.aspx?tabid=514139&amp;isLogin=True">Log In</a>
+					<a id="dnn_dnnUSER_cmdRegister" class="skin-button" href="/Default.aspx?tabid=514139">Register</a>
+				</div>
+				<div class="float-left"><div class="social-link-holder">
+	<a href="//www.facebook.com/MuskogeeSoccerClub" target="_blank" class="social-link facebook-link">Facebook</a>
+	
+	<div class="clear-both"></div>
+</div>
+</div>
+				<div class="clear-both"></div>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+		<div class="skin-nav">
+			<div id="dnn_RadMenu1_RadMenu1" class="RadMenu RadMenu_SkinNAV rmSized" style="width:100%;">
+	<!-- 2014.1.318.45 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink  rmSelected" href="/Default.aspx?tabid=514129"><span class="rmText">Home</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=561764"><span class="rmText">ABOUT US</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=538258"><span class="rmText">Coaches</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=680099"><span class="rmText">Schedules</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=561764"><span class="rmText">Mission Statement</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=538259"><span class="rmText">Board of Directors</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=551100"><span class="rmText">American Soccer Academy</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=605335"><span class="rmText">ASA  Schedule Information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=770817"><span class="rmText">Spring Sign Ups</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=514131"><span class="rmText">Recreational</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=538664"><span class="rmText">General Information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=538665"><span class="rmText">Recreational Game Schedules</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=538257"><span class="rmText">3RFC</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=538263"><span class="rmText">REGISTER</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=538265"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=546138"><span class="rmText">COACHES CORNER</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=559146"><span class="rmText">REFEREES</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/Default.aspx?tabid=648398"><span class="rmText">Referee Classes</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=589130"><span class="rmText">GALLERY</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=574576"><span class="rmText">TOURNAMENT LISTINGS</span></a></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Default.aspx?tabid=553889"><span class="rmText">Reschedule Games</span></a></li>
+	</ul><input id="dnn_RadMenu1_RadMenu1_ClientState" name="dnn_RadMenu1_RadMenu1_ClientState" type="hidden" />
+</div>
+<script>
+jQuery(document).ready(function(){
+	var menu = $find("dnn_RadMenu1_RadMenu1");
+if (!menu) return;
+	var Items = menu.get_items();
+	var totalWidth = 0;
+	for (var i = 0; i < Items.get_count(); i++)
+	{
+		totalWidth += Items.getItem(i).get_element().offsetWidth;
+	}
+	menu.get_element().style.width = totalWidth + "px";
+});
+</script>
+			<div class="clear-both"></div>
+		</div>
+		<div id="dnn_ContentPane" class="skin-content"><div class="DnnModule DnnModule-BSBContent DnnModule-537076"><a name="537076"></a><div id="dnn_ctr537076_ContentPane"><!-- Start_Module_537076 --><div id="dnn_ctr537076_ModuleContent" class="DNNModuleContent ModBSBContentC">
+	
+	<div class="clubHome-container">
+		<div class="clubHome-contentRotator">
+			
+
+
+
+	<div id="BSBSlider-Wrapper">
+		<div id="dnn_ctr537076_Home_ctl00_sWebThemeContentRotatorNAV">
+			
+						<ul class="ui-tabs-nav BSBSlide-NAV">
+				
+					<li class="ui-tabs-nav-item ui-tabs-selected BSBSlide-NAV-Item">
+						<div class="BSBSlide-NAV-Active"></div>
+						<a href="#dnn_ctr537076_Home_ctl00_sWebThemeContentRotator16695" class="BSBSlide-NAV-Link"  >
+							<div class="BSBSlide-NAV-Content">
+								<h3 class="BSBSlide-NAV-Head">Recreational Spring 2015 Schedule</h3>
+							</div>
+							<div class="BSBSlide-NAV-ImageWrapper">
+								<img class="BSBSlide-NAV-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/thumb_contentrotator635283430498254702.png" alt="Recreational Spring 2015 Schedule" />
+							</div>
+							<div class="BSBClear-Both"></div>
+						</a>
+					</li>
+				
+					<li class="ui-tabs-nav-item BSBSlide-NAV-Item">
+						<div class="BSBSlide-NAV-Active"></div>
+						<a href="#dnn_ctr537076_Home_ctl00_sWebThemeContentRotator39095" class="BSBSlide-NAV-Link"  >
+							<div class="BSBSlide-NAV-Content">
+								<h3 class="BSBSlide-NAV-Head">BASC & Soccer City 11th Annual Spring Tournament</h3>
+							</div>
+							<div class="BSBSlide-NAV-ImageWrapper">
+								<img class="BSBSlide-NAV-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/thumb_contentrotator635604541687216696.png" alt="BASC & Soccer City 11th Annual Spring Tournament" />
+							</div>
+							<div class="BSBClear-Both"></div>
+						</a>
+					</li>
+				
+					<li class="ui-tabs-nav-item BSBSlide-NAV-Item">
+						<div class="BSBSlide-NAV-Active"></div>
+						<a href="#dnn_ctr537076_Home_ctl00_sWebThemeContentRotator51342" class="BSBSlide-NAV-Link"  >
+							<div class="BSBSlide-NAV-Content">
+								<h3 class="BSBSlide-NAV-Head">SPRING 2015 SCHEDULE</h3>
+							</div>
+							<div class="BSBSlide-NAV-ImageWrapper">
+								<img class="BSBSlide-NAV-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/thumb_contentrotator635605565947117596.png" alt="SPRING 2015 SCHEDULE" />
+							</div>
+							<div class="BSBClear-Both"></div>
+						</a>
+					</li>
+				
+					<li class="ui-tabs-nav-item BSBSlide-NAV-Item BSBSlide-NAV-LastItem">
+						<div class="BSBSlide-NAV-Active"></div>
+						<a href="#dnn_ctr537076_Home_ctl00_sWebThemeContentRotator16694" class="BSBSlide-NAV-Link"  >
+							<div class="BSBSlide-NAV-Content">
+								<h3 class="BSBSlide-NAV-Head">American Soccer Academy</h3>
+							</div>
+							<div class="BSBSlide-NAV-ImageWrapper">
+								<img class="BSBSlide-NAV-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/thumb_contentrotator635301743212347200.png" alt="American Soccer Academy" />
+							</div>
+							<div class="BSBClear-Both"></div>
+						</a>
+					</li>
+				
+						</ul>
+				
+			
+					<div id="dnn_ctr537076_Home_ctl00_sWebThemeContentRotator16695" class="ui-tabs-panel BSBSlider-Content">
+						<img class="BSBSlide-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/contentrotator635283430498254702.png" alt="Recreational Spring 2015 Schedule" />
+						<div class="BSBSlide-Caption">
+							<div class="BSBSlide-CP-Wrapper">
+								<h2 class="BSBSlide-CP-Head">Recreational Spring 2015 Schedule</h2>
+								<p class="BSBSlide-CP-Content"></p>
+								<a class="BSBSlide-CP-Link" href="http://www.muskogeesoccerclub.com/Default.aspx?tabid=538665" >Read More</a>
+								<div class="BSBClear-Both"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div id="dnn_ctr537076_Home_ctl00_sWebThemeContentRotator39095" class="ui-tabs-panel ui-tabs-hide BSBSlider-Content">
+						<img class="BSBSlide-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/contentrotator635604541687216696.png" alt="BASC & Soccer City 11th Annual Spring Tournament" />
+						<div class="BSBSlide-Caption">
+							<div class="BSBSlide-CP-Wrapper">
+								<h2 class="BSBSlide-CP-Head">BASC & Soccer City 11th Annual Spring T...</h2>
+								<p class="BSBSlide-CP-Content"></p>
+								<a class="BSBSlide-CP-Link" href="http://www.bascok.com/Tournaments/BASCAcademy/index_E.html" >Read More</a>
+								<div class="BSBClear-Both"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div id="dnn_ctr537076_Home_ctl00_sWebThemeContentRotator51342" class="ui-tabs-panel ui-tabs-hide BSBSlider-Content">
+						<img class="BSBSlide-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/contentrotator635605565947117596.png" alt="SPRING 2015 SCHEDULE" />
+						<div class="BSBSlide-Caption">
+							<div class="BSBSlide-CP-Wrapper">
+								<h2 class="BSBSlide-CP-Head">SPRING 2015 SCHEDULE</h2>
+								<p class="BSBSlide-CP-Content">Times start NEXT WEEK with the first week being a introductory session parents meeting coaches.</p>
+								<a class="BSBSlide-CP-Link" href="https://bsbproduction.s3.amazonaws.com/portals/6006/docs/academy%202015%20spring%20schedule.pdf" >Read More</a>
+								<div class="BSBClear-Both"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div id="dnn_ctr537076_Home_ctl00_sWebThemeContentRotator16694" class="ui-tabs-panel ui-tabs-hide BSBSlider-Content">
+						<img class="BSBSlide-Image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/contentrotator/contentrotator635301743212347200.png" alt="American Soccer Academy" />
+						<div class="BSBSlide-Caption">
+							<div class="BSBSlide-CP-Wrapper">
+								<h2 class="BSBSlide-CP-Head">American Soccer Academy</h2>
+								<p class="BSBSlide-CP-Content"></p>
+								<a class="BSBSlide-CP-Link" href="http://www.muskogeesoccerclub.com/Default.aspx?tabid=597124" >Read More</a>
+								<div class="BSBClear-Both"></div>
+							</div>
+						</div>
+					</div>
+				
+		</div>
+	</div>
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			var sor$n=4, sor$i=0;
+			jQuery("#dnn_ctr537076_Home_ctl00_sWebThemeContentRotatorNAV").tabs({ fx: { opacity: "toggle"} });
+			setInterval(function() {
+				sor$i = (++sor$i < sor$n ? sor$i : 0);
+				jQuery("#dnn_ctr537076_Home_ctl00_sWebThemeContentRotatorNAV").tabs( "option", "active", sor$i);
+			}, 6000);
+		});
+	</script>
+
+		</div>
+	</div>
+
+<div class="clubHome-container">
+	<div class="clubHome-links">
+		<div class="clubHome-linkItem">
+			<h2 class="clubHome-LI-head">RainedOut Messages/Alerts</h2>
+			<img src='https://bsbproduction.s3.amazonaws.com/portals/6006/images/images635435281990915180.png' alt='RainedOut Messages/Alerts' width='230' height='142'/>
+			<div class="clubHome-LI-footer"><a class="clubHome-LI-link" href='https://www.rainedout.net/team_page.php?a=daeedf9879887d14baa9'>FULL DETAILS</a></div>
+		</div>
+		<div class="clubHome-linkItem">
+			<h2 class="clubHome-LI-head">Recreational Soccer Program </h2>
+			<img src='https://bsbproduction.s3.amazonaws.com/portals/6006/images/images635284911490004178.png' alt='Recreational Soccer Program ' width='230' height='142'/>
+			<div class="clubHome-LI-footer"><a class="clubHome-LI-link" href='/Default.aspx?tabid=538665'>FULL DETAILS</a></div>
+		</div>
+		<div class="clubHome-linkItem">
+			<h2 class="clubHome-LI-head">Spring 2015 Soccer Schedules</h2>
+			<img src='https://bsbproduction.s3.amazonaws.com/portals/6006/images/images635284907316041422.png' alt='Spring 2015 Soccer Schedules' width='230' height='142'/>
+			<div class="clubHome-LI-footer"><a class="clubHome-LI-link" href='/Default.aspx?tabid=538665'>Spring 2015 Soccer Schedules</a></div>
+		</div>
+		<div class="clubHome-linkItem last-linkItem">
+			<h2 class="clubHome-LI-head">American Soccer Academy</h2>
+			<img src='https://bsbproduction.s3.amazonaws.com/portals/6006/images/images635301721107444384.png' alt='American Soccer Academy' width='230' height='142'/>
+			<div class="clubHome-LI-footer"><a class="clubHome-LI-link" href='/Default.aspx?tabid=605335'>FULL DETAILS</a></div>
+		</div>
+		<div class="clear-both"></div>
+	</div>
+</div>
+
+	<div class="clubHome-container">
+		
+			<div class="clubHome-news">
+				<div class="clubHome-container">
+					<h2 class="clubHome-head">News</h2>
+					<div class="clubHome-content">
+						
+		<div class="news-holder">
+	
+			<div class="news-item" href="/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=55299&ctl=newsdetail">
+				<div class="news-date">
+					<span class="news-postedon">Posted On</span>
+					<span class="news-postedmonth">Apr</span>
+					<span class="news-postedondate">24</span>
+				</div>
+				<div class="news-detail">
+					<h3 class="news-header">BASC & Soccer City 11th Annual Spring Tournament</h3>
+					<p class="news-summary">http://www.bascok.com/Tournaments/BASCAcademy/index_E.html
+						<a class="news-readmore" href="/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=55299&ctl=newsdetail">
+							<img src="/portals/_default/skins/Orpheus/images/icn-black-pointer.png" alt="Read More"/>
+						</a>
+					</p>
+				</div>
+				<div class="clear-both"></div>
+			</div>
+	
+			<div class="news-item" href="/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=33329&ctl=newsdetail">
+				<div class="news-date">
+					<span class="news-postedon">Posted On</span>
+					<span class="news-postedmonth">Jul</span>
+					<span class="news-postedondate">16</span>
+				</div>
+				<div class="news-detail">
+					<h3 class="news-header">Referee Classes August 9th & 15-16th</h3>
+					<p class="news-summary">Class Dates Set
+						<a class="news-readmore" href="/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=33329&ctl=newsdetail">
+							<img src="/portals/_default/skins/Orpheus/images/icn-black-pointer.png" alt="Read More"/>
+						</a>
+					</p>
+				</div>
+				<div class="clear-both"></div>
+			</div>
+	
+			<div class="news-item" href="/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=23689&ctl=newsdetail">
+				<div class="news-date">
+					<span class="news-postedon">Posted On</span>
+					<span class="news-postedmonth">Apr</span>
+					<span class="news-postedondate">10</span>
+				</div>
+				<div class="news-detail">
+					<h3 class="news-header">Reminders for Oklahoma Recreational League Games</h3>
+					<p class="news-summary">Dear Recreational Clubs and Teams: These are some important reminders on Oklahoma Recreational League games.  
+						<a class="news-readmore" href="/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=23689&ctl=newsdetail">
+							<img src="/portals/_default/skins/Orpheus/images/icn-black-pointer.png" alt="Read More"/>
+						</a>
+					</p>
+				</div>
+				<div class="clear-both"></div>
+			</div>
+	
+			<div class="clear-both"></div>
+		</div>
+		<script type="text/javascript">
+			jQuery(document).ready( function() {
+				jQuery(".news-item").click( function(){
+					window.location=$(this).find("a").attr("href");
+					return false;
+				});
+			});
+		</script>
+	
+					</div>
+					<div class="clubHome-footer">
+						<a class="clubHome-link" href='/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&ctl=viewallnews'>Read More</a>
+					</div>
+				</div>
+			</div>
+		
+		<div class="clear-both"></div>
+	</div>
+
+
+</div><!-- End_Module_537076 --></div></div></div>
+		<div class="skin-footer SameHeightHolder">
+			
+				<div class="skin-footer-left SameHeight">
+					<div class="footer-container">
+						<h2 class="footer-header">SITE LINKS</h2>
+						<div class="footer-content">
+							
+			<ul class="site-links">
+		
+			<li class="site-link-item"><a class="site-link" href="https://www.facebook.com/MuskogeeSoccerClub" >MSC FACEBOOK</a></li>
+		
+			<li class="site-link-item"><a class="site-link" href="http://www.oksoccer.com/default.aspx" >OKLAHOMA SOCCER ASSOCIATION</a></li>
+		
+			<li class="site-link-item"><a class="site-link" href="http://www.usclubsoccer.org" >US SOCCER CLUB</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+		
+			<ul class="site-links">
+		
+			<li class="site-link-item"><a class="site-link" href="/Default.aspx?tabid=561764" >MISSION STATEMENT</a></li>
+		
+			<li class="site-link-item"><a class="site-link" href="http://www.muskogeesoccerclub.com/Default.aspx?tabid=514129&mid=537076&newskeyid=HN1&newsid=16863&ctl=newsdetail" >VOLUNTEERS</a></li>
+		
+			<li class="site-link-item"><a class="site-link" href="https://www.facebook.com/3RiversFootballClub" >3RFC FACEBOOK</a></li>
+		
+			<li class="clear-both"></li>
+			</ul>
+		
+
+							<div class="clear-both"></div>
+						</div>
+					</div>
+				</div>
+			
+				<div class="skin-footer-middle SameHeight">
+					<div class="skin-sponsors">
+						
+		<div class="sponsors-holder">
+			<ul id="sponsors-list" class="sponsors-list">
+	
+				<li class="sponsors-item">
+					<a href="/Default.aspx?tabid=538265" ><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/homesponsors/homesponsors635310272813554589.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.fivestarofficesupply.com" target='_blank'><img class="sponsors-image" src="https://bsbproduction.s3.amazonaws.com/portals/6006/homesponsors/homesponsors635281824536912144.png" alt="" height='112' width='242'/></a>
+				</li>
+	
+				<li class="sponsors-item">
+					<a href="http://www.dickssportinggoods.com" target='_blank'><img class="sponsors-image" src="/DesktopModules/BSB/BSB.Content/ImageViewer.ashx?w=242&h=112&portalid=6006" alt="" height='112' width='242'/></a>
+				</li>
+	
+			</ul>
+			<div class="clear-both"></div>
+		</div>
+		<script type="text/javascript" src="/DesktopModules/BSB/BSB.Controls/Resources/jquery.carouFredSel-5.3.0-packed.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready( function() {
+				function applySponsorScript() {
+					if( jQuery(".sponsors-item").length > 1 ){
+						jQuery(".sponsors-holder").append( "<a id=\"prev-button\" class=\"sponsors-prevButton\" href=\"javascript:void(0);\">&lt;</a>" + 
+														"<a id=\"next-button\" class=\"sponsors-nextButton\" href=\"javascript:void(0);\">&gt;</a>" );
+						jQuery("#sponsors-list").carouFredSel({ prev: "#prev-button", next: "#next-button", auto: true, circular: true, items : { visible : 1 }});
+					}
+				}
+				if(jQuery.browser.webkit){ jQuery(window).load( function() { applySponsorScript(); }); }
+				else{ applySponsorScript(); }
+			});
+		</script>
+	
+
+					</div>
+				</div>
+			
+			<div class="skin-footer-right SameHeight">
+				<div class="footer-container">
+					<h2 class="footer-header">
+						<div class="float-left">Contact Us</div>
+						<div class="float-left"><div class="social-link-holder">
+	<a href="//www.facebook.com/MuskogeeSoccerClub" target="_blank" class="social-link facebook-link">Facebook</a>
+	
+	<div class="clear-both"></div>
+</div>
+</div>
+						<div class="clear-both"></div>
+					</h2>
+					<div class="footer-content"><div class="club-info">
+	M U S K O G E E  SOCCER CLUB<br/>
+	395 S. 40th<br />Muskogee, OK 74401<br/>
+	Email : <a class="club-email" href="mailto:muskogeesoccerclub@yahoo.com">muskogeesoccerclub@yahoo.com</a><br/>
+	
+</div>
+</div>
+				</div>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+		<div class="skin-info">
+			<div class="skin-info-left">
+				<span id="dnn_dnnCOPYRIGHT_lblCopyright" class="SkinObject">Copyright (c) 2015 Three Rivers FC/Muskogee Soccer Club</span>
+&nbsp;&middot;&nbsp;
+				<a id="dnn_dnnPRIVACY_hypPrivacy" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=514129&amp;ctl=Privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="dnn_dnnTERMS_hypTerms" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=514129&amp;ctl=Terms">Terms of Use</a>
+				<a id="dnn_dnnLOGIN1_cmdLogin" class="SkinObject hiddenlogin" href="/Default.aspx?tabid=514139">Log In</a>
+				<a id="dnn_dnnUSER1_cmdRegister" class="SkinObject hiddenlogin" href="/Default.aspx?tabid=514139">Register</a>
+			</div>
+			<div class="skin-info-right">
+				<a href="//www.bluesombrero.com" alt="_blank">
+					<img src="/portals/_default/powered-by-blue-sombrero-gray.png" alt="Powered By Blue Sombrero"/>
+				</a>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+	</div>
+</div>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`514129`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('StylesheetManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2014.1.318.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:0746398c-8ed4-4bb4-ac7c-2ae23e943aae:ed2942d4';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"SkinNAV","clientStateFieldID":"dnn_RadMenu1_RadMenu1_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=514129","cssClass":" rmSelected"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538258"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=680099"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=561764"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538259"}],"navigateUrl":"/Default.aspx?tabid=561764"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=605335"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=770817"}],"navigateUrl":"/Default.aspx?tabid=551100"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538664"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538665"}],"navigateUrl":"/Default.aspx?tabid=514131"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538257"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538263"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=538265"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=546138"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=648398"}],"navigateUrl":"/Default.aspx?tabid=559146"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=589130"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=574576"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=553889"}]}, null, null, $get("dnn_RadMenu1_RadMenu1"));
+});
+//]]>
+</script>
+</form>
+    
+    
+</body>
+</html>

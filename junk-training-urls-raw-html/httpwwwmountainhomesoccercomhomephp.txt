@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css" /><script src="http://www.mountainhomesoccer.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13155" ><li id="mb-75765" class=" cmFirst "><a class="button-text" href="/home.php?layout=307278" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-75766" class="parent  "><span style="" class="button-text">Registration</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75767" class=" cmFirst "><a class="button-text" href="/sam/registration" style="" target="_blank">Online Registration</a><span class="iefix">&nbsp;</span></li><li id="mb-75768" class="  "><a class="button-text" href="/home.php?layout=307299" style="" target="_top">Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-189708" class="  cmLast"><a class="button-text" href="/home.php?layout=821767" style="" target="_top">Registration Cost</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75797" class="  "><a class="button-text" href="/sam/team_pages" style="" target="_blank">Team Page Log In</a><span class="iefix">&nbsp;</span></li><li id="mb-75769" class="parent  "><a class="button-text" href="/home.php?layout=307279" style="" target="_top">Current News</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-189709" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=821818" style="" target="_top">Player Training</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75775" class="  "><a class="button-text" href="/sam/about_us/calendar.php" style="" target="_blank">Calendar</a><span class="iefix">&nbsp;</span></li><li id="mb-189659" class="parent  "><span style="" class="button-text">Players Corner</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-189662" class=" cmFirst "><a class="button-text" href="/home.php?layout=821430" style="" target="_top">Basic Ball Skills Videos</a><span class="iefix">&nbsp;</span></li><li id="mb-191951" class="  "><a class="button-text" href="/home.php?layout=834043" style="" target="_top">Defending Videos</a><span class="iefix">&nbsp;</span></li><li id="mb-192588" class="  cmLast"><a class="button-text" href="/home.php?layout=838895" style="" target="_top">Fast Footwork Videos</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75776" class="parent  "><span style="" class="button-text">Coaches Corner</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-189664" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=821446" style="" target="_top">Coaching Resources</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75779" class="  "><a class="button-text" href="/home.php?layout=307286" style="" target="_top">Forms & Documents</a><span class="iefix">&nbsp;</span></li><li id="mb-75780" class="  "><a class="button-text" href="/home.php?layout=307287" style="" target="_top">Fundraising & Sponsors</a><span class="iefix">&nbsp;</span></li><li id="mb-75781" class="parent  "><span style="" class="button-text">Links</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75782" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=307288" style="" target="_top">District III</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75785" class="parent  "><span style="" class="button-text">Local Soccer Programs</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75786" class=" cmFirst "><a class="button-text" href="/home.php?layout=307291" style="" target="_top">Competitive (MHSC)</a><span class="iefix">&nbsp;</span></li><li id="mb-75787" class="  "><a class="button-text" href="/home.php?layout=307292" style="" target="_top">Parks & Recreation (City)</a><span class="iefix">&nbsp;</span></li><li id="mb-75788" class="  "><a class="button-text" href="/home.php?layout=307293" style="" target="_top">High School (MHHS)</a><span class="iefix">&nbsp;</span></li><li id="mb-75789" class="  cmLast"><a class="button-text" href="/home.php?layout=307294" style="" target="_top">Adult</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75790" class="parent  "><span style="" class="button-text">Fields & Field Directions</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75791" class=" cmFirst "><a class="button-text" href="/home.php?layout=307295" style="" target="_top">Mountain Home Fields</a><span class="iefix">&nbsp;</span></li><li id="mb-75792" class="  cmLast"><a class="button-text" href="/home.php?layout=307296" style="" target="_top">District III Directions</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75793" class="  "><a class="button-text" href="/home.php?layout=307297" style="" target="_top">Schedules</a><span class="iefix">&nbsp;</span></li><li id="mb-75770" class="parent  cmLast"><span style="" class="button-text">About Us</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75771" class=" cmFirst "><a class="button-text" href="/home.php?layout=307280" style="" target="_top">Mission Statement</a><span class="iefix">&nbsp;</span></li><li id="mb-188721" class="  "><a class="button-text" href="/home.php?layout=817063" style="" target="_top">Board Members</a><span class="iefix">&nbsp;</span></li><li id="mb-75774" class="  "><a class="button-text" href="/home.php?layout=307283" style="" target="_top">Contact Us</a><span class="iefix">&nbsp;</span></li><li id="mb-78273" class="parent  cmLast"><a class="button-text" href="/home.php?layout=314090" style="" target="_top">Meeting Minutes</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75807" class=" cmFirst "><a class="button-text" href="/doclib/soccer minutes May 17.doc" style="" target="_blank">May 17, 2012 Minutes</a><span class="iefix">&nbsp;</span></li><li id="mb-75806" class="  "><a class="button-text" href="/doclib/Mountain Home Soccer Club minutes 3-28-12.doc" style="" target="_blank">March 28, 2012 Minutes</a><span class="iefix">&nbsp;</span></li><li id="mb-75809" class="  "><a class="button-text" href="/doclib/minutes 7-12-12.doc" style="" target="_blank">July 12, 2012 Meeting MInutes</a><span class="iefix">&nbsp;</span></li><li id="mb-78271" class="  "><a class="button-text" href="/doclib/soccerclubmeetingminutesMay202014.pdf" style="" target="_blank">May 20 2014 Minutes</a><span class="iefix">&nbsp;</span></li><li id="mb-75808" class="  cmLast"><a class="button-text" href="/doclib/club minutes 6-20-12.doc" style="" target="_blank">June 20, 2012</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Spring 2015 Schedule					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <strong><span style="font-size: 24pt;">Spring Schedule Now Available</span></strong>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 12pt;">Spring 2015 Schedule Website <a href="http://events.gotsport.com/events/Default.aspx?EventID=44216" target="_blank">&lt;Click Here&gt;</a></span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 12pt;">Spring 2015 Initial Schedule PDF File by Team or Date <a href="http://www.mountainhomesoccer.com/doclib/Schedule%20-%20Initial%20-2015.pdf" target="_blank">&lt;Click
+  Here&gt;</a></span>
+</p>
+<p style="text-align: center;">
+  <em><span style="font-size: 14pt;">Note: Always check schedule on website prior to your game for any date or time changes</span></em>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Mountain Home Soccer Club - Why Join Now!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-size: x-large;">Join Mountain Home Soccer Club Now!</span>
+</p>
+<p style="text-align: center;">
+  <a href="http://www.mountainhomesoccer.com/doclib/Youth%20Flier1%20-%20Spring%202015.pdf" target="_blank"><span style="font-size: large;">(Click Here to Read our Flyer)</span></a>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: large;">If you see yourself playing High School soccer some day</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: large;">then you need to move to competitive soccer now!</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						MHSC Contacts					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><table style="width: 100%;" border="0" cellspacing="0" cellpadding="3">
+  <tbody>
+    <tr>
+      <td>
+        <address>
+          Mimi Carlton, President
+        </address>
+        <address>
+          CP: 208-283-1965
+        </address>
+        <address>
+          <span style="color: #ff0000;">or</span>
+        </address>
+        <address>
+          Sunny Downes, Registrar
+        </address>
+        <address>
+          CP: 208-598-3647
+        </address>
+        <address>
+           
+        </address>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+   
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						What age group am I					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <a href="http://www.mountainhomesoccer.com/doclib/2014_2015%20Age_Chart.pdf" target="_blank">2014- 2015 Age Chart</a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Concussion Symposium					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  Saturday, April 25th
+</p>
+<p>
+  Syposium Flyer &lt;<a href="http://www.mountainhomesoccer.com/doclib/Concussion%20Symposium%20Flyer%202015.pdf" target="_blank">click here</a>&gt;
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Meetings					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><address>
+  <span style="font-size: small;">March Meeting</span>
+</address>
+<address>
+  <span style="font-size: small;">Date/Time: TBD, 7:00 PM</span>
+</address>
+<address>
+  <span style="font-size: small;">WECRD Office</span>
+</address>
+<address>
+  <span style="font-size: small;">245 East 6th South</span>
+</address></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Uniform Information					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <a href="http://www.mountainhomesoccer.com/doclib/MHSC%20Uniform%20Info.pdf" target="_blank" title="MHSC Uniform">Click Here for Uniform Info</a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " ><img src="/cm/layout/images/bonzi_logo.png" alt="Sport Registration Software by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Mountain Home Soccer Club. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " >Soccer League Scheduler Software </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

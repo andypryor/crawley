@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta charset="UTF-8" />
+<title></title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="pingback" href="http://www.fysc.us/xmlrpc.php" />
+<link rel="shortcut icon" href="http://fysc.us/wp-content/themes/footballclub-2.2.1/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://fysc.us/wp-content/themes/footballclub-2.2.1/images/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+</script><link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://www.fysc.us/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://www.fysc.us/comments/feed/" />
+<link rel='stylesheet' id='ai1ec_style-css'  href='http://www.fysc.us/wp-content/plugins/all-in-one-event-calendar/cache/210c642a_ai1ec_parsed_css.css?ver=2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.fysc.us/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-theme-css'  href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/blitzer/jquery-ui.min.css?ver=1.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-css'  href='http://www.fysc.us/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dcjq-mega-menu-css'  href='http://www.fysc.us/wp-content/plugins/jquery-mega-menu/css/dcjq-mega-menu.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uploadifive_stylesheet-css'  href='http://www.fysc.us/wp-content/plugins/nm-woocommerce-personalized-checkout-v2.0.4/js/uploadifive/uploadifive.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nmwooco_stylesheet-css'  href='http://www.fysc.us/wp-content/plugins/nm-woocommerce-personalized-checkout-v2.0.4/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nmwoo_stylesheet-css'  href='http://www.fysc.us/wp-content/plugins/nm-woocommerce-personalized-product-v2.0.4/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.fysc.us/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.fysc.us/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.8' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.fysc.us/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css'  href='http://www.fysc.us/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-black-white-2-css'  href='http://www.fysc.us/wp-content/plugins/ubermenu/assets/css/skins/blackwhite2.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-css'  href='http://www.fysc.us/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.fysc.us/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dropdowncart_stylesheets-css'  href='http://www.fysc.us/wp-content/plugins/woocommerce-drop-down-cart-widget/widget-flyout-cart-style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-css'  href='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/fancybox/jquery.fancybox-1.3.4.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/woocommerce-drop-down-cart-widget/widget-flyout-cart-script.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/jquery-mega-menu/js/jquery.dcmegamenu.1.3.4.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/nm-woocommerce-personalized-checkout-v2.0.4/js/uploadifive/jquery.uploadifive.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nmwooco_vars = {"ajaxurl":"http:\/\/www.fysc.us\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/www.fysc.us\/wp-content\/plugins\/nm-woocommerce-personalized-checkout-v2.0.4","loading_image_url":"http:\/\/www.fysc.us\/wp-content\/plugins\/nm-woocommerce-personalized-checkout-v2.0.4\/images\/loading.gif","msg_flashnotsupported":"Flash not found or version is too old","filetype_not_supported":"File type not allow","file_upload_path":"http:\/\/www.fysc.us\/wp-content\/uploads\/checkout_files\/thumbs\/","upload_settings":"false","is_html5":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/nm-woocommerce-personalized-checkout-v2.0.4/js/script.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nmwoo_vars = {"ajaxurl":"http:\/\/www.fysc.us\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/www.fysc.us\/wp-content\/plugins\/nm-woocommerce-personalized-product-v2.0.4","loading_image_url":"http:\/\/www.fysc.us\/wp-content\/plugins\/nm-woocommerce-personalized-product-v2.0.4\/images\/loading.gif","msg_flashnotsupported":"Flash not found or version is too old","filetype_not_supported":"File type not allow","file_upload_path":"http:\/\/www.fysc.us\/wp-content\/uploads\/product_files\/thumbs\/","upload_settings":"\"\"","is_html5":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/nm-woocommerce-personalized-product-v2.0.4/js/script.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/html5shiv.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/jquery.themeboy-rotator.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/jquery.evenHeights.1.0.0-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/fancybox/jquery.easing-1.3.pack.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fysc.us/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fysc.us/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<meta name="generator" content="WooCommerce 2.2.8" />
+<link rel='shortlink' href='http://wp.me/3dMC1' />
+<style id="ubermenu-custom-generated-css">
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+.ubermenu-main .ubermenu-row { max-width:500px; margin-left:auto; margin-right:auto; }
+
+
+/* Status: Loaded from Transient */
+
+</style><style type="text/css">
+body,
+.image-rotator .image_thumb ul li .more a,
+.image-rotator .image_thumb ul li .more a:hover,
+.tb_players .gallery-view li .name a,
+ul.tb_matches-sidebar .kickoff time, ul.tb_matches-sidebar .kickoff .score,
+#wrapper, #menu #searchform input#s,
+ul.tb_matches-sidebar .kickoff a {
+	color: #333333}
+a,
+.highlighted,
+h2.entry-title {
+	color: #558eab;
+}
+a:hover {
+	color: #2d6683;
+}
+#header {
+	background-image: url(http://www.fysc.us/wp-content/uploads/2014/11/cropped-Fremont-Youth-Sports-Club-Banner-light-blue-and-white-writing1-2.jpg);
+	min-height: 140px;
+}
+#header #maintitle h1,
+#header #maintitle h1 a {
+	color: #blank;
+}
+#header #maintitle h2,
+#header #maintitle h2 a {
+	color: #00b9e8;
+}
+.image-rotator {
+	background-color: #f5f5f5;	
+}
+.image-rotator .image_thumb ul li,
+.image-rotator .image_thumb ul li .more a {
+	color: #333333;
+}
+#wrapper,
+#menu #searchform input#s {
+	background-color: #ffffff;
+}
+#sidebar {
+	background-color: #f0f0f0;
+}
+.widget-container {
+	background-color: #ffffff;
+}
+#menu li:hover a,
+#menu li:hover input,
+#menu #searchform input#searchsubmit:hover,
+.image-rotator .image_thumb ul li.active,
+.image-rotator .image_thumb ul li.active a,
+#content section h3,
+.widget-container h3,
+.contactform .button:hover,
+input[type="submit"]:hover {
+	color: #ffffff;
+}
+#menu {
+	background-color: #333333;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #5b5b5b),
+		color-stop(0.3, #333333)
+	);
+	background-image: -moz-linear-gradient(
+	center top,
+		#5b5b5b 0%,
+		#333333 30%
+	);
+}
+#menu li {
+	border-right-color: #0b0b0b;
+	border-left-color: #5b5b5b;
+}
+#menu li a,
+#menu #searchform input#searchsubmit {
+	color: #dddddd;
+}
+#menu .menu li:hover {
+	background-color: #4b84a1;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #7db6d3),
+		color-stop(0.3, #4b84a1),
+		color-stop(1, #4b84a1)
+	);
+	background-image: -moz-linear-gradient(
+	center top,
+		#7db6d3 0%,
+		#4b84a1 30%,
+		#4b84a1 100%
+	);
+	border-right-color: #053e5b;
+	border-left-color: #558eab;
+}
+#menu li ul.children,
+#menu li ul.sub-menu {
+	background-color: #4b84a1;
+}
+#content section h3,
+.widget-container h3,
+.tb_players .gallery-view li .number,
+.navigation .nav-previous a:hover,
+.navigation .nav-next a:hover,
+.commentlist .comment .reply a:hover,
+.contactform .button:hover,
+.link-button a:hover,
+input[type="submit"]:hover {
+	background: #4b84a1;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #558eab),
+		color-stop(1, #2d6683)
+	);	
+	background-image: -moz-linear-gradient(
+		center top,
+		#558eab 0%,
+		#2d6683 100%
+	);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#558eab', endColorstr='#2d6683');
+}
+#respond h3 {
+	color: #558eab;
+}
+.image-rotator .image_thumb ul li.active {
+	background: #4b84a1;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #558eab),
+		color-stop(1, #19526f)
+	);
+	background-image: -moz-linear-gradient(
+		center top,
+		#558eab 0%,
+		#19526f 100%
+	);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#558eab', endColorstr='#19526f');
+	cursor: default;
+	border-color: #002a47;
+}
+.image-rotator .image_thumb ul li.active .more a:hover {
+	color: #ffffff;	
+}
+#footer-widgets {
+	background-color: #333333;
+}
+#footer-widgets #footer-logo {
+	background-image: url(http://www.fysc.us/wp-content/uploads/2013/06/FYSC-Logo-blue-and-black.png);
+}
+
+
+#content .navigation .nav-previous a:hover,
+#content .navigation .nav-next a:hover {
+	background: #4b84a1;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, #558eab),
+		color-stop(1, #2d6683)
+	);
+	background-image: -moz-linear-gradient(
+		center top,
+		#558eab 0%,
+		#2d6683 100%
+	);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#558eab', endColorstr='#2d6683');
+}
+
+#main table tbody tr,
+ul.tb_matches-sidebar li {
+	border-color: #ffffff;
+}
+a.tb_view_all {
+	color: #838383;
+	text-shadow: 1px 1px 0 #ffffff;
+}
+a.tb_view_all:hover {
+	color: #333333;
+}
+#sponsors {
+	background-color: #f0f0f0;
+}
+
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #061123; background-image: url('http://www.fysc.us/wp-content/uploads/2014/11/soccer-stadium-11840-1.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="(no title)" />
+<meta property="og:url" content="http://www.fysc.us/" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta name="twitter:site" content="@jetpack" />
+</head>
+
+<body class="home blog custom-background">
+<div id="fb-root"></div>
+<div id="wrapper">
+	<header id="header">
+		<a id="logo" href="http://www.fysc.us"><img src="" alt="" /></a>
+		<hgroup id="maintitle">
+							<h1><a href="http://www.fysc.us"></a></h1>
+				<h2><a href="http://www.fysc.us"></a></h2>
+					</hgroup>
+						<div class="clear"></div>
+	</header>
+	<nav id="menu" class="clearfix">
+		<div class="menu-header"><ul id="menu-new-menu" class="menu"><li id="menu-item-1919" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1919"><a href="http://www.fysc.us">Home</a></li>
+<li id="menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1920"><a href="http://www.fysc.us/129-2/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-3037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3037"><a href="http://www.fysc.us/ltd/">FYSC Long Term Development Program</a></li>
+	<li id="menu-item-1921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1921"><a href="http://www.fysc.us/staff/">Staff</a></li>
+	<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922"><a href="http://www.fysc.us/contact-us/">Contact Us</a></li>
+	<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925"><a href="http://www.fysc.us/financial-aid/">Financial Aid</a></li>
+	<li id="menu-item-3087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3087"><a href="http://www.fysc.us/payments/">Payments</a></li>
+	<li id="menu-item-1928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928"><a href="http://www.fysc.us/refund-information/">Refund Information</a></li>
+	<li id="menu-item-1930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1930"><a href="http://www.fysc.us/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-1931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1931"><a href="http://www.fysc.us/maps-and-fields/">Maps and Fields</a></li>
+	<li id="menu-item-1932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932"><a href="http://www.fysc.us/mission-statement/">Mission Statement</a></li>
+	<li id="menu-item-1933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1933"><a href="http://www.fysc.us/forms-documents/">Forms, Documents &#038; Policies</a></li>
+	<li id="menu-item-1934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934"><a href="http://www.fysc.us/vision-statement/">Vision Statement</a></li>
+	<li id="menu-item-1935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href="http://www.fysc.us/referees/">Referees</a></li>
+	<li id="menu-item-1936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href="http://www.fysc.us/copyrights-trademarks-logo-usage-guidelines/">Copyrights, Trademarks &#038; Logo Usage Guidelines</a></li>
+	<li id="menu-item-3433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3433"><a href="http://www.fysc.us/non-profit-board/">FYSL Non-Profit Board</a></li>
+</ul>
+</li>
+<li id="menu-item-1937" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1937"><a href="https://fysc.demosphere-secure.com/_registration">Registration</a></li>
+<li id="menu-item-1977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1977"><a href="http://www.fysc.us/store/">Store</a>
+<ul class="sub-menu">
+	<li id="menu-item-4342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4342"><a href="http://www.fysc.us/camps/">Camps Information</a></li>
+	<li id="menu-item-4332" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-4332"><a href="http://www.fysc.us/product-category/camps/summer-camps/">Summer Camps &#8211; Select A Week</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4333" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4333"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-1-june-15th-19th/">Camp 1: June 15th-19th</a></li>
+		<li id="menu-item-4334" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4334"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-2-june-22nd-26th/">Camp 2: June 22nd-26th</a></li>
+		<li id="menu-item-4335" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4335"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-3-july-6th-10th/">Camp 3: July 6th-10th</a></li>
+		<li id="menu-item-4336" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4336"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-4-july-13th-17th/">Camp 4: July 13th-17th</a></li>
+		<li id="menu-item-4337" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4337"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-5-july-20th-24th/">Camp 5: July 20th-24th</a></li>
+		<li id="menu-item-4338" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4338"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-6-july-27th-31st/">Camp 6: July 27th-31st</a></li>
+		<li id="menu-item-4339" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4339"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-7-aug-3rd-7th/">Camp 7: Aug 3rd-7th</a></li>
+		<li id="menu-item-4340" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4340"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-8-aug-10th-14th/">Camp 8: Aug 10th-14th</a></li>
+		<li id="menu-item-4341" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4341"><a href="http://www.fysc.us/product-category/camps/summer-camps/camp-9-aug-17th-21st/">Camp 9: Aug 17th-21st</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4232" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-4232"><a href="http://www.fysc.us/product-category/camps/april-6th-10th/">Spring Break Camp &#8211; April 6th – 10th</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4236" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4236"><a href="http://www.fysc.us/product/mini-kickers-u4-u6-900am-1030am/">Mini-Kickers (U4-U6): 9:00AM-10:30AM</a></li>
+		<li id="menu-item-4235" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4235"><a href="http://www.fysc.us/product/half-day-u7-u17-900am-1200pm/">Half-Day (U7-U17): 9:00AM-12:00PM</a></li>
+		<li id="menu-item-4234" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4234"><a href="http://www.fysc.us/product/half-day-u7-u17-100pm-400pm/">Half-Day (U7-U17): 1:00PM-4:00PM</a></li>
+		<li id="menu-item-4233" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4233"><a href="http://www.fysc.us/product/full-day-u7-u17-900am-400pm/">Full-Day (U7-U17): 9:00AM-4:00PM</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1978" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1978"><a href="http://www.fysc.us/product-category/t-shirts/">T-Shirts</a></li>
+	<li id="menu-item-1979" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1979"><a href="http://www.fysc.us/product-category/hoodies/">Hoodies</a></li>
+	<li id="menu-item-1980" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1980"><a href="http://www.fysc.us/product-category/balls/">Balls</a></li>
+	<li id="menu-item-1981" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1981"><a href="http://www.fysc.us/product-category/uniforms/">Uniforms</a></li>
+</ul>
+</li>
+<li id="menu-item-1938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1938"><a href="http://www.fysc.us/u4-u8-adp/">Recreation</a>
+<ul class="sub-menu">
+	<li id="menu-item-3896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3896"><a href="http://www.fysc.us/u4-u5/">U4 &#8211; U5 ADP Spring 2015</a></li>
+	<li id="menu-item-3895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3895"><a href="http://www.fysc.us/u6-spring-adp/">U6 ADP Spring 2015</a></li>
+	<li id="menu-item-3894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3894"><a href="http://www.fysc.us/u7-u8-spring-adp/">U7 &#8211; U8 ADP Spring 2015</a></li>
+	<li id="menu-item-3893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3893"><a href="http://www.fysc.us/u10-adp-spring-2015/">U10 ADP Spring 2015</a></li>
+	<li id="menu-item-4039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4039"><a href="http://www.fysc.us/u12-u14-recreation/">U12-U19 Spring 2015 Recreation</a></li>
+	<li id="menu-item-3206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3206"><a href="http://www.fysc.us/adp-coaches-library/">ADP Coaches Library</a></li>
+</ul>
+</li>
+<li id="menu-item-1948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1948"><a href="http://www.fysc.us/tournaments/">Tournaments</a>
+<ul class="sub-menu">
+	<li id="menu-item-1949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1949"><a href="http://www.fysc.us/silicon-valley-soccer-showcase/">Silicon Valley Soccer Showcase &#8211; Aug 30 &#8211; Sep 1</a></li>
+	<li id="menu-item-1950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1950"><a href="http://www.fysc.us/kot/">Kick or Treat &#8211; Oct 25 &#8211; 26</a></li>
+	<li id="menu-item-1951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1951"><a href="http://www.fysc.us/tournamentofchampions/">Tournament of Champions &#8211; Nov 22 &#8211; 23</a></li>
+</ul>
+</li>
+<li id="menu-item-4019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4019"><a href="http://www.fysc.us/education/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-4027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4027"><a href="http://www.fysc.us/player-education/">Player Education</a></li>
+	<li id="menu-item-4022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4022"><a href="http://www.fysc.us/parent-education/">Parent Education</a></li>
+	<li id="menu-item-4032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4032"><a href="http://www.fysc.us/coaches/">Coach Education</a></li>
+</ul>
+</li>
+<li id="menu-item-3402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3402"><a href="http://www.fysc.us/comp-girls/">Comp Girls</a>
+<ul class="sub-menu">
+	<li id="menu-item-3828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3828"><a href="http://www.fysc.us/05-girls-black/">05 Girls Black</a></li>
+	<li id="menu-item-3815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815"><a href="http://www.fysc.us/04-girls-black/">04 Girls Black</a></li>
+	<li id="menu-item-1957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1957"><a href="http://www.fysc.us/03-girls-black/">03 Girls Black</a></li>
+	<li id="menu-item-1958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1958"><a href="http://www.fysc.us/03-girls-white/">03 Girls White</a></li>
+	<li id="menu-item-1962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1962"><a href="http://www.fysc.us/02-girls-black/">02 Girls Black</a></li>
+	<li id="menu-item-1965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1965"><a href="http://www.fysc.us/01-girls-black/">01 Girls Black</a></li>
+	<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967"><a href="http://www.fysc.us/00-girls-black/">00 Girls Black</a></li>
+	<li id="menu-item-1970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1970"><a href="http://www.fysc.us/99-girls-black/">99 Girls Black</a></li>
+	<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973"><a href="http://www.fysc.us/97-girls-black/">97 Girls Black</a></li>
+	<li id="menu-item-3816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816"><a href="http://www.fysc.us/95-girls-black/">95 Girls Black</a></li>
+</ul>
+</li>
+<li id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1952"><a href="http://www.fysc.us/comp/">Comp Boys</a>
+<ul class="sub-menu">
+	<li id="menu-item-3821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3821"><a href="http://www.fysc.us/05-boys-elite/">05 Boys Elite</a></li>
+	<li id="menu-item-3820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820"><a href="http://www.fysc.us/05-boys-premier/">05 Boys Premier</a></li>
+	<li id="menu-item-3824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3824"><a href="http://www.fysc.us/04-boys-elite/">04 Boys Elite</a></li>
+	<li id="menu-item-3823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3823"><a href="http://www.fysc.us/04-boys-premier/">04 Boys Premier</a></li>
+	<li id="menu-item-3822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3822"><a href="http://www.fysc.us/04-boys-white/">04 Boys White</a></li>
+	<li id="menu-item-2880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2880"><a href="http://www.fysc.us/03-boys-elite-black/">03 Boys Elite Black</a></li>
+	<li id="menu-item-3825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3825"><a href="http://www.fysc.us/03-boys-premier/">03 Boys Premier</a></li>
+	<li id="menu-item-1956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1956"><a href="http://www.fysc.us/03-boys-white/">03 Boys White</a></li>
+	<li id="menu-item-1959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1959"><a href="http://www.fysc.us/02-boys-black/">02 Boys Black</a></li>
+	<li id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1960"><a href="http://www.fysc.us/02-boys-white/">02 Boys White</a></li>
+	<li id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1961"><a href="http://www.fysc.us/02-boys-red/">02 Boys Red</a></li>
+	<li id="menu-item-1964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1964"><a href="http://www.fysc.us/01-boys-black/">01 Boys Black</a></li>
+	<li id="menu-item-1966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1966"><a href="http://www.fysc.us/00-boys-black/">00 Boys Black</a></li>
+	<li id="menu-item-3819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819"><a href="http://www.fysc.us/00-boys-white/">00 Boys White</a></li>
+	<li id="menu-item-1968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1968"><a href="http://www.fysc.us/99-boys-black/">99 Boys Black</a></li>
+	<li id="menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1969"><a href="http://www.fysc.us/99-boys-white/">99 Boys White</a></li>
+	<li id="menu-item-1971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1971"><a href="http://www.fysc.us/98-boys-black/">98 Boys Black</a></li>
+	<li id="menu-item-3818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818"><a href="http://www.fysc.us/97-boys-elite/">97 Boys Elite</a></li>
+	<li id="menu-item-3817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817"><a href="http://www.fysc.us/97-boys-premier/">97 Boys Premier</a></li>
+</ul>
+</li>
+<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1923"><a href="http://www.fysc.us/schedules/">Schedules</a>
+<ul class="sub-menu">
+	<li id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953"><a href="http://www.fysc.us/comp-training-schedule/">Comp Training Schedule</a></li>
+</ul>
+</li>
+<li id="menu-item-1946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1946"><a href="http://www.fysc.us/camps-clinics/">Camps</a></li>
+<li id="menu-item-4063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4063"><a href="http://www.fysc.us/frequently-asked-questions/">FAQ</a></li>
+</ul></div><select id="drop-nav"><option value="">Select a page...</option> id="menu-item-1919"><option value="http://www.fysc.us">Home</option></option>
+ id="menu-item-1920"><option value="http://www.fysc.us/129-2/">About</option> id="menu-item-3037"><option value="http://www.fysc.us/ltd/">&nbsp;&nbsp;&nbsp;&nbsp;FYSC Long Term Development Program</option></option>
+ id="menu-item-1921"><option value="http://www.fysc.us/staff/">&nbsp;&nbsp;&nbsp;&nbsp;Staff</option></option>
+ id="menu-item-1922"><option value="http://www.fysc.us/contact-us/">&nbsp;&nbsp;&nbsp;&nbsp;Contact Us</option></option>
+ id="menu-item-1925"><option value="http://www.fysc.us/financial-aid/">&nbsp;&nbsp;&nbsp;&nbsp;Financial Aid</option></option>
+ id="menu-item-3087"><option value="http://www.fysc.us/payments/">&nbsp;&nbsp;&nbsp;&nbsp;Payments</option></option>
+ id="menu-item-1928"><option value="http://www.fysc.us/refund-information/">&nbsp;&nbsp;&nbsp;&nbsp;Refund Information</option></option>
+ id="menu-item-1930"><option value="http://www.fysc.us/privacy-policy/">&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy</option></option>
+ id="menu-item-1931"><option value="http://www.fysc.us/maps-and-fields/">&nbsp;&nbsp;&nbsp;&nbsp;Maps and Fields</option></option>
+ id="menu-item-1932"><option value="http://www.fysc.us/mission-statement/">&nbsp;&nbsp;&nbsp;&nbsp;Mission Statement</option></option>
+ id="menu-item-1933"><option value="http://www.fysc.us/forms-documents/">&nbsp;&nbsp;&nbsp;&nbsp;Forms, Documents &#038; Policies</option></option>
+ id="menu-item-1934"><option value="http://www.fysc.us/vision-statement/">&nbsp;&nbsp;&nbsp;&nbsp;Vision Statement</option></option>
+ id="menu-item-1935"><option value="http://www.fysc.us/referees/">&nbsp;&nbsp;&nbsp;&nbsp;Referees</option></option>
+ id="menu-item-1936"><option value="http://www.fysc.us/copyrights-trademarks-logo-usage-guidelines/">&nbsp;&nbsp;&nbsp;&nbsp;Copyrights, Trademarks &#038; Logo Usage Guidelines</option></option>
+ id="menu-item-3433"><option value="http://www.fysc.us/non-profit-board/">&nbsp;&nbsp;&nbsp;&nbsp;FYSL Non-Profit Board</option></option>
+</option>
+ id="menu-item-1937"><option value="https://fysc.demosphere-secure.com/_registration">Registration</option></option>
+ id="menu-item-1977"><option value="http://www.fysc.us/store/">Store</option> id="menu-item-4342"><option value="http://www.fysc.us/camps/">&nbsp;&nbsp;&nbsp;&nbsp;Camps Information</option></option>
+ id="menu-item-4332"><option value="http://www.fysc.us/product-category/camps/summer-camps/">&nbsp;&nbsp;&nbsp;&nbsp;Summer Camps &#8211; Select A Week</option> id="menu-item-4333"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-1-june-15th-19th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 1: June 15th-19th</option></option>
+ id="menu-item-4334"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-2-june-22nd-26th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 2: June 22nd-26th</option></option>
+ id="menu-item-4335"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-3-july-6th-10th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 3: July 6th-10th</option></option>
+ id="menu-item-4336"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-4-july-13th-17th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 4: July 13th-17th</option></option>
+ id="menu-item-4337"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-5-july-20th-24th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 5: July 20th-24th</option></option>
+ id="menu-item-4338"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-6-july-27th-31st/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 6: July 27th-31st</option></option>
+ id="menu-item-4339"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-7-aug-3rd-7th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 7: Aug 3rd-7th</option></option>
+ id="menu-item-4340"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-8-aug-10th-14th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 8: Aug 10th-14th</option></option>
+ id="menu-item-4341"><option value="http://www.fysc.us/product-category/camps/summer-camps/camp-9-aug-17th-21st/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 9: Aug 17th-21st</option></option>
+</option>
+ id="menu-item-4232"><option value="http://www.fysc.us/product-category/camps/april-6th-10th/">&nbsp;&nbsp;&nbsp;&nbsp;Spring Break Camp &#8211; April 6th – 10th</option> id="menu-item-4236"><option value="http://www.fysc.us/product/mini-kickers-u4-u6-900am-1030am/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mini-Kickers (U4-U6): 9:00AM-10:30AM</option></option>
+ id="menu-item-4235"><option value="http://www.fysc.us/product/half-day-u7-u17-900am-1200pm/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Half-Day (U7-U17): 9:00AM-12:00PM</option></option>
+ id="menu-item-4234"><option value="http://www.fysc.us/product/half-day-u7-u17-100pm-400pm/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Half-Day (U7-U17): 1:00PM-4:00PM</option></option>
+ id="menu-item-4233"><option value="http://www.fysc.us/product/full-day-u7-u17-900am-400pm/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-Day (U7-U17): 9:00AM-4:00PM</option></option>
+</option>
+ id="menu-item-1978"><option value="http://www.fysc.us/product-category/t-shirts/">&nbsp;&nbsp;&nbsp;&nbsp;T-Shirts</option></option>
+ id="menu-item-1979"><option value="http://www.fysc.us/product-category/hoodies/">&nbsp;&nbsp;&nbsp;&nbsp;Hoodies</option></option>
+ id="menu-item-1980"><option value="http://www.fysc.us/product-category/balls/">&nbsp;&nbsp;&nbsp;&nbsp;Balls</option></option>
+ id="menu-item-1981"><option value="http://www.fysc.us/product-category/uniforms/">&nbsp;&nbsp;&nbsp;&nbsp;Uniforms</option></option>
+</option>
+ id="menu-item-1938"><option value="http://www.fysc.us/u4-u8-adp/">Recreation</option> id="menu-item-3896"><option value="http://www.fysc.us/u4-u5/">&nbsp;&nbsp;&nbsp;&nbsp;U4 &#8211; U5 ADP Spring 2015</option></option>
+ id="menu-item-3895"><option value="http://www.fysc.us/u6-spring-adp/">&nbsp;&nbsp;&nbsp;&nbsp;U6 ADP Spring 2015</option></option>
+ id="menu-item-3894"><option value="http://www.fysc.us/u7-u8-spring-adp/">&nbsp;&nbsp;&nbsp;&nbsp;U7 &#8211; U8 ADP Spring 2015</option></option>
+ id="menu-item-3893"><option value="http://www.fysc.us/u10-adp-spring-2015/">&nbsp;&nbsp;&nbsp;&nbsp;U10 ADP Spring 2015</option></option>
+ id="menu-item-4039"><option value="http://www.fysc.us/u12-u14-recreation/">&nbsp;&nbsp;&nbsp;&nbsp;U12-U19 Spring 2015 Recreation</option></option>
+ id="menu-item-3206"><option value="http://www.fysc.us/adp-coaches-library/">&nbsp;&nbsp;&nbsp;&nbsp;ADP Coaches Library</option></option>
+</option>
+ id="menu-item-1948"><option value="http://www.fysc.us/tournaments/">Tournaments</option> id="menu-item-1949"><option value="http://www.fysc.us/silicon-valley-soccer-showcase/">&nbsp;&nbsp;&nbsp;&nbsp;Silicon Valley Soccer Showcase &#8211; Aug 30 &#8211; Sep 1</option></option>
+ id="menu-item-1950"><option value="http://www.fysc.us/kot/">&nbsp;&nbsp;&nbsp;&nbsp;Kick or Treat &#8211; Oct 25 &#8211; 26</option></option>
+ id="menu-item-1951"><option value="http://www.fysc.us/tournamentofchampions/">&nbsp;&nbsp;&nbsp;&nbsp;Tournament of Champions &#8211; Nov 22 &#8211; 23</option></option>
+</option>
+ id="menu-item-4019"><option value="http://www.fysc.us/education/">Education</option> id="menu-item-4027"><option value="http://www.fysc.us/player-education/">&nbsp;&nbsp;&nbsp;&nbsp;Player Education</option></option>
+ id="menu-item-4022"><option value="http://www.fysc.us/parent-education/">&nbsp;&nbsp;&nbsp;&nbsp;Parent Education</option></option>
+ id="menu-item-4032"><option value="http://www.fysc.us/coaches/">&nbsp;&nbsp;&nbsp;&nbsp;Coach Education</option></option>
+</option>
+ id="menu-item-3402"><option value="http://www.fysc.us/comp-girls/">Comp Girls</option> id="menu-item-3828"><option value="http://www.fysc.us/05-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;05 Girls Black</option></option>
+ id="menu-item-3815"><option value="http://www.fysc.us/04-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;04 Girls Black</option></option>
+ id="menu-item-1957"><option value="http://www.fysc.us/03-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;03 Girls Black</option></option>
+ id="menu-item-1958"><option value="http://www.fysc.us/03-girls-white/">&nbsp;&nbsp;&nbsp;&nbsp;03 Girls White</option></option>
+ id="menu-item-1962"><option value="http://www.fysc.us/02-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;02 Girls Black</option></option>
+ id="menu-item-1965"><option value="http://www.fysc.us/01-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;01 Girls Black</option></option>
+ id="menu-item-1967"><option value="http://www.fysc.us/00-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;00 Girls Black</option></option>
+ id="menu-item-1970"><option value="http://www.fysc.us/99-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;99 Girls Black</option></option>
+ id="menu-item-1973"><option value="http://www.fysc.us/97-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;97 Girls Black</option></option>
+ id="menu-item-3816"><option value="http://www.fysc.us/95-girls-black/">&nbsp;&nbsp;&nbsp;&nbsp;95 Girls Black</option></option>
+</option>
+ id="menu-item-1952"><option value="http://www.fysc.us/comp/">Comp Boys</option> id="menu-item-3821"><option value="http://www.fysc.us/05-boys-elite/">&nbsp;&nbsp;&nbsp;&nbsp;05 Boys Elite</option></option>
+ id="menu-item-3820"><option value="http://www.fysc.us/05-boys-premier/">&nbsp;&nbsp;&nbsp;&nbsp;05 Boys Premier</option></option>
+ id="menu-item-3824"><option value="http://www.fysc.us/04-boys-elite/">&nbsp;&nbsp;&nbsp;&nbsp;04 Boys Elite</option></option>
+ id="menu-item-3823"><option value="http://www.fysc.us/04-boys-premier/">&nbsp;&nbsp;&nbsp;&nbsp;04 Boys Premier</option></option>
+ id="menu-item-3822"><option value="http://www.fysc.us/04-boys-white/">&nbsp;&nbsp;&nbsp;&nbsp;04 Boys White</option></option>
+ id="menu-item-2880"><option value="http://www.fysc.us/03-boys-elite-black/">&nbsp;&nbsp;&nbsp;&nbsp;03 Boys Elite Black</option></option>
+ id="menu-item-3825"><option value="http://www.fysc.us/03-boys-premier/">&nbsp;&nbsp;&nbsp;&nbsp;03 Boys Premier</option></option>
+ id="menu-item-1956"><option value="http://www.fysc.us/03-boys-white/">&nbsp;&nbsp;&nbsp;&nbsp;03 Boys White</option></option>
+ id="menu-item-1959"><option value="http://www.fysc.us/02-boys-black/">&nbsp;&nbsp;&nbsp;&nbsp;02 Boys Black</option></option>
+ id="menu-item-1960"><option value="http://www.fysc.us/02-boys-white/">&nbsp;&nbsp;&nbsp;&nbsp;02 Boys White</option></option>
+ id="menu-item-1961"><option value="http://www.fysc.us/02-boys-red/">&nbsp;&nbsp;&nbsp;&nbsp;02 Boys Red</option></option>
+ id="menu-item-1964"><option value="http://www.fysc.us/01-boys-black/">&nbsp;&nbsp;&nbsp;&nbsp;01 Boys Black</option></option>
+ id="menu-item-1966"><option value="http://www.fysc.us/00-boys-black/">&nbsp;&nbsp;&nbsp;&nbsp;00 Boys Black</option></option>
+ id="menu-item-3819"><option value="http://www.fysc.us/00-boys-white/">&nbsp;&nbsp;&nbsp;&nbsp;00 Boys White</option></option>
+ id="menu-item-1968"><option value="http://www.fysc.us/99-boys-black/">&nbsp;&nbsp;&nbsp;&nbsp;99 Boys Black</option></option>
+ id="menu-item-1969"><option value="http://www.fysc.us/99-boys-white/">&nbsp;&nbsp;&nbsp;&nbsp;99 Boys White</option></option>
+ id="menu-item-1971"><option value="http://www.fysc.us/98-boys-black/">&nbsp;&nbsp;&nbsp;&nbsp;98 Boys Black</option></option>
+ id="menu-item-3818"><option value="http://www.fysc.us/97-boys-elite/">&nbsp;&nbsp;&nbsp;&nbsp;97 Boys Elite</option></option>
+ id="menu-item-3817"><option value="http://www.fysc.us/97-boys-premier/">&nbsp;&nbsp;&nbsp;&nbsp;97 Boys Premier</option></option>
+</option>
+ id="menu-item-1923"><option value="http://www.fysc.us/schedules/">Schedules</option> id="menu-item-1953"><option value="http://www.fysc.us/comp-training-schedule/">&nbsp;&nbsp;&nbsp;&nbsp;Comp Training Schedule</option></option>
+</option>
+ id="menu-item-1946"><option value="http://www.fysc.us/camps-clinics/">Camps</option></option>
+ id="menu-item-4063"><option value="http://www.fysc.us/frequently-asked-questions/">FAQ</option></option>
+</select>			</nav>
+	<div id="main" class="clearfix"><div class="featured-rotator image-rotator">
+			<div class="main_image"><ul><li data-slide="0"><a href="http://www.fysc.us/greivin-pacheco-world-cup-star/"><img width="640" height="360" src="http://www.fysc.us/wp-content/uploads/2015/03/Greivin-Costa-Rica-640x360.jpg" class="attachment-featured-image wp-post-image" alt="Greivin Costa Rica" title="Greivin Pacheco, World Cup Star" /></a><div class="desc">
+					<div class="block">
+						<h3 class="ellipsis"><a href="http://www.fysc.us/greivin-pacheco-world-cup-star/">Greivin Pacheco, World Cup Star</a></h3><time><a href="http://www.fysc.us/greivin-pacheco-world-cup-star/">March 25, 2015</a></time></div>
+				</div>
+				</li><li data-slide="1"><a href="http://www.fysc.us/fysc-sports-nutrition/"><img width="610" height="360" src="http://www.fysc.us/wp-content/uploads/2015/03/Nutrition-Post-610x360.jpg" class="attachment-featured-image wp-post-image" alt="Nutrition Post" title="FYSC Sports Nutrition" /></a><div class="desc">
+					<div class="block">
+						<h3 class="ellipsis"><a href="http://www.fysc.us/fysc-sports-nutrition/">FYSC Sports Nutrition</a></h3><time><a href="http://www.fysc.us/fysc-sports-nutrition/">March 24, 2015</a></time></div>
+				</div>
+				</li><li data-slide="2"><a href="http://www.fysc.us/fysc-competitive-parent-meeting-schedule/"><img width="640" height="360" src="http://www.fysc.us/wp-content/uploads/2015/02/Parent-Meeting-Schedule-640x360.jpg" class="attachment-featured-image wp-post-image" alt="Parent Meeting Schedule" title="FYSC Competitive Parent Meeting Schedule" /></a><div class="desc">
+					<div class="block">
+						<h3 class="ellipsis"><a href="http://www.fysc.us/fysc-competitive-parent-meeting-schedule/">FYSC Competitive Parent Meeting Schedule</a></h3><time><a href="http://www.fysc.us/fysc-competitive-parent-meeting-schedule/">February 8, 2015</a></time></div>
+				</div>
+				</li><li data-slide="3"><a href="http://www.fysc.us/fysc-evaluation-results/"><img width="632" height="360" src="http://www.fysc.us/wp-content/uploads/2015/02/Evaluation-Results-632x360.jpg" class="attachment-featured-image wp-post-image" alt="Evaluation Results" title="FYSC Evaluation Results" /></a><div class="desc">
+					<div class="block">
+						<h3 class="ellipsis"><a href="http://www.fysc.us/fysc-evaluation-results/">FYSC Evaluation Results</a></h3><time><a href="http://www.fysc.us/fysc-evaluation-results/">February 8, 2015</a></time></div>
+				</div>
+				</li><li data-slide="4"><a href="http://www.fysc.us/fysc-recreation-registration-open/"><img width="640" height="360" src="http://www.fysc.us/wp-content/uploads/2015/01/Registration-Open-640x360.jpg" class="attachment-featured-image wp-post-image" alt="Registration Open" title="FYSC Recreation Registration &#8211; Open" /></a><div class="desc">
+					<div class="block">
+						<h3 class="ellipsis"><a href="http://www.fysc.us/fysc-recreation-registration-open/">FYSC Recreation Registration &#8211; Open</a></h3><time><a href="http://www.fysc.us/fysc-recreation-registration-open/">February 8, 2015</a></time></div>
+				</div>
+				</li></ul></div><div class="image_thumb"><ul><li data-permalink="http://www.fysc.us/greivin-pacheco-world-cup-star/" data-slide="0">
+						<a><img width="50" height="50" src="http://www.fysc.us/wp-content/uploads/2015/03/Greivin-Costa-Rica-50x50.jpg" class="attachment-side-image wp-post-image" alt="Greivin Costa Rica" title="Greivin Pacheco, World Cup Star" /></a> 
+						<div class="block">
+							<h3 class="ellipsis">Greivin Pacheco, World Cup Star</h3><time>March 25, 2015</time></div><div class="more"><a href="http://www.fysc.us/greivin-pacheco-world-cup-star/">Read More</a></div>
+					</li><li data-permalink="http://www.fysc.us/fysc-sports-nutrition/" data-slide="1">
+						<a><img width="50" height="50" src="http://www.fysc.us/wp-content/uploads/2015/03/Nutrition-Post-50x50.jpg" class="attachment-side-image wp-post-image" alt="Nutrition Post" title="FYSC Sports Nutrition" /></a> 
+						<div class="block">
+							<h3 class="ellipsis">FYSC Sports Nutrition</h3><time>March 24, 2015</time></div><div class="more"><a href="http://www.fysc.us/fysc-sports-nutrition/">Read More</a></div>
+					</li><li data-permalink="http://www.fysc.us/fysc-competitive-parent-meeting-schedule/" data-slide="2">
+						<a><img width="50" height="50" src="http://www.fysc.us/wp-content/uploads/2015/02/Parent-Meeting-Schedule-50x50.jpg" class="attachment-side-image wp-post-image" alt="Parent Meeting Schedule" title="FYSC Competitive Parent Meeting Schedule" /></a> 
+						<div class="block">
+							<h3 class="ellipsis">FYSC Competitive Parent Meeting Schedule</h3><time>February 8, 2015</time></div><div class="more"><a href="http://www.fysc.us/fysc-competitive-parent-meeting-schedule/">Read More</a></div>
+					</li><li data-permalink="http://www.fysc.us/fysc-evaluation-results/" data-slide="3">
+						<a><img width="50" height="50" src="http://www.fysc.us/wp-content/uploads/2015/02/Evaluation-Results-50x50.jpg" class="attachment-side-image wp-post-image" alt="Evaluation Results" title="FYSC Evaluation Results" /></a> 
+						<div class="block">
+							<h3 class="ellipsis">FYSC Evaluation Results</h3><time>February 8, 2015</time></div><div class="more"><a href="http://www.fysc.us/fysc-evaluation-results/">Read More</a></div>
+					</li><li data-permalink="http://www.fysc.us/fysc-recreation-registration-open/" data-slide="4">
+						<a><img width="50" height="50" src="http://www.fysc.us/wp-content/uploads/2015/01/Registration-Open-50x50.jpg" class="attachment-side-image wp-post-image" alt="Registration Open" title="FYSC Recreation Registration &#8211; Open" /></a> 
+						<div class="block">
+							<h3 class="ellipsis">FYSC Recreation Registration &#8211; Open</h3><time>February 8, 2015</time></div><div class="more"><a href="http://www.fysc.us/fysc-recreation-registration-open/">Read More</a></div>
+					</li></ul> 
+			</div>
+		</div>
+		<script type="text/javascript">
+			(function($) {
+				$('.image-rotator').rotator({
+					'delay' : 4000
+				});
+			})(jQuery);
+		</script><div id="container">
+	<div id="content" role="main">
+		<ul class="home-widgets content-left">
+			<li id="text-7" class="widget-container widget_text">			<div class="textwidget"><iframe width="630" height="355" src="//www.youtube.com/embed/til3rpKIE5U" frameborder="0" allowfullscreen></iframe></div>
+		</li>		</ul>
+		<ul class="home-widgets content-right">
+					</ul>
+		<div class="clear"></div>
+		<ul class="home-widgets">
+					</ul>
+	</div><!-- #content -->
+</div><!-- #container -->
+
+<div id="sidebar">
+	<div id="primary" class="widget-area" role="complementary">
+		<ul class="xoxo">
+			<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://www.fysc.us/">
+	<ul>
+		<li class="query"><input type="text" value="" name="s" id="s" /></li>
+		<li><input type="submit" id="searchsubmit" value="Search" /></li>
+	</ul>
+</form></li><li id="blog_subscription-2" class="widget-container jetpack_subscription_widget"><h3 class="widget-title"><label for="subscribe-field">Subscribe to FYSC via Email</label></h3>
+		<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+			<p id="subscribe-text">Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+			<p id="subscribe-email">
+				<label id="jetpack-subscribe-label" for="email">
+					Email Address				</label>
+				<input type="email" name="email" value="" id="subscribe-field" placeholder="Email Address" />
+			</p>
+
+			<p id="subscribe-submit">
+				<input type="hidden" name="action" value="subscribe" />
+				<input type="hidden" name="source" value="http://www.fysc.us/" />
+				<input type="hidden" name="sub-type" value="widget" />
+				<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+								<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+			</p>
+		</form>
+
+		<script>
+			( function( d ) {
+				var i = d.createElement('input');
+				if ( 'placeholder' in i && d.getElementById( 'jetpack-subscribe-label' ).length > 0 ) {
+					d.getElementById( 'jetpack-subscribe-label' ).style.visibility = 'hidden';
+				}
+			} ) ( document );
+		</script>
+
+		
+</li><li id="ai1ec_agenda_widget-2" class="widget-container widget_ai1ec_agenda_widget">
+
+	<h3 class="widget-title">Upcoming Events</h3>
+
+<div class="timely ai1ec-agenda-widget-view ai1ec-clearfix">
+
+			<p class="ai1ec-no-results">
+			There are no upcoming events.
+		</p>
+	 
+			<p>
+							<a class="ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right
+					ai1ec-calendar-link"
+					href="http&#x3A;&#x2F;&#x2F;www.fysc.us&#x2F;calendar&#x2F;">
+					View Calendar
+					<i class="ai1ec-fa ai1ec-fa-arrow-right"></i>
+				</a>
+			
+							<div class="ai1ec-subscribe-container ai1ec-btn-group ai1ec-pull-left
+		ai1ec-tooltip-trigger" data-placement="left" title="Subscribe in your personal calendar">
+	<button
+		type="button"
+		class="ai1ec-btn ai1ec-btn-default ai1ec-btn-sm ai1ec-dropdown-toggle
+			ai1ec-subscribe ai1ec-btn-xs"
+			data-toggle="ai1ec-dropdown">
+		<i class="ai1ec-fa ai1ec-icon-rss ai1ec-fa-lg ai1ec-fa-fw"></i>
+		<span class="ai1ec-hidden-xs">
+			<span class="ai1ec-hidden-xs">
+							Add
+						</span>
+			<span class="ai1ec-caret"></span>
+		</span>
+	</button>
+		<ul class="ai1ec-dropdown-menu ai1ec-pull-right" role="menu">
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="http&#x3A;&#x2F;&#x2F;www.fysc.us&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events"
+			   title="Copy this URL for your own Timely calendar or click to add to your rich-text calendar" >
+				<i class="ai1ec-fa ai1ec-fa-lg ai1ec-fa-fw ai1ec-icon-timely"></i>
+				Add to Timely Calendar
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="http://www.google.com/calendar/render?cid=http&#x25;3A&#x25;2F&#x25;2Fwww.fysc.us&#x25;2F&#x25;3Fplugin&#x25;3Dall-in-one-event-calendar&#x25;26controller&#x25;3Dai1ec_exporter_controller&#x25;26action&#x25;3Dexport_events"
+			   title="Subscribe to this calendar in your Google Calendar" >
+				<i class="ai1ec-fa ai1ec-icon-google ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Add to Google
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="webcal&#x3A;&#x2F;&#x2F;www.fysc.us&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true"
+			   title="Subscribe to this calendar in MS Outlook" >
+				<i class="ai1ec-fa ai1ec-icon-windows ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Add to Outlook
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="webcal&#x3A;&#x2F;&#x2F;www.fysc.us&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true"
+			   title="Subscribe to this calendar in Apple Calendar/iCal" >
+				<i class="ai1ec-fa ai1ec-icon-apple ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Add to Apple Calendar
+			</a>
+		</li>
+		<li>
+						<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   data-placement="left"
+			   href="http&#x3A;&#x2F;&#x2F;www.fysc.us&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true"
+			   title="Subscribe to this calendar in another plain-text calendar" >
+				<i class="ai1ec-fa ai1ec-icon-calendar ai1ec-fa-fw"></i>
+				Add to other calendar
+			</a>
+		</li>
+	</ul>
+</div>
+					</p>
+	 
+</div>
+
+</li>
+		</ul>
+	</div><!-- #primary .widget-area -->
+</div><!-- #sidebar -->	<div id="sponsors"><ul class="sponsors"><li><a href="http://www.cargill.com/corporate-responsibility/environmental-sustainability/innovations-case-studies/san-francisco-bay-salt/community-commitment/index.jsp" target="_blank"><img width="200" height="90" src="http://www.fysc.us/wp-content/uploads/2013/02/carlogo.jpg" class="attachment-sponsor-footer wp-post-image" alt="Cargill" title="Cargill" /></a></li><li><a href="http://www.fysc.us/sponsor/adidas/"><img width="135" height="90" src="http://www.fysc.us/wp-content/uploads/2013/03/adidas.png" class="attachment-sponsor-footer wp-post-image" alt="Adidas" title="Adidas" /></a></li><li><a href="http://www.fysc.us/sponsor/norcal-premier-soccer/"><img width="120" height="90" src="http://www.fysc.us/wp-content/uploads/2013/03/NorCal-logo-12-15-11-e1362461690134.png" class="attachment-sponsor-footer wp-post-image" alt="Norcal Premier Soccer" title="Norcal Premier Soccer" /></a></li></ul></div>
+	</div><!-- #main -->
+	<div id="footer-widgets" role="contentinfo" class="clearfix">
+		<div id="colophon">
+			<div id="footer-widget-area" role="complementary">
+	<div id="footer-logo" class="widget-area"></div>
+						<div id="first" class="widget-area">
+				<ul class="xoxo">
+							<li id="recent-posts-3" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.fysc.us/greivin-pacheco-world-cup-star/">Greivin Pacheco, World Cup Star</a>
+						</li>
+					<li>
+				<a href="http://www.fysc.us/fysc-sports-nutrition/">FYSC Sports Nutrition</a>
+						</li>
+					<li>
+				<a href="http://www.fysc.us/fysc-competitive-parent-meeting-schedule/">FYSC Competitive Parent Meeting Schedule</a>
+						</li>
+				</ul>
+		</li>				</ul>
+			</div><!-- #first .widget-area -->
+				
+					<div id="second" class="widget-area">
+				<ul class="xoxo">
+					<li id="text-6" class="widget-container widget_text"><h3 class="widget-title">FYSC</h3>			<div class="textwidget"><p>44100 Old Warm Springs Blvd<br />
+Fremont, CA 94538<br />
+United States</p>
+</div>
+		</li>				</ul>
+			</div><!-- #second .widget-area -->
+			</div><!-- #footer-widget-area -->
+		</div><!-- #colophon -->
+	</div><!-- #footer-widgets -->
+	
+</div><!-- #wrapper -->
+<footer class="clearfix">
+	<div class="left">&copy; 2015 </div>
+	<div class="right">Website Development by <a href="http://www.merseysidewebdesign.com" target="_blank">Merseyside Web Design</a></div>
+	<ul id="social">
+		<li class="facebook"><a href="https://www.facebook.com/missionvalleyunitedsoccerclub" title="Facebook" target="_blank">Facebook</a></li>		<li class="twitter"><a href="http://twitter.com/fysc" title="Twitter" target="_blank">Twitter</a></li>								<li class="youtube"><a href="http://www.youtube.com/user/fyscsoccer" title="YouTube" target="_blank">YouTube</a></li>																																											</ul>
+</footer>
+	
+	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='adminbar-stylesheet-css'  href='http://www.fysc.us/wp-content/themes/footballclub-2.6.1/css/adminbar.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.fysc.us\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/ui/jquery.ui.slider.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=4.0.1'></script>
+<script type='text/javascript' src='//www.fysc.us/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.fysc.us\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.fysc.us\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.fysc.us/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='//www.fysc.us/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.fysc.us/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201513'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.0.1'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?sensor=false&#038;ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"0","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","v":"3.1.0.1","ajax_url":"http:\/\/www.fysc.us\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fysc.us/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.1.0.1'></script>
+<script type='text/javascript' src='http://www.fysc.us/?ai1ec_render_js=common_frontend&#038;is_backend=false&#038;ver=2.1.5'></script>
+
+	<script src="http://stats.wp.com/e-201513.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2',blog:'47614141',post:'0',tz:'-7'});
+	var load_cmc = function(){linktracker_init(47614141,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+(function($) {
+	// drop nav
+	$('#drop-nav').change(function() {
+		window.location = $(this).val();
+	});
+	// fancybox all image links
+	$('a').each(function() {
+		var self = this;
+		var file =  $(self).attr('href');
+		if (file) {
+			var extension = file.substr( (file.lastIndexOf('.') +1) );
+			switch(extension) {
+				case 'jpg':
+				case 'png':
+				case 'gif':
+					$(self).fancybox({
+						'overlayColor' : '#fff'
+					});
+			}
+		}
+	});
+})(jQuery);
+</script>
+</body>
+</html>

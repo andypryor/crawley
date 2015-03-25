@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "Templates/2521-2col.dwt" -->
+
+<head>
+<!-- #BeginEditable "title" -->
+<title>NOSA Soccer Home Page</title>
+<!-- #EndEditable -->
+<!-- #BeginEditable "description" -->
+<meta name="description" content="NOSA Soccer - Northwestern Oklahoma Soccer Association, youth soccer in Woodward and surrounding areas" />
+<!-- #EndEditable -->
+<!-- #BeginEditable "keywords" -->
+<meta name="keywords" content="soccer,youth,woodward,oklahoma,recreation,competitive" />
+<!-- #EndEditable -->
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<script type="text/javascript" src="tFader.js"></script>
+<script type="text/javascript">
+<!--
+window.onload=show;
+function show(id) {
+var d = document.getElementById(id);
+	for (var i = 1; i<=10; i++) {
+		if (document.getElementById('smenu'+i)) {document.getElementById('smenu'+i).style.display='none';}
+	}
+if (d) {d.style.display='block';}
+}
+//-->
+</script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="unitpngfix.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="rtbstyle.css" />
+</head>
+
+<body>
+
+<div id="wrapper">
+<a name="top"></a>
+<div id="header">
+<div id="menu">
+   <!--webbot bot="Include" u-include="Includes/mainnav.htm" tag="BODY" startspan -->
+	<dl>
+		<dt onmouseover="show();"><a href="index.htm">Home</a></dt>
+	</dl>
+	
+	
+	
+	<dl>			
+		<dt onmouseover="show('smenu1');">
+		<a href="nosa-soccer-schedules.htm">Schedules</a></dt>
+         <dd id="smenu1" onmouseover="show('smenu1');" onmouseout="show('');">
+				<ul>
+					<li><a href="nosa-soccer-results-standings.htm">Results &amp; 
+					Standings</a></li>
+					
+					
+				</ul>
+			</dd>
+	</dl>
+	
+		
+	
+	
+	
+	<dl>	
+		<dt onmouseover="show('smenu2');"><a href="nosa-soccer-board.htm">
+		NOSA Board</a></dt>
+         <dd id="smenu2" onmouseover="show('smenu2');" onmouseout="show('');">
+				<ul>
+					<li><a href="nosa-soccer-history.htm">NOSA History</a></li>
+					<li><a href="nosa-soccer-contact-us.aspx">Contact NOSA</a></li>
+					
+				</ul>
+			</dd>
+		</dl>
+	
+<dl>
+		<dt onmouseover="show();"><a href="nosa-soccer-traveling-teams.htm">
+		Traveling Teams</a></dt>
+	</dl>	
+	
+<dl>
+		<dt onmouseover="show();"><a href="nosa-soccer-rules.htm">Soccer 
+		Rules</a></dt>
+	</dl>
+	
+	
+<!--webbot bot="Include" endspan i-checksum="40736" -->
+</div>
+<img alt="" src="images/nosa-header.jpg" width="900" height="200" /></div>
+
+<div id="content">
+<!-- #BeginEditable "content" -->
+  <h1>NOSA Soccer Home Page</h1>
+  <hr />
+	<h2>Spring 2015 Season March 7th - April 25th</h2>
+	<p>&nbsp;</p>
+	<h3>Follow us on Twitter!<img alt="Twitter - NOSA Soccer on Twitter" class="imageleft-noborder" height="55" src="images/twitterlogo1.jpg" width="150" /></h3>
+	<p>Follow NOSA Soccer on Twitter for up to the minute information on 
+	scheduling, weather, registration and much more. Go to
+	<a href="http://www.twitter.com">Twitter</a> and sign up, then follow
+	<a href="http://twitter.com/nosasoccer">NOSASoccer</a>.</p>
+	<p>&nbsp;</p>
+	<h3>Important NOSA Spring 2015 Dates:</h3>
+	<ul>
+		<li><a href="http://www.active.com/event_detail.cfm?event_id=2136669">Registration open online</a> or at Competition 
+		Sports 803 Main.</li>
+		<li>Sign up ends </li>
+		<li>Sign ups after deadline will be $40 per child</li>
+		<li>Coaches Meeting TBA at Competition Sports</li>
+		<li>First game will be March 7th&nbsp; </li>
+		
+		<li>Spring Season ends April 25th</li>
+	</ul>
+	<p>NOSA offers Spring and Fall soccer leagues.&nbsp; Teams start at U-5 and go up to U-19.  These teams are made up 
+		of all boys and all girls teams. We still have a few participating teams from some of 
+		the towns around Woodward who have mixed (co-ed) teams, due to the 
+		numbers of players. 
+		</p>
+		<h3>Player Registration Fees:</h3>
+		<p>There is a $30.00 fee to play at NOSA per season, 
+		per player. 
+		</p>
+	<p class="italic">NOSA will grant assistance to any player who cannot 
+		afford this fee.
+		</p>
+	<h3>Age Groups:<br />
+		</h3>
+  <div>
+   <ul>
+    <li>U-5&nbsp; - 4 years old on 8/1/14</li>
+	   <li>U-6 -&nbsp; 5 years old on 8/1/14</li>
+				<li>U-8 - 6 or 7 years old on 8/1/14</li>
+    <li>U-10 -&nbsp; 8 or 9 years old on 8/1/14</li>
+				<li>U-12 - 10 or 11 years old on 8/1/14</li>
+				<li>U-14 - 12 or 13 years old on 8/1/14</li>
+				<li>U-16 - 14 or 15 years old on 8/1/14</li>
+				<li>U-19 -&nbsp; 16, 17 or 18 years old on 8/1/14</li>
+   </ul>
+   <hr>
+   <h3>&nbsp;</h3>
+<p>
+&nbsp;</p>
+<p>&nbsp;</p>
+
+   <hr>
+  			  <p class="center">
+			  <a href="mailto:sports.competition@att.net?subject=Contact from NOSA website">
+			  <img alt="Competition Sports" height="156" src="images/competition-sports.jpg" width="325" /></a><br />
+			  <a href="mailto:sports.competition@att.net?subject=Contact from NOSA website">
+			  Click to email Competition Sports</a></p>
+  </div>
+  <hr />
+  <h3>NOSA Mission Statement:</h3>
+<p>At the central core of NOSA lies the deep conviction that soccer should be 
+played in a friendly but competitive manner. All parents are urged to adopt this 
+attitude, for it is the foundation of which this Association is headed. It is 
+also the purpose and requirement that all youth participating in the program 
+should be allowed to play at least one-half of every soccer game involving 
+his/her team.</p>
+	<p>&nbsp;</p>
+<!-- #EndEditable -->
+</div>
+<div id="sidebar">
+<div id="photoarea">
+<div id="slideshow">
+<script type="text/javascript">
+	var A_TPL = {
+		'random' : false,
+		'steps' : 30,
+		'transtime': 1.2,
+		'slidetime': 2,
+		'width' : 230,
+		'height': 170,
+		'alt' : '',
+		'css' : ''
+	};
+	// list of images to display
+	var A_ITEMS = [
+		'images/slideshow1.jpg',
+		'images/slideshow2.jpg',
+		'images/slideshow3.jpg', // each image array needs to end with a comma
+		'images/slideshow4.jpg',
+		'images/slideshow5.jpg' // last image array does not end with a comma
+	];
+	// fader initialization	
+	var mySlideShow = new tFader (A_ITEMS, A_TPL);
+</script>
+</div>
+<img alt="" src="images/photobg.jpg" width="260" height="200" /></div>
+<p></p>
+<div class="newsbox"><h4>NOSA News:</h4>
+	<h3><a href="nosa-soccer-schedules.htm">Spring 
+	2015 Schedules Available</a> </h3>
+	<p>
+	<a href="http://www.oksoccer.com/docs/Admins/Risk/Lightning%20Action%20Plan%2014.01.pdf">
+	OSA Lightning Action Plan</a></p>
+	<h4>
+	&nbsp;</h4>
+	
+  </div>
+	<p>&nbsp;</p>
+<!-- #BeginEditable "sidebar" -->
+  
+  <p class="center">&nbsp;</p>
+  <div class="calendar">
+   <script type="text/javascript" src="calendar.js"></script>
+   
+  </div>
+  <p>&nbsp;</p>
+  <div class="newsbox">
+  <h4>Soccer Links:</h4>
+		<ul>
+			<li><a href="http://www.nosasoccermom.blogspot.com/">NOSA Soccer Mom 
+			Blog</a></li>
+		</ul>
+			<p>&nbsp;</p>
+			</div>
+  <p class="center"><br />
+  <div class="newsbox"> 
+	<h4>NOSA Soccer...</h4>
+	<p class="justify">
+	Is a fun and competitive league for children ages 4-16, in which our teams 
+	grow and learn together year to year. Our organization is made up of teams 
+	from Woodward, Seiling, Mooreland and Laverne. All games are played at the 
+	NOSA fields in Woodward on Saturday
+	mornings. <br />
+	<br />
+	The Northwest Oklahoma Soccer Association (NOSA) was formed as a non-profit 
+	organization to support and propagate the game of soccer in Northwest 
+	Oklahoma.&nbsp; NOSA is associated with the Oklahoma Soccer Association
+	(OSA), United States Youth Soccer Association (USYSA) and The Federation 
+	International de Football Association
+	(FIFA). Through these associations NOSA is the officially sanctioned youth 
+	soccer program in Northwest Oklahoma.<br />
+	<br />
+	In 2003 NOSA adopted the official USYSA style of â€œSmall Sidedâ€? games. This 
+	simply means the teams and fields are smaller, and fewer players are on the 
+	field. This gives the players more touches on the ball, more opportunities 
+	to make decisions, and more actual play. Simply put, it makes the game of 
+	soccer a better experience for children. All of our players will be allowed 
+	to play at least one half of every game involving his or her team.<br />
+	</p>
+</div>
+  <br />
+  &nbsp;</p>
+<!-- #EndEditable -->
+</div>
+<div id="footer">
+<!--webbot bot="Include" u-include="Includes/footer.htm" tag="BODY" startspan -->
+<ul>
+<li><a href="index.htm">Home</a>|</li>
+<li><a href="nosa-soccer-contact-us.aspx">Contact Us</a>|</li>
+<li><a href="#top">Top of Page</a></li>
+</ul>
+<p>NOSA Soccer &copy; 2009-2015 | All Rights Reserved |
+<a href="http://www.virtuallyjulie.com">Website by Julie Miller</a> | <a id="spamspoiler_ph1" style="color: #79c77a">Contact the Webmaster</a>
+<script language="JavaScript">
+var userTo = 'webmaster';
+var domainTo = 'nosasoccer.org';
+var userCC = '';
+var domainCC = '';
+var userBCC = '';
+var domainBCC = '';
+var subject = 'NOSA Soccer Website Contact';
+var body = '';
+document.write('<a href=\"mailto:' + escape(userTo) + '@' + escape(domainTo) + '?subject=' + escape(subject) + '\">Contact the Webmaster</a>');
+var ssDiv = document.getElementById("spamspoiler_ph1");
+ssDiv.style.display="none";
+
+</script></p>
+<!--webbot bot="Include" endspan i-checksum="28994" -->
+</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/leftcolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css" /><script src="http://www.thelakelandsoccerclub.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_leftcolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13143" ><li id="mb-75635" class=" cmFirst "><a class="button-text" href="/home.php?layout=306911" style="" target="_top">Home page</a><span class="iefix">&nbsp;</span></li><li id="mb-75648" class="parent  "><span style="" class="button-text">About Us</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75637" class=" cmFirst "><a class="button-text" href="/clubinfo" style="" target="_top">Club Information </a><span class="iefix">&nbsp;</span></li><li id="mb-75639" class="  "><a class="button-text" href="/contacts" style="" target="_top">Contact Information</a><span class="iefix">&nbsp;</span></li><li id="mb-75638" class="  "><a class="button-text" href="/forms" style="" target="_top">Forms</a><span class="iefix">&nbsp;</span></li><li id="mb-75642" class="  cmLast"><a class="button-text" href="/home.php?layout=306923" style="" target="_top">Fields</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75646" class="parent  "><span style="" class="button-text">2014/2015 TRYOUTS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75645" class=" cmFirst "><a class="button-text" href="/tryouts" style="" target="_top">2014/2015 Tryout Dates</a><span class="iefix">&nbsp;</span></li><li id="mb-75647" class="  cmLast"><a class="button-text" href="/feesandpolicies" style="" target="_top">Fees and Tryout Policies</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76942" class="parent  "><span style="" class="button-text">On-line Registration</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75636" class=" cmFirst "><a class="button-text" href="/home.php?layout=306915" style="" target="_top">On-line Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-76941" class="  "><a class="button-text" href="/home.php?layout=310645" style="" target="_top">How to Register</a><span class="iefix">&nbsp;</span></li><li id="mb-76989" class="  cmLast"><a class="button-text" href="http://www.thelakelandsoccerclub.com/sam/registration/reg_list.php" style="" target="_blank">Register Now</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75652" class="  "><a class="button-text" href="/apparel" style="" target="_top">Uniforms & Apparel</a><span class="iefix">&nbsp;</span></li><li id="mb-75649" class="  "><a class="button-text" href="/teams" style="" target="_top">Teams</a><span class="iefix">&nbsp;</span></li><li id="mb-76974" class="parent  "><span style="" class="button-text">Schedules</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75640" class=" cmFirst "><a class="button-text" href="/home.php?layout=306921" style="" target="_top">Schedules</a><span class="iefix">&nbsp;</span></li><li id="mb-76975" class="  "><a class="button-text" href="http://www.wsysad6.org/home.php" style="" target="_blank">District 6</a><span class="iefix">&nbsp;</span></li><li id="mb-76976" class="  cmLast"><a class="button-text" href="http://www.idahoyouthsoccer.org" style="" target="_blank">Northwest League</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75641" class="  "><a class="button-text" href="/home.php?layout=306922" style="" target="_top">Nighthawk Juggling Club</a><span class="iefix">&nbsp;</span></li><li id="mb-75643" class="  "><a class="button-text" href="/fundraisers" style="" target="_top">Team Fundraisers</a><span class="iefix">&nbsp;</span></li><li id="mb-75644" class="  "><a class="button-text" href="/summercamps" style="" target="_top">Summer Camps</a><span class="iefix">&nbsp;</span></li><li id="mb-76977" class="parent  "><span style="" class="button-text">Tournaments</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76978" class=" cmFirst "><a class="button-text" href="http://www.cdasting.com/tournament/hotshot/588485.html" style="" target="_blank">Hot Shot Tournament</a><span class="iefix">&nbsp;</span></li><li id="mb-76979" class="  "><a class="button-text" href="http://www.sandpointsoccer.com/poc" style="" target="_blank">Pend Oreille Cup</a><span class="iefix">&nbsp;</span></li><li id="mb-76980" class="  cmLast"><a class="button-text" href="http://www.idahoyouthsoccer.org/tournaments/statecup.aspx" style="" target="_blank">Idaho State Cup</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77669" class="parent  cmLast"><span style="" class="button-text">Forms</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77688" class=" cmFirst "><a class="button-text" href="/doclib/Lakeland Soccer Club Tryout Form.pdf" style="" target="_blank">Lakeland Soccer Club Tryout Form</a><span class="iefix">&nbsp;</span></li><li id="mb-77691" class="  "><a class="button-text" href="/doclib/PARENT CODE OF CONDUCT.pdf" style="" target="_blank">Parent Code of Conduct</a><span class="iefix">&nbsp;</span></li><li id="mb-77692" class="  "><a class="button-text" href="/doclib/PLAYER CODE OF CONDUCT.pdf" style="" target="_blank">Player Code of Conduct</a><span class="iefix">&nbsp;</span></li><li id="mb-77693" class="  "><a class="button-text" href="/doclib/Fundraiser Agreement Form.pdf" style="" target="_blank">Club Fundraising Agreement</a><span class="iefix">&nbsp;</span></li><li id="mb-77685" class="  "><a class="button-text" href="/doclib/MedicalReleaseForm.pdf" style="" target="_blank">Medical Release Form</a><span class="iefix">&nbsp;</span></li><li id="mb-77687" class="  cmLast"><a class="button-text" href="/doclib/Scholarship Request Form.pdf" style="" target="_blank">Scholarship Application</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Mission Statement					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-size: medium;">The purpose of the Lakeland Soccer Club is to promote soccer as a sport through the development of the children of this community toward good sportsmanship and
+  athletic skill and knowledge in the game of soccer.  Toward that goal the Lakeland Soccer Club shall organize soccer teams, provide training in the sport of soccer, and receive gifts or donations
+  to promote the health, welfare and recreation of the general public through the sport of soccer.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Charitable Contribution Information					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-size: medium;">Lakeland Soccer Club is a not for profit organization under the Internal Revenue Code section 501(c)(3). Contributions to our club are deductible under secion 170
+  of the Internal Revenue Code. The tax identification number is available upon request.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Board Meetings					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						Lakeland Soccer Club Board meetings are held on the first Monday of every month, unless the first Monday is a holiday, then in that event the meeting is moved to the second Monday.<br/><br/>The meeting times are as follows:<br/><br/>March/April/May/September/October/November - 6:30 p.m.<br/>Dec/Jan/Feb/June/July/August - 5:00 p.m.<br/><br/>All Board meetings are held at the Rathdrum Library conference room.  <br/><br/>All Board meetings are open to the public.					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-size: large;"><a href="http://www.thelakelandsoccerclub.com/doclib/bylaws.pdf" target="_blank">Lakeland Soccer Club Bylaws</a></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Policies and Proceedures					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;"><a href="http://www.thelakelandsoccerclub.com/home.php?layout=306934" target="_self" title=
+  "FEE AND TRYOUT POLICIES">FEE AND TRYOUT POLICIES</a></span>
+</p>
+<p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;"><a href="http://www.thelakelandsoccerclub.com/doclib/NWLLeagueRules.pdf" target="_blank" title=
+  "IYSA RULES">IYSA REGULATIONS</a></span>
+</p>
+<p>
+   
+</p>
+<p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;">COMING SOON:</span>
+</p>
+<p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;">POLICIES AND PROCEDURES REGARDING COACHES AND VOLUNTEERS</span>
+</p>
+<p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;">POLICIES AND PROCEDURES REGARDING PLAYERS AND PARENTS</span>
+</p>
+<p>
+   
+</p>
+<p>
+   
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com" rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Powered by Bonzi Sports Registration Software" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Lakeland Soccer Club. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" rel="nofollow">Youth soccer Website and Online soccer Registration Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

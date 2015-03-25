@@ -1,0 +1,494 @@
+    <!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Chandler Soccer Club - HOME</title>
+<meta charset="utf-8" />
+<meta name="keywords" content="Chandler Soccer Club | Oklahoma | Soccer | OK" />
+<meta name="description" content="Chandler Soccer Club 
+Information on upcoming events, field status, and information on all things soccer in Chandler Oklahoma and surrounding areas in Lincoln County Ok. If you are interested in anything soccer you have come to the right place." />
+<meta name="robots" content="index,follow" />
+<meta name="rating" content="general" />
+<base href="http://chandlersoccerclub.org/deadlink/" />
+<!--[if IE]>
+<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://widgets.hgsitebuilder.com/1d1f860/basekitcore.css" />
+<link rel="stylesheet" type="text/css" href="http://files.hgsitebuilder.com/hostgator310636/custom-css/custom134.css" />
+<link rel="stylesheet" type="text/css" href="http://files.hgsitebuilder.com/hostgator310636/custom-css/theme106323-134.css" />
+<link rel="stylesheet" type="text/css" href="http://widgets.hgsitebuilder.com/1d1f860/background_carousel_columns_columns-column_content_formarea_image_libraryitem_menu.css" />
+<link rel="icon" href="http://files.hgsitebuilder.com/favicon.ico" type="image/x-icon" />
+<link rel="SHORTCUT ICON" href="http://files.hgsitebuilder.com/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://chandlersoccerclub.org/?startcss=true&amp;ts=1410346909" />
+<link rel="canonical" href="http://chandlersoccerclub.org"/>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+<script type="text/javascript">!window.jQuery && document.write(unescape('%3Cscript src="/libraries/jquery/jquery-1.7.1.js"%3E%3C/script%3E'))</script>
+<script type="text/javascript" src="http://widgets.hgsitebuilder.com/1d1f860/jqueryui.js"></script>
+</head>
+<body id="bk1" class="normal theme template-content page-home">
+<!-- AB: the following banner will show if the bannerHTML field is completed against the subscription package of the account holder of the current site -->
+<script type="text/javascript"  src="http://widgets.hgsitebuilder.com/1d1f860/basekitcore.js"></script>
+<script type="text/javascript" src="http://widgets.hgsitebuilder.com/1d1f860/background_carousel_columns_columns-column_content_formarea_image_libraryitem_menu.js"></script>
+<section id="bk4" class="control-row theme-row-header row-header">
+<div class="control-row-content">
+<div id="bk5" class="bk-widget widget-columns widget-columns-VEQ37D">
+<div id="bk6" class="control-zone widget-columns-column widget-columns-column-8E898H">
+<div class="widget-columns-column-padding bk-first bk-last">
+<div id="bk7" class="bk-widget widget-libraryitem widget-libraryitem-7EBU63">
+<div id="bk8" class="control-zone control-libraryitem control-libraryitem-7AY6CD">
+<div id="bk9" class="bk-widget widget-columns widget-columns-ZDQH2K">
+<div id="bk10" class="control-zone widget-columns-column widget-columns-column-SB3CHN">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk11" class="bk-widget widget-image widget-image-68J2S7">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/hostgator310636/image/csc_logo.png" alt="Image description" title="" />
+</div>
+</div>
+</div>
+<div id="bk12" class="control-zone widget-columns-column widget-columns-column-OYAJSF">
+<div class="widget-columns-column-padding">
+<div id="bk13" class="bk-widget widget-content widget-content-POAHNN">
+<p><span style="color: rgb(0, 0, 0);">Chandler Soccer
+Club</span></p>
+<p><span style=
+"font-size: 24px; color: rgb(0, 0, 0);"><strong>CHANDLER SOCCER
+CLUB</strong></span></p>
+<p><span style=
+"font-size: 12px; color: rgb(0, 0, 0);"><strong><em>Kickin' it on
+Route 66</em></strong></span></p>
+</div>
+</div>
+</div>
+<div id="bk14" class="control-zone widget-columns-column widget-columns-column-SO25NV">
+<div class="widget-columns-column-padding bk-last">
+<ul id="bk15" class="bk-widget widget-menu right widget-menu-O0Y3UE">
+<li class="widget-menu-item  bk-horizontal  widget-menu-item-firstpos">
+<a id="bk15BK9" class="widget-menu-alink widget-menu-link  widget-menu-selected " title="http://chandlersoccerclub.org/home" href="http://chandlersoccerclub.org/home">HOME</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk15BK11" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/about" href="http://chandlersoccerclub.org/about">ABOUT</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk15BK14" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/board" href="http://chandlersoccerclub.org/board">BOARD</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk15BK16" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/photos" href="http://chandlersoccerclub.org/photos">PHOTOS</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk15BK10" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/resources" href="http://chandlersoccerclub.org/resources">RESOURCES</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk15BK15" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/supporters" href="http://chandlersoccerclub.org/supporters">SUPPORTERS</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk15BK12" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/contact" href="http://chandlersoccerclub.org/contact">CONTACT</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  widget-menu-item-lastpos">
+<a id="bk15BK22" class="widget-menu-alink widget-menu-link " title="http://chandlersoccerclub.org/registration" href="http://chandlersoccerclub.org/registration">REGISTRATION</a>
+</li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>
+<div id="bk16" class="bk-widget widget-image widget-image-Y399Y7">
+<img class="widget-image-image " src="http://files.hgsitebuilder.com/hostgator310636/image/dsc_0111.jpg" alt="Image description" title="" />
+</div>
+<div id="bk17" class="bk-widget widget-content widget-content-DLLW00">
+<h1 style="text-align: center;"><span style=
+"font-family: arial,helvetica,sans-serif;"><span style=
+"color: rgb(8, 207, 47);"><span style=
+"color: rgb(0, 0, 0);"><strong><em>Field
+Status:</em></strong></span></span>&nbsp;<span style=
+"color: rgb(8, 207, 47);"><span><strong><em>Open</em></strong></span></span></span></h1>
+</div>
+<div id="bk18" class="bk-widget widget-content widget-content-FVO11S">
+<p style="text-align: center;">Like us on Facebook: <span style=
+"color: rgb(0, 0, 0);"><a href=
+"http://www.facebook.com/chandlersoccerclub" target=
+"_blank"><span style=
+"color: rgb(0, 0, 0);">www.facebook.com/chandlersoccerclub</span></a></span></p>
+</div>
+<div id="bk19" class="bk-widget widget-content widget-content-37N0F4">
+<p style="text-align: center;"><a href=
+"http://www.tkqlhce.com/click-7612489-10407383" target=
+"_blank"><img width="468" height="60" alt=
+"Shopping at SOCCER.COM Helps Your Club" src=
+"http://www.lduhtrp.net/image-7612489-10407383" border=
+"0" /></a><br /></p>
+</div>
+<div id="bk20" class="bk-widget widget-background widget-background-Y0OB24">
+<div id="bk20BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk21" class="control-zone control-zone control-zone-0IH995">
+</div>
+</div>
+</div>
+<div id="bk22" class="bk-widget widget-columns widget-columns-VFCLT0">
+<div id="bk23" class="control-zone widget-columns-column widget-columns-column-XXK9J3">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk24" class="bk-widget widget-image widget-image-8SZ2GR">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/hostgator310636/image/soccer_net_wallpaper.jpg" alt="Image description" title="" />
+</div>
+<div id="bk25" class="bk-widget widget-content widget-content-UEI0MA">
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style=
+"font-size: 18px; color: rgb(0, 0, 0);"><strong>Rain Out
+Lines</strong></span><br /></p>
+</div>
+<div id="bk26" class="bk-widget widget-columns widget-columns-89YAAC">
+<div id="bk27" class="control-zone widget-columns-column widget-columns-column-9KJ804">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk28" class="bk-widget widget-content widget-content-KM06KA">
+<p><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">Chandler</span></p>
+<p><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">Choctaw</span></p>
+<p><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">Harrah</span></p>
+<p><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">McLoud/Tri-Lakes</span></p>
+<p><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">Shawnee</span><br /></p>
+</div>
+</div>
+</div>
+<div id="bk29" class="control-zone widget-columns-column widget-columns-column-V3CXLY">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk30" class="bk-widget widget-content widget-content-NY2R1B">
+<p style="text-align: left;"><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">432-4595</span></p>
+<p style="text-align: left;"><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">396-6690</span></p>
+<p style="text-align: left;"><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">454-2210</span></p>
+<p style="text-align: left;"><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">550-6664</span></p>
+<p style="text-align: left;"><span style=
+"color: rgb(0, 0, 0); font-size: 14px;">501-5695</span><br /></p>
+</div>
+</div>
+</div>
+</div>
+<div id="bk31" class="bk-widget widget-content widget-content-L041XX">
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>
+<div id="bk32" class="bk-widget widget-background widget-background-TG08WB">
+<div id="bk32BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk33" class="control-zone control-zone control-zone-D1F6NH">
+<div id="bk34" class="bk-widget widget-background widget-background-8V2U20">
+<div id="bk34BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk35" class="control-zone control-zone control-zone-NH3Y99">
+<div id="bk36" class="bk-widget widget-content widget-content-LLBA15">
+<p style="text-align: center;"><span style=
+"font-size: 18px;"><strong>Affiliations</strong></span></p>
+</div>
+<div id="bk37" class="bk-widget widget-columns widget-columns-0990M4">
+<div id="bk38" class="control-zone widget-columns-column widget-columns-column-G0S58J">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk39" class="bk-widget widget-image widget-image-527O97">
+<a class="widget-image-link" href="http://www.oksoccer.com" target="_blank">
+<img class="widget-image-image " src="http://files.hgsitebuilder.com/hostgator310636/image/affiliation_ok_soccer.png" alt="Image description" title="" />
+</a>
+</div>
+</div>
+</div>
+<div id="bk40" class="control-zone widget-columns-column widget-columns-column-231R7G">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk41" class="bk-widget widget-image widget-image-G46C54">
+<a class="widget-image-link" href="http://www.usyouthsoccer.org/" target="_blank">
+<img class="widget-image-image " src="http://files.hgsitebuilder.com/hostgator310636/image/affiliation_us_youth_soccer.png" alt="Image description" title="" />
+</a>
+</div>
+</div>
+</div>
+</div>
+<div id="bk42" class="bk-widget widget-columns widget-columns-9K6W1W">
+<div id="bk43" class="control-zone widget-columns-column widget-columns-column-62MSF4">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk44" class="bk-widget widget-image widget-image-0E4UQ3">
+<a class="widget-image-link" href="http://www.ussoccer.com/" target="_blank">
+<img class="widget-image-image " src="http://files.hgsitebuilder.com/hostgator310636/image/affiliation_us_soccer.png" alt="Image description" title="" />
+</a>
+</div>
+</div>
+</div>
+<div id="bk45" class="control-zone widget-columns-column widget-columns-column-876WF6">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk46" class="bk-widget widget-image widget-image-T3O5MK">
+<a class="widget-image-link" href="http://www.fifa.com" target="_blank">
+<img class="widget-image-image " src="http://files.hgsitebuilder.com/hostgator310636/image/affiliation_fifa.png" alt="Image description" title="" />
+</a>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="bk47" class="control-zone widget-columns-column widget-columns-column-8Z2SKN">
+<div class="widget-columns-column-padding">
+<div id="bk48" class="bk-widget widget-content widget-content-GQX64Y">
+<h2 style="text-align: center;"><span style=
+"color: #000000;">Upcoming events... &nbsp;</span></h2>
+<div><span style="color: #000000;"><br /></span></div>
+</div>
+<div id="bk49" class="bk-widget widget-content widget-content-QK7T25">
+<h3 style="text-align: center;"><span style=
+"font-size: medium;">Schedule are posted.&nbsp;<br /></span></h3>
+</div>
+<div id="bk50" class="bk-widget widget-content widget-content-T9J0C6">
+<p><span style="font-size: 14px;">Click your team name to the right
+to go straight to your team's schedule. Clicking on the age group
+will display the rankings. Good luck everyone. We are looking
+forward to a great season.</span></p>
+</div>
+<div id="bk51" class="bk-widget widget-background widget-background-AC250C">
+<div id="bk51BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk52" class="control-zone control-zone control-zone-HPAK95">
+</div>
+</div>
+</div>
+<div id="bk53" class="bk-widget widget-content widget-content-G59V1E">
+<h3 style="text-align: center;">More Events Coming Soon<br /></h3>
+</div>
+<div id="bk54" class="bk-widget widget-content widget-content-93UE41">
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style=
+"font-size: 14px;"><span>Update on Fall dates will be posted
+soon...<br /></span></span></p>
+<p style="text-align: center;">&nbsp;</p>
+</div>
+<div id="bk55" class="bk-widget widget-background widget-background-J64V26">
+<div id="bk55BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk56" class="control-zone control-zone control-zone-34Q840">
+</div>
+</div>
+</div>
+<div id="bk57" class="bk-widget widget-content widget-content-ASMV50">
+<h3 style="text-align: center;">All rainouts&nbsp; have been
+rescheduled.</h3>
+</div>
+</div>
+</div>
+<div id="bk58" class="control-zone widget-columns-column widget-columns-column-29X054">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk59" class="bk-widget widget-image widget-image-9G5J2K">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_4.jpg" alt="Image description" title="" />
+</div>
+<div id="bk60" class="bk-widget widget-content widget-content-7FKM28">
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;"><span style=
+"color: #000000;"><strong style=
+"color: #000000; font-size: 12px;"><a href=
+"http://events.gotsport.com/events/results.aspx?EventID=41131&amp;Gender=Boys&amp;Age=6"
+target="_blank"><span style=
+"color: #000000;">U6&nbsp;Coed</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #000000;"><strong><span style=
+"font-size: 24px; color: #ffa500;"><strong>&nbsp;&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537829&amp;action=Go"
+target="_blank"><span style=
+"color: #ffa500;">Crushers</span></a></strong></span><br /></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #000000;"><strong>&nbsp; &nbsp; &nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537830&amp;action=Go"
+target="_blank"><span style=
+"color: #000000;">Future</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #ffb6c1;"><strong>&nbsp; &nbsp; &nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537831&amp;action=Go"
+target="_blank"><span style="color: #ffb6c1;">Heart
+Breakers</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #800080; font-size: 24px;"><strong>&nbsp; <a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537832&amp;action=Go"
+target="_blank"><span style="color: #800080;">Kick
+Chicks</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #ff6ec7;"><strong>&nbsp; &nbsp;&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537833&amp;action=Go"
+target="_blank"><span style="color: #ff6ec7;">Pink
+Panthers</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #f31212;"><strong>&nbsp; &nbsp;&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537834&amp;action=Go"
+target="_blank"><span style=
+"color: #f31212;">Ravens</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"font-size: 24px; color: #87ceeb;"><span><strong>&nbsp; <a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41131&amp;FieldID=0&amp;applicationID=2537835&amp;action=Go"
+target="_blank"><span style=
+"color: #87ceeb;">Thunder</span></a></strong></span></span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><span style=
+"font-size: 12px; color: #000000;"><strong><a href=
+"http://events.gotsport.com/events/results.aspx?EventID=41232&amp;Gender=Boys&amp;Age=8"
+target="_blank"><span style=
+"color: #000000;">U8&nbsp;Boys</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #83f52c;"><strong>&nbsp; &nbsp; &nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537516&amp;action=Go"
+target="_blank"><span style=
+"color: #83f52c;">Fierce</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #ffa500; font-size: 24px;"><strong>&nbsp;&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537518&amp;action=Go"
+target="_blank"><span style="color: #ffa500;">Hot
+Rods</span></a></strong></span></p>
+<p style="text-align: left;"><strong><span style=
+"color: #7f8f4e;">&nbsp; &nbsp; &nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537519&amp;action=Go"
+target="_blank"><span style=
+"color: #7f8f4e;">Snipers</span></a></span></strong></p>
+<p style="text-align: left;"><span style=
+"color: #ffa500;"><strong>&nbsp; &nbsp; &nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537520&amp;action=Go"
+target="_blank"><span style=
+"color: #ffa500;">Strikers</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #4ff040; font-size: 24px;"><strong><span style=
+"color: #4ff040;"><span style=
+"color: #4169e1;">&nbsp;&nbsp;<a href="http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537522&amp;action=Go"
+target="_blank"><span style="color: #4169e1;">Wild
+Things</span></a></span></span></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #0c0cc9;">&nbsp;</span></p>
+<p style="text-align: left;"><span style=
+"color: #000000;"><strong><span style="font-size: 12px;"><a href=
+"http://events.gotsport.com/events/results.aspx?EventID=41232&amp;Gender=Girls&amp;Age=8"
+target="_blank"><span style="color: #000000;">U8
+Girls</span></a></span></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #751094;"><strong><span style="font-size: 24px;">&nbsp;
+&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537517&amp;action=Go"
+target="_blank"><span style="color: #751094;">Galaxy
+Girls</span></a></span></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #0c0cc9;"><br /></span></p>
+<p style="text-align: left;"><span style=
+"font-size: 12px; color: #000000;"><strong><a href=
+"http://events.gotsport.com/events/results.aspx?EventID=41232&amp;Gender=Boys&amp;Age=10"
+target="_blank"><span style="color: #000000;">U10
+Coed</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #ffa500;"><strong>&nbsp; &nbsp; &nbsp;&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537515&amp;action=Go"
+target="_blank"><span style=
+"color: #ffa500;">Titans</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #00ff00;"><strong><span style="font-size: 24px;">&nbsp;
+&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?eventid=41232&amp;FieldID=0&amp;applicationID=2537521&amp;action=Go"
+target="_blank"><span style=
+"color: #00ff00;">Velocity</span></a>&nbsp;</span></strong></span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><span style=
+"font-size: 12px; color: #000000;"><strong><a href=
+"http://events.gotsport.com/events/results.aspx?EventID=40911&amp;GroupID=390920&amp;Gender=Girls&amp;Age=12"
+target="_blank"><span style="color: #000000;">U12
+Girls</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"color: #4169e1;"><strong>&nbsp; &nbsp; &nbsp;&nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?EventID=40911&amp;ApplicationID=2506339"
+target="_blank"><span style="color: #4169e1;">Chandler
+Pride</span></a></strong></span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><span style=
+"font-size: 12px; color: #000000;"><strong><a href=
+"http://events.gotsport.com/events/results.aspx?EventID=40911&amp;GroupID=390925&amp;Gender=Boys&amp;Age=14"
+target="_blank"><span style="color: #000000;">U14
+Boys</span></a></strong></span></p>
+<p style="text-align: left;"><span style=
+"font-size: 24px; color: #ffa500;"><strong>&nbsp; &nbsp;<a href=
+"http://events.gotsport.com/events/schedule.aspx?EventID=40911&amp;ApplicationID=2506340"
+target="_blank"><span style="color: #ffa500;">Lions
+Elite</span></a></strong></span></p>
+<p style="text-align: left;">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="bk61" class="control-row theme-row-footer row-footer">
+<div class="control-row-content">
+<div id="bk62" class="bk-widget widget-columns widget-columns-O6859B">
+<div id="bk63" class="control-zone widget-columns-column widget-columns-column-Y21420">
+<div class="widget-columns-column-padding bk-first bk-last">
+<div id="bk64" class="bk-widget widget-libraryitem widget-libraryitem-PS5T53">
+<div id="bk65" class="control-zone control-libraryitem control-libraryitem-0H7GCF">
+<div id="bk66" class="bk-widget widget-columns widget-columns-JP839C">
+<div id="bk67" class="control-zone widget-columns-column widget-columns-column-084T3H">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk68" class="bk-widget widget-columns widget-columns-D836M6">
+<div id="bk69" class="control-zone widget-columns-column widget-columns-column-79S8U2">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk70" class="bk-widget widget-image widget-image-023WPG">
+<a class="widget-image-link" href="http://www.facebook.com/chandlersoccerclub" target="_blank">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_facebook_32.png" alt="Image description" title="" />
+</a>
+</div>
+</div>
+</div>
+<div id="bk71" class="control-zone widget-columns-column widget-columns-column-N2K498">
+<div class="widget-columns-column-padding">
+</div>
+</div>
+<div id="bk72" class="control-zone widget-columns-column widget-columns-column-5Y04SX">
+<div class="widget-columns-column-padding">
+</div>
+</div>
+<div id="bk73" class="control-zone widget-columns-column widget-columns-column-3VHK9H">
+<div class="widget-columns-column-padding">
+</div>
+</div>
+<div id="bk74" class="control-zone widget-columns-column widget-columns-column-67V8JM">
+<div class="widget-columns-column-padding bk-last">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="bk75" class="control-zone widget-columns-column widget-columns-column-5H4A80">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk76" class="bk-widget widget-content widget-content-PC55TU">
+<p style="TEXT-ALIGN: right"><span style=
+"COLOR: rgb(0,0,0); FONT-SIZE: 14px"><strong>CHANDLER SOCCER
+CLUB</strong></span><br /></p>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div id="bk77" class="bk-widget widget-content widget-content-0L67LB">
+<p style="TEXT-ALIGN: center"><strong><span style=
+"COLOR: #ffffff">Visitors:</span></strong></p>
+<div style="TEXT-ALIGN: center" align="center"><a href=
+"http://www.amazingcounter.com/"><img border="0" alt=
+"Traffic Statistics" src=
+"http://cc.amazingcounters.com/counter.php?i=3093780&amp;c=9281653" /></a><br />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript"  src="http://chandlersoccerclub.org/?startjs=true&amp;ts=1410346909"></script>
+<img class="page-tracking-pixel" src="//d3svzs8y5qq92x.cloudfront.net/pixel.gif?b=hostgator&amp;e=live" width="1" height="1" alt="" title="" />
+</body>
+</html>

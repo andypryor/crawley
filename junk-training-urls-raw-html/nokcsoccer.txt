@@ -1,0 +1,1864 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>North Oklahoma City Soccer Club </title>
+	
+		
+	<script type="text/javascript" src="https://maps.google.com/maps/api/js?v=3.exp&amp;sensor=false&amp;language=en"></script>	
+	<!-- W3TC-include-js-head -->
+
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+		<link href='http://fonts.googleapis.com/css?family=Antic+Slab:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+		<link href='http://fonts.googleapis.com/css?family=Antic+Slab:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+		<link href='http://fonts.googleapis.com/css?family=Antic+Slab:300,400,400italic,500,600,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+	<link rel="stylesheet" href="http://nokcsoccer.com/wp-content/themes/Avada/style.css" />
+
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="http://nokcsoccer.com/wp-content/themes/Avada/js/respond.min.js"></script>
+	<link rel="stylesheet" href="http://nokcsoccer.com/wp-content/themes/Avada/css/ie8.css" />
+	<![endif]-->
+
+	<!--[if IE]>
+	<link rel="stylesheet" href="http://nokcsoccer.com/wp-content/themes/Avada/css/ie.css" />
+	<![endif]-->
+
+					<style type="text/css">
+		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
+			#wrapper .ei-slider{width:100% !important;}
+			body #header.sticky-header,body #header.sticky-header.sticky{display:none !important;}
+		}
+		</style>
+			
+	
+	
+	
+	
+	
+	<link rel="alternate" type="application/rss+xml" title="North Oklahoma City Soccer Club &raquo; Feed" href="http://nokcsoccer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="North Oklahoma City Soccer Club &raquo; Comments Feed" href="http://nokcsoccer.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://nokcsoccer.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://nokcsoccer.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.55' type='text/css' media='all' />
+<link rel='stylesheet' id='mtf_css-css'  href='http://nokcsoccer.com/wp-content/plugins/mini-twitter-feed/minitwitter.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://nokcsoccer.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.1.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.avada_huge_white_text{position:absolute;color:#ffffff;font-size:130px;line-height:45px;font-family:museoslab500regular;text-shadow:0px 2px 5px rgba(0,0,0,1)}.avada_huge_black_text{position:absolute;color:#000000;font-size:130px;line-height:45px;font-family:museoslab500regular}.avada_big_black_text{position:absolute;color:#333333;font-size:42px;line-height:45px;font-family:museoslab500regular}.avada_big_white_text{position:absolute;color:#fff;font-size:42px;line-height:45px;font-family:museoslab500regular}.avada_big_black_text_center{position:absolute;color:#333333;font-size:38px;line-height:45px;font-family:museoslab500regular;text-align:center}.avada_med_green_text{position:absolute;color:#A0CE4E;font-size:24px;line-height:24px;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_gray_text{position:absolute;color:#747474;font-size:13px;line-height:20px;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_white_text{position:absolute;color:#fff;font-size:13px;line-height:20px;font-family:PTSansRegular,Arial,Helvetica,sans-serif;text-shadow:0px 2px 5px rgba(0,0,0,0.5);font-weight:700}.avada_block_black{position:absolute;color:#A0CE4E;text-shadow:none;font-size:22px;line-height:34px;padding:0px 10px;padding-top:1px;margin:0px;border-width:0px;border-style:none;background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_green{position:absolute;color:#000;text-shadow:none;font-size:22px;line-height:34px;padding:0px 10px;padding-top:1px;margin:0px;border-width:0px;border-style:none;background-color:#A0CE4E;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white{position:absolute;color:#fff;text-shadow:none;font-size:22px;line-height:34px;padding:0px 10px;padding-top:1px;margin:0px;border-width:0px;border-style:none;background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white_trans{position:absolute;color:#fff;text-shadow:none;font-size:22px;line-height:34px;padding:0px 10px;padding-top:1px;margin:0px;border-width:0px;border-style:none;background-color:rgba(0,0,0,0.6);font-family:PTSansRegular,Arial,Helvetica,sans-serif}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='wp-fullcalendar-css'  href='http://nokcsoccer.com/wp-content/plugins/wp-fullcalendar/includes/css/main.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider_css-css'  href='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/css/layerslider.css?ver=4.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-flexslider-css'  href='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/flexslider.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-common-css'  href='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://nokcsoccer.com/wp-content/uploads/js_composer/custom.css?ver=4.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='pcs-styles-css'  href='http://nokcsoccer.com/wp-content/plugins/post-content-shortcodes/default-styles.css?ver=0.3' type='text/css' media='screen' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.3.3 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-41390809-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/nokcsoccer.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/nokcsoccer.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"0","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/nokcsoccer.com\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.55'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.1.1'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPFC = {"ajaxurl":"http:\/\/nokcsoccer.com\/wp-admin\/admin-ajax.php","firstDay":"0","wpfc_theme":"1","wpfc_limit":"100","wpfc_limit_txt":"more ...","wpfc_theme_css":"http:\/\/nokcsoccer.com\/wp-content\/plugins\/wp-fullcalendar\/includes\/css\/ui-themes\/blitzer.css","wpfc_qtips":"","wpfc_qtips_classes":"ui-tooltip-light","wpfc_qtips_my":"top center","wpfc_qtips_at":"bottom center","wpfc_locale":{"firstDay":"0"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/plugins/wp-fullcalendar/includes/js/main.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.0'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/jquery-easing-1.3.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/jquerytransit.js?ver=0.9.9'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/layerslider.transitions.js?ver=4.6.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nokcsoccer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nokcsoccer.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='canonical' href='http://nokcsoccer.com/' />
+<link rel='shortlink' href='http://nokcsoccer.com/' />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//nokcsoccer.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=B5D738A8B05D3E53138E0954BB050C75'); 
+</script>
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+	var imgs, i, w;
+	var imgs = document.getElementsByTagName( 'img' );
+	for( i = 0; i < imgs.length; i++ ) {
+	    w = imgs[i].getAttribute( 'width' );
+	    imgs[i].removeAttribute( 'width' );
+	    imgs[i].removeAttribute( 'height' );
+	}
+	});
+	</script>
+	<![endif]-->
+	<script type="text/javascript">
+	/*@cc_on
+	  @if (@_jscript_version == 10)
+	    document.write(' <link type= "text/css" rel="stylesheet" href="http://nokcsoccer.com/wp-content/themes/Avada/css/ie10.css" />');
+	  @end
+	@*/
+	function insertParam(url, parameterName, parameterValue, atStart){
+	    replaceDuplicates = true;
+	    if(url.indexOf('#') > 0){
+	        var cl = url.indexOf('#');
+	        urlhash = url.substring(url.indexOf('#'),url.length);
+	    } else {
+	        urlhash = '';
+	        cl = url.length;
+	    }
+	    sourceUrl = url.substring(0,cl);
+
+	    var urlParts = sourceUrl.split("?");
+	    var newQueryString = "";
+
+	    if (urlParts.length > 1)
+	    {
+	        var parameters = urlParts[1].split("&");
+	        for (var i=0; (i < parameters.length); i++)
+	        {
+	            var parameterParts = parameters[i].split("=");
+	            if (!(replaceDuplicates && parameterParts[0] == parameterName))
+	            {
+	                if (newQueryString == "")
+	                    newQueryString = "?";
+	                else
+	                    newQueryString += "&";
+	                newQueryString += parameterParts[0] + "=" + (parameterParts[1]?parameterParts[1]:'');
+	            }
+	        }
+	    }
+	    if (newQueryString == "")
+	        newQueryString = "?";
+
+	    if(atStart){
+	        newQueryString = '?'+ parameterName + "=" + parameterValue + (newQueryString.length>1?'&'+newQueryString.substring(1):'');
+	    } else {
+	        if (newQueryString !== "" && newQueryString != '?')
+	            newQueryString += "&";
+	        newQueryString += parameterName + "=" + (parameterValue?parameterValue:'');
+	    }
+	    return urlParts[0] + newQueryString + urlhash;
+	};
+
+	function ytVidId(url) {
+	  var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
+	  return (url.match(p)) ? RegExp.$1 : false;
+	  //return (url.match(p)) ? true : false;
+	}
+
+			var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/iframe_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+		function getFrameID(id){
+		    var elem = document.getElementById(id);
+		    if (elem) {
+		        if(/^iframe$/i.test(elem.tagName)) return id; //Frame, OK
+		        // else: Look for frame
+		        var elems = elem.getElementsByTagName("iframe");
+		        if (!elems.length) return null; //No iframe found, FAILURE
+		        for (var i=0; i<elems.length; i++) {
+		           if (/^https?:\/\/(?:www\.)?youtube(?:-nocookie)?\.com(\/|$)/i.test(elems[i].src)) break;
+		        }
+		        elem = elems[i]; //The only, or the best iFrame
+		        if (elem.id) return elem.id; //Existing ID, return it
+		        // else: Create a new ID
+		        do { //Keep postfixing `-frame` until the ID is unique
+		            id += "-frame";
+		        } while (document.getElementById(id));
+		        elem.id = id;
+		        return id;
+		    }
+		    // If no element, return null.
+		    return null;
+		}
+
+		// Define YT_ready function.
+		var YT_ready = (function() {
+		    var onReady_funcs = [], api_isReady = false;
+		    /* @param func function     Function to execute on ready
+		     * @param func Boolean      If true, all qeued functions are executed
+		     * @param b_before Boolean  If true, the func will added to the first
+		                                 position in the queue*/
+		    return function(func, b_before) {
+		        if (func === true) {
+		            api_isReady = true;
+		            while (onReady_funcs.length) {
+		                // Removes the first func from the array, and execute func
+		                onReady_funcs.shift()();
+		            }
+		        } else if (typeof func == "function") {
+		            if (api_isReady) func();
+		            else onReady_funcs[b_before?"unshift":"push"](func); 
+		        }
+		    }
+		})();
+		// This function will be called when the API is fully loaded
+		function onYouTubePlayerAPIReady() {YT_ready(true)}
+		
+	jQuery(document).ready(function() {
+		jQuery('.portfolio-wrapper').hide();
+	});
+	jQuery(window).load(function() {
+		if(jQuery('#sidebar').is(':visible')) {
+			jQuery('.post-content div.portfolio').each(function() {
+				var columns = jQuery(this).data('columns');
+				jQuery(this).addClass('portfolio-'+columns+'-sidebar');
+			});
+		}
+		jQuery('.full-video, .video-shortcode, .wooslider .slide-content').fitVids();
+
+		if(jQuery().isotope) {
+			  // modified Isotope methods for gutters in masonry
+			  jQuery.Isotope.prototype._getMasonryGutterColumns = function() {
+			    var gutter = this.options.masonry && this.options.masonry.gutterWidth || 0;
+			        containerWidth = this.element.width();
+			  
+			    this.masonry.columnWidth = this.options.masonry && this.options.masonry.columnWidth ||
+			                  // or use the size of the first item
+			                  this.$filteredAtoms.outerWidth(true) ||
+			                  // if there's no items, use size of container
+			                  containerWidth;
+
+			    this.masonry.columnWidth += gutter;
+
+			    this.masonry.cols = Math.floor( ( containerWidth + gutter ) / this.masonry.columnWidth );
+			    this.masonry.cols = Math.max( this.masonry.cols, 1 );
+			  };
+
+			  jQuery.Isotope.prototype._masonryReset = function() {
+			    // layout-specific props
+			    this.masonry = {};
+			    // FIXME shouldn't have to call this again
+			    this._getMasonryGutterColumns();
+			    var i = this.masonry.cols;
+			    this.masonry.colYs = [];
+			    while (i--) {
+			      this.masonry.colYs.push( 0 );
+			    }
+			  };
+
+			  jQuery.Isotope.prototype._masonryResizeChanged = function() {
+			    var prevSegments = this.masonry.cols;
+			    // update cols/rows
+			    this._getMasonryGutterColumns();
+			    // return if updated cols/rows is not equal to previous
+			    return ( this.masonry.cols !== prevSegments );
+			  };
+
+			imagesLoaded(jQuery('.portfolio-one .portfolio-wrapper'), function() {
+				jQuery('.portfolio-wrapper').fadeIn();
+				jQuery('.portfolio-one .portfolio-wrapper').isotope({
+					// options
+					itemSelector: '.portfolio-item',
+					layoutMode: 'straightDown',
+					transformsEnabled: false
+				});
+			});
+
+			imagesLoaded(jQuery('.portfolio-two .portfolio-wrapper, .portfolio-three .portfolio-wrapper, .portfolio-four .portfolio-wrapper'),function() {
+				jQuery('.portfolio-wrapper').fadeIn();
+				jQuery('.portfolio-two .portfolio-wrapper, .portfolio-three .portfolio-wrapper, .portfolio-four .portfolio-wrapper').isotope({
+					// options
+					itemSelector: '.portfolio-item',
+					layoutMode: 'fitRows',
+					transformsEnabled: false
+				});
+			});
+
+			var masonryContainer = jQuery('.portfolio-masonry .portfolio-wrapper');
+			imagesLoaded(masonryContainer, function() {
+				jQuery('.portfolio-wrapper').fadeIn();
+				var gridTwo = masonryContainer.parent().hasClass('portfolio-grid-2');
+				var columns;
+				if(gridTwo) {
+					columns = 2;
+				} else {
+					columns = 3;
+				}
+				masonryContainer.isotope({
+					// options
+					itemSelector: '.portfolio-item',
+					layoutMode: 'masonry',
+					transformsEnabled: false,
+					masonry: { columnWidth: masonryContainer.width() / columns }
+				});
+			});
+		}
+
+		if(jQuery().flexslider) {
+			var WooThumbWidth = 100;
+			if(jQuery('body.woocommerce #sidebar').is(':visible')) {
+				wooThumbWidth = 100;
+			} else {
+				wooThumbWidth = 118;
+			}
+
+			jQuery('.woocommerce .images #carousel').flexslider({
+				animation: 'slide',
+				controlNav: false,
+				directionNav: false,
+				animationLoop: true,
+				slideshow: false,
+				itemWidth: wooThumbWidth,
+				itemMargin: 9,
+				touch: false,
+				useCSS: false,
+				asNavFor: '.woocommerce .images #slider'
+			});
+
+			jQuery('.woocommerce .images #slider').flexslider({
+				animation: 'slide',
+				controlNav: false,
+				animationLoop: true,
+				slideshow: false,
+				smoothHeight: true,
+				touch: true,
+				useCSS: false,
+				sync: '.woocommerce .images #carousel'
+			});
+
+			var iframes = jQuery('iframe');
+			var avada_ytplayer;
+
+			jQuery.each(iframes, function(i, v) {
+				var src = jQuery(this).attr('src');
+				if(src) {
+										if(src.indexOf('vimeo') >= 1) {
+						jQuery(this).attr('id', 'player_'+(i+1));
+						var new_src = insertParam(src, 'api', '1', false);
+						var new_src_2 = insertParam(new_src, 'player_id', 'player_'+(i+1), false);
+						
+						jQuery(this).attr('src', new_src_2);
+					}
+															if(ytVidId(src)) {
+						jQuery(this).parent().wrap('<span class="play3" />');
+					}
+									}
+			});
+
+						function ready(player_id) {
+			    var froogaloop = $f(player_id);
+
+			    froogaloop.addEvent('play', function(data) {
+			    	jQuery('#'+player_id).parents('li').parent().parent().flexslider("pause");
+			    });
+
+			    froogaloop.addEvent('pause', function(data) {
+			        jQuery('#'+player_id).parents('li').parent().parent().flexslider("play");
+			    });
+			}
+
+			var vimeoPlayers = jQuery('.flexslider').find('iframe'), player;
+
+			for (var i = 0, length = vimeoPlayers.length; i < length; i++) {
+		        player = vimeoPlayers[i]; 
+		        $f(player).addEvent('ready', ready);
+			}
+
+			function addEvent(element, eventName, callback) {
+			    if (element.addEventListener) {
+			        element.addEventListener(eventName, callback, false)
+			    } else {
+			        element.attachEvent(eventName, callback, false);
+			    }
+			}
+			
+			jQuery('.tfs-slider').flexslider({
+				animation: "fade",
+				slideshow: true,
+				slideshowSpeed: 7000,
+				animationSpeed: 600,
+				smoothHeight: true,
+				pauseOnHover: false,
+				useCSS: false,
+				video: true,
+				start: function(slider) {
+			        if(typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+				},
+			    before: function(slider) {
+			        if(slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			        				           $f( slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+						
+			           /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+			           playVideoAndPauseOthers(slider);
+			       }
+			    },
+			   	after: function(slider) {
+			        if(slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+			    }
+			});
+			
+						jQuery('.flexslider').flexslider({
+				slideshow: true,
+				slideshowSpeed: 7000,
+				video: true,
+				pauseOnHover: false,
+				useCSS: false,
+								start: function(slider) {
+			        if (typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+				},
+			    before: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           $f(slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+						
+			           /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+			           playVideoAndPauseOthers(slider);
+			       }
+			    },
+			   	after: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+			    }
+			});
+
+			function playVideoAndPauseOthers(slider) {
+				jQuery(slider).find('iframe').each(function(i) {
+					var func = 'stopVideo';
+					this.contentWindow.postMessage('{"event":"command","func":"' + func + '","args":""}', '*');
+				});
+			}
+
+			/* ------------------ PREV & NEXT BUTTON FOR FLEXSLIDER (YOUTUBE) ------------------ */
+			jQuery('.flex-next, .flex-prev').click(function() {
+				playVideoAndPauseOthers(jQuery(this).parents('.flexslider, .tfs-slider'));
+			});
+
+			function onPlayerStateChange(frame, slider) {
+				return function(event) {
+			        if(event.data == YT.PlayerState.PLAYING) {
+			            jQuery(slider).flexslider("pause");
+			        }
+			        if(event.data == YT.PlayerState.PAUSED) {
+			        	jQuery(slider).flexslider("play");
+			        }
+		    	}
+			}
+		}
+
+		if(jQuery().isotope) {
+			var gridwidth = (jQuery('.grid-layout').width() / 2) - 22;
+			jQuery('.grid-layout .post').css('width', gridwidth);
+			jQuery('.grid-layout').isotope({
+				layoutMode: 'masonry',
+				itemSelector: '.post',
+				masonry: {
+					columnWidth: gridwidth,
+					gutterWidth: 40
+				},
+			});
+
+			var gridwidth = (jQuery('.grid-full-layout').width() / 3) - 30;
+			jQuery('.grid-full-layout .post').css('width', gridwidth);
+			jQuery('.grid-full-layout').isotope({
+				layoutMode: 'masonry',
+				itemSelector: '.post',
+				masonry: {
+					columnWidth: gridwidth,
+					gutterWidth: 40
+				},
+			});
+		}
+
+		jQuery('.rev_slider_wrapper').each(function() {
+			if(jQuery(this).length >=1 && jQuery(this).find('.tp-bannershadow').length == 0) {
+				jQuery('<div class="shadow-left">').appendTo(this);
+				jQuery('<div class="shadow-right">').appendTo(this);
+
+				jQuery(this).addClass('avada-skin-rev');
+			}
+		});
+
+		jQuery('.tparrows').each(function() {
+			if(jQuery(this).css('visibility') == 'hidden') {
+				jQuery(this).remove();
+			}
+		});
+	});
+	jQuery(document).ready(function() {
+		function onAfter(curr, next, opts, fwd) {
+		  var $ht = jQuery(this).height();
+
+		  //set the container's height to that of the current slide
+		  jQuery(this).parent().css('height', $ht);
+		}
+		if(jQuery().cycle) {
+		    jQuery('.reviews').cycle({
+				fx: 'fade',
+				after: onAfter,
+								timeout: 4000							});
+		}
+	});
+	jQuery(window).load(function($) {
+		jQuery('.header-social .menu > li').height(jQuery('.header-social').height());
+		jQuery('.header-social .menu > li').css('line-height', jQuery('.header-social').height()+'px');
+
+		if(jQuery().prettyPhoto) {
+			var ppArgs = {
+								animation_speed: 'fast',
+								overlay_gallery: true,
+				autoplay_slideshow: false,
+								slideshow: 5000,
+												opacity: 0.8,
+								show_title: true,
+				show_desc: true,
+							};
+
+			jQuery("a[rel^='prettyPhoto']").prettyPhoto(ppArgs);
+
+			
+			jQuery('.lightbox-enabled a').has('img').prettyPhoto(ppArgs);
+
+			var mediaQuery = 'desk';
+
+			if (Modernizr.mq('only screen and (max-width: 600px)') || Modernizr.mq('only screen and (max-height: 520px)')) {
+
+				mediaQuery = 'mobile';
+				jQuery("a[rel^='prettyPhoto']").unbind('click');
+								jQuery('.lightbox-enabled a').has('img').unbind('click');
+			} 
+
+			// Disables prettyPhoto if screen small
+			jQuery(window).on('resize', function() {
+				if ((Modernizr.mq('only screen and (max-width: 600px)') || Modernizr.mq('only screen and (max-height: 520px)')) && mediaQuery == 'desk') {
+					jQuery("a[rel^='prettyPhoto']").unbind('click.prettyphoto');
+										jQuery('.lightbox-enabled a').has('img').unbind('click.prettyphoto');
+					mediaQuery = 'mobile';
+				} else if (!Modernizr.mq('only screen and (max-width: 600px)') && !Modernizr.mq('only screen and (max-height: 520px)') && mediaQuery == 'mobile') {
+					jQuery("a[rel^='prettyPhoto']").prettyPhoto(ppArgs);
+										jQuery('.lightbox-enabled a').has('img').prettyPhoto(ppArgs);
+					mediaQuery = 'desk';
+				}
+			});
+		}
+				jQuery('.side-nav li').hoverIntent({
+		over: function() {
+			if(jQuery(this).find('> .children').length >= 1) {
+				jQuery(this).find('> .children').stop(true, true).slideDown('slow');
+			}
+		},
+		out: function() {
+			if(jQuery(this).find('.current_page_item').length == 0 && jQuery(this).hasClass('current_page_item') == false) {
+				jQuery(this).find('.children').stop(true, true).slideUp('slow');
+			}
+		},
+		timeout: 500
+		});
+		
+		if(jQuery().eislideshow) {
+	        jQuery('#ei-slider').eislideshow({
+	        		        	animation: 'sides',
+	        		        	autoplay: true,
+	        		        	slideshow_interval: 3000,
+	        		        		        	speed: 800,
+	        		        		        	thumbMaxWidth: 150	        		        });
+    	}
+
+        var retina = window.devicePixelRatio > 1 ? true : false;
+
+        
+        /* wpml flag in center */
+		var wpml_flag = jQuery('ul#nav > li > a > .iclflag');
+		var wpml_h = wpml_flag.height();
+		wpml_flag.css('margin-top', +wpml_h / - 2 + "px");
+
+		var wpml_flag = jQuery('.top-menu > ul > li > a > .iclflag');
+		var wpml_h = wpml_flag.height();
+		wpml_flag.css('margin-top', +wpml_h / - 2 + "px");
+
+				
+		jQuery('#posts-container-infinite').infinitescroll({
+		    navSelector  : "div.pagination",
+		                   // selector for the paged navigation (it will be hidden)
+		    nextSelector : "a.pagination-next",
+		                   // selector for the NEXT link (to page 2)
+		    itemSelector : "div.post",
+		                   // selector for all items you'll retrieve
+		    errorCallback: function() {
+		    	jQuery('#posts-container').isotope('reLayout');
+		    }
+		}, function(posts) {
+			if(jQuery().isotope) {
+				//jQuery(posts).css('top', 'auto').css('left', 'auto');
+
+				jQuery(posts).hide();
+				imagesLoaded(posts, function() {
+					jQuery(posts).fadeIn();
+					jQuery('#posts-container-infinite').isotope('appended', jQuery(posts));
+					jQuery('#posts-container-infinite').isotope('reLayout');
+				});
+
+				var gridwidth = (jQuery('.grid-layout').width() / 2) - 22;
+				jQuery('.grid-layout .post').css('width', gridwidth);
+
+				var gridwidth = (jQuery('.grid-full-layout').width() / 3) - 30;
+				jQuery('.grid-full-layout .post').css('width', gridwidth);
+
+				jQuery('#posts-container-infinite').isotope('reLayout');
+			}
+
+			jQuery('.flexslider').flexslider({
+				slideshow: true,
+				slideshowSpeed: 7000,
+				video: true,
+				pauseOnHover: false,
+				useCSS: false,
+				start: function(slider) {
+			        if (typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+				},
+			    before: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           $f(slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+						
+			           /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+			           playVideoAndPauseOthers(slider);
+			       }
+			    },
+			   	after: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+			    }
+			});
+			if(jQuery().prettyPhoto) { jQuery("a[rel^='prettyPhoto']").prettyPhoto(ppArgs); }
+			jQuery(posts).each(function() {
+				jQuery(this).find('.full-video, .video-shortcode, .wooslider .slide-content').fitVids();
+			});
+
+			if(jQuery().isotope) {
+				jQuery('#posts-container-infinite').isotope('reLayout');
+			}
+		});
+
+			});
+	</script>
+
+	<style type="text/css">
+		a:hover{
+		color:#c70404;
+	}
+	#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	.footer-area ul li a:hover,
+	.portfolio-tabs li.active a, .faq-tabs li.active a,
+	.project-content .project-info .project-info-box a:hover,
+	.about-author .title a,
+	span.dropcap,.footer-area a:hover,.copyright a:hover,
+	#sidebar .widget_categories li a:hover,
+	#main .post h2 a:hover,
+	#sidebar .widget li a:hover,
+	#nav ul a:hover,
+	.date-and-formats .format-box i,
+	h5.toggle:hover a,
+	.tooltip-shortcode,.content-box-percentage,
+	.more a:hover:after,.read-more:hover:after,.pagination-prev:hover:before,.pagination-next:hover:after,
+	.single-navigation a[rel=prev]:hover:before,.single-navigation a[rel=next]:hover:after,
+	#sidebar .widget_nav_menu li a:hover:before,#sidebar .widget_categories li a:hover:before,
+	#sidebar .widget .recentcomments:hover:before,#sidebar .widget_recent_entries li a:hover:before,
+	#sidebar .widget_archive li a:hover:before,#sidebar .widget_pages li a:hover:before,
+	#sidebar .widget_links li a:hover:before,.side-nav .arrow:hover:after,.woocommerce-tabs .tabs a:hover .arrow:after,
+	.star-rating:before,.star-rating span:before,.price ins .amount,
+	.price > .amount,.woocommerce-pagination .prev:hover:before,.woocommerce-pagination .next:hover:after,
+	.woocommerce-tabs .tabs li.active a,.woocommerce-tabs .tabs li.active a .arrow:after,
+	#wrapper .cart-checkout a:hover,#wrapper .cart-checkout a:hover:before,
+	.widget_shopping_cart_content .total .amount,.widget_layered_nav li a:hover:before,
+	.widget_product_categories li a:hover:before,#header .my-account-link-active:after,.woocommerce-side-nav li.active a,.woocommerce-side-nav li.active a:after,.my_account_orders .order-number a,.shop_table .product-subtotal .amount,
+	.cart_totals .total .amount,form.checkout .shop_table tfoot .total .amount,#final-order-details .mini-order-details tr:last-child .amount,.rtl .more a:hover:before,.rtl .read-more:hover:before,#header .my-cart-link-active:after,#wrapper #sidebar .current_page_item > a,#wrapper #sidebar .current-menu-item a,#wrapper #sidebar .current_page_item a:before,#wrapper #sidebar .current-menu-item a:before,#wrapper .footer-area .current_page_item a,#wrapper .footer-area .current-menu-item a,#wrapper .footer-area .current_page_item a:before,#wrapper .footer-area .current-menu-item a:before,.side-nav ul > li.current_page_item > a,.side-nav li.current_page_ancestor > a{
+		color:#c70404 !important;
+	}
+	#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	#nav ul ul,#nav li.current-menu-ancestor a,
+	.reading-box,
+	.portfolio-tabs li.active a, .faq-tabs li.active a,
+	.tab-holder .tabs li.active a,
+	.post-content blockquote,
+	.progress-bar-content,
+	.pagination .current,
+	.pagination a.inactive:hover,
+	#nav ul a:hover,.woocommerce-pagination .current,
+	.tagcloud a:hover,#header .my-account-link:hover:after,body #header .my-account-link-active:after{
+		border-color:#c70404 !important;
+	}
+	.side-nav li.current_page_item a{
+		border-right-color:#c70404 !important;	
+	}
+	.rtl .side-nav li.current_page_item a{
+		border-left-color:#c70404 !important;	
+	}
+	.header-v2 .header-social, .header-v3 .header-social, .header-v4 .header-social,.header-v5 .header-social,.header-v2{
+		border-top-color:#c70404 !important;	
+	}
+	h5.toggle.active span.arrow,
+	.post-content ul.circle-yes li:before,
+	.progress-bar-content,
+	.pagination .current,
+	.header-v3 .header-social,.header-v4 .header-social,.header-v5 .header-social,
+	.date-and-formats .date-box,.table-2 table thead,
+	.onsale,.woocommerce-pagination .current,
+	.woocommerce .social-share li a:hover i,
+	.price_slider_wrapper .ui-slider .ui-slider-range,
+	.tagcloud a:hover,.cart-loading,
+	ul.arrow li:before{
+		background-color:#c70404 !important;
+	}
+	
+			#header,#small-nav,#header .login-box,#header .cart-contents,#small-nav .login-box,#small-nav .cart-contents{
+		background-color:0.0 !important;
+	}
+	body #header.sticky-header{background:rgba(0, 0, 0, 0.95) !important;}
+	#nav ul a{
+		border-color:0.0 !important;	
+	}
+	
+	
+	
+		.footer-area{
+		border-color:#c70404 !important;
+	}
+	
+	
+	
+		.sep-boxed-pricing ul li.title-row{
+		background-color:#c40606 !important;
+		border-color:#c40606 !important;
+	}
+	.pricing-row .exact_price, .pricing-row sup{
+		color:#c40606 !important;
+	}
+				.image .image-extras{
+		background-image: linear-gradient(top, rgba(232,7,7,1) 0%, rgba(214,7,7,1) 100%);
+		background-image: -o-linear-gradient(top, rgba(232,7,7,1) 0%, rgba(214,7,7,1) 100%);
+		background-image: -moz-linear-gradient(top, rgba(232,7,7,1) 0%, rgba(214,7,7,1) 100%);
+		background-image: -webkit-linear-gradient(top, rgba(232,7,7,1) 0%, rgba(214,7,7,1) 100%);
+		background-image: -ms-linear-gradient(top, rgba(232,7,7,1) 0%, rgba(214,7,7,1) 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, rgba(232,7,7,1)),
+			color-stop(1, rgba(214,7,7,1))
+		);
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e80707', endColorstr='#d60707');
+	}
+	.no-cssgradients .image .image-extras{
+		background:#e80707;
+	}
+			#main .portfolio-one .button,
+	#main .comment-submit,
+	#reviews input#submit,
+	.button.default,
+	.price_slider_amount button,
+	.gform_wrapper .gform_button{
+		color: #e10707 !important;
+		background-image: linear-gradient(top, #e80707 0%, #d60707 100%);
+		background-image: -o-linear-gradient(top, #e80707 0%, #d60707 100%);
+		background-image: -moz-linear-gradient(top, #e80707 0%, #d60707 100%);
+		background-image: -webkit-linear-gradient(top, #e80707 0%, #d60707 100%);
+		background-image: -ms-linear-gradient(top, #e80707 0%, #d60707 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #e80707),
+			color-stop(1, #d60707)
+		);
+		border:1px solid #d60707;
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e80707', endColorstr='#d60707');
+	}
+	.no-cssgradients #main .portfolio-one .button,
+	.no-cssgradients #main .comment-submit,
+	.no-cssgradients #reviews input#submit,
+	.no-cssgradients .button.default,
+	.no-cssgradients .price_slider_amount button,
+	.no-cssgradients .gform_wrapper .gform_button{
+		background:#e80707;
+	}
+	#main .portfolio-one .button:hover,
+	#main .comment-submit:hover,
+	#reviews input#submit:hover,
+	.button.default:hover,
+	.price_slider_amount button:hover,
+	.gform_wrapper .gform_button:hover{
+		color: #e10707 !important;
+		background-image: linear-gradient(top, #d60707 0%, #e80707 100%);
+		background-image: -o-linear-gradient(top, #d60707 0%, #e80707 100%);
+		background-image: -moz-linear-gradient(top, #d60707 0%, #e80707 100%);
+		background-image: -webkit-linear-gradient(top, #d60707 0%, #e80707 100%);
+		background-image: -ms-linear-gradient(top, #d60707 0%, #e80707 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #d60707),
+			color-stop(1, #e80707)
+		);
+		border:1px solid #d60707;
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d60707', endColorstr='#e80707');
+	}
+	.no-cssgradients #main .portfolio-one .button:hover,
+	.no-cssgradients #main .comment-submit:hover,
+	.no-cssgradients #reviews input#submit:hover,
+	.no-cssgradients .button.default,
+	.no-cssgradients .price_slider_amount button:hover,
+	.no-cssgradients .gform_wrapper .gform_button{
+		background:#d60707;
+	}
+	
+		body{
+				background-color:#d7d6d6;
+		
+				background-image:url(http://nokcsoccer.com/wp-content/uploads/2013/05/fondo-splash11.jpg);
+		background-repeat:repeat;
+						background-attachment:fixed;
+			background-position:center center;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+					
+			}
+	#wrapper{
+		background:#fff;
+		width:1000px;
+		margin:0 auto;
+	}
+	@media only screen and (min-width: 801px) and (max-width: 1014px){
+		#wrapper{
+			width:auto;
+		}
+	}
+	@media only screen and (min-device-width: 801px) and (max-device-width: 1014px){
+		#wrapper{
+			width:auto;
+		}
+	}
+	
+		.page-title-container{
+		background-image:url(http://nokcsoccer.com/wp-content/themes/Avada/images/page_title_bg.png) !important;
+	}
+	
+		.page-title-container{
+		background-color:#F6F6F6;
+	}
+	
+	
+	#header{
+				background-image:url(http://nokcsoccer.com/wp-content/uploads/2013/09/NOKC-Header.jpg);
+		background-repeat:no-repeat;
+						}
+
+	#header{
+					}
+
+	#main{
+			}
+
+	#main{
+					}
+
+	.footer-area{
+			}
+
+	.page-title-container{
+			}
+
+	.page-title-container{
+						-webkit-background-size: auto;
+		-moz-background-size: auto;
+		-o-background-size: auto;
+		background-size: auto;
+			}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	body,#nav ul li ul li a,
+	.more,
+	.avada-container h3,
+	.meta .date,
+	.review blockquote q,
+	.review blockquote div strong,
+	.image .image-extras .image-extras-content h4,
+	.project-content .project-info h4,
+	.post-content blockquote,
+	.button.large,
+	.button.small,
+	.ei-title h3,.cart-contents,
+	.gform_wrapper .gform_button,
+	.woocommerce-success-message .button{
+		font-family:"PT Sans", Arial, Helvetica, sans-serif !important;
+	}
+	.avada-container h3,
+	.review blockquote div strong,
+	.footer-area  h3,
+	.button.large,
+	.button.small,
+	.gform_wrapper .gform_button{
+		font-weight:bold;
+	}
+	.meta .date,
+	.review blockquote q,
+	.post-content blockquote{
+		font-style:italic;
+	}
+
+	
+	#nav,
+	.side-nav li a{
+		font-family:"Antic Slab", Arial, Helvetica, sans-serif !important;
+	}
+	
+	
+	#main .reading-box h2,
+	#main h2,
+	.page-title h1,
+	.image .image-extras .image-extras-content h3,
+	#main .post h2,
+	#sidebar .widget h3,
+	.tab-holder .tabs li a,
+	.share-box h4,
+	.project-content h3,
+	h5.toggle a,
+	.full-boxed-pricing ul li.title-row,
+	.full-boxed-pricing ul li.pricing-row,
+	.sep-boxed-pricing ul li.title-row,
+	.sep-boxed-pricing ul li.pricing-row,
+	.person-author-wrapper,
+	.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6,
+	.ei-title h2, #header .tagline,
+	table th,.project-content .project-info h4,
+	.woocommerce-success-message .msg,.product-title{
+		font-family:"Antic Slab", Arial, Helvetica, sans-serif !important;
+	}
+	
+	
+	.footer-area  h3{
+		font-family:"Antic Slab", Arial, Helvetica, sans-serif !important;
+	}
+
+		body,#sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2{
+		font-size:14px;
+				line-height:21px;
+	}
+	.project-content .project-info h4,.gform_wrapper label,.gform_wrapper .gfield_description{
+		font-size:14px !important;
+				line-height:21px !important;
+	}
+	
+		body,#sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2{
+		line-height:20px !important;
+	}
+	.project-content .project-info h4{
+		line-height:20px !important;
+	}
+	
+		#nav{font-size:14px !important;}
+	
+		.header-social *{font-size:12px !important;}
+	
+		.page-title ul li,page-title ul li a{font-size:10px !important;}
+	
+		.side-nav li a{font-size:14px !important;}
+	
+		#sidebar .widget h3{font-size:13px !important;}
+	
+		.footer-area h3{font-size:13px !important;}
+	
+		.copyright{font-size:12px !important;}
+	
+	
+		.post-content h1{
+		font-size:32px !important;
+				line-height:48px !important;
+	}
+	
+		.post-content h1{
+		line-height:48px !important;
+	}
+	
+		.post-content h2,.title h2,#main .post-content .title h2,.page-title h1,#main .post h2 a{
+		font-size:18px !important;
+				line-height:27px !important;
+	}
+	
+		.post-content h2,.title h2,#main .post-content .title h2,.page-title h1,#main .post h2 a{
+		line-height:27px !important;
+	}
+	
+		.post-content h3,.project-content h3,#header .tagline,.product-title{
+		font-size:16px !important;
+				line-height:24px !important;
+	}
+	
+		.post-content h3,.project-content h3,#header .tagline,.product-title{
+		line-height:24px !important;
+	}
+	
+		.post-content h4{
+		font-size:13px !important;
+				line-height:20px !important;
+	}
+	h5.toggle a,.tab-holder .tabs li a,.share-box h4,.person-author-wrapper{
+		font-size:13px !important;
+	}
+	
+		.post-content h4{
+		line-height:20px !important;
+	}
+	
+		.post-content h5{
+		font-size:12px !important;
+				line-height:18px !important;
+	}
+	
+		.post-content h5{
+		line-height:18px !important;
+	}
+	
+		.post-content h6{
+		font-size:11px !important;
+				line-height:17px !important;
+	}
+	
+		.post-content h6{
+		line-height:17px !important;
+	}
+	
+		.ei-title h2{
+		font-size:42px !important;
+				line-height:63px !important;
+	}
+	
+		.ei-title h3{
+		font-size:20px !important;
+				line-height:30px !important;
+	}
+	
+		body,.post .post-content,.post-content blockquote,.tab-holder .news-list li .post-holder .meta,#sidebar #jtwt,.meta,.review blockquote div,.search input,.project-content .project-info h4,.title-row,.simple-products-slider .price .amount,.quantity .qty,.quantity .minus,.quantity .plus{color:#000000 !important;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		body a{color:#e10707;}
+	.project-content .project-info .project-info-box a,#sidebar .widget li a, #sidebar .widget .recentcomments, #sidebar .widget_categories li, #main .post h2 a,
+	.shop_attributes tr th,.image-extras a,.products-slider .price .amount,.my_account_orders thead tr th,.shop_table thead tr th,.cart_totals table th,form.checkout .shop_table tfoot th,form.checkout .payment_methods label,#final-order-details .mini-order-details th,#main .product .product_title{color:#e10707 !important;}
+	
+		.page-title ul li,.page-title ul li a{color:#333333 !important;}
+	
+		.footer-area h3{color:#DDDDDD !important;}
+	
+		.footer-area,.footer-area #jtwt,.copyright{color:#8C8989 !important;}
+	
+		.footer-area a,.copyright a{color:#BFBFBF !important;}
+	
+		#nav ul a,.side-nav li a,#header .cart-content a,#header .cart-content a:hover,#wrapper .header-social .top-menu .cart > a,#wrapper .header-social .top-menu .cart > a > .amount{color:#333333 !important;}
+	#header .my-account-link:after{border-color:#333333 !important;}
+	
+	
+
+		#nav ul ul{background-color:#edebeb;}
+	
+		#wrapper #nav ul li ul li a,.side-nav li li a,.side-nav li.current_page_item li a{color:#333333 !important;}
+	
+		.ei-title h2{color:#333333 !important;}
+	
+		.ei-title h3{color:#747474 !important;}
+	
+		#wrapper .header-social *{color:#ffffff !important;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		#header .tagline{
+		font-size:16px !important;
+		line-height:30px !important;
+	}
+	
+		.page-title h1{
+		font-size:18px !important;
+		line-height:normal !important;
+	}
+	
+		.header-social,#header{
+		border-bottom-color:0.0 !important;
+	}
+	
+	
+	
+	
+	
+	
+	
+		#wrapper .header-social{
+		background-color:0.0 !important;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		.main-flex .flex-control-nav{display:none !important;}
+		
+		@media only screen and (max-width: 940px){
+		.breadcrumbs{display:none !important;}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait){
+		.breadcrumbs{display:none !important;}
+	}
+	
+		
+		#nav > li > a,#nav li.current-menu-ancestor a{height:40px;line-height:40px;}
+	#nav > li > a,#nav li.current-menu-ancestor a{height:40px;line-height:40px;}
+
+	#nav ul ul{top:43px;}
+
+		
+	
+		.ei-slider{width:100% !important;}
+	
+		.ei-slider{height:400px !important;}
+	
+	
+	
+	
+	.isotope .isotope-item {
+	  -webkit-transition-property: top, left, opacity;
+	     -moz-transition-property: top, left, opacity;
+	      -ms-transition-property: top, left, opacity;
+	       -o-transition-property: top, left, opacity;
+	          transition-property: top, left, opacity;
+	}
+
+					
+        
+	#wrapper {
+background: none !important;
+}
+
+#small-nav {
+background-color: #fff !important;
+}	</style>
+	
+	
+	</head>
+<body class="home page page-id-6 page-template page-template-full-width page-template-full-width-php wpb-js-composer js-comp-ver-4.3 vc_responsive">
+	<div id="wrapper">
+		<div class="header-wrapper">
+			<div class="header-v5">
+	<div class="header-social">
+		<div class="avada-row">
+			<div class="alignleft">
+				<strong>Hotline:</strong> (405) 751-7368<a href="mailto:"></a>
+			</div>
+			<div class="alignright">
+				<ul class="social-networks social-networks-light">
+		<li class="facebook"><a target="_blank" href="https://www.facebook.com/NorthOklahomaCitySoccer">Facebook</a>
+		<div class="popup">
+			<div class="holder">
+				<p>Facebook</p>
+			</div>
+		</div>
+	</li>
+			<li class="twitter"><a target="_blank" href="https://twitter.com/NOKCSoccerClub">Twitter</a>
+		<div class="popup">
+			<div class="holder">
+				<p>Twitter</p>
+			</div>
+		</div>
+	</li>
+											<li class="google"><a target="_blank" href="https://plus.google.com/109940921249018655390/about?gl=us&hl=en" class="google">Google+</a>
+		<div class="popup">
+			<div class="holder">
+				<p>Google</p>
+			</div>
+		</div>
+	</li>
+										</ul>
+			</div>
+		</div>
+	</div>
+	<header id="header">
+		<div class="avada-row" style="margin-top:;margin-bottom:;">
+			<div class="logo" style="margin-right:0px;margin-top:0px;margin-left:0px;margin-bottom:0;">
+				<a href="http://nokcsoccer.com">
+					<img src="http://nokcsoccer.com/wp-content/uploads/2013/03/NOKC-Header5.png" alt="North Oklahoma City Soccer Club" class="normal_logo" />
+										<img src="http://nokcsoccer.com/wp-content/uploads/2013/03/NOKC-Header5.png" alt="North Oklahoma City Soccer Club" style="width:500px;height:55px;" class="retina_logo" />
+									</a>
+			</div>
+		</div>
+	</header>
+	<div id="small-nav">
+		<div class="avada-row">
+						<nav id="nav" class="nav-holder">
+							<ul id="nav" class="menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-33"><a href="http://nokcsoccer.com/">Home</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39"><a href="http://nokcsoccer.com/club/">Club</a>
+<ul class="sub-menu">
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://nokcsoccer.com/club/board-members/">Board Members</a></li>
+	<li id="menu-item-4866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4866"><a href="http://nokcsoccer.com/club/nokc-logo-information/">NOKC Logo Information</a></li>
+	<li id="menu-item-3825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3825"><a href="http://nokcsoccer.com/club/sponsor-opportunities/">Sponsor Opportunities</a></li>
+</ul>
+</li>
+<li id="menu-item-3920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3920"><a href="http://nokcsoccer.com/news/">News</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-29"><a href="http://nokcsoccer.com/tournaments/">Tournaments</a>
+<ul class="sub-menu">
+	<li id="menu-item-4942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4942"><a href="http://nokcsoccer.com/tournaments/3v3-live-soccer-tournament/">3v3 Live</a></li>
+	<li id="menu-item-5316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5316"><a href="http://nokcsoccer.com/events/festival-de-futbol-tournament/">Festival De Futbol</a></li>
+	<li id="menu-item-4661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4661"><a href="http://nokcsoccer.com/tournaments/red-earth-invitational/">Red Earth Invitational</a></li>
+</ul>
+</li>
+<li id="menu-item-4596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4596"><a href="http://nokcsoccer.com/camps/">Camps</a></li>
+<li id="menu-item-3849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3849"><a href="http://nokcsoccer.com/competitive/">Competitive</a>
+<ul class="sub-menu">
+	<li id="menu-item-5328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5328"><a href="http://nokcsoccer.com/competitive/ocl-reschedules/">OCL Reschedules</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="http://nokcsoccer.com/recreational/">Recreational</a>
+<ul class="sub-menu">
+	<li id="menu-item-5555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5555"><a href="http://nokcsoccer.com/recreational/coaches-education/">Coaches Education</a></li>
+	<li id="menu-item-5313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5313"><a href="http://nokcsoccer.com/2015/03/picture-day/">Recreation Picture Day</a></li>
+	<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="http://nokcsoccer.com/recreational/registration/">Registration</a></li>
+	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://nokcsoccer.com/recreational/reschedules/">Reschedules</a></li>
+</ul>
+</li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-154"><a href="http://nokcsoccer.com/academy/">Academy</a>
+<ul class="sub-menu">
+	<li id="menu-item-3827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3827"><a href="http://nokcsoccer.com/academy/coaches/">Coaches</a></li>
+	<li id="menu-item-4469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4469"><a href="http://nokcsoccer.com/academy/fees/">Fees</a></li>
+	<li id="menu-item-5308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5308"><a href="http://nokcsoccer.com/academy/reschedules/">Reschedules</a></li>
+	<li id="menu-item-3829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3829"><a href="http://nokcsoccer.com/academy/schedules/">Schedules</a></li>
+	<li id="menu-item-4466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4466"><a href="http://nokcsoccer.com/academy/summer-program/">Summer Program</a></li>
+</ul>
+</li>
+<li id="menu-item-4554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4554"><a href="http://nokcsoccer.com/resources/">Resources</a></li>
+<li id="menu-item-4547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4547"><a href="http://nokcsoccer.com/complex/">Complex</a></li>
+	</ul>
+			</nav>
+		</div>
+	</div>
+</div>		</div>
+				<div id="sliders-container">
+			<!-- START REVOLUTION SLIDER 4.6.0 fullwidth mode -->
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:350px;">
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:350px;height:350px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2015/03/Emeganos-05-White-boys.jpg"  alt="Emeganos-05-White-boys"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/10/05-Boys.jpg"  alt="05-Boys"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/10/Thunder.jpg"  alt="Thunder"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/09/Energy-Girls.jpg"  alt="Energy-Girls"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/06/Divas.jpg"  alt="Divas"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/06/NOKC-Boys.jpg"  alt="NOKC-Boys"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/06/Swag.jpg"  alt="Swag"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/04/Team.jpg"  alt="Team"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/04/Ice-Cream.jpg"  alt="Ice-Cream"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/04/NOKC-Pink.jpg"  alt="NOKC-Pink"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://nokcsoccer.com/wp-content/uploads/2014/04/NOKC-Practice1.jpg"  alt="NOKC-Practice1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+	</div>
+
+			<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 960;
+						tpopt.startheight = 350;
+						tpopt.container = jQuery('#rev_slider_1_1');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi1;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:9000,
+						startwidth:960,
+						startheight:350,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+												
+						simplifyAll:"off",
+
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"off",
+
+						swipe_threshold: 0.7,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+												
+												
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+						spinner:"spinner0",
+						
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+
+						autoHeight:"off",
+						forceFullWidth:"off",
+						
+						
+						
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0					});
+
+
+
+					
+				});	/*ready*/
+
+			</script>
+
+
+			</div><!-- END REVOLUTION SLIDER -->			</div>
+										
+					<div id="main" class="" style="overflow:hidden !important;">
+		<div class="avada-row" style="">
+				<div id="content" class="full-width">
+				<div id="post-6" class="post-6 page type-page status-publish hentry">
+						<div class="post-content">
+				<div class="title"><h2>Club News &amp; Announcements</h2><div class="title-sep-container"><div class="title-sep"></div></div></div>
+<div class="avada-container"><section class="columns columns-3" style="width:100%"><div class="holder"><article class="col"><div class="flexslider floated-post-slideshow"><ul class="slides"><li>
+					<a href="http://nokcsoccer.com/2015/03/advantage-program/" rel=""><img src="http://nokcsoccer.com/wp-content/uploads/2015/03/Advantage-Program.jpg" alt="Advantage Program" /></a>
+				</li></ul>
+		</div><h4><a href="http://nokcsoccer.com/2015/03/advantage-program/">Advantage Program</a></h4><div class="excerpt-container"><p>THE NOKC FITNESS AND SKILLS SUMMER PROGRAM</p>
+<p>This is a 4 week program that meets &#91;...&#93;</div></article><article class="col"><div class="flexslider floated-post-slideshow"><ul class="slides"><li>
+					<a href="http://nokcsoccer.com/2015/03/picture-day/" rel=""><img src="http://nokcsoccer.com/wp-content/uploads/2015/03/NOKC-Picture-Day.jpg" alt="Picture Day" /></a>
+				</li></ul>
+		</div><h4><a href="http://nokcsoccer.com/2015/03/picture-day/">Picture Day</a></h4><div class="excerpt-container"><p>It&#8217;s that time of the year again! Team photos will be on March 28th &#91;...&#93;</div></article><article class="col"><div class="flexslider floated-post-slideshow"><ul class="slides"><li>
+					<a href="http://nokcsoccer.com/2015/02/3v3-live/" rel=""><img src="http://nokcsoccer.com/wp-content/uploads/2014/07/3v3-Live.jpg" alt="3v3 Live" /></a>
+				</li></ul>
+		</div><h4><a href="http://nokcsoccer.com/2015/02/3v3-live/">3v3 Live</a></h4><div class="excerpt-container"><p>3v3 Live is just around the corner. Be sure to register your team today for the &#91;...&#93;</div></article></div></section></div>
+<div class="one_fourth">
+<div class="title"><h2>Contact Info</h2><div class="title-sep-container"><div class="title-sep"></div></div></div>
+<ul>
+<li><strong>Club Administrator<br />
+</strong>Alli Fansher @<br />
+(405) 397-3633</li>
+<li><strong>Competitive U11-U19</strong><br />
+Stephen Phillips @<br />
+(405) 245-8741</li>
+<li><strong>U6 Recreational</strong><strong><br />
+</strong>Jennifer Nichols @<br />
+(405) 823-6554</li>
+<li><strong>Recreational U8</strong><strong><br />
+</strong>Brook Plank @<br />
+(405) 570-3353</li>
+<li><strong>Recreational U10-U19</strong><strong><br />
+</strong>Sam Warden @<br />
+(405) 850-8181</li>
+<li><strong>Referee Program</strong><strong><br />
+</strong>Brett Dobie @<br />
+(405) 323-8705</li>
+</ul>
+<div class="title"><h2>NOKC Field Status</h2><div class="title-sep-container"><div class="title-sep"></div></div></div>
+<div class="minitweets">
+				<a class="twitter-timeline" href="https://twitter.com/nokcfieldstatus" data-widget-id="345414239789387778" data-screen-name="nokcfieldstatus" data-show-replies="false" width="100%" height="100%" data-tweet-limit="1">Tweets by nokcfieldstatus</a>
+			   	<div class="minitweets-end">
+				      <a class="bird" href="http://minitwitter.webdevdesigner.com">tweets</a>
+				</div>
+			</div>
+</div>
+<div class="three_fourth last">
+		<div id="wpfc-calendar-wrapper"><form id="wpfc-calendar"></form><div class="wpfc-loading"></div></div>
+		<div id="wpfc-calendar-search" style="display:none;">
+					</div>
+		
+</div><div class="clearboth"></div>
+							</div>
+												
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are closed. -->
+		<p class="no-comments">Comments are closed.</p>
+
+	
+
+					</div>
+			</div>
+		</div>
+	</div>
+			<footer class="footer-area">
+		<div class="avada-row">
+			<section class="columns columns-4">
+				<article class="col">
+				<div id="text-3" class="footer-widget-col widget_text">			<div class="textwidget"><img class="aligncenter size-full wp-image-3853" alt="Logo Small" src="http://nokcsoccer.com/wp-content/uploads/2013/05/Logo-Small.png" width="150" height="150" /></div>
+		<div style="clear:both;"></div></div>				</article>
+
+				<article class="col">
+				<div id="nav_menu-3" class="footer-widget-col widget_nav_menu"><h3>About Us</h3><div class="menu-about-us-container"><ul id="menu-about-us" class="menu"><li id="menu-item-3859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3859"><a href="http://nokcsoccer.com/club/sponsor-opportunities/">Sponsor Opportunities</a></li>
+<li id="menu-item-3860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3860"><a href="http://nokcsoccer.com/club/board-members/">Board Members</a></li>
+<li id="menu-item-3858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3858"><a href="http://nokcsoccer.com/club/">Club</a></li>
+</ul></div><div style="clear:both;"></div></div>				</article>
+
+				<article class="col">
+				<div id="nav_menu-4" class="footer-widget-col widget_nav_menu"><h3>Learn More</h3><div class="menu-learn-more-container"><ul id="menu-learn-more" class="menu"><li id="menu-item-3856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3856"><a href="http://nokcsoccer.com/tournaments/">Tournaments</a></li>
+<li id="menu-item-3857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3857"><a href="http://nokcsoccer.com/competitive/">Competitive</a></li>
+<li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="http://nokcsoccer.com/recreational/">Recreational</a></li>
+<li id="menu-item-3863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3863"><a href="http://nokcsoccer.com/academy/">Academy</a></li>
+</ul></div><div style="clear:both;"></div></div>				</article>
+				
+				<article class="col last">
+				<div id="text-4" class="footer-widget-col widget_text"><h3>Field Info.</h3>			<div class="textwidget">NOKC Soccer Complex</br>
+11711 N Portland Ave</br>
+Oklahoma City, OK 73120</p>
+
+Field Hotline: (405) 751-7368</br>
+Referee Assigner: (405) 323-8705</br>
+Team Hotlines: (405) 523-3676</br></div>
+		<div style="clear:both;"></div></div>				</article>
+			</section>
+		</div>
+	</footer>
+	
+		<footer id="footer">
+		<div class="avada-row">
+						<ul class="social-networks social-networks-light">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/NorthOklahomaCitySoccer">Facebook</a>
+				<div class="popup">
+					<div class="holder">
+						<p>Facebook</p>
+					</div>
+				</div>
+			</li>
+									<li class="twitter"><a target="_blank" href="https://twitter.com/NOKCSoccerClub">Twitter</a>
+				<div class="popup">
+					<div class="holder">
+						<p>Twitter</p>
+					</div>
+				</div>
+			</li>
+																																	<li class="google"><a target="_blank" href="https://plus.google.com/109940921249018655390/about?gl=us&hl=en" class="google">Google+</a>
+				<div class="popup">
+					<div class="holder">
+						<p>Google</p>
+					</div>
+				</div>
+			</li>
+																																</ul>
+					<ul class="copyright">
+				<li>&copy; 2015 North Oklahoma City Soccer Club. All rights reserved. | Designed & Maintained by <a href="http://moderninfluence.com/" target="_blank">Modern Influence</a></div>
+			</ul>
+		</div>
+	</footer>
+		</div><!-- wrapper -->
+			<img alt='css.php' src="http://nokcsoccer.com/wp-content/plugins/cookies-for-comments/css.php?k=298c7b2a26c2cc8c8c1953c512a816e1&amp;o=i&amp;t=1340881685" width='1' height='1' /><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<div class="revsliderstyles"><style type="text/css"></style>
+</div>		<script type='text/javascript'>
+			var wpfc_loaded = false;
+			var wpfc_counts = {};
+			var wpfc_data = { action : 'WP_FullCalendar', 'type' : 'event', 'month' : 2, 'year' : 2015 };
+			jQuery(document).ready( function($){	
+				var fullcalendar_args = {
+					timeFormat: 'h(:mm)t',
+					defaultView: 'month',
+					weekends: true,
+					header: {
+						left: 'prev,next today',
+						center: 'title',
+						right: 'month,agendaWeek,agendaDay'
+					},
+					month: 2,
+					year: 2015,
+					theme: WPFC.wpfc_theme,
+					firstDay: WPFC.firstDay,
+					editable: false,
+					eventSources: [{
+							url : WPFC.ajaxurl,
+							data : wpfc_data,
+							ignoreTimezone: true,
+							allDayDefault: false
+					}],
+				    eventRender: function(event, element) {
+						if( event.post_id > 0 && WPFC.wpfc_qtips == 1 ){
+							var event_data = { action : 'wpfc_qtip_content', post_id : event.post_id, event_id:event.event_id };
+							element.qtip({
+								content:{
+									text : 'Loading...',
+									ajax : {
+										url : WPFC.ajaxurl,
+										type : "POST",
+										data : event_data
+									}
+								},
+								position : {
+									my: WPFC.wpfc_qtips_my,
+									at: WPFC.wpfc_qtips_at
+								},
+								style : { classes:WPFC.wpfc_qtips_classes }
+							});
+						}
+				    },
+					loading: function(bool) {
+						if (bool) {
+							var position = $('#wpfc-calendar').position();
+							$('.wpfc-loading').css('left',position.left).css('top',position.top).css('width',$('#calendar').width()).css('height',$('#calendar').height()).show();
+						}else {
+							wpfc_counts = {};
+							$('.wpfc-loading').hide();
+						}
+					},
+					viewDisplay: function(view) {
+						if( !wpfc_loaded ){
+							$('.fc-header tbody').append('<tr><td id="wpfc-filters"  colspan="3"></td></tr>');
+							search_menu = $('#wpfc-calendar-search').show();
+							$('#wpfc-filters').append(search_menu);
+							//catchall selectmenu handle
+							$('select.wpfc-taxonomy').selectmenu({
+								format: function(text){
+									//replace the color hexes with color boxes
+									return text.replace(/#([a-zA-Z0-9]{3}[a-zA-Z0-9]{3}?) - /g, '<span class="wpfc-cat-icon" style="background-color:#$1"></span>');
+								},
+								open: function(){
+									$('.ui-selectmenu-menu').css('z-index','1005');
+								}
+							}).change(function(event){
+								wpfc_data[$(this).attr('name')] = $(this).find(':selected').val();
+								$('#wpfc-calendar').fullCalendar('removeEventSource', WPFC.ajaxurl).fullCalendar('addEventSource', {url : WPFC.ajaxurl, allDayDefault:false, ignoreTimezone: true, data : wpfc_data});
+							});
+						}
+						wpfc_loaded = true;
+				    }
+				};
+				if( WPFC.wpfc_locale ){
+					$.extend(fullcalendar_args, WPFC.wpfc_locale);
+				}
+				$(document).trigger('wpfc_fullcalendar_args', [fullcalendar_args]);
+				$('#wpfc-calendar').fullCalendar(fullcalendar_args);
+				if( WPFC.wpfc_theme_css != '' ){ // add themeroller
+					$('script#jquery-ui-css').remove(); //remove old css if exists
+					var script = document.createElement("link"); script.id = "jquery-ui-css"; script.rel = "stylesheet"; script.href = WPFC.wpfc_theme_css;
+					document.body.appendChild(script);
+				}
+			});
+			//selectmenu @ https://github.com/fnagel/jquery-ui
+			(function(e){e.widget("ui.selectmenu",{options:{appendTo:"body",typeAhead:1e3,style:"dropdown",positionOptions:null,width:null,menuWidth:null,handleWidth:26,maxHeight:null,icons:null,format:null,escapeHtml:false,bgImage:function(){}},_create:function(){var t=this,n=this.options;var r=this.element.uniqueId().attr("id");this.ids=[r,r+"-button",r+"-menu"];this._safemouseup=true;this.isOpen=false;this.newelement=e("<a />",{"class":"ui-selectmenu ui-widget ui-state-default ui-corner-all",id:this.ids[1],role:"button",href:"#nogo",tabindex:this.element.attr("disabled")?1:0,"aria-haspopup":true,"aria-owns":this.ids[2]});this.newelementWrap=e("<span />").append(this.newelement).insertAfter(this.element);var i=this.element.attr("tabindex");if(i){this.newelement.attr("tabindex",i)}this.newelement.data("selectelement",this.element);this.selectmenuIcon=e('<span class="ui-selectmenu-icon ui-icon"></span>').prependTo(this.newelement);this.newelement.prepend('<span class="ui-selectmenu-status" />');this.element.bind({"click.selectmenu":function(e){t.newelement.focus();e.preventDefault()}});this.newelement.bind("mousedown.selectmenu",function(e){t._toggle(e,true);if(n.style=="popup"){t._safemouseup=false;setTimeout(function(){t._safemouseup=true},300)}e.preventDefault()}).bind("click.selectmenu",function(e){e.preventDefault()}).bind("keydown.selectmenu",function(n){var r=false;switch(n.keyCode){case e.ui.keyCode.ENTER:r=true;break;case e.ui.keyCode.SPACE:t._toggle(n);break;case e.ui.keyCode.UP:if(n.altKey){t.open(n)}else{t._moveSelection(-1)}break;case e.ui.keyCode.DOWN:if(n.altKey){t.open(n)}else{t._moveSelection(1)}break;case e.ui.keyCode.LEFT:t._moveSelection(-1);break;case e.ui.keyCode.RIGHT:t._moveSelection(1);break;case e.ui.keyCode.TAB:r=true;break;case e.ui.keyCode.PAGE_UP:case e.ui.keyCode.HOME:t.index(0);break;case e.ui.keyCode.PAGE_DOWN:case e.ui.keyCode.END:t.index(t._optionLis.length);break;default:r=true}return r}).bind("keypress.selectmenu",function(e){if(e.which>0){t._typeAhead(e.which,"mouseup")}return true}).bind("mouseover.selectmenu",function(){if(!n.disabled)e(this).addClass("ui-state-hover")}).bind("mouseout.selectmenu",function(){if(!n.disabled)e(this).removeClass("ui-state-hover")}).bind("focus.selectmenu",function(){if(!n.disabled)e(this).addClass("ui-state-focus")}).bind("blur.selectmenu",function(){if(!n.disabled)e(this).removeClass("ui-state-focus")});e(document).bind("mousedown.selectmenu-"+this.ids[0],function(n){if(t.isOpen&&!e(n.target).closest("#"+t.ids[1]).length){t.close(n)}});this.element.bind("click.selectmenu",function(){t._refreshValue()}).bind("focus.selectmenu",function(){if(t.newelement){t.newelement[0].focus()}});if(!n.width){n.width=this.element.outerWidth()}this.newelement.width(n.width);this.element.hide();this.list=e("<ul />",{"class":"ui-widget ui-widget-content","aria-hidden":true,role:"listbox","aria-labelledby":this.ids[1],id:this.ids[2]});this.listWrap=e("<div />",{"class":"ui-selectmenu-menu"}).append(this.list).appendTo(n.appendTo);this.list.bind("keydown.selectmenu",function(n){var r=false;switch(n.keyCode){case e.ui.keyCode.UP:if(n.altKey){t.close(n,true)}else{t._moveFocus(-1)}break;case e.ui.keyCode.DOWN:if(n.altKey){t.close(n,true)}else{t._moveFocus(1)}break;case e.ui.keyCode.LEFT:t._moveFocus(-1);break;case e.ui.keyCode.RIGHT:t._moveFocus(1);break;case e.ui.keyCode.HOME:t._moveFocus(":first");break;case e.ui.keyCode.PAGE_UP:t._scrollPage("up");break;case e.ui.keyCode.PAGE_DOWN:t._scrollPage("down");break;case e.ui.keyCode.END:t._moveFocus(":last");break;case e.ui.keyCode.ENTER:case e.ui.keyCode.SPACE:t.close(n,true);e(n.target).parents("li:eq(0)").trigger("mouseup");break;case e.ui.keyCode.TAB:r=true;t.close(n,true);e(n.target).parents("li:eq(0)").trigger("mouseup");break;case e.ui.keyCode.ESCAPE:t.close(n,true);break;default:r=true}return r}).bind("keypress.selectmenu",function(e){if(e.which>0){t._typeAhead(e.which,"focus")}return true}).bind("mousedown.selectmenu mouseup.selectmenu",function(){return false});e(window).bind("resize.selectmenu-"+this.ids[0],e.proxy(t.close,this))},_init:function(){var t=this,n=this.options;var r=[];this.element.find("option").each(function(){var i=e(this);r.push({value:i.attr("value"),text:t._formatText(i.text(),i),selected:i.attr("selected"),disabled:i.attr("disabled"),classes:i.attr("class"),typeahead:i.attr("typeahead"),parentOptGroup:i.parent("optgroup"),bgImage:n.bgImage.call(i)})});var i=t.options.style=="popup"?" ui-state-active":"";this.list.html("");if(r.length){for(var s=0;s<r.length;s++){var o={role:"presentation"};if(r[s].disabled){o["class"]="ui-state-disabled"}var u={html:r[s].text||" ",href:"#nogo",tabindex:-1,role:"option","aria-selected":false};if(r[s].disabled){u["aria-disabled"]=r[s].disabled}if(r[s].typeahead){u["typeahead"]=r[s].typeahead}var a=e("<a/>",u).bind("focus.selectmenu",function(){e(this).parent().mouseover()}).bind("blur.selectmenu",function(){e(this).parent().mouseout()});var f=e("<li/>",o).append(a).data("index",s).addClass(r[s].classes).data("optionClasses",r[s].classes||"").bind("mouseup.selectmenu",function(n){if(t._safemouseup&&!t._disabled(n.currentTarget)&&!t._disabled(e(n.currentTarget).parents("ul > li.ui-selectmenu-group "))){t.index(e(this).data("index"));t.select(n);t.close(n,true)}return false}).bind("click.selectmenu",function(){return false}).bind("mouseover.selectmenu",function(n){if(!e(this).hasClass("ui-state-disabled")&&!e(this).parent("ul").parent("li").hasClass("ui-state-disabled")){n.optionValue=t.element[0].options[e(this).data("index")].value;t._trigger("hover",n,t._uiHash());t._selectedOptionLi().addClass(i);t._focusedOptionLi().removeClass("ui-selectmenu-item-focus ui-state-hover");e(this).removeClass("ui-state-active").addClass("ui-selectmenu-item-focus ui-state-hover")}}).bind("mouseout.selectmenu",function(n){if(e(this).is(t._selectedOptionLi())){e(this).addClass(i)}n.optionValue=t.element[0].options[e(this).data("index")].value;t._trigger("blur",n,t._uiHash());e(this).removeClass("ui-selectmenu-item-focus ui-state-hover")});if(r[s].parentOptGroup.length){var l="ui-selectmenu-group-"+this.element.find("optgroup").index(r[s].parentOptGroup);if(this.list.find("li."+l).length){this.list.find("li."+l+":last ul").append(f)}else{e('<li role="presentation" class="ui-selectmenu-group '+l+(r[s].parentOptGroup.attr("disabled")?" "+'ui-state-disabled" aria-disabled="true"':'"')+'><span class="ui-selectmenu-group-label">'+r[s].parentOptGroup.attr("label")+"</span><ul></ul></li>").appendTo(this.list).find("ul").append(f)}}else{f.appendTo(this.list)}if(n.icons){for(var c in n.icons){if(f.is(n.icons[c].find)){f.data("optionClasses",r[s].classes+" ui-selectmenu-hasIcon").addClass("ui-selectmenu-hasIcon");var h=n.icons[c].icon||"";f.find("a:eq(0)").prepend('<span class="ui-selectmenu-item-icon ui-icon '+h+'"></span>');if(r[s].bgImage){f.find("span").css("background-image",r[s].bgImage)}}}}}}else{e(' <li role="presentation"><a href="#nogo" tabindex="-1" role="option"></a></li>').appendTo(this.list)}var p=n.style=="dropdown";this.newelement.toggleClass("ui-selectmenu-dropdown",p).toggleClass("ui-selectmenu-popup",!p);this.list.toggleClass("ui-selectmenu-menu-dropdown ui-corner-bottom",p).toggleClass("ui-selectmenu-menu-popup ui-corner-all",!p).find("li:first").toggleClass("ui-corner-top",!p).end().find("li:last").addClass("ui-corner-bottom");this.selectmenuIcon.toggleClass("ui-icon-triangle-1-s",p).toggleClass("ui-icon-triangle-2-n-s",!p);if(n.style=="dropdown"){this.list.width(n.menuWidth?n.menuWidth:n.width)}else{this.list.width(n.menuWidth?n.menuWidth:n.width-n.handleWidth)}this.list.css("height","auto");var d=this.listWrap.height();var v=e(window).height();var m=n.maxHeight?Math.min(n.maxHeight,v):v/3;if(d>m)this.list.height(m);this._optionLis=this.list.find("li:not(.ui-selectmenu-group)");if(this.element.attr("disabled")){this.disable()}else{this.enable()}this._refreshValue();this._selectedOptionLi().addClass("ui-selectmenu-item-focus");clearTimeout(this.refreshTimeout);this.refreshTimeout=window.setTimeout(function(){t._refreshPosition()},200)},destroy:function(){this.element.removeData(this.widgetName).removeClass("ui-selectmenu-disabled"+" "+"ui-state-disabled").removeAttr("aria-disabled").unbind(".selectmenu");e(window).unbind(".selectmenu-"+this.ids[0]);e(document).unbind(".selectmenu-"+this.ids[0]);this.newelementWrap.remove();this.listWrap.remove();this.element.unbind(".selectmenu").show();e.Widget.prototype.destroy.apply(this,arguments)},_typeAhead:function(e,t){var n=this,r=String.fromCharCode(e).toLowerCase(),i=null,s=null;if(n._typeAhead_timer){window.clearTimeout(n._typeAhead_timer);n._typeAhead_timer=undefined}n._typeAhead_chars=(n._typeAhead_chars===undefined?"":n._typeAhead_chars).concat(r);if(n._typeAhead_chars.length<2||n._typeAhead_chars.substr(-2,1)===r&&n._typeAhead_cycling){n._typeAhead_cycling=true;i=r}else{n._typeAhead_cycling=false;i=n._typeAhead_chars}var o=(t!=="focus"?this._selectedOptionLi().data("index"):this._focusedOptionLi().data("index"))||0;for(var u=0;u<this._optionLis.length;u++){var a=this._optionLis.eq(u).text().substr(0,i.length).toLowerCase();if(a===i){if(n._typeAhead_cycling){if(s===null)s=u;if(u>o){s=u;break}}else{s=u}}}if(s!==null){this._optionLis.eq(s).find("a").trigger(t)}n._typeAhead_timer=window.setTimeout(function(){n._typeAhead_timer=undefined;n._typeAhead_chars=undefined;n._typeAhead_cycling=undefined},n.options.typeAhead)},_uiHash:function(){var t=this.index();return{index:t,option:e("option",this.element).get(t),value:this.element[0].value}},open:function(e){if(this.newelement.attr("aria-disabled")!="true"){var t=this,n=this.options,r=this._selectedOptionLi(),i=r.find("a");t._closeOthers(e);t.newelement.addClass("ui-state-active");t.list.attr("aria-hidden",false);t.listWrap.addClass("ui-selectmenu-open");if(n.style=="dropdown"){t.newelement.removeClass("ui-corner-all").addClass("ui-corner-top")}else{this.list.css("left",-5e3).scrollTop(this.list.scrollTop()+r.position().top-this.list.outerHeight()/2+r.outerHeight()/2).css("left","auto")}t._refreshPosition();if(i.length){i[0].focus()}t.isOpen=true;t._trigger("open",e,t._uiHash())}},close:function(e,t){if(this.newelement.is(".ui-state-active")){this.newelement.removeClass("ui-state-active");this.listWrap.removeClass("ui-selectmenu-open");this.list.attr("aria-hidden",true);if(this.options.style=="dropdown"){this.newelement.removeClass("ui-corner-top").addClass("ui-corner-all")}if(t){this.newelement.focus()}this.isOpen=false;this._trigger("close",e,this._uiHash())}},change:function(e){this.element.trigger("change");this._trigger("change",e,this._uiHash())},select:function(e){if(this._disabled(e.currentTarget)){return false}this._trigger("select",e,this._uiHash())},widget:function(){return this.listWrap.add(this.newelementWrap)},_closeOthers:function(t){e(".ui-selectmenu.ui-state-active").not(this.newelement).each(function(){e(this).data("selectelement").selectmenu("close",t)});e(".ui-selectmenu.ui-state-hover").trigger("mouseout")},_toggle:function(e,t){if(this.isOpen){this.close(e,t)}else{this.open(e)}},_formatText:function(t,n){if(this.options.format){t=this.options.format(t,n)}else if(this.options.escapeHtml){t=e("<div />").text(t).html()}return t},_selectedIndex:function(){return this.element[0].selectedIndex},_selectedOptionLi:function(){return this._optionLis.eq(this._selectedIndex())},_focusedOptionLi:function(){return this.list.find(".ui-selectmenu-item-focus")},_moveSelection:function(e,t){if(!this.options.disabled){var n=parseInt(this._selectedOptionLi().data("index")||0,10);var r=n+e;if(r<0){r=0}if(r>this._optionLis.size()-1){r=this._optionLis.size()-1}if(r===t){return false}if(this._optionLis.eq(r).hasClass("ui-state-disabled")){e>0?++e:--e;this._moveSelection(e,r)}else{this._optionLis.eq(r).trigger("mouseover").trigger("mouseup")}}},_moveFocus:function(e,t){if(!isNaN(e)){var n=parseInt(this._focusedOptionLi().data("index")||0,10);var r=n+e}else{var r=parseInt(this._optionLis.filter(e).data("index"),10)}if(r<0){r=0}if(r>this._optionLis.size()-1){r=this._optionLis.size()-1}if(r===t){return false}var i="ui-selectmenu-item-"+Math.round(Math.random()*1e3);this._focusedOptionLi().find("a:eq(0)").attr("id","");if(this._optionLis.eq(r).hasClass("ui-state-disabled")){e>0?++e:--e;this._moveFocus(e,r)}else{this._optionLis.eq(r).find("a:eq(0)").attr("id",i).focus()}this.list.attr("aria-activedescendant",i)},_scrollPage:function(e){var t=Math.floor(this.list.outerHeight()/this._optionLis.first().outerHeight());t=e=="up"?-t:t;this._moveFocus(t)},_setOption:function(e,t){this.options[e]=t;if(e=="disabled"){if(t)this.close();this.element.add(this.newelement).add(this.list)[t?"addClass":"removeClass"]("ui-selectmenu-disabled "+"ui-state-disabled").attr("aria-disabled",t)}},disable:function(e,t){if(typeof e=="undefined"){this._setOption("disabled",true)}else{if(t=="optgroup"){this._toggleOptgroup(e,false)}else{this._toggleOption(e,false)}}},enable:function(e,t){if(typeof e=="undefined"){this._setOption("disabled",false)}else{if(t=="optgroup"){this._toggleOptgroup(e,true)}else{this._toggleOption(e,true)}}},_disabled:function(t){return e(t).hasClass("ui-state-disabled")},_toggleOption:function(e,t){var n=this._optionLis.eq(e);if(n){n.toggleClass("ui-state-disabled",t).find("a").attr("aria-disabled",!t);if(t){this.element.find("option").eq(e).attr("disabled","disabled")}else{this.element.find("option").eq(e).removeAttr("disabled")}}},_toggleOptgroup:function(e,t){var n=this.list.find("li.ui-selectmenu-group-"+e);if(n){n.toggleClass("ui-state-disabled",t).attr("aria-disabled",!t);if(t){this.element.find("optgroup").eq(e).attr("disabled","disabled")}else{this.element.find("optgroup").eq(e).removeAttr("disabled")}}},index:function(t){if(arguments.length){if(!this._disabled(e(this._optionLis[t]))&&t!=this._selectedIndex()){this.element[0].selectedIndex=t;this._refreshValue();this.change()}else{return false}}else{return this._selectedIndex()}},value:function(e){if(arguments.length&&e!=this.element[0].value){this.element[0].value=e;this._refreshValue();this.change()}else{return this.element[0].value}},_refreshValue:function(){var e=this.options.style=="popup"?" ui-state-active":"";var t="ui-selectmenu-item-"+Math.round(Math.random()*1e3);this.list.find(".ui-selectmenu-item-selected").removeClass("ui-selectmenu-item-selected"+e).find("a").attr("aria-selected","false").attr("id","");this._selectedOptionLi().addClass("ui-selectmenu-item-selected"+e).find("a").attr("aria-selected","true").attr("id",t);var n=this.newelement.data("optionClasses")?this.newelement.data("optionClasses"):"";var r=this._selectedOptionLi().data("optionClasses")?this._selectedOptionLi().data("optionClasses"):"";this.newelement.removeClass(n).data("optionClasses",r).addClass(r).find(".ui-selectmenu-status").html(this._selectedOptionLi().find("a:eq(0)").html());this.list.attr("aria-activedescendant",t)},_refreshPosition:function(){var t=this.options,n={of:this.newelement,my:"left top",at:"left bottom",collision:"flip"};if(t.style=="popup"){var r=this._selectedOptionLi();n.my="left top"+(this.list.offset().top-r.offset().top-(this.newelement.outerHeight()+r.outerHeight())/2);n.collision="fit"}this.listWrap.removeAttr("style").zIndex(this.element.zIndex()+2).position(e.extend(n,t.positionOptions))}})})(jQuery)
+		</script>
+		<script type='text/javascript' src='http://nokcsoccer.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/nokcsoccer.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/js/jquery.mousewheel.min.js?ver=2.1.0-20121206'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/js/jquery.flexslider.min.js?ver=2.1.0-20121206'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/modernizr.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/imagesLoaded.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.cycle.lite.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.eislideshow.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/froogaloop.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.placeholder.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.waypoint.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/gmap.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/gauge.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.ddslick.min.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/jquery.infinitescroll.min.js'></script>
+<script type='text/javascript' src='http://nokcsoccer.com/wp-content/themes/Avada/js/main.js'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 3731/3748 objects using disk
+
+ Served from: nokcsoccer.com @ 2015-03-25 14:30:18 by W3 Total Cache -->

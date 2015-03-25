@@ -1,0 +1,369 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title id="PageTitle">The Official Site of Oklahoma Soccer Association | Oklahoma Soccer</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta http-equiv="Content-Script-Type" content="text/javascript" />
+ 		<meta name="keywords" content="Soccer, Oklahoma Soccer, Oklahoma, osa, football, futbol, kids, midwest, sports, USA, United States, regional, associations, clubs, organizations,  Information, youth, adults, parents, referee, tournaments, sponsors, coaches, tips, MLS, World Cup, College, champions league, fifa , sports, voetbal, fussbal, futbol, news, pictures, statistics,  ,articles , soccor, socker, socer, soccr, skills, soccerskills, kids, coaches, rules, regulations, regulation, ref, referee, reffing, refing, goal, sidelines, offside, pk, penalty kick, overtime, offense, defense, field, high school, classes, education" />
+		<meta name="description" content="Oklahoma Soccer is the State governing body of club soccer under US Soccer, USASA and US Youth Soccer" />
+		
+		<link rel="alternate" type="application/atom+xml" title="ATOM - OSA News" href="/feeds/story/atom/" />
+<link rel="alternate" type="application/rss+xml" title="RSS - OSA News" href="/feeds/story/rss/" />
+
+		<link rel="stylesheet" href="/includes/style.css" type="text/css" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<script src="/includes/functions.js.aspx" type="text/javascript"></script>
+		<script src="/includes/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+		<script src="/includes/jquery/jquery.functions.js" type="text/javascript"></script>
+		<!--[if lt IE 7]>
+			<script type="text/javascript" src="/includes/png.js"> </script>
+			<link rel="stylesheet" href="/includes/ielt7.css" type="text/css" />
+		<![endif]-->
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" href="/includes/ielt8.css" type="text/css" />
+		<![endif]-->
+		<script src="/includes/XmlHttpObject.js"></script>
+<style>
+#header #nav ul li a.level1 {padding:0 10px;}
+</style>
+	</head>
+<!--BeginNoIndex-->
+  <body id="body">
+    
+    <form name="main" method="post" action="/default.aspx" id="main">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgICDA9kFgICAw9kFgoCAg9kFgJmD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIKFhQCAQ9kFgICAQ9kFgRmDxYCHgRUZXh0BTM8YSBjbGFzcz0ibGV2ZWwxIiBocmVmPSIvZGVmYXVsdC5hc3B4Ij5BYm91dCBVczwvYT5kAgIPFgIfAAIMFhgCAQ9kFgICAQ8WBh4EaHJlZgUuL2Fib3V0L2dlbmVyYWxfb3ZlcnZpZXdfbWlzc2lvbl9zdGF0ZW1lbnQuYXNweB4JaW5uZXJodG1sBRFNaXNzaW9uIFN0YXRlbWVudB4GdGFyZ2V0BQZfYmxhbmtkAgIPZBYCAgEPFgQfAgUfL2Fib3V0L2J5bGF3c19hbmRfcG9saWNpZXMuYXNweB8DBRNCeWxhd3MgYW5kIFBvbGljaWVzZAIDD2QWAgIBDxYEHwIFGi9iZW5lZml0c29mbWVtYmVyc2hpcC5hc3B4HwMFFkJlbmVmaXRzIG9mIE1lbWJlcnNoaXBkAgQPZBYCAgEPFgQfAgUTL2Fib3V0L21lbWJlcnMuYXNweB8DBQdNZW1iZXJzZAIFD2QWAgIBDxYEHwIFIi9hYm91dC9ob3dfdG9fYmVjb21lX2FfbWVtYmVyLmFzcHgfAwUWSG93IHRvIGJlY29tZSBhIG1lbWJlcmQCBg9kFgICAQ8WBB8CBSQvYWJvdXQvc3RhZmYvb3NhX3N0YWZmX2FuZF9qb2JzLmFzcHgfAwUWT1NBIE9mZmljZSBJbmZvcm1hdGlvbmQCBw9kFgICAQ8WBB8CBSAvYWJvdXQvYm9hcmRfaW5mby9leGVjdXRpdmUuYXNweB8DBQ1Cb2FyZCBNZW1iZXJzZAIID2QWAgIBDxYEHwIFHi9hYm91dC95b3V0aGJvYXJkX21pbnV0ZXMuYXNweB8DBRNZb3V0aCBCb2FyZCBNaW51dGVzZAIJD2QWAgIBDxYEHwIFHy9hYm91dC9hZHVsdF9ib2FyZF9taW51dGVzLmFzcHgfAwUTQWR1bHQgQm9hcmQgTWludXRlc2QCCg9kFgICAQ8WBB8CBSMvYWJvdXQvZXhlY3V0aXZlX2JvYXJkX21pbnV0ZXMuYXNweB8DBRtFeGVjdXRpdmUgQ29tbWl0dGVlIE1pbnV0ZXNkAgsPZBYCAgEPFgQfAgUqL2Fib3V0L2FubnVhbF9nZW5lcmFsX21lZXRpbmdfbWludXRlcy5hc3B4HwMFC0FHTSBtaW51dGVzZAIMD2QWAgIBDxYEHwIFLC90b3VybmFtZW50cy9zdGF0ZV9jaGFtcGlvbnNoaXBfaGlzdG9yeS5hc3B4HwMFGlN0YXRlIENoYW1waW9uc2hpcCBIaXN0b3J5ZAICD2QWAgIBD2QWBGYPFgIfAQUzPGEgY2xhc3M9ImxldmVsMSIgaHJlZj0iL2RlZmF1bHQuYXNweCI+UHJvZ3JhbXM8L2E+ZAICDxYCHwACCBYQAgEPZBYCAgEPFgYfAgUSL3Byb2dyYW1zL29kcC5hc3B4HwMFG09seW1waWMgRGV2ZWxvcG1lbnQgUHJvZ3JhbR8EBQZfYmxhbmtkAgIPZBYCAgEPFgQfAgUeL3Byb2dyYW1zL2FubnVhbF93b3Jrc2hvcC5hc3B4HwMFE09TQSBBbm51YWwgV29ya3Nob3BkAgMPZBYCAgEPFgQfAgUeL3Byb2dyYW1zL2FjYWRlbXlfcHJvZ3JhbS5hc3B4HwMFEEFjYWRlbXkgUHJvZ3JhbXNkAgQPZBYCAgEPFgQfAgUYL3Byb2dyYW1zL3RvcHNvY2Nlci5hc3B4HwMFCVRPUFNvY2NlcmQCBQ9kFgICAQ8WBB8CBRsvcHJvZ3JhbXMvc29jY2VyX3N0YXJ0LmFzcHgfAwUVU29jY2VyIEFjcm9zcyBBbWVyaWNhZAIGD2QWAgIBDxYEHwIFJS9wcm9ncmFtcy9hd2FyZHNfYW5kX3JlY29nbml0aW9uLmFzcHgfAwUWQXdhcmRzIGFuZCBSZWNvZ25pdGlvbmQCBw9kFgICAQ8WBB8CBSYvcHJvZ3JhbXMvZ3JhbnRzX2FuZF9zY2hvbGFyc2hpcHMuYXNweB8DBRdHcmFudHMgYW5kIFNjaG9sYXJzaGlwc2QCCA9kFgICAQ8WBB8CBRsvcHJvZ3JhbXMvaGFsbF9vZl9mYW1lLmFzcHgfAwUMSGFsbCBvZiBGYW1lZAIDD2QWAgIBD2QWBGYPFgIfAQUhPGEgY2xhc3M9ImxldmVsMSI+Q29tcGV0aXRpdmU8L2E+ZAICDxYCHwACBhYMAgEPZBYCAgEPFgQfAgUVL2xlYWd1ZXMvZGVmYXVsdC5hc3B4HwMFFERpc3RyaWN0IEluZm9ybWF0aW9uZAICD2QWAgIBDxYEHwIFFS9sZWFndWVzL2NsYXNzaWMuYXNweB8DBRtPa2xhaG9tYSBDb21wZXRpdGl2ZSBMZWFndWVkAgMPZBYCAgEPFgQfAgUiL2NvbXBldGl0aXZlL2NvbXBldGl0aXZlZm9ybXMuYXNweB8DBQVGb3Jtc2QCBA9kFgICAQ8WBB8CBR0vbGVhZ3Vlcy9va2xhaG9tYXByZW1pZXIuYXNweB8DBSNTb2NjZXIgQ2l0eSBPa2xhaG9tYSBQcmVtaWVyIExlYWd1ZWQCBQ9kFgICAQ8WBB8CBSEvbGVhZ3Vlcy9wcmVtaWVyX2xlYWd1ZV93ZXN0LmFzcHgfAwUTUHJlbWllciBMZWFndWUgV2VzdGQCBg9kFgICAQ8WBB8CBSUvbGVhZ3Vlcy9yZWdpb25hbF9wcmVtaWVyX2xlYWd1ZS5hc3B4HwMFIFVTIFlvdXRoIFJlZ2lvbmFsIFByZW1pZXIgTGVhZ3VlZAIED2QWAgIBD2QWBGYPFgIfAQU9PGEgY2xhc3M9ImxldmVsMSIgaHJlZj0iL2Fib3V0L2RlZmF1bHQuYXNweCI+UmVjcmVhdGlvbmFsPC9hPmQCAg8WAh8AAgwWGAIBD2QWAgIBDxYEHwIFJi9yZWNyZWF0aW9uYWwvZGlzdHJpY3RpbmZvcm1hdGlvbi5hc3B4HwMFFERpc3RyaWN0IEluZm9ybWF0aW9uZAICD2QWAgIBDxYEHwIFHC9yZWNyZWF0aW9uYWwvc2NoZWR1bGVzLmFzcHgfAwUJU2NoZWR1bGVzZAIDD2QWAgIBDxYEHwIFJC9yZWNyZWF0aW9uYWwvcmVjcmVhdGlvbmFsZm9ybXMuYXNweB8DBQVGb3Jtc2QCBA9kFgICAQ8WBB8CBRovcmVjcmVhdGlvbmFsL2xlYWd1ZXMuYXNweB8DBQdMZWFndWVzZAIFD2QWAgIBDxYEHwIFHi9yZWNyZWF0aW9uYWwvdG91cm5hbWVudHMuYXNweB8DBQtUb3VybmFtZW50c2QCBg9kFgICAQ8WBB8CBRwvcmVjcmVhdGlvbmFsL3RvcHNvY2Nlci5hc3B4HwMFCVRPUFNvY2NlcmQCBw9kFgICAQ8WBB8CBR4vcmVjcmVhdGlvbmFsL3NvY2NlcnN0YXJ0LmFzcHgfAwUVU29jY2VyIEFjcm9zcyBBbWVyaWNhZAIID2QWAgIBDxYEHwIFJi9yZWNyZWF0aW9uYWwvY29hY2hpbmdpbmZvcm1hdGlvbi5hc3B4HwMFFENvYWNoaW5nIEluZm9ybWF0aW9uZAIJD2QWAgIBDxYEHwIFJS9yZWNyZWF0aW9uYWwvdm9sdW50ZWVycmV0ZW50aW9uLmFzcHgfAwUTVm9sdW50ZWVyIFJldGVudGlvbmQCCg9kFgICAQ8WBB8CBSIvcmVjcmVhdGlvbmFsL3BhcmVudGVkdWNhdGlvbi5hc3B4HwMFEFBhcmVudCBFZHVjYXRpb25kAgsPZBYCAgEPFgQfAgUiL3JlY3JlYXRpb25hbC9zbWFsbHNpZGVkZ2FtZXMuYXNweB8DBRFTbWFsbCBTaWRlZCBHYW1lc2QCDA9kFgICAQ8WBB8CBScvcmVjcmVhdGlvbmFsL2JlbmVmaXRzb2ZtZW1iZXJzaGlwLmFzcHgfAwUWQmVuZWZpdHMgb2YgTWVtYmVyc2hpcGQCBQ9kFgICAQ9kFgRmDxYCHwEFITxhIGNsYXNzPSJsZXZlbDEiPlRvdXJuYW1lbnRzPC9hPmQCAg8WAh8AAgYWDAIBD2QWAgIBDxYEHwIFKC90b3VybmFtZW50cy9zYW5jdGlvbmVkX3RvdXJuYW1lbnRzLmFzcHgfAwUWU2FuY3Rpb25lZCBUb3VybmFtZW50c2QCAg9kFgICAQ8WBB8CBR4vdG91cm5hbWVudHMvdHJhdmVscG9saWN5LmFzcHgfAwUXVHJhdmVsIHBvbGljeSBhbmQgZm9ybXNkAgMPZBYCAgEPFgQfAgUqL3RvdXJuYW1lbnRzL3JlY3JlYXRpb25hbF90b3VybmFtZW50cy5hc3B4HwMFHlJlY3JlYXRpb25hbCBTdGF0ZSBUb3VybmFtZW50c2QCBA9kFgICAQ8WBB8CBSMvdG91cm5hbWVudHMvY29tcGV0aXRpdmVfc3RhdGUuYXNweB8DBR1Db21wZXRpdGl2ZSBTdGF0ZSBUb3VybmFtZW50c2QCBQ9kFgICAQ8WBB8CBR0vdG91cm5hbWVudHMvaG93X3RvX2hvc3QuYXNweB8DBR1Ib3cgVG8gSG9zdCBBIENsdWIgVG91cm5hbWVudGQCBg9kFgICAQ8WBB8CBSovdG91cm5hbWVudHMvaG9zdGluZ19zdGF0ZV90b3VybmFtZW50LmFzcHgfAwUeSG93IFRvIEhvc3QgQSBTdGF0ZSBUb3VybmFtZW50ZAIGD2QWAgIBD2QWBGYPFgIfAQUyPGEgY2xhc3M9ImxldmVsMSIgaHJlZj0iL2RlZmF1bHQuYXNweCI+Q29hY2hlczwvYT5kAgIPFgIfAAIJFhICAQ9kFgICAQ8WBB8CBR8vY29hY2hpbmcvY29hY2hpbmdfY2xhc3Nlcy5hc3B4HwMFEENvYWNoaW5nIENvdXJzZXNkAgIPZBYCAgEPFgQfAgUmL2NvYWNoaW5nL2NvYWNoaW5nX2NvdXJzZV9tYW51YWxzLmFzcHgfAwUXQ29hY2hpbmcgQ291cnNlIE1hbnVhbHNkAgMPZBYCAgEPFgQfAgUYL2NvYWNoaW5nL2VkdWNhdGlvbi5hc3B4HwMFG0ludHJvZHVjdGlvbiBhbmQgT2JqZWN0aXZlc2QCBA9kFgICAQ8WBB8CBSwvY29hY2hpbmcvY29hY2hfb2ZfdGhlX3llYXJfYXBwbGljYXRpb24uYXNweB8DBR1Db2FjaCBvZiB0aGUgWWVhciBhcHBsaWNhdGlvbmQCBQ9kFgICAQ8WBB8CBR0vY29hY2hpbmcvY29kZV9vZl9ldGhpY3MuYXNweB8DBQ5Db2RlIG9mIEV0aGljc2QCBg9kFgICAQ8WBB8CBSkvY29hY2hpbmcvZnJlcXVlbnRseV9hc2tlZF9xdWVzdGlvbnMuYXNweB8DBRpGcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9uc2QCBw9kFgICAQ8WBB8CBRovY29hY2hpbmcvZ2VuZXJhbGluZm8uYXNweB8DBRNHZW5lcmFsIEluZm9ybWF0aW9uZAIID2QWAgIBDxYEHwIFGy9jb2FjaGVzL2NvbnRhY3Rfc3RhZmYuYXNweB8DBRpDb250YWN0IE9TQSBDb2FjaGluZyBTdGFmZmQCCQ9kFgICAQ8WBB8CBRsvY29hY2hpbmcvbGVzc29uX3BsYW5zLmFzcHgfAwUMTGVzc29uIFBsYW5zZAIHD2QWAgIBD2QWBGYPFgIfAQU5PGEgY2xhc3M9ImxldmVsMSIgaHJlZj0iL2RlZmF1bHQuYXNweCI+QWRtaW5pc3RyYXRpb248L2E+ZAICDxYCHwACBBYIAgEPZBYCAgEPFgQfAgUkL2FkbWluaXN0cmF0aW9uL3Jpc2tfbWFuYWdlbWVudC5hc3B4HwMFD1Jpc2sgTWFuYWdlbWVudGQCAg9kFgICAQ8WBB8CBSIvYWRtaW5pc3RyYXRpb24vaW5zdXJhbmNlaW5mby5hc3B4HwMFFUluc3VyYW5jZSBJbmZvcm1hdGlvbmQCAw9kFgICAQ8WBB8CBRsvYWRtaW5pc3RyYXRpb24vcmVnaXN0LmFzcHgfAwUMUmVnaXN0cmF0aW9uZAIED2QWAgIBDxYEHwIFGi9hZG1pbmlzdHJhdGlvbi9mb3Jtcy5hc3B4HwMFBUZvcm1zZAIID2QWAgIBD2QWBGYPFgIfAQUzPGEgY2xhc3M9ImxldmVsMSIgaHJlZj0iL2RlZmF1bHQuYXNweCI+UmVmZXJlZXM8L2E+ZAICDxYCHwACCxYWAgEPZBYCAgEPFgQfAgUXL3JlZmVyZWVzL3JlZmVyZWVzLmFzcHgfAwUMUmVmZXJlZSBIb21lZAICD2QWAgIBDxYEHwIFGS9yZWZlcmVlcy9mcmVxdWVudGx5LmFzcHgfAwUaRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnNkAgMPZBYCAgEPFgQfAgUgL3JlZmVyZWVzL3NjaGVkdWxlZF9jbGFzc2VzLmFzcHgfAwUZU2NoZWR1bGVkIFJlZmVyZWUgQ2xhc3Nlc2QCBA9kFgICAQ8WBB8CBSIvcmVmZXJlZXMvcmVnaXN0ZXJlZF9yZWZlcmVlcy5hc3B4HwMFE1JlZ2lzdGVyZWQgcmVmZXJlZXNkAgUPZBYCAgEPFgQfAgUgL3JlZmVyZWVzL3JlZmVyZWVfYXNzaWdub3JzLmFzcHgfAwURUmVmZXJlZSBBc3NpZ25vcnNkAgYPZBYCAgEPFgQfAgUgL3JlZmVyZWVzL3JlZmVyZWVfY29tbWl0dGVlLmFzcHgfAwURUmVmZXJlZSBDb21taXR0ZWVkAgcPZBYCAgEPFgQfAgUfL3JlZmVyZWVzL3BvbGljaWVzYW5kZ3VpZGUuYXNweB8DBRdQb2xpY2llcyBhbmQgR3VpZGVsaW5lc2QCCA9kFgICAQ8WBB8CBSUvcmVmZXJlZXMvYWR2aWNlX3RvX25ld19yZWZlcmVlcy5hc3B4HwMFFkFkdmljZSB0byBuZXcgcmVmZXJlZXNkAgkPZBYCAgEPFgQfAgUoL3JlZmVyZWVzL2dhbWVfcHJpb3JpdHlfYXNzaWdubWVudHMuYXNweB8DBRlHYW1lIHByaW9yaXR5IGFzc2lnbm1lbnRzZAIKD2QWAgIBDxYEHwIFGy9yZWZlcmVlcy9mb3Jtc2FuZGFwcGwuYXNweB8DBRZGb3JtcyBhbmQgQXBwbGljYXRpb25zZAILD2QWAgIBDxYEHwIFGS9yZWZlcmVlcy9kaXJlY3RpdmVzLmFzcHgfAwUjVVNTRiBEaXJlY3RpdmVzIGFuZCBQb3NpdGlvbiBQYXBlcnNkAgkPZBYCAgEPZBYEZg8WAh8BBTE8YSBjbGFzcz0ibGV2ZWwxIiBocmVmPSIvZGVmYXVsdC5hc3B4Ij5BZHVsdHM8L2E+ZAICDxYCHwACBRYKAgEPZBYCAgEPFgQfAgUYL2FkdWx0cy9sZWFndWVfaW5mby5hc3B4HwMFDUFkdWx0IExlYWd1ZXNkAgIPZBYCAgEPFgQfAgUVaHR0cDovL3d3dy51c2FzYS5jb20vHwMFJFVTIEFkdWx0IFNvY2NlciBBc3NvY2lhdGlvbiBXZWIgc2l0ZWQCAw9kFgICAQ8WBB8CBRIvYWR1bHRzL2Zvcm1zLmFzcHgfAwUFRm9ybXNkAgQPZBYCAgEPFgQfAgUWL2FkdWx0cy9zdGF0ZV9jdXAuYXNweB8DBQ9BZHVsdCBTdGF0ZSBDdXBkAgUPZBYCAgEPFgQfAgUYL2FkdWx0cy90b3VybmFtZW50cy5hc3B4HwMFEUFkdWx0IFRvdXJuYW1lbnRzZAIKD2QWAgIBD2QWBGYPFgIfAQU+PGEgY2xhc3M9ImxldmVsMSIgaHJlZj0iL211bHRpbWVkaWEvdmlkZW8uYXNweCI+TXVsdGltZWRpYTwvYT5kAgIPFgIfAAIBFgICAQ9kFgICAQ8WBB8CBR0vbXVsdGltZWRpYS9zbW9rZXNpZ25hbHMuYXNweB8DBQ1TbW9rZSBTaWduYWxzZAIED2QWAmYPZBYCAgEPFgIfAAIFFgoCAQ9kFgoCAQ8WBB4Dc3JjBSkvYXNzZXRzL2ltYWdlcy82NjR4MzIxL1VTWVNWb2xSZWcyMDE1LmpwZx4DYWx0BUtDTElDSyBIRVJFIHRvIFJlZ2lzdGVyIE5vdyB0byBWb2x1bnRlZXIgZm9yIFVTIFlvdXRoIE5hdGlvbmFsIENoYW1waW9uc2hpcCFkAgMPFgIfBQUoL2Fzc2V0cy9pbWFnZXMvMTE2eDU3L1VTWVNWb2xSZWcyMDE1LmpwZ2QCBQ8WBB8CBU5odHRwczovL2lkZXZmb3Jtcy5hbWVyaWNhbmVhZ2xlLmNvbS9va2xhaG9tYXNhL2Zvcm0xMDE5Mzk1OTIvc2VjdXJlX2luZGV4Lmh0bWwfAwVLQ0xJQ0sgSEVSRSB0byBSZWdpc3RlciBOb3cgdG8gVm9sdW50ZWVyIGZvciBVUyBZb3V0aCBOYXRpb25hbCBDaGFtcGlvbnNoaXAhZAIHDxYCHwEFCjAzLzE2LzIwMTVkAgkPFgIfAQU3SnVseSAyMC0yNiwgMjAxNSBhdCBNb2hhd2sgU3BvcnRzIENvbXBsZXggaW4gVHVsc2EsIE9LLmQCAg9kFgoCAQ8WBB8FBS8vYXNzZXRzL2ltYWdlcy82NjR4MzIxL2VuZXJneV92c19yb3VnaG5lY2tzLmpwZx8GBR1FbmVyZ3kgRkMgdnMgVHVsc2EgUm91Z2huZWNrc2QCAw8WAh8FBS4vYXNzZXRzL2ltYWdlcy8xMTZ4NTcvZW5lcmd5X3ZzX3JvdWdobmVja3MuanBnZAIFDxYEHwIFMC9zdG9yeS8yMDE1LzAzLzI1L2VuZXJneS1mYy12cy10dWxzYS1yb3VnaG5lY2tzLx8DBR1FbmVyZ3kgRkMgdnMgVHVsc2EgUm91Z2huZWNrc2QCBw8WAh8BBQowMy8yNS8yMDE1ZAIJDxYCHwEFKDc6MDAgUE0gb24gU0FUVVJEQVksIE1BUkNIIDI4VEggaW4gVHVsc2FkAgMPZBYKAgEPFgQfBQUsL2Fzc2V0cy9pbWFnZXMvNjY0eDMyMS9CaWdGb290U3Rvcnljb3Zlci5qcGcfBgUZQ0xJQ0sgSEVSRSBUbyBGaW5kIEEgQ2x1YmQCAw8WAh8FBSsvYXNzZXRzL2ltYWdlcy8xMTZ4NTcvQmlnRm9vdFN0b3J5Y292ZXIuanBnZAIFDxYGHwQFBl9ibGFuax8CBT9odHRwOi8vd3d3Lm9rc29jY2VyLmNvbS9hc3NldHMvcGRmcy9PU0FGaW5kQUNsdWJSZXF1ZXN0Rm9ybS5wZGYfAwUZQ0xJQ0sgSEVSRSBUbyBGaW5kIEEgQ2x1YmQCBw8WAh8BBQowMS8yMS8yMDE1ZAIJDxYCHwEFZlVzZSB0aGUgbGluayBmb3Igb3VyICJGaW5kIE1lIEEgQ2x1YiIgUmVxdWVzdCBGb3JtIHRvIGJlIGNvbm5lY3RlZCB3aXRoIGEgc29jY2VyIHByb2dyYW0gaW4geW91ciBhcmVhIWQCBA9kFgoCAQ8WBB8FBSUvYXNzZXRzL2ltYWdlcy82NjR4MzIxL0FET0NDb3ZlcjIuanBnHwYFMkFubm91bmNpbmcgT3VyIE5ldyBBc3Npc3RhbnQgRGlyZWN0b3Igb2YgQ29hY2hpbmchZAIDDxYCHwUFJC9hc3NldHMvaW1hZ2VzLzExNng1Ny9BRE9DQ292ZXIyLmpwZ2QCBQ8WBh8EBQZfYmxhbmsfAgVEL3N0b3J5LzIwMTUvMDMvMDQvYW5ub3VuY2luZy1vdXItbmV3LWFzc2lzdGFudC1kaXJlY3Rvci1vZi1jb2FjaGluZy8fAwUyQW5ub3VuY2luZyBPdXIgTmV3IEFzc2lzdGFudCBEaXJlY3RvciBvZiBDb2FjaGluZyFkAgcPFgIfAQUKMDMvMDQvMjAxNWQCCQ8WAh8BBSNKZW5uaWZlciBNYXZpcyBqb2lucyB0aGUgT1NBIFN0YWZmLmQCBQ9kFgoCAQ8WBB8FBTIvYXNzZXRzL2ltYWdlcy82NjR4MzIxL1VTU29jY2VyRm91bmRhdGlvbnN0b3J5LmpwZx8GBS5VUyBTb2NjZXIgRm91bmRhdGlvbiBHcmFudHMgQXJlIE5vdyBBdmFpbGFibGUhZAIDDxYCHwUFMS9hc3NldHMvaW1hZ2VzLzExNng1Ny9VU1NvY2NlckZvdW5kYXRpb25zdG9yeS5qcGdkAgUPFgQfAgVAL3N0b3J5LzIwMTUvMDEvMDcvdXMtc29jY2VyLWZvdW5kYXRpb24tZ3JhbnRzLWFyZS1ub3ctYXZhaWxhYmxlLx8DBS5VUyBTb2NjZXIgRm91bmRhdGlvbiBHcmFudHMgQXJlIE5vdyBBdmFpbGFibGUhZAIHDxYCHwEFCjAxLzA3LzIwMTVkAgkPFgIfAQW0AVRocm91Z2hvdXQgdGhlIHllYXIsIHRoZSBVLlMuIFNvY2NlciBGb3VuZGF0aW9uIGF3YXJkcyBncmFudHMgdG8gc3VwcG9ydCBmaWVsZC1idWlsZGluZyBhbmQgZmllbGQtZW5oYW5jaW5nIGluaXRpYXRpdmVzIGluIGNvbW11bml0aWVzIG5hdGlvbndpZGUuIFNwcmluZyBhcHBsaWNhdGlvbnMgYXJlIG5vdyBvcGVuLmQCCA9kFgJmD2QWAgIBDxYCHwACBhYMAgEPZBYCAgEPFgQfAwU1NCBXYXlzIHRvIFByYWN0aWNlIEdvb2QgU3BvcnRzbWFuc2hpcCBmcm9tIHRoZSBTdGFuZHMfAgVTaHR0cDovL3d3dy51c3lvdXRoc29jY2VyLm9yZy80X3dheXNfdG9fcHJhY3RpY2VfZ29vZF9zcG9ydHNtYW5zaGlwX2Zyb21fdGhlX3N0YW5kcy9kAgIPZBYCAgEPFgQfAwUuMjAxNC0xNSBOYXRpb25hbCBMZWFndWUgR2lybHMgTmV3cyB8IExhcyBWZWdhcx8CBUtodHRwOi8vd3d3LnVzeW91dGhzb2NjZXIub3JnLzIwMTQtMTVfbmF0aW9uYWxfbGVhZ3VlX2dpcmxzX25ld3NfX2xhc192ZWdhcy9kAgMPZBYCAgEPFgQfAwVMR2VvcmdldG93biBmb3J3YXJkIE1lbHZpbiBTbm9oOiBUYWtlIHRoZSBpbml0aWF0aXZlIHdoZW4gbG9va2luZyBhdCBjb2xsZWdlcx8CBWlodHRwOi8vd3d3LnVzeW91dGhzb2NjZXIub3JnL2dlb3JnZXRvd25fZm9yd2FyZF9tZWx2aW5fc25vaF90YWtlX3RoZV9pbml0aWF0aXZlX3doZW5fbG9va2luZ19hdF9jb2xsZWdlcy9kAgQPZBYCAgEPFgQfAwU/MjAxNC0xNSBVUyBZb3V0aCBTb2NjZXIgTmF0aW9uYWwgTGVhZ3VlIEdpcmxzIExhcyBWZWdhcyBQcmV2aWV3HwIFXWh0dHA6Ly93d3cudXN5b3V0aHNvY2Nlci5vcmcvMjAxNC0xNV91c195b3V0aF9zb2NjZXJfbmF0aW9uYWxfbGVhZ3VlX2dpcmxzX2xhc192ZWdhc19wcmV2aWV3L2QCBQ9kFgICAQ8WBB8DBTZTcG9ydHNtYW5zaGlwIGZyb20gdGhlIHN0YW5kcyBmb3IgeW91dGggc3BvcnRzIHBhcmVudHMfAgVUaHR0cDovL3d3dy51c3lvdXRoc29jY2VyLm9yZy9zcG9ydHNtYW5zaGlwX2Zyb21fdGhlX3N0YW5kc19mb3JfeW91dGhfc3BvcnRzX3BhcmVudHMvZAIGD2QWAgIBDxYEHwMFRFVTIFlvdXRoIFNvY2NlciBOYXRpb25hbCBMZWFndWUgQm95cyB3cmFwIHVwIGV4Y2l0aW5nIDIwMTQtMTUgc2Vhc29uHwIFYmh0dHA6Ly93d3cudXN5b3V0aHNvY2Nlci5vcmcvdXNfeW91dGhfc29jY2VyX25hdGlvbmFsX2xlYWd1ZV9ib3lzX3dyYXBfdXBfZXhjaXRpbmdfMjAxNC0xNV9zZWFzb24vZAIKD2QWAmYPZBYCAgEPFgIfAGZkAg4PZBYCZg9kFgICAQ8WAh8AAgUWCgIBD2QWBAIBDxYEHwIFNC9zdG9yeS8yMDE0LzEyLzA0L2FkdWx0LXN0YXRlLWN1cC1tYXJjaC0xNC0tMTUtMjAxNS8fAwUnQWR1bHQgU3RhdGUgQ3VwIE1BUkNIIDE0ICZhbXA7IDE1LCAyMDE1ZAIDDxYCHwEFLjxzcGFuIGNsYXNzPSJkZXNjIj5SZW1haW5zIGFzIHNjaGVkdWxlZDwvc3Bhbj5kAgIPZBYCAgEPFgQfAgUzL3N0b3J5LzIwMTQvMTEvMTkvdXMteW91dGgtYW5kLW9zYS1vZmZlci10ZXN0LXByZXAvHwMFIFVTIFlvdXRoIGFuZCBPU0EgT2ZmZXIgVGVzdCBQcmVwZAIDD2QWBAIBDxYEHwIFJC9zdG9yeS8yMDE0LzEyLzIxL29zYS13b3Jrc2hvcC0yMDE1Lx8DBSlPU0EgV29ya3Nob3AgMjAxNSAtIFBob3RvcyBOb3cgQXZhaWxhYmxlIWQCAw8WAh8BBS88c3BhbiBjbGFzcz0iZGVzYyI+UGhvdG9zIE5vdyBBdmFpbGFibGUhPC9zcGFuPmQCBA9kFgICAQ8WBB8CBS4vc3RvcnkvMjAxNC8xMS8yMC9nb29kLXNwb3J0c21hbnNoaXAtcGF5cy1vZmYvHwMFG0dvb2QgU3BvcnRzbWFuc2hpcCBQYXlzIE9mZmQCBQ9kFgICAQ8WBB8CBTIvc3RvcnkvMjAxNS8wMS8wNy9vc2EtaGFsbC1vZi1mYW1lLTIwMTUtaW5kdWN0ZWVzLx8DBR9PU0EgSGFsbCBvZiBGYW1lIDIwMTUgSW5kdWN0ZWVzZGRdfhpjpC9U/HQdxj8oBzKR87rNxg==" />
+
+
+<script src="/ScriptResource.axd?d=usSoKfWvJo5x6DkFlS0kdY4_zguj8XNqZClNvuSI8LSHsDxn72VrL2vj9x_tIAomSLA1rVVXZ93vadMcyl7JIO4n028RBa2B_ik_Ril_5O0MIm2ELD5ZP8pxnKQaMoPD-8TpQy_smKtdcs6pmPfuwTb2r0s1&amp;t=fffffffff9394173" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKl2oGKCgLWivaXCAKUyJjBDjViyoiUUsooCmsjp6MvfnTdrJ49" />
+	<div id="main_wrap">
+		<div id="header">
+    
+
+	<div id="membership">
+		<div class="tagline"><span>Oklahoma Soccer Association</span> is a proud member of</div>
+		<a href="http://www.usyouthsoccer.org" target="new" class="usys">US Youth Soccer</a>
+		<a href="http://www.ussoccer.com" target="new" class="ussoccer">US Soccer</a>
+		<a href="http://www.usasa.com" target="new" class="usasa">USASA</a>
+		<a href="http://www.fifa.com" target="new" class="fifa">FIFA</a>
+	</div>
+	<h1><a href="/">Oklahoma Soccer Association</a></h1>
+	<div id="header_main">
+		<h2><a href="/">Oklahoma Soccer Association</a></h2>
+		<ul id="header_sponsorsA">
+			<li class="scoresports"><a href="http://www.scoresports.com" target="_blank">Score Sports</a></li>
+			
+			<li class="OSOI"><a href="http://www.OSOI.com" target="_blank">OSOI Oklahoma Sports Orthopedic Institute</a></li>
+			<li class="SLS"><a href="http://www.soccercoaching.com" target="_blank">OSOI Oklahoma Sports Orthopedic Institute</a></li>
+			<li class="energy"><a href="http://www.energyfc.com/" target="_blank">Oklahoma City Energy FC</a></li>
+			<li class="successfulsportingevents"><a href="http://www.successfulsportingevents.com/" target="_blank">www.successfulsportingevents.com</a></li>			
+		</ul><ul id="header_sponsors">	
+			<li class="gotsoccer"><a href="http://www.gotsoccer.com" target="_blank">GotSoccer</a></li>
+			<li class="soccercity"><a href="http://www.soccercitytulsa.com" target="_blank">Soccer City Tulsa</a></li>
+			<li class="mazzios"><a href="http://www.mazzios.com" target="_blank">Mazzio's</a></li>
+			<li class="soccercity_OKC"><a href="http://www.soccercityokcity.com" target="_blank">Soccer City Oklahoma City</a></li>
+			<li class="sportpins"><a href="http://www.sportpins.com" target="_blank">www.sportpins.com</a></li>
+			<!--<li class="wassco"><a href="http://www.wasscorp.com" target="_blank">WassCorp</a></li>			-->
+		</ul>
+	
+		<div id="nav">
+			<ul>
+				
+							<li id="ctl03_rptMainNav_ctl01_li"><a class="level1" href="/default.aspx">About Us</a>
+								<ul class="subnav" style="display: none;"><li><a href="/about/general_overview_mission_statement.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl01_aSubNav" target="_blank">Mission Statement</a></li><li><a href="/about/bylaws_and_policies.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl02_aSubNav">Bylaws and Policies</a></li><li><a href="/benefitsofmembership.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl03_aSubNav">Benefits of Membership</a></li><li><a href="/about/members.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl04_aSubNav">Members</a></li><li><a href="/about/how_to_become_a_member.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl05_aSubNav">How to become a member</a></li><li><a href="/about/staff/osa_staff_and_jobs.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl06_aSubNav">OSA Office Information</a></li><li><a href="/about/board_info/executive.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl07_aSubNav">Board Members</a></li><li><a href="/about/youthboard_minutes.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl08_aSubNav">Youth Board Minutes</a></li><li><a href="/about/adult_board_minutes.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl09_aSubNav">Adult Board Minutes</a></li><li><a href="/about/executive_board_minutes.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl10_aSubNav">Executive Committee Minutes</a></li><li><a href="/about/annual_general_meeting_minutes.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl11_aSubNav">AGM minutes</a></li><li><a href="/tournaments/state_championship_history.aspx" id="ctl03_rptMainNav_ctl01_rptSubNav_ctl12_aSubNav">State Championship History</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl02_li"><a class="level1" href="/default.aspx">Programs</a>
+								<ul class="subnav" style="display: none;"><li><a href="/programs/odp.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl01_aSubNav" target="_blank">Olympic Development Program</a></li><li><a href="/programs/annual_workshop.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl02_aSubNav">OSA Annual Workshop</a></li><li><a href="/programs/academy_program.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl03_aSubNav">Academy Programs</a></li><li><a href="/programs/topsoccer.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl04_aSubNav">TOPSoccer</a></li><li><a href="/programs/soccer_start.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl05_aSubNav">Soccer Across America</a></li><li><a href="/programs/awards_and_recognition.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl06_aSubNav">Awards and Recognition</a></li><li><a href="/programs/grants_and_scholarships.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl07_aSubNav">Grants and Scholarships</a></li><li><a href="/programs/hall_of_fame.aspx" id="ctl03_rptMainNav_ctl02_rptSubNav_ctl08_aSubNav">Hall of Fame</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl03_li"><a class="level1">Competitive</a>
+								<ul class="subnav" style="display: none;"><li><a href="/leagues/default.aspx" id="ctl03_rptMainNav_ctl03_rptSubNav_ctl01_aSubNav">District Information</a></li><li><a href="/leagues/classic.aspx" id="ctl03_rptMainNav_ctl03_rptSubNav_ctl02_aSubNav">Oklahoma Competitive League</a></li><li><a href="/competitive/competitiveforms.aspx" id="ctl03_rptMainNav_ctl03_rptSubNav_ctl03_aSubNav">Forms</a></li><li><a href="/leagues/oklahomapremier.aspx" id="ctl03_rptMainNav_ctl03_rptSubNav_ctl04_aSubNav">Soccer City Oklahoma Premier League</a></li><li><a href="/leagues/premier_league_west.aspx" id="ctl03_rptMainNav_ctl03_rptSubNav_ctl05_aSubNav">Premier League West</a></li><li><a href="/leagues/regional_premier_league.aspx" id="ctl03_rptMainNav_ctl03_rptSubNav_ctl06_aSubNav">US Youth Regional Premier League</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl04_li"><a class="level1" href="/about/default.aspx">Recreational</a>
+								<ul class="subnav" style="display: none;"><li><a href="/recreational/districtinformation.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl01_aSubNav">District Information</a></li><li><a href="/recreational/schedules.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl02_aSubNav">Schedules</a></li><li><a href="/recreational/recreationalforms.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl03_aSubNav">Forms</a></li><li><a href="/recreational/leagues.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl04_aSubNav">Leagues</a></li><li><a href="/recreational/tournaments.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl05_aSubNav">Tournaments</a></li><li><a href="/recreational/topsoccer.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl06_aSubNav">TOPSoccer</a></li><li><a href="/recreational/soccerstart.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl07_aSubNav">Soccer Across America</a></li><li><a href="/recreational/coachinginformation.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl08_aSubNav">Coaching Information</a></li><li><a href="/recreational/volunteerretention.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl09_aSubNav">Volunteer Retention</a></li><li><a href="/recreational/parenteducation.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl10_aSubNav">Parent Education</a></li><li><a href="/recreational/smallsidedgames.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl11_aSubNav">Small Sided Games</a></li><li><a href="/recreational/benefitsofmembership.aspx" id="ctl03_rptMainNav_ctl04_rptSubNav_ctl12_aSubNav">Benefits of Membership</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl05_li"><a class="level1">Tournaments</a>
+								<ul class="subnav" style="display: none;"><li><a href="/tournaments/sanctioned_tournaments.aspx" id="ctl03_rptMainNav_ctl05_rptSubNav_ctl01_aSubNav">Sanctioned Tournaments</a></li><li><a href="/tournaments/travelpolicy.aspx" id="ctl03_rptMainNav_ctl05_rptSubNav_ctl02_aSubNav">Travel policy and forms</a></li><li><a href="/tournaments/recreational_tournaments.aspx" id="ctl03_rptMainNav_ctl05_rptSubNav_ctl03_aSubNav">Recreational State Tournaments</a></li><li><a href="/tournaments/competitive_state.aspx" id="ctl03_rptMainNav_ctl05_rptSubNav_ctl04_aSubNav">Competitive State Tournaments</a></li><li><a href="/tournaments/how_to_host.aspx" id="ctl03_rptMainNav_ctl05_rptSubNav_ctl05_aSubNav">How To Host A Club Tournament</a></li><li><a href="/tournaments/hosting_state_tournament.aspx" id="ctl03_rptMainNav_ctl05_rptSubNav_ctl06_aSubNav">How To Host A State Tournament</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl06_li"><a class="level1" href="/default.aspx">Coaches</a>
+								<ul class="subnav" style="display: none;"><li><a href="/coaching/coaching_classes.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl01_aSubNav">Coaching Courses</a></li><li><a href="/coaching/coaching_course_manuals.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl02_aSubNav">Coaching Course Manuals</a></li><li><a href="/coaching/education.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl03_aSubNav">Introduction and Objectives</a></li><li><a href="/coaching/coach_of_the_year_application.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl04_aSubNav">Coach of the Year application</a></li><li><a href="/coaching/code_of_ethics.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl05_aSubNav">Code of Ethics</a></li><li><a href="/coaching/frequently_asked_questions.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl06_aSubNav">Frequently Asked Questions</a></li><li><a href="/coaching/generalinfo.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl07_aSubNav">General Information</a></li><li><a href="/coaches/contact_staff.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl08_aSubNav">Contact OSA Coaching Staff</a></li><li><a href="/coaching/lesson_plans.aspx" id="ctl03_rptMainNav_ctl06_rptSubNav_ctl09_aSubNav">Lesson Plans</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl07_li"><a class="level1" href="/default.aspx">Administration</a>
+								<ul class="subnav" style="display: none;"><li><a href="/administration/risk_management.aspx" id="ctl03_rptMainNav_ctl07_rptSubNav_ctl01_aSubNav">Risk Management</a></li><li><a href="/administration/insuranceinfo.aspx" id="ctl03_rptMainNav_ctl07_rptSubNav_ctl02_aSubNav">Insurance Information</a></li><li><a href="/administration/regist.aspx" id="ctl03_rptMainNav_ctl07_rptSubNav_ctl03_aSubNav">Registration</a></li><li><a href="/administration/forms.aspx" id="ctl03_rptMainNav_ctl07_rptSubNav_ctl04_aSubNav">Forms</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl08_li"><a class="level1" href="/default.aspx">Referees</a>
+								<ul class="subnav" style="display: none;"><li><a href="/referees/referees.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl01_aSubNav">Referee Home</a></li><li><a href="/referees/frequently.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl02_aSubNav">Frequently Asked Questions</a></li><li><a href="/referees/scheduled_classes.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl03_aSubNav">Scheduled Referee Classes</a></li><li><a href="/referees/registered_referees.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl04_aSubNav">Registered referees</a></li><li><a href="/referees/referee_assignors.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl05_aSubNav">Referee Assignors</a></li><li><a href="/referees/referee_committee.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl06_aSubNav">Referee Committee</a></li><li><a href="/referees/policiesandguide.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl07_aSubNav">Policies and Guidelines</a></li><li><a href="/referees/advice_to_new_referees.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl08_aSubNav">Advice to new referees</a></li><li><a href="/referees/game_priority_assignments.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl09_aSubNav">Game priority assignments</a></li><li><a href="/referees/formsandappl.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl10_aSubNav">Forms and Applications</a></li><li><a href="/referees/directives.aspx" id="ctl03_rptMainNav_ctl08_rptSubNav_ctl11_aSubNav">USSF Directives and Position Papers</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl09_li"><a class="level1" href="/default.aspx">Adults</a>
+								<ul class="subnav" style="display: none;"><li><a href="/adults/league_info.aspx" id="ctl03_rptMainNav_ctl09_rptSubNav_ctl01_aSubNav">Adult Leagues</a></li><li><a href="http://www.usasa.com/" id="ctl03_rptMainNav_ctl09_rptSubNav_ctl02_aSubNav">US Adult Soccer Association Web site</a></li><li><a href="/adults/forms.aspx" id="ctl03_rptMainNav_ctl09_rptSubNav_ctl03_aSubNav">Forms</a></li><li><a href="/adults/state_cup.aspx" id="ctl03_rptMainNav_ctl09_rptSubNav_ctl04_aSubNav">Adult State Cup</a></li><li><a href="/adults/tournaments.aspx" id="ctl03_rptMainNav_ctl09_rptSubNav_ctl05_aSubNav">Adult Tournaments</a></li></ul>					    						   					    
+							</li>			    
+						
+							<li id="ctl03_rptMainNav_ctl10_li"><a class="level1" href="/multimedia/video.aspx">Multimedia</a>
+								<ul class="subnav" style="display: none;"><li><a href="/multimedia/smokesignals.aspx" id="ctl03_rptMainNav_ctl10_rptSubNav_ctl01_aSubNav">Smoke Signals</a></li></ul>					    						   					    
+							</li>			    
+						
+			</ul>
+		</div>
+		<div id="infosearch">
+			<a href="/constantcontact.aspx" id="header_signup">Sign up for news from Oklahoma Soccer!</a>
+			<a href="/etravel/default.aspx" id="header_forms">Get e travel forms!</a>
+			<!--<a href="http://downloads.oksoccer.com" target="_blank" id="header_ok_downloads">Download Training Videos!</a> -->
+			
+			<div id="ctl03_pnlSearch">
+	
+			<div id="search"><input name="ctl03$txtKeywords" type="text" id="ctl03_txtKeywords" class="search" /><input type="submit" name="ctl03$ibSearch" value="Go" id="ctl03_ibSearch" class="searchbutton" /></div>
+		
+</div>
+		</div>
+	</div></div>
+		<div id="wrapper" class="homepage">
+			<div id="stories">
+
+<!-- CONTENT AREA - WIDTH : 315 -->
+<!-- BEGIN MOD HP HEADLINES -->				
+<div id="main_story"></div>
+<div id="story_list">
+    <ul><li><img src="/assets/images/664x321/USYSVolReg2015.jpg" id="ctl15_rptNewsList_ctl01_imgStory" class="story_image" alt="CLICK HERE to Register Now to Volunteer for US Youth National Championship!" />
+            <img src="/assets/images/116x57/USYSVolReg2015.jpg" id="ctl15_rptNewsList_ctl01_imgThumb" class="story_thumb" />
+			<img src="/images/module/active_story.gif" class="active_story_img" alt="" />
+            <div class="desc">
+                <div class="descwrap" class="white">
+	                <h2><a href="https://idevforms.americaneagle.com/oklahomasa/form101939592/secure_index.html" id="ctl15_rptNewsList_ctl01_aHeadline">CLICK HERE to Register Now to Volunteer for US Youth National Championship!</a></h2>
+	                <span class="date">03/16/2015</span>
+	                <span class="teaser">July 20-26, 2015 at Mohawk Sports Complex in Tulsa, OK.</span>
+	                <!--<a id="ctl15_rptNewsList_ctl01_aImage">Full Story</a>-->
+                </div>
+            </div></li><li><img src="/assets/images/664x321/energy_vs_roughnecks.jpg" id="ctl15_rptNewsList_ctl02_imgStory" class="story_image" alt="Energy FC vs Tulsa Roughnecks" />
+            <img src="/assets/images/116x57/energy_vs_roughnecks.jpg" id="ctl15_rptNewsList_ctl02_imgThumb" class="story_thumb" />
+			<img src="/images/module/active_story.gif" class="active_story_img" alt="" />
+            <div class="desc">
+                <div class="descwrap" class="white">
+	                <h2><a href="/story/2015/03/25/energy-fc-vs-tulsa-roughnecks/" id="ctl15_rptNewsList_ctl02_aHeadline">Energy FC vs Tulsa Roughnecks</a></h2>
+	                <span class="date">03/25/2015</span>
+	                <span class="teaser">7:00 PM on SATURDAY, MARCH 28TH in Tulsa</span>
+	                <!--<a id="ctl15_rptNewsList_ctl02_aImage">Full Story</a>-->
+                </div>
+            </div></li><li><img src="/assets/images/664x321/BigFootStorycover.jpg" id="ctl15_rptNewsList_ctl03_imgStory" class="story_image" alt="CLICK HERE To Find A Club" />
+            <img src="/assets/images/116x57/BigFootStorycover.jpg" id="ctl15_rptNewsList_ctl03_imgThumb" class="story_thumb" />
+			<img src="/images/module/active_story.gif" class="active_story_img" alt="" />
+            <div class="desc">
+                <div class="descwrap" class="white">
+	                <h2><a href="http://www.oksoccer.com/assets/pdfs/OSAFindAClubRequestForm.pdf" id="ctl15_rptNewsList_ctl03_aHeadline" target="_blank">CLICK HERE To Find A Club</a></h2>
+	                <span class="date">01/21/2015</span>
+	                <span class="teaser">Use the link for our "Find Me A Club" Request Form to be connected with a soccer program in your area!</span>
+	                <!--<a id="ctl15_rptNewsList_ctl03_aImage">Full Story</a>-->
+                </div>
+            </div></li><li><img src="/assets/images/664x321/ADOCCover2.jpg" id="ctl15_rptNewsList_ctl04_imgStory" class="story_image" alt="Announcing Our New Assistant Director of Coaching!" />
+            <img src="/assets/images/116x57/ADOCCover2.jpg" id="ctl15_rptNewsList_ctl04_imgThumb" class="story_thumb" />
+			<img src="/images/module/active_story.gif" class="active_story_img" alt="" />
+            <div class="desc">
+                <div class="descwrap" class="white">
+	                <h2><a href="/story/2015/03/04/announcing-our-new-assistant-director-of-coaching/" id="ctl15_rptNewsList_ctl04_aHeadline" target="_blank">Announcing Our New Assistant Director of Coaching!</a></h2>
+	                <span class="date">03/04/2015</span>
+	                <span class="teaser">Jennifer Mavis joins the OSA Staff.</span>
+	                <!--<a id="ctl15_rptNewsList_ctl04_aImage">Full Story</a>-->
+                </div>
+            </div></li><li><img src="/assets/images/664x321/USSoccerFoundationstory.jpg" id="ctl15_rptNewsList_ctl05_imgStory" class="story_image" alt="US Soccer Foundation Grants Are Now Available!" />
+            <img src="/assets/images/116x57/USSoccerFoundationstory.jpg" id="ctl15_rptNewsList_ctl05_imgThumb" class="story_thumb" />
+			<img src="/images/module/active_story.gif" class="active_story_img" alt="" />
+            <div class="desc">
+                <div class="descwrap" class="white">
+	                <h2><a href="/story/2015/01/07/us-soccer-foundation-grants-are-now-available/" id="ctl15_rptNewsList_ctl05_aHeadline">US Soccer Foundation Grants Are Now Available!</a></h2>
+	                <span class="date">01/07/2015</span>
+	                <span class="teaser">Throughout the year, the U.S. Soccer Foundation awards grants to support field-building and field-enhancing initiatives in communities nationwide. Spring applications are now open.</span>
+	                <!--<a id="ctl15_rptNewsList_ctl05_aImage">Full Story</a>-->
+                </div>
+            </div></li></ul>
+</div>
+
+<!-- END MOD HP HEADLINES -->&nbsp;
+</div>
+			<div id="homepage_rail"><br /><img src="/images/spacer.gif" width="1" height="10"><br />            <a href="/ad-forward.aspx?AdId=220&amp;AdZoneId=3"><img src="/assets/ad/2015_Nationals_NCS_AD.jpg" width="231" height="211" border="0" alt="" /></a><br /><img src="/images/spacer.gif" width="1" height="10"><br />            <a href="/ad-forward.aspx?AdId=138&amp;AdZoneId=4"><img src="/assets/ad/Subscribe.jpg" width="231" height="90" border="0" alt="" /></a><br /><img src="/images/spacer.gif" width="1" height="10"><br />            <a href="/ad-forward.aspx?AdId=92&amp;AdZoneId=5" target="_blank"><img src="/assets/ad/Facebook3.jpg" width="231" height="90" border="0" alt="" /></a></div>
+			<div id="ticker_slot">
+<!-- BEGIN MOD TICKER -->
+<div id="ticker">
+	<div id="ticker_title">
+		News
+	</div>
+	<div id="tickerwrap">
+		<div id="scroller">
+		    <div id="scroller_wrap">
+			    <ul id="ticker01">
+				        <li><a href="http://www.usyouthsoccer.org/4_ways_to_practice_good_sportsmanship_from_the_stands/" id="ctl17_rptTicker_ctl01_aItem" target="_blank">4 Ways to Practice Good Sportsmanship from the Stands</a></li>
+				    
+				        <li><a href="http://www.usyouthsoccer.org/2014-15_national_league_girls_news__las_vegas/" id="ctl17_rptTicker_ctl02_aItem" target="_blank">2014-15 National League Girls News | Las Vegas</a></li>
+				    
+				        <li><a href="http://www.usyouthsoccer.org/georgetown_forward_melvin_snoh_take_the_initiative_when_looking_at_colleges/" id="ctl17_rptTicker_ctl03_aItem" target="_blank">Georgetown forward Melvin Snoh: Take the initiative when looking at colleges</a></li>
+				    
+				        <li><a href="http://www.usyouthsoccer.org/2014-15_us_youth_soccer_national_league_girls_las_vegas_preview/" id="ctl17_rptTicker_ctl04_aItem" target="_blank">2014-15 US Youth Soccer National League Girls Las Vegas Preview</a></li>
+				    
+				        <li><a href="http://www.usyouthsoccer.org/sportsmanship_from_the_stands_for_youth_sports_parents/" id="ctl17_rptTicker_ctl05_aItem" target="_blank">Sportsmanship from the stands for youth sports parents</a></li>
+				    
+				        <li><a href="http://www.usyouthsoccer.org/us_youth_soccer_national_league_boys_wrap_up_exciting_2014-15_season/" id="ctl17_rptTicker_ctl06_aItem" target="_blank">US Youth Soccer National League Boys wrap up exciting 2014-15 season</a></li>
+				    </ul>
+            </div>
+		</div>
+	</div>
+</div>
+<!-- END MOD TICKER -->				
+</div>
+			<div id="infobox1">
+
+<div id="calendar" class="mod">
+	<div class="header">
+		<h3>Calendar</h3>
+	</div>
+	<div class="mod_content">
+	    <ul></ul>
+		<a href="/events/" class="archive">See All Events</a>
+    </div>
+</div></div>
+			<div id="infobox2"><div class="mod">
+<div class="header">
+<h3><span style="font-size: small">HOw to become a member</span></h3>
+</div>
+<div class="mod_content"><img height="170" width="200" src="/UserFiles/image/Photos/IMG_2872w.jpg" align="left" alt="" />
+<p><span class="articlestory"><font face="Arial" size="2"><br />
+</font></span></p>
+<h4><span class="articlestory"><font face="Arial" size="2"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</font><span style="font-size: smaller;"><font face="Arial">The step-by-step process begins by completing the forms provided in the link below and contacting OSA for additional information.</font></span></span></h4>
+<p><a href="http://www.oksoccer.com/about/how_to_become_a_member.aspx"><span style="font-size: small;">Learn More</span></a></p>
+</div>
+</div></div>
+			<div id="infobox3">
+
+<!-- CONTENT AREA - WIDTH : 315 -->
+<!-- BEGIN MOD HP HEADLINES -->				
+
+<div id="headlines" class="mod">
+	<div class="header">
+		<h3>Headlines</h3>
+		<a href="/story/" class="archive">See All News</a>
+	</div>
+	<div class="mod_content">
+		<ul>
+			<li><a href="/story/2014/12/04/adult-state-cup-march-14--15-2015/" id="ctl06_rptNewsList_ctl01_aHeadline" class="headline">Adult State Cup MARCH 14 &amp; 15, 2015</a><br /><span class="desc">Remains as scheduled</span></li>		
+		    
+			<li><a href="/story/2014/11/19/us-youth-and-osa-offer-test-prep/" id="ctl06_rptNewsList_ctl02_aHeadline" class="headline">US Youth and OSA Offer Test Prep</a><br /></li>		
+		    
+			<li><a href="/story/2014/12/21/osa-workshop-2015/" id="ctl06_rptNewsList_ctl03_aHeadline" class="headline">OSA Workshop 2015 - Photos Now Available!</a><br /><span class="desc">Photos Now Available!</span></li>		
+		    
+			<li><a href="/story/2014/11/20/good-sportsmanship-pays-off/" id="ctl06_rptNewsList_ctl04_aHeadline" class="headline">Good Sportsmanship Pays Off</a><br /></li>		
+		    
+			<li><a href="/story/2015/01/07/osa-hall-of-fame-2015-inductees/" id="ctl06_rptNewsList_ctl05_aHeadline" class="headline">OSA Hall of Fame 2015 Inductees</a><br /></li>		
+		    </ul>
+		<a href="/story/" class="archive">See News Archive</a>
+	</div>
+</div>
+
+
+<!-- END MOD HP HEADLINES --></div>
+			<div id="infobox4"><div class="mod">
+<div class="header">
+<h5><span style="font-size: medium">&nbsp;&nbsp;&nbsp;2015 Member Information<br />
+the Membership</span></h5>
+</div>
+<div class="mod_content" style="height: 376px; width: 231px"><span style="font-size: small">
+<h4><span class="articlestory"><font face="Arial"><br />
+</font></span></h4>
+<h5><span class="articlestory"><font face="Arial">Oklahoma Soccer Association's Bylaws were approved August 31, 2013. Please use the links below for the Bylaws as well as any additional program information.<br />
+</font></span></h5>
+<h3><span class="articlestory"><font face="Arial"><br />
+</font></span></h3>
+</span>
+<div><span class="articlestory"><span style="font-size: 12pt; font-family: Arial, sans-serif; border: 1pt none windowtext; padding: 0in;"><a href="http://www.oksoccer.com/UserFiles/file/Office%20materials/OSA%20Bylaws%20August%2031,%202013.pdf"><test test="test"><span style="font-size: small;">Approved Bylaws<br />
+</span></test></a><a href="http://www.oksoccer.com/assets/pdfs/2014-2015_Fee_Structure.pdf"><test test="test"><span style="font-size: small;">Approved Youth Fees 2014-2015<br />
+</span></test></a><a href="http://www.oksoccer.com/assets/pdfs/CPPProcessforClub.pdf" style="font-style: normal; font-family: Arial; font-size: small;">Club Player Pass Process for Clubs</a><span style="font-size: small;"><br />
+</span></span></span><a href="http://www.oksoccer.com/assets/pdfs/Information_Update_to_Competitive_Teams_Rev_012814.pdf"><span style="font-size: small;">Competitive Team Info Sheet</span></a><span style="font-size: small;"><br />
+</span><a href="http://www.oksoccer.com/assets/pdfs/League_Structure_Information.pdf" style="font-size: 11px;"><test test="test"><span style="font-size: small;">League Structure Information<br />
+</span></test></a><a href="http://www.oksoccer.com/UserFiles/file/Policies/Recreational/ORL%20League%20Secondary%20Players%201-22-2014.pdf"><span style="font-size: small;">ORL League Secondary Players<br />
+</span></a><test test="test"><span style="font-size: small;"><a href="http://www.oksoccer.com/assets/pdfs/ORLPoliciesandProcedures022715.pdf">ORL Policies &amp; Procedures</a><br />
+</span></test></div>
+<div><em>(Updated 2/27/15)</em></div>
+<h2><test test="test"><span style="font-size: small;"> </span></test><a href="http://www.oksoccer.com/assets/pdfs/Spring15_Rec_Timeline__2_.pdf" style="font-size: 11px;"><span style="font-size: small;">Recreational Bracketing &amp; Scheduling<br />
+</span></a><test test="test"><span style="font-size: small;"><a href="http://www.oksoccer.com/assets/pdfs/Recreational_CPP_Revised_031914.pdf">Recreational CPP</a></span></test></h2>
+<br />
+<span style="font-size: small">
+<h3>&nbsp;</h3>
+</span><span class="articlestory">
+<h3><a href="/UserFiles/file/Policies/Recreational/Recreational%20CPP%20Revised%201-22-2014.pdf"><test test="test"></test></a></h3>
+<a href="/UserFiles/file/Office%20materials/Nominating%20Committee%20letter%2012%2019%202013.pdf"><span style="font-size: small;"><br />
+</span></a></span>
+<h3 style="font-style: normal;"><a href="/UserFiles/file/Policies/Recreational/ORLPolicies%20and%20Procedures%201-22-2014%20updated.pdf"><br />
+</a></h3>
+<p><span style="font-size: larger;"><a href="/UserFiles/file/Office%20materials/Nominating%20Committee%20letter%2012%2019%202013.pdf"><br type="_moz" />
+<br />
+</a></span></p>
+</div>
+</div></div>
+			<div id="footer_ad">            <a href="/ad-forward.aspx?AdId=226&amp;AdZoneId=1"><img src="/assets/ad/SPi_Oklahoma_728x90_2.jpg" width="728" height="96" border="0" alt="" /></a></div>
+			<div id="corner_ad">            <a href="/ad-forward.aspx?AdId=77&amp;AdZoneId=2"><img src="/assets/ad/Scoreweb.jpg" width="231" height="90" border="0" alt="" /></a></div>
+		</div>
+		<div id="footer_slot">
+
+		<div id="footer">
+			<div id="copyright">&copy; 2010 Oklahoma Soccer Association. All Rights Reserved.</div>
+			<ul id="footer_links">
+				<li><a href="/">Home</a></li>
+				<li><a href="/PrivacyPolicy.aspx">Privacy Policy</a></li>
+				<li><a href="/about/contactus.aspx">Contact Us</a></li>
+				<li><a href="/sitemap.aspx">Site Map</a></li>
+			</ul>
+			<div id="ae">
+				Website Design and Website Development By <a href="http://www.americaneagle.com">Americaneagle.com, Inc.</a>
+			</div>
+			<div id="footer_weather">
+				<div style='width: 120px; height: 60px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/blue_120x60_bg.jpg ); background-repeat: no-repeat; background-color: #346797;' ><div id='NetweatherContainer' style='height: 48px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=whteYell&logo=0&zipcode=74101&lang=eng&size=7&theme=blue&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; line-height: 12px; color: #FFFFFF;' ><a style='color: #FFFFFF' href='http://www.accuweather.com/us/OK/TULSA/74101/city-weather-forecast.asp?partner=netweather&traveler=0' >Weather Forecast</a></div></div>
+			</div>
+			<div id="footer_translate">
+				<div id="google_translate_element"></div><script>
+				function googleTranslateElementInit() {
+				  new google.translate.TranslateElement({
+					pageLanguage: 'en'
+				  }, 'google_translate_element');
+				}
+				</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			</div>
+		</div></div>
+	</div>
+	
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-17701882-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+  </body>
+<!--EndNoIndex-->
+</html>
+

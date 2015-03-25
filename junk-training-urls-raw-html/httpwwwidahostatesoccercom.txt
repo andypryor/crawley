@@ -1,0 +1,422 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt">
+	<head>
+		<title>Idaho State Soccer Association</title>
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<!--#set var="__path_prefix__" value="." --><SCRIPT>var __path_prefix__ = '.';</SCRIPT>
+		<meta content="www.cm4all.com" name="GENERATOR" />
+		<style cm:escaping="no" type="text/css">
+BODY { font-family: Arial, Helvetica, sans-serif;
+		color: #0000A0;}
+		a:link { color:#0000A0; }
+		a:visited { color:#0000A0; }
+		a:active { color:#0000A0; }
+		TD {font-family: Arial, Helvetica, sans-serif; font-size:10pt; color: #0000A0; }		</style>
+		<meta content="" name="keywords" />
+		<meta content="idaho soccer" name="description" />
+		<meta content="idaho soccer" name="abstract" />
+		<link href="./templates/Alpha/img/555454/webapp_0000A0_FFFFFF.css" rel="stylesheet" type="text/css" />
+		<!--
+[deploy]
+-->
+		<link href="./include/favicon.ico" rel="shortcut icon" type="image/ico" />
+		<SCRIPT type="text/javascript" src="./include/url.js"></SCRIPT><SCRIPT type="text/javascript" src="./include/swfobject.js"></SCRIPT><SCRIPT type="text/javascript" src="./include/sitetree.js"></SCRIPT>
+		<link href="./templates/Alpha/img/555454/table.css" rel="stylesheet" type="text/css" />
+		<link href="./include/user.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+div.footerBox {
+        width:95%;
+		margin:10px;
+		padding-top: 10px;
+		border-top: 1px solid #0000A0;
+	}
+	.footer_timestamp_small {
+		font-size:smaller;
+	}
+.black {	color: #000000;
+}		</style>
+		<SCRIPT>
+
+var __navi_init_done__ = false;
+function swapImage(img) {
+if (__navi_init_done__&& document.images[img])document.images[img].src = eval(img   '_hi.src');
+}
+function reSwapImage(img) {
+if (__navi_init_done__&& document.images[img])document.images[img].src = eval(img   '_no.src');
+}
+
+function __moveToParent() {
+	var currentId = '5001';
+	var parent = theSitetree.getParentById(currentId);
+	if (parent != null)
+		document.location.href = __path_prefix__   parent[POS_HREF]   "?"   URL.getSessionString();
+}
+if (typeof(moveToParent) != "function") {
+	moveToParent = __moveToParent;
+}
+</SCRIPT>
+	</head>
+	<body bgcolor="#ffffff">
+		<a href="" name="top"></a>
+		<table border="0" cellpadding="0" cellspacing="0" width="800">
+			<tbody>
+				<tr>
+					<td>
+						<table border="0" cellpadding="0" cellspacing="0" width="800">
+							<tbody>
+								<tr>
+									<td rowspan="2" width="288">
+										<img height="88" src="/./templates/Alpha/img/../../../templates/Alpha/img/logo.gif" width="288" />
+									</td>
+									<td>
+										<img height="43" src="/./templates/Alpha/img/555454/oben1.gif" width="512" />
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<img height="45" src="/./templates/Alpha/img//../../../Alpha/img/company_name.gif" width="512" />
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img height="13" src="/./templates/Alpha/img/555454/oben2.gif" width="800" />
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table border="0" cellpadding="0" cellspacing="0" width="800">
+			<tbody>
+				<tr>
+					<td valign="top" width="171">
+						<table border="0" cellpadding="0" cellspacing="0" xmlns:lxslt="http://xml.apache.org/xslt">
+							<tbody>
+								<tr>
+									<td>
+										<a href="/./5001/index.html" target=""><img alt="HOME" border="0" name="CM4all_5001" src="/./templates/Alpha/img/navi/5001_h.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+								<tr xmlns:lxslt="http://xml.apache.org/xslt">
+									<td>
+										<a href="/./5001/31043.html" onmouseout="reSwapImage('CM4all_31043');" onmouseover="swapImage('CM4all_31043');" target=""><img alt="STATE CUP" border="0" name="CM4all_31043" src="/./templates/Alpha/img/navi/31043_n.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/./5001/31022.html" onmouseout="reSwapImage('CM4all_31022');" onmouseover="swapImage('CM4all_31022');" target=""><img alt="RAYLENE ROUSH SCHOLARSHIP FUND" border="0" name="CM4all_31022" src="/./templates/Alpha/img/navi/31022_n.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/./5073/index.html" onmouseout="reSwapImage('CM4all_5073');" onmouseover="swapImage('CM4all_5073');" target=""><img alt="News" border="0" name="CM4all_5073" src="/./templates/Alpha/img/navi/5073_n.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/./5701.html" onmouseout="reSwapImage('CM4all_5701');" onmouseover="swapImage('CM4all_5701');" target=""><img alt="Insurance" border="0" name="CM4all_5701" src="/./templates/Alpha/img/navi/5701_n.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/./6501.html" onmouseout="reSwapImage('CM4all_6501');" onmouseover="swapImage('CM4all_6501');" target=""><img alt="Affiliated Leagues" border="0" name="CM4all_6501" src="/./templates/Alpha/img/navi/6501_n.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/./6522.html" onmouseout="reSwapImage('CM4all_6522');" onmouseover="swapImage('CM4all_6522');" target=""><img alt="Links" border="0" name="CM4all_6522" src="/./templates/Alpha/img/navi/6522_n.gif?cc=1336532301393" />
+										</a></td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+					<td background="./templates/Alpha/img/555454/links.gif" valign="top" width="6">
+						<img height="384" src="/./templates/Alpha/img/555454/Abstandhalter.gif" width="6" />
+					</td>
+					<td bgcolor="#ffffff" valign="top">
+						<table cellpadding="0" cellspacing="0" width="623">
+							<tbody>
+								<tr>
+									<td width="10">
+										&nbsp;</td>
+									<td>
+										&nbsp;</td>
+									<td width="30">
+										&nbsp;</td>
+								</tr>
+								<tr>
+									<td width="10">
+										&nbsp;</td>
+									<td valign="top">
+										<center>
+											<!-- "./flash/newsticker.swf" --><div id="scrollMeParent" onmousedown="return false;" style="border-bottom: #0000a0 1px solid; border-left: #0000a0 1px solid; background-color: #ffffff; margin-top: 2px; width: 450px; overflow: hidden; border-top: #0000a0 1px solid; border-right: #0000a0 1px solid">
+												3 V 3 Tournament&nbsp;Saturday November 2, 2013 entries due Oct. 26, 2013&nbsp;
+											</div>
+											<!-- WebApp ID: 1501 --><SCRIPT>
+/* please note: this script requires url.js */
+if (typeof(__path_prefix__) == 'undefined')
+    __path_prefix__ = '.';
+if (typeof(URL) == 'function') {
+    var appLoaderUrl = new URL('http://cm4all.aplus.net:80/cgi-bin/AppLoader/APL330INZAXO/1501/13470004/1501?cc=1336532301995');
+    if (appLoaderUrl.setSession())
+        appLoaderUrl.setParameter("foo", Math.random(), true);
+    document.write("<SCRIPT src='"   appLoaderUrl.toExternalForm()   "'></" "SCRIPT>");
+}
+</SCRIPT><NOSCRIPT>In order to view the newsticker, please enable javascript.</NOSCRIPT><div id="pre_content_div" style="display: none">
+												&nbsp;
+											</div>
+										</center>
+										<p><img src="/./img/content/5001_5005.gif" />
+										</p>
+										<p>&nbsp;</p>
+										<p class="black"><b>Greetings Members and Friends …</b><br />
+										<br />
+										We welcome our members, guests and friends to the Idaho State Soccer Association (ISSA) website. ISSA is an adult soccer association that is serving adult soccer teams and players throughout the state of Idaho.&nbsp;</p>
+										<span class="black"><SCRIPT>
+		
+			// deploy
+			if (typeof(theTemplate) != 'undefined' && theTemplate.hasFlashNavigation == "true") {
+				try {
+					if (window == window.top || parent.document.location.href.indexOf("main.html") == -1) {
+						document.body.style.backgroundColor='#'  theTemplate.contentBGColor ;
+						document.location.replace( __path_prefix__   "/main.html?src="   jencode(document.location.pathname   document.location.search));
+					} else {
+						document.body.style.backgroundColor='#'  theTemplate.contentBGColor ;
+					}
+				} catch( AccessViolation ) { // cannot access http parent from https iframe and vice versa
+				}
+			}
+		
+	</SCRIPT></span><p><span class="black">ISSA has been serving the&nbsp;adult soccer community in Idaho for over twenty five years and we&nbsp;are recognized as a&nbsp;Charter Member Association&nbsp;of the United States Soccer Federation (US Soccer).<br />
+										<br />
+										<br />
+										We are proud to be affiliated with US Soccer and FIFA, and a part of the world of soccer, join us.&nbsp;<br />
+										<br />
+										Paul Scherer, ISSA President.<br clear="all" />
+										<br />
+										<b>ABOUT US</b><br clear="all" />
+										ISSA OFFICERS<br />
+										<br />
+										<b>State Office<br />
+										Phone: </b>208-376-1635 Fax: 208-375-4911<br />
+										<b>Email: </b><a href="/mailto:archer831@aol.com" target="">archer831@aol.com</a><br />
+										<b>Address: </b>PO Box 190069, Boise , ID ,83709<b>&nbsp;<br />
+										&nbsp;&nbsp;<br />
+										President</b><br />
+										Paul Scherer<br />
+										<b>Phone: </b>208-376-1635 Fax: 208-375-4911<br />
+										<b>Email: </b><a href="/mailto:archer831@aol.com" target="">archer831@aol.com</a><br />
+										<b>Address: </b>10855 Ashburton Drive, Boise , ID ,83709<br clear="all" />
+										<br />
+										<b>Vice President</b><br />
+										Teresa Andrew<br />
+										<b>Phone: </b>208-345- 2915<br />
+										<b>Email: </b><a href="/mailto:futbalregisteration@msn.com">futbalregisteration@msn.com</a><br />
+										<b>Address: </b>2221 Illinois,&nbsp; Boise, ID 83706<br clear="all" />
+										<br />
+										<b>Secretary</b><br />
+										Grace Scherer<br />
+										&nbsp;<br />
+										<b>Registrar</b><br />
+										Kourtney Flaherty<br />
+										<strong>Email: </strong><a href="/mailto:kourtneyflaherty@gmail.com">kourtneyflaherty@gmail.com</a><br />
+										<br />
+										<b>Treasurer</b><br />
+										Joyce Gebhardt<br />
+										&nbsp;<br />
+										<b>State Referee Administrator</b><br />
+										Robbie Burnett<br clear="all" />
+										<strong>Email: </strong><a href="/mailto:burnett.robbie@gmail.com">burnett.robbie@gmail.com</a></span></p>
+										<p><br />
+										&nbsp;</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+										<p><br />
+										<br />
+										<br />
+										&nbsp;</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+										<table>
+											<tbody>
+												<tr>
+													<td>
+														&nbsp;</td>
+													<td>
+														&nbsp;</td>
+												</tr>
+												<tr>
+													<td>
+														&nbsp;</td>
+													<td>
+														&nbsp;</td>
+												</tr>
+											</tbody>
+										</table>
+										<center>
+											<table border="0" cellpadding="0" cellspacing="0">
+												<tbody>
+													<tr>
+														<td>
+															<img src="http://cm4all.aplus.net:80/cgi-bin/counter.PicCount?userid=APL330INZAXO&amp;bgc=FFFFFF&amp;fgc=000000&amp;fn=Arial&amp;fs=14&amp;fs=14&amp;digits=4&amp;gif=yes" />
+														</td>
+														<td>
+															&nbsp;</td>
+													</tr>
+												</tbody>
+											</table>
+											<div id="post_content_div" style="display: none">
+												&nbsp;
+											</div>
+										</center>
+										<!-- WebApp ID: 5000 --><SCRIPT>
+/* please note: this script requires url.js */
+if (typeof(__path_prefix__) == 'undefined')
+    __path_prefix__ = '.';
+if (typeof(URL) == 'function') {
+    var appLoaderUrl = new URL('http://cm4all.aplus.net:80/cgi-bin/AppLoader/APL330INZAXO/5000//20120508-195135?cc=1336532302002&modified=20120508-195135');
+    if (appLoaderUrl.setSession())
+        appLoaderUrl.setParameter("foo", Math.random(), true);
+
+    /* adjust protocol/port if extra is shop/footer */
+    urlLocation = new URL( document.location.href );
+    appLoaderUrl.protocol = urlLocation.protocol;
+    var appLoaderUrlStr =  appLoaderUrl.toExternalForm();
+    if( "https" == appLoaderUrl.protocol ) {
+        appLoaderUrlStr = appLoaderUrlStr.replace( /:d /, ":443" );
+    } else if( "http" == appLoaderUrl.protocol ) {
+        appLoaderUrlStr = appLoaderUrlStr.replace( /:d /, ":80" );
+    }
+    document.write("<SCRIPT src='"   appLoaderUrlStr   "'></" "SCRIPT>");
+}
+</SCRIPT><NOSCRIPT></NOSCRIPT><SCRIPT type="text/javascript">
+					var hasStaticGlobalFooter = false;
+				</SCRIPT>
+										<center>
+											<div>
+												<p id="cm4allglobalFooter"><SCRIPT type="text/javascript">
+							 IMPORT_JS = function(url) {
+      							window.document.write("<script type='text/javascript' src='"   url   "'></" "script>");
+							};
+							if (typeof(prodDef) != 'undefined' && typeof(prodDef.wl_name) != 'undefined' && typeof(webAppHostname) != 'undefined' ) {
+		 					  IMPORT_JS("http://" webAppHostname "/app/static/white_label/wl.custom/" prodDef.wl_name "/js/global_footer.js");	
+		 					  IMPORT_JS("http://" webAppHostname "/wsc/res/js/extras/wl_global_footer/wl_footer.js");
+							}
+						</SCRIPT></p>
+											</div>
+										</center>
+									</td>
+									<td width="30">
+										&nbsp;</td>
+								</tr>
+								<tr>
+									<td width="10">
+										&nbsp;</td>
+									<td>
+										&nbsp;</td>
+									<td width="30">
+										&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table border="0" cellpadding="0" cellspacing="0" width="800">
+			<tbody>
+				<tr>
+					<td>
+						<img height="15" src="/./templates/Alpha/img/555454/unten1.gif" width="572" />
+						<img height="15" src="/./templates/Alpha/img/555454/unten2.gif" width="199" />
+						<a href=""><img border="0" height="15" src="/./templates/Alpha/img/555454/totop.gif" width="29" />
+						</a></td>
+				</tr>
+			</tbody>
+		</table>
+		<SCRIPT>
+
+
+preLoadNaviImages = function() {
+for(var i=0; i<document.images.length; i  ) {
+if (document.images[i].name.indexOf("CM4all_") == 0) {
+eval(document.images[i].name   "_hi = new Image()");
+eval(document.images[i].name   "_no = new Image()");
+eval(document.images[i].name   "_an = new Image()");
+var thenormsrc;
+var thenormsrcUrl;
+var savedCC = "";
+if (typeof(URL) != "undefined") {
+thenormsrcUrl = new URL(document.images[i].src, true, true);
+} else if (typeof(getTopWindow().URL) != "undefined") {
+var topWindow = getTopWindow();
+thenormsrcUrl = new topWindow.URL(document.images[i].src, true, true);
+}
+if (thenormsrcUrl) {
+savedCC = thenormsrcUrl.getParameter("cc", "");
+thenormsrcUrl.removeAllParams();
+thenormsrc = thenormsrcUrl.toString();
+} else {
+thenormsrc = document.images[i].src;
+}
+var fileext = thenormsrc.substring(thenormsrc.length-4);
+eval(document.images[i].name   "_hi.src = '"   thenormsrc.substring(0,thenormsrc.length-6)   "_m"   fileext   "?cc="   savedCC    "'");
+eval(document.images[i].name   "_no.src = '"   thenormsrc.substring(0,thenormsrc.length-6)   "_n"   fileext   "?cc="   savedCC    "'");
+eval(document.images[i].name   "_an.src = '"   thenormsrc.substring(0,thenormsrc.length-6)   "_h"   fileext   "?cc="   savedCC    "'");
+}
+}
+__navi_init_done__ = true;
+};
+// this can wait a moment
+setTimeout("preLoadNaviImages();", 250);
+
+function setCompanyName() {
+}
+//setTimeout("setCompanyName()", 1);
+
+
+
+</SCRIPT><SCRIPT>
+
+new function() {
+	if (typeof(theTemplate) != 'undefined' && theTemplate.hasFlashNavigation == "true") {
+		var anchors = document.links;
+		var url;
+		var base = new URL(document.location.href, true, true);
+		if (anchors) {
+			for (var i = 0 ; i < anchors.length ; i  ) {
+				if (!anchors[i].target) {
+					url = new URL(anchors[i].href, true, true);
+					if (url.getParameter("*session*id*key*") != "*session*id*val*") {
+						if (url.protocol != "javascript"
+						 && (base.authority != url.authority || base.port != url.port))
+						{
+							anchors[i].target = "_top";
+						}
+					}
+				}
+			}
+		}
+	}
+}();
+
+</SCRIPT><SCRIPT>
+if (typeof(URL) != "undefined") URL.processLinkz();
+</SCRIPT><!-- 66/-81/40/22/PL33 -->
+	<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='a4a9872b265a4fe6';
+wm_page_name='index.html';
+wm_group_name='/services/webpages/i/d/idahostatesoccer.com/public';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+</html>

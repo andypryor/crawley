@@ -1,0 +1,938 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Homepage
+</title><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link href="/main.css" rel="stylesheet" type="text/css" />
+    <!-- CustomTemplate.master -->
+</head>
+<body>
+
+<link rel="stylesheet" type="text/css" href="/Content/directors/upimg/dir2323/css/jqueryMine.css" media="screen,projection">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="jquery.rotate.js"></script>
+
+<script type="text/javascript">
+<!--
+	$(document).ready(function() {
+		$("#banner_container").rotate();
+		
+		$("#image_container").rotate();
+		
+	});
+	
+	   
+//-->
+</script>
+
+<script type="text/javascript" src="ddsmoothmenu.js">
+
+/***********************************************
+* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu2", //Menu DIV id
+	orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+	//customtheme: ["#804000", "#482400"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+
+</script>
+
+<style type="text/css">
+<!--
+
+html {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #5d8baf;
+}
+
+ body {
+	background-image: url(/Content/directors/upimg/dir2323/website/bgTOP.jpg);
+	background-repeat: repeat-x;
+	height: 100%;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+	line-height:1.9ems;
+	margin: 0px;
+	padding: 0px;
+	background-position: center 0px;
+}
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding: 0px
+	
+}
+
+
+#wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	width: 1084px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(/Content/directors/upimg/dir2323/website/wrapper.jpg);
+	background-repeat: repeat-y;
+	margin-bottom: -192px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 50px;
+	padding-left: 0px;
+}
+#wrapperInner {
+}
+#header {
+	height: 220px;
+	width: 100%;
+	position: relative;
+	background-image: url(/Content/directors/upimg/dir2323/website/header.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 11px;
+}
+#logo {
+	position: absolute;
+	top: 10px;
+	left: 472px;
+	margin: 0px;
+	padding: 0px;
+	height: 203px;
+	width: 143px;
+}
+#navBar {
+	position: absolute;
+	bottom: 12px;
+	margin: 0px;
+	padding: 0px;
+	left: 25px;
+}
+#contentcontainer {
+	margin: 0px;
+	background-image: url(/Content/directors/upimg/dir2323/website/contentTop.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-top: 0px;
+	padding-right: 16px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+}
+#contentColumn {
+	width: 741px;
+	margin: 0px;
+	float: left;
+	padding-top: 20px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 30px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#contentColumn h3 {
+	margin: 0px;
+	height: 32px;
+	width: 402px;
+	line-height: 32px;
+	background-image: url(/Content/directors/upimg/dir2323/website/h3.jpg);
+	background-repeat: no-repeat;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #074C71;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+}
+#leftColumn {
+	float: left;
+	width: 229px;
+	color: #E8E8E8;
+	position: relative;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 12px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#leftColumn p{
+	margin: 0px;
+	position: relative;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#leftColumn h1 {
+	background-image: url(/Content/directors/upimg/dir2323/website/sideH1.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	height: 30px;
+	color: #FFF;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 32px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+#leftColumn img {
+	max-width: 180px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+
+}
+#leftColumn ul#menu {
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+}
+#leftColumn ul#menu li{
+	margin: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #555;
+	display: block;
+	padding: 0px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #B9B9B9;
+	height: 30px;
+}
+#leftColumn li a:link , #leftColumn li a:visited{
+	color: #FFF;
+	text-decoration: none;
+	margin: 0px;
+	display: block;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+	font-size: 11px;
+	text-transform: uppercase;
+	background-image: url(/Content/directors/upimg/dir2323/website/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 10px 0px;
+	line-height: 30px;
+}
+#leftColumn li a:hover , #leftColumn li a:active{
+	color:#ffb95d;
+	background-color: #767676;
+	background-image: url(/Content/directors/upimg/dir2323/website/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 10px -30px;
+}
+#leftColumn li a:selected {
+	background-color: #000;
+	color:#F5D843;
+	background-image: url(/Content/directors/upimg/dir2323/website/arrow.jpg);
+	background-repeat: no-repeat;
+	background-position: 5px -23px;
+}
+#field {
+	background-image: url(/Content/directors/upimg/dir2323/website/field.png);
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 222px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 47px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+}
+
+#field h2 {
+	font-size: 18px;
+	color: #FFF;
+	margin: 0px;
+	line-height: 26px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+}
+#field h4 {
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+#applyNow a:link , #applyNow a:visited{
+	height: 51px;
+	width: 161px;
+	padding: 0px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir557/website/applyBtn.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#applyNow a:hover, #applyNow a:active{
+	height: 51px;
+	width: 161px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir557/website/applyBtn.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px -51px;
+}
+
+#footer {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 145px;
+}
+
+#footerInner {
+	background-image: url(/Content/directors/upimg/dir2323/website/contentEnd.jpg);
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 1084px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	padding-top: 100px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-position: 0px top;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#gsLogo {
+	margin: 0px;
+	padding: 0px;
+}
+
+.push {
+	height: 100px;
+}
+.clearthis {
+	margin : 0px;
+	height : 1px;
+	clear : both;
+	float : none;
+	font-size: 1px;
+	line-height: 0px;
+	overflow : hidden;
+	visibility: hidden;
+	padding: 0px;
+}
+.LinesTableHeader {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+
+
+
+
+
+
+
+/*DROP MENU*/
+.ddsmoothmenu{
+	width: 100%;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.ddsmoothmenu ul{
+	z-index:100;
+	margin: 0;
+	list-style-type: none;
+	padding: 0;
+}
+
+/*Top level list items*/
+.ddsmoothmenu ul li{
+	position: relative;
+	display: inline;
+	float: left;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-left-color: #b7b7b7;
+	padding: 0px;
+	height: 31px;
+	margin: 0px;
+	border-right-color: #FFF;
+}
+
+/*Top level menu link items style*/
+.ddsmoothmenu ul li a{
+	display: block; /*background of menu items (default state)*/
+	color: white;
+	color: #0660a0;
+	text-decoration: none;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 22px;
+	padding-bottom: 0px;
+	padding-left: 22px;
+	height: 32px;
+	line-height: 32px;
+	text-transform: uppercase;
+}
+
+* html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited{
+	color: #0660a0;
+}
+.ddsmoothmenu ul li a:hover, .ddsmoothmenu ul li a.selected{
+	color: #000;
+}
+	
+/*1st sub level menu*/
+.ddsmoothmenu ul li ul{
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.ddsmoothmenu ul li ul li{
+	display: list-item;
+	float: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: #000;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.ddsmoothmenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.ddsmoothmenu ul li ul li a:link, .ddsmoothmenu ul li ul li a:visited {
+	width: 150px;
+	margin: 0;
+	border-top-width: 0;
+	height: 32px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 32px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFF;
+	text-transform: none;
+}
+/* Sub level menu HOVER */
+.ddsmoothmenu ul li ul li a:hover, .ddsmoothmenu ul li ul li a:active {
+	color: #ffb95d;
+}
+
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+	position: absolute;
+	top: 12px;
+	right: 7px;
+	display: none;
+}
+
+.rightarrowclass{
+	position: absolute;
+	top: 6px;
+	right: 5px;
+	display: none;
+}
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+}
+
+.toplevelshadow{ /*shadow opacity. Doesn't work in IE*/
+opacity: 0.8;
+}
+
+
+/*SPONSORS ROTATE*/
+
+#banner_container {
+	width: 130px;
+	min-height: 200px;
+	position: relative;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 0px;
+	text-align: center;
+}
+#banner_container div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#banner_container img {
+	border: 0;
+	max-width: 130px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+/*
+#ctl00_MainBody_PageContent {
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 15px;
+}
+*/
+
+#right {
+	background-color: #FFF;
+	display: block;
+	margin: 0px;
+	padding: 1px;
+	width: 268px;
+	border: 1px solid #979797;
+	float: right;
+}
+#left {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 450px;
+}
+.news {
+	margin: 0px;
+	padding: 15px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #666;
+}
+.news h2 {
+	font-size: 15px;
+	margin: 0px;
+	line-height: 18px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	color: #066EB9;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.news img {
+	float: left;
+	border: 1px solid #333;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding: 0px;
+	width: 60px;
+}
+.news p {
+	font-size: 12px;
+	line-height: 16px;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+#right #rightInner {
+	background-color: #979797;
+	margin: 0px;
+	position: relative;
+	width: 268px;
+	padding-top: 2px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.registration {
+	margin: 0px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFF;
+}
+.registration h2 {
+	color: #FFF;
+	margin: 0px;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 7px;
+	padding-left: 0px;
+}
+#rightInner h1 {
+	padding: 0px;
+	font-size: 16px;
+	line-height: 37px;
+	background-image: url(/Content/directors/upimg/dir2323/website/regH1.jpg);
+	height: 37px;
+	width: 264px;
+	text-indent: -9000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.registration img {
+	margin: 0px;
+	width: 58px;
+	float: left;
+	border: 1px solid #333;
+	padding: 0px;
+}
+.registration p {
+	float: left;
+	margin: 0px;
+	font-size: 11px;
+	line-height: 15px;
+	color: #333;
+	display: block;
+	width: 170px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+.regBtn {
+	background-image: url(/Content/directors/upimg/dir2323/website/regbtn.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 31px;
+	width: 101px;
+	text-indent: -9000px;
+	display: block;
+	float: right;
+}
+
+-->
+</style>
+
+<div id="wrapper">
+<div id="wrapperInner">
+<div id="header">
+<div id="logo"><img src="/Content/directors/upimg/dir2323/website/logo.png"></div>
+<div id="navBar">
+<div id="smoothmenu1" class="ddsmoothmenu">
+<ul>
+<li><a href="/clubsite/?p=4375" kaspersky_status="skipped" in_tag="ul">Home</a> </li>
+<li><a href="/clubsite/?p=4405" kaspersky_status="skipped" in_tag="ul">General Info</a> </li>
+<li><a href="http://mayes.gotsport.com/clubsite/teams.aspx" kaspersky_status="skipped" in_tag="ul" checked_link="http://mayes.gotsport.com/clubsite/teams.aspx">teams</a> </li>
+<li><a href="/clubsite/?p=4407" kaspersky_status="skipped" in_tag="ul">Select FC</a> 
+<ul>
+<li><a href="#" kaspersky_status="skipped" in_tag="ul">Home Game Calendar</a> </li></ul></li>
+<li style="WIDTH: 200px"></li>
+<li><a href="/clubsite/?p=4408" kaspersky_status="skipped" in_tag="ul">&nbsp;Rec Schedules</a> </li>
+<li><a href="/clubsite/?p=4409" kaspersky_status="skipped" in_tag="ul">Contact Us</a> </li></ul></div></div></div>
+<div id="contentcontainer">
+<div id="leftColumn">
+<h1>Fields</h1>
+<div id="field">
+<h2>All Fields <br><span style="color: rgb(128, 0, 0); ">OPEN</span></h2>
+<h4>Updated: 8/9/2014</h4></div>
+<h1>sponsors / soccer links</h1>
+<div class="center"><a href="http://www.mcpetro.com/index.htm"><img src="/Content/directors/upimg/dir2323/header_mcpetro_logo.gif" alt="Mayes County Petroleum" border="0px"></a><span style="color: rgb(125, 216, 255); "><a href="http://www.ages-comp.com"><img src="/Content/directors/upimg/dir2323/ageslogo.jpg" alt="" border="0"></a></span></div></div>
+<div id="contentColumn">
+<p>
+
+    <form name="aspnetForm" method="post" action="Default.aspx?p=4375&amp;AspxAutoDetectCookieSupport=1" id="aspnetForm" class="NoPad">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzM4Njk5MjY4ZGQ/1gYyKHHFs1itWiBDgUaPnTCxTQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="354E6D71" />
+    <div>
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top">
+            
+<div id="ctl00_LeftUI_RelatedPages"></div>
+
+            </td>
+            <td valign="top">
+            
+<div id="ctl00_MainBody_PageContent"><div id="one" class="contentslider">
+			<div class="cs_wrapper">
+				<div class="cs_slider">
+
+                          <!-- Article 1 START-->
+					<div class="cs_article">
+						<h2> <a href="#">Soccer Gear</a> </h2>
+						<a href="#">
+							<img src="/Content/directors/upimg/dir2323/soccer-ball.jpg">
+						</a>
+						<p>
+							We have soccer balls and shin guards for sale in the Clubhouse.
+                                                        All soccer balls are $10.00
+                                                        All Shin Guards are $10.00
+							
+							
+							
+						</p>
+						
+					</div>
+                               <!--Article 1 END-->
+
+                               <!--Article 2 START-->
+					<div class="cs_article">
+						<h2> <a href="#">Work Days</a> </h2>
+						<a href="#">
+							<img src="/Content/directors/upimg/dir2323/work day picture.jpg">
+						</a>
+						<p>
+							Work Days will be Aug 16, 23 & 30.  Starting at 9 am.  
+						</p>
+						<p>
+							We need all the people we can get to come help us get the complex ready for Fall Soccer.
+						</p>
+						
+					</div>
+                                  <!--Article 2 END-->
+
+                                  <!--Article 3 START-->
+					<div class="cs_article">
+						<h2> <a href="#">Referee Class</a> </h2>
+						<a href="#">
+							<img src="/Content/directors/upimg/dir2323/soccer-ball.jpg">
+						</a>
+						<p>
+							Contact Tim Lawson at (918) 530-8966 if you are interested in becoming a referee for the fall season.
+						</p>
+						<p>
+
+						</p>
+						
+					</div>
+                                  <!--Article 3 END-->
+ 
+                                      <!--Article 3 Start-->
+
+					<div class="cs_article">
+						<h2> <a href="#">Fall Camp</a> </h2>
+						<a href="#">
+							<img src="/Content/directors/upimg/dir2323/articleslider/article01.jpg" alt="Artist's interpretation of article headline">
+						</a>
+						<p>
+							British Coaches are here all week for a special U6 & U8 soccer camp.  Mon - Fri 5 pm to 7 pm.  Aug 11 - Aug 15.  There is no cost for this camp.
+						</p>
+						<p>
+							We still have T-Shirts and Hoodies for sell in the concession stand.  
+						</p>
+						
+					</div>
+
+                                <!--Article 4 END-->
+
+				</div>
+                          <!-- End cs_slider -->
+			</div><!-- End cs_wrapper -->
+		</div><!-- End contentslider -->
+
+<!-- Site JavaScript -->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<script type="text/javascript" src="/Content/directors/upimg/dir2323/js/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/Content/directors/upimg/dir2323/js/jquery.Mine.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				$('#one').ContentSlider({
+					width : '700px',
+					height : '200px',
+					speed : 800,
+					easing : 'easeOutQuad'
+				});
+			});
+			
+		</script>
+		<script src="/Content/directors/upimg/dir2323/js/jquery.chili-2.2.js" type="text/javascript"></script>
+		<script src="/Content/directors/upimg/dir2323/js/chili/recipes.js" type="text/javascript"></script>
+        
+        
+
+<br>
+
+<div id="center">
+<div id="rightInner">
+<h1>Register Now</h1>
+<div class="registration">
+<h2>Spring Registration </h2><img src="/Content/directors/upimg/dir2323/soccer-ball.jpg"> 
+<p>Spring Registration 2015 NOW OPEN!!!!!!!!</p><a class="regBtn" href=" https://www.gotsport.com/asp/application/reg/?ProgramID=34291">Register Now</a> 
+<div class="clearthis"></div></div>
+<div style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="registration">
+<h2>Spring Coach Registration </h2><img src="/Content/directors/upimg/dir2323/soccer-ball.jpg"> 
+<p>Be a Coach this Spring OPEN!!!!</p><a class="regBtn" href="https://www.gotsport.com/asp/application/reg/?ProgramID=34291&Type=COACH">Register Now</a> 
+<div class="clearthis"></div></div></div></div>
+<div class="clearthis"></div><!--END LEFT/RIGHT--><br>
+<hr>
+<br>
+<p>
+</p><div id="center">
+<div id="center">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=edwards+soccer+complex+pryor+oklahoma&amp;aq=&amp;sll=35.309049,-98.716558&amp;sspn=5.539555,10.821533&amp;t=h&amp;ie=UTF8&amp;hq=edwards+soccer+complex&amp;hnear=Pryor+Creek,+Mayes,+Oklahoma&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=edwards+soccer+complex+pryor+oklahoma&amp;aq=&amp;sll=35.309049,-98.716558&amp;sspn=5.539555,10.821533&amp;t=h&amp;ie=UTF8&amp;hq=edwards+soccer+complex&amp;hnear=Pryor+Creek,+Mayes,+Oklahoma&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small> <div class="kl_keyboard ui-draggable" style="" aria-disabled="false"><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div><div class="kl_keyboard ui-draggable" style="" aria-disabled="false"><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div> <div class="kl_keyboard ui-draggable" style="" aria-disabled="false"><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div><div class="kl_keyboard ui-draggable" style="" aria-disabled="false"><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div>
+<div id="leftRight">
+<div id="left">
+<h3>News &amp; Announcements </h3><!--News1-->
+<div class="news">
+<h2>THE BRITISH CAME</h2> 
+<p><span style="FONT-SIZE: 12pt">It was a great time had by all at the Challenger Soccer Camp.  We are doing things a little different next summer.  We will be offering 2 camps; one geared for recreational players (the same camp we have had for the past 3 years) and another camp for our competitive teams.  Stay tuned for more information.</span></p><!--endnews1--></div><!--News2-->
+<div class="news">
+<h2>Coaching Opportunities</h2><img src="/Content/directors/upimg/dir2323/oksoccer.jpg"> 
+<p><span style="FONT-SIZE: 12pt">Oklahoma Soccer Association is offering several coaching classes this sprint. Follow this link for more information. <a href="http://www.oksoccer.com/coaching/coaching_classes.aspx">Class Information</a></span></p><!--endnews2--><!--END News2--></div>
+
+<br></div> </div></div></div><div class="kl_keyboard ui-draggable" aria-disabled="false" style=""><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div><div class="kl_layout"><div class="kl_set" id="kl_current_set"><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">§</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">1</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">2</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">3</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">4</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">5</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">6</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">7</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">8</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">9</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">0</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">-</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">=</canvas></div><div class="kl_button kl_system kl_system_backspace" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="100" height="32">Backspace</canvas></div><div class="kl_spacer"></div><div class="kl_button kl_system" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">Tab</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">q</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">w</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">e</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">r</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">t</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">y</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">u</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">i</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">o</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">p</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">[</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">]</canvas></div><div class="kl_system kl_system_return" onselectstart="return false;" focus="return false;"><div class="kl_return_lower_shadow"></div><div class="kl_return_upper"><canvas class="system_button_canvas" width="100" height="50">Return</canvas></div><div class="kl_return_lower"></div></div><div class="kl_spacer"></div><div class="kl_button kl_system kl_system_capslock" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">capslock</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">a</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">s</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">d</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">f</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">g</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">h</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">j</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">k</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">l</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">;</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">'</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">\</canvas></div><div class="kl_spacer"></div><div class="kl_button kl_system kl_system_shift" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">shift</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">`</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">z</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">x</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">c</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">v</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">b</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">n</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">m</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">,</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">.</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">/</canvas></div><div class="kl_button kl_system kl_system_shift_right" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">shift</canvas></div><div class="kl_spacer"></div><div class="kl_layout_selector kl_top_round_corners kl_bottom_round_corners"><div class="kl_layout_selector_icon_button" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAACW0lEQVQoFZVTbUhTURh+7r5y7qsf+TFMsk1QGlZIBhHGnEmS/dCyEgnKKFpKEBIJJdEHUrEkIqIfRQsyCYp+7Mda0J/AEauEgjKtYa0p0iyabmvudnfXe84d1s98L+d9n/ue933Oc885VwCgo2HMRwr/bSJVJjXkLB+OnopV72rAtbAZD24HkFlII+jrxuTew0BWgu2RF672O/it0qGrSkZneRbaI4dgWl1WzAgMfZESXByNoKdlM2rXd+Hh/SBUeh0MNdVEIHNcV+9Aq1WEs0KHREMTuvt8TKqBEag/fZzGYOladMb8qHcUYdXxbZBFCZnPUUCSCGfRYfyGDSVmfNnowuA5P16PvGEEaoGcfW4iHNbp9chJWZZctMk9B4lAhu3x3cUcA4JGDTGdhqWqspIpwNj2DhiNZkjz80COZchyBNQqHidcOwEVrSUrk9rlZiRTCV7GCX4tZKCJfYWUSIJJUspkwnya3iXKCvxhc5LJiJSp4C+B9d4NrLRalVV5WnHja5yQqdkxNvJPlqAgYGpmBnBtAWkE6lwe1DTdROjHMhQ+8SPUe5k3yORzeT3jqQIUBvx43jOATa1e6rnKazhBqd2KQOAEGgO3MOR7h/2j7F7RZ3PRHGLH1gEMlzeixd0Mb0UUNrslX0Pher8TxZ4LOP10FsdeCIjPTildtNuAluNMIg737rM4+b4I63oPoH+FUsN2SZSGhuH5LuPS27jSSD746iWitXbksln8JDwn050gu3L+DCL72uBuawZCz0S26UxLGQ0TjaUYO8dpRsB0sh+KxaUYu3XiH2vAxzq/eTGQAAAAAElFTkSuQmCC') !important;"></div><div class="kl_layout_selector_label_button">English</div><div class="kl_layout_list_container"><div class="kl_layout_selector_option_top"></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="de" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVQoFZVTu26EMBAc8CmKdHe5UCRNuvsBdPxFfjVlviFVCiTaFCkiRYquQXAP8/I5sw4IrgCRkdb2emfGayw8ADeMVTtzmo2KzOOCwyaKov1s2YAYx/GjGCyNMQjDcFAaX3qeB2stkiQR0lIMVF3XyPMcaZpeKYUoENEQQRBANIQSA5dkWQaJOfB9vzOAM3jJLrhbnGAOJdhf7yEnD/O2osoTcmp2zJ2BLkrcfnzBmGMvnlipnxW0u31noCvcGwuLy4SsL1l+dK3/uK6Dh9c9tlsS5ukB/4zmk/xnLsX3rDkMri57kyDXaUhyHRRFS79+rUmPTiMGVdMAb++T/LFiJWduGE+M9RhrZP/A/W8xUAz5oWT+DwzJ1S8JoWjm5fjFnAAAAABJRU5ErkJggg==') !important;"></div><div class="kl_layout_selector_label">Deutsch</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="es" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABbklEQVQoFZVTTUsDMRB9cduKW0XbiuAnfuBJUUR/gl4Ff6c3L969CGIRob1URC9drP2Sdrfbprtd36QKdntofTAJmcx7mcwkCkCKNv8zc5oampFugsPi2+HZZ4QBFGamZkvgTuFxRQTSGISwT46nIysFRBH8p2eJT4uAFek+wlYbYb0xKsJAAyH9gZXLQjiEJQLYyhdgpZJUdtD1bbi1FJY2XCRUINvjUGsIdYGXB4xAj+Wwkw7cRgXVm020Sjn4lxq5ozLsOfJHEzCCPZMAhlXzO/QNKui/ZPF++4F68xxR7QqBI35aGLcKfI8+wpS9IwKyCJaR2e+jlL+Gd3/H9dA/lgEz+uWYK5gFT6kelLCaAS72HATbr3B3+UAkgzjoGxEonorOLCJ4aJpg34xfHMXiUOx8EVIEPSxiFwHJ7AKkYpMhj65LskCO1lKjB/hjV5WACdDSIHYT67SFCcHx7TYdZRGwaPKhZP4PJHH9DdVbglfXvCJbAAAAAElFTkSuQmCC') !important;"></div><div class="kl_layout_selector_label">Español</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="fr" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQoFY1Sy07DMBAcp7QcAooQEhdOHJGKUMU38Flc+C5O+YBygF4B8Tr0kJI0JH7EMWsnTZoQHmut7VnvTiZrMwAT8r16peXfJikz3aEpmE2vlv2y+d11J7S4uOxgC6bzmyNL4Gtd4nx28i1hO+CfnVaQMcAYpLf3FvuWYKSURpJwrKJ1lTQw86fnJjo+PIBRyuKRJYCUEvEqRfzxaeGg6bglZ94ISgmX5wgE54iiFOk6s+oGTcVJE7cpgtseApUCnuP1YYlM5C44NInH9yasgxj5xHO4IqBCQ4pKGj9be2ZUgayspDoCJSQ87P5KYLbITaHBi8J9y+lQEO6YEc3G+0oYnWwGpEEm3S3UPYB0m3EF+7U1dmLd3v4qR0tA7dTI8NIpDMOwgxcYvGJJzwoB+TH5fqfib2AfxtsX0zCBpMQ+chEAAAAASUVORK5CYII=') !important;"></div><div class="kl_layout_selector_label">Français</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="it" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABVElEQVQoFZVTS07DMBB9TtKwKKWCBRJix4IF6hXYIK7BBbgPF+Ae3VScAJYsqiJRIVhU5Gs7js3YifIjCLA0nnnjNy+jscMAhGT7tSf35yWJmQS0za/ub9+HZcubu15qfXndwxacPSyPrcBU6xKLk/NvhG5ib3HhoAcGDQP++GTx1Ar4hVaIRYpdHjnS2KY2mybtHx3CFMpi3wpAygJRniAm+2mVUdwcMd+HktzhSkBw7HiEVGbUnGmI3UB/tt0poghuZwg4AZELbM0bMpF1a3qxfNk22DuIkAWew7VADi8MYYxuSMNA686ZKpC5EdQdSC4QzAISGG/fiXUEWFGCm0rB9aFIAB3C8OsOMwbUZueUVbdQzUCJwg0vqC5ltN6bTNp8Se9AtEOUhhLJ80dLoGi1WvXwOh29Ykl9YU52SjbrVfwO7MN4tQI+mf2hrP/PKoksvwArhYzX7rtqFAAAAABJRU5ErkJggg==') !important;"></div><div class="kl_layout_selector_label">Italiano</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="pt" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8ElEQVQoFZWSz2pTURDGf/fe5DYxiUmttDVSRFBwYVcFlwqCD9C1L+CjuFWfoOJCEFy4K27UhS5KN0IQkSLF1jZpQyTJ/X/uOc65N1WkXdiBOcMM33znmznHAXzx5ixK+G9LBTmtyNG+++LR4KQtdxw8Y9h49uWkdCoabahe6rCy+WbREjTyXLO6fKMAasfFNZr6qnuqsSw4GK3Idvds2rAEnsoVkyRiGE3QFc0Vd0p/YY/5bQcnB1Nxyt7Z6bYvgsps5lkCMpUyiqek6hf38j6twxg9GDO45TPfE9RIbv1HkCFL7QqgIIjjmKMg5H63x8PtKcFoHb3ikQw3GV8/pv3+AqYqaFP0yAg5iYxtrSBIo4RA7zOc+8an7x28B+tknQbXnjwn6O5Q+3EZLH6mwmnVCZek9ocgjlCVOv2sSdgac/vjKzK/iX9nl9qOoAq1s+slNVlOlCS2v+RMQ0EYxefjLr21iHd6g7mtx+ihova2JTDZZCHBytA4aSYE5Q4KUSqJC1CQ1nn5c43XNxeIfZfFpx3cA/vP7Cv8daMMUVoqKHagEiXf0eBXXXKnwkGyxPKHQ/K69J1hJtbEyqoql5iiNOHXo6KgRZMrSreioMjPOoyM4ely/1ZXW/yquB32PDYR8L4l8MTtoDaex+wM6W+StdCJDVH2GgAAAABJRU5ErkJggg==') !important;"></div><div class="kl_layout_selector_label">Português</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="ru" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+UlEQVQoFZVQW27CMBAcJyFQwkOAxA9/baWepTfoBTlDD9EroP5U7QcSIBSSEMfxdteAZAmkJCutvbOeGa9WAYg5R9ebr9ahmXmK+JgS0ba1zCMqpZYB48TrdS0TMQi7qjx+KAYwxni9duVNIzvA28ca88UM6akEeXrFtY9vT5NRH/vdwUFnUJYFfv4CZLkstjmOwxgRCke8GOQFKB7C2kf/3RsaQ6j1xUCmfPlMlpvnIIRNz/fsB51gPMC3rfGebV/dBLmuQD3Zp/g1B9WEvKoc0RmcGVDUA54cbHQgshCNhCh0zbv+KjLX6HhomXnKueIcdxSnzP/9B9NWUmzSO7dBAAAAAElFTkSuQmCC') !important;"></div><div class="kl_layout_selector_label">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</div></div><div class="kl_layout_selector_option_bottom"></div></div></div><div class="kl_button kl_system kl_system_alt" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">alt</canvas></div><div class="kl_button kl_system kl_system_space" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32"> </canvas></div><div class="kl_button kl_system kl_system_alt" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">alt</canvas></div><div class="kl_spacer"></div></div></div></div><div class="kl_keyboard ui-draggable" style=""><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div>
+
+<!-- Facebook Badge START --><a href="https://www.facebook.com/pages/Mayes-County-Soccer-Association/187143974640999" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Mayes County Soccer Association">Mayes County Soccer Association</a><br><a href="https://www.facebook.com/pages/Mayes-County-Soccer-Association/187143974640999" target="_TOP" title="Mayes County Soccer Association"><img src="https://badge.facebook.com/badge/187143974640999.2730.902883712.png" style="border: 0px;"></a><br><a href="https://www.facebook.com/advertising" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END --></div>
+
+            </td>
+        </tr>
+    </table>
+    </div>
+    </form>
+    
+ </p>
+<div class="clearthis"></div></div><!--END CONTENT COLUMN-->
+<div class="clearthis"></div></div></div>
+<div class="clearthis"></div></div>
+<div class="push"></div>
+<div id="footer">
+<div id="footerInner">
+<div id="gsLogo"><br></div></div></div>  <div class="kl_keyboard ui-draggable" aria-disabled="false" style=""><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div><div class="kl_keyboard ui-draggable" style="" aria-disabled="false"><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div> <div class="kl_keyboard ui-draggable" aria-disabled="false" style=""><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div><div class="kl_layout"><div class="kl_set" id="kl_current_set"><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">§</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">1</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">2</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">3</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">4</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">5</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">6</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">7</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">8</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">9</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">0</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">-</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">=</canvas></div><div class="kl_button kl_system kl_system_backspace" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="100" height="32">Backspace</canvas></div><div class="kl_spacer"></div><div class="kl_button kl_system" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">Tab</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">q</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">w</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">e</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">r</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">t</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">y</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">u</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">i</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">o</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">p</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">[</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">]</canvas></div><div class="kl_system kl_system_return" onselectstart="return false;" focus="return false;"><div class="kl_return_lower_shadow"></div><div class="kl_return_upper"><canvas class="system_button_canvas" width="100" height="50">Return</canvas></div><div class="kl_return_lower"></div></div><div class="kl_spacer"></div><div class="kl_button kl_system kl_system_capslock" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">capslock</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">a</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">s</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">d</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">f</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">g</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">h</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">j</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">k</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">l</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">;</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">'</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">\</canvas></div><div class="kl_spacer"></div><div class="kl_button kl_system kl_system_shift" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">shift</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">`</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">z</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">x</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">c</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">v</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">b</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">n</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">m</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">,</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">.</canvas></div><div class="kl_button kl_all" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">/</canvas></div><div class="kl_button kl_system kl_system_shift_right" onselectstart="return false;" focus="return false;"><canvas class="system_button_canvas" width="32" height="32">shift</canvas></div><div class="kl_spacer"></div><div class="kl_layout_selector kl_top_round_corners kl_bottom_round_corners"><div class="kl_layout_selector_icon_button" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAACW0lEQVQoFZVTbUhTURh+7r5y7qsf+TFMsk1QGlZIBhHGnEmS/dCyEgnKKFpKEBIJJdEHUrEkIqIfRQsyCYp+7Mda0J/AEauEgjKtYa0p0iyabmvudnfXe84d1s98L+d9n/ue933Oc885VwCgo2HMRwr/bSJVJjXkLB+OnopV72rAtbAZD24HkFlII+jrxuTew0BWgu2RF672O/it0qGrSkZneRbaI4dgWl1WzAgMfZESXByNoKdlM2rXd+Hh/SBUeh0MNdVEIHNcV+9Aq1WEs0KHREMTuvt8TKqBEag/fZzGYOladMb8qHcUYdXxbZBFCZnPUUCSCGfRYfyGDSVmfNnowuA5P16PvGEEaoGcfW4iHNbp9chJWZZctMk9B4lAhu3x3cUcA4JGDTGdhqWqspIpwNj2DhiNZkjz80COZchyBNQqHidcOwEVrSUrk9rlZiRTCV7GCX4tZKCJfYWUSIJJUspkwnya3iXKCvxhc5LJiJSp4C+B9d4NrLRalVV5WnHja5yQqdkxNvJPlqAgYGpmBnBtAWkE6lwe1DTdROjHMhQ+8SPUe5k3yORzeT3jqQIUBvx43jOATa1e6rnKazhBqd2KQOAEGgO3MOR7h/2j7F7RZ3PRHGLH1gEMlzeixd0Mb0UUNrslX0Pher8TxZ4LOP10FsdeCIjPTildtNuAluNMIg737rM4+b4I63oPoH+FUsN2SZSGhuH5LuPS27jSSD746iWitXbksln8JDwn050gu3L+DCL72uBuawZCz0S26UxLGQ0TjaUYO8dpRsB0sh+KxaUYu3XiH2vAxzq/eTGQAAAAAElFTkSuQmCC') !important;"></div><div class="kl_layout_selector_label_button">English</div><div class="kl_layout_list_container"><div class="kl_layout_selector_option_top"></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="de" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVQoFZVTu26EMBAc8CmKdHe5UCRNuvsBdPxFfjVlviFVCiTaFCkiRYquQXAP8/I5sw4IrgCRkdb2emfGayw8ADeMVTtzmo2KzOOCwyaKov1s2YAYx/GjGCyNMQjDcFAaX3qeB2stkiQR0lIMVF3XyPMcaZpeKYUoENEQQRBANIQSA5dkWQaJOfB9vzOAM3jJLrhbnGAOJdhf7yEnD/O2osoTcmp2zJ2BLkrcfnzBmGMvnlipnxW0u31noCvcGwuLy4SsL1l+dK3/uK6Dh9c9tlsS5ukB/4zmk/xnLsX3rDkMri57kyDXaUhyHRRFS79+rUmPTiMGVdMAb++T/LFiJWduGE+M9RhrZP/A/W8xUAz5oWT+DwzJ1S8JoWjm5fjFnAAAAABJRU5ErkJggg==') !important;"></div><div class="kl_layout_selector_label">Deutsch</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="es" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABbklEQVQoFZVTTUsDMRB9cduKW0XbiuAnfuBJUUR/gl4Ff6c3L969CGIRob1URC9drP2Sdrfbprtd36QKdntofTAJmcx7mcwkCkCKNv8zc5oampFugsPi2+HZZ4QBFGamZkvgTuFxRQTSGISwT46nIysFRBH8p2eJT4uAFek+wlYbYb0xKsJAAyH9gZXLQjiEJQLYyhdgpZJUdtD1bbi1FJY2XCRUINvjUGsIdYGXB4xAj+Wwkw7cRgXVm020Sjn4lxq5ozLsOfJHEzCCPZMAhlXzO/QNKui/ZPF++4F68xxR7QqBI35aGLcKfI8+wpS9IwKyCJaR2e+jlL+Gd3/H9dA/lgEz+uWYK5gFT6kelLCaAS72HATbr3B3+UAkgzjoGxEonorOLCJ4aJpg34xfHMXiUOx8EVIEPSxiFwHJ7AKkYpMhj65LskCO1lKjB/hjV5WACdDSIHYT67SFCcHx7TYdZRGwaPKhZP4PJHH9DdVbglfXvCJbAAAAAElFTkSuQmCC') !important;"></div><div class="kl_layout_selector_label">Español</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="fr" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQoFY1Sy07DMBAcp7QcAooQEhdOHJGKUMU38Flc+C5O+YBygF4B8Tr0kJI0JH7EMWsnTZoQHmut7VnvTiZrMwAT8r16peXfJikz3aEpmE2vlv2y+d11J7S4uOxgC6bzmyNL4Gtd4nx28i1hO+CfnVaQMcAYpLf3FvuWYKSURpJwrKJ1lTQw86fnJjo+PIBRyuKRJYCUEvEqRfzxaeGg6bglZ94ISgmX5wgE54iiFOk6s+oGTcVJE7cpgtseApUCnuP1YYlM5C44NInH9yasgxj5xHO4IqBCQ4pKGj9be2ZUgayspDoCJSQ87P5KYLbITaHBi8J9y+lQEO6YEc3G+0oYnWwGpEEm3S3UPYB0m3EF+7U1dmLd3v4qR0tA7dTI8NIpDMOwgxcYvGJJzwoB+TH5fqfib2AfxtsX0zCBpMQ+chEAAAAASUVORK5CYII=') !important;"></div><div class="kl_layout_selector_label">Français</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="it" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABVElEQVQoFZVTS07DMBB9TtKwKKWCBRJix4IF6hXYIK7BBbgPF+Ae3VScAJYsqiJRIVhU5Gs7js3YifIjCLA0nnnjNy+jscMAhGT7tSf35yWJmQS0za/ub9+HZcubu15qfXndwxacPSyPrcBU6xKLk/NvhG5ib3HhoAcGDQP++GTx1Ar4hVaIRYpdHjnS2KY2mybtHx3CFMpi3wpAygJRniAm+2mVUdwcMd+HktzhSkBw7HiEVGbUnGmI3UB/tt0poghuZwg4AZELbM0bMpF1a3qxfNk22DuIkAWew7VADi8MYYxuSMNA686ZKpC5EdQdSC4QzAISGG/fiXUEWFGCm0rB9aFIAB3C8OsOMwbUZueUVbdQzUCJwg0vqC5ltN6bTNp8Se9AtEOUhhLJ80dLoGi1WvXwOh29Ykl9YU52SjbrVfwO7MN4tQI+mf2hrP/PKoksvwArhYzX7rtqFAAAAABJRU5ErkJggg==') !important;"></div><div class="kl_layout_selector_label">Italiano</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="pt" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8ElEQVQoFZWSz2pTURDGf/fe5DYxiUmttDVSRFBwYVcFlwqCD9C1L+CjuFWfoOJCEFy4K27UhS5KN0IQkSLF1jZpQyTJ/X/uOc65N1WkXdiBOcMM33znmznHAXzx5ixK+G9LBTmtyNG+++LR4KQtdxw8Y9h49uWkdCoabahe6rCy+WbREjTyXLO6fKMAasfFNZr6qnuqsSw4GK3Idvds2rAEnsoVkyRiGE3QFc0Vd0p/YY/5bQcnB1Nxyt7Z6bYvgsps5lkCMpUyiqek6hf38j6twxg9GDO45TPfE9RIbv1HkCFL7QqgIIjjmKMg5H63x8PtKcFoHb3ikQw3GV8/pv3+AqYqaFP0yAg5iYxtrSBIo4RA7zOc+8an7x28B+tknQbXnjwn6O5Q+3EZLH6mwmnVCZek9ocgjlCVOv2sSdgac/vjKzK/iX9nl9qOoAq1s+slNVlOlCS2v+RMQ0EYxefjLr21iHd6g7mtx+ihova2JTDZZCHBytA4aSYE5Q4KUSqJC1CQ1nn5c43XNxeIfZfFpx3cA/vP7Cv8daMMUVoqKHagEiXf0eBXXXKnwkGyxPKHQ/K69J1hJtbEyqoql5iiNOHXo6KgRZMrSreioMjPOoyM4ely/1ZXW/yquB32PDYR8L4l8MTtoDaex+wM6W+StdCJDVH2GgAAAABJRU5ErkJggg==') !important;"></div><div class="kl_layout_selector_label">Português</div></div><div class="kl_layout_selector_option kl_layout_selector_option_middle" locale="ru" style="display: none;"><div class="kl_layout_selector_icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAC7mlDQ1BJQ0MgUHJvZmlsZQAAeAGFVM9rE0EU/jZuqdAiCFprDrJ4kCJJWatoRdQ2/RFiawzbH7ZFkGQzSdZuNuvuJrWliOTi0SreRe2hB/+AHnrwZC9KhVpFKN6rKGKhFy3xzW5MtqXqwM5+8943731vdt8ADXLSNPWABOQNx1KiEWlsfEJq/IgAjqIJQTQlVdvsTiQGQYNz+Xvn2HoPgVtWw3v7d7J3rZrStpoHhP1A4Eea2Sqw7xdxClkSAog836Epx3QI3+PY8uyPOU55eMG1Dys9xFkifEA1Lc5/TbhTzSXTQINIOJT1cVI+nNeLlNcdB2luZsbIEL1PkKa7zO6rYqGcTvYOkL2d9H5Os94+wiHCCxmtP0a4jZ71jNU/4mHhpObEhj0cGDX0+GAVtxqp+DXCFF8QTSeiVHHZLg3xmK79VvJKgnCQOMpkYYBzWkhP10xu+LqHBX0m1xOv4ndWUeF5jxNn3tTd70XaAq8wDh0MGgyaDUhQEEUEYZiwUECGPBoxNLJyPyOrBhuTezJ1JGq7dGJEsUF7Ntw9t1Gk3Tz+KCJxlEO1CJL8Qf4qr8lP5Xn5y1yw2Fb3lK2bmrry4DvF5Zm5Gh7X08jjc01efJXUdpNXR5aseXq8muwaP+xXlzHmgjWPxHOw+/EtX5XMlymMFMXjVfPqS4R1WjE3359sfzs94i7PLrXWc62JizdWm5dn/WpI++6qvJPmVflPXvXx/GfNxGPiKTEmdornIYmXxS7xkthLqwviYG3HCJ2VhinSbZH6JNVgYJq89S9dP1t4vUZ/DPVRlBnM0lSJ93/CKmQ0nbkOb/qP28f8F+T3iuefKAIvbODImbptU3HvEKFlpW5zrgIXv9F98LZua6N+OPwEWDyrFq1SNZ8gvAEcdod6HugpmNOWls05Uocsn5O66cpiUsxQ20NSUtcl12VLFrOZVWLpdtiZ0x1uHKE5QvfEp0plk/qv8RGw/bBS+fmsUtl+ThrWgZf6b8C8/UXAeIuJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+UlEQVQoFZVQW27CMBAcJyFQwkOAxA9/baWepTfoBTlDD9EroP5U7QcSIBSSEMfxdteAZAmkJCutvbOeGa9WAYg5R9ebr9ahmXmK+JgS0ba1zCMqpZYB48TrdS0TMQi7qjx+KAYwxni9duVNIzvA28ca88UM6akEeXrFtY9vT5NRH/vdwUFnUJYFfv4CZLkstjmOwxgRCke8GOQFKB7C2kf/3RsaQ6j1xUCmfPlMlpvnIIRNz/fsB51gPMC3rfGebV/dBLmuQD3Zp/g1B9WEvKoc0RmcGVDUA54cbHQgshCNhCh0zbv+KjLX6HhomXnKueIcdxSnzP/9B9NWUmzSO7dBAAAAAElFTkSuQmCC') !important;"></div><div class="kl_layout_selector_label">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</div></div><div class="kl_layout_selector_option_bottom"></div></div></div><div class="kl_button kl_system kl_system_alt" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">alt</canvas></div><div class="kl_button kl_system kl_system_space" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32"> </canvas></div><div class="kl_button kl_system kl_system_alt" onselectstart="return false;" focus="return false;"><canvas class="button_canvas" width="32" height="32">alt</canvas></div><div class="kl_spacer"></div></div></div></div><div class="kl_keyboard ui-draggable" style=""><div class="kl_hook"><div class="kl_kb_close_button"></div><div class="kl_kb_settings_button">Preferences</div></div></div>
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20472997-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9563615" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9563615&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    
+</body>
+</html>

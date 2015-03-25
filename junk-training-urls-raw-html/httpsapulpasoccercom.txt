@@ -1,0 +1,1516 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>SAPULPA SOCCER CLUB</title>
+<script type="text/javascript" src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/script.js"></script>
+<link rel="stylesheet" href="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/style.css" type="text/css" media="screen" />
+<!--[if IE 6]><link rel="stylesheet" href="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/style.ie6.css" type="text/css" media="screen" /><![endif]-->
+<link rel="alternate" type="application/rss+xml" title="SAPULPA SOCCER CLUB RSS Feed" href="http://sapulpasoccer.com/feed/" />
+<link rel="alternate" type="application/atom+xml" title="SAPULPA SOCCER CLUB Atom Feed" href="http://sapulpasoccer.com/feed/atom/" /> 
+
+<link rel="pingback" href="http://sapulpasoccer.com/xmlrpc.php" />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='stylesheet' id='pta_directory-style-css'  href='http://sapulpasoccer.com/wp-content/plugins/pta-member-directory/includes/css/pta-contact-form.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my_wpattn_box_StyleSheets-css'  href='http://sapulpasoccer.com/wp-content/plugins/wp-attention-boxes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_weather_widget-style-css'  href='http://sapulpasoccer.com/wp-content/plugins/easy-weather-widget/css/easy-weather-widget-style.css?ver=1.0' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sapulpasoccer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sapulpasoccer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<meta property="og:site_name" content="SAPULPA SOCCER CLUB" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="SAPULPA SOCCER CLUB" />
+<meta property="og:description" content="Recreational Soccer" />
+<meta property="og:url" content="http://sapulpasoccer.com" />
+</head>
+<body>
+<div class="PageBackgroundSimpleGradient">
+</div>
+<div class="PageBackgroundGlare">
+    <div class="PageBackgroundGlareImage"></div>
+</div>
+<div class="Main">
+<div class="Sheet">
+    <div class="Sheet-tl"></div>
+    <div class="Sheet-tr"><div></div></div>
+    <div class="Sheet-bl"><div></div></div>
+    <div class="Sheet-br"><div></div></div>
+    <div class="Sheet-tc"><div></div></div>
+    <div class="Sheet-bc"><div></div></div>
+    <div class="Sheet-cl"><div></div></div>
+    <div class="Sheet-cr"><div></div></div>
+    <div class="Sheet-cc"></div>
+    <div class="Sheet-body">
+<div class="nav">
+    <ul id="menu-ssc" class="artmenu"><li id="menu-item-550" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-550"><a class="active" title="Sapulpa Soccer Club" href="http://sapulpasoccer.com/"><span><span>Home</span></span></a></li>
+<li id="menu-item-551" class="page_item  menu-item-object-page menu-item-551"><a href="http://sapulpasoccer.com/contact/"><span><span>Contact Us</span></span></a></li>
+<li id="menu-item-656" class="page_item  menu-item-object-page menu-item-656"><a href="http://sapulpasoccer.com/coaches-corner/"><span><span>Coaches &#038; Team Managers</span></span></a></li>
+<li id="menu-item-663" class="page_item  menu-item-object-page menu-item-663"><a href="http://sapulpasoccer.com/coaches-corner/doc/"><span><span>Coaching Tips</span></span></a></li>
+<li id="menu-item-631" class="page_item  menu-item-object-page menu-item-631"><a href="http://sapulpasoccer.com/?page_id=2"><span><span>Recreational Soccer</span></span></a></li>
+<li id="menu-item-632" class="page_item  menu-item-object-page menu-item-632"><a href="http://sapulpasoccer.com/rec-soccer/registration-refund-policy/"><span><span>Registration Refund Policy</span></span></a></li>
+<li id="menu-item-630" class="page_item  menu-item-object-page menu-item-630"><a href="http://sapulpasoccer.com/rain-out-policy-4/"><span><span>Rain out policy</span></span></a></li>
+<li id="menu-item-749" class="page_item  menu-item-object-page menu-item-749"><a href="http://sapulpasoccer.com/registration-2/"><span><span>REGISTRATION</span></span></a></li>
+<li id="menu-item-818" class="page_item  menu-item-object-page menu-item-818"><a href="http://sapulpasoccer.com/game-schedules/"><span><span>Game Schedules</span></span></a></li>
+<li id="menu-item-908" class="page_item  menu-item-object-page menu-item-908"><a href="http://sapulpasoccer.com/faq/"><span><span>FAQ</span></span></a></li>
+<li id="menu-item-987" class="page_item  menu-item-object-page menu-item-987"><a href="http://sapulpasoccer.com/ssc-bylaws/"><span><span>SSC Bylaws</span></span></a></li>
+</ul><ul style="display:none;"> 
+<li><a href="http://www.freewordpressthemes4u.com/category/weight-lifting">weight lifting template wordpress</a></li><li><a href="http://lifecoverreport.com/lcr-other/lcr-pages/liverpool-victoria-life">life covers lv</a></li>
+</ul>    <div class="l">
+    </div>
+    <div class="r">
+        <div>
+        </div>
+    </div>
+</div>
+<div class="Header">
+    <div class="Header-jpeg"></div>
+<div class="logo">
+    <h1 id="name-text" class="logo-name">
+        <a href="http://sapulpasoccer.com/">SAPULPA SOCCER CLUB</a></h1>
+    <div id="slogan-text" class="logo-text">
+        Recreational Soccer</div>
+</div>
+
+</div>
+<div class="contentLayout">
+<div class="content">
+
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+
+<div class="PostContent">
+
+<div class="navigation">
+			<div class="alignleft"><a href="http://sapulpasoccer.com/page/2/" >&laquo; Older Entries</a></div>
+			<div class="alignright"></div>
+</div>
+
+</div>
+<div class="cleared"></div>
+
+
+</div>
+
+    </div>
+</div>
+
+
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/fields-open-please-stay-out-of-goal-areas/" rel="bookmark" title="Permanent Link to Fields open -please stay out of goal areas">
+Fields open -please stay out of goal areas</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+March 19th, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<p>Fields are open today but limited to main playing areas only. Please do not practice or play inside the goal areas today.</p>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/shirt-and-hoodie-orders-due-march-20th/" rel="bookmark" title="Permanent Link to Shirt and Hoodie orders due March 20th">
+Shirt and Hoodie orders due March 20th</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+March 10th, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<h2 style="text-align: center;">Don&#8217;t forget to order your shirts and hoodies.  Order forms and payment are due by March 20th.</h2>
+<h2 style="text-align: center;"><span style="color: #3366ff;"> <a style="color: #3366ff;" href="http://sapulpasoccer.com/wp-content/uploads/2015/03/Fundraiser-order-form-15.pdf" target="_blank"> CLICK HERE FOR ORDER FORM</a></span><a href="http://sapulpasoccer.com/wp-content/uploads/2015/03/Fundraiser-order-form-15.jpg"><img class=" size-medium wp-image-1135 aligncenter" src="http://sapulpasoccer.com/wp-content/uploads/2015/03/Fundraiser-order-form-15-239x300.jpg" alt="Fundraiser design 15.cdr" width="239" height="300" /></a></h2>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/u6-schedules-are-ready/" rel="bookmark" title="Permanent Link to U6 Schedules are ready">
+U6 Schedules are ready</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+March 6th, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<p>Please visit the &#8220;Game Schedules&#8221; tab for spring 2015 U6 schedules</p>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/fields-are-closed-until-saturday-february-7th/" rel="bookmark" title="Permanent Link to Fields are closed until Saturday, February 7th">
+Fields are closed until Saturday, February 7th</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+March 5th, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/spring-2015-schedules/" rel="bookmark" title="Permanent Link to Spring 2015 Schedules">
+Spring 2015 Schedules</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+March 3rd, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<h2>Some of the schedules are available and links are posted on the &#8220;<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://sapulpasoccer.com/game-schedules/">Games Schedules</a></span>&#8221; tab</h2>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/sscs-discount-shopping-days-at-dicks-sporting-goods-tulsa-hills-location/" rel="bookmark" title="Permanent Link to SSC&#8217;s Discount Shopping Days at Dick&#8217;s Sporting Goods &#8211; Tulsa Hills location">
+SSC&#8217;s Discount Shopping Days at Dick&#8217;s Sporting Goods &#8211; Tulsa Hills location</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+February 16th, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<h2>Our partner Dicks Sporting Goods will be hosting TWO discount shop days JUST for Sapulpa Soccer Club. Parents, coaches, club supporters and alumni will enjoy 20% off the entire store all day and will also be able to order -in store only- customized cleats and equipment for 20% off . This sale will exclude guns, ammo and a few additional items (see coupons for exclusions).</p>
+<p>Our first discount shop event will be on <span class="aBn" style="color: #ff0000;" tabindex="0" data-term="goog_249540052"><span class="aQJ">Sunday, February 22nd</span></span> at the Tulsa Hills Dick&#8217;s Sporting Goods.  Your second opportunity to save will be <span class="aBn" style="color: #ff0000;" tabindex="0" data-term="goog_249540053"><span class="aQJ">Sunday, March 1st</span></span> at the Tulsa Hills location.</p>
+<p>Your coupons are available by clicking on the link below.  They will also be available on our Facebook page.  Please share this coupon with your friends and family too!  This is a great opportunity to get cleats, shin guards, balls, water bottles or any other spring sporting equipment at a great savings!  Come find our table in the team sports area of the store &#8211; we&#8217;ll have extra coupons there too.</h2>
+<h1 style="text-align: center;"><a href="http://sapulpasoccer.com/wp-content/uploads/2015/02/DSG-Sale-Dates-coupons-spring-20153.pdf">DSG Sale Dates coupons spring 2015</a></h1>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/uniforms-spring-2015/" rel="bookmark" title="Permanent Link to Uniforms &#8211; Spring 2015">
+Uniforms &#8211; Spring 2015</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+January 31st, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<h2>If your player needs to order a uniform you may order online here: <span style="color: #0000ff;"><a style="color: #0000ff;" title="Uniforms" href="https://sapulpasoccer15.itemorder.com/sale" target="_blank">https://sapulpasoccer15.itemorder.com/sale</a></span></h2>
+<h2>Uniforms are required for players in the U8 and above age groups.  Uniforms are not included in the cost of registration.</h2>
+<p>&nbsp;</p>
+<h2>U3-U6 players will be provided a team shirt and do not need to order a uniform.  Please see the FAQ tab for additional items you will need for your player.</h2>
+<h2></h2>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/spring2015-regisration/" rel="bookmark" title="Permanent Link to Registration is OPEN &amp; Special coupons for coaches!">
+Registration is OPEN &#038; Special coupons for coaches!</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+January 13th, 2015 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<h2>Please visit the registration tab on this website to register online during January.</h2>
+<h2></h2>
+<h2 style="text-align: left;">Coaches/players: click on the following link to take advantage of special savings on Soccer gear for the upcoming season.  These coupons are valid beginning today.   We will also host a special discount shopping day at our local Dick&#8217;s in Tulsa Hills on Sunday, February 22nd &#8211; savings of 20% most items with our special coupon.  Watch your email for that discount day coupon or use these <span style="color: #3366ff;"><strong><a style="color: #3366ff;" href="http://www.mydickssportinggoods.com/crmcdn/getoffer.aspx?offer_entity_code=O21H5RP1&amp;token=bYR2n7SVRAOPnT-Ipn-RvAkWXX1-qfZOtjPRKZgMnGganzl1LiYRilsLGLOzXAn1AnHAgFajZ4vTPgroS5IFQ2" target="_blank">coupons</a></strong></span> for 10%-20% select items:</h2>
+<p style="text-align: center;"><a href="http://www.mydickssportinggoods.com/crmcdn/getoffer.aspx?offer_entity_code=O21H5RP1&amp;token=bYR2n7SVRAOPnT-Ipn-RvAkWXX1-qfZOtjPRKZgMnGganzl1LiYRilsLGLOzXAn1AnHAgFajZ4vTPgroS5IFQ2" target="_blank"><img class="alignnone wp-image-1075 size-medium" src="http://sapulpasoccer.com/wp-content/uploads/2015/01/dsg_soccer_280x400-210x300.jpg" alt="dsg_soccer_280x400" width="210" height="300" /></a></p>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/nov_16th_games/" rel="bookmark" title="Permanent Link to All games scheduled through November 16th have been canceled">
+All games scheduled through November 16th have been canceled</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+November 12th, 2014 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<h2>The Oklahoma Soccer Association (OSA) has canceled all games scheduled for the week of November 11-16th so there will be NO GAMES this coming Saturday, November 15th.  Home game coaches may reschedule these games by contacting our referee/game assignor, Shawn Sexson.</h2>
+<h2></h2>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+<div class="PostMetadataHeader">
+<h2 class="PostHeaderIcon-wrapper">
+<span class="PostHeader"><a href="http://sapulpasoccer.com/fields-remain-closed-today-tuesday-october-14th/" rel="bookmark" title="Permanent Link to Fields remain closed today, Tuesday, October 14th.">
+Fields remain closed today, Tuesday, October 14th.</a></span>
+</h2>
+<div class="PostHeaderIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostDateIcon.png" width="18" height="18" alt="PostDateIcon" />
+October 14th, 2014 | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostAuthorIcon.png" width="16" height="16" alt="PostAuthorIcon" />
+Author: <a href="#" title="Author">Sapulpa Soccer Club</a>
+
+</div>
+
+</div>
+<div class="PostContent">
+<p>No make up games or practices on fields</p>
+
+</div>
+<div class="cleared"></div>
+<div class="PostMetadataFooter">
+<div class="PostFooterIcons metadata-icons">
+<img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCategoryIcon.png" width="18" height="18" alt="PostCategoryIcon" />
+Posted in <a href="http://sapulpasoccer.com/category/uncategorized/" rel="category tag">Uncategorized</a> | <img src="http://sapulpasoccer.com/wp-content/themes/futbol_action_spe010/images/PostCommentsIcon.png" width="18" height="18" alt="PostCommentsIcon" />
+<span>Comments Closed</span>
+</div>
+
+</div>
+
+</div>
+
+    </div>
+</div>
+
+
+<div class="Post">
+    <div class="Post-tl"></div>
+    <div class="Post-tr"><div></div></div>
+    <div class="Post-bl"><div></div></div>
+    <div class="Post-br"><div></div></div>
+    <div class="Post-tc"><div></div></div>
+    <div class="Post-bc"><div></div></div>
+    <div class="Post-cl"><div></div></div>
+    <div class="Post-cr"><div></div></div>
+    <div class="Post-cc"></div>
+    <div class="Post-body">
+<div class="Post-inner article">
+
+<div class="PostContent">
+
+<div class="navigation">
+			<div class="alignleft"><a href="http://sapulpasoccer.com/page/2/" >&laquo; Older Entries</a></div>
+			<div class="alignright"></div>
+</div>
+
+</div>
+<div class="cleared"></div>
+
+
+</div>
+
+    </div>
+</div>
+
+
+</div>
+<div class="sidebar1">
+<div class="sidebar1">      
+		<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+		<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Recent Posts
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+		<ul>
+					<li>
+				<a href="http://sapulpasoccer.com/fields-open-please-stay-out-of-goal-areas/">Fields open -please stay out of goal areas</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/shirt-and-hoodie-orders-due-march-20th/">Shirt and Hoodie orders due March 20th</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/u6-schedules-are-ready/">U6 Schedules are ready</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/fields-are-closed-until-saturday-february-7th/">Fields are closed until Saturday, February 7th</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/spring-2015-schedules/">Spring 2015 Schedules</a>
+						</li>
+				</ul>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+FIELD STATUS
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+<p><img class='tcwimage tcwimagea' src='http://sapulpasoccer.com/wp-content/uploads/2013/09/OPEN_RECTANGLE.gif' alt=' Image not found'/></a></p>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Categories
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+		<ul>
+	<li class="cat-item cat-item-20"><a href="http://sapulpasoccer.com/category/meetings/" >Meetings</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://sapulpasoccer.com/category/registration/" >Registration</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://sapulpasoccer.com/category/u3u4u5u6/" >U3/U4/U5/U6</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://sapulpasoccer.com/category/u8/" >U8</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://sapulpasoccer.com/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+REGISTRATION FOR FALL 2014
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget"><p><FONT color=red><b> For Fall 2014, visit the 'REGISTRATION' tab for more info..</b></p>
+</div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Thanks to our Sponsor!
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget"><img src="http://sapulpasoccer.com/wp-content/uploads/2015/01/dsg-logo-1.png" width=200 height=120/></div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+No Pets
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget"><img src="http://sapulpasoccer.com/wp-content/uploads/2014/09/no-animals-allowed-stock-corrugated-plastic-sign-18x24.jpg" width=200 height=120 /></div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+		<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+		<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Recent Posts
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+		<ul>
+					<li>
+				<a href="http://sapulpasoccer.com/fields-open-please-stay-out-of-goal-areas/">Fields open -please stay out of goal areas</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/shirt-and-hoodie-orders-due-march-20th/">Shirt and Hoodie orders due March 20th</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/u6-schedules-are-ready/">U6 Schedules are ready</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/fields-are-closed-until-saturday-february-7th/">Fields are closed until Saturday, February 7th</a>
+						</li>
+					<li>
+				<a href="http://sapulpasoccer.com/spring-2015-schedules/">Spring 2015 Schedules</a>
+						</li>
+				</ul>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+No Smoking
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget"><img src= "http://sapulpasoccer.com/wp-content/uploads/2014/09/Smoking-Area-Sign-NHE-25182_300.gif"  width=200  height=120 /></div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockContent">
+    <div class="BlockContent-body">
+<form method="get" id="searchform" action="http://sapulpasoccer.com/">
+
+<label for="s">Search for:</label>
+
+<div><input type="text" value="" name="s" id="s" style="width: 95%;" />
+
+<button class="Button" type="submit" name="search">
+ <span class="btn">
+  <span class="t">Search</span>
+  <span class="r"><span></span></span>
+  <span class="l"></span>
+ </span>
+</button>
+</div>
+</form>
+
+
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Archives
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://sapulpasoccer.com/2015/03/'> March 2015 </option>
+	<option value='http://sapulpasoccer.com/2015/02/'> February 2015 </option>
+	<option value='http://sapulpasoccer.com/2015/01/'> January 2015 </option>
+	<option value='http://sapulpasoccer.com/2014/11/'> November 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/10/'> October 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/09/'> September 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/08/'> August 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/07/'> July 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/05/'> May 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/04/'> April 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/03/'> March 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/02/'> February 2014 </option>
+	<option value='http://sapulpasoccer.com/2014/01/'> January 2014 </option>
+	<option value='http://sapulpasoccer.com/2013/12/'> December 2013 </option>
+	<option value='http://sapulpasoccer.com/2013/11/'> November 2013 </option>
+	<option value='http://sapulpasoccer.com/2013/10/'> October 2013 </option>
+	<option value='http://sapulpasoccer.com/2013/09/'> September 2013 </option>
+	<option value='http://sapulpasoccer.com/2013/08/'> August 2013 </option>
+		</select>
+
+    </div>
+</div>
+
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="cleared"></div>
+<div id=footernav style='text-align:left;'>
+
+
+			<div id="footer-widget-area" role="complementary">
+
+				<div id="first" class="widget-area foot-widget-1">
+					<ul class="xoxo">
+						<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Donations and Volunteers 
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget">If you would like to donate some of you time or money to the Sapulpa Soccer Club. Please email our us! (sapulpasoccerclub@gmail.com) or call the club office @918 227-GOAL (4625)</div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+					</ul>
+				</div><!-- #first .widget-area -->
+
+				<div id="second" class="widget-area foot-widget-2">
+					<ul class="xoxo">
+						<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Where to find us.
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget">SapulpaSoccer.com is home to the SAPULPA SOCCER CLUB located about 1/2 mile south of W Taft Ave on S Wickham Rd (behind Walmart)
+
+918-227-GOAL
+</div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+						
+					</ul>
+				</div><!-- #second .widget-area -->
+
+				<div id="third" class="widget-area foot-widget-3">
+					<ul class="xoxo">
+						<div class="Block">
+    <div class="Block-tl"></div>
+    <div class="Block-tr"><div></div></div>
+    <div class="Block-bl"><div></div></div>
+    <div class="Block-br"><div></div></div>
+    <div class="Block-tc"><div></div></div>
+    <div class="Block-bc"><div></div></div>
+    <div class="Block-cl"><div></div></div>
+    <div class="Block-cr"><div></div></div>
+    <div class="Block-cc"></div>
+    <div class="Block-body">
+<div class="BlockHeader">
+    <div class="header-tag-icon">
+        <div class="BlockHeader-text">
+Mailing Address
+        </div>
+    </div>
+    <div class="l"></div>
+    <div class="r"><div></div></div>
+</div>
+<div class="BlockContent">
+    <div class="BlockContent-body">
+			<div class="textwidget"><p>Our Mailing address is:<br />
+SAPULPA SOCCER CLUB<br />
+PO BOX 2397<br />
+SAPULPA, OK 74067-2397</p>
+</div>
+		
+    </div>
+</div>
+
+    </div>
+</div>
+					</ul>
+				</div><!-- #third .widget-area -->
+
+
+			</div><!-- #footer-widget-area -->
+</div><div class="cleared"></div>
+<div class="Footer">
+    <div class="Footer-inner">
+                <a href="http://sapulpasoccer.com/feed/" class="rss-tag-icon" title="RSS"></a>
+                <div class="Footer-text">
+<p>
+<div id=hidden style='display:none;'></div>
+
+<!-- <a href="#">Contact Us</a> | <a href="#">Terms of Use</a> | <a href="#">Trademarks</a> 
+| <a href="#">Privacy Statement</a> | -->
+<a href="http://sapulpasoccer.com/wp-login.php">Log in</a> <br>
+    Copyright &copy; 2015 SAPULPA SOCCER CLUB. All Rights Reserved.</p>
+</div>
+    </div>
+    <div class="Footer-background">
+    </div>
+</div>
+
+</div>
+</div>
+<div><div id="securehiddenlogin" class="editsee"></div><style type="text/css">
+#securehiddenlogin {
+	right: 0;
+	position:fixed;
+	z-index: 77777;
+	height: 16px;
+	background: #464646 url("lock.png") no-repeat;
+	color: #ccc;
+	cursor:pointer;
+	line-height:1 !important;
+}
+#securehiddenlogin form {
+	display:inline;
+}
+#securehiddenlogin a {
+	position:absolute;
+	right:0
+}
+#securehiddenlogin.editsee,#securehiddenlogin.shl_wordpress_icon {
+	width:32px;
+}
+#securehiddenlogin.editsee,#securehiddenlogin.shl_login_text,#securehiddenlogin.shl_wordpress_icon {
+	top:0;
+}
+#securehiddenlogin.shl_login_text, #securehiddenlogin.the_net {
+	right:20px;
+}
+#securehiddenlogin.shl_wordpress_icon {
+	left: 0;
+	height:28px;
+	padding-left:12px;
+	border-right:1px solid #555;
+}
+#securehiddenlogin.shl_wordpress_icon .icon {
+	background-image: url(wp-includes/images/admin-bar-sprite.png?d=20111130);
+	background-position: 0 -76px;
+	background-repeat: no-repeat;
+	width:20px;
+	height:20px;
+	margin-top:4px;
+}
+#securehiddenlogin.shl_wordpress_icon .dashicon:before {
+font-family: "dashicons";
+    content: "\f324";
+}
+#securehiddenlogin.the_net {
+	bottom:0;
+	background-image:none !important;
+	background-color:transparent;
+	height:32px;
+	color:black;
+}
+#securehiddenlogin.shl_login_text,#securehiddenlogin.shl_wordpress_icon {
+	background-image:none !important;
+}
+img#wpstats { display:none; } /* fix conflict with 'the net' style and jetpack */
+#securehiddenlogin.hidden {
+	display:none;
+}
+#securehiddenloginform input[type=text],#securehiddenloginform input[type=password]{
+	margin:0;
+	border-radius:0;
+	border:none;
+	margin-right:30px !important;
+	height:24px !important;
+	width:auto;
+	padding:1px;
+	font-size:18px;
+	line-height:1 !important;
+	display:inline-block !important;
+}
+#securehiddenloginform input[type=submit],#securehiddenloginform input[type=button] {
+	display: inline-block;
+	zoom: 1; /* zoom and *display = ie7 hack for display:inline-block */
+	*display: inline;
+	top:0px;
+	padding:5px 10px 5px 10px;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 12px/100% Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	height:24px;
+	line-height:1 !important;
+	margin:0px 2px 0px 2px;
+}
+#securehiddenloginform input[type=submit]:hover, #securehiddenloginform input[type=button]:hover {
+	text-decoration: none;
+}
+#securehiddenloginform input[type=submit]:active, #securehiddenloginform input[type=button]:active {
+	position: relative;
+	top: 1px;
+}
+/* color styles 
+http://www.webdesignerwall.com/demo/css-buttons.html
+---------------------------------------------- */
+
+/* black */
+#securehiddenloginform .black {
+	color: #d7d7d7;
+	border: solid 1px #333;
+	background: #333;
+	background: -webkit-gradient(linear, left top, left bottom, from(#666), to(#000));
+	background: -moz-linear-gradient(top,  #666,  #000);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#666666', endColorstr='#000000');
+}
+#securehiddenloginform .black:hover {
+	background: #000;
+	background: -webkit-gradient(linear, left top, left bottom, from(#444), to(#000));
+	background: -moz-linear-gradient(top,  #444,  #000);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#444444', endColorstr='#000000');
+}
+#securehiddenloginform .black:active {
+	color: #666;
+	background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#444));
+	background: -moz-linear-gradient(top,  #000,  #444);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#666666');
+}
+
+/* gray */
+#securehiddenloginform .gray {
+	color: #e9e9e9;
+	border: solid 1px #555;
+	background: #6e6e6e;
+	background: -webkit-gradient(linear, left top, left bottom, from(#888), to(#575757));
+	background: -moz-linear-gradient(top,  #888,  #575757);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#888888', endColorstr='#575757');
+}
+#securehiddenloginform .gray:hover {
+	background: #616161;
+	background: -webkit-gradient(linear, left top, left bottom, from(#757575), to(#4b4b4b));
+	background: -moz-linear-gradient(top,  #757575,  #4b4b4b);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#757575', endColorstr='#4b4b4b');
+}
+#securehiddenloginform .gray:active {
+	color: #afafaf;
+	background: -webkit-gradient(linear, left top, left bottom, from(#575757), to(#888));
+	background: -moz-linear-gradient(top,  #575757,  #888);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#575757', endColorstr='#888888');
+}
+
+/* white */
+#securehiddenloginform .white {
+	color: #606060;
+	border: solid 1px #b7b7b7;
+	background: #fff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ededed));
+	background: -moz-linear-gradient(top,  #fff,  #ededed);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed');
+}
+#securehiddenloginform .white:hover {
+	background: #ededed;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#dcdcdc));
+	background: -moz-linear-gradient(top,  #fff,  #dcdcdc);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#dcdcdc');
+}
+#securehiddenloginform .white:active {
+	color: #999;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#fff));
+	background: -moz-linear-gradient(top,  #ededed,  #fff);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#ffffff');
+}
+
+/* orange */
+#securehiddenloginform .orange {
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+}
+#securehiddenloginform .orange:hover {
+	background: #f47c20;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+	background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+}
+#securehiddenloginform .orange:active {
+	color: #fcd3a5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+}
+
+/* red */
+#securehiddenloginform .red {
+	color: #faddde;
+	border: solid 1px #980c10;
+	background: #d81b21;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ed1c24), to(#aa1317));
+	background: -moz-linear-gradient(top,  #ed1c24,  #aa1317);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed1c24', endColorstr='#aa1317');
+}
+#securehiddenloginform .red:hover {
+	background: #b61318;
+	background: -webkit-gradient(linear, left top, left bottom, from(#c9151b), to(#a11115));
+	background: -moz-linear-gradient(top,  #c9151b,  #a11115);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#c9151b', endColorstr='#a11115');
+}
+#securehiddenloginform .red:active {
+	color: #de898c;
+	background: -webkit-gradient(linear, left top, left bottom, from(#aa1317), to(#ed1c24));
+	background: -moz-linear-gradient(top,  #aa1317,  #ed1c24);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#aa1317', endColorstr='#ed1c24');
+}
+
+/* blue */
+#securehiddenloginform .blue {
+	color: #d9eef7;
+	border: solid 1px #0076a3;
+	background: #0095cd;
+	background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+	background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#00adee', endColorstr='#0078a5');
+}
+#securehiddenloginform .blue:hover {
+	background: #007ead;
+	background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
+	background: -moz-linear-gradient(top,  #0095cc,  #00678e);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#0095cc', endColorstr='#00678e');
+}
+#securehiddenloginform .blue:active {
+	color: #80bed6;
+	background: -webkit-gradient(linear, left top, left bottom, from(#0078a5), to(#00adee));
+	background: -moz-linear-gradient(top,  #0078a5,  #00adee);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#0078a5', endColorstr='#00adee');
+}
+
+/* rosy */
+#securehiddenloginform .rosy {
+	color: #fae7e9;
+	border: solid 1px #b73948;
+	background: #da5867;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f16c7c), to(#bf404f));
+	background: -moz-linear-gradient(top,  #f16c7c,  #bf404f);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f16c7c', endColorstr='#bf404f');
+}
+#securehiddenloginform .rosy:hover {
+	background: #ba4b58;
+	background: -webkit-gradient(linear, left top, left bottom, from(#cf5d6a), to(#a53845));
+	background: -moz-linear-gradient(top,  #cf5d6a,  #a53845);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf5d6a', endColorstr='#a53845');
+}
+#securehiddenloginform .rosy:active {
+	color: #dca4ab;
+	background: -webkit-gradient(linear, left top, left bottom, from(#bf404f), to(#f16c7c));
+	background: -moz-linear-gradient(top,  #bf404f,  #f16c7c);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#bf404f', endColorstr='#f16c7c');
+}
+
+/* green */
+#securehiddenloginform .green {
+	color: #e8f0de;
+	border: solid 1px #538312;
+	background: #64991e;
+	background: -webkit-gradient(linear, left top, left bottom, from(#7db72f), to(#4e7d0e));
+	background: -moz-linear-gradient(top,  #7db72f,  #4e7d0e);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#7db72f', endColorstr='#4e7d0e');
+}
+#securehiddenloginform .green:hover {
+	background: #538018;
+	background: -webkit-gradient(linear, left top, left bottom, from(#6b9d28), to(#436b0c));
+	background: -moz-linear-gradient(top,  #6b9d28,  #436b0c);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#6b9d28', endColorstr='#436b0c');
+}
+#securehiddenloginform .green:active {
+	color: #a9c08c;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4e7d0e), to(#7db72f));
+	background: -moz-linear-gradient(top,  #4e7d0e,  #7db72f);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#4e7d0e', endColorstr='#7db72f');
+}
+
+/* pink */
+#securehiddenloginform .pink {
+	color: #feeef5;
+	border: solid 1px #d2729e;
+	background: #f895c2;
+	background: -webkit-gradient(linear, left top, left bottom, from(#feb1d3), to(#f171ab));
+	background: -moz-linear-gradient(top,  #feb1d3,  #f171ab);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#feb1d3', endColorstr='#f171ab');
+}
+#securehiddenloginform .pink:hover {
+	background: #d57ea5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f4aacb), to(#e86ca4));
+	background: -moz-linear-gradient(top,  #f4aacb,  #e86ca4);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4aacb', endColorstr='#e86ca4');
+}
+#securehiddenloginform .pink:active {
+	color: #f3c3d9;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f171ab), to(#feb1d3));
+	background: -moz-linear-gradient(top,  #f171ab,  #feb1d3);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f171ab', endColorstr='#feb1d3');
+}
+
+/* yellow */
+#securehiddenloginform .yellow {
+	color: #606060;
+	border: solid 1px #b7b7b7;
+	background: #fff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ffff99));
+	background: -moz-linear-gradient(top,  #fff,  #ffff99);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffff99');
+}
+#securehiddenloginform .yellow:hover {
+	background: #909090;
+	background: -webkit-gradient(linear, left top, left bottom, from(#909090), to(#ffff00));
+	background: -moz-linear-gradient(top,  #909090,  #ffff00);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#909090', endColorstr='#ffff00');
+}
+#securehiddenloginform .yellow:active {
+	color: #999;
+	background: -webkit-gradient(linear, left top, left bottom, from(#FFFF99), to(#fff));
+	background: -moz-linear-gradient(top,  #FFFF99,  #fff);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFF99', endColorstr='#ffffff');
+}
+
+.forgotpasswordsuccess {
+	position:fixed;
+	top:0;
+	background-color:#F2FFDB;
+	color:#151515;
+	font-size:14px !important;
+	border:1px solid #9C6;
+	margin:10px 0px;padding:5px;
+	z-index: 7777777;
+}
+</style>
+<script type="text/javascript">
+function show_loginbar() {
+	jQuery('#securehiddenlogin').css({"display":"block"});
+	jQuery('#securehiddenlogin').css({"width":"100%"});
+	jQuery('#securehiddenlogin').css({"height":"28px"});
+	jQuery('#securehiddenlogin').css({"top":"0"});
+	jQuery('#securehiddenlogin').css({"left":"0"});
+	jQuery('#securehiddenlogin').css({"background-color":"#464646"});
+	jQuery('#securehiddenlogin').css({"background-image":"none"});
+	jQuery('#securehiddenlogin').css({"text-align":"center"});
+	jQuery('#securehiddenlogin').css({"color":"#ccc"});
+	jQuery.post('http://sapulpasoccer.com/wp-admin/admin-ajax.php', { 'action': 'securehiddenlogin_loginbar_ajax' },
+		function(response_securehiddenlogin_loginbar_function){
+			jQuery("#securehiddenlogin").html(response_securehiddenlogin_loginbar_function);
+		}
+	);
+		jQuery('#securehiddenlogin').off('click');
+		jQuery('#user_login').focus();
+}
+function forgot_password() {
+	jQuery.post('http://sapulpasoccer.com/wp-admin/admin-ajax.php', { 'action': 'securehiddenlogin_forgotpassword_ajax' },
+		function(response_securehiddenlogin_forgotpassword_function){
+			jQuery("#securehiddenlogin").html(response_securehiddenlogin_forgotpassword_function);
+		}
+	);
+}
+jQuery(function() {
+	jQuery('#securehiddenlogin').click( function() {
+		show_loginbar();
+	});
+});
+
+jQuery(document).keydown(function(e) {
+	var key = e.charCode ? e.charCode : e.keyCode ? e.keyCode : 0;
+	key = "["+key+"]";
+	slkey = '[108][76]';
+	slauxkey = e.altKey || e.ctrlKey;
+	slkey.indexOf(key) != -1 ? keye = true : keye = false;
+	if (keye && slauxkey) {
+		show_loginbar();
+		return false;
+	};
+});
+</script>
+<p class="page-footer"> 
+Blog System by Wordpress.org - Free WordPress Themes from <a href="http://www.freewordpressthemes4u.com/category/weight-lifting">weight lifting template wordpress</a> Provided Free by <a href="http://lifecoverreport.com/lcr-other/lcr-pages/liverpool-victoria-life">life covers lv</a>
+</p><style>
+div.Header-jpeg{background-image: url('http://sapulpasoccer.com/wp-content/uploads/2014/06/SSC-Web-banner2.jpg');}   
+ 
+h1.logo-name, h1.logo-name a, h1.logo-name a:link, h1.logo-name a:visited, h1.logo-name a:hover{
+color:white !important;
+text-align:left;
+font-size:50px;
+}
+.logo-text, .logo-text a{
+color:white !important;
+text-align:left;
+}
+.logo{
+left: 20px;
+top:75px;
+}
+
+
+
+
+
+
+
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://sapulpasoccer.com/wp-includes/css/dashicons.min.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/sapulpasoccer.com\/wp-content\/plugins\/facebook\/channel.php","xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+</div>
+</div>
+
+<!-- 31 queries. 0.184 seconds. -->
+</body>
+</html>

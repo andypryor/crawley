@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Jonesboro Adult Soccer Association - Home</title>
+<meta property='og:site_name' content='Jonesboro Adult Soccer Association' />
+<meta property='og:title' content='Jonesboro Adult Soccer Association' />
+<meta property='og:description' content='The Jonesboro Adult Soccer Association (JASA) targets fitness, sportsmanship, and healthy competition for all members.  Participation will benefit players of all skill levels.  Players in all...' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/header_images/1312914730.jpg' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/1423957125.png' />
+<meta property='og:image' content='http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_blueglass&airportcode=KJBR&ForcedCity=Jonesboro&ForcedState=AR&zip=72401&language=EN' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/7736700.jpg?193' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/1248579.png?191' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/2487802.jpg?163' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/1426026371.png' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/1426025942.png' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/1426024422.png' />
+<meta property='og:image' content='http://jonesboroadultsoccer.weebly.com/uploads/8/4/0/0/8400589/1426027035.png' />
+<meta property='og:url' content='http://jonesboroadultsoccer.weebly.com/' />
+
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  
+<link rel="stylesheet" href="//cdn2.editmysite.com/css/sites.css?buildTime=1426805756" type="text/css" /><link rel="stylesheet" href="//cdn2.editmysite.com/css/mobile-sites.css?buildTime=1426805756" type="text/css" /><link rel='stylesheet' type='text/css' href='/files/mobile/main_style.css?1426981952' title='wsite-theme-css' />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wmobile-line,
+.wmobile-bar,
+.wmobile-button {
+  background-color: #383B3D !important;
+  }
+</style>
+<style type='text/css'>.wsite-com-category-product-group .wsite-com-column { width: 33.33% !important } .wsite-com-category-product-featured-group .wsite-com-column { width: 25.00% !important } .wsite-com-category-subcategory-group .wsite-com-column { width: 33.33% !important } </style><style type='text/css'>
+.wsite-header, .wsite-header2, .wsite-header3 {
+  height: auto !important;
+  min-height: 0 !important;
+  background: none !important;}
+</style>
+<script><!--
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+//-->
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+<script src='//cdn2.editmysite.com/js/site/main-mobile.js?buildTime=1426805756'></script>
+<script type='text/javascript' src='//cdn1.editmysite.com/editor/libraries/mobile_navigation.js?buildTime=1426805756'></script>
+<script type="text/javascript">
+								_W = _W || {};
+								_W.Commerce = _W.Commerce || {};
+								_W.Commerce.hasCart = false;
+							</script><script>base_context='Site';base_name='_W';ASSETS_BASE='cdn2.editmysite.com';</script>
+<script> function initCommerceModels() { 		(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/Commerce","actions":{"Category":[{"name":"generateProductList","len":3,"multiple":false,"standalone":false},{"name":"generateMobileProductList","len":2,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Checkout":[{"name":"generateProductList","len":3,"multiple":false,"standalone":false},{"name":"getMiniCart","len":0,"multiple":false,"standalone":false},{"name":"getCheckoutUrl","len":0,"multiple":false,"standalone":false},{"name":"getPaypalNotifyUrl","len":0,"multiple":false,"standalone":false},{"name":"getCurrentOrder","len":0,"multiple":false,"standalone":false},{"name":"getShoppingCart","len":0,"multiple":false,"standalone":false},{"name":"addItem","len":3,"multiple":false,"standalone":false},{"name":"getInventory","len":1,"multiple":false,"standalone":false},{"name":"updateItemQuantity","len":3,"multiple":false,"standalone":false},{"name":"applyCoupon","len":1,"multiple":false,"standalone":false},{"name":"removeCoupon","len":1,"multiple":false,"standalone":false},{"name":"getShippingAndTaxes","len":1,"multiple":false,"standalone":false},{"name":"isShippable","len":1,"multiple":false,"standalone":false},{"name":"checkCart","len":2,"multiple":false,"standalone":false},{"name":"makePayment","len":7,"multiple":false,"standalone":false}],"CustomerAddress":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Customer":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"OrderBilling":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"OrderItem":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Order":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"OrderShipment":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Product":[{"name":"isInStock","len":2,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"ShippingRate":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.Commerce.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.Commerce.RPC","model_namespace":"_W.Commerce.BackboneModelData","collection_namespace":"_W.Commerce.BackboneCollectionData","bootstrap_namespace":"_W.Commerce.BackboneBootstrap","models":{"Category":{"_class":"Commerce.Model.Category","defaults":{"site_link":null,"product_count":null,"published":true,"name":"","page_layout":null,"page_title":null,"page_description":null,"show_featured_products":true,"show_sub_categories":true,"parent_category_id":null,"category_order":null,"image_order":null,"product_ids":null,"preferred_order_product_ids":null,"coupon_ids":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_link":null,"product_count":null,"site_category_id":null,"published":null,"name":{"required":true},"page_layout":null,"page_title":null,"page_description":null,"show_featured_products":null,"show_sub_categories":null,"parent_category_id":null,"category_order":null,"image_order":null,"product_ids":null,"preferred_order_product_ids":null,"coupon_ids":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_link":"string","product_count":null,"site_category_id":"string","published":"boolean","name":"string","page_layout":"string","page_title":"string","page_description":"string","show_featured_products":"boolean","show_sub_categories":"boolean","parent_category_id":null,"category_order":"integer","image_order":"json","product_ids":"json","preferred_order_product_ids":"json","coupon_ids":"json","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_category_id","keydefs":{"PRIMARY":["owner_id","site_id","site_category_id"]},"relations":[{"type":"HasMany","key":"images","foreignKey":["owner_id","site_id","site_category_id"],"parse":true,"relatedModel":"CategoryImage","reverseRelation":{"key":null,"includeInJSON":false}}]},"Checkout":{"_class":"Commerce.Model.Checkout","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"CustomerAddress":{"_class":"Commerce.Model.CustomerAddress","defaults":{"site_customer_id":null,"label":"","business_name":"","street":"","street2":null,"postal_code":"","city":"","region":"","country":"","phone":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_customer_id":null,"site_customer_address_id":null,"label":{"required":true},"business_name":null,"street":{"required":true},"street2":null,"postal_code":{"required":true},"city":{"required":true},"region":null,"country":{"required":true},"phone":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_customer_id":"string","site_customer_address_id":"int","label":"string","business_name":"string","street":"string","street2":"string","postal_code":"string","city":"string","region":"string","country":"string","phone":"string","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_customer_address_id","keydefs":{"PRIMARY":["owner_id","site_id","site_customer_id","site_customer_address_id"],"address":["owner_id","site_id","deleted","country","region","city"],"address_name":["owner_id","site_id","deleted","label"]}},"Customer":{"_class":"Commerce.Model.Customer","defaults":{"name_prefix":null,"name_first":"","name_last":"","name_suffix":null,"email":"","business_name":null,"home_phone":null,"work_phone":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_customer_id":null,"name_prefix":null,"name_first":{"required":true},"name_last":{"required":true},"name_suffix":null,"email":{"email":null,"required":true},"business_name":null,"home_phone":{"minlength":"7","required":false},"work_phone":{"minlength":"7","required":true},"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_customer_id":"string","name_prefix":"string","name_first":"string","name_last":"string","name_suffix":"string","email":"string","business_name":"string","home_phone":"string","work_phone":"string","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_customer_id","keydefs":{"PRIMARY":["owner_id","site_id","site_customer_id"],"lastname":["deleted","site_id","name_last"],"email":["deleted","site_id","email"],"business":["deleted","site_id","business_name"]},"relations":[{"type":"HasMany","key":"addresses","foreignKey":["owner_id","site_id","site_customer_id"],"parse":true,"relatedModel":"CustomerAddress","reverseRelation":{"key":"customer","includeInJSON":false}},{"type":"HasMany","key":"orders","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"Order","reverseRelation":{"key":"original_customer","includeInJSON":false}}]},"OrderBilling":{"_class":"Commerce.Model.OrderBilling","defaults":{"site_order_id":null,"gateway":"","site_payment_gateway_id":null,"site_customer_id":"","site_customer_address_id":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"country":null,"postal_code":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_order_id":null,"site_order_billing_id":null,"gateway":{"required":true},"site_payment_gateway_id":null,"site_customer_id":{"required":true},"site_customer_address_id":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"country":null,"postal_code":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_order_id":"string","site_order_billing_id":"int","gateway":"string","site_payment_gateway_id":"string","site_customer_id":"string","site_customer_address_id":"int","full_name":"string","email":"string","phone":"string","business_name":"string","street":"string","street2":"string","city":"string","region":"string","country":"string","postal_code":"string","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_order_billing_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id","site_order_billing_id"]},"relations":[{"type":"HasMany","key":"transactions","foreignKey":["owner_id","site_id","site_order_id","site_order_billing_id"],"parse":true,"relatedModel":"OrderBillingTransaction","reverseRelation":{"key":null,"includeInJSON":false}}]},"OrderItem":{"_class":"Commerce.Model.OrderItem","defaults":{"current_price":null,"discounted_price":null,"product_url":null,"full_product_url":null,"image_info":null,"track_inventory":null,"site_order_id":null,"site_product_id":"","site_product_sku_id":0,"name":"","short_description":null,"taxable":null,"quantity":1,"product_type":null,"download_limit_type":null,"download_units_remaining":null,"price":null,"sale_price":null,"total_price":0,"weight":null,"sku":null,"options":null,"returned":null,"discounts":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"current_price":null,"discounted_price":null,"product_url":null,"full_product_url":null,"image_info":null,"track_inventory":null,"site_order_id":null,"site_order_item_id":null,"site_product_id":{"required":true},"site_product_sku_id":{"required":true},"name":null,"short_description":null,"taxable":null,"quantity":null,"product_type":null,"download_limit_type":null,"download_units_remaining":null,"price":null,"sale_price":null,"total_price":null,"weight":null,"sku":null,"options":null,"returned":null,"discounts":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"current_price":"decimal","discounted_price":"decimal","product_url":"string","full_product_url":"string","image_info":"string","track_inventory":"boolean","site_order_id":"string","site_order_item_id":"string","site_product_id":"string","site_product_sku_id":"int","name":"string","short_description":"mediumtext","taxable":"int","quantity":"int","product_type":"string","download_limit_type":"string","download_units_remaining":"int","price":"decimal","sale_price":"decimal","total_price":"decimal","weight":"decimal","sku":"string","options":"json","returned":"int","discounts":"json","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_order_item_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id","site_order_item_id"]},"relations":[{"type":"HasMany","key":"order_item_file","foreignKey":["owner_id","site_id","site_order_id","site_order_item_id"],"parse":true,"relatedModel":"OrderItemFile","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"original_product_sku_file","foreignKey":["owner_id","site_id","site_product_id","site_product_sku_id"],"parse":true,"relatedModel":"ProductSkuFile","reverseRelation":{"key":null,"includeInJSON":false}}]},"Order":{"_class":"Commerce.Model.Order","defaults":{"site_customer_id":null,"order_type":"cart","full_name":null,"order_status":"pending","order_currency":"usd","order_tax_total":0,"order_tax_rates":null,"order_shipping_total":0,"order_shipping_method":null,"order_subtotal":0,"order_total":0,"token":null,"refunded_amount":0,"order_paid_date":null,"return_inventory_date":null,"order_contents_type":null,"order_notes":null,"discounts":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_order_id":null,"site_customer_id":null,"order_type":{"in":["abandoned","order","cart","wishlist"],"required":false},"full_name":null,"order_status":null,"order_currency":null,"order_tax_total":null,"order_tax_rates":null,"order_shipping_total":null,"order_shipping_method":null,"order_subtotal":null,"order_total":null,"token":null,"refunded_amount":null,"order_paid_date":null,"return_inventory_date":null,"order_contents_type":null,"order_notes":null,"discounts":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_order_id":"string","site_customer_id":"string","order_type":"string","full_name":"string","order_status":"string","order_currency":"string","order_tax_total":"decimal","order_tax_rates":"json","order_shipping_total":"decimal","order_shipping_method":"string","order_subtotal":"decimal","order_total":"decimal","token":"string","refunded_amount":"decimal","order_paid_date":"int","return_inventory_date":"int","order_contents_type":"string","order_notes":"string","discounts":"json","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_order_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id"],"token_2":["token"],"order_status":["owner_id","site_id","deleted","order_type","order_status"],"customer":["owner_id","site_id","deleted","site_customer_id","order_type","order_status"],"token":["token"],"com_order_date":["owner_id","site_id","deleted","order_type","order_paid_date"]},"relations":[{"type":"HasMany","key":"items","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderItem","reverseRelation":{"key":"order","includeInJSON":false}},{"type":"HasMany","key":"shipments","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderShipment","reverseRelation":{"key":"order","includeInJSON":false}},{"type":"HasMany","key":"billings","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderBilling","reverseRelation":{"key":"order","includeInJSON":false}},{"type":"HasMany","key":"coupons","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderCoupon","reverseRelation":{"key":null,"includeInJSON":false}}]},"OrderShipment":{"_class":"Commerce.Model.OrderShipment","defaults":{"site_order_id":null,"site_customer_id":"","site_customer_address_id":0,"shipping_provider":null,"site_shipping_provider_id":null,"shipping_provider_payment":null,"weight":null,"height":null,"width":null,"depth":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"country":null,"postal_code":null,"site_shipping_price_id":null,"price":0,"title":null,"shipment_date":null,"tracking_number":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_order_id":null,"site_order_shipment_id":null,"site_customer_id":{"required":true},"site_customer_address_id":{"required":true},"shipping_provider":null,"site_shipping_provider_id":null,"shipping_provider_payment":null,"weight":null,"height":null,"width":null,"depth":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"country":null,"postal_code":null,"site_shipping_price_id":null,"price":null,"title":null,"shipment_date":null,"tracking_number":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_order_id":"string","site_order_shipment_id":"int","site_customer_id":"string","site_customer_address_id":"int","shipping_provider":"string","site_shipping_provider_id":"int","shipping_provider_payment":"json","weight":"decimal","height":"decimal","width":"decimal","depth":"decimal","full_name":"string","email":"string","phone":"string","business_name":"string","street":"string","street2":"string","city":"string","region":"string","country":"string","postal_code":"string","site_shipping_price_id":"string","price":"decimal","title":"string","shipment_date":null,"tracking_number":null,"owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_order_shipment_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id","site_order_shipment_id"]},"relations":[{"type":"HasMany","key":"transactions","foreignKey":["owner_id","site_id","site_order_id","site_order_shipment_id"],"parse":true,"relatedModel":"OrderShipmentTransaction","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"original_shipment_rate","foreignKey":["owner_id","site_id","site_shipping_price_id"],"parse":true,"relatedModel":"ShippingRate","reverseRelation":{"key":null,"includeInJSON":false}}]},"Product":{"_class":"Commerce.Model.Product","defaults":{"site_link":null,"name":null,"short_description":null,"published":true,"track_inventory":false,"taxable":false,"image_order":null,"price_low":null,"price_high":null,"sale_price_low":null,"sale_price_high":null,"inventory":null,"category_ids":null,"coupon_ids":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_link":null,"site_product_id":null,"name":null,"short_description":null,"published":null,"track_inventory":null,"taxable":null,"image_order":null,"price_low":null,"price_high":null,"sale_price_low":null,"sale_price_high":null,"inventory":null,"category_ids":null,"coupon_ids":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_link":"string","site_product_id":"string","name":"string","short_description":"string","published":"boolean","track_inventory":"boolean","taxable":"boolean","image_order":"json","price_low":"decimal","price_high":"decimal","sale_price_low":"decimal","sale_price_high":"decimal","inventory":"decimal","category_ids":"json","coupon_ids":"json","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_product_id","keydefs":{"PRIMARY":["owner_id","site_id","site_product_id"],"manufacturer":["owner_id","site_product_id","site_manufacturer_id"],"created_date":["owner_id","site_id","deleted","created_date"],"updated_date":["owner_id","site_id","deleted","updated_date"]},"relations":[{"type":"HasMany","key":"skus","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductSku","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"images","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductImage","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"manufacturer","foreignKey":["owner_id","site_id","site_manufacturer_id"],"parse":true,"relatedModel":"Manufacturer","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"options2","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductOption","reverseRelation":{"key":null,"includeInJSON":false}}]},"ShippingRate":{"_class":"Commerce.Model.ShippingRate","defaults":{"title":null,"country":null,"type":null,"minimum":0,"maximum":0,"price":0,"coupon_ids":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"site_shipping_price_id":null,"title":null,"country":null,"type":{"in":["Price","Weight"],"required":false},"minimum":null,"maximum":null,"price":null,"coupon_ids":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"site_shipping_price_id":"int","title":"String","country":"String","type":"String","minimum":"decimal","maximum":"decimal","price":"decimal","coupon_ids":"json","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_shipping_price_id","keydefs":{"PRIMARY":["owner_id","site_id","site_shipping_price_id"]},"relations":[{"type":"HasMany","key":"region_rates","foreignKey":["owner_id","site_id","site_shipping_price_id"],"parse":true,"relatedModel":"ShippingRegionRate","reverseRelation":{"key":null,"includeInJSON":false}}]}},"collections":{"Category":{"_class":"Commerce.Collection.Category"},"Checkout":{"_class":"Commerce.Collection.Checkout"},"CustomerAddress":{"_class":"Commerce.Collection.CustomerAddress"},"Customer":{"_class":"Commerce.Collection.Customer"},"OrderBilling":{"_class":"Commerce.Collection.OrderBilling"},"OrderItem":{"_class":"Commerce.Collection.OrderItem"},"Order":{"_class":"Commerce.Collection.Order"},"OrderShipment":{"_class":"Commerce.Collection.OrderShipment"},"Product":{"_class":"Commerce.Collection.Product"},"ShippingRate":{"_class":"Commerce.Collection.ShippingRate"}},"bootstrap":[]});
+})(); } </script>
+<script src='//cdn2.editmysite.com/js/site/commerce-core.js?buildTime=1426805756'></script>
+<script src='//cdn2.editmysite.com/js/site/main-mobile-commerce-browse.js?buildTime=1426805756'></script>
+<script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+</head>
+<body class=' no-touch header-page wsite-menu-slideright  wsite-theme-light wsite-page-index wsite-mobile wsite-render3d' ontouchstart="">
+<div id="header" class="wmobile-bar">
+      <span id="menu-button"><a class="wsite-menu-button">
+								<span class="wsite-menu-button-text disable-user-select">Menu</span>
+								<div class="wsite-menu-button-bars">
+									<span class="wsite-menu-button-bar"></span>
+									<span class="wsite-menu-button-bar"></span>
+									<span class="wsite-menu-button-bar"></span>
+								</div>
+							</a></span>
+      <h1><span class='wsite-logo'><a href='/'><span id="wsite-title">Jonesboro Adult Soccer Association</span></a></span></h1>
+      <span id="header-button"></span>
+      <div style="clear:both"></div>
+    </div>
+        
+    <div id="menu-wrapper" class="wsite-menu-wrapper">
+      <div id="search"></div>
+      <div id="menu"><ul class='wsite-menu-default'><li id="active"><a href="/">Home</a></li><li id='pg145216535843172995'><a href="/2015-spring-leagues.html" data-membership-required="0" >2015 Spring Leagues</a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-162512147588034546'><a href='/7-v-7-rec-over-30.html' ><span class='wsite-menu-title'>7 v 7 REC (Over 30)</span><span class='wsite-menu-arrow'>&gt;</span></a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-550097566858854266'><a href='/rec-rosters.html' ><span class='wsite-menu-title'>REC Rosters</span></a></li><li id='wsite-nav-790185460180133206'><a href='/rec-standings.html' ><span class='wsite-menu-title'>REC Standings</span></a></li><li id='wsite-nav-695515316461559016'><a href='/rec-schedule.html' ><span class='wsite-menu-title'>REC Schedule</span></a></li></ul></div></li><li id='wsite-nav-118339359803853486'><a href='/7-v-7-comp.html' ><span class='wsite-menu-title'>7 v 7 COMP</span><span class='wsite-menu-arrow'>&gt;</span></a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-210484008978921569'><a href='/comp-rosters.html' ><span class='wsite-menu-title'>COMP Rosters</span></a></li><li id='wsite-nav-763909301202825227'><a href='/comp-standings.html' ><span class='wsite-menu-title'>COMP Standings</span></a></li><li id='wsite-nav-765844272325851028'><a href='/comp-schedule.html' ><span class='wsite-menu-title'>COMP Schedule</span></a></li></ul></div></li></ul></div></li><li id='pg659593973698373103'><a href="/rules-of-play.html" data-membership-required="0" >Rules of Play</a></li><li id='pg668158113530502670'><a href="/faq.html" data-membership-required="0" >FAQ</a></li><li id='pg674606097525481372'><a href="/sponsorships.html" data-membership-required="0" >Sponsorships </a></li><li id='pg570865716983249786'><a href="/bylaws.html" data-membership-required="0" >Bylaws </a></li><li id='pg727974024572991226'><a href="/board-members--meetings.html" data-membership-required="0" >Board Members & Meetings</a></li><li id='pg774806911617458558'><a href="/contact-us.html" data-membership-required="0" >Contact Us</a></li></ul></div>
+	  <div id="phone"></div>
+      <div id="social"><div style="text-align:left;"><div style="height:0px;overflow:hidden"></div>
+<span class="wsite-social wsite-social-default"><a class='first-child wsite-social-item wsite-social-facebook' href='https://www.facebook.com/pages/Jonesboro-Adult-Soccer-Association/205890689428011' target='_blank'><span class='wsite-social-item-inner'></span></a><a class='wsite-social-item wsite-social-twitter' href='https://twitter.com/JonesboroSoccer' target='_blank'><span class='wsite-social-item-inner'></span></a><a class='last-child wsite-social-item wsite-social-mail' href='mailto:jonesboroadultsoccer@hotmail.com' target='_blank'><span class='wsite-social-item-inner'></span></a></span>
+<div style="height:0px;overflow:hidden"></div></div></div>
+    </div>
+    
+    <div class="header-wrapper">
+      <div class="wsite-header"><img src="/uploads/8/4/0/0/8400589/header_images/1312914730.jpg" style="width:100%;height:auto;display:block;"></div>
+    </div>
+    
+    <div id="content-wrapper">
+      <div id="content"><div id='wsite-content' class='wsite-elements wsite-not-footer'>
+<h2 class="wsite-content-title" style="text-align:center;"><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><font size="6"><span style="FONT-SIZE: x-large">Welcome to the <br /><span></span><font color="#ff0000">J</font>onesboro <font color="#ff0000">A</font>dult <font color="#ff0000">S</font>occer <font color="#ff0000"><span id="selectionBoundary_1423947802658_5321394158527255" class="rangySelectionBoundary" style="line-height: 0; display: none;">&#65279;</span>A<span id="selectionBoundary_1423947802658_3511727969162166" class="rangySelectionBoundary" style="line-height: 0; display: none;">&#65279;</span></font>ssociation</span></font></span></span></span></span></span></span></h2>
+
+<h2 class="wsite-content-title" style="text-align:center;"><span style=""><font color="#c23b3b" size="5"><span style="line-height: 41px;">Spring 2015 Rosters and Schedules have been posted under the 2015 Spring Leagues tab. Please note that the schedule <em>MAY BE MODIFIED DURING THE SEASON</em>, so please <em>CHECK BACK EACH WEEK</em>. Games will begin as soon as the fields are ready at Joe Mack Campbell Park. Keep watching this website, the facebook page, or twitter for updates. If you have not paid, do so ASAP!</span></font></span><br /><br /><font size="5">We have been told that the earliest possible date for Joe Mack Campbell Park will be March 21st. <font color="#a82e2e"><em><u>Games scheduled on Sunday, March 15th and Wednesday, March 18th will be postponed</u></em>.</font> With spring break the next week, <font color="#a82e2e"><u><em>we are looking at starting matches on Sunday, March 29th and Wednesday, April 1st</em></u>.</font></font><font color="#a82e2e">&nbsp;</font><br /><span style=""><br /><font color="#a82e2e" size="5">Shin Guards and IDs are required for ALL games.</font></span><span style="text-decoration: none; font-style: normal; font-weight: 700; color: rgb(51, 51, 51);"><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><span style="text-decoration:none; font-style:normal; font-weight:700; color:rgb(51, 51, 51); "><font size="6" color="#3366ff"><span style="LINE-HEIGHT: 41px"><span><span><span><span><br /></span></span></span></span></span></font></span></span></span></span></span></span></span></span></span><span style=""><span style=""><span style=""><span style=""><span style=""><span style=""><span style=""><span style=""><span style=""><span style=""><span style=""></span></span></span></span></span></span></span></span></span></span></span><br /></span></span></span></span></span></h2>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a href='https://www.facebook.com/pages/Jonesboro-Adult-Soccer-Association/205890689428011?ref=aymt_homepage_panel'>
+<img src="/uploads/8/4/0/0/8400589/1423957125.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div><div id="895021866950484235" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a href="https://twitter.com/JonesboroSoccer" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @JonesboroSoccer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+
+
+
+</div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -5px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:67.462039045553%; padding:0 5px;">
+					
+						
+
+<div class="paragraph" style="text-align:left;"><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><font size="4"><br /><span></span><br /><span></span>The Jonesboro Adult Soccer Association (JASA) targets fitness, sportsmanship, and healthy competition for all members. &nbsp;Participation will benefit players of all skill levels. &nbsp;Players in all leagues will improve their fitness,&nbsp;game knowledge, and skill level in all areas of the game.<br /></font></span></span></span></span></div>
+
+<div class="paragraph" style="text-align:left;"><br /><span></span>Although adult men and women have been competing in soccer leagues in Jonesboro&nbsp;for more than 10 years, the newly formed&nbsp;JASA is an independent, officially sanctioned Association through the Arkansas State Soccer Association. &nbsp;All players are covered by the ASSA's primary and/or supplemental health insurance for game related injuries. &nbsp;All players and teams in the JASA are officially registered with the State and are eligible to participate in other State sanctioned leagues, &nbsp;tournaments, and events.&nbsp;&nbsp;&nbsp;<br /><br /><br /><br /></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:32.537960954447%; padding:0 5px;">
+					
+						
+
+<div class="paragraph" style="text-align:left;"><strong style=""><u style="">News &amp; Updates:<br /></u></strong>Rosters and Schedules have been posted. Waiting for weather to cooperate to start the season. Games have been pushed back to the week of Sunday, March 29th at the earliest. Keep checking back for more info.&nbsp;</div>
+
+<div class="paragraph" style="text-align:left;"><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><span style="text-decoration:none; font-style:normal; font-weight:400; color:rgb(102, 102, 102); "><strong><u>Next Board Meeting:</u></strong> <br /><span></span>April 14, 2015 @ TBD<br /></span></span></span></span></span></div>
+
+<div class="paragraph" style="text-align:left;"><strong><u>Weather &amp; Field Conditions:</u></strong><br />The city says that Joe Mack Campbell Park will not be ready until 3/21 at the earliest. Games will begin the week of Sunday, March 29th.</div>
+
+<div><div id="766378948260471182" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><span style="display: block !important; width: 180px; text-align: center; font-family: sans-serif; font-size: 12px;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:72401.1.99999&bannertypeclick=wu_blueglass" title="Jonesboro, Arkansas Weather Forecast" target="_blank"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_blueglass&airportcode=KJBR&ForcedCity=Jonesboro&ForcedState=AR&zip=72401&language=EN" alt="Find more about Weather in Jonesboro, AR" width="160" /></a><br><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:72401.1.99999&bannertypeclick=wu_blueglass" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank">Click for weather forecast</a></span></div>
+
+
+
+</div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><br /><span style="font-size: medium;">Please Visit All of Our Wonderful Sponsors</span></h2>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -5px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:51.44385026738%; padding:0 5px;">
+					
+						
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:49.700598802395%; padding:0 15px;">
+					
+						
+
+<div class="paragraph" style="text-align:center;"><span style="FONT-SIZE: x-large"><br /><a title="" href="http://www.elderlawanswers.com/wsb-sliced/display_5.asp?FirmID=5294" target="_blank"><font size="4">Oldham Law Firm, PLLC</font></a><span><span></span></span></span></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50.299401197605%; padding:0 15px;">
+					
+						
+
+<div><div style="text-align: center;"><a href='http://clubtanstudios.com/coffee.html' target='_blank'><img src="/uploads/8/4/0/0/8400589/7736700.jpg?193" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0; margin-right: 0; border-width:1px;padding:3px;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:48.55614973262%; padding:0 5px;">
+					
+						
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -5px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 5px;">
+					
+						
+
+<div><div style="text-align: center;"><a href='http://www.mightybrickhouse.com/' target='_blank'><img src="/uploads/8/4/0/0/8400589/1248579.png?191" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0; margin-right: 0; border-width:1px;padding:3px;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 5px;">
+					
+						
+
+<div><div style="text-align: left;"><a href='http://www.ucpizzaco.com/' target='_blank'><img src="/uploads/8/4/0/0/8400589/2487802.jpg?163" style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 0; border-width:1px;padding:3px;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:66.492146596859%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:46.929133858268%; padding:0 15px;">
+					
+						
+
+<div><div style="text-align: center;"><a href='http://maps.google.com/maps/place?hl=en&sugexp=gsih&pq=upper+crust+pizza+jonesboro&xhr=t&cp=5&qe=cHVzaCA&qesig=IGfkeUtyxVGC-70bBQuqLw&pkc=AFgZ2tl9BqyPU4ALflfYX6q5LHsK-LRXTjTKNPJE2U07XcDSrCiV-9mxtQehguH1tS_CoMa33aFSyNiGuTdL0PQ6eWwMc3Im1g&bav=on.2,or.r_gc.r_pw.&biw=1280&bih=827&wrapid=tljp131300648087526&um=1&safe=active&ie=UTF-8&q=push+fitness+jonesboro+ar&fb=1&gl=us&hq=push+fitness&hnear=0x87d428dfdcd7ec2f:0x6034f5b4fe11eee6,Jonesboro,+AR&cid=12466389158532525650' target='_blank'><img src="/uploads/8/4/0/0/8400589/1426026371.png" style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; border-width:0;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:53.070866141732%; padding:0 15px;">
+					
+						
+
+<div><div style="text-align: center;"><a href='http://www.woodruffsmiles.com/' target='_blank'><img src="/uploads/8/4/0/0/8400589/1426025942.png" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0; margin-right: 0; border-width:0;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:33.507853403141%; padding:0 15px;">
+					
+						
+
+<div><div style="text-align: left;"><a href='http://www.arrowscreenprintinginc.com/' target='_blank'><img src="/uploads/8/4/0/0/8400589/1426024422.png" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0; margin-right: 10px; border-width:0;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:31.096085310709%; padding:0 15px;">
+					
+						
+
+<div><div style="text-align: right;"><a href='http://www.ridoutlumber.com/' target='_blank'><img src="/uploads/8/4/0/0/8400589/1426027035.png" style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; border-width:0;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:36.232149669445%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a href='http://www.autozone.com' target='_blank'>
+<img src="/uploads/8/4/0/0/8400589/8346189_orig.jpg" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:32.671765019846%; padding:0 15px;">
+					
+						
+
+<div><div style="text-align: left;"><a href='http://www.findjonesborohomelistings.com/' target='_blank'><img src="/uploads/8/4/0/0/8400589/595279.jpg?233" style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; border-width:1px;padding:3px;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="paragraph" style="text-align:left;"><br /><span></span><a href="http://www.jonesboroadultsoccer.weebly.com" title="">Click here to return to the main page.</a></div></div>
+</div>
+    </div>
+    
+    <div id="footer"><div class="wsite-mobile-footer"><div class="wsite-footer-version"><span style='display:block;margin:1em 0 0;padding:0 0 1em;font-size:.8em'>Photo used under Creative Commons from <a href='http://www.flickr.com/photos/24192350@N03/4733024351' target='_blank'>teamstickergiant</a></span>Version: <span class="wsite-footer-version-text">Mobile <span class="wsite-footer-vertical">|</span> <a class="wsite-version-web" href="?view=full">Web</a></span></div><div class="wsite-app-callout">Created with Weebly<a id="wsite-app-button" style="display:none;" href="http://www.weebly.com/weebly/apps/install_app.php?source=footer"></a><a id="wsite-yourown-button" href="http://www.weebly.com" target="_blank"></a></div>
+<script type='text/javascript'>_W.jQuery(function(){if (/Apple.*Mobile/.test(navigator.userAgent)){_W.jQuery('#wsite-app-button').show();_W.jQuery('#wsite-yourown-button').hide();}})</script></div></div>
+<div style='display:none'><span id="wsite-title">Jonesboro Adult Soccer Association</span></div>
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-0dYLvhSGGqUWo",
+labels:"l0,u8400589.u8400589s248349296202589647"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u8400589.u8400589s248349296202589647" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script>
+
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				jQuery('#commentArea iframe').css('min-height', '410px');
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+
+</script>
+
+</body>
+</html>

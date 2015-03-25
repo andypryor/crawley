@@ -1,0 +1,225 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/RegistrationTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/HeadlineScrollerTrinket/style.css,/sam/admin/include/css/jqueryUI/ui.generic.css,/sam/admin/include/trinkets/StoryTrinket/style.css,/sam/admin/include/trinkets/AnnouncementsTrinket/style.css,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css" /><script src="http://gatecity.bonzidev.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/scripts/jquery.ui.all.min.js,/sam/admin/include/trinkets/HeadlineScrollerTrinket/trinket.js,/sam/admin/include/trinkets/AnnouncementsTrinket/trinket.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13135" ><li id="mb-75601" class=" cmFirst "><a class="button-text" href="/home" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-78570" class="  "><a class="button-text" href="/registration" style="" target="_top">Registration</a><span class="iefix">&nbsp;</span></li><li id="mb-77372" class="parent  "><span style="" class="button-text">Tournaments</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76563" class="parent cmFirst cmLast"><span style="" class="button-text">PVSC Spring Classic</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78040" class="parent cmFirst "><a class="button-text" href="/home.php?layout=313368" style="" target="_top">PVSC Tournament Documents</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78042" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=313379" style="" target="_top">Order Form Clothes</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78069" class="  cmLast"><a class="button-text" href="/2014_SPC" style="" target="_top">Schedule & Scores</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78030" class="parent  "><span style="" class="button-text">Fields</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78031" class=" cmFirst "><a class="button-text" href="/locations" style="" target="_top">Locations</a><span class="iefix">&nbsp;</span></li><li id="mb-78036" class="  "><a class="button-text" href="/bannock-complex" style="" target="_top">Bannock Complex</a><span class="iefix">&nbsp;</span></li><li id="mb-78032" class="  "><a class="button-text" href="/indian-hills-complex" style="" target="_top">Indian Hills Complex</a><span class="iefix">&nbsp;</span></li><li id="mb-78033" class="  "><a class="button-text" href="/ok-ward-complex" style="" target="_top">OK Ward Complex</a><span class="iefix">&nbsp;</span></li><li id="mb-78034" class="  "><a class="button-text" href="/nop-complex" style="" target="_top">NOP Complex</a><span class="iefix">&nbsp;</span></li><li id="mb-78035" class="  cmLast"><a class="button-text" href="/hawthorne-complex" style="" target="_top">Hawthorne Complex</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77370" class="parent  "><span style="" class="button-text">Competitive League (PVSC)</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77375" class="parent cmFirst "><span style="" class="button-text">INFO & Tryouts</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78589" class=" cmFirst cmLast"><a class="button-text" href="/U11-12_compinfo" style="" target="_blank">U11/12 Competitive Info</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78071" class="  cmLast"><a class="button-text" href="/comp-games" style="" target="_blank">Game Schedules</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77331" class="parent  "><span style="" class="button-text">Youth Development Program (YDP)</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78131" class=" cmFirst "><a class="button-text" href="/ydp-rules" style="" target="_top">YDP RULES</a><span class="iefix">&nbsp;</span></li><li id="mb-77374" class="parent  "><span style="" class="button-text">Game Schedule</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78010" class=" cmFirst "><a class="button-text" href="/2014-spring" style="" target="_top">2014 Spring</a><span class="iefix">&nbsp;</span></li><li id="mb-78569" class="  cmLast"><a class="button-text" href="/2014-fall" style="" target="_top">2014 Fall</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77332" class="  cmLast"><a class="button-text" href="/YDP-Coaching" style="" target="_top">YDP Coaching Tips</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78350" class="  "><a class="button-text" href="/2014_soccer_camps" style="" target="_top">2014 Soccer Camps</a><span class="iefix">&nbsp;</span></li><li id="mb-76560" class="parent  "><span style="" class="button-text">Olympic Development Program (ODP)</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77256" class=" cmFirst cmLast"><a class="button-text" href="/ODP-info" style="" target="_top">ODP Information</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76559" class="  "><span style="" class="button-text">PVSC United Store</span><span class="iefix">&nbsp;</span></li><li id="mb-76570" class="parent  "><span style="" class="button-text">Forms & Policies </span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75605" class=" cmFirst "><a class="button-text" href="/home.php?layout=306875" style="" target="_top">Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-77377" class="parent  "><a class="button-text" href="/home.php?layout=311800" style="" target="_top">Play Up Policy</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-192078" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=835264" style="" target="_top">IYSA Play Up Policy</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77790" class="  "><a class="button-text" href="/home.php?layout=312793" style="" target="_top">Tryout Policy</a><span class="iefix">&nbsp;</span></li><li id="mb-77791" class="parent  "><a class="button-text" href="/home.php?layout=312796" style="" target="_top">Player Code of Conduct</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77797" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=312814" style="" target="_top">Print Conduct Code</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77792" class="parent  "><span style="" class="button-text">Bylaws of Gate City</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77793" class="parent cmFirst cmLast"><a class="button-text" href="/home.php?layout=312799" style="" target="_top">Bylaws of Gate City</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78549" class="parent cmFirst cmLast"><span style="" class="button-text">IRS Filed Forms</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78550" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=315024" style="" target="_top">IRS Filed Forms</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77795" class="parent  "><a class="button-text" href="/home.php?layout=312804" style="" target="_top">Scholarship Policy</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77796" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=312806" style="" target="_top">Scholarship Application</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78551" class="parent  "><span style="" class="button-text">Team Manager Rules</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78552" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=315031" style="" target="_top">Team Manager Rules</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-195484" class="  cmLast"><a class="button-text" href="/home.php?layout=861537" style="" target="_top">Guidelines for Team Managers</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77114" class="parent  "><span style="" class="button-text">Health & Safety</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76573" class=" cmFirst "><a class="button-text" href="/concussions" style="" target="_top">Concussion Info</a><span class="iefix">&nbsp;</span></li><li id="mb-78057" class="  cmLast"><a class="button-text" href="/PVSC-SC-GAMES" style="" target="_top">Schedule & Scores</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76561" class="parent  "><span style="" class="button-text">About Us</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77701" class=" cmFirst cmLast"><a class="button-text" href="/board" style="" target="_top">Board Members</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77330" class="  "><a class="button-text" href="/contact" style="" target="_top">Contact Us</a><span class="iefix">&nbsp;</span></li><li id="mb-76569" class="parent  "><span style="" class="button-text">Coach Links</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77794" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=312802" style="" target="_top">Coach Stipends</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-190620" class="parent  cmLast"><span style="" class="button-text">IYSA Website</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-190593" class=" cmFirst cmLast"><a class="button-text" href="http://www.idahoyouthsoccer.org/default.aspx" style="" target="_blank">Idaho Youth Soccer</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Open Registrations					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<ul class="reg-tkt-list"><li class="reg-tkt-event"><span class="reg-tkt-event-title">2015 Spring Recreational Soccer - COACHES</span><p class="reg-tkt-event-description"></p><a href="https://www.secure-sam.com/gatecity.bonzidev.com/sam/registration/login.php?regEventID=NDk2OTM=&regPathPrefix=coach" class="reg-tkt-event-register">Register Now</a></ul><div class="reg-tkt-help">If you have questions or problems, please read our <a href="/sam/registration/reg_help.php">Troubleshooting Guide</a>.</div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Gate City Youth Soccer News					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="HeadlineScrollerTrinket"><div class="pe-hst-item" style="background:url(http://gatecity.bonzidev.com/sam/admin/images/image.php?f=2014_10_17_07_550x300_84_0_42_0.jpg) left no-repeat;" title="Middle School Champions | Pocatello Legends take 1st place in Middle School Tournament"><div class="pe-hst-slidelabel"><h2>Middle School Champions</h2><p><span>Pocatello Legends take 1st place in Middle School Tournament</span></p></div></div><div class="pe-hst-pager"><a href="#"></a></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						PVSC Spring Classic Tournament					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Feb 2, 2015</span><p style="text-align: center;"><strong><span style="font-size: 18pt;">PVSC Spring Classic Soccer Tournament</span></strong></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">April 17-19 2015</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Costs-</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">U10-U12&nbsp; $425&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U13-U18&nbsp; $450</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Registration Deadline March 31, 2015</span></p>
+<p style="text-align: center;"><a href="https://www.gotsport.com/forms/app/?eventid=44356"><span style="font-size: 14pt;">Register Here</span></a></p>
+<p style="text-align: center;"><br />Hotel Information- Best Western 208-237-7650 $80 with a free breakfast. Red Lion 208-233-2200 is $93 if you ask for PVSC Soccer.&nbsp;&nbsp;&nbsp;&nbsp; Ameritel 208-234-7500 is $95 mention PVSC Soccer includes breakfast.&nbsp; TownePlace 208-478-7000 ask for Richie- only has king beds $109 or a suite for $129 includes breakfast.</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Upcoming Events					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<ul class="at-AnnouncementsTrinket RT_RssFeed"><li class="item ann-text">
+<h3>PVSC Spring Classic</h3><span class="date">Posted February  2, 2015</span><div class="at-content"><p>PVSC Spring Classic Tournament</p>
+<p>April 17-19 2015</p></div></li>
+</ul>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Events Calendar					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-1982397763" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com" ><img src="/cm/layout/images/bonzi_logo.png" alt="Powered by Bonzi Sports Registration Software" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Gate City Soccer . All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" >Youth soccer Website and Online soccer Registration Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

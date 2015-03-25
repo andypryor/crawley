@@ -1,0 +1,1362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/StoryTrinket/style.css,/sam/admin/include/trinkets/AnnouncementsTrinket/style.css,/sam/admin/include/trinkets/TwitterTrinket/style.css" /><script src="http://www.sawtoothunited.com/sam/admin/include/scripts/jquery.min.js"></script><script src="//platform.twitter.com/widgets.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/trinkets/AnnouncementsTrinket/trinket.js,/sam/admin/include/trinkets/TwitterTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13179" ><li id="mb-76074" class=" cmFirst "><a class="button-text" href="/home.php?layout=307886" style="" target="_top">HOME</a><span class="iefix">&nbsp;</span></li><li id="mb-197568" class="  "><a class="button-text" href="/answerstoquestions" style="" target="_top">ANSWERS TO QUESTIONS</a><span class="iefix">&nbsp;</span></li><li id="mb-193689" class="  "><a class="button-text" href="/spring_2015_team_updates" style="" target="_top">SPRING 2015 U10-U18 TEAM UPDATES</a><span class="iefix">&nbsp;</span></li><li id="mb-76080" class="parent  "><span style="" class="button-text">OUR PROGRAMS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76071" class=" cmFirst "><a class="button-text" href="/home.php?layout=307897" style="" target="_top">Developmental Program</a><span class="iefix">&nbsp;</span></li><li id="mb-76070" class="  cmLast"><a class="button-text" href="/home.php?layout=307896" style="" target="_top">Competitive Program</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76081" class="parent  "><span style="" class="button-text">REGISTRATION</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76077" class=" cmFirst "><a class="button-text" href="/home.php?layout=307898" style="" target="_top">REGISTRATION  INSTRUCTIONS</a><span class="iefix">&nbsp;</span></li><li id="mb-76078" class="  "><a class="button-text" href="/home.php?layout=307887" style="" target="_top">Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-76084" class="  cmLast"><a class="button-text" href="/doclib/Uniform Sizing Chart.pdf" style="" target="_blank">Uniform&nbsp;Size&nbsp;Chart</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76073" class="  "><a class="button-text" href="/home.php?layout=307892" style="" target="_top">FIELDS AND FACILITIES</a><span class="iefix">&nbsp;</span></li><li id="mb-76069" class="  "><a class="button-text" href="/home.php?layout=307889" style="" target="_top">COACHES</a><span class="iefix">&nbsp;</span></li><li id="mb-76076" class="  "><a class="button-text" href="/home.php?layout=307890" style="" target="_top">LINKS</a><span class="iefix">&nbsp;</span></li><li id="mb-78449" class="  "><a class="button-text" href="/sawtoothunited_policies" style="" target="_top">MISSION, POLICIES & FAQs</a><span class="iefix">&nbsp;</span></li><li id="mb-78509" class="  "><a class="button-text" href="/home.php?layout=314887" style="" target="_top">IYSA BOISE D3 RULES</a><span class="iefix">&nbsp;</span></li><li id="mb-78630" class="  "><a class="button-text" href="/COACHING_RESOURCES" style="" target="_top">COACHING RESOURCES</a><span class="iefix">&nbsp;</span></li><li id="mb-78454" class="  "><a class="button-text" href="/home.php?layout=314696" style="" target="_top">FALL 2014 TEAM UPDATES</a><span class="iefix">&nbsp;</span></li><li id="mb-76067" class="  cmLast"><a class="button-text" href="/home.php?layout=307888" style="" target="_top">ABOUT US / CONTACT US</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						REGISTRATION FOR SPRING 2015 U6-U9 &quot;DEVO&quot; TEAMS IS NOW OPEN! 					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="color: #008000;"><strong>REGISTRATION FOR SPRING 2015 DEVELOPMENTAL ("DEVO") U6-U9 TEAMS IS NOW OPEN!</strong></span>
+</p>
+<p>
+  <span style="color: #ff0000; font-size: 12pt;"><strong>CLICK "MEMBER LOGIN" ABOVE TO REGISTER!</strong></span>
+</p>
+<p>
+  <span style="color: #000000;"><a href="http://www.sawtoothunited.com/home.php?layout=307897"><span style="color: #000000;"><strong>CLICK HERE FOR A DESCRIPTION OF THE SPRING 2015 U6-U9 TEAMS SEASON
+  OVERVIEW.</strong></span></a></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						SPRING 2015 SEASON U10-U17 TEAMS REGISTRATION IS NOW ON WAIT LIST STATUS ONLY					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="color: rgb(255, 0, 0);"><strong>*** REGISTRATION FOR THE SPRING 2015 COMPETITIVE TEAMS (U10-U18 AGE GROUPS) IS NOW CLOSED! ***</strong></span>
+</p>
+<p>
+  <span style="color: #ff0000;"><strong>IF YOU THINK YOU ARE A SPECIAL EXCEPTION TO THIS, PLEASE EMAIL YOUR SPECIAL REQUEST TO SAWTOOTHUNITED@YAHOO.COM</strong></span>
+</p>
+<ul>
+  <li>
+    <span style="text-decoration: underline;"><strong><span>PLAYER FEE--Registration Fees and Deadlines:</span></strong></span>
+  </li>
+</ul>
+<div>
+   
+</div>
+<div>
+  <div style="margin-left: 2em;">
+    <ul>
+      <li>
+        <span style="color: #333399;"><strong>DEC. 20th - JAN 25th (EXTENDED from JAN. 12th): $425 (REGULAR SEASON FEE)</strong></span>
+      </li>
+    </ul>
+  </div>
+</div>
+<div>
+  <div style="margin-left: 2em;">
+    <ul>
+      <li>
+        <span style="color: #ff6600;"><strong>JAN. 26th - FEB. 28th: $475 (LATE FEE; POSSIBLE WAIT LIST STATUS)</strong></span>
+      </li>
+    </ul>
+  </div>
+</div>
+<div>
+  <div style="margin-left: 2em;">
+    <ul>
+      <li>
+        <span style="color: #ff0000;"><strong>MAR. 1st - APR. 30th: $575 (SUPER LATE FEE; SPECIAL REQUESTS PUT ON WAIT LIST STATUS)</strong></span>
+      </li>
+    </ul>
+  </div>
+</div>
+<div>
+  <div style="margin-left: 2em;">
+    <ul>
+      <li>
+        <strong style="color: #800080; font-size: 9pt;">PAYMENT PLANS AVAILABLE; $75 due upon registration; 1/2 of Remainder due on Feb. 20th; 1/2 of Remainder due on Mar. 20th.</strong>
+      </li>
+    </ul>
+  </div>
+</div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						WINTER 2014-2015 INDOOR SKILLS CLINIC AND FUTSAL					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <strong><span style="text-decoration: underline;">WINTER 2014-2015 INDOOR "SOCCER SKILLS CLINIC" AND INDOOR FUTSAL:</span></strong>
+</p>
+<p>
+  There is NO online registration for this event. Please just SHOW UP as follows:
+</p>
+<ul style="padding-left: 30px;">
+  <li>
+    <strong><span style="text-decoration: underline;"><span style="color: #000080; text-decoration: underline;">FRIDAYS, 5-7 PM: HEMINGWAY ELEMENTARY GYM</span></span></strong>
+  </li>
+  <li style="list-style: none; display: inline;">
+    <ul>
+      <li>
+        <em><span style="text-decoration: underline;"><strong>BLACKOUT DATES, GYM NOT AVAILABLE: 11/28, 12/05, 12/12, 12/26, 01/02, 02/13, 03/06, 03/27</strong></span></em>
+      </li>
+      <li>
+        <span style="font-size: 9pt;">START DATE: FRIDAY, 11/21/2014</span>
+      </li>
+      <li>
+        <span style="font-size: 9pt;">END DATE: LAST FRIDAY IN APRIL, 04/24/2015</span>
+      </li>
+      <li>ALL AGE GROUPS WELCOME, INCLUDING PARENTS
+      </li>
+      <li>TENTATIVE SCHEDULE:
+      </li>
+      <li style="list-style: none; display: inline;">
+        <ul>
+          <li>5-6 PM: SOCCER SKILLS CLINIC, FOCUSING ON FAST FOOTWORK DRILLS
+          </li>
+          <li>6-7 PM: FUTSAL SMALL-SIDED GAMES, DEPENDING ON THE # OF PLAYERS; LIKELY 4 v 4 WITH QUICK 10-15 GAMES; WINNING TEAM STAYS AND PLAYS NEXT TEAM IN ROTATION; LOSING TEAM SITS TO WATCH OR
+          WORK ON SKILLS OFF TO THE SIDE
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span style="text-decoration: underline;">There is no charge for this event through 2014. There may be a reasonable fee charged for this event starting in 2015</span>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  If there is strong demand and attendance for the Fridays at Hemingway, we will add another night per week in Hailey, likely the Alturas Gym.
+</p>
+<p>
+  This is a Sawtooth trial program in an effort to offer more soccer all winter long.
+</p>
+<p>
+  <span style="color: #ff0000;"><strong><span style="text-decoration: underline;">General Rules:</span></strong></span>
+</p>
+<ul style="padding-left: 30px;">
+  <li>All players must sign a general medical release form in order to play.
+  </li>
+  <li>Parents are encouraged and allowed to play. However, kid players are given preference.
+  </li>
+  <li>Both the Soccer Skills Clinic and Futsal allow for mixed-age group play. For example, a 6-year-old can train alongside and play in a game with a 60-year-old. However, for safety reasons, overly
+  aggressive play will not be tolerated.
+  </li>
+  <li>The Gym must be left in EXACTLY the same condition as it was found. Anyone who does not clean up after themselves and/or does not help in putting things back in order when done will not be
+  invited back.
+  </li>
+</ul>
+<p>
+  Questions? Call Dean Holter, 208-721-8007.
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						FEATURED TEAM--HATTULA GU12 SHOOTOUT VICTORY!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Sep 28, 2014</span><p>Never underestimate the Sawtooth Girls U12 team coached by the Hattulas! &nbsp;They came to play on Saturday, September 27, 2014 at Atkinson Park in Ketchum. &nbsp;Watch their dramatic shootout win below, or watch it directly on Youtube where professional soccer scouts are already&nbsp;being impressed!</p>
+<p>Direct Youtube Link: &nbsp;&nbsp;<a href="http://youtu.be/-VXgjk_1rsg" target="_blank">http://youtu.be/-VXgjk_1rsg</a></p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						SAWTOOTH GIRLS U12 HATTULA SHOOTOUT VICTORY!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="cm_youtube_con_1490674627">
+	<iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/-VXgjk_1rsg" frameborder="0" allowfullscreen></iframe>
+</div>
+<script>
+$(function(){
+	var id = "cm_youtube_con_1490674627",
+		width = $('#'+id).width(),
+		height = width * 0.5625;
+
+	$('#'+id+'> iframe').attr({
+		width: width,
+		height: height
+	});
+});
+</script>
+					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						FALL 2014 Season Overview--ARCHIVE. SPRING 2015 SEASON OVERVIEW COMING SOON					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <em><strong>Please Note that this Section is a General Season Overview written in August 2014.</strong></em>
+</p>
+<p>
+  <a href="http://www.sawtoothunited.com/home.php?layout=314696"><span style="color: #ff0000;"><em><strong>For daily updated FALL 2014 TEAM UPDATES, CLICK HERE.</strong></em></span></a>
+</p>
+<p>
+  <em><strong>Greetings Sawtooth United Players, Parents and Coaches! After an amazing summer of the 2014 World Cup in Brazil and 2 incredible weeks of ONE Soccer camps right here in the Wood River
+  Valley, we are now ready for an exciting Fall 2014 Soccer Season!</strong></em>
+</p>
+<p>
+  <em><strong>Here is a quick overview of the SUFC Fall 2014 Season:</strong></em>
+</p>
+<p>
+  -<em><strong>SUFC is offering 6 teams:</strong></em>
+</p>
+<p>
+  <em>1) <strong>Boys U10--STUMPH--Coached by Trent Stumph.</strong></em>
+</p>
+<p>
+  <em><strong>2) Boys U10--HOLTER--Coached by Dean Holter, Michael Desler, and Ted Kelley.</strong></em>
+</p>
+<p>
+  <em>3) <strong>Boys U11--Coached by Eric Slotten and Clay Sammis.</strong></em>
+</p>
+<p>
+  <em>4) <strong>Boys U12--Coached by Marco Hidalgo and Chris Gardner.</strong></em>
+</p>
+<p>
+  <em>5) <strong>Girls U10/U11--Coached by Sally Gerlach and Clint Kelly.</strong></em>
+</p>
+<p>
+  <em>6) <strong>Girls U12--Coached by Dave Hattula and Toni Hattula.</strong></em>
+</p>
+<p>
+  -<em><strong>Season Begin/E</strong><strong>nd</strong><strong>:</strong> The season will officially <strong>begin</strong> on Tuesday, September 2, 2014. That will be the first week of official
+  practices; days and times to be determined by each coach (but likely Tues/Thurs, 5:30-7pm practice times).</em> Coaches may start practicing in August at their discretion. Your team's coach may
+  start contacting you in August with August informal practice schedule information. The season will <strong>end</strong> the week of Halloween, October 31st.
+</p>
+<p>
+  -<em><strong>Player Registration Fee is $260:</strong></em>This fee to include twice weekly practices and the following games schedule:
+</p>
+<p>
+  <em><strong>1) Boise League, Two Saturdays, September 20th and October 18th</strong></em> (two games each Saturday): This is the Idaho Youth Soccer Association ("IYSA") Boise D3 League at the Boise
+  Simplot Soccer Complex. Competition is strong and our teams often lose. We have researched the less competitive IYSA "Outback" Recreation League as an alternative to the more hyper-competitive
+  Boise D3 League. However, the Outback games are played as far away as McCall with lesser quality fields, ref-ing, etc. After much research and discussion SUFC has decided to stick with the Boise D3
+  League and focus on raising our game to be able to compete at this higher level.
+</p>
+<p>
+  <em><strong>2)</strong> <strong>IYSA Gem State Tournament October 4-5th,</strong></em> also at the Boise Simplot Soccer Complex. This is also a full "competitive" tournament, with 2-3 games on
+  Saturday and 1-2 games on Sunday. It is a full weekend of competitive tournament soccer. SUFC's goal is to be increasingly more competitive at this high level of competition.
+</p>
+<p>
+  <em><strong>3)</strong> <strong>"Friendlies" to be scheduled against some/all of the following:</strong></em> - Local BCRD Rec team/s, - Local La Liga team/s, - Mt. Home club team/s, - Twin Falls
+  club team/s.
+</p>
+<p style="padding-left: 30px;">
+  <em><strong>-Why?</strong></em> SUFC has gotten lots of feedback from parents who want to stay and play local whenever possible. We are listening. While it is important to go play the competitive
+  Boise D3 League, we are also working this fall to "play local", with games yet to be determined as we make the connections and fill out this fall season's dance card.
+</p>
+<p>
+  <em><strong>4) Two Optional Tournaments:</strong></em>
+</p>
+<p style="padding-left: 30px;">
+  1- Jackson Hole Tournament, September 26-28th; registration deadline is September 1, 2014.
+</p>
+<p style="padding-left: 30px;">
+  2- FC Nova Fall Star Showcase Tournament, Boise, November 1-2nd; registration deadline is October 10, 2014.
+</p>
+<p style="padding-left: 30px;">
+  *** These two tournaments are NOT part of the SUFC regular season. However, a coach/team can rally to play one of these very fun and quality tournaments at a cost of about $50-75 per player.
+  Contact your coach for further details if interested.
+</p>
+<p>
+  <em><strong>-Fall Season vs. Spring Season Background:</strong> SUFC offers 2 full soccer programs each <strong>Spring</strong></em>; which is the Developmental Program, ages U6-U9; and the
+  Competitive Program, ages U10-U17.
+</p>
+<p style="padding-left: 30px;">
+  <em><strong>-However, SUFC offers only a limited Competitive Program in the Fall</strong></em> so as to not compete for players at the Developmental Program level with the local Recreation Programs
+  offered by Atkinson Rec in Ketchum, and BCRD in Hailey; and so as not to compete for players at the Competitive Program level with the WR Valley's Middle and High School teams. Sawtooth is also
+  increasingly working closely with the Atkinson Rec and BCRD programs synergistically to improve the effectiveness of all soccer in the WR Valley. For example, this fall, Sawtooth will offer tips
+  and tricks to A-REC and BCRD Rec coaches in a fall coaching clinic.
+</p>
+<p>
+  <em><strong>-Wednesday Night "<em><strong>SAWTOOTH COMP CLINIC</strong></em>": This fall, SUFC will offer a one-day-per-week competitive training clinic, aka the "SAWTOOTH COMP CLINIC" (likely
+  Wednesdays, check back after Labor Day for details) for ages U6-U9, and U10-U12. This Wednesday evening clinic will offer an extra night of specialized soccer training for those players who want
+  additional "touches on the ball" each week. We offered this two falls ago with great positive feedback. (This has been changed to the "SKILLS CLINIC", see top of page).</strong></em>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Player Age Chart - 2014-2015 Season					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><table style="height: 199px;" width="552">
+  <tbody>
+    <tr>
+      <td style="text-align: center;" colspan="13">
+        <span style="font-size: 14pt;"><strong>Player Age Chart - 2014-2015 Season</strong></span>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" colspan="13">
+        <strong>Player Birth Month / Year</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Team
+      </td>
+      <td>
+        Aug
+      </td>
+      <td>
+        Sep
+      </td>
+      <td>
+        Oct
+      </td>
+      <td>
+        Nov
+      </td>
+      <td>
+        Dec
+      </td>
+      <td>
+        Jan
+      </td>
+      <td>
+        Feb
+      </td>
+      <td>
+        Mar
+      </td>
+      <td>
+        Apr
+      </td>
+      <td>
+        May
+      </td>
+      <td>
+        Jun
+      </td>
+      <td>
+        Jul
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Month (#)
+      </td>
+      <td>
+        (08)
+      </td>
+      <td>
+        (09)
+      </td>
+      <td>
+        (10)
+      </td>
+      <td>
+        (11)
+      </td>
+      <td>
+        (12)
+      </td>
+      <td>
+        (01)
+      </td>
+      <td>
+        (02)
+      </td>
+      <td>
+        (03)
+      </td>
+      <td>
+        (04)
+      </td>
+      <td>
+        (05)
+      </td>
+      <td>
+        (06)
+      </td>
+      <td>
+        (07)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U16
+      </td>
+      <td>
+        '98
+      </td>
+      <td>
+        <span>'98</span>
+      </td>
+      <td>
+        <span>'98</span>
+      </td>
+      <td>
+        <span>'98</span>
+      </td>
+      <td>
+        <span>'98</span>
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U15
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        '99
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U14
+      </td>
+      <td>
+        '00
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        <span>'00</span>
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U13
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '01
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U12
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '02
+      </td>
+      <td>
+        '03
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U11
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        <span>'03</span>
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U10
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '04
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U09
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '05
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U08
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '06
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '07
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U06
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '08
+      </td>
+      <td>
+        '09
+      </td>
+      <td>
+        '09
+      </td>
+      <td>
+        '09
+      </td>
+      <td>
+        '09
+      </td>
+      <td>
+        '09
+      </td>
+      <td>
+        '09
+      </td>
+      <td>
+        '09
+      </td>
+    </tr>
+  </tbody>
+</table></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Mar 5, 2014</span><p><span style="font-size: 14pt;"><strong>Competitive Program Team Formation &amp;&nbsp;Playing Time</strong></span></p>
+<p>Sawtooth United has updated its <a href="http://www.sawtoothunited.com/home.php?layout=313071">team formation and playing time policy</a> for the Competitive Program. &nbsp;The updated policy is the result of&nbsp;many discussions over the past year with parents, coaches, and other soccer leaders across the Wood River Valley. &nbsp;</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><h2>
+  <span style="color: #000080;">Where's my registration fee go?</span>  
+</h2>
+<p>
+  Based on spring 2013 numbers, the pie charts below provide a general breakdown of where Sawtooth United registration fees are spent.  For the Competitive program, the majority of costs come from
+  coaching, tournaments, and league play.  For the Development program, field usage, the Soccer in the Sawtooths tournament, and coach development make up the majority of cost.
+</p>
+<p>
+  <img style="border: px solid;" src="http://www.sawtoothunited.com/imagedata/PIE_4_COMP.jpg" border="0" />
+</p>
+<p>
+   
+</p>
+<p>
+  <img style="border: px solid;" src="http://www.sawtoothunited.com/imagedata/PIE_4_DEVO.jpg" border="0" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Coaches Needed for Spring 2014					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <strong><span style="font-size: large; color: #000080;">Coaches Needed for Spring 2015</span></strong>
+</p>
+<p>
+  Sawtooth United is looking for 2014 Fall Season soccer coaches for its Development and Competiive soccer programs. Love soccer? Love coaching? Please contact us at <a href=
+  "mailto:%20sawtoothunited@yahoo.com">sawtoothunited@yahoo.com</a>.  Or call Dean Holter, Executive Director at: 208-721-8007.
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Many Thanks					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-size: large; color: #000080;"><strong>Thank You</strong></span>
+</p>
+<p>
+  Sawtooth United would like to extend our gratitude to the <strong>Sun Valley Suns</strong>, <strong>Webb Nursery</strong>, and <strong>Redfish Technology</strong> for their generous support of the
+  club. The money and time donated provides valuable resources that allow the club to fulfill its mission to encourage the physical, mental and emotional growth of the youth of the Wood River Valley
+  through the sport of soccer.
+</p>
+<p>
+  In the latest news: this fall, SUFC coach Jon Piggins showed his quality on and off the field by being the top producer at Redfish Technology, which allowed him to take part in the company's "One
+  for One" program and designate a local organization for a $1,000 gift. He generously chose to help fund Sawtooth United's scholarship program.
+</p>
+<p>
+  "We are lucky to have such community-minded folks in our valley. This generous gift from the Redfish Technology team and the time that Jon Piggins dedicates to coaching go a long way in making it
+  possible to carry out such outstanding developmental and competitive youth soccer programs," stated Liv Jensen, SUFC Coach and Board Member. "Thank you, Redfish."
+</p>
+<p>
+  <a href="http://www.redfishtech.com/catch_of_the_day/2013/09/sufc-receives-1000-donation-from-redfish-technologys-one-for-one-program/">Read more about Redfish Technology's most recent
+  donation</a>.
+</p>
+<p style="text-align: center;">
+  <img style="border: px solid;" src="http://www.sawtoothunited.com/imagedata/GU2Scrimmage_1.jpg" border="0" /><em>Coaches Liv Jensen &amp; Jon Piggins &amp; Team in Huddle</em>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><h2>
+  From the Spring 2014 Season
+</h2>
+<p>
+  Over the keeper and in! Girls U14s in League play.
+</p>
+<p>
+  <img src="http://www.sawtoothunited.com/imagedata/CollageU14_3.jpg" border="0" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Lightning Safety and the 30/30 Rule					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  Hear thunder? Start counting. Important tips on <strong>lightning safety and the 30/30 rule</strong> from the NOAA National Severe Storms Laboratory.
+</p>
+<p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.sawtoothunited.com/imagedata/30_30_NOAA.png" border="0" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						SUFC Mission, Policies &amp; FAQs					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Aug 12, 2014</span><p><a href="http://www.sawtoothunited.com/home.php?layout=314653">Please click here for SUFC Mission, Policies &amp; FAQs</a></p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-size: medium;"><span style="line-height: 18px;"><a samtype="samdocument" href="http://www.sawtoothunited.com/doclib/Uniform%20Sizing%20Chart.pdf" target=
+  "_blank"><span style="background-color: #ffff00;">For Uniform Sizing Chart</span></a></span></span>
+</p>
+<p style="text-align: center;">
+  <span style="line-height: 18px;"><a href="#mce_temp_url#"><span style="font-size: medium;"><span style="background-color: #ffff99;">Click Here!</span></span></a></span>
+</p>
+<p style="text-align: center;">
+  <span style="line-height: 18px;"><span style="font-size: small;"><img style="border: px solid;" src="http://www.sawtoothunited.com/imagedata/SawtoothHuddle1.jpg" border=
+  "0" /><br /></span></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Follow Us on Facebook					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: left;">
+  <a href="https://www.facebook.com/pages/Sawtooth-United-Football-Club/273392266083584"><img style="font-size: 9pt;" src="http://www.sawtoothunited.com/imagedata/FBiconlow.png"
+  border="0" /></a>
+</p>
+<p style="text-align: left;">
+  <span style="font-size: 9pt;">Sawtooth United is now on</span> <strong style="font-size: 9pt;">Facebook</strong><span style="font-size: 9pt;">. It's a great place to catch up on club news, updates,
+  and photos.</span> <a href="https://www.facebook.com/pages/Sawtooth-United-Football-Club/273392266083584">Be sure to follow us. Click here</a><span style="font-size: 9pt;">.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						IYSA and District 3 League					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style=
+"margin: 1.12em 0px; padding: 0px 0px 0.35em; border-width: 0px; outline-width: 0px; font-weight: inherit; font-style: inherit; font-size: 9pt; font-family: Arial,Helvetica,sans-serif; color: #000000; display: block; text-align: center;">
+<a href="http://www.idahoyouthsoccer.org/" target="_blank">IYSA and District 3 League</a> <br />
+  <br />
+</p>
+<p style=
+"margin: 1.12em 0px; padding: 0px 0px 0.35em; border-width: 0px; outline-width: 0px; font-weight: inherit; font-style: inherit; font-size: 9pt; font-family: Arial,Helvetica,sans-serif; color: #000000; display: block; text-align: center;">
+<a href="http://www.idahoyouthsoccer.org/" target="_blank"><img style=
+"margin: 0px; padding: 0px; border-width: 2px; outline-width: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; width: auto; max-width: 100%; border-style: solid;"
+  src="http://www.sawtoothunited.com/imagedata/IYSALOGOsml.bmp" border="0" /></a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						SUFC on Twitter					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="TwitterTrinket">
+			<a href="//twitter.com/SawtoothUnited" class="twitter-follow-button" data-show-count="false">Follow @SawtoothUnited</a>
+			<ul class="TwitterTrinket-feed">
+						<li class="tt-tweet tt-last">
+			<a class="tt-date" data-datetime="2014-06-25T17:12:13+0000" href="//twitter.com/AlexiLalas/statuses/481847344326262785">
+				<time title="Time posted: 25 Jun 2014, 17:12:13 (GMT+0000)" datetime="2014-06-25T17:12:13+0000" pubdate>
+				25 Jun				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/AlexiLalas">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/902153523/Twitter_picture_normal.jpg" width="48" height="48"/>
+				<span class="tt-fullname">
+					Alexi Lalas				</span>
+				<span class="tt-nickname">@AlexiLalas</span>
+			</a>
+			<div class="tt-tweet-content">
+				Defending is dead. Long live defending. <a href="//twitter.com/search?q=%23WorldCup&src=hash">#WorldCup</a>			</div>
+		</li>
+					</ul>
+		</div>
+							</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " ><img src="/cm/layout/images/bonzi_logo.png" alt="Sport Club Management by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Sawtooth United FC Incorporated. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " >Sports Scheduling Program for Soccer Teams </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

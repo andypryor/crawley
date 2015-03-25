@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/HeadlineScrollerTrinket/style.css,/sam/admin/include/css/jqueryUI/ui.generic.css" /><script src="http://www.thelakelandsoccerclub.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js,/sam/admin/include/trinkets/HeadlineScrollerTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13143" ><li id="mb-75635" class=" cmFirst "><a class="button-text" href="/home.php?layout=306911" style="" target="_top">Home page</a><span class="iefix">&nbsp;</span></li><li id="mb-75648" class="parent  "><span style="" class="button-text">About Us</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75637" class=" cmFirst "><a class="button-text" href="/clubinfo" style="" target="_top">Club Information </a><span class="iefix">&nbsp;</span></li><li id="mb-75639" class="  "><a class="button-text" href="/contacts" style="" target="_top">Contact Information</a><span class="iefix">&nbsp;</span></li><li id="mb-75638" class="  "><a class="button-text" href="/forms" style="" target="_top">Forms</a><span class="iefix">&nbsp;</span></li><li id="mb-75642" class="  cmLast"><a class="button-text" href="/home.php?layout=306923" style="" target="_top">Fields</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75646" class="parent  "><span style="" class="button-text">2014/2015 TRYOUTS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75645" class=" cmFirst "><a class="button-text" href="/tryouts" style="" target="_top">2014/2015 Tryout Dates</a><span class="iefix">&nbsp;</span></li><li id="mb-75647" class="  cmLast"><a class="button-text" href="/feesandpolicies" style="" target="_top">Fees and Tryout Policies</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76942" class="parent  "><span style="" class="button-text">On-line Registration</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75636" class=" cmFirst "><a class="button-text" href="/home.php?layout=306915" style="" target="_top">On-line Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-76941" class="  "><a class="button-text" href="/home.php?layout=310645" style="" target="_top">How to Register</a><span class="iefix">&nbsp;</span></li><li id="mb-76989" class="  cmLast"><a class="button-text" href="http://www.thelakelandsoccerclub.com/sam/registration/reg_list.php" style="" target="_blank">Register Now</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75652" class="  "><a class="button-text" href="/apparel" style="" target="_top">Uniforms & Apparel</a><span class="iefix">&nbsp;</span></li><li id="mb-75649" class="  "><a class="button-text" href="/teams" style="" target="_top">Teams</a><span class="iefix">&nbsp;</span></li><li id="mb-76974" class="parent  "><span style="" class="button-text">Schedules</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75640" class=" cmFirst "><a class="button-text" href="/home.php?layout=306921" style="" target="_top">Schedules</a><span class="iefix">&nbsp;</span></li><li id="mb-76975" class="  "><a class="button-text" href="http://www.wsysad6.org/home.php" style="" target="_blank">District 6</a><span class="iefix">&nbsp;</span></li><li id="mb-76976" class="  cmLast"><a class="button-text" href="http://www.idahoyouthsoccer.org" style="" target="_blank">Northwest League</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75641" class="  "><a class="button-text" href="/home.php?layout=306922" style="" target="_top">Nighthawk Juggling Club</a><span class="iefix">&nbsp;</span></li><li id="mb-75643" class="  "><a class="button-text" href="/fundraisers" style="" target="_top">Team Fundraisers</a><span class="iefix">&nbsp;</span></li><li id="mb-75644" class="  "><a class="button-text" href="/summercamps" style="" target="_top">Summer Camps</a><span class="iefix">&nbsp;</span></li><li id="mb-76977" class="parent  "><span style="" class="button-text">Tournaments</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76978" class=" cmFirst "><a class="button-text" href="http://www.cdasting.com/tournament/hotshot/588485.html" style="" target="_blank">Hot Shot Tournament</a><span class="iefix">&nbsp;</span></li><li id="mb-76979" class="  "><a class="button-text" href="http://www.sandpointsoccer.com/poc" style="" target="_blank">Pend Oreille Cup</a><span class="iefix">&nbsp;</span></li><li id="mb-76980" class="  cmLast"><a class="button-text" href="http://www.idahoyouthsoccer.org/tournaments/statecup.aspx" style="" target="_blank">Idaho State Cup</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77669" class="parent  cmLast"><span style="" class="button-text">Forms</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77688" class=" cmFirst "><a class="button-text" href="/doclib/Lakeland Soccer Club Tryout Form.pdf" style="" target="_blank">Lakeland Soccer Club Tryout Form</a><span class="iefix">&nbsp;</span></li><li id="mb-77691" class="  "><a class="button-text" href="/doclib/PARENT CODE OF CONDUCT.pdf" style="" target="_blank">Parent Code of Conduct</a><span class="iefix">&nbsp;</span></li><li id="mb-77692" class="  "><a class="button-text" href="/doclib/PLAYER CODE OF CONDUCT.pdf" style="" target="_blank">Player Code of Conduct</a><span class="iefix">&nbsp;</span></li><li id="mb-77693" class="  "><a class="button-text" href="/doclib/Fundraiser Agreement Form.pdf" style="" target="_blank">Club Fundraising Agreement</a><span class="iefix">&nbsp;</span></li><li id="mb-77685" class="  "><a class="button-text" href="/doclib/MedicalReleaseForm.pdf" style="" target="_blank">Medical Release Form</a><span class="iefix">&nbsp;</span></li><li id="mb-77687" class="  cmLast"><a class="button-text" href="/doclib/Scholarship Request Form.pdf" style="" target="_blank">Scholarship Application</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium; background-color: #ccffff;">THE FEBRUARY BOARD MEETING WILL BE HELD</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium; background-color: #ccffff;">MONDAY, FEB. 2, 2015</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium; background-color: #ccffff;">AT 6:00 PM AT O'Malley's</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Calendar					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-1289541443" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Lakeland Soccer Club Supplemental Tryouts					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p align="center">
+   
+</p>
+<p align="center">
+  <span style="font-size: 14pt; color: #000000;"><span style="font-family: LongIsland, serif;">Lakeland Soccer Club</span></span>
+</p>
+<p align="center">
+  <span style="font-family: LongIsland, serif; font-size: 14pt; color: #000000;">One Day Supplemental Tryouts</span>
+</p>
+<p align="center">
+  <span style="font-size: 14pt; color: #000000;"><span style="font-family: LongIsland, serif;">Saturday, February 14th,</span> <span style="font-family: LongIsland, serif;">2015</span></span>
+</p>
+<p align="center">
+  <span style="font-size: 12pt;"><span style="font-family: LongIsland, serif;"><span style="text-decoration: underline;">TIME</span></span><span style="font-family: LongIsland, serif;">: Boys and
+  Girls Ages U9 thru U12 - 10:00 a.m. to 11:00 a.m.</span></span>
+</p>
+<p align="center">
+  <span style="font-family: LongIsland, serif; font-size: 12pt;">Boys and Girls Ages U13 and older - 11:30 a.m. to 12:30 p.m.</span>
+</p>
+<p align="center">
+   
+</p>
+<p align="center">
+  <span style="font-size: 12pt;"><span style="font-family: LongIsland, serif;"><span style="text-decoration: underline;">PLACE</span></span><span style="font-family: LongIsland, serif;">: Twin Lakes
+  Elementary School, 5326 W. Rice Road, in the Gym.</span></span>
+</p>
+<p align="center">
+   
+</p>
+<p align="center">
+  <span style="font-size: 12pt;"><span style="font-family: LongIsland, serif;"><span style="text-decoration: underline;">WHAT TO BRING/WEAR</span></span><span style=
+  "font-family: LongIsland, serif;">: tennis shoes(tryouts will be inside)</span><span style="font-family: 'Long Island', serif;"><span style="color: #000000;">,</span></span> <span style=
+  "font-family: 'Long Island', serif;"><span style="color: #000000;">shorts, shin guards, soccerball, water, and registration printout.</span></span></span>
+</p>
+<p align="center">
+   
+</p>
+<p align="center">
+  <span style="font-size: 12pt;"><span style="font-family: LongIsland, serif;">For more information and to print the registration form please visit www.thelakelandsoccerclub.com.</span></span>
+</p>
+<p align="center">
+   
+</p>
+<p align="center">
+  <span style="font-family: LongIsland, serif; font-size: 12pt;">Parent or guardian needs to remain present during tryout.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						NIGHTHAWKS IN ACTION					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="HeadlineScrollerTrinket"><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=RATH_550x300_200_1_111_0.jpg) left no-repeat;" title="HOME OF THE NIGHTHAWKS | "><div class="pe-hst-slidelabel"><h2>HOME OF THE NIGHTHAWKS</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9519_550x300_96_0_28_0.jpg) left no-repeat;" title="A cheer to start the game! | "><div class="pe-hst-slidelabel"><h2>A cheer to start the game!</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9588_550x300_101_0_23_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9597_550x300_144_23_68_138.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9726_550x300_123_1_0_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9688_550x300_123_1_0_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9573_550x300_30_0_94_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9694_550x300_94_0_30_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9712_550x300_140_19_16_43.jpg) left no-repeat;" title=". | "><div class="pe-hst-slidelabel"><h2>.</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9835_550x300_123_1_0_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9842_550x300_123_1_0_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9869_550x300_126_0_12_25.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9877_550x300_118_0_6_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_0003_550x300_123_1_0_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9911_550x300_56_0_68_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9929_550x300_111_0_133_222.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_9961_550x300_79_0_45_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_5411_550x300_65_1_58_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_5548_550x300_97_1_27_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=IMG_5622_550x300_151_202_82_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=029_550x300_0_0_124_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=126_550x300_28_0_196_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=076_550x300_0_0_124_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=pend_o_oreille_cup_2013_028_550x300_21_0_203_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.thelakelandsoccerclub.com/sam/admin/images/image.php?f=120_550x300_122_0_2_0.jpg) left no-repeat;" title=" | "><div class="pe-hst-slidelabel"><h2></h2><p><span></span></p></div></div><div class="pe-hst-pager"><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: large;"><a href="http://www.thelakelandsoccerclub.com/home.php?layout=306930" target="_self">CLICK HERE FOR SUMMER
+  CAMP INFO</a></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: small; background-color: #ccffff;"><span style="background-color: #ff99cc;"><a href=
+  "http://www.thelakelandsoccerclub.com/doclib/Recovery%20Eating.pdf" target="_blank">CLICK HERE</a></span> to find out how to eat and drink properly for soccer when it is
+  hot.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.thelakelandsoccerclub.com/imagedata/imagesCABMY82K.jpg" border="0" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						WELCOME!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<a href="http://www.easycounter.com/"><img src="http://www.easycounter.com/counter.php?thelakelandsoccerclub" border="0" alt="Website Hit Counter" /></a><br />					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<a href="http://www.findlocalweather.com/forecast/id/rathdrum.html" target="_blank"><img src=
+"http://www.findlocalweather.net/forecast.php?forecast=hourly&amp;pands=rathdrum+id&amp;config=png&amp;alt=hwicc" border="0" alt="Click for the latest Rathdrum weather forecast." /></a>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: small;">Please log on to your member account and make your registration fee payment as soon as possible.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						ATTENTION!!!!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: comic sans ms,sans-serif; font-size: small;"><a href="http://www.thelakelandsoccerclub.com/doclib/Recovery%20Eating.pdf" target="_blank" title=
+  "Eating for soccer">CLICK HERE</a> to view a document with some tips for eating and drinking during a hot tournament and before, during and after a soccer game.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-size: xx-small;"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.thelakelandsoccerclub.com/imagedata/iysalogo.jpg" border=
+  "0" /></span><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.thelakelandsoccerclub.com/imagedata/Logo20D6.jpg" border="0" /><br />
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.thelakelandsoccerclub.com/imagedata/USYSA_Logo.jpg" border="0" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com" rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Powered by Bonzi Sports Registration Software" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Lakeland Soccer Club. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" rel="nofollow">Youth soccer Website and Online soccer Registration Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

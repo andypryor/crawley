@@ -1,0 +1,199 @@
+﻿<!-- saved from url=(0014)about:internet --><center><a name="Schedules"></a><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "FGSC.dwt" -->
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>FGSC - Home</title>
+<!-- #EndEditable -->
+<style type="text/css">
+
+.auto-style1 {
+	text-align: center;
+	font-family: Andalus;
+	font-size: medium;
+	background-color: #FFFFFF;
+}
+.auto-style6 {
+	border: 1px solid #CC0000;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	background-color: #FFFFFF;
+}
+.auto-style11 {
+	border: 1px solid #CC0000;
+	font-family: "Baskerville Old Face";
+	font-weight: bold;
+	font-size: medium;
+}
+.auto-style14 {
+	border: 1px solid #CC0000;
+	border-collapse: collapse;
+}
+a {
+	color: #990000;
+}
+.auto-style16 {
+	font-family: "Baskerville Old Face";
+	font-size: medium;
+	font-weight: normal;
+}
+.auto-style19 {
+	font-family: Andalus;
+	font-size: medium;
+}
+.auto-style20 {
+	font-weight: normal;
+}
+.auto-style22 {
+	font-family: Andalus;
+	font-weight: normal;
+}
+.auto-style23 {
+	border-width: 0px;
+}
+.auto-style25 {
+	font-family: Andalus;
+}
+.auto-style26 {
+	font-size: 13pt;
+}
+.auto-style27 {
+	border: 1px solid #CC0000;
+}
+.auto-style28 {
+	font-size: medium;
+}
+.auto-style29 {
+	text-align: center;
+	border: 1px solid #CC0000;
+}
+.auto-style30 {
+	font-size: x-small;
+}
+.auto-style31 {
+	text-align: center;
+	font-family: Andalus;
+	font-size: medium;
+	background-color: #FFFFFF;
+	color: #990000;
+}
+.auto-style32 {
+	color: #990000;
+}
+</style>
+<base target="_self" />
+</head>
+
+<body style="margin: 10 50px; background-color: #CC0000;">
+
+<p><img height="500" src="Goalie%20Pic.jpg" width="950"><table cellpadding="0" cellspacing="0" style="width: 950; height: 17" class="auto-style14">
+	<tr>
+		<td class="auto-style1" style="width: 111px; height: 21px;">
+		<a href="http://www.ftgsoccer.com"><strong class="auto-style20">Home</strong></a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="http://www.okarsenal.com">Arsenal</a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="Schedules.html">Schedules</a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="Coaches1.html">Coaches List</a></td>
+		<td class="auto-style1" style="width: 120; height: 21px;">
+		<a href="Coaches%20Links.html">Coaching Links</a></td>
+		<td class="auto-style31" style="width: 120; height: 21px;">
+		&nbsp;&nbsp;
+		<a href="Calendar.html">Calendar</a></td>
+		<td class="auto-style31" style="width: 120; height: 21px;">
+		<a href="About.html">About Us</a></td>
+		<td class="auto-style31" style="width: 120; height: 21px;">
+		<a href="http://www.oksoccer.com">oksoccer.com</a></td>
+	</tr>
+</table>
+<table cellpadding="3" cellspacing="0" class="auto-style6" style="height: 483; width: 950">
+	<tr>
+		<td style="height: 388; width: 777" valign="top" class="auto-style27"><!-- #BeginEditable "Info" -->
+		<div style="">
+			<div>
+				<strong>
+				<span class="auto-style28" style="text-decoration: underline">
+				Spring 2015 Schedules Released</span><br class="auto-style28" style="text-decoration: underline">
+				</strong>
+				<br class="auto-style30" style="font-size: small">
+				<a href="Schedules.html">Spring Schedules</a><br><br><br>
+			</div>
+		</div>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; text-align: left; text-decoration: underline; font-size: 14pt;">
+		<strong>Additional Training</strong></p>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; text-align: left;">
+		Corie Frazer is new to the area from Jamaica.&nbsp; He is FIFA certfied 
+		with over ten years of coaching experience including Level 1 &amp; 2 
+		Goalkeeper Licenses and was the Bahamas Naitonal U17 Boys Head Coach.&nbsp; 
+		Cost is $20 per hour.&nbsp; He is also available for one on one 
+		sessions.&nbsp; Call or text 405.537.8218 or email
+		<a href="mailto:coriefrazer@gmail.com">coriefrazer@gmail.com</a>.&nbsp;
+		<a href="Training%20Flyer.jpg">The flyer.</a></p>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; text-align: left;">
+		&nbsp;</p>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; text-decoration: underline; font-size: large;">
+		<strong>Oklahoma Arsenal</strong></p>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; ">
+		Oklahoma Arsenal is the competitive club organized under the Fort Gibson 
+		Soccer Club.&nbsp; There were 10 Arsenal teams playing&nbsp; competitive 
+		soccer or in the Oklahoma Developmental League last year with kids from 
+		Ft. Gibson, Muskogee, Oktaha, Tahlequah, Gore, Keys, Stilwell and 
+		Muldrow competing for the club.&nbsp; We are shooting for 12 teams for 
+		this year.&nbsp; You 
+		can read more about the club <a href="Arsenal%20Camp%20Pics.html">here</a> or
+		<a href="http://www.facebook.com/pages/Fort-Gibson-Soccer-Club/128104357256123#!/OklahomaArsenalSocccer">
+		here</a>:&nbsp; </p>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; ">
+		&nbsp;</p>
+		<p class="paragraph_style" style="PADDING-TOP: 0pt; word-spacing: 1; margin-top: 4; margin-bottom: 4; text-align: center;">
+		&nbsp;</p>
+<!-- #EndEditable -->
+		</td>
+		<td class="auto-style11" style="height: 388" valign="top">
+		<br>
+		<a href="http://www.facebook.com/pages/Fort-Gibson-Soccer-Club/128104357256123">
+		<img alt="Facebook Us" class="auto-style23" height="29" src="facebook-button2.jpg" width="111"></a><br>
+		<br><span class="auto-style16">
+		<span class="auto-style22">
+		<a href="mailto:shropshire94@hotmail.com;steven.hill@ftgsoccer.com">Reschedule Game</a></span></span><span class="auto-style20"><span class="auto-style25"><br>
+		</span><br class="auto-style25"><span class="auto-style25"><a href="Directions.html">Directions</a><br>
+		<br><a href="Field%20Map.html"><span class="auto-style32">Complex Map</span></a><br>
+		</span><br class="auto-style25"><span class="auto-style25"><a href="Referees.html">Referees</a><br>
+		</span><br class="auto-style25"><span class="auto-style19"><a href="Forms.html">Forms</a><br>
+		<br><a href="Pictures.html">Pictures</a><br><br>
+		<a href="Tournaments.html">Tournaments</a></span></span><br><span class="auto-style25"><span class="auto-style28">
+		<br><span class="auto-style20"><a href="Camp.html">Camp</a></span><br>
+		<br><strong class="auto-style20"><a href="Field_status.html">Field Status</a></strong></span><span class="auto-style26"><br>
+		<br></span></span></td>
+	</tr>
+	<tr>
+		<td style="height: 34px; " class="auto-style29" colspan="2"><a href="Home">
+		<span class="auto-style30">[home]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Schedules.html"><span class="auto-style30">[schedules]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Calendar.html"><span class="auto-style30">[calendar]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Coaches.html"><span class="auto-style30">[coaches]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</span>
+		<a href="Links.html"><span class="auto-style30">[links]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="About.html"><span class="auto-style30">[about 
+		us]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		</span> 
+		<a href="Pictures.html"><span class="auto-style30">[pictures]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="mailto:mail@FTGsoccer.com"><span class="auto-style30">[contact 
+		us]</span></a><span class="auto-style30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="Directions.html"><span class="auto-style30">[field locations]</span></a></td>
+	</tr>
+</table>
+</p>
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
+</center>
+

@@ -1,0 +1,1437 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 25-Mar-15 7:12 am - /scripts/runisa.dll?M2:gp::73966+index/+E ; \\10.10.10.25\html\northeastokfc.com\index.html expires 1m = 25-Mar-15 7:13 am -->
+<title>Northeast Oklahoma FutballClub</title>
+<meta name="description"        content="Congratulations to All! Girls:07 Girls White - Coached by Justin Phillip - Finalist at WSA   04 Girls Blue, coached by  Charles Thomas - Finalist at Cosmo Cup04 Girls Red - Coached by Charles Thomas - Semi-finalist at WSA03 Girls - Coached by Scott Parkinson - Winner of U12 at WSA02 Girls Blue - Coached by Teresa Collins - Semi-finalist in Plano                Boys:07 Boys - Coached by Patrick Robinson - Finished 4th in WSA  06 Boys Blue - Coached by Justin Phillip - Finalist at WSA05 Boys Blue - Coach Justin Phillip - Winner TSC Friendship Cup (s)05 Boys Blue - Coach Justin Phillip - Winner Blitz 05 (s) 04 Boys - Coached by Mark Papp - Winner of U11 Boys at WSA         02 Boys Blue - Coached by Chris Brunner - Quarter-finalist in Plano02 boys Blue - Coached by Chris Brunner -  Finalist at Capital City 02 boys Red - Coached by Kurt Bauer -  Winner at Capital City Cup98 Boys - Coached by Jamie Peterson and Marko Bukva - Winner of U17 Silver in Plano                   " />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<meta name="keywords" content="NEOFC, Northeast Oklahoma Futball Club, Northeast Oklahoma Competitive Soccer, Oklahoma Soccer, Advanced Oklahoma Soccer, Oklahoma Advanced Soccer, Soccer Development, Oklahoma Soccer Development, Claremore Advanced Soccer, Claremore Competitive Soccer, Owasso Competitive Soccer, Catoosa Competitive Soccer
+">
+<link rel="alternate" type="application/rss+xml" href="http://www.northeastokfc.com/index.xml" title="RSS Feed">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+ <link rel="stylesheet" href="http://www.northeastokfc.com/common/css/master.css" type="text/css"/>
+<script type="text/javascript">
+  if(!/mobile\=off/i.test(window.location.search)){
+    (function(a,b){if(/android|avantgo|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,
+ '/common/mobile/mobile.html?jobid=73966&nogames=Y'
+    );
+  };
+</script>
+ <script src="http://www.northeastokfc.com/common/js/ps1.9.0/prototype-1.7.2.js" type="text/javascript"></script> <script src="http://www.northeastokfc.com/common/js/ps1.9.0/scriptaculous.js" type="text/javascript"></script>
+<script src="http://www.northeastokfc.com/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.northeastokfc.com/css/layout.css" type="text/css">
+<link rel="stylesheet" href="http://www.northeastokfc.com/css/content.css" type="text/css">
+<link rel="stylesheet" href="http://www.northeastokfc.com/css/menus.css" type="text/css">
+<link rel="stylesheet" href="http://www.northeastokfc.com/css/BebasNeue/stylesheet.css" type="text/css">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-47715583-50', 'northeastokfc.com');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+ var diiReplace = {
+   init: function() {
+     $j('div.ArticleBoxThumbContinue a').html('read more...');
+   }
+ }
+ document.observe('dom:loaded',diiReplace.init);
+</script>
+</head>
+<body>
+<script type="text/javascript">
+  var diiWebFonts = (function () {
+  var init = function () {
+    $j('head').append('<link rel="stylesheet" href="' + /* the ultimate defeat of pagepull */ '/css/BebasNeue/stylesheet.css" type="text/css">');
+  }; // init
+  return {
+    init: init
+  };
+})();
+document.observe('dom:loaded', diiWebFonts.init);
+</script>
+<div id="design-container">
+<div id="design-header-bg">
+  <div id="design-header">
+    <div id="design-logo"><a href="HTTP://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+index/" ><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="237" height="105" border="0"/></a></div>
+    <div id="design-nav">
+<div id="main-menu" class="diimenu" menuclass="mainmenu"></div>
+</div>
+  </div>
+</div>
+<div id="design-pageTop-bg">
+  <div id="design-pageTop">
+    <div id="design-leftLinks-top">
+      <div class="design-leftLinks"><a href="http://www.facebook.com/pages/Northeast-Oklahoma-FC-NEOFC/158263734228190"><img src="http://www.northeastokfc.com/images/2013/facebook.png" target="_blank" width="18" height="18" border="0"/></a></div>
+      <div class="design-leftLinks"><a href="https://twitter.com/neofcsoccer"><img src="http://www.northeastokfc.com/images/2013/twitter.png" target="_blank" width="18" height="18" border="0"/></a></div>
+      <div class="design-siteLinks"><a href="HTTP://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+index/" ><img src="http://www.northeastokfc.com/images/2013/home.png" width="41" height="18" border="0"/></a></div>
+      <div class="design-siteLinks"><a href="HTTP://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+index/SiteMap" ><img src="http://www.northeastokfc.com/images/2013/sitemap.png" width="53" height="18" border="0"/></a></div>
+      <div class="design-siteLinks"><a href="HTTP://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+calendar/" ><img src="http://www.northeastokfc.com/images/2013/calendars.png" width="70" height="18" border="0"/></a></div>
+      <div class="design-siteLinks"><a href="javascript:PrintFriendly()"><script language="JavaScript">function PrintFriendly(){clickpop1=window.open("http://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+print/index+E","clickpop1","toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=400")}</script><img src="http://www.northeastokfc.com/images/2013/print.png" width="38" height="18" border="0"/><br/>
+</a>
+</div>
+    </div>
+    <div id="design-leftLinks-bottom">
+      <div><a href="#"><img src="http://www.northeastokfc.com/images/2013/translate.png" width="96" height="15" border="0"/></a></div>
+    </div>
+  </div>
+</div>
+<div id="design-main">
+<table width="950" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="30" height="1" border="0"/></td>
+<td class="design-leftColumn">
+  <div class="design-leftContent-top">
+    <div id="design-contents">
+      <div style="display: none;"><div class="indexDIVL2-OuterBox">
+<div class="indexDIVL2-InnerBox">
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 indexDIVL2-2LineFirst" onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::73966+L2/+E+139';"><a href="/CollegeConnection/index_E.html" target="_top">College Connection</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::73966+L2/+E+113';"><a href="/Teams/index_E.html" target="_top">Teams</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::73966+L2/+E+111';"><a href="/JoinUs/index_E.html" target="_top">Join Us</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::73966+L2/+E+103';"><a href="/Staff/index_E.html" target="_top">Staff</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 indexDIVL2-2LineLast" onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::73966+L2/+E+118';"><a href="/Administrative/index_E.html" target="_top">Administrative</a></div>
+</div>
+</div>
+</div>
+<div class="indexDIVSubDept-OuterBox">
+<div class="indexDIVSubDept-InnerBox">
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/JoinUs/RegCenter/index_E.html" target="_top">Registration Center</a></div>
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/FormsDocuments/index_E.html" target="_top">Forms & Documents</a></div>
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/JoinUs/TryoutInfo/index_E.html" target="_top">Tryout Information</a></div>
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/Tournaments/index_E.html" target="_top">Tournaments</a></div>
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/VolunteerOps/index_E.html" target="_top">Volunteer Opportunities</a></div>
+</div>
+</div>
+    </div>
+  </div>
+</td>
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="10" height="1" border="0"/></td>
+<td>
+<div id="design-articleBox">
+<!---- Begin Main Content ---->
+ <style type="text/css">
+  div.ArticleBoxMainIMG:hover,
+  div.ArticleBoxMainCaption:hover,
+  div.ArticleBoxMainInner:hover   { cursor: pointer; }
+  div.ArticleBox-blankdiv-line    { border-top: 0px solid #000; }
+</style>
+<script type="text/javascript">
+    var boxBounce = {
+      artPrefix  : 'ArticleBox',
+      lnkPrefix  : 'MainLinksDiv',
+      numDivs    : null,
+      prevDiv    : 0,
+      timer      : null,
+      interval   : 6500,
+      art$       : function(art){return $(boxBounce.artPrefix+art.toString());},
+      lnk$       : function(art){return $(boxBounce.lnkPrefix+art.toString());},
+      mouseOut   : function(e,i){
+                     e.className=(i!=boxBounce.prevDiv)?'ArticleBoxThumbOff':'ArticleBoxThumbOn';
+                   },
+      mouseOver  : function(e,i){
+                     e.className='ArticleBoxThumbOver';
+                   },
+      nextFrame  : function(){boxBounce.otherFrame(boxBounce.prevDiv + 1);},
+      otherFrame : function (newDiv) {
+                     if (!boxBounce.numDivs) {
+                       boxBounce.numDivs = $j('div.ArticleBoxMainOuter').length;
+                     }
+                     if (newDiv > boxBounce.numDivs) { newDiv = 1; } // limit to max articles
+                     if (boxBounce.prevDiv != 0) {
+                          boxBounce.art$(boxBounce.prevDiv).style.display = "none"; // off with the old
+                          var lnk=boxBounce.lnk$(boxBounce.prevDiv);
+                          if (lnk.className!='ArticleBoxThumbOver')
+                            lnk.className = 'ArticleBoxThumbOff';
+                         }
+                     boxBounce.art$(newDiv).style.display = ""; // on with the new
+                     var lnk=boxBounce.lnk$(newDiv);
+                     if (lnk.className!='ArticleBoxThumbOver')
+                       lnk.className = 'ArticleBoxThumbOn';
+                     boxBounce.prevDiv = newDiv;
+                   },
+      start      : function(){boxBounce.fixuplastp(); if (boxBounce.timer != null) boxBounce.stop(); boxBounce.nextFrame(); boxBounce.timer = setInterval(boxBounce.nextFrame, boxBounce.interval);},
+      stop       : function(){if (boxBounce.timer != null) clearInterval(boxBounce.timer); boxBounce.timer = null;},
+      userFrame  : function(newDiv){boxBounce.stop(); boxBounce.otherFrame(newDiv);},
+      fixuplastp : function(){
+                     var fixer = function(t) { try { var p = t.select('p').last(); if(p) {p.addClassName('ArticleBoxInline');} } catch(e) {};}
+                     $$('.ArticleBoxMainText').each(fixer);
+                   }
+    };
+document.observe('dom:loaded',boxBounce.start);
+</script>
+<script type="text/javascript" charset="utf-8">
+var DiiChopper = {
+   init: function() {
+     var articleArray = $$('.ArticleBoxThumbText');
+     articleArray.each( function(textDiv) { DiiChopper.limitLength(textDiv) } );
+   },
+    limitLength: function(textDiv)
+    {
+    var stripped = textDiv.innerHTML.stripTags();
+      var choppedText = stripped.substring(0,100);
+      var splitChoppedText = choppedText.split(' ');
+      var textLength = splitChoppedText.length;
+     splitChoppedText[textLength - 1] = '...';
+      textDiv.innerHTML = splitChoppedText.join(' ');
+    }
+ };
+document.observe('dom:loaded', DiiChopper.init);
+</script>
+<script type="text/javascript" charset="utf-8">
+var diiClickableImages = (function () {
+  var $;
+  var clickMainPhoto = function (e) {
+    var $div = $(this),
+        $divOuter = $div.closest('div.ArticleBoxMainOuter'),
+        artId = $divOuter.attr('data-art-id'),
+        $mainLinksDiv = $('div#MainLinksDiv' + artId),
+        $a = $mainLinksDiv.find('>a.art-box-link-url-1'),
+        href = $a.attr('href');
+    if (href) {
+      window.location = href;
+    }
+  }; // clickMainPhoto
+  var init = function () {
+    $ = jQuery;
+    var $clickableDivs = $('div.ArticleBoxMainIMG, div.ArticleBoxMainCaption, div.ArticleBoxMainInner');
+    $clickableDivs.click(clickMainPhoto);
+    $clickableDivs.css('cursor', 'pointer');
+  }; // init
+  return {
+    init: init
+  };
+})();
+document.observe('dom:loaded', diiClickableImages.init);
+</script>
+<script type="text/javascript">
+var ThumbLoader = {
+  init: function() {
+    $$('.ArticleBoxThumbIMG img').each(function(i){
+      var loader = new Image();
+      loader.onload = ThumbLoader.load_handler;
+      loader.onerror = ThumbLoader.error_handler;
+      loader.to_thumb = i;
+      var url_parts = i.src.split('/');
+      var fname = url_parts.pop();
+      loader.src = "/imgs/home/_thumb/" + fname;
+      //url_parts.push('_thumbs');
+      //url_parts.push(fname);
+      //loader.src = url_parts.join('/');
+    });
+  },
+  error_handler: function() {
+  },
+  load_handler: function() {
+    this.to_thumb.src = this.src;
+  }
+};
+Event.observe(window, 'load', ThumbLoader.init);
+</script>
+<style type="text/css">
+.ArticleBoxAdmin1 {height: 20px; border: 1px solid #000000; border-left: 0px; border-top: 0px; background-color: #133971;}
+.ArticleBoxAdmin2 {background-color: #164284; padding: 6px; color: #FFFFFF;}
+.ArticleBoxAdmin3 {padding: 2px; padding-left: 6px;}
+.ArticleBoxAdmin4 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdmin5 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdmin6 {padding-left: 3px; padding-right: 6px;}
+.ArticleBoxInline {display:inline;}
+.ArticleBoxMainOuter {width: 535px; height: 370px; overflow: hidden; text-align: left;}
+.ArticleBoxMainIMG {width: 535px; height: 280px; overflow: hidden; background: #000f39;}
+.ArticleBoxMainCaption {display: none;}
+.ArticleBoxMainInner {position: relative; left: 0; bottom: 0; width: 535px; height: 90px; background: url(/images/2013/headlineBg.png);}
+.ArticleBoxMainHeadline {padding: 15px; font-family: 'BebasNeueRegular', Verdana, Arial, sans serif; font-size: 30px; font-weight: normal; line-height: 0.9em; color: #fff;}
+.ArticleBoxMainSubHeadline {display: none;}
+.ArticleBoxMainText {display: none;}
+.ArticleBoxMainContinue {display: none;}
+.ArticleBoxMainContinue a:link {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxMainContinue a:hover {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxMainContinue a:active {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxMainContinue a:visited {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxThumbOff {position: relative; top: 5px; left: 0; margin-bottom: 5px; width: 209px; height: 67px; overflow: hidden; background: #00348a; color: #fff;}
+.ArticleBoxThumbOn {position: relative; top: 5px; left: 0; margin-bottom: 5px; width: 209px; height: 67px; overflow: hidden; background: #bc2127; color: #fff;}
+.ArticleBoxThumbOver {position: relative; top: 5px; left: 0; margin-bottom: 5px; width: 209px; height: 67px; overflow: hidden; background: #00296c; color: #fff;}
+.ArticleBoxThumbTable {width: 219px; height: 67px;}
+.ArticleBoxThumbIMG {width: 70px; height: 57px; overflow: hidden; margin: 5px; margin-right: 0; background: #000f39;}
+.ArticleBoxThumbTitle {width: 114px; padding: 6px 0; padding-bottom: 2px; font-family: 'BebasNeueRegular', Verdana, Arial, sans serif; font-size: 15px; font-weight: normal; line-height: 1.0em; color: #fff;}
+.ArticleBoxThumbText {display: none;}
+.ArticleBoxThumbContinue {width: 114px; padding-right: 8px; text-align: right; font-family: Verdana, Arial, sans serif; font-size: 9px; font-weight: bold;}
+.ArticleBoxThumbContinue a:link {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxThumbContinue a:hover {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxThumbContinue a:active {color: #fff; font-weight: bold; text-decoration: none;}
+.ArticleBoxThumbContinue a:visited {color: #fff; font-weight: bold; text-decoration: none;}
+div.ArticleBoxThumbOn table tr td div.ArticleBoxThumbTitle {color: #fff;}
+div.ArticleBoxThumbOver table tr td div.ArticleBoxThumbTitle {color: #fff;}
+div.ArticleBoxThumbOn table tr td div.ArticleBoxThumbContinue a {color: #fff;}
+div.ArticleBoxThumbOver table tr td div.ArticleBoxThumbContinue a {color: #fff;}
+</style>
+<table id="index-articlebox-vertical" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr valign="top">
+  <td>
+<div id="ArticleBox1" class="ArticleBoxMainOuter" data-art-id="1" >
+  <div class="ArticleBoxMainIMG" style="background-image: url('/imgs/centerarticles/outperformancesFall2014.jpg'); background-repeat: no-repeat; background-position: center;">
+  </div>
+  <div class="ArticleBoxMainInner">
+    <div class="ArticleBoxMainHeadline" style="">
+      Outstanding Performances
+      <div class="ArticleBoxMainSubHeadline">Tournament Results - Fall 2014</div>
+    </div>
+    <div class="ArticleBoxMainText">
+       <div><img alt="" dir="ltr" id="" longdesc="test" src="http://www.northeastokfc.com/imgs/centerarticles/07girls.jpg" style="opacity: 0.9; color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 20.7999992370605px; text-indent: 48px; width: 250px; height: 207px; margin: 2px 4px; float: left; border-width: 1px; border-style: solid;" title="" /></div>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Congratulations to All!</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;">&nbsp;</p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><u style="font-family: verdana, geneva, sans-serif; font-size: 14px; color: rgb(105, 105, 105); line-height: 20.7999992370605px; text-indent: 0.5in;">Girls:</u></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">07 Girls White - Coached by Justin Phillip - Finalist at WSA &nbsp;&nbsp;</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><span style="line-height: 20.7999992370605px;">04 Girls Blue, coached by &nbsp;Charles Thomas - Finalist at Cosmo Cup</span></span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">04 Girls Red - Coached by Charles Thomas - Semi-finalist at WSA</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">03 Girls - Coached by Scott Parkinson - Winner of U12 at WSA</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 20.7999992370605px; text-indent: 0.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/04GirlsCosmoCup.JPG" style="width: 250px; height: 188px; border-width: 1px; border-style: solid; margin: 2px 3px; float: left;" />02 Girls Blue - Coached by Teresa Collins - Semi-finalist in Plano</span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;">&nbsp;</p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;">&nbsp;</p>
+<div style="text-indent: 48px;">&nbsp;</div>
+<div>&nbsp;</div>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/03GirlsWSA.jpg" style="width: 250px; height: 234px; border-width: 1px; border-style: solid; margin: 2px 4px; float: left;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/04boys.PNG" style="opacity: 0.9; line-height: 20.7999992370605px; color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; width: 300px; height: 169px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><u>Boys:</u></span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">07 Boys - Coached by Patrick Robinson - Finished 4th in WSA&nbsp; </span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">06 Boys Blue - Coached by Justin Phillip - Finalist at WSA</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">05 Boys Blue - Coach&nbsp;Justin Phillip - Winner&nbsp;TSC Friendship Cup (s)</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">05 Boys Blue - Coach&nbsp;Justin Phillip - Winner Blitz 05 (s)</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">04 Boys - Coached by Mark Papp - Winner of U11 Boys at WSA &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/05boysBBlitz05silver_champs.jpg" style="width: 250px; height: 207px; float: right; border-width: 1px; border-style: solid; margin: 4px;" /></span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">02 Boys Blue - Coached by Chris Brunner - Quarter-finalist in Plano</span></span></span></p>
+<p style="line-height: 20.7999992370605px; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">02 boys Blue - Coached by Chris Brunner - &nbsp;Finalist at Capital City&nbsp;</span></span></span></p>
+<p style="line-height: 20.7999992370605px; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">02 boys Red - Coached by Kurt Bauer - &nbsp;Winner at Capital City Cup</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">98 Boys - Coached by Jamie Peterson and Marko Bukva - Winner of U17 Silver in Plano</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/05boysBTSCFriendshipCup05silver_champs.jpg" style="width: 250px; height: 188px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/98BoysPlano.jpg" style="opacity: 0.9; line-height: 20.7999992370605px; color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; width: 300px; height: 225px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+     <div class="ArticleBox-blankdiv-line"></div>
+  </div>
+</div>
+<div id="ArticleBox2" class="ArticleBoxMainOuter" data-art-id="2" style="display:none;">
+  <div class="ArticleBoxMainIMG" style="background-image: url('/imgs/centerarticles/UniformCenterArticleImage.jpg'); background-repeat: no-repeat; background-position: center;">
+  </div>
+  <div class="ArticleBoxMainInner">
+    <div class="ArticleBoxMainHeadline" style="">
+      NEOFC Competitive Uniform Kits Unveiled
+      <div class="ArticleBoxMainSubHeadline">Men's and Women's Uniforms Redesigned (Custom) For 2014-2015 Competitive Season</div>
+    </div>
+    <div class="ArticleBoxMainText">
+       <p><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(105, 105, 105); line-height: 1.6em;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/NEOLogoGlossyTransCrestonlyNospot.png" style="float: left; width: 100px; height: 120px; margin: 9px 14px;" /></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(105, 105, 105); line-height: 1.6em;">Northeast Oklahoma Futball Club is proud to unveil&nbsp;the latest progression for its members.&nbsp; The 2014-2015 uniform kits step out of the stock selections and into custom threads.</span></p>
+<p>&nbsp;</p>
+<p><span style="color:#696969;"><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">Aside from unique (to NEOFC) color combinations&nbsp;for home and away kits, tailoring extends to uniform fit and material.&nbsp; The cut and fabric technology within&nbsp;the new kits&nbsp;take into account both form and thermal-zones that differ for men and women.&nbsp; This attention to detail is taken to deliver an&nbsp;edge in&nbsp;player performance by providing&nbsp;added player comfort.</span></span></span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 16px; line-height: 1.6em;">COMING SOON</span></p>
+<ul>
+	<li><span style="color:#696969;"><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">All-new training jerseys</span></span></span></li>
+</ul>
+<ul>
+	<li><span style="color:#696969;"><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">Long-sleeve jersey options&nbsp;</span></span></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><em>&lt;Click images below to view larger version&gt;</em></p>
+<p>&nbsp;</p>
+<p><a href="http://www.northeastokfc.com/docs/NEOFCStore/WOMENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/womenshomeb.jpg" style="width: 400px; height: 516px; float: left; border-width: 1px; border-style: solid; margin: 4px;" /></a><a href="http://www.northeastokfc.com/docs/NEOFCStore/WOMENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/womensawayb.jpg" style="width: 400px; height: 517px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>&lt;Click images below to view larger version&gt;</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://www.northeastokfc.com/docs/NEOFCStore/MENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/menhome.jpg" style="width: 400px; height: 516px; border-width: 1px; border-style: solid; margin: 4px; float: left;" /></a><a href="http://www.northeastokfc.com/docs/NEOFCStore/MENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/mensaway.jpg" style="width: 400px; height: 517px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+     <div class="ArticleBox-blankdiv-line"></div>
+  </div>
+</div>
+<div id="ArticleBox3" class="ArticleBoxMainOuter" data-art-id="3" style="display:none;">
+  <div class="ArticleBoxMainIMG" style="background-image: url('/imgs/centerarticles/RMC_02bB_mtnGrp_CA.JPG'); background-repeat: no-repeat; background-position: center;">
+    <div class="ArticleBoxMainCaption">02 Boys Blue 2014 Rocky Mountain Cup Champs</div>
+  </div>
+  <div class="ArticleBoxMainInner">
+    <div class="ArticleBoxMainHeadline" style="">
+      02 Boys Blue Take Rocky Mountain Cup In Colorado 'Play-Cation'
+      <div class="ArticleBoxMainSubHeadline">NEOFC 02 Boys Blue 9 Day Summer Tour</div>
+    </div>
+    <div class="ArticleBoxMainText">
+       <p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/Team_Josh_e.jpg" style="width: 325px; height: 183px; float: right; margin: 7px;" /></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>COLORADO</strong> --&nbsp; Fresh from a State Cup semi-final appearance to complete the 2013-2014 competitive season, the NEOFC 02 Boys Blue embarked on a mission to combine on-pitch achievement with a week of family fun.&nbsp;</span></span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">By the end of their trip the 02 Blues would leave their mark on &ldquo;Colorful Colorado,&rdquo; bringing back tournament title hardware, along with treasured soccer family memories.</span></span></p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">After making a way through the Great Plains, the acclimation process for the &rsquo;02 Boys&rsquo; extended stay in The Centennial State would begin by taking part in the Rush Open at Dick&rsquo;s Sporting Goods Park in Commerce City.&nbsp;&nbsp; There, at the home of the MLS&rsquo; Colorado Rapids, Coach Brunner&rsquo;s boys would recover from an early setback against the host Colorado Rush by defeating the CASA Thunders 2-0 in a consolation game on June 8</span><sup style="font-family: verdana, geneva, sans-serif; line-height: 1.6em;">th</sup><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">.&nbsp; The boys were able to get out in front before an electrical storm would bring an early end to the game and tournament.&nbsp;</span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/redrocks.jpg" style="width: 225px; height: 127px; float: right; margin: 7px;" /></span></span></p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/train_2.jpg" style="width: 225px; height: 400px; margin: 7px; float: left;" /></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Following the Rush Open, families dispersed throughout the Greater Denver area, coming together at various points throughout the next week to share Rocky Mountain adventures.&nbsp; Trips to Estes Park, zip-lining in Idaho Springs, train rides and mining tours, hiking Red Rocks Park and campgrounds are just a few of the joint activities that took place.</span></span></p>
+<div><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">The team gathered to train at the home of the Colorado Ice youth soccer club on Thursday June 12</span><sup style="font-family: verdana, geneva, sans-serif; line-height: 1.6em;">th</sup><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">.&nbsp; The 02 Blues enjoyed exercises on the artificial turf and scenic grounds in preparation for the Rocky Mountain Cup in Golden, Colorado that weekend.</span></div>
+<div>&nbsp;</div>
+<div><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/ColIce_2e.jpg" style="width: 525px; height: 296px; margin: 7px 9px; float: right;" /></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/RMC_Mtns3_e.jpg" style="opacity: 0.9; float: left; width: 350px; height: 197px; margin: 7px;" /></p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">Although Rocky Mountain Cup action would get off to a slow start for the&nbsp;team with a 2-2 tie to Colorado WAFC 02, the 02s would eventually find their game at the Pleasant View Soccer Complex in Boulder, Colorado. &nbsp;With the Flatiron Mountain Range as a backdrop, the boys gained momentum on their way through the Gold bracket with victories of 1-0 over the Colorado Storm and 7-0 against the FC Boulder Elite.&nbsp;</span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Time in between matches were shared between team picnics and outings to the famous Pearl Street shopping district in Boulder before finally re-engaging WAFC Colorado and defeating them 5-1 in the championship match on June 15<sup>th</sup> .&nbsp; This achievement would put a cherry on top of that Sunday and a very memorable week.</span></span></p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/02boysRMCwinTrophy_ur.jpg" style="width: 325px; height: 433px; margin: 7px; float: right;" /></p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">Although the final match ended around 4pm, fueled by adrenaline from success and memories--and perhaps a shot or two of their preferred caffeine beverage--02 families made their ways home by plane or vehicle caravan.&nbsp; Several parents may have made their way to work the next day with little or no sleep and carried through to officially cap things off by watching the U.S. Men&rsquo;s National Team defeat Ghana 2-1 that Monday evening.&nbsp;</span></p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/truckster.JPG" style="width: 200px; height: 132px; float: left; margin: 7px;" /></p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">...Quite a journey.</span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Congratulations to the 02 Boys Blue&mdash;2014 Rocky Mountain Cup Champs!&nbsp;</span></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/Colosticker.jpg" style="width: 500px; height: 667px; margin: 7px; border-width: 3px; border-style: solid;" /></span></span></p>
+    </div>
+     <div class="ArticleBox-blankdiv-line"></div>
+  </div>
+</div>
+  </td>
+  <td>
+<div id="MainLinksDiv1" class="ArticleBoxThumbOff" mrid="842588" onmouseover="boxBounce.mouseOver(this,1);this.style.cursor='hand';" onmouseout="boxBounce.mouseOut(this,1);" onclick="boxBounce.userFrame(1);" onfocus="$(this).className('ArticleBoxThumbOn');" onblur="$(this).className('ArticleBoxThumbOn');">
+  <a href="/home/842588.html" class="art-box-link-url-1" style="display:none;">&nbsp;</a>
+  <table class="ArticleBoxThumbTable" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+    <td>
+      <div class="ArticleBoxThumbIMG">
+         <a href="/home/842588.html"><img src="http://www.northeastokfc.com/imgs/centerarticles/outperformancesFall2014.jpg" height="70" border="0"/></a>
+      </div>
+    </td>
+    <td>
+      <div class="textsmall ArticleBoxThumbTitle">Outstanding Performances</div>
+      <div class="textsmall ArticleBoxThumbText"><div><img alt="" dir="ltr" id="" longdesc="test" src="http://www.northeastokfc.com/imgs/centerarticles/07girls.jpg" style="opacity: 0.9; color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 20.7999992370605px; text-indent: 48px; width: 250px; height: 207px; margin: 2px 4px; float: left; border-width: 1px; border-style: solid;" title="" /></div>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Congratulations to All!</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;">&nbsp;</p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><u style="font-family: verdana, geneva, sans-serif; font-size: 14px; color: rgb(105, 105, 105); line-height: 20.7999992370605px; text-indent: 0.5in;">Girls:</u></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">07 Girls White - Coached by Justin Phillip - Finalist at WSA &nbsp;&nbsp;</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><span style="line-height: 20.7999992370605px;">04 Girls Blue, coached by &nbsp;Charles Thomas - Finalist at Cosmo Cup</span></span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">04 Girls Red - Coached by Charles Thomas - Semi-finalist at WSA</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">03 Girls - Coached by Scott Parkinson - Winner of U12 at WSA</span></span></span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;"><span style="color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 20.7999992370605px; text-indent: 0.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/04GirlsCosmoCup.JPG" style="width: 250px; height: 188px; border-width: 1px; border-style: solid; margin: 2px 3px; float: left;" />02 Girls Blue - Coached by Teresa Collins - Semi-finalist in Plano</span></p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;">&nbsp;</p>
+<p style="line-height: 20.7999992370605px; margin-bottom: 0.0001pt; text-indent: 0.5in;">&nbsp;</p>
+<div style="text-indent: 48px;">&nbsp;</div>
+<div>&nbsp;</div>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/03GirlsWSA.jpg" style="width: 250px; height: 234px; border-width: 1px; border-style: solid; margin: 2px 4px; float: left;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/04boys.PNG" style="opacity: 0.9; line-height: 20.7999992370605px; color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; width: 300px; height: 169px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><u>Boys:</u></span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">07 Boys - Coached by Patrick Robinson - Finished 4th in WSA&nbsp; </span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">06 Boys Blue - Coached by Justin Phillip - Finalist at WSA</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">05 Boys Blue - Coach&nbsp;Justin Phillip - Winner&nbsp;TSC Friendship Cup (s)</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">05 Boys Blue - Coach&nbsp;Justin Phillip - Winner Blitz 05 (s)</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">04 Boys - Coached by Mark Papp - Winner of U11 Boys at WSA &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/05boysBBlitz05silver_champs.jpg" style="width: 250px; height: 207px; float: right; border-width: 1px; border-style: solid; margin: 4px;" /></span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">02 Boys Blue - Coached by Chris Brunner - Quarter-finalist in Plano</span></span></span></p>
+<p style="line-height: 20.7999992370605px; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">02 boys Blue - Coached by Chris Brunner - &nbsp;Finalist at Capital City&nbsp;</span></span></span></p>
+<p style="line-height: 20.7999992370605px; text-indent: 0.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">02 boys Red - Coached by Kurt Bauer - &nbsp;Winner at Capital City Cup</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><span style="color:#696969;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">98 Boys - Coached by Jamie Peterson and Marko Bukva - Winner of U17 Silver in Plano</span></span></span></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/05boysBTSCFriendshipCup05silver_champs.jpg" style="width: 250px; height: 188px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/98BoysPlano.jpg" style="opacity: 0.9; line-height: 20.7999992370605px; color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 14px; width: 300px; height: 225px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;">&nbsp;</p>
+<p style="margin-bottom:.0001pt;text-indent:.5in;">&nbsp;</p>
+<p>&nbsp;</p></div>
+       <div class="textsmall ArticleBoxThumbContinue"> <a href="/home/842588.html"> [+] </a> </div>
+    </td>
+  </tr>
+  </table>
+</div>
+<div id="MainLinksDiv2" class="ArticleBoxThumbOff" mrid="825893" onmouseover="boxBounce.mouseOver(this,2);this.style.cursor='hand';" onmouseout="boxBounce.mouseOut(this,2);" onclick="boxBounce.userFrame(2);" onfocus="$(this).className('ArticleBoxThumbOn');" onblur="$(this).className('ArticleBoxThumbOn');">
+  <a href="/home/825893.html" class="art-box-link-url-1" style="display:none;">&nbsp;</a>
+  <table class="ArticleBoxThumbTable" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+    <td>
+      <div class="ArticleBoxThumbIMG">
+         <a href="/home/825893.html"><img src="http://www.northeastokfc.com/imgs/centerarticles/UniformCenterArticleImage.jpg" height="70" border="0"/></a>
+      </div>
+    </td>
+    <td>
+      <div class="textsmall ArticleBoxThumbTitle">NEOFC Competitive Uniform Kits Unveiled</div>
+      <div class="textsmall ArticleBoxThumbText"><p><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(105, 105, 105); line-height: 1.6em;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/NEOLogoGlossyTransCrestonlyNospot.png" style="float: left; width: 100px; height: 120px; margin: 9px 14px;" /></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(105, 105, 105); line-height: 1.6em;">Northeast Oklahoma Futball Club is proud to unveil&nbsp;the latest progression for its members.&nbsp; The 2014-2015 uniform kits step out of the stock selections and into custom threads.</span></p>
+<p>&nbsp;</p>
+<p><span style="color:#696969;"><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">Aside from unique (to NEOFC) color combinations&nbsp;for home and away kits, tailoring extends to uniform fit and material.&nbsp; The cut and fabric technology within&nbsp;the new kits&nbsp;take into account both form and thermal-zones that differ for men and women.&nbsp; This attention to detail is taken to deliver an&nbsp;edge in&nbsp;player performance by providing&nbsp;added player comfort.</span></span></span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(105, 105, 105); font-family: verdana, geneva, sans-serif; font-size: 16px; line-height: 1.6em;">COMING SOON</span></p>
+<ul>
+	<li><span style="color:#696969;"><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">All-new training jerseys</span></span></span></li>
+</ul>
+<ul>
+	<li><span style="color:#696969;"><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">Long-sleeve jersey options&nbsp;</span></span></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><em>&lt;Click images below to view larger version&gt;</em></p>
+<p>&nbsp;</p>
+<p><a href="http://www.northeastokfc.com/docs/NEOFCStore/WOMENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/womenshomeb.jpg" style="width: 400px; height: 516px; float: left; border-width: 1px; border-style: solid; margin: 4px;" /></a><a href="http://www.northeastokfc.com/docs/NEOFCStore/WOMENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/womensawayb.jpg" style="width: 400px; height: 517px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>&lt;Click images below to view larger version&gt;</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://www.northeastokfc.com/docs/NEOFCStore/MENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/menhome.jpg" style="width: 400px; height: 516px; border-width: 1px; border-style: solid; margin: 4px; float: left;" /></a><a href="http://www.northeastokfc.com/docs/NEOFCStore/MENSKITSb.pdf" target="_blank"><img alt="" src="http://www.northeastokfc.com/imgs/NEOFCStore/Uniform/mensaway.jpg" style="width: 400px; height: 517px; border-width: 1px; border-style: solid; margin: 4px; float: right;" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+       <div class="textsmall ArticleBoxThumbContinue"> <a href="/home/825893.html"> [+] </a> </div>
+    </td>
+  </tr>
+  </table>
+</div>
+<div id="MainLinksDiv3" class="ArticleBoxThumbOff" mrid="821925" onmouseover="boxBounce.mouseOver(this,3);this.style.cursor='hand';" onmouseout="boxBounce.mouseOut(this,3);" onclick="boxBounce.userFrame(3);" onfocus="$(this).className('ArticleBoxThumbOn');" onblur="$(this).className('ArticleBoxThumbOn');">
+  <a href="/home/821925.html" class="art-box-link-url-1" style="display:none;">&nbsp;</a>
+  <table class="ArticleBoxThumbTable" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+    <td>
+      <div class="ArticleBoxThumbIMG">
+         <a href="/home/821925.html"><img src="http://www.northeastokfc.com/imgs/centerarticles/RMC_02bB_mtnGrp_CA.JPG" height="70" border="0"/></a>
+      </div>
+    </td>
+    <td>
+      <div class="textsmall ArticleBoxThumbTitle">02 Boys Blue Take Rocky Mountain Cup In Colorado 'Play-Cation'</div>
+      <div class="textsmall ArticleBoxThumbText"><p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/Team_Josh_e.jpg" style="width: 325px; height: 183px; float: right; margin: 7px;" /></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>COLORADO</strong> --&nbsp; Fresh from a State Cup semi-final appearance to complete the 2013-2014 competitive season, the NEOFC 02 Boys Blue embarked on a mission to combine on-pitch achievement with a week of family fun.&nbsp;</span></span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">By the end of their trip the 02 Blues would leave their mark on &ldquo;Colorful Colorado,&rdquo; bringing back tournament title hardware, along with treasured soccer family memories.</span></span></p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">After making a way through the Great Plains, the acclimation process for the &rsquo;02 Boys&rsquo; extended stay in The Centennial State would begin by taking part in the Rush Open at Dick&rsquo;s Sporting Goods Park in Commerce City.&nbsp;&nbsp; There, at the home of the MLS&rsquo; Colorado Rapids, Coach Brunner&rsquo;s boys would recover from an early setback against the host Colorado Rush by defeating the CASA Thunders 2-0 in a consolation game on June 8</span><sup style="font-family: verdana, geneva, sans-serif; line-height: 1.6em;">th</sup><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">.&nbsp; The boys were able to get out in front before an electrical storm would bring an early end to the game and tournament.&nbsp;</span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/redrocks.jpg" style="width: 225px; height: 127px; float: right; margin: 7px;" /></span></span></p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/train_2.jpg" style="width: 225px; height: 400px; margin: 7px; float: left;" /></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Following the Rush Open, families dispersed throughout the Greater Denver area, coming together at various points throughout the next week to share Rocky Mountain adventures.&nbsp; Trips to Estes Park, zip-lining in Idaho Springs, train rides and mining tours, hiking Red Rocks Park and campgrounds are just a few of the joint activities that took place.</span></span></p>
+<div><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">The team gathered to train at the home of the Colorado Ice youth soccer club on Thursday June 12</span><sup style="font-family: verdana, geneva, sans-serif; line-height: 1.6em;">th</sup><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">.&nbsp; The 02 Blues enjoyed exercises on the artificial turf and scenic grounds in preparation for the Rocky Mountain Cup in Golden, Colorado that weekend.</span></div>
+<div>&nbsp;</div>
+<div><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/ColIce_2e.jpg" style="width: 525px; height: 296px; margin: 7px 9px; float: right;" /></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/RMC_Mtns3_e.jpg" style="opacity: 0.9; float: left; width: 350px; height: 197px; margin: 7px;" /></p>
+<p>&nbsp;</p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">Although Rocky Mountain Cup action would get off to a slow start for the&nbsp;team with a 2-2 tie to Colorado WAFC 02, the 02s would eventually find their game at the Pleasant View Soccer Complex in Boulder, Colorado. &nbsp;With the Flatiron Mountain Range as a backdrop, the boys gained momentum on their way through the Gold bracket with victories of 1-0 over the Colorado Storm and 7-0 against the FC Boulder Elite.&nbsp;</span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Time in between matches were shared between team picnics and outings to the famous Pearl Street shopping district in Boulder before finally re-engaging WAFC Colorado and defeating them 5-1 in the championship match on June 15<sup>th</sup> .&nbsp; This achievement would put a cherry on top of that Sunday and a very memorable week.</span></span></p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/02boysRMCwinTrophy_ur.jpg" style="width: 325px; height: 433px; margin: 7px; float: right;" /></p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">Although the final match ended around 4pm, fueled by adrenaline from success and memories--and perhaps a shot or two of their preferred caffeine beverage--02 families made their ways home by plane or vehicle caravan.&nbsp; Several parents may have made their way to work the next day with little or no sleep and carried through to officially cap things off by watching the U.S. Men&rsquo;s National Team defeat Ghana 2-1 that Monday evening.&nbsp;</span></p>
+<p><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/truckster.JPG" style="width: 200px; height: 132px; float: left; margin: 7px;" /></p>
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 14px; line-height: 1.6em;">...Quite a journey.</span></p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Congratulations to the 02 Boys Blue&mdash;2014 Rocky Mountain Cup Champs!&nbsp;</span></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><img alt="" src="http://www.northeastokfc.com/imgs/centerarticles/Colosticker.jpg" style="width: 500px; height: 667px; margin: 7px; border-width: 3px; border-style: solid;" /></span></span></p></div>
+       <div class="textsmall ArticleBoxThumbContinue"> <a href="/home/821925.html"> [+] </a> </div>
+    </td>
+  </tr>
+  </table>
+</div>
+  </td>
+</tr>
+</tbody>
+</table>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIImageModule;Date;JQuery;JQueryCycle;JQueryScrollTo;DesignMM;MobileNoGames;</div>
+ <link rel="stylesheet" href="http://www.northeastokfc.com/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.northeastokfc.com/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.northeastokfc.com/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(menuclass, callback) {
+    var url = '/menu-' + menuclass + '.js';
+    $j.ajax({
+      url: url,
+      type: 'GET',
+      dataType: 'json',
+      success: callback
+    });
+  } // fetchMenu
+  var renderHTML = function(el, json) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '752807';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.northeastokfc.com/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:73966\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var $div = $j(el),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  var init = function () {
+      $j('div.diimenu').each(function () {
+        var $div = $j(this),
+            menuclass = $div.attr('menuclass');
+        if (menuclass) {
+          fetchMenu(menuclass, function (data) {
+            renderHTML($div, data);
+          });
+        }
+      });
+    }; // init
+  return {
+    init: init,
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+ <script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+ <script src="http://www.northeastokfc.com/common/js/date-en-US.js" language="JavaScript" type="text/javascript"></script> <script src="http://www.northeastokfc.com/common/js/time.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+rand4 = function (){return (''+Math.random()).slice(2,6);}
+diiGetV = function (v){
+  if(!v||!v.length||v=='')return '';
+  var ls = /^\s*/;  // Leading space regular expression
+  var ts = /\s*$/;  // Trailing space regular expression
+  return v.replace(ls, "").replace(ts, "");
+}
+diiClearTbody = function (tbody){while (tbody.rows.length>0) tbody.deleteRow(tbody.rows.length-1);}
+diiSetRowClassOddEven = function (tbody){if (tbody){
+  var cn1 = new RegExp("^\\s*odd|\\s+odd\\s*$", "g");
+  var cn2 = new RegExp("^\\s*even|\\s+even\\s*$", "g");
+  for (var i=0; tbody.rows.length>i; i++){
+    var clsnm = tbody.rows[i].className;
+    clsnm = clsnm.replace(cn1, "");
+    clsnm = clsnm.replace(cn2, "");
+    clsnm += (i % 2) ? ' odd' : ' even';
+    tbody.rows[i].className = normalizeString(clsnm);
+  }
+  }
+}
+function imBusy(idPrefix,msg){
+  return '<div style="height:40px;padding-top:10px;">'
+       + '<span id="'+idPrefix+'indicatorImg" style="margin-top:0px;">'
+       + '<img alt="Indicator" src="http://www.northeastokfc.com/common/images/indicator.gif" /> '
+       + '</span>'
+       + '<span id="'+idPrefix+'indicatorMsg" style="margin-top:0px;">'
+       + msg
+       + '</span>'
+       + '</div>';
+} // imBusy
+function appendBusyRow(tbodyId,msg,nCols){
+  var tbod = $(tbodyId); diiClearTbody(tbod);
+  var tr; var td;
+  tr = document.createElement('tr');
+  td = document.createElement('td');
+  td.innerHTML = imBusy(tbodyId,msg); td.colSpan = nCols;
+  tr.appendChild(td);
+  tbod.appendChild(tr);
+} // appendBusyRow
+function updateBusyRow(tbodyId,msg){
+  var tbod = $(tbodyId);
+  if (tbod&&tbod.rows&&tbod.rows.length>0){
+    var cells=tbod.rows[tbod.rows.length-1].cells;
+    if(cells&&cells.length>0)
+      cells[cells.length-1].innerHTML = msg;
+    }
+} // updateBusyRow
+function diiDMY_MDY(dt){
+  if(!dt||dt=='')return '';
+  var d=dt.match(/(\d+)-([A-Z]+)-(\d+)/);
+  if(!d||!d.length)return '';
+  var mm=d[2], dd=d[1], yy=d[3];
+  var mos=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  for (var i=0;mos.length>i;i++){if(mos[i]==mm){mm=(i+1)+'';break;}}
+  if(mm.length==1)mm='0'+mm;
+  if(dd.length==1)dd='0'+dd;
+  if(yy.length==4)yy=yy.slice(2,4);
+  return mm+'/'+dd+'/'+yy;
+}
+function diiH2A(h){
+  var a=$H(h).map(function(pair){
+    var k=pair.key;
+    var v=pair.value;
+    v.key=k;
+    return v;
+  })||[];
+  return $A(a);
+}
+var diiDateTimes = {
+  dates:{},
+  times:{},
+  getDateObj: function (dt, fullParseFlag) {
+    diiDateTimes.putDate(dt, fullParseFlag);
+    return diiDateTimes.dates[dt];
+  }, // getDateObj
+  getTimeInMinutes: function (tim) {
+    var timobj = diiDateTimes.getTimeObj(tim);
+    if (!timobj.timMinutes) {
+      timobj.timMinutes = parseInt(timobj.timH, 10) * 60 + parseInt(timobj.timM, 10);
+    }
+    return timobj.timMinutes;
+  }, // getTimeInMinutes
+  getTimeObj: function(tim) {
+    if (!tim) tim = 'TBD';
+    diiDateTimes.putTime(tim);
+    return diiDateTimes.times[tim];
+  }, // getTimeObj
+  putDate:function(dt,fullParseFlag){
+    if(!diiDateTimes.dates[dt]){
+      var dateobj = {D: '', M: '', Y: '', YMD: '', DDD: '', MMMD: '', MMMMYYYY: ''}, dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (dtA) {
+        dateobj.D = dtA[1];
+        dateobj.M = dtA[2];
+        dateobj.Y = dtA[3];
+      }
+      diiDateTimes.dates[dt] = dateobj;
+    }
+    if(fullParseFlag === true && !diiDateTimes.dates[dt].date && dt !== ''){
+      var dateobj = diiDateTimes.dates[dt];
+      var dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (!dtA) {
+        dtA = dt.match(/(\d+)\/(\d+)\/(\d+)/);
+      }
+      if (dtA) {
+        dateobj.date = Date.parse(dt);
+        dateobj.YMD      = dateobj.date.toString("yyyyMMdd");
+        dateobj.DDD      = dateobj.date.toString("ddd");
+        dateobj.MMMD     = dateobj.date.toString("MMM d");
+        dateobj.MMMMYYYY = dateobj.date.toString("MMMM yyyy");
+      }
+    }
+  }, // putDate
+  putTime: function(tim) {
+    function makeEntry(a1, a2, a3) {
+      var timeobj = {};
+      var h = parseInt(a1, 10);
+      if (a3 && a3.toUpperCase() === 'PM' && 12 > h) {
+        h = h + 12;
+      }
+      a1 = '' + h;
+      timeobj.timH = a1;
+      timeobj.timM = a2;
+      timeobj.timHHMM = (a1.length == 1 ? '0' : '') + a1 +
+                        (a2.length == 1 ? '0' : '') + a2;
+      timeobj.timDisp = (h > 11) ? '' + ((h > 12) ? h - 12 : h) + ':' + a2 + ' PM' : ((h == 0) ? '12' : a1) + ':' + a2 + ' AM';
+      return timeobj;
+    } // makeEntry
+    if (!tim) tim = 'TBD';
+    if (!diiDateTimes.times[tim]) {
+      var timeobj = {};
+      var timA = tim.match(/30-DEC-1899\s(\d+):(\d+)/);
+      if (timA && timA.length && timA.length > 0) {
+        timeobj = makeEntry (timA[1], timA[2], '');
+      } else {
+        var timA = tim.match(/(\d+):(\d+)\s(AM|PM)/i);
+        if (timA && timA.length && timA.length > 0) {
+          timeobj = makeEntry (timA[1], timA[2], timA[3]);
+        } else {
+          timeobj.timH='';
+          timeobj.timM='';
+          timeobj.timDisp = 'TBD';
+        }
+      }
+      diiDateTimes.times[tim] = timeobj;
+    }
+  }, // putTime
+  rangesOverlap:function(range1Lo, range1Hi, range2Lo, range2Hi) {
+  return ( (range1Hi.compareTo(range2Lo) >= 0) && (range1Lo.compareTo(range2Hi) <= 0) );
+  } // rangesOverlap
+}
+/******************************************************************/
+/* normalizeString Copyright 2002 by Mike Hall                    */
+/* Please see http://www.brainjar.com for terms of use.           */
+/******************************************************************/
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+function normalizeString(s) {
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+  return s;
+} // normalizeString
+/* copyright Stephen Chapman 24th March 2006, 10th February 2007 */
+/* permission to use this function is granted by Stephen Chapman */
+/* provided that this copyright notice is retained intact        */
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+  var x = Math.round(num * Math.pow(10,dec));if (x >= 0) n1=n2='';
+  var y = (''+Math.abs(x)).split('');var z = y.length - dec; if (0 > z) z--; for(var i = z; 0 > i; i++) y.unshift('0');y.splice(z, 0, pnt);
+  while (z > 3) {z-=3; y.splice(z,0,thou);}var r = curr1+n1+y.join('')+n2+curr2;return r;
+}
+function formatComma(n,dec){
+  if (!dec) dec=0;
+  var pnt = (dec>0)?'.':'';
+  return formatNumber(n,dec,',',pnt,'','','-','');
+}
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function diiMemoLink(key) {
+  if (key !== undefined) {
+    var clickpop1 = window.open('http://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+Elements/Memo+' + key + '+SiteMap', "clickpop1",
+                                'toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=300');
+    clickpop1.focus();
+  }
+} // diiMemoLink
+function diiInitMemoLinks() {
+  if ($j === undefined || !$j) return;
+  var $memolinks = $j('span.dii-memo-link[key]'), $done = $memolinks.find('> img').parent();
+  $memolinks = $memolinks.not($done);
+  $memolinks.each(function(){
+    var $span = $j(this), imgsize = $span.attr('imgsize');
+    if (!imgsize) imgsize = '12';
+    if (imgsize === '0') {
+      var txt = $span.text();
+      if (txt && txt === $span.html()) {
+        $span.html('<a href="#">' + txt + '</a>');
+      }
+    } else {
+      var s = '<img src="http://www.northeastokfc.com/common/images/icons/{{imgsize}}-Help.png" width="{{imgsize}}" height="{{imgsize}}" vspace="0" hspace="0" align="top" border="0"/>';
+      s = s.replace(/{{imgsize}}/g, imgsize);
+      $span.html(s).css({cursor: 'pointer'});
+    }
+  })
+  .click(function(e){
+    e.preventDefault();
+    var $span = $j(this), key = $span.attr('key');
+    if (key !== undefined) {
+      diiMemoLink(key);
+    }
+  });
+} // diiInitMemoLinks
+document.observe('dom:loaded', diiInitMemoLinks);
+</script>
+ <script src="http://www.northeastokfc.com/common/js/jquery.cycle/jquery.cycle.all.min.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.northeastokfc.com/common/js/jquery-1.3.2/jquery.scrollTo-1.4.1-min.js" language="JavaScript" type="text/javascript"></script>
+  <script src="http://www.northeastokfc.com/common/js/modules/dii_image_module-0.0.4.js" language="JavaScript" type="text/javascript"></script>
+ <script id="dii-mobile-no-games" type="text/template">
+no games
+</script>
+<!---- End Main Content ---->
+</div>
+</td>
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="29" height="1" border="0"/></td>
+</tr>
+</table>
+<img src="http://www.northeastokfc.com/common/images/1x1.gif" width="950" height="10" border="0"/><br/>
+<table width="950" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="30" height="1" border="0"/></td>
+<td class="design-leftColumn">
+  <div id="design-photos">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize764570 {width: 185px; height: 150px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_764570', { effect_duration: 0.5, loop_duration: 4000, jobid: '73966' });
+  });
+</script>
+<div id="module_fade_764570" class="imageContainer imageContainerSize764570" subdept="764570">
+  <div class="imageContainerDIV imageContainerSize764570" style="display:none"><a href="http://www.oscsoccer.com"  target="_new"><img src="http://www.northeastokfc.com/imgs/Affiliates/OSCleftsideAd.png" width="185" height="160" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize764570" style="display:none"><a href="http://www.claremoresoccerclub.com/"  target="_new"><img src="http://www.northeastokfc.com/imgs/Affiliates/CSClsa2.png" width="185" height="160" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize764570" style="display:none"><a href="http://www.oksoccer.com"  target="_new"><img src="http://www.northeastokfc.com/imgs/Affiliates/OSAleftsideAd.png" width="185" height="160" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize764570" style="display:none"><a href="http://www.issowasso.com"  target="_new"><img src="http://www.northeastokfc.com/imgs/Affiliates/ISSlsa.png" width="185" height="160" alt="" border="0"/></a></div>
+</div>
+  </div>
+  <div><img src="http://www.northeastokfc.com/images/2013/adminLinks.gif" width="185" height="30" border="0"/></div>
+  <div class="design-leftContent-bottom">
+    <div id="design-adminLinks">
+<div class="indexDIVSubDept-OuterBox">
+<div class="indexDIVSubDept-InnerBox">
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/Administrative/ContactUs/index_E.html" target="_top">Contact Us</a></div>
+   <div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" ><a href="http://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+L3/+E+118+798123" target="_top">Manager Portal</a></div>
+</div>
+</div>
+    </div>
+  </div>
+</td>
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="10" height="1" border="0"/></td>
+<td class="design-middleColumn">
+  <div id="design-tabsTop"><script type="text/javascript" charset="utf-8">
+  document.observe('dom:loaded', function() {
+    $j("#tabContent1").tabs({selected: 0}).show();
+    $j("#tabContent1-loading").hide();
+  });
+  function tab_change1(id) {
+    $j('.tabHeader1').removeClass('tabHeader1On').addClass('tabHeader1Off');
+    $j(id).addClass('tabHeader1On').removeClass('tabHeader1Off');
+    $j(id + '-link').click();
+  }
+</script>
+<style type="text/css" media="screen">
+  #tabContent1, #tabContent1 div.ui-widget-content {
+    border: none;
+    margin: 0;
+    padding: 0;
+  }
+  #tabContent1-1, #tabContent1-2 {
+    margin: 0;
+    padding: 0;
+  }
+  #tabContent1 {
+    clear: both;
+  }
+.tabFrame1 {width: 376px; height: 185px;}
+.tabHeader1Off {float: left; display: block; height: 30px; background: url(/images/2013/tabOff.gif) repeat-x; cursor: pointer;}
+.tabHeader1Off a:link {color: #fff; text-decoration: none;}
+.tabHeader1Off a:active {color: #fff; text-decoration: none;}
+.tabHeader1Off a:hover {color: #fff; text-decoration: none;}
+.tabHeader1Off a:visited {color: #fff; text-decoration: none;}
+.tabHeader1On {float: left; display: block; height: 30px; background: url(/images/2013/tabOn.gif) repeat-x; cursor: pointer;}
+.tabHeader1On a:link {color: #fff; text-decoration: none;}
+.tabHeader1On a:active {color: #fff; text-decoration: none;}
+.tabHeader1On a:hover {color: #fff; text-decoration: none;}
+.tabHeader1On a:visited {color: #fff; text-decoration: none;}
+.tabContent1 {width: 376px; height: 158px; border-radius: 0; background: none; overflow-y: auto;}
+#upcomingEvents {width: 190px; height: 30px;}
+#headlines {width: 186px; height: 30px;}
+</style>
+<!-- TABS START -->
+<div class="tabFrame1">
+  <div id="upcomingEvents" class="tabHeader1 tabHeader1On" onclick="tab_change1('#upcomingEvents');"><img src="http://www.northeastokfc.com/images/2013/upcomingEvents.png" width="190" height="30" border="0"/></div>
+  <div id="headlines" class="tabHeader1 tabHeader1Off" onclick="tab_change1('#headlines');"><img src="http://www.northeastokfc.com/images/2013/headlines.png" width="186" height="30" border="0"/></div>
+  <div class="tabContent1" id="tabContent1" style="display:none">
+    <ul id="tabContent-tabs1" style="display: none;">
+      <li><a id="upcomingEvents-link" href="#tabContent1-1"><img src="http://www.northeastokfc.com/images/2013/upcomingEvents.png" width="190" height="30" border="0"/></a></li>
+      <li><a id="headlines-link" href="#tabContent1-2"><img src="http://www.northeastokfc.com/images/2013/headlines.png" width="186" height="30" border="0"/></a></li>
+    </ul>
+<!-- TAB CONTENT START -->
+    <div id="tabContent1-1">
+<div class="indexDIVCalendar-OuterBox">
+<div class="indexDIVCalendar-InnerBox">
+<div class="textsmall indexDIVCalendar-Empty">No Events found within<br/>next 60 days.</div>
+</div>
+</div>
+</div>
+    <div id="tabContent1-2">
+</div>
+<!-- TAB CONTENT END -->
+  </div>
+  <div class="tabContent1" id="tabContent1-loading">
+    <div style="text-align: center; width: 100%; height: 185px;">
+      <img src="http://www.northeastokfc.com/common/images/ajax-loader-ball.gif" style="position: relative; top: 35%;"/>
+    </div>
+  </div>
+</div>
+<!-- END of TABS -->
+</div>
+  <div><img src="http://www.northeastokfc.com/images/2013/neofcTv.gif" width="376" height="30" border="0"/></div>
+  <div class="design-middleContent">
+    <div id="design-video">
+<div><iframe allowfullscreen="" frameborder="373" height="214" src="http://www.youtube.com/embed/videoseries?list=PLeaDF1ysleE4dq4dP8qMBzZ-wRqrzhDxq" width="376"></iframe></div>
+    </div>
+  </div>
+</td>
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="10" height="1" border="0"/></td>
+<td class="design-rightColumn">
+  <div id="design-ads">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize764571 {width: 367px; height: 188px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_764571', { effect_duration: 0.5, loop_duration: 4000, jobid: '73966' });
+  });
+</script>
+<div id="module_fade_764571" class="imageContainer imageContainerSize764571" subdept="764571">
+  <div class="imageContainerDIV imageContainerSize764571" style="display:none"><a href="http://www.northeastokfc.com"  ><img src="http://www.northeastokfc.com/imgs/home/LeadingLocalFutbalRightSideAd.jpg" width="370" height="180" alt="" border="0"/></a></div>
+</div>
+  </div>
+  <div id="design-tabsbottom"><script type="text/javascript" charset="utf-8">
+  document.observe('dom:loaded', function() {
+    $j("#tabContent2").tabs({selected: 0}).show();
+    $j("#tabContent2-loading").hide();
+  });
+  function tab_change2(id) {
+    $j('.tabHeader2').removeClass('tabHeader2On').addClass('tabHeader2Off');
+    $j(id).addClass('tabHeader2On').removeClass('tabHeader2Off');
+    $j(id + '-link').click();
+  }
+</script>
+<style type="text/css" media="screen">
+  #tabContent2, #tabContent2 div.ui-widget-content {
+    border: none;
+    margin: 0;
+    padding: 0;
+  }
+  #tabContent2-1, #tabContent2-2, #tabContent2-3 {
+    margin: 0;
+    padding: 0;
+  }
+  #tabContent2 {
+    clear: both;
+  }
+.tabFrame2 {width: 367px; height: 226px;}
+.tabHeader2Off {float: left; display: block; height: 30px; background: url(/images/2013/tabOff.gif) repeat-x; cursor: pointer;}
+.tabHeader2Off a:link {color: #fff; text-decoration: none;}
+.tabHeader2Off a:active {color: #fff; text-decoration: none;}
+.tabHeader2Off a:hover {color: #fff; text-decoration: none;}
+.tabHeader2Off a:visited {color: #fff; text-decoration: none;}
+.tabHeader2On {float: left; display: block; height: 30px; background: url(/images/2013/tabOn.gif) repeat-x; cursor: pointer;}
+.tabHeader2On a:link {color: #fff; text-decoration: none;}
+.tabHeader2On a:active {color: #fff; text-decoration: none;}
+.tabHeader2On a:hover {color: #fff; text-decoration: none;}
+.tabHeader2On a:visited {color: #fff; text-decoration: none;}
+.tabContent2 {width: 367px; height: 226px; border-radius: 0; background: none;}
+#fieldStatus {width: 117px; height: 30px;}
+#recentResults {width: 134px; height: 30px;}
+#latestTweets {width: 116px; height: 30px;}
+</style>
+<!-- TABS START -->
+<div class="tabFrame2">
+  <div id="fieldStatus" class="tabHeader2 tabHeader2On" onclick="tab_change2('#fieldStatus');"><img src="http://www.northeastokfc.com/images/2013/fieldStatus.png" width="117" height="30" border="0"/></div>
+  <div id="recentResults" class="tabHeader2 tabHeader2Off" onclick="tab_change2('#recentResults');"><img src="http://www.northeastokfc.com/images/2013/recentResults.png" width="134" height="30" border="0"/></div>
+  <div id="latestTweets" class="tabHeader2 tabHeader2Off" onclick="tab_change2('#latestTweets');"><img src="http://www.northeastokfc.com/images/2013/latestTweets.png" width="115" height="30" border="0"/></div>
+  <div class="tabContent2" id="tabContent2" style="display:none">
+    <ul id="tabContent-tabs2" style="display: none;">
+      <li><a id="fieldStatus-link" href="#tabContent2-1"><img src="http://www.northeastokfc.com/images/2013/fieldStatus.png" width="117" height="30" border="0"/></a></li>
+      <li><a id="recentResults-link" href="#tabContent2-2"><img src="http://www.northeastokfc.com/images/2013/recentResults.png" width="134" height="30" border="0"/></a></li>
+      <li><a id="latestTweets-link" href="#tabContent2-3"><img src="http://www.northeastokfc.com/images/2013/latestTweets.png" width="115" height="30" border="0"/></a></li><li><a id="headlines-link" href="#tabContent2-2"><img src="http://www.northeastokfc.com/images/2013/headlines.png" width="186" height="30" border="0"/></a></li>
+    </ul>
+<!-- TAB CONTENT START -->
+    <div id="tabContent2-1">
+      <div style="padding: 5px 10px;">
+ <div id="dii-18235-status-widget">
+  <style type="text/css">
+div#dii-18235-status-widget table tr td { padding: 0; }
+div#dii-18235-status-widget table#tbl-18235-status-1 { width: 347px; border: 0; }
+div#dii-18235-status-widget div.FieldStatusEditOuter {padding-left: 16px;}
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG { width: 50px; border: 1px solid #80CD80; background-color: #CCFFCC; padding: 2px; text-align: center; font-size: 10px; font-weight: bold; color: #85CB85; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:link    { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:visited { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:active  { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:hover   { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR { width: 50px; border: 1px solid #CD8080; background-color: #FFC3C3; padding: 2px; text-align: center; font-size: 10px; font-weight: bold; color: #CB8585; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:link    { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:visited { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:active  { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:hover   { color: #C00000; }
+div#dii-18235-status-widget table.tbl-18235-status { width: 100%; border: 0; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr { vertical-align: top; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td img { display: block; } /* very important for HTML5 */
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td img.edge-image { border: 0; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td.cell-2 { width: 100%; text-align: center; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td img.edge-image { width: 15px; height: 44px; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td.FieldStatusTitle { background-image: url(/common/images/FieldStatus/Green/FS-Green-2.png); padding-top: 13px; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td.FieldStatusTitle img { margin: auto; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td img.edge-image { width: 4px; height: 44px; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-1 { background-image: url(/common/images/FieldStatus/Green/FS-Green-4.png); }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-3 { background-image: url(/common/images/FieldStatus/Green/FS-Green-6.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td img.edge-image { width: 15px; height: 15px; }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-1 { background-image: url(/common/images/FieldStatus/Green/FS-Green-7.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-2 { background-image: url(/common/images/FieldStatus/Green/FS-Green-8.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-3 { background-image: url(/common/images/FieldStatus/Green/FS-Green-9.png); }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 {background-image: url(/common/images/FieldStatus/Green/FS-Green-5.gif); background-repeat: repeat-x; background-color: #4AAD46; padding-top: 8px; text-align: center; text-transform: uppercase; font-size: 14px; font-weight: bold; color: #fff;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:link    {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:visited {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:active  {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:hover   {color: #fff; text-decoration: underline;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.FieldStatusContent-Green-Short {background-image: url(/common/images/FieldStatus/Green/FS-Green-5.gif); background-repeat: repeat-x; background-color: #4AAD46; padding: 4px; padding-left: 6px; padding-top: 2px;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div.FieldStatusTimestamp {padding-top: 4px; text-transform: none; text-align: center; font-size: 10px; font-weight: normal; color: #fff;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div.field-status-directions {padding-top: 4px; text-transform: none; text-align: center; font-size: 10px; font-weight: normal; color: #fff;}
+div.FieldStatusShort {color: #fff; text-transform: none;}
+div.FieldStatusShort div.hdr {font-size: 13px; font-weight: bold; text-transform: upper-case;}
+div.FieldStatusShort ul {margin: 0 0 0 20px; padding:  0 0 0 4px; font-size: 10px; font-weight: bold; color: #125cb8; text-align: left;}
+div.FieldStatusShort ul li {margin: 0; padding:  2px 6px 2px 0;}
+div.FieldStatusShort ul li span.nm {color: #fff;}
+div.FieldStatusShort ul li span.note {color: #125cb8; padding-left: 1em;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup { background-image: none; padding-top: 8px; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup a:link {color: #fff; font-size: 11px; text-decoration: none; font-weight: bold;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup a:hover {text-decoration: underline;}
+</style>
+<table id="tbl-18235-status-1" cellspacing="0">
+<tbody>
+<tr>
+  <td>
+    <table id="tbl-18235-status-2" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.northeastokfc.com/common/images/FieldStatus/Green/FS-Green-1.png" class="edge-image"/></td>
+      <td class="cell-2 FieldStatusTitle">
+         <img src="http://www.northeastokfc.com/common/images/FieldStatus/Green/FS-Green-STATUS.png" width="133" height="26" border="0"/>
+      </td>
+      <td class="cell-3"><img src="http://www.northeastokfc.com/common/images/FieldStatus/Green/FS-Green-3.png" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+    <table id="tbl-18235-status-3" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.northeastokfc.com/common/images/1x1.gif" class="edge-image"/></td>
+      <td class="cell-2 FieldStatusContent-Green">
+ <div>all fields</div><div>are open</div>
+    <div class="FieldStatusTimestamp"> As of 2:09 pm CDT, Mon Mar 23  </div>
+  <a href="http://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+Elements/Display+E+18235+Status/Closures/" style="display: block; margin: 4px 8px 0; padding: 2px 8px; text-align: center; font-size: 10px; ">View All Field Locations</a>
+ <div id="text-alerts-signup"> <a href="http://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+Elements/Display+E+18235+Texts/"> Sign up for<br> Text Message Alerts! </a> </div>
+ <div class="field-status-directions"> <a href="http://www.northeastokfc.com/scripts/runisa.dll?M2:gp::73966+Elements/Display+E+18235">Get Directions to Fields</a> </div>
+      </td>
+      <td class="cell-3"><img src="http://www.northeastokfc.com/common/images/1x1.gif" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+    <table id="tbl-18235-status-4" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.northeastokfc.com/common/images/FieldStatus/Green/FS-Green-7.png" class="edge-image"/></td>
+      <td class="cell-2"><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="1" height="15" border="0"/></td>
+      <td class="cell-3"><img src="http://www.northeastokfc.com/common/images/FieldStatus/Green/FS-Green-9.png" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+    </div>
+    <div id="tabContent2-2">
+      <div style="margin: 0 5px;">
+      </div>
+    </div>
+    <div id="tabContent2-3">
+      <div style="height: 215px; overflow: hidden; padding: 0; background: #fff;">
+  <div id="tweets"> <a class="twitter-timeline" width="366" height="215" href="https://twitter.com/neofcsoccer"
+  data-widget-id="464053545591783424" data-theme="light" data-link-color="#ac0f1f"
+>Tweets by @neofcsoccer</a>
+<script>
+!function(d,s,id){
+  var js, fjs=d.getElementsByTagName(s)[0], p=/^http:/.test(d.location)?'http':'https';
+  if(!d.getElementById(id)){
+    js=d.createElement(s); js.id=id; js.src=p+"://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js,fjs);
+  }
+}(document,"script","twitter-wjs");
+</script>
+ </div>
+      </div>
+    </div>
+<!-- TAB CONTENT END -->
+  </div>
+  <div class="tabContent2" id="tabContent2-loading">
+    <div style="text-align: center; width: 100%; height: 185px;">
+      <img src="http://www.northeastokfc.com/common/images/ajax-loader-ball.gif" style="position: relative; top: 35%;"/>
+    </div>
+  </div>
+</div>
+<!-- END of TABS -->
+</div>
+</td>
+<td><img src="http://www.northeastokfc.com/common/images/1x1.gif" width="29" height="1" border="0"/></td>
+</tr>
+</table>
+<div style="padding: 10px 30px;">
+</div>
+</div>
+<div id="design-footer">
+  <div id="design-footer-left">
+    <div id="design-copyright">&copy; 2015
+ Northeast Oklahoma Futball Club. All rights reserved.</div>
+    <div id="design-copyrightDII">&copy; 2015
+ <a href="http://www.demosphere.com" target="new">Demosphere International, Inc.</a> All rights reserved.</div>
+  </div>
+  <div id="design-footer-right"><a href="http://www.demosphere.com"><img src="http://www.northeastokfc.com/images/2013/footerRight.png" width="230" height="60" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems"/></a></div>
+</div>
+<br/><br/>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIImageModule;Date;JQuery;JQueryCycle;JQueryScrollTo;DesignMM;MobileNoGames;DIIFader;Mustache;</div>
+ <script src="http://www.northeastokfc.com/common/js/jquery.mustache-0.3.1/jquery.mustache.js" type="text/javascript"></script>
+ <script src="http://www.northeastokfc.com/common/js/dii_fader/dii_fader-0.3.2.js" language="JavaScript" type="text/javascript"></script>
+</body>
+</html>

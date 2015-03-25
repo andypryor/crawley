@@ -1,0 +1,615 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>Canadian Valley Futbol Club</title>
+	<link rel="stylesheet" type="text/css" href="css/cvfc_style2.css">
+	<link rel="stylesheet" href="../jqwidgets/styles/jqx.base.css" type="text/css" />    
+	<link rel="stylesheet" href="../jqwidgets/styles/jqx.cvfc.css" type="text/css" />    
+	<script type="text/javascript" src="../scripts/jquery-1.11.1.min.js"></script>    
+	<script type="text/javascript" src="../scripts/demos.js"></script>    
+	<script type="text/javascript" src="../jqwidgets/jqxcore.js"></script>    
+	<script type="text/javascript" src="../jqwidgets/jqxmenu.js"></script>    
+	<script type="text/javascript" src="../jqwidgets/jqxcheckbox.js"></script>
+    <script type="text/javascript" src="../../jqwidgets/jqxscrollview.js"></script>    
+    <script type="text/javascript" src="../../jqwidgets/jqxbuttons.js"></script>    
+    <script type="text/javascript">
+        $(function () {
+            $('#photoGallery').jqxScrollView({ width: 648, height: 355, buttonsOffset: [0, 0] });
+            $('#photoGallery').jqxScrollView({ slideShow: true, slideDuration: 15000, animationDuration: 500 });
+        });
+    </script>    
+    <style type="text/css">        
+	    .photo        {            
+		    width: 648px;           
+		    height: 355px;            
+		    background-color: #FFFFFF;            
+		    background-position: center;            
+		    background-repeat: no-repeat;  
+	    }    
+    </style>
+</head>
+
+
+<script type="text/javascript">
+      
+/***********************************************
+ Save* Ultimate Fade-In Slideshow (v1.51): ? Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+//fadeimages[0]=["sponsors/sponsors_isa.jpg", "http://www.letsplaysoccer.com/main/locations/oklahoma-north/", ""] //plain image syntax
+//fadeimages[1]=["ads/sponsors_skillzys.jpg", "http://www.skillzys.com/", "_new"] //plain image syntax
+//fadeimages[2]=["ads/sponsors_stacys.jpg", "http://www.stacyscustomstripes.com/", "_new"] //plain image syntax
+//fadeimages[3]=["ads/ad_advocacy.jpg", "mailto:advocacy2@coxinet.net?subject=YSC Website", ""] //plain image syntax
+//fadeimages[4]=["ads/ad_smlandscaping.jpg", "mailto:smlandscaping1@sbcglobal.net?subject=YSC Website", ""] //plain image syntax
+//fadeimages[3]=["ads/ad_allie.jpg", "http://www.allieoverton.com", "_new"] //plain image syntax
+//fadeimages[4]=["ads/ad_cchok.jpg", "http://www.cchok.com", "_new"] //plain image syntax
+//fadeimages[6]=["ads/ad_familythreadz.jpg", "http://www.familythreadz.com", "_new"] //plain image syntax
+fadeimages[5]=["ads/ad_support.jpg", "mailto:support@yukonsoccer.net", ""] //plain image syntax
+
+var fadeimages2=new Array() //2nd array set example. Remove or add more sets as needed.
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages2[0]=["sponsors/sponsor2_amfence.jpg", "http://www.americanfenceok.com/", "_new"] //plain image syntax
+fadeimages2[1]=["sponsors/sponsor2_dicks.jpg", "http://www.dickssportinggoods.com", "_new"] //plain image syntax
+//fadeimages2[2]=["sponsors/sponsors_skillzys.gif", "http://www.skillzys.com/", "_new"] //plain image syntax
+//fadeimages2[3]=["photos/photo_11.jpg", "", ""] //plain image syntax
+//fadeimages2[4]=["photos/photo_3.jpg", "", ""] //plain image syntax
+//fadeimages2[5]=["photos/photo_12.jpg", "", ""] //plain image syntax
+//fadeimages2[6]=["photos/photo_4.jpg", "", ""] //plain image synta
+//fadeimages2[7]=["photos/photo_17.jpg", "", ""] //plain image syntax
+//fadeimages2[8]=["photos/photo_5.jpg", "", ""] //plain image syntax
+//fadeimages2[9]=["photos/photo_13.jpg", "", ""] //plain image syntax
+//fadeimages2[10]=["photos/photo_6.jpg", "", ""] //plain image syntax
+//fadeimages2[11]=["photos/photo_7.jpg", "", ""] //plain image syntax
+//fadeimages2[12]=["photos/photo_14.jpg", "", ""] //plain image syntax
+//fadeimages2[13]=["photos/photo_8.jpg", "", ""] //plain image syntax
+//fadeimages2[14]=["photos/photo_15.jpg", "", ""] //plain image syntax
+//fadeimages2[15]=["photos/photo_9.jpg", "", ""] //plain image syntax//fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+//fadeimages2[16]=["photos/photo_1.jpg", "", ""] //plain image syntax//fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+//fadeimages2[1]=["photo2.jpg", "http://www.cssdrive.com", ""] //image with link syntax
+//fadeimages2[2]=["photo3.jpg", "http://www.javascriptkit.com", "_new"] //image with link and target syntax
+ 
+var fadebgcolor="black"
+
+////NO need to edit beyond here/////////////
+ 
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+ 
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+
+</script>
+
+<body class="bg">
+<div class="page-wrapper">
+<div class="topwrapper">
+		<div class="header">
+		<a href="http://www.canadianvalleyfc.com"><img src="/images/spacer.gif" alt="Canadian Valley Futbol Club" class="logo" /></a>
+		<div class="social">
+			<div><a class="social1" href="http://www.facebook.com/CanadianValleyFC" target="_blank"></a></div>
+			<div><a class="social2" href="http://twitter.com/CVFC" target="_blank"></a></div>
+		</div>
+		<div class="nav">
+							<script type="text/javascript">            
+					$(document).ready(function () {                
+					// Create a jqxMenu                
+					$("#jqxMenu").jqxMenu({ width: '750', height: '30px',theme:'CVFC'});                
+					$("#jqxMenu").css('visibility', 'visible');                
+					$("#disabled").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#open").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#hover").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#topLevelArrows").jqxCheckBox({  width: '200px', height: '20px' });                
+					$("#animation").jqxCheckBox({  width: '150px', height: '20px' });                
+					$("#animation").on('change', function (event) {                    
+						var value = event.args.checked;                    
+						// enable or disable the menu's animation.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ animationShowDuration: 0, animationHideDuration: 0, animationShowDelay: 0 });   
+						}                   
+						else {                        
+							$("#jqxMenu").jqxMenu({ animationShowDuration: 300, animationHideDuration: 200, animationShowDelay: 200 });
+						}                
+					});                
+					$("#disabled").on('change', function (event) {  
+						var value = event.args.checked;                  
+						// enable or disable the menu                    
+						if (!value) {
+							$("#jqxMenu").jqxMenu({ disabled: false });                    
+						}                    
+						else {                       
+							$("#jqxMenu").jqxMenu({ disabled: true });    
+						}                
+					});                
+					$("#hover").on('change', function (event) {      
+						var value = event.args.checked;                    
+						// enable or disable the menu's hover effect.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ enableHover: false });               
+						}                    
+						else {     
+							$("#jqxMenu").jqxMenu({ enableHover: true });     
+						}
+					});                
+					$("#open").on('change', function (event) { 
+						var value = event.args.checked;                    
+						// enable or disable the opening of the top level menu items when the user hovers them.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ autoOpen: false });                    
+						}                    
+						else {                        
+							$("#jqxMenu").jqxMenu({ autoOpen: true });                    
+						}                
+					});                
+					$("#topLevelArrows").on('change', function (event) {                    
+						var value = event.args.checked;                    
+						// enable or disable the opening of the top level menu items when the user hovers them.                    
+						if (!value) {                        
+							$("#jqxMenu").jqxMenu({ showTopLevelArrows: false });                    
+						}                    
+						else {                        
+							$("#jqxMenu").jqxMenu({ showTopLevelArrows: true });                    
+						}                
+					});            
+				});        
+			</script>        
+			<div id='jqxWidget' style='height: 300px;'>            
+				<div id='jqxMenu' style='visibility: hidden; margin-left: 5px;'>                
+					<ul>                    
+						<li><a href="default.asp">Home</a></li>                    
+						<li>About                       
+							 <ul style='width: 250px;'>                            
+								<li><a href="cvfc2_about.asp">About CVFC</a></li>                            
+								<li><a href="cvfc2_boardstaff.asp">Board & Staff</a></li>                            
+								<li><a href="cvfc2_policies.asp">Policies & By-Laws</a></li>                            
+								<li><a href="calendar2.asp">Calendar</a></li>                            
+								<li type='separator'></li>                           
+                                <li><a href="http://www.soccer.com/teamGateway.php?club_id=14443066&spiritwear=1" target="_blank">Shop Fan Gear</a></li> 
+								<li><a href="cvfc2_contact.asp">Contact Us</a></li>                    
+							</ul>                    
+						</li>                    
+						<li>Competitive                        
+							<ul style='width: 200px;'>                           
+								 <li><a href="cvfc2_comp_about.asp">About Competitive</a></li>                            
+								 <li><a href="cvfc2_comp_teams.asp">Teams</a></li>                            
+								 <li><a href="cvfc2_comp_tryouts.asp">Tryouts</a></li>                            
+								 <li><a href="cvfc2_comp_fees.asp">Fees</a></li>                            
+								 <li><a href="cvfc2_comp_schedules.asp">Schedules</a></li>                            
+								 <li><a href="cvfc2_comp_forms.asp">Forms & Links</a></li>                            
+								 <li><a href="cvfc2_comp_resources.asp">College Recruitment Resources</a></li>   
+								 <!--								 <li><a href="cvfc2_comp_accomplishments.asp">Accomplishments</a></li>                       -->     
+							</ul>                    
+						</li>                   
+						<li>Academy                        
+							<ul style='width: 200px;'>                           
+								 <li><a href="cvfc2_academy_about.asp">About Academy</a></li>                            
+								 <li><a href="cvfc2_academy_teams.asp">Teams</a></li>                            
+								 <li><a href="cvfc2_academy_evaluations.asp">Evaluations</a></li>                            
+								 <li><a href="cvfc2_academy_fees.asp">Fees</a></li>                            
+								 <li><a href="cvfc2_academy_schedules.asp">Schedules</a></li>                            
+								 <li><a href="cvfc2_academy_forms.asp">Forms & Links</a></li>                            
+								<!-- <li><a href="cvfc2_academy_accomplishments.asp">Accomplishments</a></li>                            -->
+							</ul>                    
+						</li>                   
+						<li>Recreational                        
+							<ul style='width: 300px;'>                            
+								<li><a href="http://www.mysasoccer.org" target="_blank">Mustang Youth Soccer Association</a></li>                           
+								<li><a href="http://www.yukonsoccer.net" target="_blank">Yukon Soccer Club</a></li>                            
+							</ul>                    
+						</li>  
+                        <li><a href="cvfc2_coaches.asp">Coaches</a></li>                  
+						<li><a href="cvfc2_payments.asp">Payments</a></li>               
+						<li><a href="cvfc2_programs.asp">Programs</a></li>
+						<li><a href="http://www.canadianvalleyfc.com/cvfcadmin.asp">Login</a></li>                        
+					</ul>            
+				</div>	
+			</div>
+
+
+		</div>
+		<div class="clear"></div>
+	</div>
+
+    <div class="page-middle">
+	    <div class="leftcolumn">
+		    <div class="insidecolumn">
+                <div class="slideshow">
+	                <div id="photoGallery">     
+						<div>
+							<div class="photo" style="background-image: url(images/mainpics/compmtg.jpg)">
+								<div class="message">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td align="center" valign="top" class="slidemessage_title_3">
+												 <a href="http://www.canadianvalleyfc.com/news2.asp?id=8">
+													CVFC Soccer School Registration Open
+												</a>												
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top" class="slidemessage_subtitle_bigsmall">
+												<a href="http://www.canadianvalleyfc.com/news2.asp?id=8">
+													Starts 3/22 & 3/25 for U5-U10 YSC, MYSA, and CVFC Players!  
+												</a>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</div>						
+						</div>   
+						<div>
+							<div class="photo" style="background-image: url(images/mainpics/keepertraining.jpg)">
+								<div class="message">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td align="center" valign="top" class="slidemessage_title_3">
+												 <a href="http://www.canadianvalleyfc.com/news2.asp?id=9">
+													CVFC Spring 2015 Keeper Training Schedule
+												</a>												
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top" class="slidemessage_subtitle_bigsmall">
+												<a href="http://www.canadianvalleyfc.com/news2.asp?id=9">
+													Competitive and Academy Players
+												</a>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</div>						
+						</div>   						
+						<div>
+							<div class="photo" style="background-image: url(images/mainpics/academyreg.jpg)">
+								<div class="message">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td align="center" valign="top" class="slidemessage_title_bigsmall">
+												 <a href="https://www.gotsport.com/asp/application/easyreg/Default.asp?ProgramID=30155">
+													U7-U10 Boys & Girls
+												</a>												
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top" class="slidemessage_subtitle_bigsmall">
+												<a href="https://www.gotsport.com/asp/application/easyreg/Default.asp?ProgramID=30155">
+													Register now to joing the CVFC Academy League for Spring 2015 season!
+												</a>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</div>
+  					    </div>        
+			            <div>
+							<div class="photo" style="background-image: url(images/mainpics/fangear.jpg)">
+								<div class="message">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td align="center" valign="top" class="slidemessage_title_medmed">	
+												<a href="http://www.soccer.com/teamGateway.php?club_id=14443066&spiritwear=1" target="_blank">
+													Order your CVFC Fan Gear
+												</a>
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top" class="slidemessage_subtitle_medmed">				
+												<a href="http://www.soccer.com/teamGateway.php?club_id=14443066&spiritwear=1" target="_blank">
+													Large selection and will ship directly to you
+												</a>
+											</td>
+										</tr>
+									</table>
+								</div>								
+							</div>
+						</div>        
+			            <div>
+							<div class="photo" style="background-image: url(images/mainpics/littlekickers.jpg)">
+								<div class="message">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td align="center" valign="top" class="slidemessage_title_3">	
+												
+													Ankle Biters Crew and Goal Scoring Leagues
+												
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top" class="slidemessage_subtitle_3">				
+												
+													Registration now closed.
+												
+											</td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>        
+		            </div>
+                </div>
+		        <div class="spacer"></div>            
+                <div class="news">
+				    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tr><td align="left" valign="top" height="2px"></td></tr>
+					    <tr><td align="left" valign="middle" class="title">Latest News & Announcements</tr>
+					    
+						    <tr><td align="left" valign="top" class="newsheadern"><a href="news2.asp?id=3">CVFC GEAR</a><br><span class="NewsDate"></span></td></tr>
+						    <tr><td align="left" valign="top" class="newsdetail">Order CVFC t-shirts, sweatshirts, hoodies, tank tops, jackets, etc anytime and have shipped directly to you.   You can also order soccer balls, goal, and other gear at a discounted price.</td></tr>
+						    <tr><td align="right" valign="middle" class="newsdividerline"><a href="news2.asp?id=3">Read More</a></td></tr>
+						    
+						    <tr><td align="left" valign="top" class="newsheadern"><a href="news2.asp?id=4">ACADEMY SPRING REGISTRATION</a><br><span class="NewsDate"></span></td></tr>
+						    <tr><td align="left" valign="top" class="newsdetail">U7-U10 boys and girls can register now for the Spring 2015 CVFC Academy program and begin training.</td></tr>
+						    <tr><td align="right" valign="middle" class="newsdividerline"><a href="news2.asp?id=4">Read More</a></td></tr>
+						    
+						    <tr><td align="left" valign="top" class="newsheadern"><a href="news2.asp?id=8">SOCCER SCHOOL REGISTRATION OPEN</a><br><span class="NewsDate"></span></td></tr>
+						    <tr><td align="left" valign="top" class="newsdetail">The CVFC Soccer school is for u5-U10 YSC, MYSA, and CVFC players.  </td></tr>
+						    <tr><td align="right" valign="middle" class="newsdividerline"><a href="news2.asp?id=8">Read More</a></td></tr>
+						    
+						    <tr><td align="left" valign="top" class="newsheadern"><a href="news2.asp?id=9">SPRING KEEPER TRAINING SCHEDULE</a><br><span class="NewsDate"></span></td></tr>
+						    <tr><td align="left" valign="top" class="newsdetail">The Spring 2015 Academy and Competitive Keeper training schedule has been released.  Click for more information.</td></tr>
+						    <tr><td align="right" valign="middle" class="newsdividerline"><a href="news2.asp?id=9">Read More</a></td></tr>
+						    
+						    <tr><td align="left" valign="top" class="newsheadern"><a href="news2.asp?id=10">ABC & GSL SCHEDULE</a><br><span class="NewsDate"></span></td></tr>
+						    <tr><td align="left" valign="top" class="newsdetail">ABC (18 month-2 years) & GSL (3-4 years) information and schedule can be found by clicking here for more information.</td></tr>
+						    <tr><td align="right" valign="middle" class="newsdividerline"><a href="news2.asp?id=10">Read More</a></td></tr>
+						    		
+					    <tr><td align="center" valign="top" class="footer"><a href="news_history.asp">View All News</a></td></tr>											
+				    </table>
+			    </div>
+		        <div class="spacerbig"></div>            
+			    <div class="weather">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td align="left" valign="top" width="100%">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-image:url(images/contactbg.jpg);"> 
+									<tr>
+										<td align="center" valign="top" style="height:228px;border:1px solid #DDDDDD;">
+											<table border="0" cellpadding="0" cellspacing="0">
+												<tr><td align="center" valign="top" style="padding-top:20px;font-weight:bold;">Contact Us</td></tr>
+												<tr><td align="center" valign="top">Email:</td></tr>
+												<tr><td align="center" valign="top"><a href="mailto:questions@canadianvalleyfc.com">questions@canadianvalleyfc.com</a><br></td></tr>											<tr><td align="center" valign="top">Email:</td></tr>
+												<tr><td align="center" valign="top">PO Box 850231</td></tr>
+												<tr><td align="center" valign="top">Yukon, OK</td></tr>
+												<tr><td align="center" valign="top" style="padding-top:10px;"><a href="http://www.canadianvalleyfc.com/cvfc2_boardstaff.asp">CVFC Board & Staff</a></td></tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td algin="left" valign="top" style="height:22px;" bgcolor="#FFFFFF">&nbsp;</td>
+									</tr>	
+								</table>
+							</td>
+							<td align="left" valign="top" width="5px">&nbsp;</td>
+							<td align="left" valign="top">
+								<!-Weather in Yukon, United States on your site - HTML code - weatherforecastmap.com --><div align="center"><script src="http://www.weatherforecastmap.com/weather2F.php?zona=united-states_yukon"></script><a title="Yukon Forecast" href="http://www.weatherforecastmap.com/united_states/yukon" >Yukon Forecast</a></div><!-end of code-->
+							</td>
+							<td align="left" valign="top">&nbsp;</td>
+							<td align="left" valign="top">
+								<!-Weather in Mustang, United States on your site - HTML code - weatherforecastmap.com --><div align="center"><script src="http://www.weatherforecastmap.com/weather2F.php?zona=united-states_mustang"></script><a title="Mustang Forecast" href="http://www.weatherforecastmap.com/united_states/mustang" >Mustang Forecast</a></div><!-end of code-->
+							</td>
+						</tr>
+					</table>
+			    </div>
+		    </div>
+	    </div>
+        <div class="rightcolumn">
+		    <div class="insidecolumn">					
+			    <div class="events">
+				    <table border="0" cellpadding="0" cellspacing="0">
+					    <tr><td class="title" colspan="2">Events</td></tr>
+					    
+						    <tr>
+							    <td align="center" valign="top" rowspan="3" width="50px" style="padding-top:5px;border-bottom: 1px dotted;border-color:#000000;padding-bottom:5px">
+
+								    <span style="font-size:12px;color:#333333;">Mar</span><br>
+								    <span style="font-size:30px;">25</span>
+
+							    </td>
+							    <td align="left" valign="top" style="padding-top:5px;" class="eventlineheader">
+								    <a href="events2.asp?id=10" title="U7-U10 YSC, MYSA, and CVFC Players">Soccer School Mustang Session Begins</a>
+							    </td>
+						    </tr>
+                            <tr><td align="left" valign="top" class="location">Mustang Wildhorse Park</td></tr>
+						    <tr><td align="left" valign="top" style="border-bottom: 1px dotted;border-color:#000000;padding-bottom:5px">6:00 PM</td></tr>
+						    		
+					    <tr><td align="center" valign="top" colspan="2" class="footer"><a href="calendar2.asp">View All Events</a></td></tr>																	
+				    </table>
+			    </div>
+				<div class="spacer"></div>
+			    <div class="fieldstatus">
+				    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+					    <tr><td class="title" colspan="2">Field Status</td></tr>
+					    
+						    <tr><td align="left" valign="top" colspan="2" class="fieldupdate"><i>Last Updated:&nbsp;&nbsp;3/23/2015 9:42:53 AM</i></td></tr>
+					    
+						    <tr>
+							    <td height="20" valign="bottom" align="left"  class="field">Mustang Wildhorse Park</td>
+							    <td align="right" valign="top " class="field">
+									
+									    <img src="images/venue-status-green.png" />&nbsp;<span style="color:green;">OPEN</span>
+								    
+							    </td>
+						    </tr>
+						    
+						    <tr>
+							    <td height="20" valign="bottom" align="left"  class="field">Yukon Taylor Park</td>
+							    <td align="right" valign="top " class="field">
+									
+									    <img src="images/venue-status-green.png" />&nbsp;<span style="color:green;">OPEN</span>
+								    
+							    </td>
+						    </tr>
+						    
+					    <tr><td align="center" valign="top" colspan="3" class="footer" style="padding-top:25px;"><a href="fields2.asp">Field Directions & Maps</a></td></tr>
+				    </table>
+			    </div>
+			    <div class="spacer"></div>
+   	            <div class="sponsorshow">        
+				    <script type="text/javascript">
+				        //new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+				        new fadeshow(fadeimages2, 276, 168, 0, 5000, "R")
+				    </script>
+   	            </div>
+				<div class="spacer"></div>
+			    <div class="twitterfeed">
+					<a class="twitter-timeline"  href="https://twitter.com/CVFC" data-widget-id="529990366347272193">Tweets by @CVFC</a>
+					<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>          
+			    </div>
+				<div class="spacer"></div>
+				<div class="affiliates">
+					<a href="www.yukonsoccer.net" target="_blank"><img src="images/logo_ysc.png" height="70px" border="0" alt="Yukon Soccer Club" /></a>
+					<a href="www.mysasoccer.org" target="_blank"><img src="images/logo_mysa.png" height="70px" border="0" alt="Mustang Youth Soccer Assocation" /></a>
+					<a href="http://www.usyouthsoccer.org/" target="_blank"><img src="images/logo_usysa.png" border="0" height="70px" alt="US Youth Soccer Assocation" /></a>
+					<a href="www.oksoccer.com" target="_blank"><img src="images/logo_oksoccer.png" border="0" height="70px" alt="Oklahoma Soccer Assocation" /></a>
+				</div>	
+<div class="spacter"></div>
+<div><a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=www.canadianvalleyfc.com','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="website security" title="SiteLock" src="//shield.sitelock.com/shield/www.canadianvalleyfc.com"/></a> </div>			
+		    </div>
+	    </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="bottomwrapper">
+	<div class="page-footer">
+		<table cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td align="center" valign="top" class="footer" style="padding-top:20px;">
+			       Canadian Valley Football Club, PO Box 860231, Yukon, OK 73085<br><a href="mailto:questions@canadianvalleyfc.com">questions@canadianvalleyfc.com</a>
+				</td>
+			<?tr>
+		</table>
+	</div>
+</div> 
+</body>
+</html>

@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=10">
+	<script type="text/javascript">
+		window.isResponsiveEnabled = false;
+		window.mainMenuMediaQuery = 'screen and (max-width: 40em)';
+		(function(){
+			window.devicePixelRatio = window.devicePixelRatio || Math.round(window.screen.availWidth / document.documentElement.clientWidth);
+			window.innerWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+			window.innerHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+
+			window.setSizeCookie = function () {
+				document.cookie = "dpi=" + window.devicePixelRatio + "; path=/";
+				document.cookie = "viewportWidth=" +window.innerWidth + "; path=/";
+				document.cookie = "viewportHeight=" + window.innerHeight + "; path=/";
+				if (screen && screen.width && screen.height){
+					document.cookie = "screenWidth=" + screen.width + "; path=/";
+					document.cookie = "screenHeight=" + screen.height + "; path=/";
+				}
+				document.cookie = "responsiveGhost=1; path=/";
+			};
+
+			setSizeCookie();
+		}());
+	</script>
+    
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>Youth Sports Programs | Rogers, AR - Official Website</title>
+	<meta name="description" content=""> 
+<link rel="stylesheet" id="fontsCSS" href="/App_Themes/Fonts-80535B93C28CCC82C0E02E73A078271C.css"/>
+	<!--[if IE 6]><script language="JavaScript" type="text/javascript"> var isie6 = true; </script><![endif]-->
+	<!--[if IE 7]><script language="JavaScript" type="text/javascript"> var isie7 = true; </script><![endif]-->
+	<!--[if IE 8]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<!--[if IE 9]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<script type="text/javascript"><!--
+	var intCountryCode = 840;
+	var externalSiteDialogHeight = '390px';
+	var order = '';
+//--></script>
+	<link href="/-565656083.css" rel="stylesheet" type="text/css" />
+	<link href="/746057121.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
+
+    <script type="text/javascript">
+    	window.Pages = window.Pages || {};
+    	// FrontEnd RWD initialization
+    	window.Pages.rwdReady = $.Deferred();
+    	window.Pages.toolBarDeferred = $.Deferred();
+    	window.Pages.rwdSetupComplete = $.Deferred();
+    	window.Pages.megaMenuLoaded = $.Deferred();
+	</script>
+	<!--CPHeadContent-->
+	<script src="/261882915.js" type="text/javascript"></script>
+	
+	
+	
+	
+	<link href="/-1575930600.css" rel="stylesheet" type="text/css" />
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/App_Themes/ie6.css"><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="/Scripts/html5.js"></script><![endif]-->
+
+    <script type="text/javascript">
+	    setEditorVariables(false, 840);
+	    function getPrintPreviewType() { return 0; } function printPreview() {pPreview(getPrintPreviewType()); }
+    </script>
+	
+</head>
+<body class=" wide">
+    <div id="fb-root"></div>
+
+    <input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
+	<input type="hidden" id="hdnStructureID" value="1" />
+	<input type="hidden" id="hdnContentCollectionID" value="77bb51f3-9733-4499-bcc6-8b998d037d27" />
+	<input type="hidden" id="hdnThemeID" value="1" />
+	<input type="hidden" id="pageIsFrontEnd" value="true" />
+	<input type="hidden" id="pageModuleID" value="" />
+	<input type="hidden" id="pagePageID" value="707" />
+    
+    <div id="outer-wrap" class="outer-wrap">
+	    <div id="inner-wrap" class="inner-wrap">
+			    <div id="divToolbars" class="cpToolbars newCP" style="display: none;">
+				    
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/CP/ie7.css"><![endif]-->
+<!-- Allow Dashboard, Favorites Enabled  -->
+
+<!-- Begin Signed Out Bar -->
+<div class="cpToolbar user public">
+    <div class="inner selfClear">
+        <p class="dropdown"><a href="#moreInfo" class="myConnections">+myConnections:</a> <span class="welcomeMessage">Engage your community - connect to news, events and information you care about. &nbsp;&nbsp;</span> <a href="#moreInfo" class="moreInfo">View more information... </a></p>
+        <ul class="nav secondary">
+            <li><a href="#signIn" onclick="popupSignIn(); return false;" class="button" id="loggedOutToolbarSignInButton"><span>Sign In</span></a></li>
+        </ul>
+        <div class="menu mega moreInfo hidden" id="moreInfo">
+            <div class="pitch">
+                <div>
+                    <h1>Welcome to an Engaged Community</h1>
+                    There's a better way to <b>personalize your website experience</b>. With myConnection, the profile you create allows you to set up a unique starting point for the tasks and transactions that you want to complete in your time on this website. Use myConnection to gather the information that you most care about from across this website into one central location, giving you greater control over how you <b>connect with your community</b>.
+                    <div class="buttons" id="signedOutToolbarMoreInformationButtons">
+                        <a href="Javascript:popupSignIn();" class="button"><span>Sign In</span></a> or
+                        <a href="#CreateAnAccount" id="signedOutToolbarCreateProfileButton" class="button"><span>Create an Account</span></a>
+                    </div>
+                </div>
+                    <div class="leaderboard">
+                        <h3>Top Users </h3>
+                        <ol class="mine">
+                                <li>
+                                    <span class="rank">1</span>
+                                    <a href="/MyAccount/Profile/Karen-239" class="miniBio requireSignIn">
+                                        <img src="/ImageRepository/Path?filePath=%2fAssets%2fImages%2fProfilePlaceholder.png&amp;thumbnailSize=Thumb25x25" alt="Karen">
+                                        <p class="name">Karen</p>
+                                        <p class="reputation level1">9 points</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="rank">2</span>
+                                    <a href="/MyAccount/Profile/disneymom-235" class="miniBio requireSignIn">
+                                        <img src="/ImageRepository/Path?filePath=%2fAssets%2fImages%2fProfilePlaceholder.png&amp;thumbnailSize=Thumb25x25" alt="disneymom">
+                                        <p class="name">disneymom</p>
+                                        <p class="reputation level1">5 points</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="rank">3</span>
+                                    <a href="/MyAccount/Profile/Stacey-F-238" class="miniBio requireSignIn">
+                                        <img src="/ImageRepository/Path?filePath=%2fAssets%2fImages%2fProfilePlaceholder.png&amp;thumbnailSize=Thumb25x25" alt="Stacey F.">
+                                        <p class="name">Stacey F.</p>
+                                        <p class="reputation level1">5 points</p>
+                                    </a>
+                                </li>
+                        </ol>
+                    </div>
+            </div>
+            <div class="generated">
+                
+
+    <div class="moduleSpotlight" id="moduleSpotlight">
+
+
+<div id="moduleSpotlightFacilities" class="carouselSlide">
+	<h3>Facilities</h3>
+	<div>
+		<img alt="Facilities" src="/Areas/Facilities/Assets/Images/HomeModuleIconLarge.png">
+		<p>View your community’s facilities and features online with the new Facilities Module.</p>
+		<a href="/Facilities">View the <em>new</em> Facilities</a>
+	</div>
+</div>
+<div class="carouselSlide">
+	<h3>My Dashboard</h3>
+	<div>
+		<img alt="My Dashboard" src="/Assets/Images/DashboardShot.png">
+		<p>Personalize your online experience to stay up-to-date on news, events and other information.</p>
+		<a href="/MyAccount?from=url&url=/MyDashboard">View My Dashboard</a>
+	</div>
+</div>        
+    </div>
+
+<script src="/-212365995.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery182(document).ready(function () {
+        var $moduleSpotlight = jQuery182('#moduleSpotlight');
+
+        if ($moduleSpotlight != null && $moduleSpotlight.children().length > 1) {
+            var controlStyles = {
+                play: 'display: none;',
+                pause: 'display: none;',
+                next: "",
+                previous: ""
+            };
+
+            var wrapInlineStyles = {
+                
+            };
+
+            $moduleSpotlight.jshowoff({ speed: 10000, links: false, effect: 'none', controls: true, autoPlay: false,
+                                        controlStyles: controlStyles, wrapInlineStyles: wrapInlineStyles });
+        }
+
+        var $facilities = jQuery182('#moduleSpotlightFacilities');
+
+        if ($facilities != null) {
+            $facilities.unbind().bind({
+                click: function (e) {
+                    window.location = '/Facilities';
+                }
+            });
+        }
+    });
+</script>
+                <div class="users">
+                    <h3>Total Users</h3>
+                    <div>
+                        <p>376</p>
+                    </div>
+                </div>
+                <!--[if lte IE 7]><div class="selfClear"></div><![endif]-->
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#signedOutToolbarCreateProfileButton').keypress(function () { $(this).click(); });
+        $('#signedOutToolbarCreateProfileButton').click(function () {
+            window.location.href = '/MyAccount/ProfileCreate?from=url&url=/&dn=' + window.location.origin;
+        });
+
+        if ('False' == 'True') {
+            $('#loggedOutToolbarSignInButton').hide();
+        }
+    })
+</script>
+<!-- End Signed Out Bar -->
+
+
+			    </div>
+		    <div id="bodyWrapper">
+			    
+<div data-cpRole="structuralContainer" id="structuralContainer18">
+<div data-cpRole="banner" id="banner1"><div data-cpRole="structuralContainer" id="structuralContainer4" class="navigationWrapper">
+<div class="siteWrap"><nav data-cpRole="nav" id="mainNav" class="siteNav mainNav mainNavWrapper" role="navigation">
+<ol id="mainNavMenu" data-parent="1" class="rootNavMenu"><!--
+--><li id="MainItem9" class="topMenuItem" data-pageid="9" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavHowDoI" class="navMainItem mainNavItem mainNavItem1" href="/9/How-Do-I" target="_self">How Do I...</a><!--
+			--><!--
+			--></li><!----><li id="MainItem502" class="topMenuItem" data-pageid="502" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavCommunity" class="navMainItem mainNavItem mainNavItem2" href="/502/Community" target="_self">Community</a><!--
+			--><!--
+			--></li><!----><li id="MainItem35" class="topMenuItem" data-pageid="35" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavDoingBusiness" class="navMainItem mainNavItem mainNavItem3" href="/35/Doing-Business" target="_self">Doing Business</a><!--
+			--><!--
+			--></li><!----><li id="MainItem27" class="topMenuItem" data-pageid="27" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavYourGovernment" class="navMainItem mainNavItem mainNavItem4" href="/27/Your-Government" target="_self">Your Government</a><!--
+			--><!--
+			--></li><!----></ol>
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var menuID = 'mainNavMenu';
+			var menuType = MAIN_MENU;
+
+			//setup menu manager properties for main menu
+			if (!menuManager.mobileMainNav && true)
+				menuManager.adjustMainItemsWidth('#' + menuID);
+			menuManager.isMainMenuEditable = false;
+			menuManager.mainMenuMaxSubMenuLevels = 4;
+			menuManager.setMOMMode(2, menuType);
+
+			//Init main menu
+			var setupDraggable = menuManager.isMainMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=1&menuContainerID=mainNav';
+
+			menuManager.setupMenu(menuID, 'mainNav', menuType, setupDraggable, urlToGetHiddenMenus);
+			menuManager.mainMenuInit = true;
+			menuManager.mainMenuTextResizer = false;
+			if (0.50 > 0)
+				menuManager.mainMenuTextResizerRatio = 0.50;
+			if (window.isResponsiveEnabled)
+				menuManager.mainMenuReady.resolve();
+
+		});
+	</script>
+
+
+<aside data-cpRole="megaMenu" id="megaMenu" class="megaMenu" style="display: none;"><input type="hidden" id="megaMenuPopupDirection" value="0"><input type="hidden" id="megaMenuWidthReference" value="0"><aside data-cpRole="contentContainer" id="mainNavMegaMenu9" class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-orientation="horizontal">	<div id="cc8a680efe-85f7-4265-ba23-5665f738e807" data-containerid="8a680efe-85f7-4265-ba23-5665f738e807" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu502" class="contentTop mainNavMegaMenu megaMenuContainer pageID_502 hidden" data-orientation="horizontal">	<div id="cccb2ce2c9-b2a3-4e6c-8682-be8102e8e691" data-containerid="cb2ce2c9-b2a3-4e6c-8682-be8102e8e691" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu35" class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-orientation="horizontal">	<div id="cc064e0136-845f-4103-ba51-091b724753ce" data-containerid="064e0136-845f-4103-ba51-091b724753ce" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu27" class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-orientation="horizontal">	<div id="cc5e25aeb7-9a2c-42fa-9dac-300461013960" data-containerid="5e25aeb7-9a2c-42fa-9dac-300461013960" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside></aside></nav></div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer12">
+<div data-cpRole="structuralContainer" id="structuralContainer14">
+<div class="siteWrap"><header class="siteHeader"><h1 data-cpRole="banner" id="banner2" class="logo empty">
+
+
+
+
+
+
+			<a style="			display: block; text-align: left;
+" class="bannerObject" href="/" target="_self" ><img alt="Click to Home" class="bannerObject" src="/ImageRepository/Document?documentID=1650" /></a>
+</h1><div class="searchShareWrap"><aside data-cpRole="contentContainer" id="contentContainer7">	<div id="cc798e988a-95ea-4ca7-8b33-e3da4a6670cd" data-containerid="798e988a-95ea-4ca7-8b33-e3da4a6670cd" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+		<div class="row outer wide"><!--
+--><div class="outer col col2 first" style="" data-widgetcontainerid="af91902d-42af-4dc3-8a65-4bfd06dc110f">				
+	<div class="row nest first last wide">	
+	<div class="inner col col2 first last id5a9d0e45-4bf0-4a1c-bce0-5749c112de11" style="" data-widgetcontainerid="5a9d0e45-4bf0-4a1c-bce0-5749c112de11">
+
+<div class="widget widgetSpacer" id="a1235ff7-e6b2-4e2c-8c7f-aaf4daf5282f"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col4" style="" data-widgetcontainerid="7dda55a8-3329-4b38-a6f1-0b75dbc784cd">				
+	<div class="row nest first last wide">	
+	<div class="inner col col4 first last id488b0e89-1672-48ad-bf08-118793eec3ec" style="" data-widgetcontainerid="488b0e89-1672-48ad-bf08-118793eec3ec">
+
+<div data-widget-id="d1f83d6c-5665-4235-8ccb-1decd2e51432" data-widget-controller-path="/Layout/WidgetSiteTools">
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				setWidgetServiceClicking($("#widgetSiteToolsHeaderd1f83d6c-5665-4235-8ccb-1decd2e51432"));
+			});
+		</script>
+<section id="widgetSiteToolsd1f83d6c-5665-4235-8ccb-1decd2e51432" class="widget widgetSiteTools skin41 widgetOptionSet7 flyOutParent wide" >
+			<header id="widgetSiteToolsHeaderd1f83d6c-5665-4235-8ccb-1decd2e51432" class="widgetHeader">
+				<h3><img alt="Site Tools" class="imageHover" data-hover="/ImageRepository/Document?documentID=1524" data-image="/ImageRepository/Document?documentID=1526" src="/ImageRepository/Document?documentID=1526" /></h3>
+			</header>
+	<div id="widgetSiteToolsBodyd1f83d6c-5665-4235-8ccb-1decd2e51432" class="widgetBody blackIcons flyOut bottom leftEdge widget widgetSiteTools skin41 cpGrid cpGrid1" style="display:none;">
+         <div class="row                   
+ wide">
+	<div class="col col1 first last">
+		<ol class="semanticList">
+				<li class="widgetItem"><a class="widgetSiteToolsHome siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/\&#39;;'); return false; " href="#Home">Home</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsMyAccount siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/MyAccount\&#39;;'); return false; " href="#MyAccount">My Account</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsPrinterFriendly siteToolsService" onclick=" Core.Layout.dynamicJavascript('printPreview();'); return false; " href="#PrinterFriendly">Printer Friendly</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsEmailPage siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/EmailPage\&#39;;'); return false; " href="#EmailPage">Email Page</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsContactUs siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/directory.aspx\&#39;;'); return false; " href="#ContactUs">Contact Us</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsRSS siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/RSS.aspx\&#39;;'); return false; " href="#RSS">RSS</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsSiteMap siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/SiteMap\&#39;;'); return false; " href="#SiteMap">Site Map</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsTranslatePage siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://translate.google.com/translate?js=n&amp;sl=auto&amp;tl=es&amp;u=\&#39; + document.location.href, \&quot;TranslateWindow\&quot;);'); return false; " href="#TranslatePage">Translate Page</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsNotifications siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/list.aspx\&#39;;'); return false; " href="#Notifications">Notifications</a></li>
+				<li class="widgetItem"><a class="widgetSiteToolsDocuments siteToolsService" onclick=" Core.Layout.dynamicJavascript('window.location.href = \&#39;/DocumentCenter\&#39;;'); return false; " href="#Documents">Documents</a></li>
+		</ol>
+	</div>
+		 </div>
+	</div>
+</section>
+
+
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col4" style="" data-widgetcontainerid="d82cf35d-2001-46a0-b1ca-b43a2e843ee0">				
+	<div class="row nest first last wide">	
+	<div class="inner col col4 first last ide69f141c-3569-41d8-9c41-7f18dde116b4" style="" data-widgetcontainerid="e69f141c-3569-41d8-9c41-7f18dde116b4">
+
+<div data-widget-id="70bbd6a2-e495-41c9-9bd0-142e9571a679" data-widget-controller-path="/Layout/WidgetShare">
+		<script type="text/javascript">
+			$(document).ready(function () {
+				setWidgetServiceClicking($("#widgetShareHeader70bbd6a2-e495-41c9-9bd0-142e9571a679"));
+			});
+		</script>
+<section id="widgetShare70bbd6a2-e495-41c9-9bd0-142e9571a679" class="widget widgetShare skin41 widgetOptionSet14 flyOutParent wide" >
+	<header id="widgetShareHeader70bbd6a2-e495-41c9-9bd0-142e9571a679" class="widgetHeader">
+				<h3><img alt="Share" class="imageHover" data-hover="/ImageRepository/Document?documentID=1523" data-image="/ImageRepository/Document?documentID=1525" src="/ImageRepository/Document?documentID=1525" /></h3>
+	</header>
+    <div id="widgetShareBody70bbd6a2-e495-41c9-9bd0-142e9571a679" class="widgetBody flyOut bottom leftEdge widget widgetShare skin41 cpGrid cpGrid1" style="display:none;">
+        <div class="row                   
+ wide">
+	<div class="col col1 first last">
+		<ol class="semanticList">
+				<li class="widgetItem"><a class="widgetShareFacebook shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.facebook.com/share.php?u=\&#39; + document.location.href + \&#39;&amp;t=\&#39; + document.title, \&quot;ShareWindow\&quot;);'); return false; " href="#Facebook">Facebook</a></li>
+				<li class="widgetItem"><a class="widgetShareTwitter shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;https://twitter.com/share?url=\&#39; + document.location.href + \&#39;&amp;text=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#Twitter">Twitter</a></li>
+				<li class="widgetItem"><a class="widgetShareGooglePlus shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;https://plus.google.com/share?url=\&#39; + document.location.href, \&quot;ShareWindow\&quot;);'); return false; " href="#GooglePlus">Google+</a></li>
+				<li class="widgetItem"><a class="widgetSharePinterest shareService" onclick=" Core.Layout.dynamicJavascript('var e = document.createElement(\&#39;script\&#39;);\r\n\t\t\te.setAttribute(\&#39;type\&#39;, \&#39;text/javascript\&#39;);\r\n\t\t\te.setAttribute(\&#39;charset\&#39;, \&#39;UTF-8\&#39;);\r\n\t\t\te.setAttribute(\&#39;src\&#39;, \&#39;http://assets.pinterest.com/js/pinmarklet.js?r=\&#39; + Math.random() * 99999999);\r\n\t\t\tdocument.body.appendChild(e);'); return false; " href="#Pinterest">Pinterest</a></li>
+				<li class="widgetItem"><a class="widgetShareDelicious shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://del.icio.us/post?url=\&#39; + document.location.href + \&#39;&amp;title=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#Delicious">Delicious</a></li>
+				<li class="widgetItem"><a class="widgetShareStumbleUpon shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.stumbleupon.com/submit?url=\&#39; + document.location.href + \&#39;&amp;title=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#StumbleUpon">Stumble Upon</a></li>
+				<li class="widgetItem"><a class="widgetShareBlogger shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.blogger.com/blog_this.pyra?\&#39; + document.location.href, \&quot;ShareWindow\&quot;);'); return false; " href="#Blogger">Blogger</a></li>
+				<li class="widgetItem"><a class="widgetShareLinkedIn shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://www.linkedin.com/shareArticle?mini=true&amp;url=\&#39; + document.location.href + \&#39;&amp;title=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#LinkedIn">LinkedIn</a></li>
+				<li class="widgetItem"><a class="widgetShareYahoo shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://bookmarks.yahoo.com/toolbar/savebm?u=\&#39; + document.location.href + \&#39;&amp;t=\&#39; + encodeURIComponent(document.title), \&quot;ShareWindow\&quot;);'); return false; " href="#Yahoo">Yahoo!</a></li>
+				<li class="widgetItem"><a class="widgetShareWindowsLive shareService" onclick=" Core.Layout.dynamicJavascript('window.open(\&#39;http://profile.live.com/badge?title=\&#39; + encodeURIComponent(document.title) + \&#39;&amp;url=\&#39; + document.location.href, \&quot;ShareWindow\&quot;);'); return false; " href="#WindowsLive">Windows Live</a></li>
+		</ol>
+	</div>
+        </div>
+    </div>
+</section>
+
+
+
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col5" style="" data-widgetcontainerid="2fdb6b1b-7f61-47e0-a32c-4b25300e7a65">				
+	<div class="row nest first last wide">	
+	<div class="inner col col5 first last ide7a405fa-f93b-4f50-ac97-f0230cd4f7ca" style="" data-widgetcontainerid="e7a405fa-f93b-4f50-ac97-f0230cd4f7ca">
+
+<div data-widget-id="be382157-ac3e-49f0-b3f8-eebcb23ed51b" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+<div id="graphicLinkWidgetbe382157-ac3e-49f0-b3f8-eebcb23ed51b" class="widget widgetGraphicLinks skin39 widgetOptionSet16 wide"  data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+		</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid3 ">	
+			<div class="row autoWidths left wide"><!--
+
+--><div class="col col1 first "><ol class="semanticList"><!--
+	--><li class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/facebook" target="">
+<img src="/ImageRepository/Path?filePath=/documents/Intranet/facebook_201403050948323688.png" 
+     alt="Facebook" 
+     border="0" 
+     onmouseover="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook2_201403050948321813.png'" 
+	onmouseout="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook_201403050948323688.png'"
+     onfocus="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook2_201403050948321813.png'" 
+	onblur="this.src='/ImageRepository/Path?filePath=/documents/Intranet/facebook_201403050948323688.png'"> <span class="hidden">Facebook</span></a></li><!--
+--></ol></div><!--
+--><div class="col col1  "><ol class="semanticList"><!--
+	--><li class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/twitter" target="">
+<img src="/ImageRepository/Path?filePath=/documents/Intranet/twitter_201403050948324469.png" 
+     alt="Twitter" 
+     border="0" 
+     onmouseover="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter2_201403050948322751.png'" 
+	onmouseout="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter_201403050948324469.png'"
+     onfocus="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter2_201403050948322751.png'" 
+	onblur="this.src='/ImageRepository/Path?filePath=/documents/Intranet/twitter_201403050948324469.png'"> <span class="hidden">Twitter</span></a></li><!--
+--></ol></div><!--
+--><div class="col col1  last"><ol class="semanticList"><!--
+--></ol></div><!--			--></div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col9 last" style="" data-widgetcontainerid="8014fee3-d4ce-4103-9e27-e65b2722a9b8">				
+	<div class="row nest first last wide">	
+	<div class="inner col col9 first last idd5d9dafb-dc7e-4861-93bc-ff68acbcae11" style="" data-widgetcontainerid="d5d9dafb-dc7e-4861-93bc-ff68acbcae11">
+
+<div data-widget-id="e45d2864-aa60-42f2-8c01-61d65c197f9b" data-widget-controller-path="/Layout/WidgetSearch">
+		<script src="/Areas/Layout/Assets/Scripts/Search.js" type="text/javascript"></script>
+	<script defer type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"></script>
+	<script defer type="text/javascript">
+		function doWidgetSearch(e){
+			if (e != "") {
+				window.location.href = "/Search/Results?searchPhrase=" + e;
+			}
+		}
+
+		$(document).ready(function () {
+
+			$(".widgetSearchButton").click(function (e) {
+				e.preventDefault();
+				doWidgetSearch($(this).siblings(".widgetSearchBox").val());
+			});
+			$("#searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b").keypress(function (e) {
+				if (window.clipboardData) {
+					if (e.keyCode == 13) {
+						doWidgetSearch($(this).val());
+						return false;
+					}
+				} else {
+					if (e.which == 13) {
+						doWidgetSearch($(this).val());
+						return false;
+					}
+				}
+				return true;
+			});
+			$("#searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b").autocomplete({
+				source: '/Search/AutoComplete',
+				html: true,
+				delay: 0
+			}).data("autocomplete")._renderItem = function (ul, item) {
+				return $("<li></li>")
+					.data("item.autocomplete", item)
+					.append("<a>" + item.label + "</a>")
+					.appendTo(ul);
+			};
+		});</script>
+<section id="widgetPreviewSearch" class="widget widgetSearch skin17 widgetOptionSet15" style="display: block;">
+    <!-- For the button right and inside -->
+	<div class="widgetBody buttonRightInside">
+		<input class="widgetSearchBox" cp5ph="true" id="searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b" name="searchField" placeholder="Search Rogers..." title="Search Rogers..." type="text" value="" />
+					<a href="#search" class="widgetSearchButton"><img alt="Go" class="imageHover" data-hover="/ImageRepository/Document?documentID=1521" data-image="/ImageRepository/Document?documentID=1522" src="/ImageRepository/Document?documentID=1522" /></a>
+
+		<label class="searchLabel" for="searchFielde45d2864-aa60-42f2-8c01-61d65c197f9b">Search</label>
+	</div>
+</section>
+
+<style>
+      
+        .widgetSearch ::-webkit-input-placeholder {
+        color: #fff;
+      }
+        .widgetSearch :-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+    }
+        .widgetSearch ::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+    }
+    .widgetSearch :-ms-input-placeholder {  
+       color: #fff;
+    }
+    
+
+	.widgetSearch .widgetBody .widgetSearchBox
+	{
+        color: #fff;
+		background-color: rgba(255,255,255,.5); padding: 9px 40px 9px 10px;  border:1px solid #fff;
+	}
+	.widgetSearch .widgetBody .widgetSearchButton
+	{
+		margin: 6px 10px 0 0;
+	}
+</style>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<link href="/Areas/Layout/Assets/Styles/WidgetSearchAutoComplete.css" rel="stylesheet" />
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+
+	</div>
+</aside></div></header></div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer2">
+<div class="siteWrap"><div data-cpRole="structuralContainer" id="structuralContainer1" class="mainWrap" role="main">
+<div data-cpRole="structuralContainer" id="structuralContainer13" class="contentWrap">
+<div data-cpRole="breadCrumbs" class="breadCrumbContainer" id="breadCrumbs">		<ol class="semanticList breadCrumbs">
+			<li><a class="breadCrumb" href="/"> Home</a></li><li><a class="breadCrumb" href="/502/Community"> Community</a></li><li><a class="breadCrumb" href="/130/Rogers-Activity-Center"> Rogers Activity Center</a></li><li><a class="breadCrumb" href="/706/Sports-Programs"> Sports Programs</a></li><li id="currentBCPage" data-pageid="707"> Youth Sports Programs</li>
+		</ol>
+	   
+    
+</div><div data-cpRole="mainContentContainer" id="moduleContent">
+	
+	<div id="page" class="moduleContentNew">
+		
+	<input type="hidden" id="hdnPageID" value="707" />
+	<input type="hidden" id="hdnParentID" value="706" />
+	<input type="hidden" id="hdnVersionID" value="3941" />
+	<input type="hidden" id="pageMenuTitle" value="Youth Sports Programs" />
+	<input type="hidden" id="pageShowFeatureColumn" value="False" />
+	<input type="hidden" id="hdnIsLayoutPage" value="False" />
+	<h1 id="versionHeadLine" class="headline">
+Youth Sports Programs	</h1>
+	<div id="cc5f8c90dc-b4cb-431b-90ee-10648f8df655" data-containerid="5f8c90dc-b4cb-431b-90ee-10648f8df655" class="pageContent cpGrid cpGrid24">
+		   
+
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="2aab1cc0-9c48-45e0-978a-2ac1e4cf9842">				
+	<div class="row nest first last wide">	
+	<div class="inner col col24 first last id7e6c7170-4ec6-43ed-8b21-39564d444daa" style="" data-widgetcontainerid="7e6c7170-4ec6-43ed-8b21-39564d444daa">
+
+
+
+
+	<div data-widget-id='8b96c4d8-612b-45f6-91d7-0101c15a1779' data-moduleName="list" id='widgetText8b96c4d8-612b-45f6-91d7-0101c15a1779' class="widget widgetText">
+		<div class="widgetBody pageStyles" id="div8b96c4d8-612b-45f6-91d7-0101c15a1779">
+			
+			<div style="min-height: 18px;">
+				<div class="textContent" ><p>The Rogers Activity Center offers a variety of sports programs for all ages. Our programs are open to ALL, we do not have boundary restrictions&nbsp;giving the youth in our community many opportunities to learn a new sport or focus on their favorite.&nbsp;Please&nbsp;check each&nbsp;activity for specific age,grade levels and dates and times!&nbsp;&nbsp;Build skills, character and self esteem.&nbsp;&nbsp;Stay active, make friends, and have fun!!</p><p>Click on the pages to the left for more information on specific programs offered here at the RAC.</p></div>
+			</div>
+		</div>
+	</div>
+	
+<style>
+	.widget .textContent p:first-child {
+		padding-top: 0px;
+		margin-top: 0px;
+	}
+
+</style>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="3a681049-1ba6-4a39-9b3f-6e465e7a8d58">				
+	<div class="row nest first last wide">	
+	<div class="inner col col24 first last id4b22fe2f-6330-40e0-9cee-189533f70b46" style="" data-widgetcontainerid="4b22fe2f-6330-40e0-9cee-189533f70b46">
+
+	<section data-widget-id='ff51e55f-5b2d-415e-8a38-1a1a0e65df81' data-moduleName="list" id='widgetListff51e55f-5b2d-415e-8a38-1a1a0e65df81' class="widget widgetList narrow" >
+		<header class="widgetHeader">
+				<h2 class="subhead1"  data-headertext="Youth Sports Programs">Youth Sports Programs</h2>
+		</header>
+			<div class="headerContent">Programs :</div>
+		<div class="widgetBody pageStyles" id="divff51e55f-5b2d-415e-8a38-1a1a0e65df81">
+				<div class="row wide">
+					
+							<div class="col col12">
+								<ul class="list" start="1">
+										<li>Basketball</li>
+										<li>Football</li>
+										<li>Lacrosse</li>
+										<li>See our youth enrichment programs also!</li>
+								</ul>
+							</div>
+							<div class="col col12">
+								<ul class="list" start="5">
+										<li>Soccer</li>
+										<li>Softball</li>
+										<li>Volleyball</li>
+								</ul>
+							</div>
+				</div>
+		</div>
+	</section>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="12b58066-43b6-47ca-89ee-647f39173ea7">				
+	<div class="row nest first last wide">	
+	<div class="inner col col24 first last idcc4b4700-c638-4c06-a2ae-ed31e9ee0072" style="" data-widgetcontainerid="cc4b4700-c638-4c06-a2ae-ed31e9ee0072">
+
+<section class="widget widgetRelatedDocuments skin43 wide" id="widgetRelDocde0b4247-49ce-467d-a161-b6d86101e96e" data-documentIDs="2313" data-columncount="1" >
+	<div id="divRelatedDocuments_de0b4247-49ce-467d-a161-b6d86101e96e" class="relatedDocuments">
+					<header class="widgetHeader"><div><h3>Volunteer to Coach</h3></div></header>
+			<div class="widgetBody cpGrid cpGrid1">
+				
+<div class="row wide">
+    <div class="col col1 first last">
+    <ol class="semanticList bullets">
+                <li class="widgetItem" data-documentid="2313"><a target="_blank" href="/DocumentCenter/Home/View/2313" class="fileType docx">Volunteer Coach Application </a>
+                </li>
+    </ol>
+        </div>
+</div>
+
+
+
+			</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var hasEditRights = false;        
+        if (window.File && window.FileList && window.FileReader && hasEditRights) {
+            var RelatedDocumentsWidget = 5;
+            makeWidgetAreaDroppable('de0b4247-49ce-467d-a161-b6d86101e96e', $('#widgetRelDoc' + 'de0b4247-49ce-467d-a161-b6d86101e96e'), RelatedDocumentsWidget, true, RelatedDocumentsCallback);
+        }
+
+		if(hasEditRights)
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#addFile' + 'de0b4247-49ce-467d-a161-b6d86101e96e'), 'Add a new file.');
+    });
+
+    function RelatedDocumentsCallback(widgetID, response)
+    {
+        if (window.ContentCollectionInstance.IsWorkingCopy) {
+        	$('#widgetRelDoc' + widgetID).replaceWith(response);            
+            contentUpdated();
+            attachRelatedDocumentsHandlers();            
+        }
+        else {
+            ContentCollectionInstance.reloadContent();
+        }      
+    }
+</script>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+	</div>
+
+	</div>
+
+	
+	<div id="mvcModal" class="modalContainer modalContainerCP MVC noIframe" style="display: none;">
+		<div class="modalTitleLeft">
+			<h3 class="modalTitle">Title</h3>
+			<a class="modalClose" href="#CloseThisWindow" title="Close this window"></a>
+		</div>
+		<div class="modalContentLeft">
+			<div class="modalContentRight">
+				<div class="newCP adminWrap modalContent">
+					</div>
+				</div>
+			</div>
+		<div class="modalBottomLeft">
+			<div class="modalBottomRight">
+				<div class="modalBottom"></div>
+			</div>
+		</div>
+	</div>
+	<div class="newCP">
+
+
+<div class="modalContainer notifyMeNew  hidden noIframe" id="modalNotifyMe">
+	<div class="modalTitleLeft">
+		<h3 class="modalTitle">Notify Me</h3>
+		<a class="modalClose" href="#CloseThisWindow" onkeypress="this.onclick();" onclick="Javascript:hideModal('notifyMeNew'); return false;" title="Close this window"></a>
+	</div>
+	<div class="modalContentLeft">
+		<div class="modalContentRight">
+			<div class="newCP modalContent modalTabs">
+				
+				
+			</div>
+		</div>
+	</div>
+	<div class="modalBottomLeft">
+		<div class="modalBottomRight">
+			<div class="modalBottom"></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
+</div><aside data-cpRole="contentContainer" id="featureColumn" class="secondaryContent">	<div id="ccd6923f64-2522-4bce-8783-61ad1b416b69" data-containerid="d6923f64-2522-4bce-8783-61ad1b416b69" class="pageContent cpGrid cpGrid24">
+        		   
+
+
+
+
+
+
+	</div>
+</aside><div data-cpRole="structuralContainer" id="structuralContainer3" class="sidebar">
+<nav data-cpRole="nav" id="secondaryNav" class="siteNav secondaryNav">
+<ol id="secondaryMenusecondaryNav" data-parent="707" class="rootNavMenu">
+			<li id="SideItem717" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="717" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/717/Youth-Soccer" target="_self">Youth Soccer</a>			
+			</li>
+			<li id="SideItem718" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="718" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/718/Youth-Softball" target="_self">Youth Softball</a>			
+			</li>
+			<li id="SideItem719" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="719" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/719/Youth-Football" target="_self">Youth Football</a>			
+			</li>
+			<li id="SideItem720" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="720" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/720/Youth-Volleyball" target="_self">Youth Volleyball</a>			
+			</li>
+			<li id="SideItem722" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="722" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/722/Youth-Basketball" target="_self">Youth Basketball</a>			
+			</li>
+			<li id="SideItem752" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="752" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/752/Youth-Tennis" target="_self">Youth Tennis</a>			
+			</li>
+			<li id="SideItem793" class="topMenuItem" data-display-main-item-sub-menu-indicators="True" data-pageid="793" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/793/Youth-Wrestling" target="_self">Youth Wrestling</a>			
+			</li>
+</ol>
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var menuID = 'secondaryMenusecondaryNav';
+			var menuType = SIDE_MENU;
+
+			//setup menu manager properties for secondary menu
+			menuManager.isSideMenuEditable = false;
+			menuManager.sideMenuMaxSubMenuLevels = 4;
+			menuManager.sideMenuHasCustomLinks = false;
+			menuManager.setMOMMode(2, menuType);
+
+			//Init secondary menu
+			var setupDraggable = menuManager.isSideMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=707&moduleID=&themeID=1&menuContainerID=secondaryNav';
+
+			menuManager.setupMenu(menuID, 'secondaryNav', menuType, setupDraggable, urlToGetHiddenMenus);
+		});
+	</script>
+
+</nav><aside data-cpRole="contentContainer" id="contentContainer4">	<div id="cc59051760-3cf5-4d76-b748-0f1d3a9a7a96" data-containerid="59051760-3cf5-4d76-b748-0f1d3a9a7a96" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+
+
+
+
+	</div>
+</aside>
+</div>
+</div></div>
+</div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer7" class="footerWrapper">
+<div data-cpRole="structuralContainer" id="structuralContainer5">
+<div class="siteWrap"><aside data-cpRole="contentContainer" id="contentContainer3">	<div id="cc17fc1b17-a660-41d3-b47a-b7691b8b110a" data-containerid="17fc1b17-a660-41d3-b47a-b7691b8b110a" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+		<div class="row outer autoWidths center wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="804c6f56-c67f-4de6-8b1b-ac7cb552241b">				
+	<div class="row nest first last wide">	
+	<div class="inner col col24 first last id6a13c4ea-0762-47e5-a648-1f55ec3f1d5d" style="" data-widgetcontainerid="6a13c4ea-0762-47e5-a648-1f55ec3f1d5d">
+
+	<div data-widget-id="24f98a71-55c0-4c78-9fbd-f8ce7fd5c7a2" data-widget-controller-path="/QuickLinks/Widget">
+
+
+
+
+ 
+
+<section id="widgetQuicklink24f98a71-55c0-4c78-9fbd-f8ce7fd5c7a2" class="widget widgetQuickLinks skin56 widgetOptionSet22 wide" data-modulewidgettype="quickLinks"  >
+	<header class="widgetHeader">
+		<div class="">
+		</div>
+	</header>
+	<div class="widgetBody cpGrid cpGrid9 ">
+        <div class="row autoWidths center wide">
+				<div class=" col col1 first ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/" target="">Home</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/sitemap.aspx" target="">Site Map</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/directory.aspx" target="">Contact Us</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/accessibility" target="">Accessibility</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/copyright" target="">Photo Credits</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/507/Tourism" target="">Tourism</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/list.aspx" target="">Notify Me®</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  ">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/jobs.aspx" target="">Employment</a>
+    </li>
+					</ol>
+				</div>
+				<div class=" col col1  last">
+					<ol class="semanticList" style="">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="https://access.rogersar.gov/" target="_blank">EP</a>
+    </li>
+					</ol>
+				</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/QuickLinks.aspx</div>
+	</div>
+</section></div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+
+	</div>
+</aside></div>
+</div><div data-cpRole="structuralContainer" id="structuralContainer6">
+<div class="siteWrap"><footer data-cpRole="contentContainer" id="contentContainer6" class="siteFooter">	<div id="cc7e33c007-a92d-4e0b-a28a-4fca2d132de9" data-containerid="7e33c007-a92d-4e0b-a28a-4fca2d132de9" class="pageContent cpGrid cpGrid24 isLockedContainer">
+        		   
+
+
+		<div class="row outer wide"><!--
+--><div class="outer col col13 first" style="" data-widgetcontainerid="0ce49913-f1b6-4813-ba93-d864abdc4c75">				
+	<div class="row nest first last wide">	
+	<div class="inner col col13 first last idb048af4f-44fe-4b16-ba6c-51f82413ab53" style="" data-widgetcontainerid="b048af4f-44fe-4b16-ba6c-51f82413ab53">
+
+    <div data-widget-id="70190567-dcfc-48ff-b1bf-4682498beebb" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+ 
+<section id="divInfoAdv70190567-dcfc-48ff-b1bf-4682498beebb" class="widget widgetInfoAdvanced skin37 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" >
+	<header class="widgetHeader">
+		<div class="">
+		</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">	
+		<div class="row  wide">
+			<div class=" col col1 first last">
+				<ol class="semanticList" style="">
+
+<li class="InfoAdvanced widgetItem">
+    <b>The City of &nbsp;Rogers</b> - 301 W. Chestnut - Rogers, AR 72756 - Ph: 479-621-1117
+</li>				</ol>
+			</div>    			
+		</div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+</section>
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('.InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col5" style="" data-widgetcontainerid="cb93e93d-5e36-42b3-ab8d-aa0bedeb063b">				
+	<div class="row nest first last wide">	
+	<div class="inner col col5 first last idc9b3208c-368d-41a4-baf1-352d998817fb" style="" data-widgetcontainerid="c9b3208c-368d-41a4-baf1-352d998817fb">
+
+<div class="widget widgetSpacer" id="aec303ed-0a04-4c64-82a8-6eb6b8e1b696"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col6 last" style="" data-widgetcontainerid="e38c77f5-bb0c-46ba-b790-ad6b0069ba7d">				
+	<div class="row nest first last wide">	
+	<div class="inner col col6 first last id380a3d94-5599-425b-8190-fb7bfd5f1ad1" style="" data-widgetcontainerid="380a3d94-5599-425b-8190-fb7bfd5f1ad1">
+
+    <div data-widget-id="7a65a0ac-eab8-44ba-957d-8b6b1cb8d806" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+ 
+<section id="divInfoAdv7a65a0ac-eab8-44ba-957d-8b6b1cb8d806" class="widget widgetInfoAdvanced skin37 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" >
+	<header class="widgetHeader">
+		<div class="">
+		</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">	
+		<div class="row  wide">
+			<div class=" col col1 first last">
+				<ol class="semanticList" style="">
+
+<li class="InfoAdvanced widgetItem">
+    <a href="http://www.civicplus.com" target="_self" class="Hyperlink">GOVERNMENT WEBSITES BY CIVICPLUS®</a><br>
+</li>				</ol>
+			</div>    			
+		</div>
+	</div>
+	<div class="widgetFooter">
+	</div>
+</section>
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('.InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+
+
+	</div>
+</footer></div>
+</div>
+</div>
+
+
+
+
+
+
+		<div id="banner1-2" style="display:none"></div>
+			<script type="text/javascript">
+				$(window).load(function () {
+					renderBanner('banner1-2', 'banner1', {"BannerOptionID":2,"ThemeID":1,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":null,"SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":true,"ImageAlignment":1,"ImageScroll":false,"Status":40,"BannerImages":[{"BannerImageID":77,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=1649","Height":1089,"Width":1700,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null},{"BannerImageID":78,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=1648","Height":1089,"Width":1700,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null}],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"}, {"BannerImageID":77,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=1649","Height":1089,"Width":1700,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null}, '/App_Themes/Interior/Images/', '<img alt="Lake" class="bannerObject" src="/ImageRepository/Document?documentID=1649" />');
+				});
+			</script>
+
+</div>
+</div>
+
+			    <div id="mainNavHolderMobile" class="mainNavHolderMobile"></div>
+		    </div>
+	    </div>
+    </div>
+    
+	
+
+    
+	
+	
+	
+	
+
+
+
+	<script type="text/javascript">function dynamicStretchContainers () {Core.Layout.stretchContainers('#structuralContainer2, #structuralContainer13, #featureColumn, #structuralContainer3');}</script>
+
+
+
+
+    <script src="/1986649186.js" type="text/javascript"></script>
+    <!-- Piwik -->
+<script type="text/javascript"> 
+  var _paq = _paq || [];
+  _paq.push(['setCustomUrl', location.href.toLowerCase()]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  $(window).load(function(){
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.civicplus.com//";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1794]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  });
+
+</script>
+<noscript><p><img src="http://analytics.civicplus.com/piwik.php?idsite=1794" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Code --><!--Start Translate Code--><div id="google_translate_element" style="position: fixed; bottom: 0px; right: 25px; z-index:4;"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><!--End Translate Code-->
+
+
+<script type="text/javascript">
+	$(function () {
+		document.cookie = "responsiveGhost=0; path=/";
+	});
+</script>
+
+	
+	
+</body>
+</html>

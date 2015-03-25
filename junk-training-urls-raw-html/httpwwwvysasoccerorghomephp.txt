@@ -1,0 +1,603 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/TwitterTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/HeadlineScrollerTrinket/style.css,/sam/admin/include/css/jqueryUI/ui.generic.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/ImageRotatorTrinket/style.css" /><script src="http://www.vysasoccer.org/sam/admin/include/scripts/jquery.min.js"></script><script src="//platform.twitter.com/widgets.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/trinkets/TwitterTrinket/trinket.js,/sam/admin/include/trinkets/HeadlineScrollerTrinket/trinket.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13207" ><li id="mb-76141" class=" cmFirst "><a class="button-text" href="/home.php?layout=308048" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-76156" class="  "><a class="button-text" href="https://www.secure-sam.com/www.vysasoccer.org/sam/registration/login.php" style="" target="_blank">Click to REGISTER!</a><span class="iefix">&nbsp;</span></li><li id="mb-77129" class="  "><a class="button-text" href="/home.php?layout=311258" style="" target="_top">FAQ</a><span class="iefix">&nbsp;</span></li><li id="mb-76171" class="  "><a class="button-text" href="/Contacts" style="" target="_top">Club Contacts</a><span class="iefix">&nbsp;</span></li><li id="mb-76172" class="parent  "><span style="" class="button-text">VYSA Coaches</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76157" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=308076" style="" target="_top">Director of Coaching</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77092" class="parent  "><span style="" class="button-text">Coaching Education</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77090" class=" cmFirst "><span style="" class="button-text">Coaching Course Comparison</span><span class="iefix">&nbsp;</span></li><li id="mb-77091" class="  "><a class="button-text" href="http://www.idahoyouthsoccer.org/education/coaching.aspx" style="" target="_blank">Courses in Idaho</a><span class="iefix">&nbsp;</span></li><li id="mb-77093" class="  cmLast"><a class="button-text" href="http://www.washingtonyouthsoccer.org/coaches/coaching_education/course_schedule/" style="" target="_blank">Courses in WA</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-194739" class="  "><a class="button-text" href="/home.php?layout=855443" style="" target="_top">U8/9 Academy</a><span class="iefix">&nbsp;</span></li><li id="mb-194738" class="  "><a class="button-text" href="http://www.qcfusion.com/home.php" style="" target="_blank">QC FUSION </a><span class="iefix">&nbsp;</span></li><li id="mb-76167" class="  "><a class="button-text" href="/DI" style="" target="_blank">NWL Schedules</a><span class="iefix">&nbsp;</span></li><li id="mb-76169" class="  "><a class="button-text" href="/home.php?layout=308111" style="" target="_top">POWERADE Soccer Storm </a><span class="iefix">&nbsp;</span></li><li id="mb-76159" class="  "><a class="button-text" href="/SEA" style="" target="_top">Stanno Elite Academy</a><span class="iefix">&nbsp;</span></li><li id="mb-76165" class="  "><a class="button-text" href="/home.php?layout=308101" style="" target="_top">Referee</a><span class="iefix">&nbsp;</span></li><li id="mb-76162" class="  "><a class="button-text" href="/docs" style="" target="_top">Document Library</a><span class="iefix">&nbsp;</span></li><li id="mb-76150" class="  cmLast"><a class="button-text" href="/home.php?layout=308050" style="" target="_top">Calendar</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						@VYSAsoccer					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="TwitterTrinket">
+			<a href="//twitter.com/VYSAsoccer" class="twitter-follow-button" data-show-count="false">Follow @VYSAsoccer</a>
+			<ul class="TwitterTrinket-feed">
+						<li class="tt-tweet ">
+			<a class="tt-date" data-datetime="2014-10-25T20:55:37+0000" href="//twitter.com/SoundersFC/statuses/526114884468359168">
+				<time title="Time posted: 25 Oct 2014, 20:55:37 (GMT+0000)" datetime="2014-10-25T20:55:37+0000" pubdate>
+				25 Oct				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/SoundersFC">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/572424495382556672/iy5ShYhi_normal.jpeg" width="48" height="48"/>
+				<span class="tt-fullname">
+					Seattle Sounders FC				</span>
+				<span class="tt-nickname">@SoundersFC</span>
+			</a>
+			<div class="tt-tweet-content">
+				THAT'S IT!
+
+The <a href="//twitter.com/search?q=%23Sounders&src=hash">#Sounders</a> have won the 2014 <a href="//twitter.com/MLS">@MLS</a> Supporters' Shield! <a href="http://t.co/tKhPQUujGt">pic.twitter.com/tKhPQUujGt</a>			</div>
+		</li>
+				<li class="tt-tweet ">
+			<a class="tt-date" data-datetime="2014-10-07T18:50:05+0000" href="//twitter.com/WSUCougarSoccer/statuses/519560308612804609">
+				<time title="Time posted: 7 Oct 2014, 18:50:05 (GMT+0000)" datetime="2014-10-07T18:50:05+0000" pubdate>
+				7 Oct				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/WSUCougarSoccer">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/484028354396307456/ZT0gFa-Q_normal.png" width="48" height="48"/>
+				<span class="tt-fullname">
+					Cougar Soccer				</span>
+				<span class="tt-nickname">@WSUCougarSoccer</span>
+			</a>
+			<div class="tt-tweet-content">
+				WE'RE BACK and we need YOU at the Lower Soccer Field on Fri. and Sun!!  <a href="//twitter.com/search?q=%23SomethingBigger&src=hash">#SomethingBigger</a> <a href="//twitter.com/search?q=%23GoCougs&src=hash">#GoCougs</a> [WATCH] <a href="http://t.co/e11qHV7gzf">bit.ly/1uXmNhb</a>			</div>
+		</li>
+				<li class="tt-tweet ">
+			<a class="tt-date" data-datetime="2014-09-16T19:17:30+0000" href="//twitter.com/WSUCougars/statuses/511957062893727746">
+				<time title="Time posted: 16 Sep 2014, 19:17:30 (GMT+0000)" datetime="2014-09-16T19:17:30+0000" pubdate>
+				16 Sep				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/WSUCougars">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/378800000629356087/309dd13339b2cfc3f13c52dd0fbeecb2_normal.jpeg" width="48" height="48"/>
+				<span class="tt-fullname">
+					WSU Cougars				</span>
+				<span class="tt-nickname">@WSUCougars</span>
+			</a>
+			<div class="tt-tweet-content">
+				Welcome back to the top 25, <a href="//twitter.com/WSUCougarSoccer">@WSUCougarSoccer</a>! <a href="//twitter.com/search?q=%23GoCougs&src=hash">#GoCougs</a> <a href="http://t.co/O4YjLA4jge">pic.twitter.com/O4YjLA4jge</a>			</div>
+		</li>
+				<li class="tt-tweet ">
+			<a class="tt-date" data-datetime="2014-08-29T22:32:07+0000" href="//twitter.com/WSUCougarSoccer/statuses/505483060234555392">
+				<time title="Time posted: 29 Aug 2014, 22:32:07 (GMT+0000)" datetime="2014-08-29T22:32:07+0000" pubdate>
+				29 Aug				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/WSUCougarSoccer">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/484028354396307456/ZT0gFa-Q_normal.png" width="48" height="48"/>
+				<span class="tt-fullname">
+					Cougar Soccer				</span>
+				<span class="tt-nickname">@WSUCougarSoccer</span>
+			</a>
+			<div class="tt-tweet-content">
+				Debuting a new toy at Sunday's game vs. Montana...be there at noon for the first chance to test it out <a href="//twitter.com/search?q=%23GoCougs&src=hash">#GoCougs</a> <a href="http://t.co/jPVtmFmafC">pic.twitter.com/jPVtmFmafC</a>			</div>
+		</li>
+				<li class="tt-tweet tt-last">
+			<a class="tt-date" data-datetime="2014-08-22T00:22:59+0000" href="//twitter.com/WSUCougarSoccer/statuses/502611858827018240">
+				<time title="Time posted: 22 Aug 2014, 00:22:59 (GMT+0000)" datetime="2014-08-22T00:22:59+0000" pubdate>
+				22 Aug				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/WSUCougarSoccer">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/484028354396307456/ZT0gFa-Q_normal.png" width="48" height="48"/>
+				<span class="tt-fullname">
+					Cougar Soccer				</span>
+				<span class="tt-nickname">@WSUCougarSoccer</span>
+			</a>
+			<div class="tt-tweet-content">
+				One more reason to get to tomorrow's game early...for the first 200 fans <a href="//twitter.com/search?q=%23ButchFace&src=hash">#ButchFace</a> <a href="//twitter.com/search?q=%23GoCougs&src=hash">#GoCougs</a> <a href="http://t.co/lM82hrUbhh">pic.twitter.com/lM82hrUbhh</a>			</div>
+		</li>
+					</ul>
+		</div>
+							</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Registration going on now! Don't wait!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="HeadlineScrollerTrinket"><div class="pe-hst-item" style="background:url(http://www.vysasoccer.org/sam/admin/images/image.php?f=VYSAvinyl1_550x300_0_6_0_7.png) left no-repeat;" title="Register for VYSA SELECT soccer TODAY!! | Payment Plans and Discounts available!"><div class="pe-hst-slidelabel"><h2>Register for VYSA SELECT soccer TODAY!!</h2><p><span>Payment Plans and Discounts available!</span> <span class="divider">|</span> <a href="https://www.secure-sam.com/www.vysasoccer.org/sam/registration/login.php" class="hst-popup">CLICK TO REGISTER</a></p></div></div><div class="pe-hst-pager"><a href="#"></a></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						VYSA Training Schedule					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><table style="height: 308px;" width="485">
+  <tbody>
+    <tr>
+      <td colspan="4">
+        <p>
+          <span><span style="font-size: 18pt;">2015 PRESEASON TRAINING SCHEDULE</span> <em><strong><span style="text-decoration: underline;"><span style="font-size: 12pt;">starting
+          2-2-15</span></span></strong></em></span>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>U8/9 VYSA Academy</span>
+      </td>
+      <td>
+        <span>Tuesday &amp; Thursday</span>
+      </td>
+      <td>
+        <span>530-630pm</span>
+      </td>
+      <td>
+        Hathaway Park
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>BU10 VYSA - KESSLER</span>
+      </td>
+      <td>
+        <span>Tuesday &amp; Thursday</span>
+      </td>
+      <td>
+        <span>530-7pm</span>
+      </td>
+      <td>
+        <span><span>Hathaway</span> Park</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>BU11 VYSA - KIRK (Blue &amp; Navy)</span>
+      </td>
+      <td>
+        <span>Tuesday &amp; Thursday</span>
+      </td>
+      <td>
+        <span>530-7pm</span>
+      </td>
+      <td>
+        <span><span>Hathaway</span> Park</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>BU12 VYSA - CRAWFORD</span>
+      </td>
+      <td>
+        <span>Monday &amp; Wednesday</span>
+      </td>
+      <td>
+        <span>5-630pm</span>
+      </td>
+      <td>
+        <span><span>Hathaway</span> Park</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>BU13 VYSA - HILL</span>
+      </td>
+      <td>
+        <span>Monday &amp; Wednesday</span>
+      </td>
+      <td>
+        <span>6-730pm</span>
+      </td>
+      <td>
+        <span>Hathaway</span> Park
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>BU14 VYSA - HILL</span>
+      </td>
+      <td>
+        <span>Monday &amp; Wednesday</span>
+      </td>
+      <td>
+        <span>6-730pm</span>
+      </td>
+      <td>
+        <span><span>Hathaway</span> Park</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>GU14 VYSA - WOHL</span>
+      </td>
+      <td>
+        <span>Tuesday &amp; Thursday</span>
+      </td>
+      <td>
+        <span>430-6pm</span>
+      </td>
+      <td>
+        <span><span>Hathaway</span> Park</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>FUSION HS BOYS First Team</span>
+      </td>
+      <td>
+        Monday
+      </td>
+      <td>
+        <span>530-7</span>
+      </td>
+      <td>
+        <span><span>Hathaway</span> Park</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>FUSION HS GIRLS First Team</span>
+      </td>
+      <td>
+        Thursday
+      </td>
+      <td>
+        <span>7-830</span>
+      </td>
+      <td>
+        <span>Hathaway</span> Park
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+   
+</p>
+<table style="height: 434px;" width="550">
+  <tbody>
+    <tr>
+      <td colspan="5">
+        <p>
+          <span style="font-size: 18pt;">2015 SPRING TRAINING SCHEDULE</span>
+        </p>
+        <p>
+          <span style="font-size: 18pt;"><span style="text-decoration: underline;"><em><strong><span style="font-size: 12pt;">starting 3-8-15</span></strong></em></span></span>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        U8/9 VYSA Academy
+      </td>
+      <td>
+        Tuesday &amp; Thursday
+      </td>
+      <td>
+        530-630pm
+      </td>
+      <td>
+        Smith Complex
+      </td>
+      <td>
+        Lower Field
+      </td>
+    </tr>
+    <tr>
+      <td>
+        BU10 VYSA - KESSLER
+      </td>
+      <td>
+        <span>Tuesday &amp; Thursday</span>
+      </td>
+      <td>
+        <span>5:30-7pm</span>
+      </td>
+      <td>
+        <span>Smith Complex</span>
+      </td>
+      <td>
+        <span>Lower Field</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        BU11 VYSA - KIRK (Blue &amp; Navy)
+      </td>
+      <td>
+        <span>Tuesday &amp; Thursday</span>
+      </td>
+      <td>
+        <span>530-7pm</span>
+      </td>
+      <td>
+        <span>Smith Complex</span>
+      </td>
+      <td>
+        <span>Lower Field</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        BU12 VYSA - CRAWFORD
+      </td>
+      <td>
+        <span>Monday &amp; Wednesday</span>
+      </td>
+      <td>
+        <span>5-630pm</span>
+      </td>
+      <td>
+        <span>Smith Complex</span>
+      </td>
+      <td>
+        Upper Field
+      </td>
+    </tr>
+    <tr>
+      <td>
+        BU13 VYSA - HILL
+      </td>
+      <td>
+        <span>Monday &amp; Wednesday</span>
+      </td>
+      <td>
+        6-730pm
+      </td>
+      <td>
+        <span>Smith Complex</span>
+      </td>
+      <td>
+        <span>Upper Field</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        BU14 VYSA - HILL
+      </td>
+      <td>
+        <span>Monday &amp; Wednesday</span>
+      </td>
+      <td>
+        <span>6-730pm</span>
+      </td>
+      <td>
+        <span>Smith Complex</span>
+      </td>
+      <td>
+        <span>Upper Field</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        GU14 VYSA - WOHL
+      </td>
+      <td>
+        <span>Tuesday</span>
+      </td>
+      <td>
+        <span>430-6pm</span>
+      </td>
+      <td>
+        Smith Complex
+      </td>
+      <td>
+        Upper Field
+      </td>
+    </tr>
+    <tr>
+      <td>
+         
+      </td>
+      <td>
+        <span>Thursday</span>
+      </td>
+      <td>
+        <span>430-6pm</span>
+      </td>
+      <td>
+        Arnold Park
+      </td>
+      <td>
+        Clarkston
+      </td>
+    </tr>
+    <tr>
+      <td>
+        FUSION HS BOYS First Team
+      </td>
+      <td>
+        <span>Monday</span>
+      </td>
+      <td>
+        <span>530-7</span>
+      </td>
+      <td>
+        Smith Complex
+      </td>
+      <td>
+        Upper Field
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>FUSION HS GIRLS First Team</span>
+      </td>
+      <td>
+        <span>Thursday</span>
+      </td>
+      <td>
+        <span>7-830</span>
+      </td>
+      <td>
+        Smith Complex
+      </td>
+      <td>
+        Upper Field
+      </td>
+    </tr>
+  </tbody>
+</table></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<h2>THANK YOU SPONSORS!</h2>
+			<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.vysasoccer.org/imagedata/Powerade_Xion.png" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/PetersandKeatts.png" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/Picture1.png" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/StannoStadiumLogo1.jpeg" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/98.jpg" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/Big_Country_High_Res_Logo.jpg" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/InCell_Logo_w_PMS285.jpg" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/Farm_Bureau_Ins_of_Idaho.png" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/IPC.jpg" /></div><div class="slide"><img src="http://www.vysasoccer.org/imagedata/Eye_Care_Specialists.jpg" /></div></div>		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Fields &amp; Office Locations					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						VYSA Office<br/>622 Bryden Ave. Lewiston, ID 83501<br/>PO BOX 357<br/><br/>Smith Complex<br/>3401 13th Street, Lewiston, ID 83501<br/> <br/>Hathaway (lighted softball field)<br/>Bryden Ave &amp; 4th St.. Lewiston, ID 83501<br/><br/>Arnold Park<br/>1200 Maple St. Clarkston, WA 99403<br/><br/>Walker Field<br/>4th St &amp; Preston Ave Lewiston, ID 83501					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Internet Sports Registration Software for Leagues by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Valley Youth Soccer Association. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " rel="nofollow">Online Soccer Team Management </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en-us" id="ngin4015" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en-us" id="ngin4015" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en-us" id="ngin4015" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en-us" id="ngin4015" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-us" id="ngin4015"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-us" id="ngin4015"> <!--<![endif]-->
+<head>
+<!--[if lte IE 8]>
+    <meta http-equiv="refresh" content="0; url=/unsupported_browser" />
+    <script type="text/javascript">
+        window.top.location = '/unsupported_browser';
+    </script>
+<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7b8dc0b815","applicationID":"16731","transactionName":"IQkMERZcXApQQRZAAAUDTRYMXEc=","queueTime":1,"applicationTime":14,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAECQldVDwAB"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="11BId1VZ6fH5/OU5NHlzojcJ8+Id2N/R+qOjqYraj4I=" name="csrf-token" />
+  <title>Metro Tulsa Soccer Club</title>
+
+  <!-- application -->
+
+  <link rel="shortcut icon" href="http://assets.ngin.com/site_files/4015/favicon.ico" />
+
+  
+
+
+  <link href="http://app-assets2.sportngin.com/site_stylesheets/4015/page_elements.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets1.sportngin.com/site_stylesheets/4015/sports.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets3.sportngin.com/site_stylesheets/4015/reed.css?1427213208" id="LayoutThemeCSS" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://app-assets2.sportngin.com/site_stylesheets/4015/jquery_treeTable.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+
+  <!--[if IE 9]>
+  <script type="text/javascript" charset="utf-8">var IE = "9";</script>
+  <link href="http://app-assets2.sportngin.com/stylesheets/ie9/default_ie9.css?1427213208" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">var IE = "8";</script>
+<![endif]-->
+
+<!--[if IE 7]>
+  <script type="text/javascript" charset="utf-8">var IE = "7";</script>
+<![endif]-->
+
+<!--[if IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if lte IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if !IE]><!--><script type="text/javascript" charset="utf-8">var IE = null;</script><!-- <![endif]-->
+
+
+  
+
+  <link href="http://app-assets1.sportngin.com/stylesheets/print/website_print.css?1427213208" media="print" rel="stylesheet" type="text/css" />
+
+  <script type='text/javascript' src='/javascripts/jquery/jquery-1.7.1.min.js'></script>
+<script type='text/javascript'>
+  var $j = jQuery.noConflict();
+</script>
+
+
+  
+  <link href="http://assets.ngin.com/site_files/4015/4015_styles.css" media="screen" rel="stylesheet" type="text/css">
+<script type='text/javascript' src='http://assets.ngin.com/site_files/4015/4015_script.js'></script>
+    <style type="text/css">
+    
+  </style>
+
+
+
+  
+
+  <script protocol="http://" src="http://app-assets3.sportngin.com/javascripts/base_packaged.js?1427312913" type="text/javascript"></script>
+
+  <script src="http://app-assets3.sportngin.com/javascripts/dropdown_nav.js?1427312913" type="text/javascript"></script>
+
+  
+  
+
+      <meta property="og:title" content="HOME"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.metrotulsasoccer.com/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19"/>
+    <meta property="og:site_name" content="Metro Tulsa Soccer Club"/>
+
+    <script src="http://app-assets2.sportngin.com/javascripts/themes/.js?1427312913" type="text/javascript"></script>
+
+
+  
+    <!-- dynamic head code -->
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-821370-1']);
+    _gaq.push(['_setDomainName', 'metrotulsasoccer.com']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_setCustomVar', 1, 'Product','sport-ngin',3]);
+    _gaq.push(['_setCustomVar', 2, 'Sport','soccer',3]);
+    _gaq.push(['_setCustomVar', 3, 'SiteID','4015',3]);
+    _gaq.push(['_setCustomVar', 4, 'State','OK',3]);
+    _gaq.push(['_setCustomVar', 5, 'DMA','',3]);
+
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+
+  <!-- Quantcast Tag -->
+  <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+      var elem = document.createElement('script');
+
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+      _qevents.push({
+        qacct: "p-56Ph9bjA0FOcE",
+        labels: "Product.sport-ngin, Sport.soccer, State.OK, Site.4015, Ads.No"
+      });
+  </script>
+  <noscript>
+    <div style="display:none;">
+      <img alt="Quantcast" border="0" height="1" src="https://pixel.quantserve.com/pixel/p-56Ph9bjA0FOcE.gif" width="1" />
+    </div>
+  </noscript>
+  <!-- End Quantcast tag -->
+
+
+  <script type="text/javascript">var RecaptchaOptions = { theme : 'clean', tabindex : 3 };</script>
+  <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+
+</head>
+
+<body class="reed user_mode">
+
+
+    <script src="http://app-assets3.sportngin.com/javascripts/connect.facebook.net.en_US.all.js#xfbml=1?1427213208" type="text/javascript"></script>
+
+  <a href="#yieldContent" style="color:#FFF;position:absolute;height:1px;width:1px;left:-9999px;">skip navigation</a>
+
+  
+
+  <div id="top"></div>
+  
+  
+  
+
+
+  <div id="siteContainer2" class="siteContainer two_panel">
+    <ul id="accountNav">
+  
+    <li class="currentSite">
+      <a href="http://www.metrotulsasoccer.com" title="Metro Tulsa Soccer Club Homepage"></a>
+    </li>
+    <li class='enabled' id='login'><span><a href="https://login.sportngin.com" class="enabled" title="Login">Login</a></span></li>
+  
+  
+    <li class="nginLogo"><a href="http://www.sportngin.com/?utm_source=http://www.metrotulsasoccer.com&utm_medium=usertopnav&utm_campaign=applications" onclick="javascript:window.location=('http://www.sportngin.com/?utm_source=http://www.metrotulsasoccer.com&utm_medium=usertopnav&utm_campaign=applications'); return false;">Sport Ngin</a></li>
+
+
+</ul>
+
+    <div id="siteHeader" class="bannerGraphic">
+    <div class="tickerScroller">
+</div>      <h1><a href="http://www.metrotulsasoccer.com" title="Metro Tulsa Soccer Club Homepage">Metro Tulsa Soccer Club</a></h1>
+  
+  
+  
+</div>
+
+    <div id="topNav">
+        <table>
+  <tr>
+      <td align="center" class="home enabled firstNavElement" id="top_nav_node_page_node_842160">
+        <a id="nav_id-page_node_842160" href="/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19" title="click to go to &#x27;Metro Tulsa Soccer Club Welcomes you to Join the MTsc Nation, &quot;Where Kids Come First!&quot;  Check us Out; Open to all Oklahoma Youth Ages 2-19&#x27;"  >
+          HOME
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/844685-programs-vision-and-club-mission" class="" title="click to go to &#x27;Programs, Vision &amp; Club Mission&#x27;" >
+                Prog., Vision &amp; Mission
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844692-contact-and-or-locate-us" class="" title="click to go to &#x27;Contact and/or Locate Us&#x27;" >
+                Contact &amp; Locate Us
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844683-calendar-of-events-and-deadlines" class="" title="click to go to &#x27;Calendar of Events and Deadlines&#x27;" >
+                Calendar of Events
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/979552-field-map" class="" title="click to go to &#x27;Field Map&#x27;" >
+                Field Map
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844684-not-for-profit-status" class="" title="click to go to &#x27;Not-For-Profit Status&#x27;" >
+                Not-For-Profit Status
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844686-faqs-and-league-eligible-birth-dates" class="" title="click to go to &#x27;FAQs &amp; League Eligible Birth Dates&#x27;" >
+                FAQs &amp; League Ages
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844694-friendship-teams" class="" title="click to go to &#x27;Friendship Teams&#x27;" >
+                Friendship Teams
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844693-mtsc-forms" class="" title="click to go to &#x27;MTsc Forms&#x27;" >
+                Forms &amp; Links
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844697-safety-and-communication" class="" title="click to go to &#x27;Safety &amp; Communication&#x27;" >
+                Safety &amp; Communication
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1468184-mandatory-coach-and-administrator-background-check" class="" title="click to go to &#x27;Mandatory Coach and Administrator Background Check&#x27;" >
+                Background Check
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/891736-coaches-resource-center" class="" title="click to go to &#x27;Coaches Resource Center&#x27;" >
+                Coach Resource Center
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844688-referee-program" class="" title="click to go to &#x27;Referee Program&#x27;" >
+                Referee Program
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844695-team-spirit-wear-orders-and-uniform-reorders-plus-misc-payments" class="" title="click to go to &#x27;Team Spirit Wear Orders &amp; Uniform Reorders PLUS Misc. Payments&#x27;" >
+                Spirit Wear &amp; Uniforms
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1213327-college-scholarships-and-planning" class="" title="click to go to &#x27;College Scholarships and Planning&#x27;" >
+                College Scholarships
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1415230-tournaments-the-challenger-series" class="" title="click to go to &#x27;Tournaments - The Challenger Series&#x27;" >
+                Tournaments
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844687-summer-camps" class="" title="click to go to &#x27;Summer Camps&#x27;" >
+                Summer Camps
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1468198-photo-gallery-of-select-mtsc-soccer-royalty-and-family-fun-events" class="" title="click to go to &#x27;Photo Gallery of Select MTsc Soccer Royalty and Family Fun Events&#x27;" >
+                Photo Gallery 
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844690-visit-our-sponsors" class="" title="click to go to &#x27;Visit Our Sponsors&#x27;" >
+                Visit Our Sponsors
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/844696-local-soccer-central" class="" title="click to go to &#x27;Local Soccer Central&#x27;" >
+                Local Soccer Central
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1441989-mtsc-news-scroller" class="" title="click to go to &#x27;MTsc NEWS Scroller&#x27;" >
+                MTsc NEWS Scroller
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1512718-metro-tulsa-soccer-social-media" class="" title="click to go to &#x27;METRO TULSA SOCCER SOCIAL MEDIA&#x27;" >
+                SOCIAL MEDIA
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_844677">
+        <a id="nav_id-page_node_844677" href="/page/show/844677-online-registration" title="click to go to &#x27;Online Registration&#x27;"  >
+          ONLINE REGISTRATION
+        </a>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_844678">
+        <a id="nav_id-page_node_844678" href="/page/show/844678-mtsc-recreational-random-draw-and-friendship-team-league-soccer" title="click to go to &#x27;MTsc Recreational Random Draw &amp; Friendship Team League Soccer&#x27;"  >
+          RECREATIONAL/FRIENDSHIP
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/1471713-recreational-rec-random-draw-rd-and-friendship-team-ft-league-quick-glance" class="" title="click to go to &#x27;Recreational (REC) Random Draw (RD) &amp; Friendship Team (FT) League Quick Glance&#x27;" >
+                Rec FT/RD League (REC)
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1475460-registration-and-fee-policy" class="" title="click to go to &#x27;Registration and Fee Policy&#x27;" >
+                Registration
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/1475461-periods-and-process" class="" title="click to go to &#x27;Periods &amp; Process&#x27;" >
+                    Periods &amp; Process
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1475462-registration-and-fee-payment-policy" class="" title="click to go to &#x27;Registration and Fee Payment Policy&#x27;" >
+                    Registration and Fees
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1475463-wait-list-procedures" class="" title="click to go to &#x27;Wait List Procedures&#x27;" >
+                    Wait List Procedures
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1475464-financial-aid-scholarships" class="" title="click to go to &#x27;Financial Aid Scholarships&#x27;" >
+                    Financial Aid 
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/1475465-team-formation" class="" title="click to go to &#x27;Team Formation&#x27;" >
+                Team Formation
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1475466-coach-rules-and-responsibilities" class="" title="click to go to &#x27;Coach Rules &amp; Responsibilities&#x27;" >
+                Coach Rules &amp; Resp.
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1475467-parent-guardian-rules-and-responsibilities" class="" title="click to go to &#x27;Parent/Guardian Rules and Responsibilities&#x27;" >
+                Parent Rules &amp; Resp.
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_1213176">
+        <a id="nav_id-page_node_1213176" href="/page/show/1213176-mtsc-specialty-soccer-programs" title="click to go to &#x27;MTsc Specialty Soccer Programs&#x27;"  >
+          PDP, M&amp;M, SAC PROGRAMS
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/1420337-player-development-pdp-skills-training-program-quick-glance-and-program-content" class="" title="click to go to &#x27;Player Development (PDP) Skills Training Program Quick Glance and Program Content&#x27;" >
+                Player Skills Dev (PDP)
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1468237-mommy-or-daddy-and-me-mandm-soccer-program-quick-glance-and-program-content" class="" title="click to go to &#x27;Mommy or Daddy &amp; Me (M&amp;M) Soccer Program Quick Glance and Program Content&#x27;" >
+                Mom or Dad &amp; Me (M&amp;M)
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1468295-speed-agility-and-conditioning-sac-program-quick-glance-and-program-content" class="" title="click to go to &#x27;Speed, Agility and Conditioning (SAC) Program Quick Glance and Program Content&#x27;" >
+                Speed and Agility (SAC)
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1420377-registration-and-fee-policy" class="" title="click to go to &#x27;Registration and Fee Policy&#x27;" >
+                REGISTRATION POLICY
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled" id="top_nav_node_page_node_844679">
+        <a id="nav_id-page_node_844679" href="/page/show/844679-mtsc-special-needs-league-snl-" title="click to go to &#x27;MTsc Special Needs League (SNL)&#x27;"  >
+          SPECIAL NEEDS LEAGUE
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="/page/show/1470980-special-needs-league-snl-program-quick-glance-and-program-content" class="" title="click to go to &#x27;Special Needs League (SNL) Program Quick Glance and Program Content&#x27;" >
+                Special Needs (SNL)
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1475469-registration-and-fee-policy" class="" title="click to go to &#x27;Registration and Fee Policy&#x27;" >
+                Registration
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="/page/show/1475470-periods-and-process" class="" title="click to go to &#x27;Periods &amp; Process&#x27;" >
+                    Periods &amp; Process
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1475471-registration-and-fee-payment-policy" class="" title="click to go to &#x27;Registration &amp; Fee Payment Policy&#x27;" >
+                    Registration &amp; Fees
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1475472-financial-aid-scholarships" class="" title="click to go to &#x27;Financial Aid Scholarships&#x27;" >
+                    Financial Aid
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/1475473-coach-rules-and-responsibilities" class="" title="click to go to &#x27;Coach Rules &amp; Responsibilities&#x27;" >
+                Coach Rules &amp; Resp.
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1475474-parent-guardian-rules-and-responsibilities" class="" title="click to go to &#x27;Parent/Guardian Rules and Responsibilities&#x27;" >
+                Parent Rules &amp; Resp.
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+      <td align="center" class="enabled lastNavElement" id="top_nav_node_page_node_844681">
+        <a id="nav_id-page_node_844681" href="/page/show/844681-mtsc-competitive-program" title="click to go to &#x27;MTsc Competitive Program&#x27;"  >
+          COMPETITVE PROGRAM
+        </a>
+          <ul class="dropdown">
+            <li>
+              <a href="http://tschurricane.com/about/index_E.html" class="" title="TSC Hurricane Information"  target=_blank>
+                TSC HURRICANE
+                
+              </a>
+            </li>
+            <li>
+              <a href="http://tschurricane.com/iSoccer/index_E.html" class="" title="Juniors Program Information"  target=_blank>
+                Juniors Program
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1214380-registration-info" class="" title="click to go to &#x27;Registration Info&#x27;" >
+                Registration Info
+                <span class="dropdown-disclosure"></span>
+              </a>
+              <ul>
+                <li>
+                  <a href="http://tschurricane.com/registrations/index_E.html" class="" title="Team Registration" target=_blank>
+                    Team Registration
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.tschurricane.com/tryouts/529512.html" class="" title="Registration &amp; Fee Policy" target=_blank>
+                    Registration Policy
+                  </a>
+                </li>
+                <li>
+                  <a href="/page/show/1214386-competitive-program-financial-aid" class="" title="click to go to &#x27;Competitive Program Financial Aid&#x27;" >
+                    Financial Aid
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/page/show/890591-coach-rules-and-responsibilities" class="" title="click to go to &#x27;Coach Rules &amp; Responsibilities&#x27;" >
+                Coach Rules &amp; Resp.
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1420815-parent-guardian-rules-and-responsibilities" class="" title="click to go to &#x27;Parent/Guardian Rules and Responsibilities&#x27;" >
+                Parent Rules &amp; Resp.
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1214389-referee-non-payment-and-no-show-fees" class="" title="click to go to &#x27;Referee Non-Payment &amp; No-Show Fees&#x27;" >
+                Ref NonPayment &amp; Noshow
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/890524-game-no-show-cancellation-and-rescheduling" class="" title="click to go to &#x27;Game No-Show, Cancellation, &amp; Rescheduling&#x27;" >
+                Game Rescheduling
+                
+              </a>
+            </li>
+            <li>
+              <a href="/page/show/1214391-competitive-juniors-friendlies-day-and-scheduled-competitive-scrimmage-policies" class="" title="click to go to &#x27;Competitive / Juniors Friendlies Day and Scheduled Competitive Scrimmage Policies&#x27;" >
+                Friendlies &amp; Scrimmages
+                
+              </a>
+            </li>
+          </ul>
+      </td>
+
+
+
+  </tr>
+</table>
+
+<script type="text/javascript">
+  dropdown_nav_init();
+</script>
+
+
+</div>
+
+<script type="text/javascript">
+  function topNavSelect(){
+	   $j('#nav_id-page_node_842160').addClass('selected').closest('td').addClass('selected');
+  }
+</script>
+
+<script type="text/javascript" charset="utf-8">
+  $j(function(){
+    $j('#topNav').trigger('topnav.loaded');
+  });
+</script>
+
+
+    
+    <div id="pageContentContainer">
+      
+        <div id="panelOne">
+          <div class="subNavContainer">
+  <div class="subNav">
+    <h4>Current Section</h4>
+      <ul class="parents" id="parent_nodes">
+        <li id="page_node_842160" class="enabled selected"><a href="/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19" title="click to go to 'Metro Tulsa Soccer Club Welcomes you to Join the MTsc Nation, "Where Kids Come First!"  Check us Out; Open to all Oklahoma Youth Ages 2-19'">HOME</a></li>
+      </ul>
+
+      <ul class="children" id="child_nodes">
+          <li id="page_node_844685" class="enabled"><a href="/page/show/844685-programs-vision-and-club-mission" title="click to go to 'Programs, Vision & Club Mission'">Prog., Vision & Mission</a></li>
+          <li id="page_node_844692" class="enabled"><a href="/page/show/844692-contact-and-or-locate-us" title="click to go to 'Contact and/or Locate Us'">Contact & Locate Us</a></li>
+          <li id="page_node_844683" class="enabled"><a href="/page/show/844683-calendar-of-events-and-deadlines" title="click to go to 'Calendar of Events and Deadlines'">Calendar of Events</a></li>
+          <li id="page_node_979552" class="enabled"><a href="/page/show/979552-field-map" title="click to go to 'Field Map'">Field Map</a></li>
+          <li id="page_node_844684" class="enabled"><a href="/page/show/844684-not-for-profit-status" title="click to go to 'Not-For-Profit Status'">Not-For-Profit Status</a></li>
+          <li id="page_node_844686" class="enabled"><a href="/page/show/844686-faqs-and-league-eligible-birth-dates" title="click to go to 'FAQs & League Eligible Birth Dates'">FAQs & League Ages</a></li>
+          <li id="page_node_844694" class="enabled"><a href="/page/show/844694-friendship-teams" title="click to go to 'Friendship Teams'">Friendship Teams</a></li>
+          <li id="page_node_844693" class="enabled"><a href="/page/show/844693-mtsc-forms" title="click to go to 'MTsc Forms'">Forms & Links</a></li>
+          <li id="page_node_844697" class="enabled"><a href="/page/show/844697-safety-and-communication" title="click to go to 'Safety & Communication'">Safety & Communication</a></li>
+          <li id="page_node_1468184" class="enabled"><a href="/page/show/1468184-mandatory-coach-and-administrator-background-check" title="click to go to 'Mandatory Coach and Administrator Background Check'">Background Check</a></li>
+          <li id="page_node_891736" class="enabled"><a href="/page/show/891736-coaches-resource-center" title="click to go to 'Coaches Resource Center'">Coach Resource Center</a></li>
+          <li id="page_node_844688" class="enabled"><a href="/page/show/844688-referee-program" title="click to go to 'Referee Program'">Referee Program</a></li>
+          <li id="page_node_844695" class="enabled"><a href="/page/show/844695-team-spirit-wear-orders-and-uniform-reorders-plus-misc-payments" title="click to go to 'Team Spirit Wear Orders & Uniform Reorders PLUS Misc. Payments'">Spirit Wear & Uniforms</a></li>
+          <li id="page_node_1213327" class="enabled"><a href="/page/show/1213327-college-scholarships-and-planning" title="click to go to 'College Scholarships and Planning'">College Scholarships</a></li>
+          <li id="page_node_1415230" class="enabled"><a href="/page/show/1415230-tournaments-the-challenger-series" title="click to go to 'Tournaments - The Challenger Series'">Tournaments</a></li>
+          <li id="page_node_844687" class="enabled"><a href="/page/show/844687-summer-camps" title="click to go to 'Summer Camps'">Summer Camps</a></li>
+          <li id="page_node_1468198" class="enabled"><a href="/page/show/1468198-photo-gallery-of-select-mtsc-soccer-royalty-and-family-fun-events" title="click to go to 'Photo Gallery of Select MTsc Soccer Royalty and Family Fun Events'">Photo Gallery </a></li>
+          <li id="page_node_844690" class="enabled"><a href="/page/show/844690-visit-our-sponsors" title="click to go to 'Visit Our Sponsors'">Visit Our Sponsors</a></li>
+          <li id="page_node_844696" class="enabled"><a href="/page/show/844696-local-soccer-central" title="click to go to 'Local Soccer Central'">Local Soccer Central</a></li>
+          <li id="page_node_1441989" class="enabled"><a href="/page/show/1441989-mtsc-news-scroller" title="click to go to 'MTsc NEWS Scroller'">MTsc NEWS Scroller</a></li>
+          <li id="page_node_1512718" class="enabled"><a href="/page/show/1512718-metro-tulsa-soccer-social-media" title="click to go to 'METRO TULSA SOCCER SOCIAL MEDIA'">SOCIAL MEDIA</a></li>
+      </ul>
+  </div>
+
+</div>
+
+
+
+          <div id="leftHandGraphics">
+      <div class="clientGraphic raw_html">
+          <img src="http://cdn4.sportngin.com/attachments/photo/4106/1899/Left_Top.png" alt="MTsc" width="225" height="750" border="0" usemap="#mtscclub" />
+  <map name="mtscclub">
+<area shape="rect" coords="1,0,225,185" href="http://www.metrotulsasoccer.com/" alt="MTsc" title="MTsc">
+<area shape="rect" coords="1,195,225,340" href="http://www.usclubsoccer.org/" alt="USClub" title="USClub">
+<area shape="rect" coords="1,355,225,545" href="http://www.usyouthsoccer.org/" alt="USYouth" title="USYouth">
+<area shape="rect" coords="1,560,225,750" href="http://www.tschurricane.com/" alt="TSC" title="TSC">
+  </map>
+      </div>
+      <div class="clientGraphic image">
+          <a href="http://www.metrotulsasoccer.com/page/show/1468295-speed-agility-and-conditioning-sac-program-quick-glance-and-program-content" target="_blank"><img alt="Sac_-_mtsc_edited" src="http://cdn2.sportngin.com/attachments/lefthand_graphic/4106/3106/SAC_-_MTsc_edited.jpg" /></a>
+      </div>
+      <div class="clientGraphic image">
+          <a href="http://www.wnba.com/shock/index_main.html" target="_blank"><img alt="Tulsa_shock_logo_white" src="http://cdn1.sportngin.com/attachments/lefthand_graphic/4045/3586/Tulsa_Shock_Logo_White.jpg" /></a>
+      </div>
+
+
+</div>
+
+
+
+        </div><!-- closing panelOne -->
+      <div id="panelTwo">
+        <div id="displayBodyContent">
+          <div id="yieldContent">
+              <h2 id="displayBodyHeader" class=""><span>Metro Tulsa Soccer Club Welcomes you to Join the MTsc Nation, &quot;Where Kids Come First!&quot;  Check us Out; Open to all Oklahoma Youth Ages 2-19</span></h2>
+
+
+            <div id="errorNotice">
+  
+  
+  
+  
+</div>
+
+
+
+            <div class='yieldAdminContent'></div>
+            <div class='yieldPageContent'>
+                    
+
+        <div class="layoutContainer twoColumn6633 ">
+    
+          <div class="column1 column pe66">
+                <div id="pageEl_32544650" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: center;"><span>Metro Tulsa Soccer Club (MTsc) Introduction Video</span></h3>
+
+
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_36872373" class="pageEl"  >
+  
+          
+<div class="pageElement videoElement">
+    <div class="video_aspect_ratio external_controls" style="padding-top:75.0%;" data-aspect-ratio="0.75">
+        <div class="video" id="lMDuPeAnPAA_39045">
+        <iframe width="100%" height="100%" src="http://www.youtube.com/embed/lMDuPeAnPAA?rel=0&amp;autoplay=0&amp;loop=0&amp;wmode=opaque" frameborder="0"></iframe>
+        </div>
+    </div>
+</div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_36623681" class="pageEl"  >
+  
+      <div class="pageElement newsSlideShow">
+  <div 
+    id="newsSlideShow_21222"
+    class="newsSlideShow-container layout_classic aspect_ratio_16_9"
+    data-newsSlideShow='{"autoplay":"true", "aspect_ratio":"16:9", "display_time":"5", "id":"21222", "transition_type":"Cross Fade", "url":"/news_article/load_news_slideshow_gallery/21222.json?width_percentage=66"}'
+  >
+    <ul class="newsSlideShow-thumbnails"></ul>
+    <div class="newsSlideShow-controls">
+      <button class="newsSlideShow-prev pill-small-left">&larr;</button><button class="newsSlideShow-stop pill-small-middle">Stop</button><button class="newsSlideShow-play pill-small-middle">Play</button><button class="newsSlideShow-next pill-small-right">&rarr;</button>
+    </div>
+  </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_37348698" class="pageEl"  >
+  
+        <div class="pageElement aggregatorElement newsAggregatorElement">
+
+      <h3 class="aggHeader"><span>News & Announcements</span></h3>
+
+      
+      <div class="odd item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/492120?referrer_id=842160"><img alt="" src="http://cdn2.sportngin.com/attachments/news_article/4604/5629/FREE_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/492120?referrer_id=842160" class="">FREE Mommy or Daddy & Me (M&M) Sessions for 2-4 Year Olds Saturday, March 28</a></h4></li>
+    <li class="dateAuthor">03/17/2015, 12:00pm CDT<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/492120?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="even item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/477532?referrer_id=842160"><img alt="SUNDAY, MARCH 8TH AT TULSA HILLS DICK&#x27;S SPORTING GOODS" src="http://cdn2.sportngin.com/attachments/news_article/4460/7549/DSG_xsMALL_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/477532?referrer_id=842160" class="">ADDED MTSC SHOP DAY AT DICK'S SPORTING GOODS + YEAR-ROUND SAVINGS</a></h4></li>
+    <li class="dateAuthor">03/02/2015,  6:45am CST<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView">MARCH 8TH AT TULSA HILLS SAVE 20% ON ALMOST ANYTHING + 10% YEAR ROUND ON SOCCER GEAR ONLY</li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/477532?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="odd item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/483731?referrer_id=842160"><img alt="" src="http://cdn1.sportngin.com/attachments/news_article/4530/9225/Tulsa_Roughnecks_Schedule_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/483731?referrer_id=842160" class="">New Pro Soccer Team the Tulsa Roughnecks, FC are coming to MTsc</a></h4></li>
+    <li class="dateAuthor">02/25/2015,  6:45pm CST<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/483731?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="even item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/421243?referrer_id=842160"><img alt="" src="http://cdn2.sportngin.com/attachments/news_article/3907/5088/pdp_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/421243?referrer_id=842160" class="">Player Development (PDP) Skills Training for 5 1/2 to 8 1/2 Year Old Athletes NOW Accepting Registrations</a></h4></li>
+    <li class="dateAuthor">02/01/2015, 11:00pm CST<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/421243?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="odd item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/381002?referrer_id=842160"><img alt="" src="http://cdn4.sportngin.com/attachments/news_article/4242/2435/Mommy_or_Daddy___Me_Jersey_Design_1_edited_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/381002?referrer_id=842160" class="">Register now for MTsc Mommy or Daddy & Me (M&M) Soccer for 2 to 4 Year Old Athletes and their Parents</a></h4></li>
+    <li class="dateAuthor">12/09/2014,  9:00pm CST<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/381002?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="even item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/378630?referrer_id=842160"><img alt="" src="http://cdn1.sportngin.com/attachments/news_article/4285/0775/Spring_soccer_3_edited_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/378630?referrer_id=842160" class="">Spring Soccer Online Registration is Open!</a></h4></li>
+    <li class="dateAuthor">12/07/2014, 11:30pm CST<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/378630?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="odd item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/272969?referrer_id=842160"><img alt="" src="http://cdn2.sportngin.com/attachments/news_article/4107/6691/SNL_Color_edited_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/272969?referrer_id=842160" class="">MTsc Special Needs Leagues (SNL) NOW Accepting Registrations</a></h4></li>
+    <li class="dateAuthor">12/06/2014,  9:30am CST<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/272969?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="even item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/272983?referrer_id=842160"><img alt="" src="http://cdn1.sportngin.com/attachments/news_article/4285/0787/twitter-logo_edited_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/272983?referrer_id=842160" class="">Follow MTsc with Twitter & Facebook for Game Day Weather Related Announcements </a></h4></li>
+    <li class="dateAuthor">10/11/2014,  5:45pm CDT<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView">For Game Day Updates Follow MTsc on Facebook and Twitter</li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/272983?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="odd item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/381006?referrer_id=842160"><img alt="" src="http://cdn3.sportngin.com/attachments/news_article/4285/0694/Facebook_Front_edited_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/381006?referrer_id=842160" class="">Find out Much More about MTsc through its Facebook Page "Metro Tulsa Soccer Club"</a></h4></li>
+    <li class="dateAuthor">09/18/2014, 11:00pm CDT<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/381006?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+      <div class="even item  condensed">
+    <a href="http://www.metrotulsasoccer.com/news_article/show/272979?referrer_id=842160"><img alt="" src="http://cdn4.sportngin.com/attachments/news_article/3907/5280/TSCElite_thumb.jpg" /></a>
+    <ul class="details">
+    
+    <li><h4><a href="http://www.metrotulsasoccer.com/news_article/show/272979?referrer_id=842160" class="">MTsc's Competitive Program TSC Hurricane is Unmatched Statewide - ONLY National Elite League Club in OK </a></h4></li>
+    <li class="dateAuthor">09/18/2014, 11:00pm CDT<span class="expandedView">, By MTsc</span></li>
+    <li class="teaser expandedView"></li>
+    <li class="commentsAndMore expandedView">
+      <span class="readMore">
+        <a href="http://www.metrotulsasoccer.com/news_article/show/272979?referrer_id=842160" class="button-small">Read More</a>
+      </span>
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+
+      <div class="extendedOptions item odd" style="text-align:right;">
+        <link href="/news_rss_feed?tags=842160" rel="alternate" title="WWW News with Tags: HOME" type="application/rss+xml" id="rssFeed" />
+          <a href="/page/show/891544?news_aggregator=501150" class="goToLink icon" title="View All">View All</a> |
+        <a href="/news_article/rss_instructions?tags=842160" class="rssLink icon lbOn" style="display:none" title="Subscribe to RSS Feed">RSS</a>
+      </div>
+
+  </div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_32811030" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: center;"><span>MTsc Nation, "Where Kids Come First!"</span></h3>
+
+
+	    <div class="rightTextImage largeTextImage" style="width:250px; min-height:184px">
+
+      	<a href="http://www.metrotulsasoccer.com/page/show/844677-online-registration" target='_blank'>
+
+      <img alt="" src="http://cdn3.sportngin.com/attachments/text_block/4078/0917/Uncle_Sam_large.png" style="width: 250px" />
+
+      </a>
+
+    
+  </div>
+
+    <div class="text clearfix">
+    <p>Metro Tulsa Soccer Club (MTsc) offers soccer programs for all&nbsp;levels of skill for youth players ages 2&nbsp;- 19 years old from throughout Oklahoma.&nbsp; All our Programs are open to all youth&nbsp;regardless of where you live. &nbsp;<span style="background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:lucida grande,verdana,geneva,helvetica,arial,sans; font-size:12px">MTsc offers programs for youth players of all capabilities from special needs to recreational to elite premier state, regional and national level teams.&nbsp;</span>&nbsp;Let your child&#39;s journey start and end with MTsc.</p>
+
+<p style="text-align: center;"><strong>MTsc&nbsp;Programs Include</strong></p>
+
+<ol>
+	<li>Recreational (REC) Random Draw (RD)&nbsp;and Friendship Team (FT)&nbsp;Closed and Open Leagues</li>
+	<li>Special Needs League (SNL)</li>
+	<li>Player&nbsp;Development (PDP) Skills Training</li>
+	<li>Mommy or Daddy &amp; Me&nbsp;(M&amp;M) Soccer</li>
+	<li>Speed, Agiligty and Conditioning (SAC)</li>
+	<li>Competitive Soccer (TSC Hurricane)</li>
+</ol>
+
+<p>Additionally, MTsc has up to five tournaments per year (as part of it Challenger Series) including the largest 3v3 tournament in the nation (2 years running) and Oklahoma&#39;s largest college showcase.&nbsp; It also holds various Soccer Schools for free throughout the year.</p>
+
+<p>To find out more about the Programs we offer, please choose the Program links both above and to your left.</p>
+
+<p>If you have any questions feel free to email us at MTscParentsOnly@att.net (for parents) and all others at&nbsp;<a href="mailto:?metrotulsasoccer@att.net"><span style="color:rgb(0, 0, 205)">MetroTulsaSoccer@att.net</span></a>&nbsp;or call us at&nbsp;(918) 298-0190</p>
+
+    </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe33">
+                <div id="pageEl_115822909" class="pageEl"  >
+  
+        <div class="pageElement heroPhotoElement">
+      <a href="http://www.metrotulsasoccer.com/page/show/1415230-tournaments-the-challenger-series" target="_blank">   
+    
+      <img src="http://cdn3.sportngin.com/attachments/photo/4479/7499/Youth_Soccer_small.jpg" alt="" />
+      </a>
+      </div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_36625810" class="pageEl"  >
+  
+    <script type="text/javascript">
+      $j('#pageEl_36625810').load('/page_element/ajax/36625810?width_percentage=33&page_node_id=842160&subseason=', function() {
+        rebind_lbon()
+        if ($j(".iframeHeader").length) {
+          $j("body").trigger("resizeIframe")
+        } else {
+          $j("body").trigger("pageElementAjaxLoad")
+        }
+      });
+    </script>
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_106234123" class="pageEl"  >
+  
+      <div class="pageElement codeElement">
+  <a href="http://www.metrotulsasoccer.com/page/show/1512718-social-media-information" target="_blank">
+<img src="http://cdn2.sportngin.com/attachments/photo/4192/6354/FB_TWITTER.jpg" border="0" style="border:none;max-width:100%;" alt="MTSC SOCIAL MEDIA" />
+</a>
+  <span class="clearAll"></span>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_94908935" class="pageEl"  >
+  
+        <div class="pageElement heroPhotoElement">
+      <a href="http://assets.ngin.com/attachments/document/0064/4467/MTsc_Master_Consolidated_White_Book_CLEAN_11-1-14.pdf" target="_blank">   
+    
+      <img src="http://cdn3.sportngin.com/attachments/photo/4045/2308/WHITEBOOKCOVER.jpg" alt="" />
+      </a>
+      </div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_96979808" class="pageEl"  >
+  
+        <div class="pageElement heroPhotoElement">
+      <a href="http://www.metrotulsasoccer.com/page/show/844677-online-registration" target="_blank">   
+    
+      <img src="http://cdn3.sportngin.com/attachments/photo/4077/6534/King_Maximus_1_edited_small.jpg" alt="" />
+      </a>
+    <br/>
+      <p class="cutline">King Maximus (or &quot;Max&quot; for short) is MTsc nation&#x27;s leader and MTsc&#x27;s players are his royal subjects.  To see pics of his royal subjects see our Photo Gallery on the left side banner or our Facebook Page &quot;Metro Tulsa Soccer Club&quot; for over 20,000 pics.</p>
+  </div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_32805278" class="pageEl"  >
+  
+      <div class="pageElement aggregatorElement eventAggregatorElement">
+  <h3 class="aggHeader"><span>Calendar of Events</span></h3>
+	 
+
+    <div class="vevent even">
+  <ul class="dateImage">
+    <li class="month">Mar</li>
+    <li class="date">25</li>
+  </ul>
+  <h5 class="summary">
+    <a href="http://www.metrotulsasoccer.com/event/show/108419733?dy=25&amp;mth=3&amp;yr=2015" class="url uid" escape="false">GAME SCHEDULE &amp; COACH CARD PICK-UP (for all ages and all teams)</a>
+  </h5>
+  <ul class="details">
+    <li class="time">
+        <abbr class="dtstart" title='2015-03-25T11:00:00-0500'>11:00am</abbr>-<abbr class="dtend" title="2015-03-25T14:00:00-0500"> 2:00pm (CDT)</abbr>
+      <a href="/single_event/ical_feed?event_id=" title="Download"><img alt="Ical_event_icon" class="ics_file_download" src="http://app-assets3.sportngin.com/app_images/ical_event_icon.png?1427213208" /></a>
+    </li>
+
+      <li class="location">MTsc Office</li>
+
+      <li class="description"><p>For any coach that turns in their Team Representative Form to the MTsc Office and has their Background Check done, they may pick up their game schedule and MTsc Coach&#39;s Card during thier assigned evening or during any regular office hour from 11 am - 2 pm through Friday.</p>
+</li>
+
+    <li class="tags">
+		Tag(s):       <a href="http://www.metrotulsasoccer.com/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19">HOME</a>&nbsp;
+
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+    <div class="vevent odd">
+  <ul class="dateImage">
+    <li class="month">Mar</li>
+    <li class="date">26</li>
+  </ul>
+  <h5 class="summary">
+    <a href="http://www.metrotulsasoccer.com/event/show/108422616?dy=26&amp;mth=3&amp;yr=2015" class="url uid" escape="false">GAME SCHEDULE &amp; COACH CARD PICK-UP (for all ages and all teams)</a>
+  </h5>
+  <ul class="details">
+    <li class="time">
+        <abbr class="dtstart" title='2015-03-26T11:00:00-0500'>11:00am</abbr>-<abbr class="dtend" title="2015-03-26T14:00:00-0500"> 2:00pm (CDT)</abbr>
+      <a href="/single_event/ical_feed?event_id=" title="Download"><img alt="Ical_event_icon" class="ics_file_download" src="http://app-assets3.sportngin.com/app_images/ical_event_icon.png?1427213208" /></a>
+    </li>
+
+      <li class="location">MTsc Office</li>
+
+      <li class="description"><p>For any coach that turns in their Team Representative Form to the MTsc Office and has their Background Check done, they may pick up their game schedule and MTsc Coach&#39;s Card during thier assigned evening or during any regular office hour from 11 am - 2 pm through Friday.</p>
+</li>
+
+    <li class="tags">
+		Tag(s):       <a href="http://www.metrotulsasoccer.com/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19">HOME</a>&nbsp;
+
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+    <div class="vevent even">
+  <ul class="dateImage">
+    <li class="month">Mar</li>
+    <li class="date">27</li>
+  </ul>
+  <h5 class="summary">
+    <a href="http://www.metrotulsasoccer.com/event/show/108422625?dy=27&amp;mth=3&amp;yr=2015" class="url uid" escape="false">GAME SCHEDULE &amp; COACH CARD PICK-UP (for all ages and all teams)</a>
+  </h5>
+  <ul class="details">
+    <li class="time">
+        <abbr class="dtstart" title='2015-03-27T11:00:00-0500'>11:00am</abbr>-<abbr class="dtend" title="2015-03-27T14:00:00-0500"> 2:00pm (CDT)</abbr>
+      <a href="/single_event/ical_feed?event_id=" title="Download"><img alt="Ical_event_icon" class="ics_file_download" src="http://app-assets3.sportngin.com/app_images/ical_event_icon.png?1427213208" /></a>
+    </li>
+
+      <li class="location">MTsc Office</li>
+
+      <li class="description"><p>For any coach that turns in their Team Representative Form to the MTsc Office and has their Background Check done, they may pick up their game schedule and MTsc Coach&#39;s Card during thier assigned evening or during any regular office hour from 11 am - 2 pm through Friday.</p>
+</li>
+
+    <li class="tags">
+		Tag(s):       <a href="http://www.metrotulsasoccer.com/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19">HOME</a>&nbsp;
+
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+    <div class="vevent odd">
+  <ul class="dateImage">
+    <li class="month">Mar</li>
+    <li class="date">28</li>
+  </ul>
+  <h5 class="summary">
+    <a href="http://www.metrotulsasoccer.com/event/show/82926261?dy=28&amp;mth=3&amp;yr=2015" class="url uid" escape="false">FIRST GAME except for MTsc Special Needs League (SNL)</a>
+  </h5>
+  <ul class="details">
+    <li class="time">
+        All Day Event
+      <a href="/single_event/ical_feed?event_id=" title="Download"><img alt="Ical_event_icon" class="ics_file_download" src="http://app-assets3.sportngin.com/app_images/ical_event_icon.png?1427213208" /></a>
+    </li>
+
+
+      <li class="description"><p>Spring Season Begins!</p>
+</li>
+
+    <li class="tags">
+		Tag(s):       <a href="http://www.metrotulsasoccer.com/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19">HOME</a>&nbsp;
+
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+    <div class="vevent even">
+  <ul class="dateImage">
+    <li class="month">Mar</li>
+    <li class="date">28</li>
+  </ul>
+  <h5 class="summary">
+    <a href="http://www.metrotulsasoccer.com/event/show/114860789" class="url uid" escape="false">M&amp;M Kick-Off Celebration &amp; Free Trial Sessions</a>
+  </h5>
+  <ul class="details">
+    <li class="time">
+        <abbr class="dtstart" title='2015-03-28T09:00:00-0500'> 9:00am</abbr>-<abbr class="dtend" title="2015-03-28T15:00:00-0500"> 3:00pm (CDT)</abbr>
+      <a href="/single_event/ical_feed?event_id=114860789" title="Download"><img alt="Ical_event_icon" class="ics_file_download" src="http://app-assets3.sportngin.com/app_images/ical_event_icon.png?1427213208" /></a>
+    </li>
+
+      <li class="location">MTsc SoccerPlex South Side Field 2A and 2C (behind the MTsc Office)</li>
+
+      <li class="description"><p>FREE M&amp;M sessions for 2 to 4 year olds and one of their parents/guardians to participate in at&nbsp;9:30 a.m. and&nbsp;12:00 p.m. (each session approximately 50 minutes in length)</p>
+
+<p>Pre-Registration is required to&nbsp;reserve&nbsp;a limited spot. &nbsp;Pre-register by sending an email to either <a href='mailto:MTscGirlAC@att.net'>MTscGirlAC@att.net</a> (<strong>if your child is a <span style="color:#FF0000">gir</span></strong><span style="color:#FF0000">l</span>) or <a href='mailto:MTscBoyAC@att.net'>MTscBoyAC@att.net</a> <strong>(if your child is a <span style="color:#FF0000">boy</span></strong>) with the below information. &nbsp;</p>
+
+<p><strong><span style="color:#993300"><span style="font-family:calibri"><span style="font-size:14.0pt">To pre-register, please send an email to the appropriate email below and provide the following information:</span></span></span></strong></p>
+
+<p><span style="font-family:calibri">In the email Subject line insert: &ldquo;<strong>MTsc M&amp;M Trial Session Pre-Registration</strong>&rdquo;</span></p>
+
+<p style="margin-left:.25in"><span style="font-family:calibri">In the body of the email please insert:</span></p>
+
+<ol>
+	<li><span style="font-family:calibri">&ldquo;Participating Parent&rsquo;s First &amp; Last Name: ____________&rdquo;</span></li>
+	<li><span style="font-family:calibri">&ldquo;Participating Child&rsquo;s First Name: _____________&rdquo;</span></li>
+	<li><span style="font-family:calibri">Age of the participating Child: ____________&rdquo;</span></li>
+	<li><span style="font-family:calibri">Session time choosing to participate in, insert either &ldquo;</span><span style="font-family:calibri">9:30 a.m.</span><span style="font-family:calibri">&rdquo; <strong><u>or</u></strong> &ldquo;</span><span style="font-family:calibri">12:00 p.m.</span><span style="font-family:calibri">&rdquo;; select only one time please.</span></li>
+</ol>
+</li>
+
+    <li class="tags">
+		Tag(s):       <a href="http://www.metrotulsasoccer.com/page/show/842160-metro-tulsa-soccer-club-welcomes-you-to-join-the-mtsc-nation-where-kids-come-first-check-us-out-open-to-all-oklahoma-youth-ages-2-19">HOME</a>&nbsp;
+
+    </li>
+  </ul>
+  <span class="clearAll"></span>
+</div>
+
+
+
+  <div class="extendedOptions item" style="text-align:right;border:none;">
+    <a href="http://www.metrotulsasoccer.com/event/show_calendar_day?agg_id=369087&amp;cal_type=month&amp;calendar_date=2015-03-25" class="goToLink icon" escape="false" title="View All">View All</a> |
+    <a href="/event/rss_instructions?tags=842160" class="rssLink icon lbOn" style="display:none" title="Subscribe to RSS Feed">RSS</a> |
+    <a href="/event/ical_instructions?tags=842160" class="iCalLink icon lbOn" style="display:none" title="Subscribe to iCalendar Feed">iCal</a>
+  </div>
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_95186719" class="pageEl"  >
+  
+      <div class="pageElement textBlockElement clearfix">
+  
+    <h3 style="text-align: center;"><span>MTsc Corporate SPONSORS</span></h3>
+
+
+</div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer threeColumn333333 ">
+    
+          <div class="column1 column pe33">
+                <div id="pageEl_95028983" class="pageEl"  >
+  
+          
+
+  <style type="text/css">
+    .galleryElement { overflow:hidden; }
+    .tn3e-gallery { float:none !important; }
+    #photo_gallery_95028983.galleryElement_link,
+    #photo_gallery_95028983_gallery,
+    #photo_gallery_95028983_gallery .tn3e-thumb div,
+    #photo_gallery_95028983_gallery .tn3e-image,
+    #photo_gallery_95028983.formatted,
+    #photo_gallery_95028983.formatted .crop { background-color:#ebebeb !important; }
+  </style>
+
+    <div class="pageElement galleryElement" id="photo_gallery_details_943075" data-gallery='{"aspect_ratio":"4:3"}'>
+        <div id="photo_gallery_95028983" class="galleryElement_gallery">
+          <ul>
+              <li data-title="">
+  <a href="http://www.tpsitulsa.com/"><img src="http://cdn2.sportngin.com/attachments/photo/4045/2646/TPSiLogoBlack2_small.jpg" /></a>
+</li>
+
+          </ul>
+        </div>
+        <script type="text/javascript">
+//<![CDATA[
+NGIN.Modules['photo_gallery']('#photo_gallery_95028983',{crop:false});
+//]]>
+</script>
+        <div class="gallery_info">
+        </div>
+    </div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_95186788" class="pageEl"  >
+  
+          
+
+  <style type="text/css">
+    .galleryElement { overflow:hidden; }
+    .tn3e-gallery { float:none !important; }
+    #photo_gallery_95186788.galleryElement_link,
+    #photo_gallery_95186788_gallery,
+    #photo_gallery_95186788_gallery .tn3e-thumb div,
+    #photo_gallery_95186788_gallery .tn3e-image,
+    #photo_gallery_95186788.formatted,
+    #photo_gallery_95186788.formatted .crop { background-color:#ffffff !important; }
+  </style>
+
+    <div class="pageElement galleryElement" id="photo_gallery_details_943395" data-gallery='{"aspect_ratio":"4:3"}'>
+        <div id="photo_gallery_95186788" class="galleryElement_gallery">
+          <ul>
+              <li data-title="">
+  <a href="http://www.bounceu.com/tulsa-ok"><img src="http://cdn4.sportngin.com/attachments/photo/4047/0796/bounceu_webbanner_MetroSoccer_small.jpg" /></a>
+</li>
+
+          </ul>
+        </div>
+        <script type="text/javascript">
+//<![CDATA[
+NGIN.Modules['photo_gallery']('#photo_gallery_95186788',{crop:false});
+//]]>
+</script>
+        <div class="gallery_info">
+        </div>
+    </div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column2 column pe33">
+                <div id="pageEl_95042106" class="pageEl"  >
+  
+          
+
+  <style type="text/css">
+    .galleryElement { overflow:hidden; }
+    .tn3e-gallery { float:none !important; }
+    #photo_gallery_95042106.galleryElement_link,
+    #photo_gallery_95042106_gallery,
+    #photo_gallery_95042106_gallery .tn3e-thumb div,
+    #photo_gallery_95042106_gallery .tn3e-image,
+    #photo_gallery_95042106.formatted,
+    #photo_gallery_95042106.formatted .crop { background-color:#ffffff !important; }
+  </style>
+
+    <div class="pageElement galleryElement" id="photo_gallery_details_943080" data-gallery='{"aspect_ratio":"4:3"}'>
+        <div id="photo_gallery_95042106" class="galleryElement_gallery">
+          <ul>
+              <li data-title="">
+  <a href="http://www.grassconcepts.com/"><img src="http://cdn1.sportngin.com/attachments/photo/4045/2969/GrassConcepts_small.jpg" /></a>
+</li>
+
+              <li data-title="">
+  <a href="http://robertson-tire.com/"><img src="http://cdn4.sportngin.com/attachments/photo/4045/2964/RobertsonTire_small.jpg" /></a>
+</li>
+
+          </ul>
+        </div>
+        <script type="text/javascript">
+//<![CDATA[
+NGIN.Modules['photo_gallery']('#photo_gallery_95042106',{crop:false});
+//]]>
+</script>
+        <div class="gallery_info">
+        </div>
+    </div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_95045066" class="pageEl"  >
+  
+          
+
+  <style type="text/css">
+    .galleryElement { overflow:hidden; }
+    .tn3e-gallery { float:none !important; }
+    #photo_gallery_95045066.galleryElement_link,
+    #photo_gallery_95045066_gallery,
+    #photo_gallery_95045066_gallery .tn3e-thumb div,
+    #photo_gallery_95045066_gallery .tn3e-image,
+    #photo_gallery_95045066.formatted,
+    #photo_gallery_95045066.formatted .crop { background-color:#ebebeb !important; }
+  </style>
+
+    <div class="pageElement galleryElement" id="photo_gallery_details_943082" data-gallery='{"aspect_ratio":"4:3"}'>
+        <div id="photo_gallery_95045066" class="galleryElement_gallery">
+          <ul>
+              <li data-title="">
+  <a href="http://tulsaincrediblepizza.com/fun-for-kids/index.php"><img src="http://cdn1.sportngin.com/attachments/photo/4045/3062/Incredible_Pizza_small.jpg" /></a>
+</li>
+
+              <li data-title="">
+  <a href="http://www.metrotulsasoccer.com/page/show/844690-visit-our-sponsors"><img src="http://cdn4.sportngin.com/attachments/photo/4045/3047/KutsforKids_small.jpg" /></a>
+</li>
+
+          </ul>
+        </div>
+        <script type="text/javascript">
+//<![CDATA[
+NGIN.Modules['photo_gallery']('#photo_gallery_95045066',{crop:false});
+//]]>
+</script>
+        <div class="gallery_info">
+        </div>
+    </div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+          <div class="column3 column pe33">
+                <div id="pageEl_95035724" class="pageEl"  >
+  
+          
+
+  <style type="text/css">
+    .galleryElement { overflow:hidden; }
+    .tn3e-gallery { float:none !important; }
+    #photo_gallery_95035724.galleryElement_link,
+    #photo_gallery_95035724_gallery,
+    #photo_gallery_95035724_gallery .tn3e-thumb div,
+    #photo_gallery_95035724_gallery .tn3e-image,
+    #photo_gallery_95035724.formatted,
+    #photo_gallery_95035724.formatted .crop { background-color:#ebebeb !important; }
+  </style>
+
+    <div class="pageElement galleryElement" id="photo_gallery_details_943077" data-gallery='{"aspect_ratio":"4:3"}'>
+        <div id="photo_gallery_95035724" class="galleryElement_gallery">
+          <ul>
+              <li data-title="">
+  <a href="http://www.academy.com/"><img src="http://cdn1.sportngin.com/attachments/photo/4045/2803/Academy_small.png" /></a>
+</li>
+
+              <li data-title="">
+  <a href="http://www.dickssportinggoods.com/home/index.jsp"><img src="http://cdn2.sportngin.com/attachments/photo/4045/2792/DSG_Logo_Small_small.JPG" /></a>
+</li>
+
+          </ul>
+        </div>
+        <script type="text/javascript">
+//<![CDATA[
+NGIN.Modules['photo_gallery']('#photo_gallery_95035724',{crop:false});
+//]]>
+</script>
+        <div class="gallery_info">
+        </div>
+    </div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+                <div id="pageEl_95045693" class="pageEl"  >
+  
+          
+
+  <style type="text/css">
+    .galleryElement { overflow:hidden; }
+    .tn3e-gallery { float:none !important; }
+    #photo_gallery_95045693.galleryElement_link,
+    #photo_gallery_95045693_gallery,
+    #photo_gallery_95045693_gallery .tn3e-thumb div,
+    #photo_gallery_95045693_gallery .tn3e-image,
+    #photo_gallery_95045693.formatted,
+    #photo_gallery_95045693.formatted .crop { background-color:#ffffff !important; }
+  </style>
+
+    <div class="pageElement galleryElement" id="photo_gallery_details_943085" data-gallery='{"aspect_ratio":"4:3"}'>
+        <div id="photo_gallery_95045693" class="galleryElement_gallery">
+          <ul>
+              <li data-title="">
+  <a href="http://www.cicispizza.com/"><img src="http://cdn2.sportngin.com/attachments/photo/4045/3201/CicisLogo_small.jpg" /></a>
+</li>
+
+              <li data-title="">
+  <a href="http://tpucare.com/"><img src="http://cdn1.sportngin.com/attachments/photo/4045/3192/TulsaPediatric_small.jpg" /></a>
+</li>
+
+          </ul>
+        </div>
+        <script type="text/javascript">
+//<![CDATA[
+NGIN.Modules['photo_gallery']('#photo_gallery_95045693',{crop:false});
+//]]>
+</script>
+        <div class="gallery_info">
+        </div>
+    </div>
+
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+      <div class="layoutContainer oneColumn ">
+    
+          <div class="column1 column pe100">
+                <div id="pageEl_132902330" class="pageEl"  >
+  
+        <div class="pageElement heroPhotoElement">
+      <a href="http://www.metrotulsasoccer.com/page/show/1415230-tournaments-the-challenger-series" target="_blank">   
+    
+      <img src="http://cdn2.sportngin.com/attachments/photo/4479/7371/Tournament_MTsc_Banner_large.jpg" alt="" />
+      </a>
+      </div>
+
+  <span class="clearAll"></span>
+</div>
+
+
+        </div>
+    <span class="clearAll"></span>
+  </div>
+
+
+
+
+
+
+<script type="text/javascript">
+  var init_nss = function() {
+    var $nss = $j('.newsSlideShow-container');
+    // debug.info("Found "+$nss.length+" News Slideshow Elements");
+    $nss.each(function(){
+      var $ss = $j(this);
+      if ( ! $ss.data('activenewsslideshow') ) {
+        $ss.data('activenewsslideshow',true);
+        $ss.newsSlideShow();
+      }
+    });
+  }
+  // call on document ready for most browsers
+  init_nss();
+  // call again on window load for IE :(
+  $j(window).load(init_nss);
+  // check for new slideshow elements after valid.deactivate
+  $j('body').bind('pageElement.render',init_nss);
+</script>
+
+
+            </div>
+
+
+          </div>
+        </div>
+        <div class="clearAll"></div>
+      </div><!-- closing panelTwo -->
+
+      
+      
+      <div class="clearAll"></div>
+      
+    </div><!--  closing pageContentContainer3  -->
+  <div class="footerPush"></div>
+  </div><!--  closing siteContainer3  -->
+  
+
+  <div id="siteFooter">
+  
+    
+    
+    <ul>
+      <li>&copy;2015 Metro Tulsa Soccer Club / <a href="http://go.ngin.com/l/8062/2011-07-13/1D11/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications" >Sport Ngin</a>. All Rights Reserved.</li>
+      <li><a href="/legal/terms_of_use" class="legalLink">Terms of Use</a></li>
+        <li><a href="http://www.sportngin.com/legal/privacy_policy" class="legalLink">Privacy Policy</a></li>
+      <li><a href="/help" class="legalLink">Help</a></li>
+      <li></li>
+      <li id="poweredByNGIN"><a href="http://www.sportngin.com/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications" onclick="javascript:window.location=('http://www.sportngin.com/?utm_source=Sport%20Ngin%20Platform&utm_medium=footerlogo&utm_campaign=applications'); return false;"><img src="/app_images/sportngin_footer_logo.png" alt="Powered by Sport Ngin" title="Click here to learn how Sport Ngin can empower your organization!" /></a></li>
+    </ul>
+</div>
+
+  
+  
+  
+
+  
+  
+  
+</body>
+</html>

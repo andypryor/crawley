@@ -1,0 +1,1548 @@
+
+
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" lang="en-gb">
+<head>
+  <!-- sj_sportstore 2.0.2 -->
+  <base href="http://www.idahorush.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Rush Soccer" />
+  <meta name="description" content="Rush Soccer" />
+  <meta name="generator" content="Rush Soccer" />
+  <title>Home</title>
+  <link href="http://www.idahorush.com/" rel="canonical" />
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/sj_sportstore/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/asset/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/asset/animate/animate.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/asset/fonts/awesome/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/asset/fonts/socialico/font-socialico.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/css/template-blue.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/css/bonus-page.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/css/your_css.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/css/pattern.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/asset/bootstrap/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_sportstore/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Questrial" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/ytshortcodes/assets/css/shortcodes.css" type="text/css" />
+  <link rel="stylesheet" href="/media/coalawebsocial/modules/sociallinks/css/cw-default.css" type="text/css" />
+  <link rel="stylesheet" href="/media/coalawebsocial/components/sociallinks/themes-icon/cws-square-rc-fadein/cwsl_style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.idahorush.com/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.idahorush.com/modules/mod_btslideshow_pro/assets/skitter/css/skitter.styles.css" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald" type="text/css" />
+  <link rel="stylesheet" href="http://www.idahorush.com/modules/mod_onpageload_popup/tmpl/css/jquery.fancybox.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_finder/css/finder.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.idahorush.com/modules/mod_popanymodule/tmpl/assets/jquery.fancybox.css" type="text/css" />
+  <style type="text/css">
+
+.image-content.leading img{
+	width:580px; 
+	height:315px;
+}
+.image-content.intro img{
+	width:290px; 
+	height:160px;
+}
+
+		#yt_menuposition #meganavigator ul.subnavi {
+			position: static;
+			left: auto;
+			right: auto;
+			box-shadow: none;
+		}
+		
+		#meganavigator ul.subnavi>li {
+			margin-left: 0;
+		}
+		
+		#meganavigator ul.subnavi>li.first {
+			margin-top: 0;
+		}
+	body.sj_sportstore{font-size:14px}body.sj_sportstore{font-family:arial,sans-serif;}  #bd,input, button, select, textarea{font-family:Questrial, serif !important}
+body.sj_sportstore{
+	background-color:#ffffff ;
+	color:#666666 ;
+}
+
+body a{
+	color:#666666 ;
+}
+
+#yt_header{background-color:#161e6b ;}
+
+#yt_spotlight{background-color:#f1f1f1 ;}
+
+#yt_spotlight9{background-color:#161e6b ;}
+
+#yt_spotlight7,
+#yt_footer{background-color:#353535 ;}
+#btcontentslider87 .bt_handles_num{top: 13px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}#btcontentslider115 .bt_handles_num{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}#mod_btslideshow_pro_90 .label_skitter_background{background: #000000;opacity: 0.7;}#mod_btslideshow_pro_90 .label_skitter div,
+            #mod_btslideshow_pro_90 .label_skitter div a
+            {   font-family: Oswald;   font-size: 18px;   color: #ffffff;}
+    #mod_btslideshow_pro_90.box_skitter .info_slide .image_number{
+        width : 23px;
+        height: 23px;
+        -moz-border-radius:25px;
+        -webkit-border-radius:25px;
+        border-radius:25px;
+    }
+    
+    #mod_btslideshow_pro_90.box_skitter .next_button{
+        top:50%;right:35px;
+    }
+    #mod_btslideshow_pro_90.box_skitter .prev_button{
+        top:50%;left:35px;
+    }
+    #mod_btslideshow_pro_90.box_skitter .info_slide{
+        bottom: 3px;
+    }
+  </style>
+  <script src="/plugins/system/yt/includes/admin/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/yt/includes/admin/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/templates/sj_sportstore/js/yt-script.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/templates/sj_sportstore/js/prettify.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/templates/sj_sportstore/js/yt-extend.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/templates/sj_sportstore/menusys/class/common/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/templates/sj_sportstore/menusys/class/mega/assets/jquery.megamenu.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/plugins/system/ytshortcodes/assets/js/shortcodes.js" type="text/javascript"></script>
+  <script src="/media/coalaweb/modules/generic/js/popup.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_bt_contentslider/tmpl/js/slides.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_btslideshow_pro/assets/skitter/js/hammer.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_btslideshow_pro/assets/skitter/js/skitter.min.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_btslideshow_pro/assets/skitter/js/easing.1.3.min.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_btslideshow_pro/assets/skitter/js/animate-colors-min.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_btslideshow_pro/assets/js/default.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_onpageload_popup/tmpl/js/jquery.fancybox.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_onpageload_popup/tmpl/js/jquery-cookie.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_onpageload_popup/tmpl/js/jquery.noconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+  <script src="http://www.idahorush.com/modules/mod_popanymodule/tmpl/assets/jquery.fancybox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});jQuery.noConflict();
+	jQuery(document).ready(function() {
+	jQuery(".pop-any-module").fancybox({
+	openEffect : 'none',closeEffect : 'none',openSpeed : 'normal',closeSpeed : 'slow',
+	helpers: {overlay : {opacity : 0.3}}
+		});
+	});
+  </script>
+  <!-- CoalaWeb Open Graph Tags -->
+  <meta property="og:title" content="Success in Las Vegas for Idaho Rush U13G at the Players Showcase. "/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:image" content="http://www.idahorush.com/images/Showcase-2015-art_640x411.jpg"/>
+  <meta property="og:url" content="http://www.idahorush.com/"/>
+  <meta property="og:site_name" content="Idaho Rush Soccer"/>
+  <meta property="og:description" content="&amp;nbsp; &amp;nbsp; Success in Las Vegas for Idaho Rush U13G at the Players Showcase. &amp;nbsp; The U13 girls&amp;nbsp;and Head Coach, Carlos Correa assisted by Olly Frick,&amp;nbsp;travelled to Las Vegas last weekend to participate in the Las Vegas Players Showcase 2015 to demonstrate their skills and tak..."/>
+  <script type="text/javascript">
+	var TMPL_NAME = "sj_sportstore";
+	var TMPL_COOKIE = ["direction","fontSize","fontName","templateColor","bgcolor","linkcolor","textcolor","header-bgimage","header-bgcolor","spotlight-bgcolor","spotlight9-bgcolor","footer-bgcolor","templateLayout","menustyle","responsiveMenu","googleWebFont","activeNotice"];
+</script>
+  <!--[if lte IE 7]>
+<link rel="stylesheet" href="/media/coalawebsocial/modules/sociallinks/css/ie7only.css" />
+<![endif]-->
+  <script type='text/javascript'>
+  jQuery(document).ready(function() {
+  if(0==0)
+  {
+  var check_cookie = jQuery.cookie('the_cookie121');
+  if (jQuery.cookie('the_cookie121')) {
+        // it hasn't been twenty days yet
+    }
+	else{
+	jQuery.cookie('the_cookie121', 'true' );
+	jQuery('.fancybox-effects-a').fancybox({
+		modal: false,
+		width     : 500,
+		maxHeight : 410,
+		helpers: {overlay: {opacity: 0.5}}
+	}).trigger('click');	
+	}    
+  }
+  else{
+  jQuery('.fancybox-effects-a').fancybox({
+		modal: false,
+		width     : 500,
+		maxHeight : 410,
+		helpers: {overlay: {opacity: 0.5}}
+	}).trigger('click');
+  }
+     });
+</script>
+  <style type='text/css'>
+#fancy114{
+}
+</style>
+
+	    <meta name="HandheldFriendly" content="true"/>
+	<meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <!-- Suport IE8: media query, html5 -->
+<!--[ if lt IE 9]>
+<script src="http://www.idahorush.com/templates/sj_sportstore/js/respond.min.js" type="text/javascript"></script>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </ script>
+<[endif] -->
+	<!--For param enableGoogleAnalytics-->
+	<script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(["_setAccount", "UA-1231231-1"]);
+        _gaq.push(["_trackPageview"]);
+        (function() {
+        var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+        ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+        var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
+<body id="bd" class="homepage com_content view-featured blue sj_sportstore layout_left-main no-slider  yt-jv3" onLoad="prettyPrint()">
+	
+	<section id="yt_wrapper">
+		<a id="top" name="scroll-to-top"></a>
+		<header id="yt_header" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container" >
+								<div class="yt-main-in2 row-fluid">
+										<div id="yt_menuposition" class="span9 offset3" data-normal="span9 offset3" data-tablet="span9 offset3" data-stablet="span6">
+			<ul id="meganavigator" class="navi"><li class="active level1 first">
+	<a title="Home" class="active level1 first item-link" href="http://www.idahorush.com/"><span class="menu-title">Home</span></a>	
+	</li>
+
+<li class="level1 havechild">
+	<a title="Registration" class="level1 havechild item-link" href="/index.php/registration"><span class="menu-title">Registration</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="Registration " class="level2 first item-link" href="/index.php/registration/registration"><span class="menu-title">Registration </span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 havechild">
+	<a title="About" class="level1 havechild item-link" href="/index.php/about"><span class="menu-title">About</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="Technical Staff" class="level2 first item-link" href="/index.php/about/staff"><span class="menu-title">Technical Staff</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="The Rush Advantage " class="level2 item-link" href="/index.php/about/the-rush-advantage"><span class="menu-title">The Rush Advantage </span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Concussion Awareness" class="level2 item-link" href="/index.php/about/concussion-awareness"><span class="menu-title">Concussion Awareness</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="R.E.A.C.H Program" class="level2 item-link" href="/index.php/about/r-e-a-c-h-program"><span class="menu-title">R.E.A.C.H Program</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Forms and Maps" class="level2 item-link" href="/index.php/about/forms-and-maps"><span class="menu-title">Forms and Maps</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Mission Statement / Core Values" class="level2 item-link" href="/index.php/about/mission-statement-core-values"><span class="menu-title">Mission Statement / Core Values</span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="Tickets for Charity " class="level2 last item-link" href="/index.php/about/tickets-for-charity"><span class="menu-title">Tickets for Charity </span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 havechild">
+	<a title="Recreational" class="level1 havechild item-link" href="/index.php/recreational"><span class="menu-title">Recreational</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="(U4-U5) Mighty Mites" class="level2 first item-link" href="/index.php/recreational/u4-u5-mighty-mites"><span class="menu-title">(U4-U5) Mighty Mites</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="(U6-U10) Recreation " class="level2 item-link" href="/index.php/recreational/u6-u10-recreation"><span class="menu-title">(U6-U10) Recreation </span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Team Pages" class="level2 item-link" href="/index.php/recreational/team-pages"><span class="menu-title">Team Pages</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Schedules" class="level2 item-link" href="/index.php/recreational/schedules"><span class="menu-title">Schedules</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Recreational Uniforms " class="level2 item-link" href="/index.php/recreational/recreational-uniforms"><span class="menu-title">Recreational Uniforms </span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Scholarship" class="level2 item-link" href="/index.php/recreational/scholarship"><span class="menu-title">Scholarship</span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="Recreational Forms and Maps" class="level2 last item-link" href="/index.php/recreational/recreational-forms-and-maps"><span class="menu-title">Recreational Forms and Maps</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 havechild">
+	<a title="Competitive" class="level1 havechild item-link" href="/index.php/competitive"><span class="menu-title">Competitive</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="(U10-U18) Competitive" class="level2 first item-link" href="/index.php/competitive/u10-u18-competitive"><span class="menu-title">(U10-U18) Competitive</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Team Pages" class="level2 item-link" href="/index.php/competitive/team-pages"><span class="menu-title">Team Pages</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Schedules" class="level2 item-link" href="/index.php/competitive/schedules"><span class="menu-title">Schedules</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Uniforms " class="level2 item-link" href="/index.php/competitive/uniforms"><span class="menu-title">Uniforms </span></a>	
+	</li>
+
+<li class="level2">
+	<a title="2014-2015 Coaching Staff" class="level2 item-link" href="/index.php/competitive/2014-2015-coaching-staff"><span class="menu-title">2014-2015 Coaching Staff</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Scholarship" class="level2 item-link" href="/index.php/competitive/scholarship"><span class="menu-title">Scholarship</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="GK training" class="level2 item-link" href="/index.php/competitive/gk-training"><span class="menu-title">GK training</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="50K touch challenge" class="level2 item-link" href="/index.php/competitive/50k-touch-challenge"><span class="menu-title">50K touch challenge</span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="Rush Select XI" class="level2 last item-link" href="/index.php/competitive/rush-select-xi"><span class="menu-title">Rush Select XI</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 havechild">
+	<a title="Tournaments" class="level1 havechild item-link" href="/index.php/tournaments"><span class="menu-title">Tournaments</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="Spring Exchange" class="level2 first item-link" href="/index.php/tournaments/spring-exchange"><span class="menu-title">Spring Exchange</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Select Classic " class="level2 item-link" href="/index.php/tournaments/select-classic"><span class="menu-title">Select Classic </span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="College I.D Camp 2015" class="level2 last item-link" href="/index.php/tournaments/college-i-d-camp-2015"><span class="menu-title">College I.D Camp 2015</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 havechild">
+	<a title="Select " class="level1 havechild item-link" href="/index.php/select"><span class="menu-title">Select </span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="(U8-U14) Select " class="level2 first item-link" href="/index.php/select/u8-u14-select"><span class="menu-title">(U8-U14) Select </span></a>	
+	</li>
+
+<li class="level2">
+	<a title="(U15-U18) Select High School" class="level2 item-link" href="/index.php/select/u15-u18-select-high-school"><span class="menu-title">(U15-U18) Select High School</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Uniforms " class="level2 item-link" href="/index.php/select/uniforms"><span class="menu-title">Uniforms </span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Team Pages" class="level2 item-link" href="/index.php/select/team-pages"><span class="menu-title">Team Pages</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Select Academy" class="level2 item-link" href="/index.php/select/select-academy"><span class="menu-title">Select Academy</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Schedules" class="level2 item-link" href="/index.php/select/schedules"><span class="menu-title">Schedules</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Scholarship" class="level2 item-link" href="/index.php/select/scholarship"><span class="menu-title">Scholarship</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="Select Classic Tournament" class="level2 item-link" href="/index.php/select/select-classic-tournament"><span class="menu-title">Select Classic Tournament</span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="Select Forms and Maps" class="level2 last item-link" href="/index.php/select/select-forms-and-maps"><span class="menu-title">Select Forms and Maps</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1">
+	<a title="Camps " class="level1 item-link" href="/index.php/camps"><span class="menu-title">Camps </span></a>	
+	</li>
+
+<li class="level1 havechild">
+	<a title="Events" class="level1 havechild item-link" href="/index.php/events"><span class="menu-title">Events</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="Event Information" class="level2 first item-link" href="/index.php/events/event-information"><span class="menu-title">Event Information</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 havechild">
+	<a title="College Advisory" class="level1 havechild item-link" href="/index.php/forms-and-maps"><span class="menu-title">College Advisory</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="College I.D Camp 2015" class="level2 first item-link" href="/index.php/forms-and-maps/college-i-d-camp-2015"><span class="menu-title">College I.D Camp 2015</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="College Advisory Program " class="level2 item-link" href="/index.php/forms-and-maps/college-advisory-program"><span class="menu-title">College Advisory Program </span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="Idaho Rush Alumni " class="level2 last item-link" href="/index.php/forms-and-maps/idaho-rush-alumni"><span class="menu-title">Idaho Rush Alumni </span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 last havechild">
+	<a title="Coaching Resource " class="level1 last havechild item-link" href="http://www2.bytesizecoaching.com/index.php?cid=NTk="><span class="menu-title">Coaching Resource </span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" >
+						<ul class="subnavi level2"><li class="level2 first">
+	<a title="Byte Size Coaching" class="level2 first item-link" href="http://www2.bytesizecoaching.com/index.php?cid=NTk="><span class="menu-title">Byte Size Coaching</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="State Coaching Course" class="level2 item-link" href="http://www.idahoyouthsoccer.org/education/coaching.aspx"><span class="menu-title">State Coaching Course</span></a>	
+	</li>
+
+<li class="level2">
+	<a title="USSF License" class="level2 item-link" href="http://www.ussoccer.com/coaching-education/licenses"><span class="menu-title">USSF License</span></a>	
+	</li>
+
+<li class="level2 last">
+	<a title="NSCAA License" class="level2 last item-link" href="http://www.nscaa.com/education/coaching-courses"><span class="menu-title">NSCAA License</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+</ul>	<script type="text/javascript">
+		jQuery(function($){
+            $('#meganavigator').megamenu({ 
+            	'wrap':'#yt_menuwrap .container',
+            	'easing': 'easeInOutCirc',
+				'speed': '500',
+				'justify': 'left'
+            });
+	    });
+	</script>
+	<div id="yt-responivemenu" class="yt-resmenu menu-selectbox">
+		<button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar collapsed" type="button">Menu<i class="icon-plus"></i><!--<i class="icon-align-justify"></i>--></button>
+		<select id="yt_resmenu_selectbox" name="menu" onchange="MobileRedirectUrl()">    <option selected="selected" value='http://www.idahorush.com/'>Home</option>        <option value='/index.php/registration'>Registration</option>        <option value='/index.php/registration/registration'>-- Registration </option>        <option value='/index.php/about'>About</option>        <option value='/index.php/about/staff'>-- Technical Staff</option>        <option value='/index.php/about/the-rush-advantage'>-- The Rush Advantage </option>        <option value='/index.php/about/concussion-awareness'>-- Concussion Awareness</option>        <option value='/index.php/about/r-e-a-c-h-program'>-- R.E.A.C.H Program</option>        <option value='/index.php/about/forms-and-maps'>-- Forms and Maps</option>        <option value='/index.php/about/mission-statement-core-values'>-- Mission Statement / Core Values</option>        <option value='/index.php/about/tickets-for-charity'>-- Tickets for Charity </option>        <option value='/index.php/recreational'>Recreational</option>        <option value='/index.php/recreational/u4-u5-mighty-mites'>-- (U4-U5) Mighty Mites</option>        <option value='/index.php/recreational/u6-u10-recreation'>-- (U6-U10) Recreation </option>        <option value='/index.php/recreational/team-pages'>-- Team Pages</option>        <option value='/index.php/recreational/schedules'>-- Schedules</option>        <option value='/index.php/recreational/recreational-uniforms'>-- Recreational Uniforms </option>        <option value='/index.php/recreational/scholarship'>-- Scholarship</option>        <option value='/index.php/recreational/recreational-forms-and-maps'>-- Recreational Forms and Maps</option>        <option value='/index.php/competitive'>Competitive</option>        <option value='/index.php/competitive/u10-u18-competitive'>-- (U10-U18) Competitive</option>        <option value='/index.php/competitive/team-pages'>-- Team Pages</option>        <option value='/index.php/competitive/schedules'>-- Schedules</option>        <option value='/index.php/competitive/uniforms'>-- Uniforms </option>        <option value='/index.php/competitive/2014-2015-coaching-staff'>-- 2014-2015 Coaching Staff</option>        <option value='/index.php/competitive/scholarship'>-- Scholarship</option>        <option value='/index.php/competitive/gk-training'>-- GK training</option>        <option value='/index.php/competitive/50k-touch-challenge'>-- 50K touch challenge</option>        <option value='/index.php/competitive/rush-select-xi'>-- Rush Select XI</option>        <option value='/index.php/tournaments'>Tournaments</option>        <option value='/index.php/tournaments/spring-exchange'>-- Spring Exchange</option>        <option value='/index.php/tournaments/select-classic'>-- Select Classic </option>        <option value='/index.php/tournaments/college-i-d-camp-2015'>-- College I.D Camp 2015</option>        <option value='/index.php/select'>Select </option>        <option value='/index.php/select/u8-u14-select'>-- (U8-U14) Select </option>        <option value='/index.php/select/u15-u18-select-high-school'>-- (U15-U18) Select High School</option>        <option value='/index.php/select/uniforms'>-- Uniforms </option>        <option value='/index.php/select/team-pages'>-- Team Pages</option>        <option value='/index.php/select/select-academy'>-- Select Academy</option>        <option value='/index.php/select/schedules'>-- Schedules</option>        <option value='/index.php/select/scholarship'>-- Scholarship</option>        <option value='/index.php/select/select-classic-tournament'>-- Select Classic Tournament</option>        <option value='/index.php/select/select-forms-and-maps'>-- Select Forms and Maps</option>        <option value='/index.php/camps'>Camps </option>        <option value='/index.php/events'>Events</option>        <option value='/index.php/events/event-information'>-- Event Information</option>        <option value='/index.php/forms-and-maps'>College Advisory</option>        <option value='/index.php/forms-and-maps/college-i-d-camp-2015'>-- College I.D Camp 2015</option>        <option value='/index.php/forms-and-maps/college-advisory-program'>-- College Advisory Program </option>        <option value='/index.php/forms-and-maps/idaho-rush-alumni'>-- Idaho Rush Alumni </option>        <option value='http://www2.bytesizecoaching.com/index.php?cid=NTk='>Coaching Resource </option>        <option value='http://www2.bytesizecoaching.com/index.php?cid=NTk='>-- Byte Size Coaching</option>        <option value='http://www.idahoyouthsoccer.org/education/coaching.aspx'>-- State Coaching Course</option>        <option value='http://www.ussoccer.com/coaching-education/licenses'>-- USSF License</option>        <option value='http://www.nscaa.com/education/coaching-courses'>-- NSCAA License</option>    </select>		<script type="text/javascript">
+			function MobileRedirectUrl(){
+			  window.location.href = document.getElementById("yt_resmenu_selectbox").value;
+			}
+		</script>
+		</div>        </div>
+				<div id="yt_logoposition">
+			  
+			<a href="/index.php" title="Idaho Rush Soccer">
+				<img alt="Idaho Rush Soccer" src="http://www.idahorush.com/images/images/rush_logo.png"/>
+			</a>
+                </div>
+										</div>
+							</div>
+						</div>
+                    </header>			<section id="yt_spotlight" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container" >
+								<div class="yt-main-in2 row-fluid">
+										<div id="top-1" class="span4 offset4" data-normal="span5 offset2" data-tablet="span5 offset2" data-stablet="span12">
+			<!--<div class="yt-position-inner">-->
+				<div class="club_name">Idaho Rush Soccer Club</div>
+			<!--</div>-->
+		</div>
+				<div id="top-2" class="span4" data-normal="span5" data-tablet="span5" data-stablet="span5 hidden">
+			<!--<div class="yt-position-inner">-->
+				
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(function($)
+	{
+		var value, $searchword = $('#mod-finder-searchword');
+
+		// Set the input value if not already set.
+		if (!$searchword.val())
+		{
+			$searchword.val('Search...');
+		}
+
+		// Get the current value.
+		value = $searchword.val();
+
+		// If the current value equals the default value, clear it.
+		$searchword.on('focus', function()
+		{	var $el = $(this);
+			if ($el.val() === 'Search...')
+			{
+				$el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		$searchword.on('blur', function()
+		{	var $el = $(this);
+			if (!$el.val())
+			{
+				$el.val(value);
+			}
+		});
+
+		$('#mod-finder-searchform').on('submit', function(e){
+			e.stopPropagation();
+			var $advanced = $('#mod-finder-advanced');
+			// Disable select boxes with no value selected.
+			if ( $advanced.length)
+			{
+				 $advanced.find('select').each(function(index, el) {
+					var $el = $(el);
+					if(!$el.val()){
+						$el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});
+
+		/*
+		 * This segment of code sets up the autocompleter.
+		 */
+											var url = '/index.php/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.getElementById('mod-finder-searchword'), url, {'postVar': 'q'});
+			});
+//]]>
+</script>
+
+<form id="mod-finder-searchform" action="/index.php/smart-search-results" method="get" class="form-search">
+	<div class="finder">
+		<input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="25" value="" /><button class="btn btn-primary hasTooltip  finder" type="submit" title="Go"><i class="icon-search icon-white"></i></button>
+							</div>
+</form>
+<a href="#inline114" class="pop-any-module" id="fancy114">
+	<img src='http://www.idahorush.com//images/images/field_status.png' /></a>
+<div class=""  style="display: none;">
+	<div id="inline114" style="max-width:100%;width:250px;height:400px;overflow:auto;">
+		<style type="text/css">
+.field_status{ width:100%; max-width:400px; padding:5%;  overflow:hidden}
+.field_status h2{ color: #0f1664; font-size: 24px; font-weight: 600; margin: 0 0 15px; }
+.field_status p{font-size: 18px;}
+.field_status .note-txt{ font-weight:600; display:block; clear:both; font-size: 18px;}
+.field_status span.more-info{ display:block;}
+.field_status span.more-info a{ color:#1672bb; padding:6px 0 ; text-decoration:none; font-size: 20px;  font-weight:600;}
+.field_status ul{ width:92%; padding:0; margin:0px 0 0 }
+.field_status ul li{ width:100%; padding:0 0; list-style:none;float:left; }
+.field_status ul li .status-label{ padding:0% 8px 0% 0; font-size:18px; font-weight:700; display:block; float:left;  }
+.field_status ul li .status-value{ padding:0% 0 0% 0 ; font-size:18px; font-weight:700; width:45.5%; text-align:left; display:block; float:left;}
+.field_status ul li .open{ color:#090;}
+.field_status ul li .closed{ color:#F00;}
+</style>
+	<div class="field_status" >
+	<h2>Field Status at a Glance</h2>
+	<p>
+	Field Hotline: 555.555.5555	</p>
+	<span class="more-info"></span>
+	 <ul>
+			 <li><span class="status-label">Field 1</span><span class="status-value open"><span class="status-value open">Open</span></span></li>
+				 <li><span class="status-label">Field 2</span><span class="status-value open"><span class="status-value open">Open</span></span></li>
+				 <li><span class="status-label">Field 3</span><span class="status-value open"><span class="status-value closed">Closed</span></span></li>
+			
+	</ul>
+	</div>		</div>
+</div>
+			<!--</div>-->
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<section id="yt_spotlight1" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container" >
+								<div class="yt-main-in2 row-fluid">
+										<div id="position-0" class="span12">
+			<!--<div class="yt-position-inner">-->
+				    	
+	<div class="module   clearfix">
+	    	    <div class="modcontent clearfix">
+			<div class="modcontent-inner clearfix">
+				
+<div style="clear: both;"></div>
+<div id="mod_btslideshow_pro_90" class="box_skitter mod_btslideshow_pro">
+<ul>
+	<li>
+		<img class="cubeRandom" src="http://www.idahorush.com/modules/mod_btslideshow_pro/images/original/7fbd9b9437900cc01c441d9c991b34d2.jpg" 
+                            rel="http://www.idahorush.com/modules/mod_btslideshow_pro/images/thumbnail/7fbd9b9437900cc01c441d9c991b34d2.jpg" 
+                            alt= "We Are The Rush"/>		<div class="label_text">
+                    <div class="label_skitter_container">
+                    <div>We Are The Rush</div>                    </div>
+                    <div class="label_skitter_background"></div>
+                </div>
+	</li>
+		<li>
+		<img class="cubeRandom" src="http://www.idahorush.com/modules/mod_btslideshow_pro/images/original/edfa3c8b91054479361cf9c691c6026b.jpg" 
+                            rel="http://www.idahorush.com/modules/mod_btslideshow_pro/images/thumbnail/edfa3c8b91054479361cf9c691c6026b.jpg" 
+                            alt= "Rush Soccer"/>		<div class="label_text">
+                    <div class="label_skitter_container">
+                    <div>Rush Soccer</div>                    </div>
+                    <div class="label_skitter_background"></div>
+                </div>
+	</li>
+	</ul>
+</div>
+<div style="clear: both;"></div>
+<script type="text/javascript">
+// <![CDATA[
+		var structure = '<a href="#" class="prev_button">prev</a>' +
+						'<a href="#" class="next_button">next</a>' +
+						'<span class="info_slide"></span>' +
+						'<div class="container_skitter">' +
+								'<div class="image">' +
+										'<a target="_blank" href="/"><img class="image_main" alt=""/></a>' +
+										'<div class="label_skitter"></div>' +
+								'</div>' +
+						'</div>';
+	BTJ('#mod_btslideshow_pro_90').skitter({
+		width:1650,
+height:550,
+animation: 'horizontal',
+numbers: true,
+numbers_align: "right",
+label_position: "bottom",
+progressbar: true,
+progressbar_css: {background: "#ca6708"},
+		animateNumberOut: {backgroundColor: '#565656'},        
+		animateNumberOver: {backgroundColor: "#c36305"},
+		animateNumberActive: {backgroundColor: "#c36305"},
+		structure: structure,
+		velocity: 1.3,
+		interval: 3500,
+		navigation: 1,
+		auto_play: 0,
+		fullscreen: false,
+		max_number_height: 100,
+		responsive: 1	});
+// ]]>
+</script>			</div>
+	    </div>
+	</div>
+        	
+	<div class="module   clearfix">
+	    	    <div class="modcontent clearfix">
+			<div class="modcontent-inner clearfix">
+				<div id="auto_popup">
+	<a class="fancybox-effects-a" href="#inline-auto" title=""></a>
+		<div style="display:none;">
+			<div id="inline-auto" >
+			<p style="text-align: center;"><span style="font-size: 12pt;"><strong>March Forth / Idaho&nbsp;Rush&nbsp;2nd Annual College I.D Camp &amp; Showcase 2015&nbsp;</strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;">College coaches and youth players will gather at the Idaho Rush <a href="http://www.mapquest.com/maps?name=Optimists+Youths+Sports+Complex&amp;address=9889+W+Hill+Road+Pkwy&amp;city=Boise&amp;state=ID&amp;zipcode=83714&amp;redirect=true">Optimist Youth Sports Complex</a>, May 1-3, 2015 for the March Forth / Idaho Rush&nbsp;College I.D. Camp &amp; Showcase. This excellent&nbsp;opportunity is open to the entire soccer community that are Freshman, Sophomore, Junior or Seniors.&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Idaho Rush CEO, Lee Riley, "We are proud to be the host club for this exciting event. Bringing college coaches to our community, to work directly with players for college placement consideration, is of great value to not only our Rush players, but to our soccer community as a whole."&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Michael Mollay, Co-Founder of March Forth Soccer, "There is a strong need for showcase opportunities for Idaho players. March Forth and Idaho Rush are committed to creating those opportunities on a local level."</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;">We have a wonderful line up of college programs that will train and evaluate players during the camp:</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><strong>PLEASE <a href="/images/MFCollegeIDCampFlyer2015new.pdf">CLICK HERE</a> FOR DETAILED CAMP SCHEDULE</strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><strong>I.D&nbsp;CAMP REGISTRATION PLEASE CALL THE RUSH OFFICE OR <a href="/images/College_ID_registation_form_2015.pdf">CLICK HERE</a> TO MAIL IT IN</strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<table style="width: 502px; height: 1516px; margin-right: auto; margin-left: auto;" border="0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td><span style="text-decoration: underline;"><span style="font-size: 12pt;"><strong>Program</strong></span></span></td>
+<td><span style="font-size: 12pt;"><strong>&nbsp;</strong></span></td>
+<td><span style="text-decoration: underline;"><span style="font-size: 12pt;"><strong>Gender</strong></span></span></td>
+<td><span style="text-decoration: underline;"><span style="font-size: 12pt;"><strong>Level</strong></span></span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;"><img style="width: 108px; height: 87px;" src="/images/u_puget_sound_logo_better.jpg" alt="u puget sound logo better" width="479" height="480" />&nbsp;</span></td>
+<td><a href="http://loggerathletics.com/sports/msoc/index"><span style="font-size: 12pt;">U of Puget Sound</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens&nbsp;</span></td>
+<td><span style="font-size: 12pt;">D3&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 120px; height: 89px;" src="/images/nnu_mens_logo.jpg" alt="nnu mens logo" width="238" height="108" /></span></td>
+<td><a href="http://www.nnusports.com/index.aspx?path=msoc"><span style="font-size: 12pt;">Northwest Nazarene University</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">D2&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;"><img style="width: 125px; height: 102px;" src="/images/college_of_idaho_logo.jpg" alt="college of idaho logo" width="190" height="160" />&nbsp;</span></td>
+<td><a href="http://yoteathletics.com/index.aspx?path=msoc"><span style="font-size: 12pt;">College of Idaho</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">NAIA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;"><img style="width: 129px; height: 122px;" src="/images/north_idaho_college_logo.jpg" alt="north idaho college logo" width="253" height="198" />&nbsp;</span></td>
+<td><a href="http://www.nicathletics.com/team.aspx?sport=msoccer"><span style="font-size: 12pt;">North Idaho College</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">NJCAA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;"><img style="width: 129px; height: 127px;" src="/images/walla_walla_logo.jpg" alt="walla walla logo" width="200" height="199" />&nbsp;</span></td>
+<td><a href="http://gowwcc.com/mens-soccer/"><span style="font-size: 12pt;">Walla Walla CC</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">NJCAA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 125px; height: 116px;" src="/images/montana_billings_logo.png" alt="montana billings logo" width="175" height="198" /></span></td>
+<td><a href="http://www.msubsports.com/index.aspx?path=msoc"><span style="font-size: 12pt;">Montana State Billings</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">D2&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 130px; height: 107px;" src="/images/northwest_college_logo.png" alt="northwest college logo" width="278" height="176" /></span></td>
+<td><a href="http://www.nwcraiders.com/mens-soccer"><span style="font-size: 12pt;">Northwest College</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">NJCAA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;"><img style="width: 125px; height: 99px;" src="/images/pacific_logo.png" alt="pacific logo" width="174" height="118" /></span></td>
+<td><span style="font-size: 12pt;"><a href="http://www.goboxers.com/index.aspx?path=msoc">Pacific University</a></span></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td><span style="font-size: 12pt;">D3</span></td>
+</tr>
+<tr>
+<td><img style="width: 122px; height: 109px;" src="/images/dixie_logo.png" alt="dixie logo" width="162" height="149" /></td>
+<td><a href="http://www.dixieathletics.com/index.aspx?path=msoc"><span style="font-size: 12pt;">Dixie State</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Mens</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 138px; height: 112px;" src="/images/college_of_idaho_logo.jpg" alt="college of idaho logo" width="190" height="160" /></span></td>
+<td><a href="http://yoteathletics.com/index.aspx?path=wsoc"><span style="font-size: 12pt;">College of Idaho</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens</span></td>
+<td><span style="font-size: 12pt;">NAIA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 139px; height: 68px;" src="/images/tvcc_logo.png" alt="tvcc logo" width="248" height="61" /></span></td>
+<td><a href="http://athletics.tvcc.cc/content/sport.cfm/sport/womenssoccer"><span style="font-size: 12pt;">Treasure Valley CC</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens</span></td>
+<td><span style="font-size: 12pt;">NJCAA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 142px; height: 85px;" src="/images/highline_cc_logo.png" alt="highline cc logo" width="200" height="85" /></span></td>
+<td><a href="http://athletics.highline.edu/wsoccer/index.php"><span style="font-size: 12pt;">Highline CC</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens</span></td>
+<td><span style="font-size: 12pt;">NJCAA&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">&nbsp;<img style="width: 148px; height: 104px;" src="/images/northwest_college_logo.png" alt="northwest college logo" width="278" height="176" /></span></td>
+<td><a href="http://www.northwestcollege.edu/womens_soccer/"><span style="font-size: 12pt;">Northwest College </span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens&nbsp;</span></td>
+<td><span style="font-size: 12pt;">NJCAA&nbsp;</span></td>
+</tr>
+<tr>
+<td>&nbsp;<img style="width: 152px; height: 107px;" src="/images/westminster_logo.jpg" alt="westminster logo" width="271" height="185" /></td>
+<td><a href="http://www.westminstergriffins.com/index.aspx?path=wsoc"><span style="font-size: 12pt;">Westminster College</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens</span></td>
+<td><span style="font-size: 12pt;">NAIA/D2&nbsp;</span></td>
+</tr>
+<tr>
+<td>&nbsp;<img style="width: 141px; height: 116px;" src="/images/evergreen_state_logo.png" alt="evergreen state logo" width="225" height="224" /></td>
+<td><a href="http://gogeoducks.com/?path=wsoc"><span style="font-size: 12pt;">Evergreen State</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens</span></td>
+<td><span style="font-size: 12pt;">NAIA</span></td>
+</tr>
+<tr>
+<td><img style="width: 149px; height: 122px;" src="/images/nnu_mens_logo.jpg" alt="nnu mens logo" width="240" height="106" /></td>
+<td><span style="font-size: 12pt;"><a href="http://www.nnusports.com/index.aspx?path=wsoc">Northwest Nazarene University</a></span></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens </span></td>
+<td><span style="font-size: 12pt;">D2</span></td>
+</tr>
+<tr>
+<td><img style="width: 124px; height: 114px;" src="/images/whitman_logo.png" alt="whitman logo" width="129" height="140" /></td>
+<td><a href="http://athletics.whitman.edu/index.aspx?path=wsoc"><span style="font-size: 12pt;">Whitman College</span></a></td>
+<td>&nbsp;</td>
+<td><span style="font-size: 12pt;">Womens</span></td>
+<td><span style="font-size: 12pt;">D3</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><span style="font-size: 12pt;"><em><span style="color: #000000;">Questions/inquiries? Contact <a href="mailto:michaelmarchforth@gmail.com">Michael Mollay</a> or&nbsp;<a href="mailto:ccorrea@idahorush.com">Carlos Correa</a></span></em></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; text-align: center;" align="center">&nbsp;</p>			</div>
+		</div>
+</div>
+	
+				</div>
+	    </div>
+	</div>
+    
+			<!--</div>-->
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<section id="content" class="content layout-lm nopos-position-6 nopos-breadcrumb nogroup-left block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+        							<div id="content_left" class="span3 hidden" data-normal="" data-tablet="" data-stablet=""><div class="content-left-in"></div></div> <div id="content_main" class="span12" data-normal="span12" data-stablet="span12"><div class="content-main-inner ">         	<div class="span12 no-minheight">
+				<div id="system-message-container">
+	</div>
+
+            </div>
+                     	<span style="display:none">Hide Main content block</span>
+             		<div id="position-5" class="span12" data-normal="span12" data-stablet="span12">
+			<!--<div class="yt-position-inner">-->
+				    <div class="module ">
+    <div class="module-inner">
+                <div class="modcontent clearfix">
+        	<div id="btcontentslider87" style="display:none;width:auto" class="bt-cs">
+	        	
+	<h3 style="width:auto">
+					<span>Idaho Rush News </span>                    
+			</h3>
+		<div class="slides_container" style="width:auto;border: 0px solid #CFCFCF;padding:5px 0px;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:33.3333333333%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Success in Las Vegas for Idaho Rush U13G at the Players Showcase. " href="/index.php/2-uncategorised/275-success-in-las-vegas-for-idaho-rush-u13g-at-the-players-showcase">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/790b29906940fa5c0ef0e73bb3728f4d-Showcase-2015-art_640x411.jpg" alt="Success in Las Vegas for Idaho Rush U13G at the Players Showcase. "  style="width:350px;" title="Success in Las Vegas for Idaho Rush U13G at the Players Showcase. " />
+					</a>
+					</div>
+										
+										<a class="bt-title" target="_parent"
+						title="Success in Las Vegas for Idaho Rush U13G at the Players Showcase. "
+						href="/index.php/2-uncategorised/275-success-in-las-vegas-for-idaho-rush-u13g-at-the-players-showcase"> Success in Las Vegas for Idaho Rush U13G... </a><br />
+					
+										<div class="bt-introtext">
+					&nbsp;
+
+&nbsp;
+Success in Las Vegas for Idaho Rush U13G at the Players Showcase. 
+&nbsp;
+The U1...					</div>
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:33.3333333333%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Five honored as Rush Volunteers of the Year 2014" href="/index.php/18-front-page-slides/208-xx-honored-as-rush-volunteers-of-the-year">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/7da132065353f6fe1089ba828fec99dc-volunteers_of_the_year_640x480.jpg" alt="Five honored as Rush Volunteers of the Year 2014"  style="width:350px;" title="Five honored as Rush Volunteers of the Year 2014" />
+					</a>
+					</div>
+										
+										<a class="bt-title" target="_parent"
+						title="Five honored as Rush Volunteers of the Year 2014"
+						href="/index.php/18-front-page-slides/208-xx-honored-as-rush-volunteers-of-the-year"> Five honored as Rush Volunteers of the Year... </a><br />
+					
+										<div class="bt-introtext">
+					&nbsp;
+
+
+
+&nbsp;
+
+
+Each year, hundreds of volunteers give thousands of hours of their preciou...					</div>
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:33.3333333333%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Idaho Rush's Very Own Chloe Munroe Commits to Whitworth University" href="/index.php/2-uncategorised/188-idaho-rush-s-very-own-chloe-munroe-commits-to-whitworth-university">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/e126e2cb5e73cc3c05ea5cc18b46dac9-Chloe_Munroe_College_picture_640x427.jpg" alt="Idaho Rush's Very Own Chloe Munroe Commits to Whitworth University"  style="width:350px;" title="Idaho Rush's Very Own Chloe Munroe Commits to Whitworth University" />
+					</a>
+					</div>
+										
+										<a class="bt-title" target="_parent"
+						title="Idaho Rush's Very Own Chloe Munroe Commits to Whitworth University"
+						href="/index.php/2-uncategorised/188-idaho-rush-s-very-own-chloe-munroe-commits-to-whitworth-university"> Idaho Rush's Very Own Chloe Munroe Commits to... </a><br />
+					
+										<div class="bt-introtext">
+					&nbsp;
+&nbsp;
+
+&nbsp;
+Chloe Munroe&nbsp;achieves her college soccer dreams, committing to play a...					</div>
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:33.3333333333%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="U17’s Boys Shine In January Showcase " href="/index.php/2-uncategorised/185-u17-s-boys-shine-in-january-showcase">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/dfb6e889e1d1b5205f843e16a19c64d7-untitled.png" alt="U17’s Boys Shine In January Showcase "  style="width:350px;" title="U17’s Boys Shine In January Showcase " />
+					</a>
+					</div>
+										
+										<a class="bt-title" target="_parent"
+						title="U17’s Boys Shine In January Showcase "
+						href="/index.php/2-uncategorised/185-u17-s-boys-shine-in-january-showcase"> U17’s Boys Shine In January Showcase  </a><br />
+					
+										<div class="bt-introtext">
+					&nbsp;
+
+&nbsp;
+&nbsp;
+Idaho Rush U17 Boys Shine In January College&nbsp;Showcase
+&nbsp;
+Making...					</div>
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:33.3333333333%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Idaho Rush induct another Three members to its DREAM Club" href="/index.php/18-front-page-slides/101-idaho-rush-induct-another-three-members-to-its-dream-club">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/d12a6e111a5bf7c59d84acf2027a45fd-Dream picture 2014.jpg" alt="Idaho Rush induct another Three members to its DREAM Club"  style="width:350px;" title="Idaho Rush induct another Three members to its DREAM Club" />
+					</a>
+					</div>
+										
+										<a class="bt-title" target="_parent"
+						title="Idaho Rush induct another Three members to its DREAM Club"
+						href="/index.php/18-front-page-slides/101-idaho-rush-induct-another-three-members-to-its-dream-club"> Idaho Rush induct another Three members to its... </a><br />
+					
+										<div class="bt-introtext">
+					
+&nbsp;
+Three members added to Dream Club 2014
+Idaho Rush inducted another three members to its D...					</div>
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(87);
+	btcModuleOpts.push({
+			slideEasing : 'easeInQuad',
+			fadeEasing : 'easeInQuad',
+			effect: 'slide,slide',
+			preloadImage: 'http://www.idahorush.com//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 0,						
+			hoverPause: true,	
+			slideSpeed : 500,
+			autoHeight:true,
+			fadeSpeed : 500,
+			equalHeight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles_num',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:0	});
+</script>
+
+        </div>
+    </div>
+    </div>
+    <div class="module localnewsborder">
+    <div class="module-inner">
+                <div class="modcontent clearfix">
+        	<div id="btcontentslider115" style="display:none;width:auto" class="bt-cs bt-cslocalnewsborder">
+	        	<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:16.6666666667%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Fred Meyer" href="/index.php/9-local-sponsors/18-local-sponsor-6">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/c4e7f6c3925ad8565b547b7b209a75d9-FredMeyerlogo.png" alt="Fred Meyer"  style="width:150px;" title="Fred Meyer" />
+					</a>
+					</div>
+										
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:16.6666666667%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Adidas " href="/index.php/9-local-sponsors/17-local-sponsor-5">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/e0969c04631aa62602c46ba15cfff8a8-adidaslogo.jpg" alt="Adidas "  style="width:150px;" title="Adidas " />
+					</a>
+					</div>
+										
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:16.6666666667%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Umpqua Bank" href="/index.php/9-local-sponsors/16-local-sponsor-4">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/5fa397ec641dd3e44109a67718e746d7-umpqualogoBANK.jpg" alt="Umpqua Bank"  style="width:150px;" title="Umpqua Bank" />
+					</a>
+					</div>
+										
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:16.6666666667%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Chevrolet" href="/index.php/9-local-sponsors/15-local-sponsor-3">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/992c846b5f8febfc5af983f176cab20d-chevrolet.jpg" alt="Chevrolet"  style="width:150px;" title="Chevrolet" />
+					</a>
+					</div>
+										
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:16.6666666667%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Saint Alphonsus" href="/index.php/9-local-sponsors/14-local-sponsor-2">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/005676f20579541c00bbc1c11efe7748-RushSoccerWebsiteLOGO.png" alt="Saint Alphonsus"  style="width:150px;" title="Saint Alphonsus" />
+					</a>
+					</div>
+										
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:16.6666666667%" >
+				<div class="bt-inner">
+								
+
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Fred Meyer" href="/index.php/9-local-sponsors">
+						<img class="hovereffect" src="http://www.idahorush.com/cache/mod_bt_contentslider/c4e7f6c3925ad8565b547b7b209a75d9-FredMeyerlogo.png" alt="Fred Meyer"  style="width:150px;" title="Fred Meyer" />
+					</a>
+					</div>
+										
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(115);
+	btcModuleOpts.push({
+			slideEasing : 'easeInQuad',
+			fadeEasing : 'easeInQuad',
+			effect: 'slide,slide',
+			preloadImage: 'http://www.idahorush.com//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 0,						
+			hoverPause: true,	
+			slideSpeed : 500,
+			autoHeight:true,
+			fadeSpeed : 500,
+			equalHeight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles_num',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:0	});
+</script>
+
+        </div>
+    </div>
+    </div>
+    <div class="module _clublogos">
+    <div class="module-inner">
+                <div class="modcontent clearfix">
+        	
+
+<p><span style="font-size: 14pt;"><strong><img src="/images/images/trailsofpassion.png" alt="trailsofpassion" /></strong></span></p>
+        </div>
+    </div>
+    </div>
+
+			<!--</div>-->
+		</div>
+		 </div></div> 								</div>
+							</div>
+						</div>
+                    </section>					<section id="yt_spotlight9" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container"  style="width:100%; " >
+								<div class="yt-main-in2 row-fluid">
+										<div id="position-16" class="span12" data-normal="" data-stablet="">
+			<!--<div class="yt-position-inner">-->
+				<script type="text/javascript">
+	function iFrameHeight()
+	{
+		var h = 0;
+		if (!document.all)
+		{
+			h = document.getElementById('blockrandom').contentDocument.height;
+			document.getElementById('blockrandom').style.height = h + 60 + 'px';
+		} else if (document.all)
+		{
+			h = document.frames('blockrandom').document.body.scrollHeight;
+			document.all.blockrandom.style.height = h + 20 + 'px';
+		}
+	}
+</script>
+
+<iframe onload="iFrameHeight()"	id="blockrandom"
+	name=""
+	src="http://national.rushsoccer.com/index.php/rushmodule"
+	width="100%"
+	height="1850"
+	scrolling="no"
+	frameborder="0"
+	class="wrapper" >
+	No Iframes</iframe>
+
+			<!--</div>-->
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<section id="yt_spotlight7" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container" >
+								<div class="yt-main-in2 row-fluid">
+										<div id="position-11" class="span3" data-normal="" data-stablet="span6">
+			<!--<div class="yt-position-inner">-->
+				    	
+	<div class="module  style-icon _menufoot clearfix">
+	    	    <div class="modcontent clearfix">
+			<div class="modcontent-inner clearfix">
+				<h3 class="modtitle"><i class="icon-ok"></i>Office</h3>
+<p><span style="font-size: 12pt;"><strong><br>Idaho Rush Soccer Club</strong> </span><br>270 S. Orchard St, Boise, Idaho 83705 </p>
+<p><span style="font-size: 12pt;"><strong>Hours</strong></span><br>Monday – Thursday<br />
+10:00 am to 5:00 pm<br />
+Friday<br />
+10:00 am to 1:00pm <br />
+</p>
+<p><span style="font-size: 12pt;"><strong>Phone</strong></span><br>(208) 336-6512</p>
+<p><span style="font-size: 12pt;"><strong>Fax</strong></span><br>(208) 336-6588</p>			</div>
+	    </div>
+	</div>
+    
+			<!--</div>-->
+		</div>
+				<div id="position-12" class="span3" data-normal="" data-stablet="span6">
+			<!--<div class="yt-position-inner">-->
+				    	
+	<div class="module  style-icon _menufoot clearfix">
+	    		    <h3 class="modtitle"><i class='icon-user'></i>Social Links</h3>
+	    	    <div class="modcontent clearfix">
+			<div class="modcontent-inner clearfix">
+				    <div class="_menufoot@user">
+<div class="cwtest90" id="cwsociallinks1">
+            <div class="cw-social-mod">
+                            <div class="cw-social-mod-bookmark" style="border:1px solid #303030" >
+                
+                                            
+                                            
+                    <div class="cw-social-mod-icon-ac">
+
+                        <ul class="cw-social-mod-icons-cws-square-rc-fadein">
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                            <div class="cw-social-mod">
+                                    <div class="cw-social-mod-follow" style="border:1px solid #303030" >
+                                                
+                                                    
+                                                    
+                        <div class="cw-social-mod-icon-ac">
+
+                            <ul class="cw-social-mod-icons-cws-square-rc-fadein">
+                                <li>
+<a class="cwshare facebook64" href="https://www.facebook.com" title="Follow us on Facebook" target="_blank">Follow us on Facebook</a>
+</li><li>
+<a class="cwshare googleplus-alt64" href="https://www.google.com" title="Follow us on Google +" target="_blank">Follow us on Google +</a>
+</li><li>
+<a class="cwshare linkedin64" href="https://www.linkedin.com" title="Follow us on Linkedin" target="_blank">Follow us on Linkedin</a>
+</li><li>
+<a class="cwshare twitter64" href="https://www.twitter.com" title="Follow us on Twitter" target="_blank">Follow us on Twitter</a>
+</li><li>
+<a class="cwshare rss64" href="http://www.example.com/rss" title="Follow us on RSS" target="_blank">Follow us on RSS</a>
+</li>                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                        <span class="cw-social-mod_copyrht">
+                    Powered by <a target="_blank" title="CoalaWeb" href="http://coalaweb.com">CoalaWeb</a>
+                </span>
+                    </div>
+    </div>
+			</div>
+	    </div>
+	</div>
+    
+			<!--</div>-->
+		</div>
+				<div id="position-13" class="span3" data-normal="" data-stablet="span6">
+			<!--<div class="yt-position-inner">-->
+				    	
+	<div class="module  style-icon _menufoot clearfix">
+	    		    <h3 class="modtitle"><i class='icon-book'></i>Get Help</h3>
+	    	    <div class="modcontent clearfix">
+			<div class="modcontent-inner clearfix">
+				
+<ul class="nav menu">
+<li class="item-157 first"><a href="/index.php/registration-2" >Registration</a></li><li class="item-158"><a href="/index.php/about-2" >About</a></li><li class="item-159"><a href="/index.php/recreational-2" >Recreational</a></li><li class="item-160"><a href="/index.php/competitive-2" >Competitive</a></li><li class="item-161"><a href="/index.php/tournaments-2" >Tournaments</a></li><li class="item-162 last"><a href="/index.php/archived-articles" >Archived Articles</a></li></ul>
+			</div>
+	    </div>
+	</div>
+    
+			<!--</div>-->
+		</div>
+				<div id="position-14" class="span3" data-normal="" data-stablet="span6">
+			<!--<div class="yt-position-inner">-->
+				    	
+	<div class="module  style-icon _menufoot clearfix">
+	    		    <h3 class="modtitle"><i class='icon-envelope'></i>Email Us</h3>
+	    	    <div class="modcontent clearfix">
+			<div class="modcontent-inner clearfix">
+				<style type="text/css"><!--div.rapid_contact tr, div.rapid_contact td { border: none; padding: 3px; }--></style><div class="rapid_contact _menufoot@envelope"><form action="http://www.idahorush.com/" method="post">
+<div class="rapid_contact intro_text _menufoot@envelope"></div>
+<table><tr><td>Email:<br/><input class="rapid_contact inputbox _menufoot@envelope" type="text" name="rp_email" size="15" value=""/></td></tr>
+<tr><td>Subject:<br/><input class="rapid_contact inputbox _menufoot@envelope" type="text" name="rp_subject" size="15" value=""/></td></tr>
+<tr><td valign="top">Message:<br/><textarea class="rapid_contact textarea _menufoot@envelope" name="rp_message" cols="13" rows="4"></textarea></td></tr>
+<tr><td colspan="2"><input class="rapid_contact button _menufoot@envelope" type="submit" value="Send Message" style="width: 100%"/></td></tr></table></form></div>
+			</div>
+	    </div>
+	</div>
+    
+			<!--</div>-->
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<footer id="yt_footer" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container" >
+								<div class="yt-main-in2 row-fluid">
+										<div id="yt_copyrightposition" class="span12">
+			        <!-- 
+        You CAN NOT remove (or unreadable) those links without permission. Removing the link and template sponsor Please visit smartaddons.com or contact with e-mail (contact@ytcvn.com) If you don't want to link back to smartaddons.com, you can always pay a link removal donation. This will allow you to use the template link free on one domain name. Also, kindly send me the site's url so I can include it on my list of verified users. 
+        -->
+        <div class="footer1">Copyright &#169; 2015 Idaho Rush Soccer. All Rights Reserved.  </div>
+        <div class="footer2">Powered By <a href="http://www.playerocity.com">Playerocity.com</a></div>
+                </div>
+										</div>
+							</div>
+						</div>
+                    </footer>			        <div id="yt_special_pos" class="row-fluid hidden-phone">
+	            	<script type="text/javascript">
+		function useSP(){
+			jQuery(document).ready(function($){
+				var width = $(window).width()+17; //alert(width);
+				var events = 'click';
+				if(width>767){
+																								}
+			});
+					}
+
+		useSP();
+		
+		jQuery(document).ready(function($){
+		$(".sticky-right .btn-special").tooltip({
+                  'selector': '',
+                  'placement': 'left'
+            });
+		$(".sticky-left .btn-special").tooltip({
+					  'selector': '',
+					  'placement': 'right'
+				});
+		});
+		
+		/* jQuery(window).resize(function(){ 
+	    	if (jQuery.data(window, 'use-special-position'))
+	      		clearTimeout(jQuery.data(window, 'use-special-position'));
+				
+	    	jQuery.data(window, 'use-special-position', 
+	      		setTimeout(function(){
+	        		useSP();
+	      		}, 200)
+	    	)
+	  	}) */
+	</script>
+
+</div>
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		/* Begin: add class pattern for element */
+		var headerbgimage = '';
+		//var footerbgimage = '';
+		if(headerbgimage){
+			//$('#yt_header').addClass(headerbgimage);
+			//$('#yt_slideshow').addClass(headerbgimage);
+		}
+		/* End: add class pattern for element */
+	});
+</script>
+    <a id="yt-totop" class="backtotop" href="#"><i class="icon-chevron-up"></i></a>
+
+    <script type="text/javascript">
+        jQuery(".backtotop").addClass("hidden-top");
+			jQuery(window).scroll(function () {
+			if (jQuery(this).scrollTop() === 0) {
+				jQuery(".backtotop").addClass("hidden-top")
+			} else {
+				jQuery(".backtotop").removeClass("hidden-top")
+			}
+		});
+
+		jQuery('.backtotop').click(function () {
+			jQuery('body,html').animate({
+					scrollTop:0
+				}, 1200);
+			return false;
+		});
+    </script>
+
+
+<!-- Arrow for main menu-->
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		//console.log(arrow_width_cssmenu);
+		var modclass_cssmenu = "#yt_menuposition ul.navi li.level1.active:after";
+		
+		var arrow_width_cssmenu = $("#yt_menuposition ul.navi li.level1.active").innerWidth()/2  ;
+		$("<style type='text/css'>" + modclass_cssmenu + "{ border-left-width:"+ arrow_width_cssmenu + "px; border-right-width:"+ arrow_width_cssmenu +"px; bottom:-12px; } </style>").appendTo("head");
+	});
+</script>	</section>
+<script language="javascript" type="text/javascript">
+						function jSelectShortcode(text) {
+							jQuery("#yt_shorcodes").removeClass("open");
+							text = text.replace(/'/g, '"');
+							if(document.getElementById('jform_articletext') != null) {
+								jInsertEditorText(text, 'jform_articletext');
+							}
+							if(document.getElementById('text') != null) {
+								jInsertEditorText(text, 'text');
+							}
+							if(document.getElementById('jform_description') != null) {
+								jInsertEditorText(text, 'jform_description');
+							}
+							if(document.getElementById('jform_content') != null) {
+								jInsertEditorText(text, 'jform_content');
+							}
+							if(document.getElementById('product_desc') != null) {
+								jInsertEditorText(text, 'product_desc');
+							}
+							SqueezeBox.close();
+						}
+				   </script></body>
+</html>

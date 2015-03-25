@@ -1,0 +1,233 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<!-- Club2.master -->
+
+<head><title>
+	Homepage
+</title><style id="ctl00_PageStyle">
+    img {border:0px;}
+    .TopUI, .SubUI, A.TopUI:active, A.TopUI:visited, A.SubUI:active, A.SubUI:visited
+    {
+        font-weight: bold;
+        font-size: 8pt;
+        font-family: Tahoma, Verdana, MS Sans-Serif;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+     .SubHeading
+    {
+        font-size: 10pt;
+        font-family: Tahoma, Verdana, Sans-Serif;
+        color: #2d88af;
+        font-weight: bold;
+    }
+
+    .TableHeader
+    {
+        font-size: 9pt;
+        color: white;
+        font-weight: bold;
+        background-color: #2d88af;
+    }
+
+    .TableFooter
+    {
+        font-size: 9pt;
+        background-color: #B9DBE8;
+    }
+
+    .HelpHeading
+    {
+        font-size: 9pt;
+        font-family: Tahoma, Verdana, Sans-Serif;
+        color: #ff8c00;
+        font-weight: bold;
+    }
+
+    .TinyHeading
+    {
+        font-size: 7pt;
+        font-family: Tahoma, Verdana, Sans-Serif;
+        color: #2d88af;
+        font-weight: bold;
+    }
+    
+    .TinyText
+    {
+        font-size: 7pt;
+    }
+    A, A:active, A:visited
+    {
+      color: #336699;
+    }
+
+    A:hover
+    {
+      color: #7DD8FF;
+    }
+
+INPUT, SELECT
+{
+    font-size: xx-small;
+}
+
+.NoPad
+{
+    margin:0px;
+    padding:0px;
+}
+
+.NormalButton
+{
+    font-size: xx-small;
+    cursor: hand;
+    cursor: pointer;
+}
+
+.ShadowBox {
+	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+}
+
+   
+ body {font-family: Tahoma;font-size:9pt;}
+
+ td {font-family: Tahoma;font-size:9pt;}
+
+ div {font-family: Tahoma;font-size:9pt;}
+
+ A {text-decoration: none;}
+
+ .PageHeading {font-size: 12pt;font-family: Tahoma, Verdana, Sans-Serif;color: #263658;font-weight: normal;}
+ .HeadingA, .HeadingA:visited {font-size: 10pt;font-family: Tahoma; color:white; background: #CC0000;font-weight: bold;}
+ .HeadingB, .HeadingB:visited {font-size: 10pt;font-family: Tahoma; color:white; background: #333333;font-weight: bold;}
+ .HeadingC, .HeadingC:visited {font-size: 10pt;font-family: Tahoma; color:white; background: #263658;font-weight: bold;}
+ .LeftUI, .LeftUI:visited {font-size: 9pt;font-family: Tahoma; color:336699;font-weight: bold;}
+ .LeftUI:hover {font-size: 9pt;font-family: Tahoma; color:7DD8FF;font-weight: bold;}
+ .TextA, .TextA:visited {font-size: 9pt;font-family: Tahoma; color:white;}
+ .TextB, .TextB:visited {font-size: 9pt;font-family: Tahoma; color:white;}
+ .TextC, .TextC:visited {font-size: 9pt;font-family: Tahoma; color:white;}</style><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /></head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#CC0000">
+    <form name="aspnetForm" method="post" action="Default.aspx?p=5225&amp;AspxAutoDetectCookieSupport=1" id="aspnetForm" class="NoPad">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzM4Njk5MjY4ZGQ/1gYyKHHFs1itWiBDgUaPnTCxTQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="354E6D71" />
+    
+    
+    <img src="/images/transparent.gif" width="10" height="20" />
+
+    <table cellpadding="0" cellspacing="0" align="center" class="ShadowBox">
+        <tr>
+            <td>
+			
+			
+			
+            <table width="890" height="402" cellpadding="0" cellspacing="0" style="border: solid 1px #888888;">
+                <tr>
+                    <td valign="top" height="50">
+                    <table width="100%" bgcolor="white" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td align="left"><img src="/content/clubs/logos/c_7722.png" id="ctl00_MainLogo" /></td>
+                            <td align="right" valign="top" background="/content/ui/gradient_180x110_(H)CC0000_white_.jpg"><img src="/content/ui/gradient_180x110_(H)CC0000_white_.jpg" /></td>
+                        </tr>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <table cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td bgcolor="#333333" width="100%"><div id="ctl00_MainUI"><table cellpadding="0" cellspacing="0"><tr><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5225" class="TopUI">Homepage</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5241" class="TopUI">About Us</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5240" class="TopUI">Club Rules</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5236" class="TopUI">Coaches</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5244" class="TopUI">Contact Us</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5243" class="TopUI">Fields</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5242" class="TopUI">Mission Statement</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5836" class="TopUI">POLICY</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5235" class="TopUI">Registration</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5238" class="TopUI">Schedules</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=5237" class="TopUI">Teams</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/?p=6452" class="TopUI">Tournaments</a></td><td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap><a href="/clubsite/Login.aspx" class="TopUI"><img src="/images/icons/club_login.gif" /><img src="/images/transparent.gif" width="2" height="9" />Login</a></td></tr></table></div></td>
+                            <td align="right"><img src="/content/ui/gradient_120x16_(H)CC0000_(H)333333_.jpg" /></td>
+                        </tr>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" height="99%">
+                    <table bgcolor="white" width="100%" height="100%">
+                        <tr>
+                            <td valign="top">
+                            <table cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td valign="top">
+                                    
+<div id="ctl00_LeftUI_RelatedPages"></div>
+
+                                    </td>
+                                    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                    <td valign="top" width="99%">
+                                    
+</form><div id="ctl00_MainBody_PageContent"><span style="font-weight: bold;">
+<p align="center"><p align="center" class="irc_mutc" style="display: none;"><a class="irc_mutl" href="http://www.google.com/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;docid=SBiyHGcWb67zvM&amp;tbnid=OlYLeLr-8wp52M:&amp;ved=0CAUQjRw&amp;url=http%3A%2F%2Fwww.associazioneercolini.it%2Fle-nostre-attivita%2Fcalcio%2F&amp;ei=AhZZU_2lKceq2QWDxICoDQ&amp;bvm=bv.65397613,d.b2I&amp;psig=AFQjCNF-vrSp_I1ywzEds4fxwHV9D_ZYlA&amp;ust=1398433648452531" data-ved="0CAUQjRw"><img width="621" height="400" class="irc_mut" style="margin-top: 80px;" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ28zjSQhBqb5qoE0xY_zOAXZ03BsQH__jNoR1nWOGNeoqUndMg"></a></p><p align="center"></p><span style="color: rgb(255, 0, 0); font-size: 24pt; font-weight: bold;"><p align="center"><span style="color: rgb(0, 0, 205); text-decoration: underline;">LEFLORE COUNTY EXPRESS SOCCER<br></span></p><span style="color: rgb(255, 0, 0); font-size: 18pt;"><p align="center">Welcome to the Leflore County Oklahoma Express Soccer Club.&nbsp; We strive to offer you the best soccer culture and experience for our athletes.&nbsp; Express Soccer is a non-profit organization committed to promoting the wonderful sport of soccer by providing a positive and fun atmosphere for the youth.<br></p><span style="color: rgb(50, 205, 50);"><p align="center">Fields are closed through Wednesday 3/25<br><br>Coaches clinic is Thursday 3/26 by the <br>Oklahoma Soccer Association Coaching Director!<br>U5 and U6 teams at 5:15 at the PARC<br>U8 and U10 teams at 6:30 at the PARC<br>U12 and U16 teams at 7:45 at the Poteau High School stadium&nbsp;</p></span><p align="center"><span style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 12pt;">
+
+</span><br><span style="color: rgb(0, 0, 205);">Like&nbsp;LeFlore County Express Soccer&nbsp;on Facebook for more updates.<br></span></p></span></span><span style="font-size: 12pt;"><p align="center"><span style="color: rgb(0, 0, 205);"><br>Questions, Comments, Suggestions?<br>Please&nbsp;go to CONTACT US or&nbsp;email to <a href="mailto:lcsapoteau@gmail.com">lcsapoteau@gmail.com</a><br><br></span></p><span style="color: rgb(0, 0, 0);"><p align="center"><span style="font-weight: bold;"><span style="color: rgb(255, 99, 71); background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0); font-family: Arial Black; text-decoration: underline;">YOU WILL RECIEVE AN E-MAIL NOTIFYING YOU IF GAMES ARE CANCELLED, <br>IF YOU HAVE PROVIDED US WITH YOUR E-MAIL ADDRESS,&nbsp;<br>OR <br>CHECK THIS WEBSITE or the LEFLORE COUNTY SOCCER EXPRESS FACEBOOK PAGE.<br><br>If a game has started play and it starts lightning the game is to be postponed/cancelled immediately.</span></span></span></p><div class="irc_mutc" style="display: none;"><a class="irc_mutl" href="http://www.google.com/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;docid=SBiyHGcWb67zvM&amp;tbnid=OlYLeLr-8wp52M:&amp;ved=0CAUQjRw&amp;url=http%3A%2F%2Fwww.associazioneercolini.it%2Fle-nostre-attivita%2Fcalcio%2F&amp;ei=AhZZU_2lKceq2QWDxICoDQ&amp;bvm=bv.65397613,d.b2I&amp;psig=AFQjCNF-vrSp_I1ywzEds4fxwHV9D_ZYlA&amp;ust=1398433648452531" data-ved="0CAUQjRw"><img width="621" height="400" class="irc_mut" style="margin-top: 80px;" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ28zjSQhBqb5qoE0xY_zOAXZ03BsQH__jNoR1nWOGNeoqUndMg"></a></div><p></p></span><blockquote style="margin-right: 0px;" dir="ltr"><p align="center" style="font-size: 18pt;"><a class="irc_mutl" id="irc_ilrp_mutl" href="http://charlottelawlibrary.wordpress.com/tag/soccer-clipart/" data-ved="0CAQQjRw"><img width="714" height="560" id="irc_ilrp_mut" style="width: 219px; height: 168px; margin-top: 0px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8zmXo_ULOBtkebW1aJmrtFZG3keiqDz9Xq0SWZinYRdaif3LP2dGp6gqH"></a></p><a class="irc_mutl" id="irc_ilrp_mutl" href="http://charlottelawlibrary.wordpress.com/tag/soccer-clipart/" data-ved="0CAQQjRw"><div align="center">&nbsp;</div></a><p></p><p align="center" style="font-size: 18pt;"><br></p></blockquote></span><blockquote style="margin-right: 0px;" dir="ltr"><p align="center" style="font-size: 18pt;">&nbsp;</p></blockquote></span><p align="center" style="font-size: 18pt;">&nbsp;</p><blockquote style="margin-right: 0px;" dir="ltr">&nbsp;</blockquote><p align="center" style="font-size: 18pt;">&nbsp;</p><blockquote style="margin-right: 0px;" dir="ltr">&nbsp;</blockquote><p align="center" style="font-size: 18pt;">&nbsp;</p></div>
+<form name="aspnetFormFooter" id="aspnetFormFooter">
+                                    </td>
+                                </tr>
+                            </table>
+                            </td>
+                        </tr>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" bgcolor="#333333"><img src="/content/ui/gradient_600x20_(H)CC0000_(H)333333_.jpg" /></td>
+                </tr>
+            </table>
+			
+			
+			
+			
+			</td>
+        </tr>
+    </table>
+    
+    <br />
+    <br />
+    <div align="center"><font color="white" size="1">&copy;2015&nbsp;GotSoccer,&nbsp;LLC</font></div>
+    <br />
+    <br />
+    
+    </form>
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20472997-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9563615" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9563615&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+</body>
+
+
+</html>

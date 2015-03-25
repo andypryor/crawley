@@ -1,0 +1,690 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Homepage
+</title><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link href="/main.css" rel="stylesheet" type="text/css" />
+    <!-- CustomTemplate.master -->
+</head>
+<body>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js">
+//<![CDATA[
+
+//]]>
+</script><div align="right"><span style="font-family: Arial Black; color: rgb(0, 0, 0);">
+
+
+
+
+</span><link rel="stylesheet" type="text/css" href="/Content/directors/upimg/dir6327/website/reset.css"><link rel="stylesheet" type="text/css" href="/Content/directors/upimg/dir6327/website/ddsmoothmenu.css"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"><span style="font-family: Arial Black; color: rgb(0, 0, 0);">
+
+
+<a href="http://www.mozilla.org/en-US/">Site best viewed with Mozilla FireFox</a></span><br></div><script type="text/javascript" src="ddsmoothmenu.js">
+//<![CDATA[
+Calendar
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu2", //Menu DIV id
+	orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+	//customtheme: ["#804000", "#482400"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+//]]>
+</script><style type="text/css">
+<!--
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding: 0px
+	
+}
+p {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	line-height: 1.4em;
+	text-align: justify;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #383b3f;
+	font-size: 100%;
+	line-height: 1.2;
+	font-weight: bold;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+h1 a:link ,h2 a:link , h3 a:link, h4 a:link, h5 a:link, h6 a:link{
+	color: #383b3f;
+}
+h1{font-size: 27px;}
+h2{
+	font-size: 20px;
+}
+h3{
+	font-size: 17px;
+}
+h4{
+	font-size: 13px;
+}
+h5{font-size: 16px;}
+h6{
+    font-size: 13px;
+    text-transform: uppercase;
+}
+#field {
+	background-image: url(field.png);
+	background-repeat: no-repeat;
+	height: 140px;
+	width: 198px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: -5px;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#field h2 {
+	font-size: 1.3em;
+	font-weight: bold;
+	line-height: 1.6em;
+}
+
+html {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-repeat: repeat-x;
+	background-color: #000;
+	background-image: url(/Content/directors/upimg/dir6327/website/bgTop.jpg);
+}
+
+ body {
+	background-repeat: no-repeat;
+	height: 100%;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	line-height:1.4em;
+	margin: 0px;
+	padding: 0px;
+	background-position: center 0px;
+	background-image:  url(/Content/directors/upimg/dir6327/website/bg.jpg);
+}
+
+
+#wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	width: 1054px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(/Content/directors/upimg/dir6327/website/wrapper.jpg);
+	background-repeat: repeat-y;
+	margin-bottom: -129px;
+	padding: 0px;
+}
+#wrapperInner {
+	margin: 0px;
+	padding: 0px;
+}
+#header {
+	height: 218px;
+	position: relative;
+	background-image: url(/Content/directors/upimg/dir6327/website/header.jpg);
+	background-repeat: no-repeat;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+	width: 1054px;
+}
+#navBar {
+	position: absolute;
+	padding: 0px;
+	left: 0px;
+	bottom: 12px;
+	z-index: 300;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	height: 30px;
+}
+#contentcontainer {
+	margin: 0px;
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#contentColumn {
+	width: 530px;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 25px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 240px;
+}
+
+#logo {
+	position: absolute;
+	top: 14px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	left: 15px;
+}
+
+
+#rightColumn {
+	margin: 0px;
+	float: right;
+	width: 218px;
+	color: #CCC;
+	position: relative;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+
+#rightColumn p{
+	margin: 0px;
+	position: relative;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	line-height: 1.3em;
+}
+
+
+#rightColumn h1   {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-image: url(/Content/directors/upimg/dir6327/website/righth1.jpg);
+	background-repeat: no-repeat;
+	height: 30px;
+	color: #FFF;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	line-height: 30px;
+	width: 238px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: -10px;
+}
+
+
+#rightColumn ul {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 8px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+#rightColumn ul li     {
+	margin: 0px;
+	line-height: 1.3em;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	list-style-type: disc;
+}
+
+#rightColumn img {
+	max-width: 135px;
+	margin: 0px;
+	padding: 5px;
+}
+#rightColumn #field p{
+	margin: 0px;
+	padding: 0px;
+	font-size: 13px;
+	display: block;
+	height: 25px;
+	line-height: 25px;
+}
+#topRight  {
+	background-image: url(/Content/directors/upimg/dir6327/website/h1.jpg);
+	margin: 0px;
+	padding: 0px;
+	height: 30px;
+	background-repeat: no-repeat;
+	text-transform: uppercase;
+	font-size: 12px;
+	line-height: 30px;
+	text-align: center;
+	color: #FFF;
+	font-weight: bold;
+}
+#rightColumn img {
+	max-width: 180px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	margin: 0px;
+}
+#applyNow a:link , #applyNow a:visited{
+	height: 51px;
+	width: 161px;
+	padding: 0px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir557/website/applyBtn.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#applyNow a:hover, #applyNow a:active{
+	height: 51px;
+	width: 161px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir557/website/applyBtn.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px -51px;
+}
+
+#footer {
+	background-image: url(/Content/directors/upimg/dir6327/website/contentEnd.jpg);
+	background-repeat: no-repeat;
+	width: 1054px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	height: 129px;
+	position: relative;
+	color: #FFF;
+	padding: 0px;
+}
+#footerInner {
+	margin: 0px;
+	padding-top: 70px;
+	padding-right: 35px;
+	padding-bottom: 0px;
+	padding-left: 35px;
+}
+#footerInner p {
+	margin: 0px;
+	color: #FFF;
+	padding: 0px;
+	font-size: 11px;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#gsLogo {
+	padding: 0px;
+	height: 64px;
+	width: 176px;
+	position: absolute;
+	left: 415px;
+	margin: 0px;
+	bottom: -25px;
+}
+
+.push {
+	height: 129px;
+}
+.clearthis {
+	margin : 0px;
+	height : 1px;
+	clear : both;
+	float : none;
+	font-size: 1px;
+	line-height: 0px;
+	overflow : hidden;
+	visibility: hidden;
+	padding: 0px;
+}
+.LinesTableHeader {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+
+
+/*SPONSORS ROTATE*/
+
+#banner_container {
+	width: 130px;
+	min-height: 200px;
+	position: relative;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 0px;
+	text-align: center;
+}
+#banner_container div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#banner_container img {
+	border: 0;
+	max-width: 130px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+
+
+/*Content*/
+
+#ctl00_MainBody_PageContent {
+	width: 540px;
+	margin-left: -220px;
+	border-collapse:collapse;
+	text-align: justify;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color: #5A5A5A;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#ctl00_MainBody_EventContent {
+	line-height: 1.4em;
+	vertical-align: top;
+
+	
+}
+
+.LinesTableEvenRow, .LinesTableOddRow {
+	vertical-align: top;
+}
+
+
+/*GENERATED BUTTONS */
+
+
+
+#ctl00_LeftUI_RelatedPages > table:before{
+	font-family: 'Open Sans Condensed', sans-serif;
+	content: "More Options";
+	height: 30px;
+	line-height: 30px;
+	display: block;
+	background-image: url(/Content/directors/upimg/dir6327/website/leftH1.jpg);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	color: #FFF;
+	font-size: 16px;
+	text-transform: uppercase;
+	width: 179px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: -240px;
+	border-collapse:collapse;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+
+#ctl00_LeftUI_RelatedPages a.LeftUI:link,  a.LeftUI:visited {
+	font: normal 12px Tahoma, Geneva, sans-serif;
+	color: #CCC;
+	display: block;
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	margin: 0px;
+	width: 179px; /* Adjusts the width of buttons*/
+	border-bottom: solid 1px #4c4c4c;
+} 
+
+
+#ctl00_LeftUI_RelatedPages a.LeftUI:hover,  a.LeftUI:active {
+	background: #000;
+	color: #F00;
+}
+
+
+#ctl00_LeftUI_RelatedPages table tr td table {
+	margin-left: -239px;
+}
+#ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td:nth-child(even) .LeftUI, #ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td:nth-child(even) .LeftU .LeftUIselected {	
+	margin-left: -4px;
+}
+
+
+#ctl00_LeftUI_RelatedPages table tr td .LeftUI.LeftUIselected {
+	display: none;
+}
+
+#ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td .LeftUI.LeftUIselected {
+	display: block;
+	margin-left: -4px;
+	
+}
+
+
+#ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td:nth-child(even) .LeftUI  {
+	display: block;
+	margin-left: -4px;
+	
+}
+
+
+#aspnetForm div table tr td #ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td .LeftUItable tr td .LeftUI:link {
+	margin-left: 2px;
+	padding-left: 0px;
+	width: 199px;
+	color: #CCC;
+}
+
+#aspnetForm div table tr td #ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td .LeftUItable tr td .LeftUI:before {
+	content: '• ';
+}
+
+#aspnetForm div table tr td #ctl00_LeftUI_RelatedPages table tr td .LeftUItable tr td .LeftUItable tr td .LeftUI:hover {
+	color: #F00;
+}
+
+#ctl00_MainBody_CoachContent, #ctl00_MainBody_TeamContent, #ctl00_MainBody_EventContent, #ctl00_MainBody_CoachPageContent {
+	padding-top: 15px;
+}
+
+
+#ctl00_LeftUI_RelatedPages table tr td table table {
+
+	margin-left: -10px;
+}
+-->
+</style><script type="text/javascript" src="Scripts/swfobject_modified.js">
+//<![CDATA[
+
+//]]></script><div id="header">
+<div id="logo"><a href="#"><img style="WIDTH: 161px; LEFT: 0px" alt="" src="/Content/directors/upimg/dir6327/twin-lake-stealth-logo-2013.jpg" align="middle" border="0" height="160"></a></div>
+<div id="navBar">
+<div id="smoothmenu1" class="ddsmoothmenu">
+<ul>
+<li><a href="/clubsite/?p=6909">Home</a> </li>
+<li><a href="/clubsite/teams.aspx">Teams</a> </li>
+<li><a href="/clubsite/coaches.aspx">Coaches</a> </li>
+<li><a href="/clubsite/?p=7173">Schedule</a> </li>
+<li><a href="/clubsite/contact.aspx">Contact Us</a> </li></ul><br style="CLEAR: left"></div></div><!--
+END NAV BAR
+--></div><!--
+END Header
+-->
+<div id="wrapper">
+<div id="wrapperInner">
+<div id="contentcontainer">
+<div id="contentColumn"><!--
+GENERATED Content
+-->
+
+    <form name="aspnetForm" method="post" action="Default.aspx?p=6909" id="aspnetForm" class="NoPad">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzM4Njk5MjY4ZGQ/1gYyKHHFs1itWiBDgUaPnTCxTQ==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="354E6D71" />
+</div>
+    <div>
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top">
+            
+<div id="ctl00_LeftUI_RelatedPages"><table width="220"><tr><td valign="top"><table width="220" class="LeftUItable"><tr><td title=""><a href="/clubsite/?p=6910" class="LeftUI">About Us</a></td></tr><tr><td title=""><a href="/clubsite/?p=6911" class="LeftUI">Club Information</a></td></tr><tr><td title=""><a href="/clubsite/?p=6912" class="LeftUI">Coaches Corner</a></td></tr></table></td><td valign="top">&nbsp;&nbsp;&nbsp;</td></tr></table></div>
+
+            </td>
+            <td valign="top">
+            
+<div id="ctl00_MainBody_PageContent"><h1 style="text-align: center;"><span style="font-size: 14pt;">Welcome to&nbsp;</span></h1>
+<h1 style="text-align: center;">Twin Lakes Soccer Association!</h1>
+<div style="text-align: center;"><span style="font-size: 12pt;">Mountain Home, Arkansas</span></div>
+<p><br></p>
+<p><span style="font-weight: bold;">Twin Lakes Soccer Association, &nbsp;located in Mountain Home, Arkansas, offers both local and travel team opportunities for players age 3 years old and up.</span></p><p><span style="font-weight: bold;">We are committed to developing and promoting youth soccer in the Twin Lakes 
+Area! We hope you will join us!<br></span></p><p><br></p><p style="text-align: center;"><span style="font-size: 18pt; color: rgb(255, 0, 0);">SPRING SCHEDULES ARE <a target="_top" href="/clubsite/?p=7173">HERE </a>!!!!</span><br></p><div style="text-align: center;"><span style="font-size: 18pt;">Spring Registration is Now Closed<br>We do have some openings on teams for ages U8-U12</span></div><div style="text-align: center;"><span style="font-size: 18pt;">Call 404-4809 to check availability</span></div><p startcont="this" style="text-align: center;"><br></p><p style="text-align: left;"><span style="font-size: 12pt;">Spring Season:&nbsp;</span></p><p style="text-align: left;">Practices will begin the week of February 23 (weather permitting)</p><p style="text-align: left;">You will be contacted by email or by your coach regarding specific day and time of practice</p><p style="text-align: left;">Local Rec Games will start March 7th and run through May 2 (schedule will be posted when ready)</p><p style="text-align: left;">(Games are on Saturday plus two evening games during the week - details to be announced)</p><p style="text-align: left;">No games on 3/21 or 3/28 (spring break) no games on 4/4 (easter weekend)</p><p style="text-align: center;"><br></p><p style="text-align: center;"><br></p><p style="text-align: center;"><span style="font-weight: bold; font-size: 18pt; color: rgb(30, 144, 255);"><a href="http://tlsa.gotsport.com/clubsite/?p=9657">THANKS to all our Sponsors!</a></span></p><p style="text-align: center;"><br></p><p style="text-align: center;"><span style="font-size: 18pt;">Medical Release:</span></p><p style="text-align: center;"><a href="http://www.arkansassoccer.org/assets/964/15/PlayerInfoandMedicalReleaseForm_0.pdf" title="Medical Release and Player Information"><span style="font-size: 10pt;">http://www.arkansassoccer.org/assets/964/15/PlayerInfoandMedicalReleaseForm_0.pdf</span></a><br></p><p style="text-align: center;"><br></p><p style="text-align: center;"><br>&nbsp;</p><div style="text-align: center;">If you have questions or need more information please <a target="_top" href="/clubsite/?p=6920">Click here and CONTACT US</a>.<br></div><div style="text-align: center;"><br></div><div><div style="text-align: center;"><br></div><div style="text-align: center;"><span style="font-size: 8pt;">You can also find us on FaceBook:&nbsp; </span><a style="font-size: 8pt;" href="https://www.facebook.com/TwinLakesSoccer">https://www.facebook.com/TwinLakesSoccer</a></div></div><pre><br></pre><pre style="text-align: center;"><span style="font-family: Tahoma, Verdana, sans-serif; white-space: normal;">Check out these &nbsp;highlights from the u18s:&nbsp;</span><a style="color: rgb(125, 216, 255); font-family: Tahoma, Verdana, sans-serif; white-space: normal;" href="http://youtu.be/3zMJsHPJ16Q" target="_blank"><span style="color: rgb(0, 102, 204);">http://youtu.be/3zMJsHPJ16Q</span></a><span style="font-family: Tahoma, Verdana, sans-serif; white-space: normal;">:</span></pre>                                  <div data-uiid="0" data-murl="https://pipe.skype.com/Client/2.0/" data-fp="{2577B30A-B1DA-4172-9FC1-0DDD7A9F8655}" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" style="display: none;" id="skype_c2c_menu_container" class="skype_c2c_menu_container notranslate"><div class="skype_c2c_menu_click2call"><a target="_self" id="skype_c2c_menu_click2call_action" class="skype_c2c_menu_click2call_action">Call</a></div><div class="skype_c2c_menu_click2sms"><a target="_self" id="skype_c2c_menu_click2sms_action" class="skype_c2c_menu_click2sms_action">Send SMS</a></div><div class="skype_c2c_menu_add2skype"><a target="_self" id="skype_c2c_menu_add2skype_text" class="skype_c2c_menu_add2skype_text">Add to Skype</a></div><div class="skype_c2c_menu_toll_info"><span class="skype_c2c_menu_toll_callcredit">You'll need Skype Credit</span><span class="skype_c2c_menu_toll_free">Free via Skype</span></div></div>         </div>
+
+            </td>
+        </tr>
+    </table>
+    </div>
+    </form>
+    
+ <!--
+generated Content END
+-->
+<div class="clearthis"></div></div><!--
+end CONTENT COLUMn
+-->
+<div id="rightColumn">
+<h1>News &amp; Headlines</h1>
+<ul>
+<li>... 
+</li><li>... 
+</li><li>... </li></ul>
+<h1>Affiliates</h1><a href="http://www.facebook.com/album.php?aid=131735&amp;id=175291575935&amp;saved#/pages/Neptune-Soccer-Association/175291575935?ref=ts"><img src="http://www.neptunesoccer.org/images/facebook.jpg" border="0" height="51" width="132"></a> </div><!--
+END RIGHT COLUMN
+-->
+<div class="clearthis"></div></div>
+<div class="clearthis"></div></div>
+<div class="push"></div></div>
+<div id="footer">
+<div id="footerInner">
+<p>Twin Lake Soccer Assocaition</p>
+<div id="gsLogo"><img src="/Content/directors/upimg/dir5343/website/gsPower.png"> </div>
+<p style="POSITION: absolute; LINE-HEIGHT: 1.6em; BOTTOM: 25px; RIGHT: 45px">&copy;2013 GotSoccer, LLC.</p><!--
+<div id="gsLogo"><a href="http://home.gotsoccer.com"><img src="http://www.gotsport.com/Content/directors/upimg/dir13677/gsfooter.png"></a></div>
+--></div></div>
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20472997-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9563615" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9563615&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    
+</body>
+</html>

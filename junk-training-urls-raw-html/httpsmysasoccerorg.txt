@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-US"> <![endif]-->
+
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+
+<!--[if IE 9 ]><html class="ie ie9" lang="en-US"> <![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+
+<head><link rel="stylesheet" type="text/css" href="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/ZY9tCsIwDEAvtNL6gdsxvELJUjaWNiPJwHl66_yhUsiv9x4hCX6MstiEGT2o-sKSI81P7MKPUdvpn7zbVdBsv09s3LhE-FCaR5RG6YKExqURl3No2HVoWX8bupOHuBpM8bPyuK8yLhbBXKpfuN7PBWgbUb-N1kgkOQVhImdcZz00bGqcXw.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/M9TPzdEtzslMSS3STywuTi0p1ofwivXzMsvyoTIgJlQVAA.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/M9TPzdEtzslMSS3STywuTi0p1s9NLUmEihSUJuVkJusYYiqC8Ir18zLL8qEyJRmpuanF-impaYmlOSUwGgA.css" media="all" />
+
+<title>
+MYSA | Mustang Youth Soccer Association</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="icon" href="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="https://mysasoccer.org/wordpress/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="MYSA" href="https://mysasoccer.org/feed/" />
+<link rel="alternate" type="application/atom+xml" title="MYSA" href="https://mysasoccer.org/feed/atom/" />
+
+<!--[if lt IE 8]>
+
+    <div style=' clear: both; text-align:center; position: relative;'>
+
+    	<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" alt="ie banner" /></a>
+    </div>
+  <![endif]-->
+
+
+
+
+
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="MYSA &raquo; Feed" href="https://mysasoccer.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MYSA &raquo; Comments Feed" href="https://mysasoccer.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MYSA &raquo; Home Comments Feed" href="https://mysasoccer.org/home/feed/" />
+
+
+
+<script type="text/javascript" src="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/dZBRDoIwDEAvJBtE4zm8wmBFit2K7RbE04voj8T99r20L62td3JLAwSwo9rxnkGWqjFnczIB46H-5YE9SMSn7IHmCaRHHfbgs9GAU4xX05hjQZgEUlouAycuGD3BQwnXgIKQmEn_VX954BZpHcVciiSnCbcbBYPYve_PLH4NVrXzVGHsKHvQ7Q1zz-0IXXoB.js"></script>
+<script type="text/javascript" src="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/M9BPSSzKLslIzU3VzyrWzyosTS2q1EuuTM5J1UvMyQEA.js"></script>
+<script type="text/javascript" src="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/bck5DoAwDADBDwUcnoSCUZxDMT6E-D0FVIhydyJsq1TL2BGKQjkc5ZrtJDOUEH91b5SquOavJ1cbPSxAJmPiwc6gSYhNn_XGDQ.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mysasoccer.org/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mysasoccer.org/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='canonical' href='https://mysasoccer.org/' />
+<link rel='shortlink' href='https://mysasoccer.org/' />
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('mysasoccer.org') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
+<meta property="og:site_name" content="MYSA" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="426161597481660" />
+<meta property="og:title" content="MYSA" />
+<meta property="og:description" content="Mustang Youth Soccer Association" />
+<meta property="og:url" content="https://mysasoccer.org" />
+
+<!--[if lt IE 9]>
+
+  <style type="text/css">
+
+    .border, .button {
+
+      behavior:url(https://mysasoccer.org/wordpress/wp-content/themes/darktheme/PIE.php)
+
+      }
+
+  </style>
+
+  <![endif]-->
+
+<script type="text/javascript">
+
+  	// initialise plugins
+
+		jQuery(function(){
+
+			// main navigation init
+
+			jQuery('ul.sf-menu').superfish({
+
+				delay:       1000, 		// one second delay on mouseout 
+
+				animation:   {opacity:'show',height:'show'}, // fade-in and slide-down animation 
+
+				speed:       'normal',  // faster animation speed 
+
+				autoArrows:  false,   // generation of arrow mark-up (for submenu) 
+
+				dropShadows: false   // drop shadows (for submenu)
+
+			});
+
+			// prettyphoto init
+
+			var $window = $(window);
+
+			if (($window.width() < 500) == false) {
+
+				$("a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow:false,social_tools:false,animation_speed:'normal'});
+
+			};
+
+		});
+		
+  </script>
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+
+<script type="text/javascript">
+
+		jQuery(function(){
+
+			jQuery('.sf-menu').mobileMenu({
+
+				combine: false,
+
+				switchWidth:768,
+
+				prependTo: 'nav.primary'
+
+			});
+
+		})
+
+	</script>
+
+<!--<![endif]-->
+
+<!-- Custom CSS -->
+
+<style type="text/css">
+/* Body styling options */
+
+		 
+
+  	/* Header styling options */
+
+		 
+
+		/* Links and buttons color */
+
+		 
+
+		/* Body typography */
+
+		</style>
+</head>
+
+<body class="home page page-id-1100 page-template page-template-page-home page-template-page-home-php">
+<div id="main" class="bg">
+<!-- this encompasses the entire Web site -->
+
+<header id="header" class="container">
+<div class="logo">
+            <a href="https://mysasoccer.org/" id="logo"><img src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/logo.png" alt="MYSA" title="Mustang Youth Soccer Association"></a>
+          </div>
+  
+  <div id="widget-header">
+    <div id="social_networks-2" class="widget-header">
+		
+
+			<ul class="social-networks">
+
+				
+
+					
+			    		
+						<li>
+
+							<a onClick="_gaq.push(['_trackEvent', 'Links', 'Facebook', 'Social Networks']);" rel="external" title="facebook" target="_blank" href="https://www.facebook.com/MustangOKSoccer">
+
+						    		
+									<img src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/facebook.png" width="16px" height="16px" alt="facebook">
+
+								
+							</a>
+
+						</li>
+
+					
+					
+			    		
+						<li>
+
+							<a onClick="_gaq.push(['_trackEvent', 'Links', 'Twitter', 'Social Networks']);" rel="external" title="twitter" target="_blank" href="https://twitter.com/MustangOKSoccer">
+
+						    		
+									<img src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/twitter.png" width="16px" height="16px" alt="twitter">
+
+								
+							</a>
+
+						</li>
+
+					
+					
+			    		
+					
+			    		
+						<li>
+
+							<a onClick="_gaq.push(['_trackEvent', 'Links', 'RSS', 'Social Networks']);" rel="external" title="feed" target="_blank" href="http://feeds.feedburner.com/mysasoccer/oAZM">
+
+						    		
+									<img src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/feed.png" width="16px" height="16px" alt="feed">
+
+								
+							</a>
+
+						</li>
+
+					
+					
+			    		
+						<li>
+
+							<a onClick="_gaq.push(['_trackEvent', 'Links', 'email', 'Social Networks']);" rel="external" title="email" target="_blank" href="mailto:?subject=Mustang Youth Soccer Association&Body=http://mysasoccer.org">
+
+						    		
+									<img src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/email.png" width="16px" height="16px" alt="email">
+
+								
+							</a>
+
+						</li>
+
+					
+					
+			    		
+					
+			    		
+					
+			      
+
+      		</ul>
+
+      
+
+		</div><div id="text-17" class="widget-header"><h3>Field Status:</h3>			<div class="textwidget"><img alt="field status" src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/open.png" width="16px" height="16px"> open <span>as of 3/25/15 @ 3:53 PM</span>
+
+<!-- use only <img alt="field status" src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/open.png" width="16px" height="16px"> open <span>as of 3/25/15 @ 3:53 PM</span> or <img alt="field status" src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/icons/closed.png" width="16px" height="16px"> closed <span>as of 3/25/15 @ 3:53 PM</span> --></div>
+		</div>  </div>
+  <!--#widget-header-->
+      <div id="top-search">
+    <form method="get" action="https://mysasoccer.org/">
+      <div id=search-icon><img alt="search" src="https://mysasoccer.org/wordpress/wp-content/themes/darktheme/images/search-icon.png"></div>
+      <div><input type="text" name="s"  class="input-search" onFocus="if (this.value == 'Search') this.value = '';" value="Search"/></div>
+    </form>
+  </div>
+    
+  <div id="top-header">
+    <nav class="primary">
+      <ul id="topnav" class="sf-menu"><li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1100 current_page_item menu-item-1105"><a href="https://mysasoccer.org/">Home</a></li>
+<li id="menu-item-1186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1186"><a href="https://mysasoccer.org/recreational/">Recreational</a>
+<ul class="sub-menu">
+	<li id="menu-item-1612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1612"><a href="https://mysasoccer.org/contact/#board">Board Members</a></li>
+	<li id="menu-item-1243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1243"><a href="https://mysasoccer.org/recreational/coaches/">Coaches</a></li>
+	<li id="menu-item-1611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1611"><a href="https://mysasoccer.org/recreational/#documents">Documents</a></li>
+	<li id="menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1227"><a href="https://mysasoccer.org/recreational/">FAQs</a></li>
+	<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1591"><a href="https://mysasoccer.org/recreational/fields/">Fields</a></li>
+	<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564"><a target="_blank" href="http://www.oksoccer.com/referees/scheduled_classes.aspx">Referees</a></li>
+	<li id="menu-item-2072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2072"><a href="https://mysasoccer.org/recreational/registration/">Registration</a></li>
+	<li id="menu-item-1594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1594"><a href="https://mysasoccer.org/recreational/volunteer/#schedules">Schedules</a></li>
+	<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1368"><a href="https://mysasoccer.org/recreational/topsoccer/">TopSoccer</a></li>
+	<li id="menu-item-2356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2356"><a href="https://mysasoccer.org/recreational/volunteer/">Volunteer</a></li>
+</ul>
+</li>
+<li id="menu-item-3308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3308"><a>Camps</a>
+<ul class="sub-menu">
+	<li id="menu-item-3309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3309"><a target="_blank" href="https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&#038;iid=60010">British Soccer &#8211; Summer 2015</a></li>
+	<li id="menu-item-3316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3316"><a href="https://mysasoccer.org/events/event/spring-2015-ankle-biter-crew-program/">CVFC Ankle Biter Crew &#8211; Spring 2015</a></li>
+	<li id="menu-item-3315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3315"><a href="https://mysasoccer.org/events/event/spring-2015-goal-scoring-league-program/">CVFC Goal Scoring League &#8211; Spring 2105</a></li>
+	<li id="menu-item-3330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3330"><a href="https://mysasoccer.org/events/event/spring-2015-cvfc-soccer-school/">CVFC Soccer School &#8211; Spring 2015</a></li>
+</ul>
+</li>
+<li id="menu-item-1360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1360"><a target="_blank" href="http://canadianvalleyfc.com/competitive.asp">Competitive</a>
+<ul class="sub-menu">
+	<li id="menu-item-1363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1363"><a target="_blank" href="http://canadianvalleyfc.com/">CVFC Site</a></li>
+	<li id="menu-item-1362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1362"><a target="_blank" href="http://canadianvalleyfc.com/academy.asp">CVFC Academy Info</a></li>
+	<li id="menu-item-1361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1361"><a target="_blank" href="http://canadianvalleyfc.com/competitive.asp">CVFC Competitive Info</a></li>
+</ul>
+</li>
+<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://mysasoccer.org/news/">News</a></li>
+<li id="menu-item-2545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2545"><a href="http://www.soccer.com/Navigation.process?Ntt=mustang&#038;N=0&#038;Ntk=Search&#038;Nty=1&#038;Ntx=mode%2Bmatchallany&#038;Dx=mode%2Bmatchallany&#038;submit=Search">Shop</a></li>
+<li id="menu-item-1122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1122"><a href="https://mysasoccer.org/contact/">Contact</a></li>
+</ul>    </nav>
+    <!--.primary--> 
+    
+  </div>
+  
+  <div class="clear"></div>
+</header>
+<section id="slider-wrapper" class="container">
+  <script type="text/javascript">
+	jQuery(window).load(function() {
+		jQuery('.flexslider').flexslider({
+
+			animation: "fade",              //String: Select your animation type, "fade" or "slide"
+
+			slideDirection: "horizontal",   //String: Select the sliding direction, "horizontal" or "vertical"
+
+			slideshow: true,                //Boolean: Animate slider automatically
+
+			slideshowSpeed: 7000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
+
+			animationDuration: 600,         //Integer: Set the speed of animations, in milliseconds
+
+			directionNav: true,             //Boolean: Create navigation for previous/next navigation? (true/false)
+
+			controlNav: true,               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
+
+			keyboardNav: true,              //Boolean: Allow slider navigating via keyboard left/right keys
+
+			mousewheel: false,              //Boolean: Allow slider navigating via mousewheel
+
+			prevText: "Previous",           //String: Set the text for the "previous" directionNav item
+
+			nextText: "Next",               //String: Set the text for the "next" directionNav item
+
+			pausePlay: false,               //Boolean: Create pause/play dynamic element
+
+			pauseText: 'Pause',             //String: Set the text for the "pause" pausePlay item
+
+			playText: 'Play',               //String: Set the text for the "play" pausePlay item
+
+			randomize: true,               //Boolean: Randomize slide order
+
+			slideToStart: 0,                //Integer: The slide that the slider should start on. Array notation (0 = first slide)
+
+			animationLoop: true,            //Boolean: Should the animation loop? If false, directionNav will received "disable" classes at either end
+
+			pauseOnAction: true,            //Boolean: Pause the slideshow when interacting with control elements, highly recommended.
+
+			pauseOnHover: false,            //Boolean: Pause the slideshow when hovering over slider, then resume when no longer hovering
+
+			controlsContainer: ".flexslider-container",          //Selector: Declare which container the navigation elements should be appended too. Default container is the flexSlider element. Example use would be ".flexslider-container", "#container", etc. If the given element is not found, the default action will be taken.
+
+			start: function(){},            //Callback: function(slider) - Fires when the slider loads the first slide
+
+			before: function(){},           //Callback: function(slider) - Fires asynchronously with each slider animation
+
+			after: function(){},            //Callback: function(slider) - Fires after each slider animation completes
+
+			end: function(){}               //Callback: function(slider) - Fires when the slider reaches the last slide (asynchronous)
+
+		});
+	});
+</script>
+
+<div class="flexslider-holder">
+	<div class="flexslider-container">
+		<div class="flexslider">
+			<ul class="slides">
+													
+
+				<li>				<a href='http://www.soccer.com/Navigation.process?Ntt=mustang&N=0&Ntk=Search&Nty=1&Ntx=mode%2Bmatchallany&Dx=mode%2Bmatchallany&submit=Search'><img src='https://mysasoccer.org/wordpress/wp-content/uploads/2013/11/slide_shop_online-1000x350.jpg' alt='slide' onClick="_gaq.push(['_trackEvent', 'Links', 'Shop Online', 'Slider']);"/></a>											</li>			
+						
+			
+													
+
+				<li>				<a href='https://www.facebook.com/MustangOKSoccer'><img src='https://mysasoccer.org/wordpress/wp-content/uploads/2012/10/slide_facebook-1000x350.jpg' alt='slide' onClick="_gaq.push(['_trackEvent', 'Links', 'Facebook', 'Slider']);"/></a>											</li>			
+						
+			
+						</ul>
+					</div>
+	</div>
+</div></section>
+<!--#slider-->
+
+<div class="primary_content_wrap container">
+<div class="container_12 clearfix">
+
+<div id="before_content_area" class="clearfix">
+  <div id="text-18">			<div class="textwidget"><div class="tabs"><div class="tab-menu"><ul><li><a href="#tab1">Latest News</a></li><li><a href="#tab2">Recent Accomplishments</a></li></ul><div class="clear"></div></div><!-- .tab-menu (end) --><div class="tab-wrapper"><div id="tab1" class="tab"> <ul class="recent-posts "><li class="entry"><a href="https://mysasoccer.org/news/u8-girls-tumbleweeds-2/" title="U8 Girls Tumbleweeds"><div class="thumb-wrap"><img width="829" height="829" src="https://mysasoccer.org/wordpress/wp-content/uploads/2015/03/U8-Tumbleweeds_SCWinterII2015.jpg" class="thumb wp-post-image" alt="U8-Tumbleweeds_SCWinterII2015" /></div></a><div class="post_content"><span class="meta">23 March 2015</span><h5><a href="https://mysasoccer.org/news/u8-girls-tumbleweeds-2/" title="U8 Girls Tumbleweeds">U8 Girls Tumbleweeds</a></h5><div class="excerpt"></div></div></li><li class="entry"><a href="https://mysasoccer.org/news/mysa-open-session-training-clinics-april-2015/" title="MYSA Open Session Training Clinics &#8211; April 2015"><div class="thumb-wrap"><img width="220" height="220" src="https://mysasoccer.org/wordpress/wp-content/uploads/2013/09/thumbnail_mysa_clinic.png" class="thumb wp-post-image" alt="thumbnail_mysa_clinic" /></div></a><div class="post_content"><span class="meta">16 March 2015</span><h5><a href="https://mysasoccer.org/news/mysa-open-session-training-clinics-april-2015/" title="MYSA Open Session Training Clinics &#8211; April 2015">MYSA Open Session Training Clinics &#8211; April 2015</a></h5><div class="excerpt"></div></div></li><li class="entry"><a href="https://mysasoccer.org/news/weather-update-3915-fields-closed/" title="Weather Update 3/9/15: Fields Closed"><div class="thumb-wrap"><img width="220" height="220" src="https://mysasoccer.org/wordpress/wp-content/uploads/2013/05/default_thumbnail.png" class="thumb wp-post-image" alt="thumbnail_default" /></div></a><div class="post_content"><span class="meta">09 March 2015</span><h5><a href="https://mysasoccer.org/news/weather-update-3915-fields-closed/" title="Weather Update 3/9/15: Fields Closed">Weather Update 3/9/15: Fields Closed</a></h5><div class="excerpt"></div></div></li><li class="entry"><a href="https://mysasoccer.org/news/u-s-soccer-coach-training-spring-2015/" title="U.S. Soccer Coach Training &#8211; Spring 2015"><div class="thumb-wrap"><img width="220" height="220" src="https://mysasoccer.org/wordpress/wp-content/uploads/2015/03/thumbnail_us_soccer.png" class="thumb wp-post-image" alt="thumbnail_us_soccer" /></div></a><div class="post_content"><span class="meta">07 March 2015</span><h5><a href="https://mysasoccer.org/news/u-s-soccer-coach-training-spring-2015/" title="U.S. Soccer Coach Training &#8211; Spring 2015">U.S. Soccer Coach Training &#8211; Spring 2015</a></h5><div class="excerpt"></div></div></li></ul><!-- .recent-posts (end) --> </div><!-- .tab (end) --><div id="tab2" class="tab"><ul class="recent-posts "><li class="entry"><a href="https://mysasoccer.org/news/u8-girls-tumbleweeds-2/" title="U8 Girls Tumbleweeds"><div class="thumb-wrap"><img width="829" height="829" src="https://mysasoccer.org/wordpress/wp-content/uploads/2015/03/U8-Tumbleweeds_SCWinterII2015.jpg" class="thumb wp-post-image" alt="U8-Tumbleweeds_SCWinterII2015" /></div></a><div class="post_content"><span class="meta">23 March 2015</span><h5><a href="https://mysasoccer.org/news/u8-girls-tumbleweeds-2/" title="U8 Girls Tumbleweeds">U8 Girls Tumbleweeds</a></h5><div class="excerpt"></div></div></li><li class="entry"><a href="https://mysasoccer.org/news/u12-girls-fc-galaxy-2/" title="U12 Girls FC Galaxy"><div class="thumb-wrap"><img width="220" height="220" src="https://mysasoccer.org/wordpress/wp-content/uploads/2013/05/default_thumbnail.png" class="thumb wp-post-image" alt="thumbnail_default" /></div></a><div class="post_content"><span class="meta">09 November 2014</span><h5><a href="https://mysasoccer.org/news/u12-girls-fc-galaxy-2/" title="U12 Girls FC Galaxy">U12 Girls FC Galaxy</a></h5><div class="excerpt"></div></div></li><li class="entry"><a href="https://mysasoccer.org/news/u11-girls-chaos/" title="U11 Girls Chaos"><div class="thumb-wrap"><img width="220" height="220" src="https://mysasoccer.org/wordpress/wp-content/uploads/2013/05/default_thumbnail.png" class="thumb wp-post-image" alt="thumbnail_default" /></div></a><div class="post_content"><span class="meta">09 November 2014</span><h5><a href="https://mysasoccer.org/news/u11-girls-chaos/" title="U11 Girls Chaos">U11 Girls Chaos</a></h5><div class="excerpt"></div></div></li><li class="entry"><a href="https://mysasoccer.org/news/u10-girls-sounders/" title="U10 Girls Sounders"><div class="thumb-wrap"><img width="829" height="829" src="https://mysasoccer.org/wordpress/wp-content/uploads/2014/12/U10-Sounders_ESCTurkeyShootout2014.jpg" class="thumb wp-post-image" alt="U10-Sounders_ESCTurkeyShootout2014" /></div></a><div class="post_content"><span class="meta">09 November 2014</span><h5><a href="https://mysasoccer.org/news/u10-girls-sounders/" title="U10 Girls Sounders">U10 Girls Sounders</a></h5><div class="excerpt"></div></div></li></ul><!-- .recent-posts (end) --></div><!-- .tab (end) --></div><!-- .tab-wrapper (end) --></div><!-- .tabs (end) --></div>
+		</div></div>
+<div id="home_content_area" class="clearfix">
+  <div class="grid_9">
+    <div class="indent">
+      <div id="text-19"><h2>About Us</h2>			<div class="textwidget">We are a non-profit youth soccer program serving Mustang, OK and the surrounding areas. MYSA is affiliated with Oklahoma Soccer Association and USYSA.
+<br />
+<br />
+<hr />
+<br /></div>
+		</div><div id="text-23"><h2>Our Mission</h2>			<div class="textwidget">Mustang Youth Soccer Association is dedicated to enriching the lives of children through soccer.
+<br />
+<br />
+<hr />
+<br /></div>
+		</div><div id="eo_event_list_widget-4"><h2>Upcoming Events</h2>
+
+	<ul  class="eo-events eo-events-widget" > 
+
+		
+			
+			<li class="eo-event-venue-mustang-soccer-fields-wild-horse-park eo-event-future" >
+				<a href="https://mysasoccer.org/events/event/spring-2015-cvfc-soccer-school/" title="Spring 2015 CVFC Soccer School" >Spring 2015 CVFC Soccer School</a> on March 25, 2015 6:00 pm			</li>
+
+		
+			
+			<li class="eo-event-venue-mustang-soccer-fields-wild-horse-park eo-event-future" >
+				<a href="https://mysasoccer.org/events/event/spring-2015-ankle-biter-crew-program/" title="Spring 2015 Ankle Biter Crew Program" >Spring 2015 Ankle Biter Crew Program</a> on March 26, 2015 5:30 pm			</li>
+
+		
+			
+			<li class="eo-event-venue-mustang-soccer-fields-wild-horse-park eo-event-future" >
+				<a href="https://mysasoccer.org/events/event/spring-2015-goal-scoring-league-program/" title="Spring 2015 Goal Scoring League Program" >Spring 2015 Goal Scoring League Program</a> on March 26, 2015 6:30 pm			</li>
+
+		
+			
+			<li class="eo-event-venue-mustang-soccer-fields-wild-horse-park eo-event-future" >
+				<a href="https://mysasoccer.org/events/event/april-2015-mysa-open-session-training-clinics-u4-u6/" title="April 2015 MYSA Open Session Training Clinics (U4-U6)" >April 2015 MYSA Open Session Training Clinics (U4-U6)</a> on April 6, 2015 5:30 pm			</li>
+
+		
+			
+			<li class="eo-event-venue-mustang-soccer-fields-wild-horse-park eo-event-future" >
+				<a href="https://mysasoccer.org/events/event/april-2015-mysa-open-session-training-clinics-u7-u9/" title="April 2015 MYSA Open Session Training Clinics (U7-U9)" >April 2015 MYSA Open Session Training Clinics (U7-U9)</a> on April 7, 2015 5:30 pm			</li>
+
+		
+			
+			<li class="eo-event-venue-mustang-soccer-fields-wild-horse-park eo-event-future" >
+				<a href="https://mysasoccer.org/events/event/april-2015-mysa-open-session-training-clinics-u10-above/" title="April 2015 MYSA Open Session Training Clinics (U10-Above)" >April 2015 MYSA Open Session Training Clinics (U10-Above)</a> on April 9, 2015 5:30 pm			</li>
+
+		
+	</ul>
+
+
+</div><div id="text-26">			<div class="textwidget"><a href="https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&iid=60010" target="_blank" onClick="_gaq.push(['_trackEvent', 'Links', 'British Soccer', 'Home Page Link']);"><img style="display: block; margin: -15px auto 0 auto" src="https://mysasoccer.org/images/british_soccer_banner_2015.jpg" alt="British Soccer" /></a></div>
+		</div>    </div>
+  </div>
+  <div class="grid_3">
+    <div class="box-holder">
+      <div id="metaslider_widget-2"><h2>Sponsors</h2><!-- meta slider -->
+<div style="max-width: 180px; margin: 0 auto;" class="metaslider metaslider-nivo metaslider-1293 ml-slider">
+    
+    <div id="metaslider_container_1293">
+        <div class='slider-wrapper theme-default'>
+            <div class='ribbon'></div>
+            <div id='metaslider_1293' class='nivoSlider'>
+                <a href="http://www.ryanbrackettdds.com/" target="_blank"><img src="https://mysasoccer.org/wordpress/wp-content/uploads/2014/07/sponsor_dr_brackett.png" height="95" width="180" alt="" class="slider-1293 slide-2975" /></a>
+                <a href="http://bfc247.com" target="_blank"><img src="https://mysasoccer.org/wordpress/wp-content/uploads/2014/11/sponsor_biffs.png" height="95" width="180" alt="" class="slider-1293 slide-3211" /></a>
+                <img src="https://mysasoccer.org/wordpress/wp-content/uploads/2014/07/sponsor_eckroat_seed.png" height="95" width="180" alt="" class="slider-1293 slide-2963" />
+                <a href="http://www.dickssportinggoods.com/" target="_blank"><img src="https://mysasoccer.org/wordpress/wp-content/uploads/2013/05/sponsor_dicks_sporting_goods.png" height="95" width="180" alt="" class="slider-1293 slide-1313" /></a>
+                <a href="http://ok.mustang.papamurphys.com/" target="_blank"><img src="https://mysasoccer.org/wordpress/wp-content/uploads/2014/07/sponsor_papa_murphys.png" height="95" width="180" alt="" class="slider-1293 slide-3000" /></a>
+            </div>
+        </div>
+        
+    </div>
+    <script type="text/javascript">
+        var metaslider_1293 = function($) {
+            $('#metaslider_1293').nivoSlider({ 
+                boxCols:7,
+                boxRows:5,
+                pauseTime:5000,
+                effect:"fade",
+                controlNav:false,
+                directionNav:false,
+                pauseOnHover:true,
+                animSpeed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                slices:15,
+                manualAdvance:false
+            });
+        };
+        var timer_metaslider_1293 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_1293, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_1293, 1) : metaslider_1293(window.jQuery);
+        };
+        timer_metaslider_1293();
+    </script>
+</div>
+<!--// meta slider--></div><div id="text-20">			<div class="textwidget"><br />
+<p style="text-align:center; color:#fff"><a href="http://www.mydickssportinggoods.com/crmcdn/getoffer.aspx?offer_entity_code=O21H5RQ2&token=z7VcOeCZRJ8hO1kjxPyK5Mi9ZKVi51VeCeFP5Z3xMmqRfTL1rEVjePdoSyGLGzw-h-3kXVclyLLWNS0SS9D4g2">Click for Exclusive Club Discounts 
+<br />
+from Dick's Sporting Goods</a></p>
+<br />
+<br /></div>
+		</div><div id="text-21"><h2>Affiliations</h2>			<div class="textwidget"><table>
+<tr>
+<td><a href="http://canadianvalleyfc.com" target="_blank" onClick="_gaq.push(['_trackEvent', 'Links', 'CVFC', 'Affiliations']);"><img src="../images/affiliation_cvfc.png" alt="CVFC" /></a></td>
+<td><a href="http://www.oksoccer.com" target="_blank" onClick="_gaq.push(['_trackEvent', 'Links', 'OSA', 'Affiliations']);"><img src="../images/affiliation_ok_soccer.png" alt="OK Soccer Association" /></a></td>
+</tr>
+<tr>
+<td><a href="http://www.usyouthsoccer.org" target="_blank" onClick="_gaq.push(['_trackEvent', 'Links', 'USYS', 'Affiliations']);"><img src="../images/affiliation_us_youth_soccer.png" alt="US Youth Soccer" /></a></td>
+<td><a href="http://www.ussoccer.com" target="_blank" onClick="_gaq.push(['_trackEvent', 'Links', 'USS', 'Affiliations']);"><img src="../images/affiliation_us_soccer.png" alt="US Soccer" /></a></td>
+</tr>
+</table>
+<br />
+<br />
+<br /></div>
+		</div>    </div>
+  </div>
+</div>
+</div>
+</div>
+<!--.primary_content_wrap-->
+
+<footer id="footer">
+  <div id="widget-footer" class="container">
+    <div class="container_12 clearfix">
+            
+      <!--Widgetized Footer-->
+      
+          <div style="float: right; color: #8a8a8a;">Developed by Brian Koehn Designs</div>
+    </div>
+  </div>
+  <div id="copyright" class="container">
+        <nav class="footer">
+          </nav>
+        <div id="footer-text">
+            
+            <a href="https://mysasoccer.org/privacy/">Terms and Conditions/Privacy Policy</a>                  
+      <!-- {%FOOTER_LINK} -->
+      
+          <br>
+    © 2013-2015 Brian Koehn
+    </div>
+</footer>
+</div>
+<!--#main-->
+
+
+
+
+<script type="text/javascript" src="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/bY3BDYAwDAMXIkS8mIQBUAhSUduEpIDYHip48EDyyz7bHZrN4GQSIxS5pbg4LuvGdraPP2ibQm66f3SkEnZuDrFJjd3xUAiZ4jax15wkJc4FjDWe7xBJLncPZrEEPX7x97kmFb4A.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/mysasoccer.org\/wordpress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/M9RPzs8rSUwu0U3LL8rVNdfPzEvOKU1JLdbPKtYvTi7KLCgpBgA.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"426161597481660"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type="text/javascript" src="https://mysasoccer.org/wordpress/wp-content/cache/minify/000000/M9TPzdEtzslMSS3STywuTi0p1ofwivXzMsvyoTJZhaWpRZV6IBE9iJBeQWJyNgA.js"></script>
+<div id="fb-root"></div><!-- this is used by many Wordpress features and for plugins to work properly -->
+
+<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26253308-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script> 
+
+<!-- Show Google Analytics -->
+
+</body></html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+
+ Served from: mysasoccer.org @ 2015-03-25 15:53:30 by W3 Total Cache -->

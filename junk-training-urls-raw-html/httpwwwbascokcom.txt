@@ -1,0 +1,1274 @@
+
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 25-Mar-15 7:28 am - /scripts/runisa.dll?M2:gp::74039+index/+E ; \\10.10.10.25\html\bascok.com\index.html expires 1m = 25-Mar-15 7:29 am -->
+<title>Broken Arrow Soccer Club</title>
+<meta name="description"        content="Free Goal Keeper Training For BASC Players" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.bascok.com/index.xml" title="RSS Feed">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+ <link rel="stylesheet" href="http://www.bascok.com/common/css/master.css" type="text/css"/>
+<script type="text/javascript">
+  if(!/mobile\=off/i.test(window.location.search)){
+    (function(a,b){if(/android|avantgo|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,
+ '/common/mobile/mobile.html?jobid=74039&nogames=Y'
+    );
+  };
+</script>
+ <script src="http://www.bascok.com/common/js/ps1.9.0/prototype-1.7.2.js" type="text/javascript"></script> <script src="http://www.bascok.com/common/js/ps1.9.0/scriptaculous.js" type="text/javascript"></script>
+<script src="http://www.bascok.com/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.bascok.com/css/layout.css" type="text/css">
+<link rel="stylesheet" href="http://www.bascok.com/css/content.css" type="text/css">
+<link rel="stylesheet" href="http://www.bascok.com/css/menus.css" type="text/css">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-41674940-37', 'bascok.com');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+var diiReplace = {
+  init: function() {
+    $j('span.ArticleBoxContinue a').html('read more...');
+  }
+}
+document.observe('dom:loaded',diiReplace.init);
+</script>
+</head>
+<body>
+<div id="design-page-container">
+<div id="design-container-header">
+  <div id="design-header" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <div id="design-header-left"><a href="HTTP://www.bascok.com/scripts/runisa.dll?M2:gp::74039+index/" ><img src="http://www.bascok.com/images/2013/headerLeft.png" width="814" height="150" border="0"/></a></div>
+    <div id="design-header-right" style="width: 186px; height: 150px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="186" height="1" border="0"/><br/>
+      <div id="design-topLinks">
+        <div class="design-topLinks"><a href="HTTP://www.bascok.com/scripts/runisa.dll?M2:gp::74039+index/" target="_blank"><img src="http://www.bascok.com/images/2013/home.png" width="60" height="16" border="0"/></a></div>
+        <div class="design-topLinks"><a href="HTTP://www.bascok.com/scripts/runisa.dll?M2:gp::74039+calendar/" target="_blank"><img src="http://www.bascok.com/images/2013/calendar.png" width="75" height="16" border="0"/></a></div>
+        <div class="design-topLinks" style="padding-left: 8px;"><a href="javascript:PrintFriendly()"><script language="JavaScript">function PrintFriendly(){clickpop1=window.open("http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+print/index+E","clickpop1","toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=400")}</script><img src="http://www.bascok.com/common/images/icons/16-Print.png" width="16" height="16" border="0"/><br/>
+</a>
+</div>
+      </div>
+      <div id="design-socialMedia">
+        <div class="design-socialMedia"><a href="https://www.facebook.com/pages/Broken-Arrow-Soccer-Club/334988845759" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/facebook.png" width="32" height="32" border="0"/></a></div>
+        <div class="design-socialMedia"><a href="https://twitter.com/BASoccerClub" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/twitter.png" width="32" height="32" border="0"/></a></div>
+        <div class="design-socialMedia"><a href="http://www.youtube.com/channel/UC7wSqpZeq8FmeIxsQKevetw" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/youtube.png" width="32" height="32" border="0"/></a></div>
+        <div class="design-socialMedia"><a href="http://www.pinterest.com/brokenarrowsc/" target="_blank"><img src="http://www.bascok.com/common/images/icons/social/32/pinterest.png" width="32" height="32" border="0"/></a></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="design-container-nav">
+  <div id="design-nav">
+    <div id="design-nav-left"><img src="http://www.bascok.com/images/2013/navLeft.gif" width="205" height="40" border="0"/></div>
+    <div id="design-nav-right">
+<div id="main-menu" class="diimenu" menuclass="mainmenu"></div>
+</div>
+  </div>
+</div>
+<div id="design-container-main">
+  <div id="design-main">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+  <td><img src="http://www.bascok.com/common/images/1x1.gif" width="5" height="1" border="0"/></td>
+  <td id="design-leftColumn">
+    <div id="design-top-left"><img src="http://www.bascok.com/images/2013/topLeft.png" width="230" height="24" border="0"/></div>
+    <div id="design-siteContent"><div class="indexDIVL2-OuterBox">
+<div class="indexDIVL2-InnerBox">
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 indexDIVL2-2LineFirst" onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+117';"><a href="/Spring2014Registration/index_E.html" target="_top">2015 Player Registration</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+104';"><a href="/Tournaments/index_E.html" target="_top">Tournament Information</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+110';"><a href="/LeagueSchedules/index_E.html" target="_top">League Schedules</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+116';"><a href="/ParentInfo/index_E.html" target="_top">Parent Information</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+124';"><a href="/CoachesCornerHome/index_E.html" target="_top">Coaches Corner</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+126';"><a href="/PlayerHealthAwareness/index_E.html" target="_top">Player Health Awareness</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+125';"><a href="/Forms/index_E.html" target="_top">Forms</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+114';"><a href="/ISSCComplexMap/index_E.html" target="_top">ISSC Complex Map</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+108';"><a href="/photogallery/index_E.html" target="_top">Photo Gallery</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+129';"><a href="/Coupons/index_E.html" target="_top">Coupons and Deals</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 indexDIVL2-2LineLast" onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74039+L2/+E+132';"><a href="/maps/index_E.html" target="_top">Field Maps</a></div>
+</div>
+</div>
+</div>
+    <div><img src="http://www.bascok.com/images/2013/sponsors.gif" width="230" height="33" border="0"/></div>
+    <div class="leftContent">
+      <div style="padding: 5px;">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize747841 {width: 220px; height: 150px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_747841', { effect_duration: 0.5, loop_duration: 4000, jobid: '74039' });
+  });
+</script>
+<div id="module_fade_747841" class="imageContainer imageContainerSize747841" subdept="747841">
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.bascok.com/docs/CoachesCornerHome/Tigers%20Den%20Info.pdf"  target="_new"><img src="http://www.bascok.com/imgs/home/Tigers Den logo.jpg" width="200" height="200" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.soccercitytulsa.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/Soccer City Tulsa logo.jpg" width="200" height="200" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.loscabosok.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/LosCabos.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.academy.com/"  target="_new"><img src="http://www.bascok.com/imgs/ClubInfo/ClubSponsors/Academy.jpg" width="200" height="150" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://app.dcsg.com/couponsheet/?s=476856"  target="_new"><img src="http://www.bascok.com/imgs/home/DSG Sponsor.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://warehousemarket.com/"  target="_new"><img src="http://www.bascok.com/imgs/ClubInfo/ClubSponsors/Warehouse Market.jpg" width="200" height="150" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.cicispizza.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/Cicis_Pizza_logo.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.doggiedtailsbykaren.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/doggie dtails.jpg" width="210" height="200" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.bascok.com/docs/CoachesCornerHome/TSS%202014.pdf"  target="_new"><img src="http://www.bascok.com/imgs/home/TSS_Oval_small_black.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.bascok.com/docs/CoachesCornerHome/Michelle%20Cochrane%20Photography%202014.pdf"  target="_new"><img src="http://www.bascok.com/imgs/home/Michelle Cochrane Photography logo.jpg" width="200" height="200" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.robertson-tire.com/index.htm"  target="_new"><img src="http://www.bascok.com/imgs/home/RobertsonLogoSmall.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://cateringtulsa.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/Perfect touch catering.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="https://plus.google.com/103122110693410102132/about?gl=us&hl=en"  target="_new"><img src="http://www.bascok.com/imgs/home/MacsSoccerShack.jpg" width="200"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747841" style="display:none"><a href="http://www.santafecattleco.com/locations/broken-arrow-ok"  target="_new"><img src="http://www.bascok.com/imgs/home/Sante Fe Cattle Co.jpg" width="200" height="200" alt="" border="0"/></a></div>
+</div>
+      </div>
+    </div>
+  </td>
+  <td><img src="http://www.bascok.com/common/images/1x1.gif" width="5" height="1" border="0"/></td>
+  <td id="design-centerContent"><img src="http://www.bascok.com/common/images/1x1.gif" width="476" height="5" border="0"/><br/>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr><td>
+<!---- Begin Main Content ---->
+<script type="text/javascript">
+    var boxBounce = {
+      artPrefix  : 'ArticleBox',
+      lnkPrefix  : 'MainLinksDiv',
+      prevDiv    : 0,
+      timer      : null,
+      interval   : 6500,
+      art$       : function(art){return $(boxBounce.artPrefix+art.toString());},
+      lnk$       : function(art){return $(boxBounce.lnkPrefix+art.toString());},
+      mouseOver  : function(e,i){
+                     e.className='ArticleBoxLinksOver';
+                   },
+      mouseOut   : function(e,i){
+                     e.className=(i!=boxBounce.prevDiv)?'ArticleBoxLinksOff':'ArticleBoxLinksOn';
+                   },
+      focus      : function(e) {
+                     e.className='ArticleBoxLinksOn';
+                   },
+      blur       : function(e) {
+                     e.className='ArticleBoxLinksOff';
+                   },
+      nextFrame  : function(){boxBounce.otherFrame(boxBounce.prevDiv + 1);},
+      otherFrame : function(newDiv){
+                     if (newDiv > 14) newDiv = 1; // limit to max articles
+                     if (boxBounce.prevDiv != 0) {
+                          boxBounce.art$(boxBounce.prevDiv).style.display = "none"; // off with the old
+                          var lnk=boxBounce.lnk$(boxBounce.prevDiv);
+                          if (lnk.className!='ArticleBoxLinksOver')
+                            lnk.className = 'ArticleBoxLinksOff';
+                         }
+                     boxBounce.art$(newDiv).style.display = ""; // on with the new
+                     var lnk=boxBounce.lnk$(newDiv);
+                     if (lnk.className!='ArticleBoxLinksOver')
+                       lnk.className = 'ArticleBoxLinksOn';
+                     boxBounce.prevDiv = newDiv;
+                   },
+      start      : function(){boxBounce.fixuplastp(); if (boxBounce.timer != null) boxBounce.stop(); boxBounce.nextFrame(); boxBounce.timer = setInterval(boxBounce.nextFrame, boxBounce.interval);},
+      stop       : function(){if (boxBounce.timer != null) clearInterval(boxBounce.timer); boxBounce.timer = null;},
+      userFrame  : function(newDiv){boxBounce.stop(); boxBounce.otherFrame(newDiv);},
+      fixuplastp : function(){
+                     var fixer = function(t) {
+                       try {
+                         var p = t.select('p'); if(!p || p.length == 0) return;
+                         var pfirst = p[0], plast = p[p.length-1];
+                         if(pfirst) pfirst.addClassName('ArticleBoxPFirst');
+                         if(plast) plast.addClassName('ArticleBoxPLast');
+                         var span = t.select('span.ArticleBoxContinue')[0];
+                         if(plast && span) { span.remove(); plast.appendChild(span); }
+                       } catch(e) {};
+                     }
+                     $$('.ArticleBoxText').each(fixer);
+                   }
+    };
+document.observe('dom:loaded',boxBounce.start);
+</script>
+<script type="text/javascript">
+var diiClickableImages = (function () {
+  var $;
+  var clickMainPhoto = function (e) {
+    var $div = $(this),
+        $a = $div.find('>a.ArticleBoxPhotoLink'),
+        href = $a.attr('href') ||
+               '/scripts/runisa.dll?M2:gp::74039+L3/Display+E+NDX+NDX+' + $div.attr('mrid');
+    if (href) {
+      window.location = href;
+    }
+  }; // clickMainPhoto
+  var init = function () {
+    $ = jQuery;
+    var $clickableDivs = $('div.ArticleBoxOuterDiv');
+    $clickableDivs.click(clickMainPhoto);
+    $clickableDivs.css('cursor', 'pointer'); // this ought to be in CSS
+  }; // init
+  return {
+    init: init
+  };
+})();
+document.observe('dom:loaded', diiClickableImages.init);
+</script>
+<style type="text/css">
+.ArticleBoxAdminDefault1 {border: 1px solid #000000; border-left: 0px; border-top: 0px; background-color: #EFEFEF;}
+.ArticleBoxAdminDefault2 {padding: 6px; color: #990000;}
+.ArticleBoxAdminDefault3 {padding: 2px; padding-left: 6px;}
+.ArticleBoxAdminDefault4 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdminDefault5 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdminDefault6 {padding-left: 3px; padding-right: 6px;}
+.ArticleBoxPFirst {margin-top: 0px;}
+</style>
+<style type="text/css">
+.ArticleBoxOuterDiv {width: 476px; height: 435px; overflow: hidden; text-align: left;}
+.ArticleBoxPhotoDiv {height: 300px; overflow: hidden; margin-bottom: 1px; border: 1px solid #404040; background: #202020 ;}
+.ArticleBoxAdmin1 {vertical-align: top; border: 1px solid #000000; border-left: 0px; border-top: 0px; background: #133971;}
+.ArticleBoxAdmin2 {background-color: #164284; padding: 6px; color: #FFFFFF;}
+.ArticleBoxAdmin3 {padding: 2px; padding-left: 6px;}
+.ArticleBoxAdmin4 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdmin5 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdmin6 {padding-left: 3px; padding-right: 6px;}
+.ArticleBoxCaption {height: 0px; overflow: hidden; background: #000000;}
+.ArticleBoxInnerDiv {}
+.ArticleBoxHeadline {margin-bottom: 1px; padding: 4px; padding-left: 8px; font-family: Verdana, Arial, sans serif; font-size: 20px; font-weight: bold; color: #fff;}
+.ArticleBoxSubHeadline {font-family: Verdana, Arial, sans serif; font-size: 12px; color: #666; }
+.ArticleBoxText {height: 130px; overflow: hidden; margin-top: 1px; border-top: 3px solid #ff8601; padding: 7px; font-family: Verdana, Arial, sans serif; font-size: 11px; color: #fff;}
+.ArticleBoxContinue {color: #ff8601;}
+.ArticleBoxContinue a:link {color: #ff8601; text-decoration: none;}
+.ArticleBoxContinue a:hover {color: #ff8601; text-decoration: underline;}
+.ArticleBoxContinue a:active {color: #ff8601; text-decoration: none;}
+.ArticleBoxContinue a:visited {color: #ff8601; text-decoration: none;}
+.ArticleBoxLinksTable {width: 476px;}
+.ArticleBoxLinksNameTD {width: 2px; height: 8px;}
+.ArticleBoxLinksNameDIV {}
+.ArticleBoxLinksRow {width: 474px; height: 8px;}
+.ArticleBoxLinksRowTable {}
+.ArticleBoxLinksCell {}
+.ArticleBoxLinksOff {width: 8px; height: 8px; background: url(/images/2013/numberOff.gif) no-repeat; font-size: 0px}
+.ArticleBoxLinksOn {width: 8px; height: 8px; background: url(/images/2013/numberOver.gif) no-repeat; font-size: 0px}
+.ArticleBoxLinksOver {width: 8px; height: 8px; background: url(/images/2013/numberOff.gif) no-repeat; font-size: 0px}
+</style>
+<div id="ArticleBox1" class="ArticleBoxOuterDiv"  mrid="867095">
+  <a href="/home/867095.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Taco bueno fundraiser.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+BASC Fundraiser At Taco Bueno April 2nd!
+</div>
+<div class="ArticleBoxText">
+ <p>BASC Fundraiser at Taco Bueno on April 2nd 11AM - 9PM</p> <span class="ArticleBoxContinue"><a href="/home/867095.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox2" class="ArticleBoxOuterDiv" style="display:none;" mrid="867061">
+  <a href="/home/867061.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/basc roughnecks night.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+BASC Night at ONEOK Field - April 4th @ 7PM
+</div>
+<div class="ArticleBoxText">
+ <p>Family fun night out!</p> <span class="ArticleBoxContinue"><a href="/home/867061.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox3" class="ArticleBoxOuterDiv" style="display:none;" mrid="867107">
+  <a href="/home/867107.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/spring tournament logo.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+BASC & Soccer City 11th Annual Spring Tournament
+</div>
+<div class="ArticleBoxText">
+ <p style="text-align: center;"><strong><span style="color:#000000;"><span style="font-size:28px;"><span style="font-family:comic sans ms,cursive;">BASC &amp; SOCCER CITY SPRING TOURNAMENT</span></span></span></strong></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size:28px;"><span style="font-family:comic sans ms,cursive;"><span style="line-height: 19.2000007629395px;"><b>April 24th, 25th, &amp; 26th</b></span></span></span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size:28px;"><span style="font-family:comic sans ms,cursive;"><a href="https://www.gotsport.com/forms/app/?eventid=43434" style="color: rgb(0, 0, 153);"><font color="#ff8c00"><span style="line-height: 38.4000015258789px;"><b>Click Here to Register</b></span></font></a></span></span></p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="font-size: 16px;"><u><strong>Primary Tournament Contact</strong></u></span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">Tournament Director, Randy Atherton:&nbsp;<strong><a href="mailto:tournament@bascok.com" style="color: rgb(0, 0, 153);"><span style="color: rgb(0, 0, 205);">tournament@bascok.com</span></a></strong></p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><strong><u><span style="font-size: 16px;">Team Registration -&nbsp;<span style="color: rgb(255, 0, 0);">Deadline&nbsp;is April 10th, 2015</span></span></u></strong></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="https://www.gotsport.com/forms/app/?eventid=43434" style="color: rgb(0, 0, 153);"><font color="#0000cd"><span style="font-size: 16px;"><b>Register Here</b></span></font></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 20.8000011444092px;">*All requests made during registration must be sent to&nbsp;the&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 20.8000011444092px;"><a href="mailto:tournament@bascok.com" style="color: rgb(0, 0, 153);"><span style="color: rgb(0, 0, 205);">tournament director</span></a></strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 20.8000011444092px;">. &nbsp;</span></p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><span style="font-size: 16px;"><u><strong>Tournament Rules &amp; Guest Player&nbsp;Information</strong></u></span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><a href="http://www.bascok.com/docs/Tournaments/BASCAcademy/Spring%20Tournament%20Rules.pdf" style="color: rgb(0, 0, 153);"><span style="color: rgb(0, 0, 205);"><strong>Tournament Rules</strong></span></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><a href="http://www.bascok.com/docs/Tournaments/BASCAcademy/Tournament%20Checkin%20Teams%202015%20Final.pdf" style="color: rgb(0, 0, 153);"><strong style="line-height: 20.7999992370605px;"><span style="color: rgb(0, 0, 205);">Team Check in Requirements&nbsp;</span></strong></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><a href="http://www.bascok.com/docs/Tournaments/BASCAcademy/Final%20Application.pdf" style="color: rgb(0, 0, 153);"><font color="#0000cd"><b>Sanctioning Document</b></font></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><a href="http://www.bascok.com/docs/home/Guest%20Player%20Rules%20For%20Tournament%203_24_14.pdf" style="color: rgb(0, 0, 153); line-height: 20.7999992370605px;"><strong><span style="color: rgb(0, 0, 205);">Guest Player Information</span></strong></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="line-height: 1.6em;">Guest players are allowed: &nbsp;You may roster 1 Guest player in U6, U7 &amp;&nbsp;U8, 2 guest are allowed in U9 &amp; U10 and 3 guest are allowed in U11 through U19 age groups. &nbsp;However you may not register more players than the age group roster limit allows. &nbsp;Guest players must be age appropriate for that age group. &nbsp;Competitive players may not guest play on Recreational Teams.</span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><em style="line-height: 1.6em;">Please note that BASC will not accept teams until at least three teams in the age group have registered. &nbsp;Credit cards will not be charged until the team is accepted. &nbsp;Refunds are not provided once a team is accepted.</em></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">If you need hotel reservations<a href="https://secure.cstt.com/Tournaments/HotelList_Results.php?eventid=6954" style="color: rgb(0, 0, 153);">&nbsp;<strong><span style="color: rgb(0, 0, 205);">please click here</span></strong></a>&nbsp;for special tournament discounted hotel rates.</p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<table border="1" cellpadding="1" cellspacing="1" style="font-family: Verdana, Arial, Helvetica, sans-serif; background-color: rgb(255, 255, 255);" width="350">
+	<caption>Rec Registration Fees/Game Format</caption>
+	<tbody>
+		<tr>
+			<td style="font-size: 12px; text-align: center;"><strong>Age Group</strong></td>
+			<td style="font-size: 12px; text-align: center;"><strong>Entry Fee</strong></td>
+			<td style="font-size: 12px; text-align: center;"><strong>Format</strong></td>
+		</tr>
+		<tr>
+			<td style="font-size: 12px; text-align: center;">U6</td>
+			<td style="font-size: 12px; text-align: center;">$150</td>
+			<td style="font-size: 12px; text-align: center;">3v3 Festival</td>
+		</tr>
+		<tr>
+			<td style="font-size: 12px; text-align: center;">U7/8</td>
+			<td style="font-size: 12px; text-align: center;">$200</td>
+			<td style="font-size: 12px; text-align: center;">4v4</td>
+		</tr>
+		<tr>
+			<td style="font-size: 12px; text-align: center;">U9/10</td>
+			<td style="font-size: 12px; text-align: center;">$275</td>
+			<td style="font-size: 12px; text-align: center;">6v6</td>
+		</tr>
+		<tr>
+			<td style="font-size: 12px; text-align: center;">U12</td>
+			<td style="font-size: 12px; text-align: center;">$325</td>
+			<td style="font-size: 12px; text-align: center;">8v8</td>
+		</tr>
+		<tr>
+			<td style="font-size: 12px; text-align: center;">U14</td>
+			<td style="font-size: 12px; text-align: center;">$385</td>
+			<td style="font-size: 12px; text-align: center;">11v11</td>
+		</tr>
+		<tr>
+			<td style="font-size: 12px; text-align: center;">U16/19</td>
+			<td style="font-size: 12px; text-align: center;">$425</td>
+			<td style="font-size: 12px; text-align: center;">11v11</td>
+		</tr>
+	</tbody>
+</table>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">&nbsp;</p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><span style="font-size: 16px;"><strong><u>Hotels</u></strong></span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><a href="https://secure.cstt.com/Tournaments/HotelList_Results.php?eventid=6954" style="color: rgb(0, 0, 153);"><strong><span style="color: rgb(0, 0, 205);">Click Here</span></strong></a>&nbsp;for Participating Hotels.</p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><u style="font-size: 16px; line-height: 1.6em;"><strong>Applied/Accepted Teams</strong></u></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="http://www.gotsport.com/events/teamlist.asp?eventid=43434&amp;showall=true" style="color: rgb(0, 0, 153);"><font color="#0000cd"><b>Applied Teams</b></font></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="http://www.gotsport.com/events/teamlist.asp?eventid=43434" style="color: rgb(0, 0, 153);"><font color="#0000cd"><b>Accepted Team</b></font></a><a href="http://www.gotsport.com/events/teamlist.asp?eventid=43434" style="color: rgb(0, 0, 153);"><font color="#0000cd"><b>s</b></font></a></p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="font-size: 16px;"><u><strong>Schedules, Scoring and Standings</strong></u></span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="http://events.gotsport.com/events/Default.aspx?eventid=43434" style="color: rgb(0, 0, 153);"><font color="#0000cd" face="arial, helvetica, sans-serif"><span style="font-size: 14px;"><b>Scheduling &amp; Scoring Information</b></span></font></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="http://events.gotsport.com/events/getscores.aspx?EventID=43434" style="color: rgb(0, 0, 153);"><font color="#0000ff" face="arial, helvetica, sans-serif"><span style="font-size: 14px;"><b>Sign up to send scores to cell phone or email</b></span></font></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="http://www.bascok.com/docs/Tournaments/BASCAcademy/Tournament%20Checkin%20Teams%202015%20Final.pdf" style="color: rgb(0, 0, 153);"><strong><span style="color: rgb(0, 0, 205);"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;">Team Check&nbsp;In Requirements</span></span></span></strong></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 20.8000011444092px;">If a major change to your schedule is made you will receive an email notice - but please check back regularly for updates.</span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><em style="line-height: 1.6em;">Note: BASC does not post paper schedules or results - please use the on-line schedule link. &nbsp;A digital score board will be available at the HQ building with scrolling results and schedules.</em></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">Scoring will be posted as soon as possible following official review of games forms submitted by the referee to tournament staff.</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">Standings and playoff assignments will be automatically populated as pool play is completed and scored. &nbsp;Please check the schedule webpage for updates regularly.</p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><strong style="line-height: 20.7999992370605px; color: rgb(255, 0, 0);">PLEASE NOTE THAT THE TEAM/SPECTATOR SEATING REQUIREMENTS FOR THE TOURNAMENT HAVE BEEN MODIFIED:</strong></p>
+<ul style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);">
+	<li><strong>For U6 to U8 Competitions:</strong>&nbsp;The&nbsp;<u>home team</u>&nbsp;sidelines location will be the&nbsp;<u>East or North side of the field</u>&nbsp;and the&nbsp;<u>visiting team</u>&nbsp;will be located on the<u>West or South side of the field</u>. &nbsp;The home team is listed first on the pairings in the qualifying rounds, and is the team on top in the brackets for the quarter/semi-final and final rounds. &nbsp;Each team and its spectators will remain on its designated side of the field throughout the match.</li>
+	<li><strong>For U9 to U19 Competitions:</strong>&nbsp;The teams shall be seated on the side of the field having technical area markings. Spectators shall be seated on the opposite side of the field from team (where bleachers are located - as available) and must remain behind the painted standoff line. Signs will be posted at each field. &nbsp;Coaches are required to remain&nbsp;<u>within their respective technical areas</u>&nbsp;unless invited onto the field of play by the official.</li>
+</ul>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20.7999992370605px; background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 0);"><strong>ALL HEAD COACHES ARE RESPONSIBLE FOR THEIR OWN PERSONAL BEHAVIOR, THAT OF THEIR TEAM&rsquo;S STAFF AND PLAYERS AND THAT OF THEIR SPECTATORS. Referee abuse (by coaches, players or spectators) WILL NOT BE TOLERATED and head coaches&nbsp;<u>can and will be sent off</u>. &nbsp;Coaches/Players sent off will be required to sit out the next scheduled match (semi and final matches included).&nbsp;</strong></span></p>
+<hr style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);" />
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="font-size: 16px;"><u><strong>Complex and Field Info</strong></u></span></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">The tournament is held at the Indian Springs Sports Complex in Broken Arrow.</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">Address:&nbsp;13600 South 145th East Ave. (Aspen Ave.),&nbsp;Broken Arrow, OK 74011</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">The complex has over 30 fields (fields 1-22 are located on the east side of Aspen Ave, fields 23-25 are directly west of Aspen Ave and fields 26-34 are located west of Aspen Ave at the west end of the complex.</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">Concessions and restrooms are located on both the east and west side of the complex and directly south of fields 23-25 near the softball fields.</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">The BASC Headquaters buidling (team and field marshal check in) is located on the east side directly east of field #1.</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><strong><a href="http://www.bascok.com/docs/Facilities/IndianSpringsComplex/BASC%20Indian%20Springs%20Complex%202013.pdf" style="color: rgb(0, 0, 153);"><span style="color: rgb(0, 0, 205);">ISSC Complex Map</span></a></strong>,</p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><strong><span style="color: rgb(0, 0, 205);"><a href="http://www.bascok.com/docs/Facilities/IndianSpringsComplex/BAMap.pdf" style="color: rgb(0, 0, 153);">Broken Arrow Area Map</a></span></strong></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><a href="http://www.bascok.com/docs/Facilities/InclementWeatherPolicy/BASC%20Inclement%20Weather%20Policy_2013.pdf" style="color: rgb(0, 0, 153);"><strong><span style="color: rgb(0, 0, 205);">Inclement Weather Procedure</span></strong></a></p>
+<p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div id="ArticleBox4" class="ArticleBoxOuterDiv" style="display:none;" mrid="866769">
+  <a href="/home/866769.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/goalie.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Free Goal Keeper Training For BASC Players
+</div>
+<div class="ArticleBoxText">
+ <p>Free Goal Keeper Training For BASC Players</p> <span class="ArticleBoxContinue"><a href="/home/866769.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox5" class="ArticleBoxOuterDiv" style="display:none;" mrid="839853">
+  <a href="/home/839853.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/soccer parent soccer coach.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Fifteen Things To Keep In Mind While Watching From The  Sidelines
+</div>
+<div class="ArticleBoxText">
+ <p>15 things to keep in mind while watching from the sidelines...</p> <span class="ArticleBoxContinue"><a href="/home/839853.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox6" class="ArticleBoxOuterDiv" style="display:none;" mrid="855948">
+  <a href="/home/855948.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Inspire greatness.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Coaching Soccer In 2015
+</div>
+<div class="ArticleBoxText">
+ <p><span style="font-size:14px;">Coaching information and license opportunities here!</span></p> <span class="ArticleBoxContinue"><a href="/home/855948.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox7" class="ArticleBoxOuterDiv" style="display:none;" mrid="864734">
+  <a href="/home/864734.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Roughnecks logo.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+BASC enters Affiliation with Tulsa Roughnecks FC
+<div class="ArticleBoxSubHeadline">Plan to Stand!! Get your season tickets today!</div>
+</div>
+<div class="ArticleBoxText">
+ <p>Tulsa Roughnecks are BACK! &nbsp;April 4th is BASC night - a special night for our members!</p> <span class="ArticleBoxContinue"><a href="/home/864734.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox8" class="ArticleBoxOuterDiv" style="display:none;" mrid="796013">
+  <a href="/home/796013.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/volunteer.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+How can I help my child have a great soccer experience?
+</div>
+<div class="ArticleBoxText">
+ <p><strong><span style="color: rgb(68, 68, 68); font-family: arial, helvetica, sans-serif; font-size: 14px;">Get involved and volunteer!</span></strong></p> <span class="ArticleBoxContinue"><a href="/home/796013.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox9" class="ArticleBoxOuterDiv" style="display:none;" mrid="766548">
+  <a href="/home/766548.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Soccer Registration.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+2015 Soccer Registration
+</div>
+<div class="ArticleBoxText">
+ <p><font face="arial, helvetica, sans-serif" size="3"><b><a href="http://www.bascok.com/home/766548.html" style="color: rgb(0, 0, 205);">Click Here For&nbsp;Registration information</a></b></font></p> <span class="ArticleBoxContinue"><a href="/home/766548.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox10" class="ArticleBoxOuterDiv" style="display:none;" mrid="841603">
+  <a href="/home/841603.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Cold weather gear.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Tips For The Soccer Player In Cold Weather
+</div>
+<div class="ArticleBoxText">
+ <p>Yes! &nbsp;We play soccer in all kinds of weather...</p> <span class="ArticleBoxContinue"><a href="/home/841603.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox11" class="ArticleBoxOuterDiv" style="display:none;" mrid="852605">
+  <a href="/home/852605.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/video goalie.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Watch BASC Video on Channel 6!
+</div>
+<div class="ArticleBoxText">
+ <p><span style="color:#FFFFFF;"><span style="font-size:14px;">We are super excited that we can promote our own BASC players with a video made by a BASC player!</span></span></p> <span class="ArticleBoxContinue"><a href="/home/852605.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox12" class="ArticleBoxOuterDiv" style="display:none;" mrid="852886">
+  <a href="/home/852886.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Coach of year 2014.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+BASC Fall 2014 Awards Ceremony
+</div>
+<div class="ArticleBoxText">
+ <p><span style="font-size:14px;">Each year, BASC holds a spring and a fall awards ceremony to honor teams who have placed first in their league.</span></p> <span class="ArticleBoxContinue"><a href="/home/852886.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox13" class="ArticleBoxOuterDiv" style="display:none;" mrid="771923">
+  <a href="/home/771923.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/SportingClubNetwork/Sporting Club Network2013.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+BASC Becomes Member of Sporting Club Network
+</div>
+<div class="ArticleBoxText">
+ <p>Sporting Club Network member</p> <span class="ArticleBoxContinue"><a href="/home/771923.html">[+]</a></span>
+</div>
+</div>
+</div>
+<div id="ArticleBox14" class="ArticleBoxOuterDiv" style="display:none;" mrid="757944">
+  <a href="/home/757944.html" style="display: none;" class="ArticleBoxPhotoLink">link</a>
+<div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/home/Amazon_1.jpg'); background-repeat: no-repeat; background-position: center;">
+</div>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Attention Amazon Shoppers! Use the BASC link...
+</div>
+<div class="ArticleBoxText">
+ <p><u><strong>BASC Receives Scholarship Funds from Amazon</strong></u></p>
+<p>&nbsp;</p> <span class="ArticleBoxContinue"><a href="/home/757944.html">[+]</a></span>
+</div>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" class="ArticleBoxLinksTable">
+<tr>
+<td class="ArticleBoxLinksNameTD"><div class="textsmall ArticleBoxLinksNameDIV"></div></td>
+<td width="100%" class="ArticleBoxLinksRow">
+<table cellpadding="0" cellspacing="0" border="0" class="ArticleBoxLinksRowTable">
+<tr>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(1);">
+  <div id="MainLinksDiv1" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,1);" onmouseout="boxBounce.mouseOut(this,1);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">1</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(2);">
+  <div id="MainLinksDiv2" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,2);" onmouseout="boxBounce.mouseOut(this,2);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">2</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(3);">
+  <div id="MainLinksDiv3" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,3);" onmouseout="boxBounce.mouseOut(this,3);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">3</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(4);">
+  <div id="MainLinksDiv4" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,4);" onmouseout="boxBounce.mouseOut(this,4);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">4</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(5);">
+  <div id="MainLinksDiv5" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,5);" onmouseout="boxBounce.mouseOut(this,5);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">5</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(6);">
+  <div id="MainLinksDiv6" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,6);" onmouseout="boxBounce.mouseOut(this,6);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">6</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(7);">
+  <div id="MainLinksDiv7" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,7);" onmouseout="boxBounce.mouseOut(this,7);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">7</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(8);">
+  <div id="MainLinksDiv8" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,8);" onmouseout="boxBounce.mouseOut(this,8);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">8</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(9);">
+  <div id="MainLinksDiv9" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,9);" onmouseout="boxBounce.mouseOut(this,9);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">9</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(10);">
+  <div id="MainLinksDiv10" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,10);" onmouseout="boxBounce.mouseOut(this,10);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">10</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(11);">
+  <div id="MainLinksDiv11" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,11);" onmouseout="boxBounce.mouseOut(this,11);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">11</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(12);">
+  <div id="MainLinksDiv12" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,12);" onmouseout="boxBounce.mouseOut(this,12);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">12</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(13);">
+  <div id="MainLinksDiv13" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,13);" onmouseout="boxBounce.mouseOut(this,13);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">13</div>
+</td>
+<td style="width: 6px;"><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(14);">
+  <div id="MainLinksDiv14" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,14);" onmouseout="boxBounce.mouseOut(this,14);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">14</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIFader;DIIImageModule;Date;JQuery;Mustache;JQueryCycle;JQueryScrollTo;MobileNoGames;</div>
+ <link rel="stylesheet" href="http://www.bascok.com/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.bascok.com/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.bascok.com/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(menuclass, callback) {
+    var url = '/menu-' + menuclass + '.js';
+    $j.ajax({
+      url: url,
+      type: 'GET',
+      dataType: 'json',
+      success: callback
+    });
+  } // fetchMenu
+  var renderHTML = function(el, json) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '465440';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.bascok.com/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:74039\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var $div = $j(el),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  var init = function () {
+      $j('div.diimenu').each(function () {
+        var $div = $j(this),
+            menuclass = $div.attr('menuclass');
+        if (menuclass) {
+          fetchMenu(menuclass, function (data) {
+            renderHTML($div, data);
+          });
+        }
+      });
+    }; // init
+  return {
+    init: init,
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+ <script src="http://www.bascok.com/common/js/date-en-US.js" language="JavaScript" type="text/javascript"></script> <script src="http://www.bascok.com/common/js/time.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.bascok.com/common/js/jquery.mustache-0.3.1/jquery.mustache.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+rand4 = function (){return (''+Math.random()).slice(2,6);}
+diiGetV = function (v){
+  if(!v||!v.length||v=='')return '';
+  var ls = /^\s*/;  // Leading space regular expression
+  var ts = /\s*$/;  // Trailing space regular expression
+  return v.replace(ls, "").replace(ts, "");
+}
+diiClearTbody = function (tbody){while (tbody.rows.length>0) tbody.deleteRow(tbody.rows.length-1);}
+diiSetRowClassOddEven = function (tbody){if (tbody){
+  var cn1 = new RegExp("^\\s*odd|\\s+odd\\s*$", "g");
+  var cn2 = new RegExp("^\\s*even|\\s+even\\s*$", "g");
+  for (var i=0; tbody.rows.length>i; i++){
+    var clsnm = tbody.rows[i].className;
+    clsnm = clsnm.replace(cn1, "");
+    clsnm = clsnm.replace(cn2, "");
+    clsnm += (i % 2) ? ' odd' : ' even';
+    tbody.rows[i].className = normalizeString(clsnm);
+  }
+  }
+}
+function imBusy(idPrefix,msg){
+  return '<div style="height:40px;padding-top:10px;">'
+       + '<span id="'+idPrefix+'indicatorImg" style="margin-top:0px;">'
+       + '<img alt="Indicator" src="http://www.bascok.com/common/images/indicator.gif" /> '
+       + '</span>'
+       + '<span id="'+idPrefix+'indicatorMsg" style="margin-top:0px;">'
+       + msg
+       + '</span>'
+       + '</div>';
+} // imBusy
+function appendBusyRow(tbodyId,msg,nCols){
+  var tbod = $(tbodyId); diiClearTbody(tbod);
+  var tr; var td;
+  tr = document.createElement('tr');
+  td = document.createElement('td');
+  td.innerHTML = imBusy(tbodyId,msg); td.colSpan = nCols;
+  tr.appendChild(td);
+  tbod.appendChild(tr);
+} // appendBusyRow
+function updateBusyRow(tbodyId,msg){
+  var tbod = $(tbodyId);
+  if (tbod&&tbod.rows&&tbod.rows.length>0){
+    var cells=tbod.rows[tbod.rows.length-1].cells;
+    if(cells&&cells.length>0)
+      cells[cells.length-1].innerHTML = msg;
+    }
+} // updateBusyRow
+function diiDMY_MDY(dt){
+  if(!dt||dt=='')return '';
+  var d=dt.match(/(\d+)-([A-Z]+)-(\d+)/);
+  if(!d||!d.length)return '';
+  var mm=d[2], dd=d[1], yy=d[3];
+  var mos=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  for (var i=0;mos.length>i;i++){if(mos[i]==mm){mm=(i+1)+'';break;}}
+  if(mm.length==1)mm='0'+mm;
+  if(dd.length==1)dd='0'+dd;
+  if(yy.length==4)yy=yy.slice(2,4);
+  return mm+'/'+dd+'/'+yy;
+}
+function diiH2A(h){
+  var a=$H(h).map(function(pair){
+    var k=pair.key;
+    var v=pair.value;
+    v.key=k;
+    return v;
+  })||[];
+  return $A(a);
+}
+var diiDateTimes = {
+  dates:{},
+  times:{},
+  getDateObj: function (dt, fullParseFlag) {
+    diiDateTimes.putDate(dt, fullParseFlag);
+    return diiDateTimes.dates[dt];
+  }, // getDateObj
+  getTimeInMinutes: function (tim) {
+    var timobj = diiDateTimes.getTimeObj(tim);
+    if (!timobj.timMinutes) {
+      timobj.timMinutes = parseInt(timobj.timH, 10) * 60 + parseInt(timobj.timM, 10);
+    }
+    return timobj.timMinutes;
+  }, // getTimeInMinutes
+  getTimeObj: function(tim) {
+    if (!tim) tim = 'TBD';
+    diiDateTimes.putTime(tim);
+    return diiDateTimes.times[tim];
+  }, // getTimeObj
+  putDate:function(dt,fullParseFlag){
+    if(!diiDateTimes.dates[dt]){
+      var dateobj = {D: '', M: '', Y: '', YMD: '', DDD: '', MMMD: '', MMMMYYYY: ''}, dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (dtA) {
+        dateobj.D = dtA[1];
+        dateobj.M = dtA[2];
+        dateobj.Y = dtA[3];
+      }
+      diiDateTimes.dates[dt] = dateobj;
+    }
+    if(fullParseFlag === true && !diiDateTimes.dates[dt].date && dt !== ''){
+      var dateobj = diiDateTimes.dates[dt];
+      var dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (!dtA) {
+        dtA = dt.match(/(\d+)\/(\d+)\/(\d+)/);
+      }
+      if (dtA) {
+        dateobj.date = Date.parse(dt);
+        dateobj.YMD      = dateobj.date.toString("yyyyMMdd");
+        dateobj.DDD      = dateobj.date.toString("ddd");
+        dateobj.MMMD     = dateobj.date.toString("MMM d");
+        dateobj.MMMMYYYY = dateobj.date.toString("MMMM yyyy");
+      }
+    }
+  }, // putDate
+  putTime: function(tim) {
+    function makeEntry(a1, a2, a3) {
+      var timeobj = {};
+      var h = parseInt(a1, 10);
+      if (a3 && a3.toUpperCase() === 'PM' && 12 > h) {
+        h = h + 12;
+      }
+      a1 = '' + h;
+      timeobj.timH = a1;
+      timeobj.timM = a2;
+      timeobj.timHHMM = (a1.length == 1 ? '0' : '') + a1 +
+                        (a2.length == 1 ? '0' : '') + a2;
+      timeobj.timDisp = (h > 11) ? '' + ((h > 12) ? h - 12 : h) + ':' + a2 + ' PM' : ((h == 0) ? '12' : a1) + ':' + a2 + ' AM';
+      return timeobj;
+    } // makeEntry
+    if (!tim) tim = 'TBD';
+    if (!diiDateTimes.times[tim]) {
+      var timeobj = {};
+      var timA = tim.match(/30-DEC-1899\s(\d+):(\d+)/);
+      if (timA && timA.length && timA.length > 0) {
+        timeobj = makeEntry (timA[1], timA[2], '');
+      } else {
+        var timA = tim.match(/(\d+):(\d+)\s(AM|PM)/i);
+        if (timA && timA.length && timA.length > 0) {
+          timeobj = makeEntry (timA[1], timA[2], timA[3]);
+        } else {
+          timeobj.timH='';
+          timeobj.timM='';
+          timeobj.timDisp = 'TBD';
+        }
+      }
+      diiDateTimes.times[tim] = timeobj;
+    }
+  }, // putTime
+  rangesOverlap:function(range1Lo, range1Hi, range2Lo, range2Hi) {
+  return ( (range1Hi.compareTo(range2Lo) >= 0) && (range1Lo.compareTo(range2Hi) <= 0) );
+  } // rangesOverlap
+}
+/******************************************************************/
+/* normalizeString Copyright 2002 by Mike Hall                    */
+/* Please see http://www.brainjar.com for terms of use.           */
+/******************************************************************/
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+function normalizeString(s) {
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+  return s;
+} // normalizeString
+/* copyright Stephen Chapman 24th March 2006, 10th February 2007 */
+/* permission to use this function is granted by Stephen Chapman */
+/* provided that this copyright notice is retained intact        */
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+  var x = Math.round(num * Math.pow(10,dec));if (x >= 0) n1=n2='';
+  var y = (''+Math.abs(x)).split('');var z = y.length - dec; if (0 > z) z--; for(var i = z; 0 > i; i++) y.unshift('0');y.splice(z, 0, pnt);
+  while (z > 3) {z-=3; y.splice(z,0,thou);}var r = curr1+n1+y.join('')+n2+curr2;return r;
+}
+function formatComma(n,dec){
+  if (!dec) dec=0;
+  var pnt = (dec>0)?'.':'';
+  return formatNumber(n,dec,',',pnt,'','','-','');
+}
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function diiMemoLink(key) {
+  if (key !== undefined) {
+    var clickpop1 = window.open('http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+Elements/Memo+' + key + '+SiteMap', "clickpop1",
+                                'toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=300');
+    clickpop1.focus();
+  }
+} // diiMemoLink
+function diiInitMemoLinks() {
+  if ($j === undefined || !$j) return;
+  var $memolinks = $j('span.dii-memo-link[key]'), $done = $memolinks.find('> img').parent();
+  $memolinks = $memolinks.not($done);
+  $memolinks.each(function(){
+    var $span = $j(this), imgsize = $span.attr('imgsize');
+    if (!imgsize) imgsize = '12';
+    if (imgsize === '0') {
+      var txt = $span.text();
+      if (txt && txt === $span.html()) {
+        $span.html('<a href="#">' + txt + '</a>');
+      }
+    } else {
+      var s = '<img src="http://www.bascok.com/common/images/icons/{{imgsize}}-Help.png" width="{{imgsize}}" height="{{imgsize}}" vspace="0" hspace="0" align="top" border="0"/>';
+      s = s.replace(/{{imgsize}}/g, imgsize);
+      $span.html(s).css({cursor: 'pointer'});
+    }
+  })
+  .click(function(e){
+    e.preventDefault();
+    var $span = $j(this), key = $span.attr('key');
+    if (key !== undefined) {
+      diiMemoLink(key);
+    }
+  });
+} // diiInitMemoLinks
+document.observe('dom:loaded', diiInitMemoLinks);
+</script>
+ <script src="http://www.bascok.com/common/js/jquery.cycle/jquery.cycle.all.min.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.bascok.com/common/js/dii_fader/dii_fader-0.3.2.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.bascok.com/common/js/jquery-1.3.2/jquery.scrollTo-1.4.1-min.js" language="JavaScript" type="text/javascript"></script>
+  <script src="http://www.bascok.com/common/js/modules/dii_image_module-0.0.4.js" language="JavaScript" type="text/javascript"></script>
+ <script id="dii-mobile-no-games" type="text/template">
+no games
+</script>
+<!---- End Main Content ---->
+  <div style="margin-top: 10px;"><img src="http://www.bascok.com/images/2013/headlines.gif" width="476" height="33" border="0"/></div>
+  <div class="design-middleContent"><div class="indexDIVSideBar-OuterBox">
+<div class="indexDIVSideBar-InnerBox">
+<script type="text/javascript">
+var diiIndexDivSidebar = (function () {
+  var $;
+  var init = function () {
+    $ = jQuery;
+    var $as = $('div.indexDIVSideBar-2Line a');
+    $as.click(function (e) {
+      e.preventDefault();
+    });
+  }; // init
+  return {
+    init: init
+  };
+})();
+</script>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/867095.html">BASC Fundraiser At Taco Bueno April 2nd!</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/867107.html">BASC & Soccer City 11th Annual Spring Tournament</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/867061.html">BASC Night at ONEOK Field - April 4th @ 7PM</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/866769.html">Free Goal Keeper Training For BASC Players</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/839853.html">Fifteen Things To Keep In Mind While Watching From The  Sidelines</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/864734.html">BASC enters Affiliation with Tulsa Roughnecks FC</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/781853.html">BASC Coaches Corner</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/766548.html">2015 Soccer Registration</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/841603.html">Tips For The Soccer Player In Cold Weather</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/852605.html">Watch BASC Video on Channel 6!</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/855948.html">Coaching Soccer In 2015</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/812428.html">BASC Volunteers Needed!</a></div>
+</div>
+</div>
+<div >
+<div class="textsmall indexDIVSideBar-2Line" onmouseover="$(this).addClassName('IndexDIVSideBar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVSideBar-2LineLink')" style="cursor: pointer;" >
+ <div><a href="/home/747840.html">Attention Amazon Shoppers!  Use the BASC link...</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </td></tr>
+  </table>
+  </td>
+  <td><img src="http://www.bascok.com/common/images/1x1.gif" width="6" height="1" border="0"/></td>
+  <td id="design-rightColumn">
+    <div id="design-top-right"><img src="http://www.bascok.com/common/images/1x1.gif" width="273" height="5" border="0"/></div>
+    <div><img src="http://www.bascok.com/images/2013/fieldStatus.gif" width="273" height="33" border="0"/></div>
+    <div id="design-fieldStatus">
+ <div id="dii-18235-status-widget">
+  <style type="text/css">
+div#dii-18235-status-widget table tr td { padding: 0; }
+div#dii-18235-status-widget table#tbl-18235-status-1 { width: 263px; border: 0; }
+div#dii-18235-status-widget div.FieldStatusEditOuter {padding-left: 16px;}
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG { width: 50px; border: 1px solid #80CD80; background-color: #CCFFCC; padding: 2px; text-align: center; font-size: 10px; font-weight: bold; color: #85CB85; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:link    { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:visited { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:active  { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:hover   { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR { width: 50px; border: 1px solid #CD8080; background-color: #FFC3C3; padding: 2px; text-align: center; font-size: 10px; font-weight: bold; color: #CB8585; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:link    { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:visited { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:active  { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:hover   { color: #C00000; }
+div#dii-18235-status-widget table.tbl-18235-status { width: 100%; border: 0; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr { vertical-align: top; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td img { display: block; } /* very important for HTML5 */
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td img.edge-image { border: 0; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td.cell-2 { width: 100%; text-align: center; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td img.edge-image { width: 15px; height: 44px; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td.FieldStatusTitle { background-image: url(/common/images/FieldStatus/Green/FS-Green-2.png); padding-top: 13px; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td.FieldStatusTitle img { margin: auto; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td img.edge-image { width: 4px; height: 44px; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-1 { background-image: url(/common/images/FieldStatus/Green/FS-Green-4.png); }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-3 { background-image: url(/common/images/FieldStatus/Green/FS-Green-6.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td img.edge-image { width: 15px; height: 15px; }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-1 { background-image: url(/common/images/FieldStatus/Green/FS-Green-7.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-2 { background-image: url(/common/images/FieldStatus/Green/FS-Green-8.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-3 { background-image: url(/common/images/FieldStatus/Green/FS-Green-9.png); }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 {background-image: url(/common/images/FieldStatus/Green/FS-Green-5.gif); background-repeat: repeat-x; background-color: #4AAD46; padding-top: 8px; text-align: center; text-transform: uppercase; font-size: 14px; font-weight: bold; color: #fff;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:link    {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:visited {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:active  {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:hover   {color: #fff; text-decoration: underline;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.FieldStatusContent-Green-Short {background-image: url(/common/images/FieldStatus/Green/FS-Green-5.gif); background-repeat: repeat-x; background-color: #4AAD46; padding: 4px; padding-left: 6px; padding-top: 2px;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div.FieldStatusTimestamp {padding-top: 4px; text-transform: none; text-align: center; font-size: 10px; font-weight: normal; color: #fff;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div.field-status-directions {padding-top: 4px; text-transform: none; text-align: center; font-size: 10px; font-weight: normal; color: #fff;}
+div.FieldStatusShort {color: #fff; text-transform: none;}
+div.FieldStatusShort div.hdr {font-size: 13px; font-weight: bold; text-transform: upper-case;}
+div.FieldStatusShort ul {margin: 0 0 0 20px; padding:  0 0 0 4px; font-size: 10px; font-weight: bold; color: #125cb8; text-align: left;}
+div.FieldStatusShort ul li {margin: 0; padding:  2px 6px 2px 0;}
+div.FieldStatusShort ul li span.nm {color: #fff;}
+div.FieldStatusShort ul li span.note {color: #125cb8; padding-left: 1em;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup { background-image: none; padding-top: 8px; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup a:link {color: #fff; font-size: 11px; text-decoration: none; font-weight: bold;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup a:hover {text-decoration: underline;}
+</style>
+<table id="tbl-18235-status-1" cellspacing="0">
+<tbody>
+<tr>
+  <td>
+    <table id="tbl-18235-status-2" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.bascok.com/common/images/FieldStatus/Green/FS-Green-1.png" class="edge-image"/></td>
+      <td class="cell-2 FieldStatusTitle">
+         <img src="http://www.bascok.com/common/images/FieldStatus/Green/FS-Green-STATUS.png" width="133" height="26" border="0"/>
+      </td>
+      <td class="cell-3"><img src="http://www.bascok.com/common/images/FieldStatus/Green/FS-Green-3.png" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+    <table id="tbl-18235-status-3" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.bascok.com/common/images/1x1.gif" class="edge-image"/></td>
+      <td class="cell-2 FieldStatusContent-Green">
+ <div>all fields</div><div>are open</div>
+    <div class="FieldStatusTimestamp"> As of Wed Mar 25  </div>
+  <a href="http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+Elements/Display+E+18235+Status/Closures/" style="display: block; margin: 4px 8px 0; padding: 2px 8px; text-align: center; font-size: 10px; ">View All Field Locations</a>
+ <div id="text-alerts-signup"> <a href="http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+Elements/Display+E+18235+Texts/"> Sign up for<br> Text Message Alerts! </a> </div>
+ <div class="field-status-directions"> <a href="http://www.bascok.com/scripts/runisa.dll?M2:gp::74039+Elements/Display+E+18235">Get Directions to Fields</a> </div>
+      </td>
+      <td class="cell-3"><img src="http://www.bascok.com/common/images/1x1.gif" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+    <table id="tbl-18235-status-4" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.bascok.com/common/images/FieldStatus/Green/FS-Green-7.png" class="edge-image"/></td>
+      <td class="cell-2"><img src="http://www.bascok.com/common/images/1x1.gif" width="1" height="15" border="0"/></td>
+      <td class="cell-3"><img src="http://www.bascok.com/common/images/FieldStatus/Green/FS-Green-9.png" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+    <div style="width:273px; overflow:hidden;">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize762275 {width: 273px; height: 23px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_762275', { effect_duration: 0.5, loop_duration: 4000, jobid: '74039' });
+  });
+</script>
+<div id="module_fade_762275" class="imageContainer imageContainerSize762275" subdept="762275">
+  <div class="imageContainerDIV imageContainerSize762275" style="display:none"><a href="http://www.bascok.com/Facilities/LiveFieldUpdates/index_E.html"  target="_new"><img src="http://www.bascok.com/imgs/home/Live Updates Link3.jpg" width="250"  alt="Attention Amazon Shoppers!  Use the BASC link..." border="0"/></a></div>
+</div>
+    </div>
+    <div><img src="http://www.bascok.com/images/2013/events.gif" width="273" height="39" border="0"/></div>
+    <div class="design-rightContent">
+<div class="indexDIVCalendar-OuterBox">
+<div class="indexDIVCalendar-InnerBox">
+<div class="textsmall indexDIVCalendar-2Line indexDIVCalendar-2LineEven indexDIVCalendar-2LineFirst" onmouseover="$(this).addClassName('IndexDIVCalendar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVCalendar-2LineLink')" style="cursor: pointer;"  >
+<div class="indexDIVCalendar-Title">4/2/2015:</div>
+<div class="indexDIVCalendar-Event"><a href="/calendar/229297.html" class="indexDIVCalendar-Links">BASC Night @ Taco Bueno 11am-9pm</a></div>
+</div>
+<div class="textsmall indexDIVCalendar-2Line indexDIVCalendar-2LineOdd " onmouseover="$(this).addClassName('IndexDIVCalendar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVCalendar-2LineLink')" style="cursor: pointer;"  >
+<div class="indexDIVCalendar-Title">4/4/2015:</div>
+<div class="indexDIVCalendar-Event"><a href="/calendar/229298.html" class="indexDIVCalendar-Links">BASC Night at Tulsa Roughnecks</a></div>
+</div>
+<div class="textsmall indexDIVCalendar-2Line indexDIVCalendar-2LineEven "   >
+<div class="indexDIVCalendar-Title">4/10/2015-4/12/2015:</div>
+<div class="indexDIVCalendar-Event">TSCH Lexus Cup</div>
+</div>
+<div class="textsmall indexDIVCalendar-2Line indexDIVCalendar-2LineOdd " onmouseover="$(this).addClassName('IndexDIVCalendar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVCalendar-2LineLink')" style="cursor: pointer;"  >
+<div class="indexDIVCalendar-Title">4/17/2015:</div>
+<div class="indexDIVCalendar-Event"><a href="/calendar/223492.html" class="indexDIVCalendar-Links">3pm College Scholarship Applications Due</a></div>
+</div>
+<div class="textsmall indexDIVCalendar-2Line indexDIVCalendar-2LineEven " onmouseover="$(this).addClassName('IndexDIVCalendar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVCalendar-2LineLink')" style="cursor: pointer;"  >
+<div class="indexDIVCalendar-Title">4/24/2015-4/26/2015:</div>
+<div class="indexDIVCalendar-Event"><a href="/calendar/223484.html" class="indexDIVCalendar-Links">11th Annual Spring Tournament</a></div>
+</div>
+<div class="textsmall indexDIVCalendar-2Line indexDIVCalendar-2LineOdd indexDIVCalendar-2LineLast" onmouseover="$(this).addClassName('IndexDIVCalendar-2LineLink')" onmouseout="$(this).removeClassName('IndexDIVCalendar-2LineLink')" style="cursor: pointer;"  >
+<div class="indexDIVCalendar-Title">5/7/2015:</div>
+<div class="indexDIVCalendar-Event"><a href="/calendar/223493.html" class="indexDIVCalendar-Links">7pm General Membership Meeting</a></div>
+</div>
+</div>
+</div>
+</div>
+    <div><img src="http://www.bascok.com/images/2013/affiliates.gif" width="273" height="39" border="0"/></div>
+    <div class="design-rightContent">
+      <div style="padding: 5px;">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize747842 {width: 263px; height: 150px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_747842', { effect_duration: 0.5, loop_duration: 4000, jobid: '74039' });
+  });
+</script>
+<div id="module_fade_747842" class="imageContainer imageContainerSize747842" subdept="747842">
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><a href="http://www.tulsaroughnecksfc.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/Roughnecks logo.jpg" width="150" height="150" alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><a href="http://www.oksoccer.com/default.aspx"  target="_new"><img src="http://www.bascok.com/imgs/home/OSA.png" width="150"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><a href="http://www.tschurricane.com/index.html"  target="_new"><img src="http://www.bascok.com/imgs/home/TSC HR Logo2.jpg" width="150"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><a href="http://www.usyouthsoccer.org/"  target="_new"><img src="http://www.bascok.com/imgs/home/USYS.jpg" width="150"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><a href="http://www.ussoccer.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/USS.png" width="150"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><a href="http://www.fifa.com/"  target="_new"><img src="http://www.bascok.com/imgs/home/fifa.gif" width="150"  alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize747842" style="display:none"><img src="http://www.bascok.com/imgs/home/SCN.jpg" width="200"  alt="" border="0"/></div>
+</div>
+      </div>
+    </div>
+    <div><img src="http://www.bascok.com/images/2013/dividerRight.gif" width="273" height="7" border="0"/></div>
+    <div class="rightContent">
+      <div id="design-video">
+<p style="text-align: center;"><iframe width="225" height="165" src="http://www.youtube.com/embed/A_hWSVoyncA" frameborder="0" allowfullscreen=""></iframe></p>
+      </div>
+    </div>
+  </td>
+  <td><img src="http://www.bascok.com/common/images/1x1.gif" width="5" height="1" border="0"/></td>
+  </tr>
+  </table>
+  </div>
+</div>
+<div id="design-container-footer">
+  <div id="design-footer">
+    <div id="design-footer-left"><img src="http://www.bascok.com/common/images/1x1.gif" width="769" height="1" border="0"/><br/>
+      <div id="design-copyright">&copy; 2015
+ Broken Arrow Soccer Club. All rights reserved.</div>
+      <div id="design-copyrightDII">&copy; 2015
+ <a href="http://www.demosphere.com" target="_blank">Demosphere International, Inc.</a> All rights reserved.</div>
+    </div>
+    <div id="design-footer-right"><a href="http://www.demosphere.com"><img src="http://www.bascok.com/images/2013/footerRight.png" width="230" height="59" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems"/></a></td>
+  </div>
+</div>
+<br/><br/>
+</div>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIFader;DIIImageModule;Date;JQuery;Mustache;JQueryCycle;JQueryScrollTo;MobileNoGames;</div>
+</body>
+</html>

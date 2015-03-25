@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/leftcolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/ImageRotatorTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css" /><script src="http://www.idahothunder.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_leftcolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13167" ><li id="mb-75916" class=" cmFirst "><a class="button-text" href="/Home" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-75929" class="parent  "><span style="" class="button-text">About Thunder FC</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75920" class=" cmFirst "><a class="button-text" href="/about" style="" target="_top">About Thunder FC</a><span class="iefix">&nbsp;</span></li><li id="mb-75918" class="  "><a class="button-text" href="/Board" style="" target="_top">Board of Directors</a><span class="iefix">&nbsp;</span></li><li id="mb-75927" class="  "><a class="button-text" href="/Staff" style="" target="_top">Staff Members</a><span class="iefix">&nbsp;</span></li><li id="mb-75925" class="  cmLast"><a class="button-text" href="/DOC" style="" target="_top">Director of Coaching</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75928" class="  "><a class="button-text" href="/calendar" style="" target="_top">Club Calendar</a><span class="iefix">&nbsp;</span></li><li id="mb-75968" class="parent  "><span style="" class="button-text">Youth Soccer</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75939" class="parent cmFirst "><span style="" class="button-text">Programs</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75940" class=" cmFirst "><a class="button-text" href="/U9-U12" style="" target="_top">U9-U12</a><span class="iefix">&nbsp;</span></li><li id="mb-75941" class="  cmLast"><a class="button-text" href="/U13-U18" style="" target="_top">U13-U18</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75946" class="parent  "><span style="" class="button-text">Boys Teams - Fall/Spring 2013-14</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75961" class=" cmFirst "><a class="button-text" href="/BU10" style="" target="_top">Boys U10 - Briseno Jr</a><span class="iefix">&nbsp;</span></li><li id="mb-75954" class="  "><a class="button-text" href="/BU11Johnson" style="" target="_top">Boys U11 - Johnson</a><span class="iefix">&nbsp;</span></li><li id="mb-75955" class="  "><a class="button-text" href="/BU12Halseth" style="" target="_top">Boys U12 - Halseth</a><span class="iefix">&nbsp;</span></li><li id="mb-75949" class="  "><a class="button-text" href="/BU13" style="" target="_top">Boys U13 - Beckett</a><span class="iefix">&nbsp;</span></li><li id="mb-75980" class="  "><a class="button-text" href="/BU14" style="" target="_top">Boys U14 </a><span class="iefix">&nbsp;</span></li><li id="mb-75948" class="  "><a class="button-text" href="/BU15" style="" target="_top">Boys U15 - J. Anderson</a><span class="iefix">&nbsp;</span></li><li id="mb-75950" class="  "><a class="button-text" href="/BU16" style="" target="_top">Boys U16 </a><span class="iefix">&nbsp;</span></li><li id="mb-76307" class="  "><a class="button-text" href="/U17" style="" target="_top">Boys U17 - Gorrill</a><span class="iefix">&nbsp;</span></li><li id="mb-76308" class="  cmLast"><a class="button-text" href="/U18" style="" target="_top">Boys U18</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75947" class="parent  "><span style="" class="button-text">Girls Teams - Fall/Spring 2013-14</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75957" class=" cmFirst "><a class="button-text" href="/GU10" style="" target="_top">Girls U10 </a><span class="iefix">&nbsp;</span></li><li id="mb-75958" class="  "><a class="button-text" href="/GU11" style="" target="_top">Girls U11 </a><span class="iefix">&nbsp;</span></li><li id="mb-75981" class="  "><a class="button-text" href="/GU12" style="" target="_top">Girls U12</a><span class="iefix">&nbsp;</span></li><li id="mb-75960" class="  "><a class="button-text" href="/GU13" style="" target="_top">Girls U13 - M. Briseno</a><span class="iefix">&nbsp;</span></li><li id="mb-75959" class="  "><a class="button-text" href="/GU14" style="" target="_top">Girls U14</a><span class="iefix">&nbsp;</span></li><li id="mb-75962" class="  "><a class="button-text" href="/GU15" style="" target="_top">Girls U15 - Foster</a><span class="iefix">&nbsp;</span></li><li id="mb-75988" class="  cmLast"><a class="button-text" href="/GU16" style="" target="_top">Girls U16 - Tanner</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75931" class="parent  cmLast"><span style="" class="button-text">League Schedules</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75926" class=" cmFirst "><a class="button-text" href="/Schedules" style="" target="_blank">NW League Schedules</a><span class="iefix">&nbsp;</span></li><li id="mb-75970" class="  cmLast"><a class="button-text" href="/District6" style="" target="_blank">WYSA District 6</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75971" class="parent  "><span style="" class="button-text">Training</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75919" class=" cmFirst "><a class="button-text" href="/Camps" style="" target="_top">Camps & Clinics</a><span class="iefix">&nbsp;</span></li><li id="mb-76487" class="  cmLast"><a class="button-text" href="/home.php?layout=308869" style="" target="_top">Outdoor Practice Schedule</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75923" class="  "><a class="button-text" href="/home.php?layout=307589" style="" target="_top">Youth Tryouts</a><span class="iefix">&nbsp;</span></li><li id="mb-75974" class="parent  "><span style="" class="button-text">Registration</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75975" class=" cmFirst "><a class="button-text" href="/policies" style="" target="_top">Registration & Club Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-75973" class="  "><a class="button-text" href="/Fees" style="" target="_top">Youth Soccer Fees</a><span class="iefix">&nbsp;</span></li><li id="mb-75924" class="  cmLast"><a class="button-text" href="/Registration" style="" target="_top">Online Registration</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78221" class="parent  "><span style="" class="button-text">Financial Aid Program</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78222" class=" cmFirst cmLast"><a class="button-text" href="/FinancialAidProgram" style="" target="_blank">Financial Aid Program</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75983" class="parent  "><span style="" class="button-text">College-Bound Athlete</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75984" class=" cmFirst cmLast"><a class="button-text" href="/College" style="" target="_top">Resources</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75932" class="parent  "><span style="" class="button-text">Forms</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75933" class=" cmFirst "><a class="button-text" href="/MedicalRelease" style="" target="_blank">Medical Release </a><span class="iefix">&nbsp;</span></li><li id="mb-75934" class="  "><a class="button-text" href="/CoachConduct" style="" target="_blank">Coaches Code of Conduct</a><span class="iefix">&nbsp;</span></li><li id="mb-75937" class="  "><a class="button-text" href="/doclib/Coach-Manager Reg Process.pdf" style="" target="_blank">Registration Guide</a><span class="iefix">&nbsp;</span></li><li id="mb-78218" class="  "><a class="button-text" href="/PlayerConduct" style="" target="_blank">Player Code of Conduct</a><span class="iefix">&nbsp;</span></li><li id="mb-78219" class="  "><a class="button-text" href="/ConcussionCompliance" style="" target="_blank">Concussion Compliance</a><span class="iefix">&nbsp;</span></li><li id="mb-78224" class="  "><a class="button-text" href="/FinancialAidProgram" style="" target="_blank">Financial Aid Program</a><span class="iefix">&nbsp;</span></li><li id="mb-78249" class="  cmLast"><a class="button-text" href="/ParentCodeofConduct" style="" target="_blank">Parent Code of Conduct</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75921" class="  "><a class="button-text" href="/trophy" style="" target="_top">Trophy Case</a><span class="iefix">&nbsp;</span></li><li id="mb-75976" class="  "><a class="button-text" href="/Coaches" style="" target="_top">For Coaches</a><span class="iefix">&nbsp;</span></li><li id="mb-75922" class="  "><a class="button-text" href="/Contact" style="" target="_top">Contact Us</a><span class="iefix">&nbsp;</span></li><li id="mb-75992" class="  "><a class="button-text" href="/home.php?layout=307745" style="" target="_top">Teams Page</a><span class="iefix">&nbsp;</span></li><li id="mb-75993" class="  cmLast"><a class="button-text" href="/home.php?layout=307753" style="" target="_top">Club Sponsors</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Thunder Sponsors					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.idahothunder.com/imagedata/Campbell_Logo.png" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/CB_CDA_Logo.gif" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/WBCSTUDIO33.jpg" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Facebook					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <a href="http://www.facebook.com/pages/Idaho-Thunder-FC/253774011360261#!/pages/Idaho-Thunder-FC/253774011360261?sk=wall" target="_self"><img style="border: px solid;" src=
+  "http://www.idahothunder.com/imagedata/Facebook_logo.gif" border="0" /></a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Trophy Case					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-family: arial,helvetica,sans-serif;">Be sure to visit the Idaho Thunder</span> <a href="http://www.idahothunder.com/home.php?layout=307587" target="_blank"><span style=
+  "font-family: arial,helvetica,sans-serif;">Trophy Case</span></a> <span style="font-family: arial,helvetica,sans-serif;">to view photos of our Thunder Champions!</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Affiliates					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.idahothunder.com/imagedata/US_Club_logo.gif" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/iysa.jpg" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/ODP_IDAHO.jpg" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/adidas_logo.jpg" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/Far_West_League.gif" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/ODP.jpg" /></div><div class="slide"><img src="http://www.idahothunder.com/imagedata/NWL.jpg" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.idahothunder.com/imagedata/U15G_3_Blind_Refs_Champions.jpg" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Idaho Thunder FC					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: large;">Are you still looking for a soccer club to call home?</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: large;">Then look no further!!!</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: large;">Idaho Thunder FC has teams of all ages starting at U10!</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;">If interested send an email to <span style="color: #723dc2;"><a href="mailto:info.idahothunderfc@gmail.com"><span style=
+  "color: #723dc2;">info.idahothunderfc@gmail.com</span></a></span>.</span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif; font-size: medium;"><img src="http://www.idahothunder.com/imagedata/Huge_Soccer_Ball_108121131_std.jpg" border="0" width=
+  "187" height="151" /></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com" rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Powered by Bonzi Sports Registration Software" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Idaho Thunder. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" rel="nofollow">Youth soccer Website and Online soccer Registration Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

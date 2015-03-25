@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/ImageRotatorTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/StoryTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/AnnouncementsTrinket/style.css,/sam/admin/include/trinkets/ImageGalleryTrinket/style.css,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css" /><script src="http://www.sandpointsoccer.com/sam/admin/include/scripts/jquery.min.js"></script><script src="http://www.sandpointsoccer.com/sam/admin/include/scripts/jquery.lightbox/js/jquery.lightbox.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js,/sam/admin/include/trinkets/AnnouncementsTrinket/trinket.js,/sam/admin/include/trinkets/ImageGalleryTrinket/trinket.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><script type="text/javascript">jQuery(function(){ImageGalleryTrinket.init("gallery-1387457485");});</script><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13175" ><li id="mb-76012" class=" cmFirst "><a class="button-text" href="/home.php?layout=307790" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-76024" class="parent  "><span style="" class="button-text">About SSA</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76027" class=" cmFirst "><a class="button-text" href="/ssa" style="" target="_top">Sandpoint Soccer Association</a><span class="iefix">&nbsp;</span></li><li id="mb-76026" class="  "><a class="button-text" href="/board" style="" target="_top">SSA Board</a><span class="iefix">&nbsp;</span></li><li id="mb-76025" class="  cmLast"><a class="button-text" href="/meetings" style="" target="_top">SSA Meetings</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76030" class="parent  "><span style="" class="button-text">Sandpoint Strikers FC</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-189502" class=" cmFirst "><a class="button-text" href="/Strikers" style="" target="_top">StrikersFC</a><span class="iefix">&nbsp;</span></li><li id="mb-76016" class="  "><a class="button-text" href="/news" style="" target="_top">News</a><span class="iefix">&nbsp;</span></li><li id="mb-189519" class="  "><a class="button-text" href="/why" style="" target="_top">Why Strikers?</a><span class="iefix">&nbsp;</span></li><li id="mb-78329" class="  "><a class="button-text" href="/doc" style="" target="_top">Director of Coaching</a><span class="iefix">&nbsp;</span></li><li id="mb-78713" class="  "><a class="button-text" href="/playerofthemonth" style="" target="_top">Player of the Month</a><span class="iefix">&nbsp;</span></li><li id="mb-76031" class="  cmLast"><a class="button-text" href="/pocpp" style="" target="_top">Policies and Procedures</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76032" class="parent  "><span style="" class="button-text">Sandpoint Rec League</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76015" class=" cmFirst "><a class="button-text" href="/recleague" style="" target="_top">Sandpoint Rec League</a><span class="iefix">&nbsp;</span></li><li id="mb-76036" class="  "><a class="button-text" href="/festival" style="" target="_top">Festival Tournament</a><span class="iefix">&nbsp;</span></li><li id="mb-76034" class="  cmLast"><a class="button-text" href="/recpp" style="" target="_top">Policies and Procedures</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77449" class="  "><a class="button-text" href="/arena" style="" target="_top">Strikers Indoor Arena</a><span class="iefix">&nbsp;</span></li><li id="mb-76023" class="  "><a class="button-text" href="/referee" style="" target="_top">Referees</a><span class="iefix">&nbsp;</span></li><li id="mb-76017" class="  "><a class="button-text" href="/kickstart" style="" target="_top">Kick Start</a><span class="iefix">&nbsp;</span></li><li id="mb-76018" class="  "><a class="button-text" href="/topsoccer" style="" target="_top">TOPSoccer</a><span class="iefix">&nbsp;</span></li><li id="mb-76028" class="parent  "><span style="" class="button-text">Tournaments</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76038" class="parent cmFirst "><span style="" class="button-text">Pend Oreille Cup</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76019" class=" cmFirst "><a class="button-text" href="/poc" style="" target="_top">Pend Oreille Cup</a><span class="iefix">&nbsp;</span></li><li id="mb-76041" class="  "><a class="button-text" href="/pocteams" style="" target="_top">POC Teams</a><span class="iefix">&nbsp;</span></li><li id="mb-76043" class="  "><a class="button-text" href="/pocsch" style="" target="_top">POC Schedules/Results</a><span class="iefix">&nbsp;</span></li><li id="mb-76042" class="  cmLast"><a class="button-text" href="/pocdoc" style="" target="_top">POC Documents</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76037" class="  "><a class="button-text" href="/home.php?layout=307834" style="" target="_top">Rec League Festival</a><span class="iefix">&nbsp;</span></li><li id="mb-76044" class="parent  cmLast"><a class="button-text" href="/holiday" style="" target="_top">Holiday Soccer Tournament</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-192061" class=" cmFirst "><a class="button-text" href="/holidayregister" style="" target="_top">Register</a><span class="iefix">&nbsp;</span></li><li id="mb-192777" class="  cmLast"><a class="button-text" href="/holidayschedule" style="" target="_top">Holiday Tournament Schedule</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76029" class="parent  "><span style="" class="button-text">Camps</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78150" class=" cmFirst "><a class="button-text" href="/school" style="" target="_top">Strikers Soccer School</a><span class="iefix">&nbsp;</span></li><li id="mb-78421" class="  cmLast"><a class="button-text" href="/psc" style="" target="_top">Pre-Season Camp</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76035" class="  "><a class="button-text" href="/forms" style="" target="_top">Forms</a><span class="iefix">&nbsp;</span></li><li id="mb-76040" class="  "><a class="button-text" href="/store" style="" target="_top">Store</a><span class="iefix">&nbsp;</span></li><li id="mb-77715" class="  "><a class="button-text" href="/careers" style="" target="_top">Careers</a><span class="iefix">&nbsp;</span></li><li id="mb-76022" class="  cmLast"><a class="button-text" href="/contact" style="" target="_top">Contact Us</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						SSA Supporters					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/soccerwest.jpg" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/LPOSD.png" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/IYSA.png" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/clublogo.jpg" /></a></div><div class="slide"><a href="http://www.fhcsandpoint.com/" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/FHC_Logo.png" /></a></div><div class="slide"><img src="http://www.sandpointsoccer.com/imagedata/Staples.png" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Rec League and Kick Start Spring Season - Registration Open					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><p>Registration&nbsp;<strong>NOW</strong> for Spring season Sandpoint Rec League and Kick Start.</p>
+<p><a href="http://www.sandpointsoccer.com/doclib/Sandpoint%20Rec League Registration Form Spring 2015.pdf">Sandpoint Rec League Registration Form</a></p>
+<p><a href="http://www.sandpointsoccer.com/doclib/Kick%20Start Soccer Registration Form Spring 2015.pdf">Kick Start Registration Form</a></p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Strikers Soccer School 2015!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><p><span style="font-size: 14pt;">Our annual June Summer Camp&nbsp;will be held <strong>June 15 - 19</strong>, at Farmin Field!&nbsp; Registration forms will be available shortly.&nbsp; Reserve the date and join us!</span></p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						New Dropoff Location					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="padding-left: 30px; text-align: center;">
+  <span style="font-size: 14pt;"><strong>NEW DROPOFF LOCATION</strong></span>
+</p>
+<p style="padding-left: 30px; text-align: center;">
+  <img src="http://www.sandpointsoccer.com/imagedata/Sandpoint_Sports.jpg" border="0" />
+</p>
+<p>
+   
+</p>
+<p>
+  Sandpoint Soccer Association would like to announce Sandpoint Sports as the new dropoff location for paperwork, forms, and fees.
+</p>
+<p>
+  Sandpoint Sports (476930 U.S. 95, Ponderay, ID 83852) replaces Meyer's SporTees which has moved downtown.
+</p>
+<p>
+  Thank you to Sandpoint Sports for helping Sandpoint Soccer Association out!
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						USSF E License Coming to Sandpoint					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><div>
+  From <strong>Friday, February 27 to Sunday, March 1</strong>, Idaho Youth Soccer Association will host a USSF E License in Sandpoint. This course is open to all coaches in the region interested in
+  taking the course.
+</div>
+<div>
+   
+</div>
+<div>
+  <ul>
+    <li>
+      <span style="font-size: 9pt;">La Quinta in downtown Sandpoint has a special rate of $69 (typically $109) for coaches attending this event. Please call Sandpoint La Quinta at (208) 263-9581 and
+      mention "Sandpoint Strikers FC" to reserve a room at our discounted rate.</span>
+    </li>
+    <li>
+      <span style="font-size: 9pt;">For Strikers coaches, the cost of this course will be covered by the club.</span>
+    </li>
+    <li>
+      <span style="font-size: 9pt;">For other coaches, the cost is $100 for IYSA coaches and $175 for non-IYSA coaches.</span>
+    </li>
+    <li>
+      <span style="font-size: 9pt;">There is some pre-course work to accomplish before the start of course so register now and get on the path to improving your coaching and help your players!</span>
+    </li>
+  </ul>
+</div>
+<div>
+  <p>
+     
+  </p>
+  <p>
+    <a href="https://www.gotsport.com/asp/application/reg/?ProgramID=34654&amp;Type=COACH" target="_blank">Click here to register!</a>
+  </p>
+</div>
+<div>
+   
+</div>
+<div>
+  Thanks and see you on the field!
+</div>
+<p style="text-align: center;">
+  <img src="http://www.sandpointsoccer.com/imagedata/IYSA.png" border="0" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Four Strikers Make Idaho ODP Squads for Regional Championships					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: left;">
+  The Idaho Olympic Development Program has selected four Sandpoint Strikers players to represent the state in January at the Regional Championships.
+</p>
+<p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.sandpointsoccer.com/imagedata/IYSA.png" border="0" width="91" height="91" />
+</p>
+<p>
+  Fourteen Strikers players were invited to the State Pool and from those fourteen nine attended the tryout for the final rosters. <strong>Curtis Hauck</strong> and <strong>Tyler Moore</strong>
+  (Strikers BU14) were selected to represent the boys 2001 age group while <strong>Jezza Hutto</strong> and <strong>Riley Walkington</strong> (Strikers GU14) were selected for the girls 2001 age
+  group.
+</p>
+<p>
+  Idaho Youth Soccer Director of Coaching Skyler Bell was full of praise for Strikers players:
+</p>
+<p>
+  <em>"The Strikers players who attended the tryout were all outstanding additions to Idaho ODP. The players invited to the ODP Championships are among the best players in Idaho and Eastern
+  Washington, and a big kudos goes to the Strikers for being the key cog in their development." </em>
+</p>
+<p>
+  The honor comes as a recognition for all the hard work the players, families, coaches, and volunteers put in for Sandpoint Strikers and they deserve a big THANK YOU for their many efforts.
+</p>
+<p>
+  Congratulations, Strikers!
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						THANK YOU to all the volunteers who helped put Striker Arena together!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="cm_youtube_con_316689363">
+	<iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/DjZhxVT-6Sg" frameborder="0" allowfullscreen></iframe>
+</div>
+<script>
+$(function(){
+	var id = "cm_youtube_con_316689363",
+		width = $('#'+id).width(),
+		height = width * 0.5625;
+
+	$('#'+id+'> iframe').attr({
+		width: width,
+		height: height
+	});
+});
+</script>
+					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						IYSA Honors McLaughlin					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <a href="http://www.idahoyouthsoccer.org/UserFiles/file/COM-%20feb%20casey%20mclaughlin%20(2)%20changes.pdf"><img style="display: block; margin-left: auto; margin-right: auto;" src=
+  "http://www.sandpointsoccer.com/imagedata/McLaughlin.png" border="0" width="173" height="219" /></a>
+</p>
+<p>
+  <a href="http://www.idahoyouthsoccer.org/UserFiles/file/COM-%20feb%20casey%20mclaughlin%20(2)%20changes.pdf">Strikers GU12 Coach Casey McLaughlin has been honored by Idaho Youth Soccer Association
+  as the February Coach of the Month.</a>
+</p>
+<p>
+   
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Players of the Month					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="IGTContainer" id="gallery-1387457485">						<a href="/imagedata/121395_1415866715.jpg" title="Abby Edwards- September: " ><img alt="Abby Edwards- September" src="/imagedata/tn_121395_1415866715.jpg" /></a>						<a href="/imagedata/121395_1415866810.jpg" title="Erin Eddy- August: " ><img alt="Erin Eddy- August" src="/imagedata/tn_121395_1415866810.jpg" /></a>						<a href="/imagedata/121395_1415866954.jpg" title="Evan Dickinson- September: " ><img alt="Evan Dickinson- September" src="/imagedata/tn_121395_1415866954.jpg" /></a>						<a href="/imagedata/121395_1415866676.jpg" title="Fiona Macdonald- October: " ><img alt="Fiona Macdonald- October" src="/imagedata/tn_121395_1415866676.jpg" /></a>						<a href="/imagedata/121395_1415866697.jpg" title="Garrett Chandler- October: " ><img alt="Garrett Chandler- October" src="/imagedata/tn_121395_1415866697.jpg" /></a>						<a href="/imagedata/121395_1415866879.jpg" title="Justice Parkinson- August: " ><img alt="Justice Parkinson- August" src="/imagedata/tn_121395_1415866879.jpg" /></a><br style="clear:both;"/></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Fields					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><p style="text-align: center;"><em>Striker Arena is <strong>OPEN</strong><strong>!</strong> </em></p>
+<p style="text-align: center;"><em>Fields may be closed at any time depending on field and weather conditions.</em></p>
+<p style="text-align: center;"><em><span style="font-size: xx-small;"><strong><em>Updated 11/28/14</em></strong></span></em></p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<h2></h2>
+			<div class="ImageRotatorTrinket"><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/SSAColor.png" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/StrikersFC.png" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/RecLeagueColor.jpg" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/POC.png" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/TOPSoccer.png" /></a></div><div class="slide"><a href="null" target="_blank"><img src="http://www.sandpointsoccer.com/imagedata/KickStartLogo.png" /></a></div></div>		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Calendar					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-1697282004" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com" rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Powered by Bonzi Sports Registration Software" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Sandpoint Soccer Association. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" rel="nofollow">Youth soccer Website and Online soccer Registration Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

@@ -1,0 +1,319 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Southern Idaho Soccer League</title>
+    <style type="text/css">
+<!--
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #00F;
+}
+a:active {
+	text-decoration: none;
+	color: #00F;
+	font-weight: bold;
+	font-size: medium;
+}
+#link:hover {
+	text-decoration: underline;
+	color: #0000fF;
+}
+#Title {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+}
+.style1 {color: #FFFFFF}
+.style100 {	color: #FFFFFF;
+	font-size: small;
+}
+.style101 {	color: #99CCCC;
+	font-weight: bold;
+}
+.style92 {	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-small;
+}
+.style93 {color: #FF0033}
+#apDiv1 {
+	position:absolute;
+	width:175px;
+	height:311px;
+	z-index:1;
+	left: 490px;
+	top: 162px;
+}
+#apDiv2 {
+	position:absolute;
+	width:202px;
+	height:500px;
+	z-index:1;
+	background-color: #FFFF00;
+	left: 224px;
+	top: 82px;
+	overflow: hidden;
+}
+#apDiv3 {
+	position:absolute;
+	width:386px;
+	height:312px;
+	z-index:2;
+	left: 552px;
+	top: 125px;
+	visibility: visible;
+}
+#logo1 {float: left;
+	margin-right: 10px;
+}
+.style120 {font-size: 14px}
+.style118 {color: #0000FF}
+.style123 {font-size: medium; font-weight: bold; }
+.p12 {mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:tahoma, sans-serif;
+	mso-font-charset:0;}
+.p5 {mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:tahoma, sans-serif;
+	mso-font-charset:0;}
+.p30 {mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:tahoma, sans-serif;
+	mso-font-charset:0;}
+.p121 {mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:tahoma, sans-serif;
+	mso-font-charset:0;}
+-->
+    </style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+p.MsoNormal {
+margin-top:0in;
+margin-right:0in;
+margin-bottom:10.0pt;
+margin-left:0in;
+line-height:115%;
+font-size:11.0pt;
+font-family:Calibri;
+}
+.BLUE {
+	color: #00F;
+}
+.blue {
+	color: #00F;
+}
+.font {
+	font-size: 12px;
+}
+.font {
+	font-size: large;
+}
+.red {
+	color: #F00;
+}
+.largefont {
+	font-size: large;
+}
+.blue {
+	color: #00F;
+}
+.blue {
+	color: #00F;
+}
+.lefty {}
+.style103 {color: #0000FF}
+.style11 {font-size: medium;
+	font-weight: bold;
+}
+.style6 {color: #000000}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33946253-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</head>
+<body text="#000000" link="#000000" 
+vlink="#000000" bgcolor="000000" 
+alink="#000000" topmargin=10 
+leftmargin=10 ackground="IMAGES/bg1.jpg">
+ <div align="center">
+  <table border=0 cellspacing="0" cellpadding=0 width=800 height=500 bgcolor="#404040">
+    <tr>
+      <td width="90" valign=top>
+        <table align=center border=0 cellspacing="0" cellpadding=5 width="98" height=500 bgcolor="#ffffff">
+          <tr>
+            <td background="IMAGES/gray1.jpg" valign=top height=160><p><img src="images/SISL_logo_transparent.png" alt="" width="88" height="165"></p></td>
+          </tr>
+          <tr>
+            <td valign=top width="88" bgcolor="#404040" align=center>
+              <hr size="1" width="90%" noshade color="#000000">
+              <font size="2" face="Tahoma"><a href="About.htm" class="style1" id="link">About Us</a></font>
+              <hr size="1" width="90%" noshade color="#000000">              
+              <a href="RulesGuidelines.htm" target="_self" id="link" onMouseOver="window.status='Return to Homepage'; return true;" onMouseOut="window.status=''; return true;"><font color="#ffffff" size="2" face="Tahoma"> Rules &amp; Guidelines</font></a>
+              <hr size="1" width="90%" noshade color="#000000">              
+              <a href="pdf/SISL_bylaws_11-20-07.pdf" target="_blank" id="link" onMouseOver="window.status='Return to Homepage'; return true;" onMouseOut="window.status=''; return true;"><font color="#ffffff" size="2" face="Tahoma"> League Bylaws</font></a>
+              <hr size="1" width="90%" noshade color="#000000">              <a href="CodeConduct.htm" target="_self" id="link" onMouseOver="window.status='Return to Homepage'; return true;" onMouseOut="window.status=''; return true;"><font color="#ffffff" size="2" face="Tahoma">Code Of Conduct</font></a>
+              <hr size="1" width="90%" noshade color="#000000">                
+              <a href="Positions&Duties.htm" target="_self" id="link" onMouseOver="window.status='Return to Homepage'; return true;" onMouseOut="window.status=''; return true;"><font color="#ffffff" size="2" face="Tahoma">Positions &amp;<br>
+              Duties</font></a>
+              <hr size="1" width="90%" noshade color="#000000">
+              <img src="IMAGES/ball_3030.jpg" alt="" border="0"></td>
+          </tr>
+      </table></td>
+      <td width="892">
+        <table border=0 bordercolor=#ff0000 width=800 cellspacing="0" cellpadding="0" height=500 bgcolor="#ffffff">
+          <tr>
+            <td bgcolor="#404040"><center>
+                <img src="IMAGES/title1.jpg" width="800" alt="" border="0">
+            </center></td>
+          </tr>
+          <tr>
+            <td align=left background="IMAGES/seasontitle_bg.jpg" height=30><div align="center">
+             <div align="center"><a href="Teams.htm" id="link">Teams</a> | <a href="Sponsors.htm" id="link">Sponsors</a> | <a href="Referees.htm" id="link">Referees</a> | <a href="Disciplinary.htm" id="link">Disciplinary</a> | <a href="Registration.htm" id="link">Registration</a> | <a href="Forms.htm" id="link">Forms</a> | <a href="Insurance.htm" id="link">Insurance</a> | <a href="Tourny.htm" id="link">Tournament</a> | <a href="Contact.htm" id="link">Contacts</a> </div>
+            </div></td>
+          </tr>
+          <tr>
+            <td>
+              <table border=0 bordercolor=#00ff00 width=100% cellspacing=0 height=500 cellpadding="0" bgcolor="#FFFFFF">
+                <tr>
+                  <td align=left valign=top colspan=2 bordercolor="#999999" bgcolor="#FFFFFF"><table width="93%" height="985" border="0" cellpadding="0">
+                   <tr>
+                    <th width="23%" height="981" align="center" valign="top" bgcolor="#C8EABF" scope="row"><table width="100%" border="0" cellpadding="0" bordercolor="#FFFFFF" bgcolor="#006666">
+                     <tr>
+                      <th height="26" scope="row"><span class="style1">Quick Links</span></th>
+                     </tr>
+                    </table>
+                     <br>
+                     <br>
+                    <table width="157" border="0" cellpadding="0">
+                     <tr>
+                      <th height="34" scope="row"><div align="left"> <img src="images/ScheduleIcon.gif" name="logo1" width="26" height="26" align="absmiddle" id="logo13"> <a href="Schedule.htm#Here" id="link">Schedule</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     <tr>
+                      <th height="25" scope="row"><div align="left"><img src="images/ScoresIcon.gif" name="logo1" width="25" height="25" align="absmiddle" id="logo12"> <a href="Scores.htm" id="link">Standings</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     <tr>
+                       <th height="29" scope="row"><div align="left"><img src="images/CalendarIcon.gif" alt="" width="24" height="24" align="absmiddle"> <a href="Calendar.htm?src=kourtneyflaherty@gmail.com&ctz=America/Denver" id="link">Events</a><br>
+                         <br>
+                       </div></th>
+                     </tr>
+                     <tr>
+                      <th height="29" scope="row"><div align="left"><span class="style120"><img src="images/FieldIcon.gif" name="logo1" width="24" height="24" border="0" align="absmiddle" id="logo11"></span> <a href="Fields.htm" id="link">Fields</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     <tr>
+                      <th height="44" scope="row"><div align="left"><img src="images/RedCardIcon.gif" name="logo4" width="26" height="25" align="absmiddle" id="logo10"> <a href="RedYellowList.htm" id="link">Red/Yellow Cards</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     <tr>
+                      <th height="24" scope="row"><div align="left"><img src="images/RefereeFeeIcon.gif" name="logo5" width="24" height="24" align="absmiddle" id="logo9"> <a href="05 word docs/SISL Soccer Season_RefFees_new.pdf">Referee Fees</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     
+                     <tr>
+                      <th scope="row"><div align="left"><img src="images/RefFeedIcon.gif" width="26" height="26" align="absmiddle"> <a href="formBlueCard.htm" id="link">Ref Feedback</a><br>
+                       <br>
+                      </div></th>
+                     </tr>
+                     <tr>
+                      <th height="26" scope="row"><div align="left"><img src="images/TwitterIcon.gif" name="logo7" width="26" height="26" align="absmiddle" id="logo15"> <a href="http://twitter.com/SISLSoccer" target="_blank" id="link">Twitter</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     
+                     <tr>
+                      <th height="41" scope="row"><div align="left"><img src="images/facebook.gif" name="logo1" width="23" height="22" align="absmiddle" id="logo14"> <a href="http://www.facebook.com/group.php?gid=40302476159" target="_blank" id="link">Facebook</a><br>
+                          <br>
+                      </div></th>
+                     </tr>
+                     <tr>
+                       <th height="41" scope="row"><div align="left"><img src="images/NewsLetterIcon.gif" width="23" height="23" align="absmiddle"> <a href="http://visitor.constantcontact.com/d.jsp?m=1101969876653&p=oi" target="_blank" id="link">Newsletter</a></div>
+                         <br></th>
+                     </tr>
+                    </table>
+                    <br>
+                    <br></th>
+                    <td width="77%" align="left" valign="top"><table width="100%" border="0" cellpadding="0" bgcolor="#006699">
+                     <tr>
+                      <th height="26" scope="row"><span class="style1">Current News &amp; Updates  </span></th>
+                     </tr>
+                    </table>
+                     <blockquote>
+                      <p><em><strong>Looking for team, provide us with some information about what you are looking for and we'll help put you in touch with a team looking for player. </strong></em></p>
+<p class="blue"><a href="InterestForm.html" target="_new" class="blue"><strong><em>Find a team for Spring 2015 season</em></strong></a></p>
+<hr>
+<p><strong>Spring 2015 Team and Registration Dates</strong></p>
+<p><strong>Player Registration:</strong> online registration will open on February 4<br>
+  Registration - February 4 - February 18<br>
+  Late Registration - February 19 through end of Season
+  <br>
+  <strong><a href="Registration.htm" class="BLUE">Click here to register online</a></strong><br>
+  <br>
+  League play will begin March 8th.<br>
+</p>
+<hr>
+<p><span class="style11">2015 Paul Scherer Tournament</span></p>
+<p>The SISL will hold the Annual 2015 Adult Invitational Tournament <br>
+  May 29th-May 31s at Ann Morrison Park, Boise, ID.</p>
+<p>For additional tournament information, <a href="Tourny.htm"><span class="BLUE">click here</span></a></p>
+<hr>
+<p><a href="http://www.socceretc.us/" target="_blank"><img src="images/soccer_etc_small.jpg" alt="Shop Soccer Etc" name="logo1" width="122" height="91" border="1" align="left" id="logo2" longdesc="http://www.socceretc.us"></a><span class="style123">Soccer Etc</span><strong>.<br>
+</strong>Serious soccer equipment for serious soccer players. Soccer Etc. offers team discounts of up to 20% for teams of 14 players or more. Go to <a href="http://www.yellowpages.com/boise-id/mip/soccer-etc-15640864" target="_blank" id="link3"><span class="style118" id="link4">Soccer Etc.</span></a> to find out more.</p></td>
+                   </tr>
+                  </table></td>
+               </tr>
+                <tr>
+                  <td width="397" height="1"></td>
+                  <td width="472"></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="1007" height="55" align=left valign=bottom bgcolor="#404040"><span class="style92"><span class="style93"><span class="style100">Contact the <span class="style101"><u><a href="mailto:president@sislsoccer.com;vicepresident@sislsoccer.com;treasurer@sislsoccer.com;secretary@sislsoccer.com">SISL BOARD</a></u></span> </span></span> <span class="style100">with questions or comments about this web site.<br>
+Copyright &copy; 2015 Southern Idaho Soccer League </span></span><font color="#ffffff" size="1"><br>
+            <script language="JavaScript" type="text/javascript">
+<!--
+      document.write("Last Modified " + document.lastModified)
+// -->
+</script>
+          </font></td>
+         </tr>
+      </table></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

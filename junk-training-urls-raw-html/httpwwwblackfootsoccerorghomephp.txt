@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/FullWidthSliderTrinket/style.css,/sam/admin/include/css/jqueryUI/ui.generic.css,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/HeadlineScrollerTrinket/style.css,/sam/admin/include/trinkets/StoryTrinket/style.css,/sam/admin/include/trinkets/AnnouncementsTrinket/style.css,/sam/admin/include/trinkets/ImageRotatorTrinket/style.css" /><script src="http://www.blackfootsoccer.org/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/trinkets/FullWidthSliderTrinket/trinket.js,/sam/admin/include/trinkets/FullWidthSliderTrinket/Glide.js/jquery.glide.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js,/sam/admin/include/trinkets/HeadlineScrollerTrinket/trinket.js,/sam/admin/include/trinkets/AnnouncementsTrinket/trinket.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js"></script>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/FullWidthHeaderLayout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/FullWidthHeaderLayout/css/style.css" media="screen,print" />
+
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/FullWidthHeaderLayout/css/extra.css"/><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+    <!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+		<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin horizontal navbar //-->
+	<div class="hnav">
+		<div class="hmenu">
+			<ul class="cssMenu cmDown" id="frontMenu-13439" ><li id="mb-77823" class="parent cmFirst "><a class="button-text" href="/home.php?layout=312900" style="" target="_top">Home</a><span class="buttonArrow"></span><ul class="cssMenu cmDown"><li id="mb-78236" class="parent cmFirst cmLast"><span style="" class="button-text">About Us</span><span class="buttonArrow"></span><ul class="cssMenu cmDown"><li id="mb-78237" class=" cmFirst "><a class="button-text" href="/home.php?layout=313994" style="" target="_top">What is Blacksnake Soccer</a><span class="iefix">&nbsp;</span></li><li id="mb-78238" class="  "><a class="button-text" href="/home.php?layout=313995" style="" target="_top">Our Mission</a><span class="iefix">&nbsp;</span></li><li id="mb-78239" class="  cmLast"><a class="button-text" href="/home.php?layout=313996" style="" target="_top">Our History</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78192" class="parent  cmLast"><span style="" class="button-text">Registration</span><span class="buttonArrow"></span><ul class="cssMenu cmDown"><li id="mb-78191" class=" cmFirst "><a class="button-text" href="/onlinereg" style="" target="_top">Online Registration</a><span class="iefix">&nbsp;</span></li><li id="mb-77824" class="  cmLast"><a class="button-text" href="/home.php?layout=312908" style="" target="_top">Registration Policies</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul>			<br style="clear:both;"/>
+		</div>
+	</div>
+	<!--// end horizontal navbar //-->
+
+    <!--// begin full width content //-->
+	<div class="fullwidthcontainer">
+    		</div>
+    <!--// end full width content //-->
+
+<div class="mainContainer clearfix">
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+			<div class="col_left_top"></div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Are You Ready for Soccer? 					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						Register Online Now!! <br/>We are accepting online registrations as long as your player's birthday pulls up on the players date of birth page in registration!					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="FullWidthSliderTrinket fws-slides" style="height: 123px;" data-slidetime="10000"><ul><li style="background-image:url(http://www.blackfootsoccer.org/sam/admin/images/image.php?f=us_soccer_logo1_200x123_13_0_12_0.jpg);"></li>
+<li style="background-image:url(http://www.blackfootsoccer.org/sam/admin/images/image.php?f=USA_World_cup_2014_wallpaper_image1_200x123_37_0_125_0.jpg);"></li></ul></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Event Calendar					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-727418550" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<h2>We Need Your Help</h2>
+			BYSA exists because of volunteers!!<br/>Help of any KIND is greatly needed!<br/>Support your child and your community!<br/>Ask Us How<br/><br/>Together WE make Goals!<br/>		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+			<div class="col_ctr_top"></div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Registration for Spring 2015 still available online					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+											</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						A New Year A New Chapter for Blacksnake Soccer, Be part of it!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="HeadlineScrollerTrinket"><div class="pe-hst-item" style="background:url(http://www.blackfootsoccer.org/sam/admin/images/image.php?f=soccer_soccer_26649442_2560_1600_550x300_101_0_102_0.jpg) left no-repeat;" title="Players and Coaches | Registration Open for Spring 2015"><div class="pe-hst-slidelabel"><h2>Players and Coaches</h2><p><span>Registration Open for Spring 2015</span> <span class="divider">|</span> <a href="http://blackfoot.bonzidev.com/onlinereg" class="">Click Here</a></p></div></div><div class="pe-hst-item" style="background:url(http://www.blackfootsoccer.org/sam/admin/images/image.php?f=cartoon_footballer_and_refree_550x300_2_0_11_0.jpg) left no-repeat;" title="Want to make some Money? | Referee!! E-mail blackfootsoccer@gmail.com for more details, online sign ups coming soon."><div class="pe-hst-slidelabel"><h2>Want to make some Money?</h2><p><span>Referee!! E-mail blackfootsoccer@gmail.com for more details, online sign ups coming soon.</span></p></div></div><div class="pe-hst-pager"><a href="#"></a><a href="#"></a></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Jerry Smith Offices  					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Jan 7, 2015</span><img class="ST" src="http://www.blackfootsoccer.org/imagedata/soccer_thank_you1_e1350871483992.jpg" title="Jerry Smith Offices  " /><p>&nbsp;</p>
+<p><span style="font-size: 14pt;">BYSA wants to thank Jerry Smith Offices&nbsp;for their kindness and support,</span></p>
+<p><span style="font-size: 14pt;">Thank You Jerry!!</span></p>
+<p>&nbsp;</p><br style="clear:both;"/></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+			<div class="col_right_top"></div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Support our Sponsors!!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.blackfootsoccer.org/imagedata/BLACKSNAKE_LOGO_2014_jpg_image.jpg" /></div><div class="slide"><img src="http://www.blackfootsoccer.org/imagedata/ls1.jpg" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+	<!--// end content //-->
+
+</div>
+<!--// end #mainContainer //-->
+
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.gobonzi.com" ><img src="/cm/layout/images/bonzi_logo.png" alt="Sports Management Software by Bonzi" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Blackfoot Youth Soccer Association. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" >Online Soccer Association Management Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+
+</body>
+</html>

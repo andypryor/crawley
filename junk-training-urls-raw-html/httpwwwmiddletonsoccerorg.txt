@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Middleton Soccer Club | Serving the youth of Middleton for over 10 years</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://middletonsoccer.org/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://middletonsoccer.org/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Middleton Soccer Club &raquo; Feed" href="http://middletonsoccer.org/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Middleton Soccer Club &raquo; Comments Feed" href="http://middletonsoccer.org/?feed=comments-rss2" />
+<link rel='stylesheet' id='pac-styles-css'  href='http://middletonsoccer.org/wp-content/plugins/woocommerce-product-archive-customiser/assets/css/pac.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pac-layout-styles-css'  href='http://middletonsoccer.org/wp-content/plugins/woocommerce-product-archive-customiser/assets/css/layout.css?ver=4.1.1' type='text/css' media='only screen and (min-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.7' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://middletonsoccer.org/wp-content/themes/twentythirteen/genericons/genericons.css?ver=3.03' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://middletonsoccer.org/wp-content/themes/twentythirteen/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://middletonsoccer.org/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='widget_attachments_frontend_css-css'  href='http://middletonsoccer.org/wp-content/plugins/attach-files-widget//assets/css/frontend.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://middletonsoccer.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://middletonsoccer.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://middletonsoccer.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://middletonsoccer.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://middletonsoccer.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<meta name="generator" content="WooCommerce 2.3.7" />
+<link rel='canonical' href='http://middletonsoccer.org/' />
+<link rel='shortlink' href='http://middletonsoccer.org/' />
+<!-- All in one Favicon 4.3 --><link rel="icon" href="http://middletonsoccer.org/wp-content/uploads/2015/01/Untitled.png" type="image/png"/>
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(http://middletonsoccer.org/wp-content/uploads/2015/01/cropped-youth_soccer_banner.jpg) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		@media (max-width: 767px) {
+			.site-header {
+				background-size: 768px auto;
+			}
+		}
+		@media (max-width: 359px) {
+			.site-header {
+				background-size: 360px auto;
+			}
+		}
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	</head>
+
+<body class="home page page-id-2 page-template-default single-author sidebar">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="http://middletonsoccer.org/" title="Middleton Soccer Club" rel="home">
+				<h1 class="site-title">Middleton Soccer Club</h1>
+				<h2 class="site-description">Serving the youth of Middleton for over 10 years</h2>
+			</a>
+
+			<div id="navbar" class="navbar">
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<button class="menu-toggle">Menu</button>
+					<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-197"><a href="http://middletonsoccer.org/">Home</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="http://middletonsoccer.org/?page_id=50">Registration</a></li>
+<li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-203"><a href="http://middletonsoccer.org/?page_id=170">Parents Corner</a>
+<ul class="sub-menu">
+	<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://middletonsoccer.org/?page_id=322">Parent Code of Conduct</a></li>
+	<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://middletonsoccer.org/?page_id=324">Player Code of Conduct</a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="http://middletonsoccer.org/?page_id=309">Calendar</a></li>
+	<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="http://middletonsoccer.org/?page_id=474">2014 Photo Order Form</a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://middletonsoccer.org/?page_id=298">Age groups</a></li>
+	<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="http://middletonsoccer.org/?page_id=253">Uniforms</a></li>
+</ul>
+</li>
+<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-208"><a href="http://middletonsoccer.org/?page_id=177">Coaches Corner</a>
+<ul class="sub-menu">
+	<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://middletonsoccer.org/?page_id=331">Coach Code of Conduct</a></li>
+</ul>
+</li>
+<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://middletonsoccer.org/?page_id=81">Field Locations</a></li>
+<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="http://middletonsoccer.org/?page_id=78">Contact us</a></li>
+<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206"><a href="http://middletonsoccer.org/?page_id=110">Online Payment</a>
+<ul class="sub-menu">
+	<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="http://middletonsoccer.org/?page_id=113">My Account</a></li>
+	<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://middletonsoccer.org/?page_id=111">Cart</a></li>
+	<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://middletonsoccer.org/?page_id=112">Checkout</a></li>
+</ul>
+</li>
+</ul></div>					<form role="search" method="get" class="search-form" action="http://middletonsoccer.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</nav><!-- #site-navigation -->
+			</div><!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+						
+				<article id="post-2" class="post-2 page type-page status-publish hentry">
+					<header class="entry-header">
+						
+						<h1 class="entry-title">Home</h1>
+					</header><!-- .entry-header -->
+
+					<div class="entry-content">
+						<p>Middleton soccer club is a 501c3 non-profit organization dedicated to providing the children of Middleton with the opportunity to participate in the sport of soccer.</p>
+<p><strong>Short Description:</strong><br />
+The Middleton Soccer club is located in Middleton Idaho. We run leagues in the Spring and Fall Seasons.</p>
+<ul>
+<li><strong>GOALS OF THE PROGRAM</strong></li>
+</ul>
+<p>Increase children&#8217;s self-esteem through participation in an organized and supportive program of team ac<span class="text_exposed_show">tivities<br />
+Build positive social and life skills<br />
+Provide important exercise and increase awareness of one&#8217;s own health through sports<br />
+Provide programs that are not available in the schools<br />
+Provide programs to encourage children that sports are an alternative to crime and can keep them off the streets</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+											</div><!-- .entry-content -->
+
+					<footer class="entry-meta">
+											</footer><!-- .entry-meta -->
+				</article><!-- #post -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+			
+</div><!-- #comments -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	<div id="tertiary" class="sidebar-container" role="complementary">
+		<div class="sidebar-inner">
+			<div class="widget-area">
+				<aside id="widget_ex_attachments-2" class="widget widget_ex_attachments"><h3 class="widget-title">Attachments</h3>
+        <div class="ex-attachments">
+
+        <ul class="ex-attachments-noicons">
+                        <li>
+                <a target="_blank" href="http://middletonsoccer.org/wp-content/uploads/2015/01/Middleton-Rules-of-the-Game.docx">
+                    <div>Middleton Rules of the Game</div>                </a>
+                            </li>
+                        <li>
+                <a target="_blank" href="http://middletonsoccer.org/wp-content/uploads/2015/01/MedicalReleaseForm.doc">
+                    <div>MedicalReleaseForm</div>                </a>
+                            </li>
+                        <li>
+                <a target="_blank" href="http://middletonsoccer.org/wp-content/uploads/2015/01/DL-3_FIELDMAPS.doc">
+                    <div>Idaho D3 Soccer Fields</div>                </a>
+                            </li>
+                        <li>
+                <a target="_blank" href="http://middletonsoccer.org/wp-content/uploads/2015/02/soccer-picture-order-form.pdf">
+                    <div>soccer picture order form</div>                </a>
+                            </li>
+                    </ul>
+
+    </div>
+    
+    </aside>			</div><!-- .widget-area -->
+		</div><!-- .sidebar-inner -->
+	</div><!-- #tertiary -->
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://middletonsoccer.org/wp-login.php">Log in</a></li>
+			<li><a href="http://middletonsoccer.org/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://middletonsoccer.org/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside><aside id="calendar-7" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>March 2015</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev" class="pad">&nbsp;</td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+	</tr>
+	<tr>
+		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+	</tr>
+	<tr>
+		<td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td>24</td><td id="today">25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td><td>31</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
+			<div class="site-info">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"http:\/\/middletonsoccer.org\/?page_id=111","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.3.7'></script>
+<script type='text/javascript' src='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.7'></script>
+<script type='text/javascript' src='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//middletonsoccer.org/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.7'></script>
+<script type='text/javascript' src='http://middletonsoccer.org/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://middletonsoccer.org/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://middletonsoccer.org/wp-content/themes/twentythirteen/js/functions.js?ver=2014-06-08'></script>
+</body>
+</html>

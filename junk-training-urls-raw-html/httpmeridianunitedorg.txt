@@ -1,0 +1,290 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Welcome to Meridian United Sports Academy Website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-image:   url(images/background.jpg);
+	background-color: #333333;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.style1 {
+	color: #FFFFFF;
+	font-size: small;
+}
+.style2 {color: #FFFFFF}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style3 {color: #FFFFFF;  font-size: 10px; }
+.style4 {color: #000000}
+.style17 {font-family: Arial, Helvetica, sans-serif}
+.style18 {color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; }
+.style23 {color: #AF0707}
+.style24 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; }
+.style25 {font-size: medium}
+-->
+
+a:link {color:#FFFFFF;}      /* unvisited link */
+a:visited {color:#FFFFFF;}  /* visited link */
+a:hover {color:#FF0000;}  /* mouse over link */
+a:active {color:#FFFFFF;}  /* selected link */
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('images/teams_down.png','images/club_info_down.png','images/coaches_down.png','images/calendar_down.png','images/contact_down.png','images/apparel_down.png')">
+<table width="1000" height="100%"  border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#000000">
+  <tr>
+    <td width="1164"><img src="images/banner.jpg" width="1000" height="200"></td>
+  </tr>
+  <tr>
+    <td><table width="100%"  border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="142"><img src="images/home_down.png" width="142" height="35"></td>
+        <td width="142"><a href="teams.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('teams','','images/teams_down.png',1)"><img src="images/teams.png" name="teams" width="142" height="35" border="0"></a></td>
+        <td width="142"><a href="clubinfo.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('club_info','','images/club_info_down.png',1)"><img src="images/club_info.png" name="club_info" width="142" height="35" border="0"></a></td>
+        <td width="142"><a href="coaches.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('coaches','','images/coaches_down.png',1)"><img src="images/coaches.png" name="coaches" width="142" height="35" border="0"></a></td>
+        <td width="142"><a href="calendar.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('calendar','','images/calendar_down.png',1)"><img src="images/calendar.png" name="calendar" width="142" height="35" border="0"></a></td>
+        <td width="142"><a href="http://www.shadowsembroidery.com/product-category/meridian-united/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image16','','images/apparel_down.png',1)"><img src="images/apparel.png" name="Image16" width="142" height="35" border="0"></a></td>
+        <td width="148" height="35" bgcolor="#323232"><div align="left"><a href="contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','images/contact_down.png',1)"><img src="images/contact.png" name="contact" width="142" height="35" border="0"></a></div></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="615" valign="top" bgcolor="#FFFFFF"><table width="100%" height="100%"  border="1" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tr>
+        <td width="20%" height="619" valign="top" bgcolor="#3F3F3F"><table width="100%"  border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td bgcolor="#3F3F3F">
+			<div id="menu">
+              <p align="center" class="style1">NAVIGATION</p>
+              <ul>
+                <li><a href="fand.htm">Forms & Documents</a></li>
+                <li><a href="http://meridianunited.bonzidev.com">Registration</a></li>
+                <li><a href="tournaments.htm">Tournaments</a></li>
+                <li><a href="sponsors.htm">Sponsors</a></li>
+				<li><a href="schedules.htm">Schedules</a></li>
+				<li><a href="nutrition.htm">Nutrition/Training</a></li>
+				<li><a href="programs.htm">Programs</a></li>
+				<li><a href="camps.htm">Camps & Clinics</a></li>
+				<li><a href="community.htm">Community Projects</a></li>
+              </ul>
+			</div></td>
+          </tr>
+          <tr>
+            <td width="80%" bgcolor="#3F3F3F">&nbsp;</td>
+          </tr>
+        </table>
+          <table width="100%"  border="0" bgcolor="#666666">
+            <tr>
+              <td bgcolor="#AF0707"><div align="center"><span class="style2">SPONSORS</span></div></td>
+            </tr>
+          </table>
+          <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td bgcolor="#3F3F3F"><div align="center"><a href="http://allcadnw.com" target="_blank"><img src="images/allcad.png" width="160" height="94" border="0"></a></div></td>
+            </tr>
+          </table>
+          <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td bgcolor="#3F3F3F"><div align="center">
+                <br><a href="http://www.petsofinancial.com/splash.cfm" target="_blank"><img src="images/PFC%20Logo%20new.JPG" width="160" height="89" border="0"></a>
+                </div></td>
+            </tr>
+          </table>          
+          <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td bgcolor="#3F3F3F"><div align="center">
+                <br><a href="http://www.menchies.com/frozen-yogurt-shops/frozen-yogurt-village-at-meridian-id" target="_blank"><img src="images/menchies.png" width="160" height="89" border="0"></a>
+                </div></td>
+            </tr>
+          </table>  
+          <table width="227" border="1">
+            <tr>
+              <th width="217" bgcolor="#AF0707" scope="row"><span class="style2">UNITED FOR OUR YOUTH </span></th>
+            </tr>
+          </table>
+          <table width="100%" height="57" border="1">
+            <tr>
+              <th width="217" scope="row"><img src="images/futuresoccerschool.jpg" width="214" height="119"></th>
+            </tr>
+          </table>
+          <table width="100%" height="88" border="1">
+            <tr>
+              <th width="216" scope="row"><img src="images/Meridian%20United%20Banner.jpg" width="218" height="135"></th>
+            </tr>
+          </table>
+	</td>
+        <td width="60%" valign="top" bgcolor="#000000"><table width="98%" height="38"  border="0" align="center" cellpadding="5" cellspacing="5" bordercolor="#F0F0F0" bgcolor="#FFFFFF">
+          <tr>
+            <td height="28" bgcolor="#330033"><div align="center" class="style25 style2"><strong> WELCOME TO MERIDIAN UNITED</strong></div></td>
+          </tr>
+		  <tr>
+			<td height="28" bgcolor="#CCFF00"><div align="center" class="style4 style25 style3">FALL 2015 COMPETITIVE TRYOUTS OPEN NOW </div></td>
+		  <tr>
+			<td height="28" bgcolor="#FFFFFF"><div align="center">Register Today For Up To Date Tryout Information </div></td>
+          </tr>
+        </table>
+
+        <table width="550" height="152" border="0">
+          <tr bordercolor="#F0F0F0" bgcolor="#FFFFFF">
+            <td height="28" bgcolor="#CCFF00"><div align="center" class="style4 style25 style3">SUMMER CAMP DETAILS COMING SOON </div></td>          
+            <tr>
+              <th width="547" bgcolor="#E2E1E1" scope="col"><br>                <img src="images/100_0228.JPG" width="155" height="296"><br>
+                <br>
+                <p align="center" class="style23">MERIDIAN UNITED IS THRILLED TO ANNOUNCE JOE AZEVEDO &amp; STEVE SENGELMANN AS OUR DIRECTORS OF COACHING</p>
+                <p align="center" class="style4">JOE AZEVEDO: 30+ YEARS COACHING AND DIRECTING SOCCER IN THE TREASURE VALLEY LEADING HIS TEAMS TO SEVERAL STATE CHAMPIONSHIP TITLES </p>
+                <p align="center" class="style23">STEVE SENGELMANN: A FORMER U.S. NATIONAL TEAM PLAYER WITH AN EXTENSIVE PLAYING AND COACHING RESUME </p>
+                <p align="center" class="style4">(NO OTHER CLUB IN THE TREASURE VALLEY HAS A U.S. NATIONAL TEAM PLAYER ON THEIR STAFF)</p>
+                <p align="center" class="style23">WE ARE EXCITED FOR WHAT THIS MEANS TO OUR PLAYERS AND STAFF </p>
+                <br>
+	      </th>
+            </tr>
+        </table>          
+        <p>&nbsp;</p>		
+		
+		  <table width="90%"  border="0" align="center">
+            <tr>
+              <td align="center" valign="middle"><div align="center" class="style4">
+                </div></td>
+            </tr>
+            <tr>
+              <td bgcolor="#AF0707"><div align="center"><span class="style2">CHARACTER-COMMUNITY-LEADERSHIP</span></div></td>
+            </tr>
+            <tr>
+              <td height="69"><p class="style2 style17">Meridian United Sports Center Academy (aka Meridian United) is a non-profit organization that has been formed to strengthen our community, invest in our children, and provide opportunities for all of our youth regardless of  
+  
+
+   circumstance.</p>
+                <p class="style18">Our club will develop our youth into successful soccer players and teach them core values well beyond the game. The model of Meridian United Sports Center Academy focuses on hard work, skill development, discipline, and fitness training. We will create a positive environment for all athletes to improve and develop as individuals through sports with a strong emphasis on character, work ethic, and attitude. </p>
+                <p class="style18">  Our mission is to invest in our Children as well as give back to our Community. </p>                </td>
+            </tr>
+          </table>
+          <table width="546" border="1">
+            <tr>
+              <th width="536" scope="row"><img src="images/MeridianUnitedBSU.jpg" width="349" height="197"></th>
+            </tr>
+          </table>          
+          <div align="center"></div>          <table width="552" border="1">
+            <tr>
+              <th width="536" height="42" scope="row"><div align="center"><span class="style2">MERIDIAN UNITED &amp; BOISE STATE SUPPORTING LULA &amp; HER FIGHT WITH CANCER </span></div></th>
+            </tr>
+          </table></td>
+        <td width="20%" valign="top" bgcolor="#CCCCCC"><table width="100%"  border="0">
+            <tr>
+              <td bgcolor="#330033"><div align="center"><a href="https://www.facebook.com/pages/Meridian-United-Sports-Center-Academy/219316874879823" target="_blank"><img src="images/facebook.png" width="160" height="33" border="0"></a>                  </div></td>
+            </tr>
+          </table>          
+          <table width="100%"  border="1">
+            <tr>
+              <td bgcolor="#AF0707"> <div align="center" class="style2">UPCOMING EVENTS</div></td>
+            </tr>
+          </table>                    
+          <div align="center">
+            <table width="100%"  border="1">
+              <tr>
+                <td><p align="left" class="style24"><span class="style23"><strong>March 7, 2015 </strong></span><br> 
+                    <strong>D3 Competitive Games Begin </strong></p>
+		  <p align="left" class="style24"><span class="style23"><strong>March 13, 2015- 6:30 pm </strong></span><br>
+		     <strong>Meridian United Dinner/Dance Auction </strong></p>
+		  <p align="left" class="style24"><span class="style23"><strong>March 23-26, 2015</strong></span><br> 
+		    <strong>Spring Break Camp U4-U10- Settlers Park (10:00 am- 2:00 pm)
+            </strong></p>
+		  <p align="left" class="style24"><span class="style23"><strong>April 4, 2015 </strong></span><br> 
+		    <strong>Youth League Games Begin
+            </strong></p>
+		  <p align="left" class="style24"><span class="style23"><strong>May 22-25, 2015 </strong></span><br> 
+		    <strong>State Cup
+            </strong></p>
+		  <p align="left" class="style24">&nbsp;</p>
+				  <p align="left" class="style24">&nbsp;</p></td>
+              </tr>
+            </table>
+            <table width="100%"  border="1">
+              <tr>
+                <td><table width="200" border="1">
+                  <tr>
+                    <th scope="row"><a href="images/U11.jpg" target=new><img src="images/U11Thumb.jpg"></a></th>
+                  </tr>
+                </table>                </td>
+              </tr>
+            </table>
+            <table width="100%"  border="0">
+              <tr>
+                <td bgcolor="#330033"><div align="center" class="style2">PARTNERS &amp; AFFILIATES</div></td>
+              </tr>
+            </table>
+            <table width="100%"  border="0">
+              <tr>
+                <td><div align="center"> <a href="http://www.idahoyouthsoccer.com" target="_blank"><img src="images/IYSA_Logo.jpg" width="116" height="118" border="0"></a><a href="http://www.bing.com/search?q=idaho+youth+soccer&qs=n&form=QBRE&pq=idaho+youth+soccer&sc=8-18&sp=-1&sk=#"></a> <a href="http://www.bing.com/search?q=idaho+youth+soccer&qs=n&form=QBRE&pq=idaho+youth+soccer&sc=8-18&sp=-1&sk=#"></a> </div></td>
+              </tr>
+            </table>
+            <table width="100%"  border="0">
+              <tr>
+                <td><div align="center"><a href="http://www.meridianchamber.org" target="_blank"><img src="images/Meridian%20Chamber.png" width="148" height="64" border="0"></a></div></td>
+              </tr>
+            </table>
+            <table width="100%"  border="0">
+              <tr>
+                <td><div align="center">
+                  <table width="200" border="1">
+                    <tr>
+                      <th height="128" scope="row"><img src="images/USYSA_Logo.jpg" width="115" height="115"></th>
+                    </tr>
+                  </table>
+                  <table width="200" height="101" border="1">
+                    <tr>
+                      <th scope="row"><img src="images/Meridian%20Indoor.jpg" width="124" height="102"></th>
+                    </tr>
+                  </table>
+                  </div></td>
+              </tr>
+            </table>
+          </div>          
+          </td>
+      </tr>
+      <tr valign="bottom" bgcolor="#000000">
+        <td width="20%" height="15"><p align="center" class="style2">Office Hours</p>
+          <p align="center" class="style2">Monday-Friday 8am-5pm </p>          </td>
+        <td width="60%" height="15"><div align="center"><span class="style2">Meridian United Sports Center Academy - 1465 Commercial Dr. Meridian ID 83642 </span></div></td>
+        <td width="20%" height="15"><div align="center"><span class="style2">208.887.6366</span></div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<div align="center"></div>
+</body>
+</html>

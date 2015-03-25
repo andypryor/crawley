@@ -1,0 +1,674 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/ImageRotatorTrinket/style.css,/sam/admin/include/trinkets/TwitterTrinket/style.css" /><script src="http://www.moscowunited.org/sam/admin/include/scripts/jquery.min.js"></script><script src="//platform.twitter.com/widgets.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js,/sam/admin/include/trinkets/TwitterTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><meta name="keywords" content=""/><meta name="description" content=""/><div>
+  <script type="text/javascript">
+//<![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29477879-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  //]]>
+  </script>
+</div>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13151" ><li id="mb-75685" class=" cmFirst "><a class="button-text" href="/home.php?layout=307065" style="" target="_top">HOME</a><span class="iefix">&nbsp;</span></li><li id="mb-75709" class="parent  "><span style="" class="button-text">ADMINISTRATION</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75711" class=" cmFirst "><a class="button-text" href="/Board_Meetings" style="" target="_top">Board Meetings</a><span class="iefix">&nbsp;</span></li><li id="mb-75712" class="  "><a class="button-text" href="/Meeting_Minutes" style="" target="_top">Board Meeting Minutes</a><span class="iefix">&nbsp;</span></li><li id="mb-75713" class="  "><a class="button-text" href="/Bylaws" style="" target="_top">Bylaws & MUSC Manual</a><span class="iefix">&nbsp;</span></li><li id="mb-75710" class="  cmLast"><a class="button-text" href="/home.php?layout=307086" style="" target="_top">Officers & Staff</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75715" class="parent  "><span style="" class="button-text">ACADEMIES & CLINICS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75718" class=" cmFirst "><a class="button-text" href="/summeracademy" style="" target="_top">Summer Academy</a><span class="iefix">&nbsp;</span></li><li id="mb-75716" class="  cmLast"><a class="button-text" href="/WinterAcademy" style="" target="_top">Winter Academy</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75688" class="parent  "><span style="" class="button-text">CLUB INFORMATION</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75738" class=" cmFirst "><a class="button-text" href="/club-calendar" style="" target="_top">Club Calendar</a><span class="iefix">&nbsp;</span></li><li id="mb-75693" class="  "><a class="button-text" href="/home.php?layout=307072" style="" target="_top">Field Locations</a><span class="iefix">&nbsp;</span></li><li id="mb-75694" class="  "><a class="button-text" href="http://www.idahoyouthsoccer.org" style="" target="_blank">IYSA</a><span class="iefix">&nbsp;</span></li><li id="mb-75689" class="  cmLast"><a class="button-text" href="/home.php?layout=307068" style="" target="_top">Parent Information Center</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75719" class="parent  "><span style="" class="button-text">COACH'S CORNER</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75720" class=" cmFirst "><a class="button-text" href="/home.php?layout=307094" style="" target="_top">Director of Coaching</a><span class="iefix">&nbsp;</span></li><li id="mb-75722" class="  "><a class="button-text" href="/home.php?layout=307096" style="" target="_top">Curriculum</a><span class="iefix">&nbsp;</span></li><li id="mb-75723" class="  "><a class="button-text" href="/InformationCenter" style="" target="_top">Information Center</a><span class="iefix">&nbsp;</span></li><li id="mb-78614" class="  cmLast"><a class="button-text" href="/home.php?layout=315207" style="" target="_top">Coaching Staff</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75724" class="parent  "><span style="" class="button-text">FUNDRAISING</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75726" class=" cmFirst "><a class="button-text" href="/soccerfest" style="" target="_top">Elks Soccer Festival</a><span class="iefix">&nbsp;</span></li><li id="mb-75727" class="  cmLast"><a class="button-text" href="/home.php?layout=307100" style="" target="_top">Team / Individual Forms</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75686" class="  "><a class="button-text" href="/photos" style="" target="_top">PHOTO GALLERY</a><span class="iefix">&nbsp;</span></li><li id="mb-75695" class="parent  "><span style="" class="button-text">PROGRAMS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75696" class="parent cmFirst "><span style="" class="button-text">Competitive</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75697" class=" cmFirst "><a class="button-text" href="/home.php?layout=307077" style="" target="_top">Evaluations</a><span class="iefix">&nbsp;</span></li><li id="mb-75700" class="  "><a class="button-text" href="/home.php?layout=307076" style="" target="_top">Forms</a><span class="iefix">&nbsp;</span></li><li id="mb-75701" class="  "><a class="button-text" href="/home.php?layout=307080" style="" target="_top">NW League Schedule</a><span class="iefix">&nbsp;</span></li><li id="mb-75698" class="  cmLast"><a class="button-text" href="/home.php?layout=307078" style="" target="_top">Travel Information</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75706" class="  "><a class="button-text" href="/home.php?layout=307084" style="" target="_top">Futsal</a><span class="iefix">&nbsp;</span></li><li id="mb-75702" class="parent  "><span style="" class="button-text">Micro</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75703" class=" cmFirst "><a class="button-text" href="/home.php?layout=307081" style="" target="_top">About Micro</a><span class="iefix">&nbsp;</span></li><li id="mb-75704" class="  "><a class="button-text" href="/home.php?layout=307082" style="" target="_top">Rules</a><span class="iefix">&nbsp;</span></li><li id="mb-75705" class="  cmLast"><a class="button-text" href="/home.php?layout=307083" style="" target="_top">Schedule</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75744" class="  cmLast"><a class="button-text" href="/home.php?layout=307115" style="" target="_top">ODP Information</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77621" class="parent  "><span style="" class="button-text">QUAD-CITIES FUSION</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-196449" class=" cmFirst "><a class="button-text" href="/home.php?layout=869654" style="" target="_top">Background</a><span class="iefix">&nbsp;</span></li><li id="mb-77713" class="  "><a class="button-text" href="/FusionNews" style="" target="_top">FUSION NEWS</a><span class="iefix">&nbsp;</span></li><li id="mb-77659" class="parent  "><a class="button-text" href="/Bios" style="" target="_top">2014 Player Bios</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77652" class="parent cmFirst cmLast"><span style="" class="button-text">Player Bios</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-77654" class=" cmFirst "><a class="button-text" href="/DBogden" style="" target="_top">STEPHEN DRU BOGDEN #3</a><span class="iefix">&nbsp;</span></li><li id="mb-77657" class="  "><a class="button-text" href="/SFunk" style="" target="_top">SAMUEL K. FUNK #15</a><span class="iefix">&nbsp;</span></li><li id="mb-77653" class="  "><a class="button-text" href="/AMartin" style="" target="_top">ALEC MARTIN #13</a><span class="iefix">&nbsp;</span></li><li id="mb-77660" class="  "><a class="button-text" href="/Ponzini" style="" target="_top">ANTHONY PONZINI #10</a><span class="iefix">&nbsp;</span></li><li id="mb-77651" class="  "><a class="button-text" href="/AQuesnell" style="" target="_top">ANTHONY QUESNELL #14</a><span class="iefix">&nbsp;</span></li><li id="mb-77656" class="  cmLast"><a class="button-text" href="/LTaylor" style="" target="_top">LOGAN TAYLOR #16</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77624" class="  "><a class="button-text" href="/who" style="" target="_top">Who Is Quad-Cities Fusion?</a><span class="iefix">&nbsp;</span></li><li id="mb-77622" class="  "><a class="button-text" href="/tryouts" style="" target="_top">Team Tryouts</a><span class="iefix">&nbsp;</span></li><li id="mb-193931" class="  cmLast"><a class="button-text" href="/home.php?layout=849378" style="" target="_top">Bylaws</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75752" class="parent  "><span style="" class="button-text">REFEREES</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75747" class=" cmFirst "><a class="button-text" href="/referee-FAQs" style="" target="_top">FAQs</a><span class="iefix">&nbsp;</span></li><li id="mb-75708" class="  "><a class="button-text" href="/referee-info" style="" target="_top">General Information</a><span class="iefix">&nbsp;</span></li><li id="mb-75748" class="  "><a class="button-text" href="/referee-recertification" style="" target="_top">Recertification</a><span class="iefix">&nbsp;</span></li><li id="mb-197024" class="  cmLast"><a class="button-text" href="/home.php?layout=874059" style="" target="_top">2015 Referee Course</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75753" class="parent  "><span style="" class="button-text">REGISTRATION</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75759" class=" cmFirst "><a class="button-text" href="https://www.secure-sam.com/www.moscowunited.org/sam/registration/reg_list.php" style="" target="_blank">Register Now</a><span class="iefix">&nbsp;</span></li><li id="mb-75687" class="  "><a class="button-text" href="/registration-information" style="" target="_top">Registration Information</a><span class="iefix">&nbsp;</span></li><li id="mb-75742" class="  "><a class="button-text" href="/home.php?layout=307109" style="" target="_top">Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-75745" class="  "><a class="button-text" href="/financial-assistance" style="" target="_top">Financial Assistance</a><span class="iefix">&nbsp;</span></li><li id="mb-75762" class="  cmLast"><a class="button-text" href="/home.php?layout=307250" style="" target="_top">Registration FAQ</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75728" class="parent  "><span style="" class="button-text">TEAMS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75729" class=" cmFirst "><a class="button-text" href="/home.php?layout=307101" style="" target="_top">Boys</a><span class="iefix">&nbsp;</span></li><li id="mb-75730" class="  "><a class="button-text" href="/home.php?layout=307102" style="" target="_top">Girls</a><span class="iefix">&nbsp;</span></li><li id="mb-77269" class="  cmLast"><a class="button-text" href="/TournResults" style="" target="_top">Tournament Results</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76447" class="parent  "><span style="" class="button-text">TEAM MANAGERS</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76448" class=" cmFirst "><a class="button-text" href="/MgrForms" style="" target="_top">Manager Forms</a><span class="iefix">&nbsp;</span></li><li id="mb-75739" class="  cmLast"><a class="button-text" href="/home.php?layout=307106" style="" target="_top">Team Managers FAQs</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75755" class="parent  "><span style="" class="button-text">PALOUSE CUP</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78424" class=" cmFirst "><a class="button-text" href="/Schedule" style="" target="_top">Schedule and Standings</a><span class="iefix">&nbsp;</span></li><li id="mb-75754" class="  "><a class="button-text" href="/home.php?layout=307196" style="" target="_top">Tournament Information</a><span class="iefix">&nbsp;</span></li><li id="mb-75758" class="  "><a class="button-text" href="/home.php?layout=307200" style="" target="_top">Team Check-In Information</a><span class="iefix">&nbsp;</span></li><li id="mb-78134" class="  cmLast"><a class="button-text" href="/home.php?layout=313593" style="" target="_top">Tournament Format</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75760" class="parent  "><span style="" class="button-text">VOLUNTEER OPPORTUNITIES</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75761" class=" cmFirst cmLast"><a class="button-text" href="/volunteer" style="" target="_top">Volunteer Opportunities</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75763" class="  cmLast"><a class="button-text" href="/contact" style="" target="_top">CONTACT US</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<center>
+  <a href="http://www.moscowunited.org/club-calendar"><strong><span style="color: #0055cc;" size="+2"><span style="font-size: large; font-family: arial, helvetica, sans-serif;">Club
+  Calendar</span></span></strong></a>
+</center>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <a href="http://vmallc1qb.homestead.com/~local/~Preview/MoscowUnited.html?_=1403730932838" target="_blank"><img src=
+  "http://www.moscowunited.org/imagedata/Large_Logo_with_address.jpg" border="0" /><br />
+  <span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #0000ff; font-size: medium;">Purchase Adidas MUSC Uniforms and Warm-ups</span></strong></span></a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Spring 2015 League Information					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <strong style="color: #0000ff; font-size: 9pt;"><a href="http://www.idahoyouthsoccer.org/leagues/nwl.aspx" target="_blank"><span style="color: #0000ff;">Northwest LEAGUE Page</span></a></strong>
+</p>
+<p style="text-align: center;">
+  <a href="http://events.gotsport.com/events/Default.aspx?EventID=34919" target="_blank"><img src="http://www.moscowunited.org/imagedata/IYSA_Logo.jpg" border=
+  "0" /><br /></a><strong style="color: #0055cc; font-family: arial, helvetica, sans-serif; font-size: 9pt;"><span><a href="http://events.gotsport.com/events/Default.aspx?EventID=43800" target=
+  "_blank"><span style="color: #0000ff;"><span style="color: #0000ff;">Northwest SCHEDULE</span></span></a><span style="color: #0000ff;"><span style="color: #0000ff;"><a href=
+  "http://events.gotsport.com/events/Default.aspx?EventID=43800" target="_blank"><br /></a></span></span></span></strong><strong style=
+  "color: #0055cc; font-family: arial, helvetica, sans-serif; font-size: 9pt;"><span style="color: #00ff00; font-size: small;"><span style=
+  "color: #00ffff;">LIVE</span><br /></span></strong><strong style="font-size: 9pt;"><span style="color: #0055cc; font-family: arial, helvetica, sans-serif; font-size: 9pt;">though May 23,
+  2015</span></strong>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Contact Information					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: arial, helvetica, sans-serif;">Moscow United Soccer Club</span><br />
+  <span style="font-family: arial, helvetica, sans-serif;">P.O. Box 9919</span><br />
+  <span style="font-family: arial, helvetica, sans-serif;">Moscow, ID 83843</span>
+</p>
+<p>
+  <span style="color: #0055cc; font-family: arial, helvetica, sans-serif;"><a href="mailto:soccer@moscowunited.org" target="_blank"><strong><span style="color: #0055cc;">Email
+  Us</span></strong></a></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Olympic Development					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center; font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: 9pt;">
+  <span style="font-family: trebuchet ms,geneva;"><span style="color: #0000ff;"><span style="font-size: small;">Our ODP rep is<br /></span></span>Jason Quintero<a href=
+  "http://www.moscowunited.org/home.php?layout=307115"><br />
+  <strong><span style="color: #0000ff;">more info</span></strong></a></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Micro Soccer Information					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #0000ff; font-size: medium;"><a href=
+  "http://www.moscowunited.org/home.php?layout=307081"><span style="color: #0000ff;">General Information</span></a></span></strong></span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: medium; font-family: arial, helvetica, sans-serif;">Moscow Parks &amp; Rec</span><br />
+  <span style="color: #0000ff; font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: medium;"><a href="http://www.ci.moscow.id.us/parks-rec/Pages/Rain-Out.aspx"><span style=
+  "color: #0000ff;">rainout info</span></a></span></strong></span><br />
+  <span style="font-size: medium; font-family: arial, helvetica, sans-serif;">or call 883-8402</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Register for Spring 2015 NOW!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><div style="line-height: 22.7199974060059px; text-align: center; font-family: inherit;">
+  <span style="line-height: normal; color: #33aaff; font-size: 300%;"><strong style="line-height: 25.560001373291px;"><em style="line-height: 25.560001373291px;">LET'S PLAY
+  SOCCER!</em></strong></span>
+</div>
+<div style="line-height: 22.7199974060059px; text-align: center; font-family: inherit;">
+   
+</div>
+<p>
+  <span style="line-height: normal; font-family: inherit; font-size: large;">The world's most popular sport and the best game in town is now ready for you.</span>
+</p>
+<p>
+  <span style="line-height: normal; font-family: inherit; font-size: large;">Moscow United Soccer Club is now taking registrations for the spring 2015 season. We look forward to having you play for
+  the best small town club in America! This spring season we will start our practices in late February and play in the Northwest League, battling our regional foes, Spokane, Tri-Cities, Post Falls,
+  and Cd'A and play in 1 or 2 regional tournaments ......</span>
+</p>
+<p>
+  <span style="line-height: normal; font-family: inherit; font-size: large;">We simply have the best coaches assigned ....</span>
+</p>
+<p style="padding-bottom: 0.35em; border: 0px; color: #000000; line-height: 18px;">
+   
+</p>
+<p style="padding-bottom: 0.35em; border: 0px; color: #000000; line-height: 18px;">
+  <span style="font-family: inherit; font-size: large;">How to Register your player:</span>
+</p>
+<ul style="padding-right: 0px; padding-left: 0px; border: 0px; color: #000000; line-height: 18px;">
+  <li style="padding: 0px; border: 0px; font-weight: inherit; font-style: inherit;">
+    <span style="font-style: inherit; font-weight: inherit;"><span style="font-family: inherit; font-size: large;">click on the Registration link - Register Now</span></span>
+  </li>
+</ul>
+<div style="line-height: 22.7199974060059px; font-family: inherit;">
+   
+</div>
+<div style="line-height: 22.7199974060059px; font-family: inherit;">
+   
+</div>
+<div style="line-height: 22.7199974060059px; font-family: inherit;">
+  <span style="font-size: large;"><strong style="line-height: 22.7199974060059px;"><em style="line-height: 22.7199974060059px;"><span style="line-height: normal; color: #444444;">Got any question?
+  contact us at</span></em></strong> <strong style="line-height: 17.1944961547852px; font-family: inherit;"><a href="mailto:soccer@moscowunited.org"><span style=
+  "line-height: normal; color: #0000ff;">soccer@moscowunited.org</span></a></strong></span>
+</div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						March Practice Schedule					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p class="ecxMsoNormal">
+  All listed practices at the WSU turf unless otherwise noted
+</p>
+<p class="ecxMsoNormal">
+  <a href="http://www.moscowunited.org/home.php?layout=870840"><span style="color: #0000ff;">Click here to see a full listing of March MUSC practices</span></a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Mission Statement					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-size: 18pt;"><strong><span style="color: #33aaff;"><span style=
+  "padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 18pt; font-family: inherit;"><span style=
+  "padding: 0px; border: 0px; font-weight: bolder; font-style: inherit; font-family: inherit;"><span style=
+  "padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; color: #33aaff;">Mission Statement</span></span></span></span></strong></span>
+</p>
+<p>
+  <span style="font-size: 14pt;">Our mission is to assist in the physical, mental and character development of each player through the game of soccer. MUSC is dedicated to providing <span style=
+  "text-decoration: underline;">Moscow and surrounding area</span> youth the opportunity to <span style="text-decoration: underline;">achieve</span> and <span style=
+  "text-decoration: underline;">enjoy</span> the highest attainable level of team soccer in both recreational and competitive formats.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						NWL Referee Info					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><div>
+  <span>Below are links to a new policy that the NWL has put in place starting this season. Please review it carefully and ask that all of your players/families review it carefully.</span>
+</div>
+<blockquote>
+  <div>
+    <strong><span style="text-decoration: underline;"><span style="color: #000000;">Referee Abuse Policy </span></span></strong>
+  </div>
+  <div>
+    <a href="http://www.idahoyouthsoccer.org/UserFiles/file/D3%20League/Referee_Abuse.pdf" target="_blank"><span style=
+    "color: #0000cc;">http://www.idahoyouthsoccer.org/UserFiles/file/D3%20League/Referee_Abuse.pdf</span></a>
+  </div>
+</blockquote>
+<div>
+  <span>Also, you are encouraged to complete a</span><span> </span><span style="text-decoration: underline;">referee evaluation</span><span> when you feel compelled to share how you think any referee
+  who works your team's games does...GOOD or BAD. Idaho Youth Soccer Association and the Idaho Soccer Referee Committee would like to hear your thoughts and comments about referees in our
+  area.</span><span> </span><em><span style="text-decoration: underline;">The evaluation form is thru Survey Monkey and is an online survey.</span></em>
+</div>
+<div>
+  <span style="color: #000000;"><span> </span></span>
+</div>
+<blockquote>
+  <strong><span style="text-decoration: underline;"><span style="color: #000000;">Referee Evaluation</span></span></strong>
+  <div>
+    <a href="https://www.surveymonkey.com/s/GRMVJJN" target="_blank"><span style="color: #0000cc;">https://www.surveymonkey.com/s/GRMVJJN</span></a>
+  </div>
+</blockquote></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Moscow United Board of Directors—Meetings and Announcements					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <strong><span><img src="http://www.moscowunited.org/imagedata/animatedsoccerball0112t.gif" border="0" /></span></strong>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 18pt;"><strong><span style="color: #33aaff;"><span style=
+  "padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 18pt; font-family: inherit;"><span style=
+  "padding: 0px; border: 0px; font-weight: bolder; font-style: inherit; font-family: inherit;"><span style=
+  "padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; color: #33aaff;">MUSC 2014-2015 Board Meeting</span></span></span></span></strong></span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 13.5pt; color: #444444;">Thursday, April 16th, 2015</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 13.5pt; color: #444444;">7:00 pm</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 13.5pt; color: #444444;">Facilities conference room<br /></span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 13.5pt; color: #33aaff;">Attention Parents!!</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 13.5pt; color: #444444;">You are enthusiastically invited to attend the Board Meeting.</span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 13.5pt; color: #444444;">See you there!</span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p>
+   
+</p>
+<p>
+   
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Thank you to our sponsors!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.moscowunited.org/imagedata/logoFirstStep.jpg" /></div><div class="slide"><img src="http://www.moscowunited.org/imagedata/logoSprenger.jpg" /></div><div class="slide"><img src="http://www.moscowunited.org/imagedata/moscowmountainptad.jpg" /></div><div class="slide"><img src="http://www.moscowunited.org/imagedata/30625_1460214274584_1510237038_31174136_3088058_n.jpg" /></div><div class="slide"><img src="http://www.moscowunited.org/imagedata/Bennett_Lumber_Products.gif" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Financial Assistance					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center; color: #000000; font-size: 9pt;">
+  <span style="font-family: arial, helvetica, sans-serif;"><span style="color: #33aaff;"><span style="font-size: x-small;"><strong><span style="color: #33aaff;"><span style=
+  "font-size: small;">Financial Assistance<br />
+  Policy and Application</span></span><br /></strong></span></span></span><strong><em><a href="http://www.moscowunited.org/home.php?layout=307075"><span style=
+  "color: #0055cc;">more info</span></a></em></strong>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Cleat Swap					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <img style="border: px solid;" src="http://www.moscowunited.org/imagedata/cleats.jpg" border="0" width="100" /><span style="font-family: arial, helvetica, sans-serif;">If you need a pair of cleats,
+  or want to donate some that you no longer use, send an e-mail to <a href="mailto:vanessasuquet@gmail.com"><strong><span style="color: #0055cc;">Vanessa Suquet</span></strong></a> for more
+  details.</span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <a href="http://www.tshirtsink.com/index.php/athletic/musc.html" target="_blank"><img src="http://www.moscowunited.org/imagedata/MUSC_Order_Block.jpg" border="0" /></a>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Follow us on Twitter					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="TwitterTrinket">
+			<a href="//twitter.com/MoscowUSoccer" class="twitter-follow-button" data-show-count="false">Follow @MoscowUSoccer</a>
+			<ul class="TwitterTrinket-feed">
+						<li class="tt-tweet tt-last">
+			<a class="tt-date" data-datetime="2013-06-24T23:38:20+0000" href="//twitter.com/MoscowUSoccer/statuses/349310552931188737">
+				<time title="Time posted: 24 Jun 2013, 23:38:20 (GMT+0000)" datetime="2013-06-24T23:38:20+0000" pubdate>
+				24 Jun				</time>
+			</a>
+
+			<a class="tt-nametag" href="//twitter.com/MoscowUSoccer">
+				<img class="tt-profile-photo" src="https://pbs.twimg.com/profile_images/2559894019/soccer-ball1_normal.png" width="48" height="48"/>
+				<span class="tt-fullname">
+					Moscow United				</span>
+				<span class="tt-nickname">@MoscowUSoccer</span>
+			</a>
+			<div class="tt-tweet-content">
+				ACADEMY CANCELLED 6/24 due to FIELD CLOSURES at OYLEAR.  Please stay off the fields tonight. <a href="//twitter.com/search?q=%23Oylear&src=hash">#Oylear</a> <a href="//twitter.com/search?q=%23Fieldsclosed&src=hash">#Fieldsclosed</a> <a href="//twitter.com/search?q=%23MUSC&src=hash">#MUSC</a> <a href="//twitter.com/search?q=%23academy&src=hash">#academy</a>			</div>
+		</li>
+					</ul>
+		</div>
+							</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Like us on Facebook!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <span style="font-family: arial, helvetica, sans-serif;">Check out the Facebook page for the <a href="https://www.facebook.com/pages/Moscow-United-Soccer-Club/165023370191696" target=
+  "new"><strong><span style="color: #0000ff;">Moscow United Soccer Club</span></strong> <img style="border: px solid;" src="http://www.moscowunited.org/imagedata/facebooklike.jpg"
+  border="0" width="100" align="center" /></a></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " rel="nofollow"><img src="/cm/layout/images/bonzi_logo.png" alt="Sport Scheduling Software for Teams by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Moscow United Soccer. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " rel="nofollow">Soccer League Schedule Software </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" rel="nofollow">Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

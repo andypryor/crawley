@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Welcome to  Nampa K.I.D. Soccer</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://nampakidsoccer.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://nampakidsoccer.com/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Welcome to  Nampa K.I.D. Soccer &raquo; Feed" href="http://nampakidsoccer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Welcome to  Nampa K.I.D. Soccer &raquo; Comments Feed" href="http://nampakidsoccer.com/comments/feed/" />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://nampakidsoccer.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://nampakidsoccer.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://nampakidsoccer.com/wp-content/themes/twentyfourteen/style.css?ver=3.9.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://nampakidsoccer.com/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='event_espresso_style_sheets-css'  href='http://nampakidsoccer.com/wp-content/plugins/event-espresso.3.1.20.P/templates/event_espresso_style.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://nampakidsoccer.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type='text/javascript' src='http://nampakidsoccer.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://nampakidsoccer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nampakidsoccer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nampakidsoccer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.3" />
+<link rel='canonical' href='http://nampakidsoccer.com/' />
+<link rel='shortlink' href='http://nampakidsoccer.com/' />
+<meta name='generator' content='Event Espresso Version 3.1.20.P' />	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #81d742;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; background-image: url('http://nampakidsoccer.com/wp-content/uploads/2014/11/Logo.jpg'); background-repeat: repeat; background-position: top center; background-attachment: fixed; }
+</style>
+</head>
+
+<body class="home page page-id-1485 page-template-default custom-background masthead-fixed slider">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://nampakidsoccer.com/" rel="home">Welcome to  Nampa K.I.D. Soccer</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="nav-menu"><ul><li class="page_item page-item-1485 current_page_item"><a href="http://nampakidsoccer.com/">Home</a></li><li class="page_item page-item-2536"><a href="http://nampakidsoccer.com/about-us-2/">About Us &#8211; Our Mission</a></li><li class="page_item page-item-1692 page_item_has_children"><a href="http://nampakidsoccer.com/nampa-kids/">Recreational</a><ul class='children'><li class="page_item page-item-240 page_item_has_children"><a href="http://nampakidsoccer.com/nampa-kids/register/">Register</a><ul class='children'><li class="page_item page-item-2575"><a href="http://nampakidsoccer.com/nampa-kids/register/online-registration/">Online Registration</a></li><li class="page_item page-item-2578"><a href="http://nampakidsoccer.com/nampa-kids/register/registration-form/">Registration Form</a></li><li class="page_item page-item-2582"><a href="http://nampakidsoccer.com/nampa-kids/register/scholarship-form/">Scholarship Form</a></li><li class="page_item page-item-2595"><a href="http://nampakidsoccer.com/nampa-kids/register/medical-concussion-waiver/">Medical &#038; Concussion Waiver</a></li><li class="page_item page-item-2598"><a href="http://nampakidsoccer.com/nampa-kids/register/play-up-form/">Play-Up Form</a></li><li class="page_item page-item-2601"><a href="http://nampakidsoccer.com/nampa-kids/register/change-request-form/">Change Request Form</a></li></ul></li></ul></li><li class="page_item page-item-21"><a href="http://nampakidsoccer.com/nationals-west/">Competitive</a></li><li class="page_item page-item-333"><a href="http://nampakidsoccer.com/contact-us/">Contacts</a></li><li class="page_item page-item-2964"><a href="http://nampakidsoccer.com/sponsers/">Sponsors</a></li><li class="page_item page-item-1302 page_item_has_children"><a href="http://nampakidsoccer.com/coach-corner/">Coach Corner</a><ul class='children'><li class="page_item page-item-2087"><a href="http://nampakidsoccer.com/coach-corner/u10-and-above-practice-sessions/">Age Appropriate Training Sessions</a></li><li class="page_item page-item-2697"><a href="http://nampakidsoccer.com/coach-corner/background-check-form/">Background Check Form</a></li></ul></li><li class="page_item page-item-2831"><a href="http://nampakidsoccer.com/referees-corner/">Referee’s Corner</a></li><li class="page_item page-item-1169"><a href="http://nampakidsoccer.com/board-meetings/">Meeting Information</a></li><li class="page_item page-item-1432"><a href="http://nampakidsoccer.com/maps/">Fields</a></li></ul></div>
+			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://nampakidsoccer.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			
+<article id="post-1485" class="post-1485 page type-page status-publish hentry">
+	<header class="entry-header"><h1 class="entry-title">Home</h1></header><!-- .entry-header -->
+	<div class="entry-content">
+		<h4 style="text-align: center;"><span style="color: #003366;"><span style="font-size: 16px;"><span style="color: #000080; font-size: 16px;"><span style="color: #003366;"><a href="http://nampakidsoccer.com/wp-content/uploads/2014/06/Logo1.jpg"><img class="aligncenter  wp-image-2504" src="http://nampakidsoccer.com/wp-content/uploads/2014/06/Logo1.jpg" alt="Logo" width="104" height="135" /></a></span></span></span></span></h4>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="text-decoration: underline;"><strong><span style="color: #99cc00; font-family: Times New Roman; text-decoration: underline;">REMINDER SPRING BREAK SOCCER CLINICS THIS WEEK 3/23-3/26</span></strong></span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">SKILLS CAMP $40 - Skills camp being taught by Alex Lozano, our Nationals West Director of Coaching. </span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">Focus will be on balls skills, passing, receiving and finishing.</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">6 &#8211; 8 years 11 a.m. &#8211; Noon</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">9 &#8211; 11 years Noon &#8211; 1 p.m.</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">Daily drop-ins welcome!! </span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00;"><span style="font-family: Times New Roman;">Contact Alex at </span><a href="tel:985-709-5351" target="_blank"><span style="color: #99cc00; text-decoration: underline;"><span style="color: #0000ff; font-family: Times New Roman; text-decoration: underline;">985-709-5351</span></span></a><span style="font-family: Times New Roman;"> or email at </span><a href="mailto:unitedathletic@hotmail.com" target="_blank"><span style="color: #99cc00; text-decoration: underline;"><span style="color: #0000ff; font-family: Times New Roman; text-decoration: underline;">unitedathletic@hotmail.com</span></span></a><span style="font-family: Times New Roman;"> with any questions.</span></span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">GOALKEEPER CAMP $50 - Goalkeeper Camp being taught by Oscar Ramirez our U15 Boys Head Coach and Club Goalkeeper Coach. </span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">Beginners &#8211; 5 &#8211; 6 p.m.</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">Intermediate &#8211; 6 &#8211; 7 p.m.</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">Advanced &#8211; 7 &#8211; 8 p.m.</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00; font-family: Times New Roman;">Daily drop-ins welcome!</span></h6>
+<h6 style="margin: 0in 0in 0pt; text-align: center;"><span style="color: #99cc00;"><span style="font-family: Times New Roman;">Contact Oscar at 890-1598, or email at </span><a href="mailto:ID_Goalkeepers@yahoo.com"><span style="color: #99cc00; text-decoration: underline;"><span style="color: #0000ff; font-family: Times New Roman; text-decoration: underline;">ID_Goalkeepers@yahoo.com</span></span></a><span style="font-family: Times New Roman;"> to sign up and see what Level goalkeeper camp you should attend (Beginner, Intermediate or Advanced).   More information at </span><a href="http://www.idsocceracademy.com/spring-break-camp-2015" target="_blank"><span style="color: #99cc00; text-decoration: underline;"><span style="color: #0000ff; font-family: Times New Roman; text-decoration: underline;">http://www.idsocceracademy.com/spring-break-camp-2015</span></span></a><span style="font-family: Times New Roman;"> </span></span></h6>
+<h6 style="text-align: center;"><span style="color: #000080;">MESSAGE FROM THE PRESIDENT- Exciting news about  the future of Nampa K.I.D. Soccer and Nationals West Soccer Club!, </span><a href="http://nampakidsoccer.com/wp-content/uploads/2015/03/2015-NKS-Presidential-Letter-3.0.pdf">Please select here for details!</a></h6>
+<h6 style="text-align: center;"><span style="color: #000080;"><strong>Registration is closed, there are some age groups that still have availability.  Please e-mail at nampakidsoccer@gmail.com the registrar at </strong></span><span style="color: #000080;"><strong> to verify there is <span style="color: #000080;">availability</span> in a particular age group.</strong></span></h6>
+<address style="text-align: center;"><span style="color: #99cc00;">Have a question or need some help?  </span><span style="color: #99cc00;"><span style="color: #000080; text-decoration: underline;"><a href="http://nampakidsoccer.com/contact-us/"><span style="color: #000080; text-decoration: underline;">Select  Here </span></a></span>to Contact a Member of the Board or a Coordinator.</span><span style="line-height: 1.5;"> </span></address>
+<p><a title="Login here" href="http://nampakidsoccer.com/wp-login.php">Login</a></p>
+<p style="text-align: center;"><a href="http://www.rapidcounter.com/signup.php" target="_top"><img src="http://counter.rapidcounter.com/counter/1423074424/fdg" alt="Free Web Counter" align="middle" border="0" hspace="4" vspace="2" /></a><script src="http://counter.rapidcounter.com/script/1423074424"></script></p>
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="text-10" class="widget widget_text"><h1 class="widget-title">Upcoming Events</h1>			<div class="textwidget"><p>March 2015<br />
+16th - Rec. Coaches meeting - 6:00 p.m. - 7:30 p.m. at McDonough Park</p>
+<p>April 2015<br />
+4th - Rec. Season Starts</p>
+<p>May 2015<br />
+9th - Last D3 Regular Season Games<br />
+16th - Last Rec. Regular Season Games - KIDS Fair<br />
+16th - 17th - D3 Directors Cup - Boise<br />
+22nd - 25th - D3 State Cup - Boise</p>
+</div>
+		</aside></div><!-- #content-sidebar -->
+</div><!-- #main-content -->
+
+<div id="secondary">
+	
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>March 2015</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Sunday">S</th>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev" class="pad">&nbsp;</td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td>
+	</tr>
+	<tr>
+		<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td>22</td><td>23</td><td>24</td><td id="today">25</td><td>26</td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="4">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var featuredSliderDefaults = {"prevText":"Previous","nextText":"Next"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nampakidsoccer.com/wp-content/themes/twentyfourteen/js/slider.js?ver=20131205'></script>
+<script type='text/javascript' src='http://nampakidsoccer.com/wp-content/themes/twentyfourteen/js/functions.js?ver=20140319'></script>
+<!-- 45 queries in 0.365 seconds, using 18.99MB memory --></body>
+</html>

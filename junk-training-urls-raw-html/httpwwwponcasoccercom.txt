@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Ponca City Soccer</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.poncasoccer.com/club/wp-content/themes/twentyten/style.css" />
+<link rel="pingback" href="http://www.poncasoccer.com/club/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Ponca City Soccer &raquo; Feed" href="http://www.poncasoccer.com/club/feed" />
+<link rel="alternate" type="application/rss+xml" title="Ponca City Soccer &raquo; Comments Feed" href="http://www.poncasoccer.com/club/comments/feed" />
+<link rel='stylesheet' id='genericons-css'  href='http://www.poncasoccer.com/club/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.poncasoccer.com/club/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.1' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.poncasoccer.com/club/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.poncasoccer.com/club/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='shortlink' href='http://wp.me/4AHiy' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #151421; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ponca City Soccer" />
+<meta property="og:url" content="http://www.poncasoccer.com/club/" />
+<meta property="og:site_name" content="Ponca City Soccer" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@jetpack" />
+</head>
+
+<body class="home blog custom-background">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://www.poncasoccer.com/club/" title="Ponca City Soccer" rel="home">Ponca City Soccer</a>
+					</span>
+				</h1>
+				<div id="site-description"></div>
+
+										<img src="http://www.poncasoccer.com/club/wp-content/uploads/2010/06/poncasoccer1.jpg" width="940" height="198" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-main-page-navigation" class="menu"><li id="menu-item-594" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-594"><a href="http://www.poncasoccer.com/club/">Home</a></li>
+<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-595"><a href="http://www.poncasoccer.com/club/about">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a title="Directions to Woodridge Soccer Complex" href="http://www.poncasoccer.com/club/about/directions-to-complex">Directions to Complex</a></li>
+	<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="http://www.poncasoccer.com/club/about/contacts-board">Contacts &#8211; Board</a></li>
+	<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="http://www.poncasoccer.com/club/about/next-pcsi-board-meeting">Next PCSI Board Meeting</a></li>
+</ul>
+</li>
+<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-844"><a href="http://www.poncasoccer.com/club/competitive">Competitive</a>
+<ul class="sub-menu">
+	<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-854"><a href="http://www.poncasoccer.com/club/competitive/schedules-and-information-links">Competitive Schedules, Forms, Contacts, and Information Links</a></li>
+	<li id="menu-item-858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="http://www.poncasoccer.com/club/competitive/tournaments">Tournaments</a></li>
+	<li id="menu-item-855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-855"><a href="http://www.poncasoccer.com/club/category/competitive-news">Competitive News</a></li>
+	<li id="menu-item-1464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1464"><a href="http://01boys.poncasoccer.com">01 Boys team site</a></li>
+</ul>
+</li>
+<li id="menu-item-1659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1659"><a href="http://www.poncasoccer.com/club/academy">Academy</a>
+<ul class="sub-menu">
+	<li id="menu-item-1660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1660"><a href="http://www.poncasoccer.com/club/academy/contacts">Contacts</a></li>
+	<li id="menu-item-1662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1662"><a href="http://www.poncasoccer.com/club/academy/pcsi-academy-boys">PCSI Academy Boys</a></li>
+	<li id="menu-item-1661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1661"><a href="http://www.poncasoccer.com/club/academy/pcsi-academy-girls">PCSI Academy Girls</a></li>
+</ul>
+</li>
+<li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-872"><a href="http://www.poncasoccer.com/club/coaches-corner">Coaching</a>
+<ul class="sub-menu">
+	<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="http://www.poncasoccer.com/club/coaches-corner/pcsi-player-development-guide">PCSI Player Development Guide</a></li>
+	<li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://www.poncasoccer.com/club/coaches-corner/help-for-new-coaches">Help for New Coaches</a></li>
+	<li id="menu-item-874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://www.poncasoccer.com/club/coaches-corner/training-library">Training Library</a></li>
+	<li id="menu-item-873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-873"><a href="http://www.poncasoccer.com/club/coaches-corner/education">Education</a></li>
+	<li id="menu-item-877" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-877"><a href="http://www.poncasoccer.com/club/category/coaches">Coaches News</a></li>
+</ul>
+</li>
+<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1553"><a href="http://www.poncasoccer.com/club/camps">Camps</a>
+<ul class="sub-menu">
+	<li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="http://www.poncasoccer.com/club/camps/british-soccer-camps">British Soccer Camps</a></li>
+	<li id="menu-item-1555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1555"><a href="http://www.poncasoccer.com/club/camps/osu-soccer-camp">Oklahoma State Soccer Camp</a></li>
+</ul>
+</li>
+<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-963"><a href="http://www.poncasoccer.com/club/adult-soccer">Adult Soccer</a>
+<ul class="sub-menu">
+	<li id="menu-item-964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-964"><a href="http://www.poncasoccer.com/club/category/adult-amateur">Adult Amateur News</a></li>
+</ul>
+</li>
+<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="http://www.poncasoccer.com/club/schedules">Schedules</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-596"><a href="http://www.poncasoccer.com/club/contact">PCSI Contacts</a>
+<ul class="sub-menu">
+	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a title="Directions to Woodridge Soccer Complex" href="http://www.poncasoccer.com/club/about/directions-to-complex">Directions to Complex</a></li>
+	<li id="menu-item-1437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1437"><a href="http://poncasoccer.com/mailing-list/">Join Mailing List</a></li>
+</ul>
+</li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+	<div id="nav-above" class="navigation">
+		<div class="nav-previous"><a href="http://www.poncasoccer.com/club/page/2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		<div class="nav-next"></div>
+	</div><!-- #nav-above -->
+
+
+
+
+			<div id="post-1706" class="post-1706 post type-post status-publish format-standard hentry category-coaches category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule" rel="bookmark">2015 Spring Picture Schedule</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule" title="11:18 am" rel="bookmark"><span class="entry-date">March 25, 2015</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://www.poncasoccer.com/club/wp-content/uploads/2015/03/Picture-Schedule.pdf"><img class="  alignleft wp-image-1708" src="http://www.poncasoccer.com/club/wp-content/uploads/2015/03/Picture-Schedule-1.jpg" alt="Picture-Schedule-1" width="227" height="195" /></a>Saturday March 28, 2015 at the Woodridge Soccer Complex. Every effort has been made to schedule your team&#8217;s photo session around game times. <a href="http://www.poncasoccer.com/club/wp-content/uploads/2015/03/Picture-Schedule.pdf">Schedule is posted here</a>.</p>
+<p>&nbsp;</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1706" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1706" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1706" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1706" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/coaches" rel="category tag">Coaches News</a>, <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1699" class="post-1699 post type-post status-publish format-standard hentry category-coaches category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1699/spring-soccer-signups" rel="bookmark">Spring Soccer Signups</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1699/spring-soccer-signups" title="5:26 pm" rel="bookmark"><span class="entry-date">January 9, 2015</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>Sign up Dates are as follows: <a href="http://www.poncasoccer.com/club/1699/spring-soccer-signups#more-1699" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1699" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1699" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1699" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1699" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1699/spring-soccer-signups?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/coaches" rel="category tag">Coaches News</a>, <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1696" class="post-1696 post type-post status-publish format-standard hentry category-coaches category-news category-referees">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1696/weather-cancellation" rel="bookmark">Weather Cancellation</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1696/weather-cancellation" title="5:04 pm" rel="bookmark"><span class="entry-date">November 14, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>Due to weather/wind chills all games scheduled for November 15 and 16 are postponed to November 22 and 23 at the same times on these days. If you had a game postponed from October 11, you will be contacted for your rescheduled time. Stay warm.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1696" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1696" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1696" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1696" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1696/weather-cancellation?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/coaches" rel="category tag">Coaches News</a>, <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>, <a href="http://www.poncasoccer.com/club/category/referees" rel="category tag">Referee News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1693" class="post-1693 post type-post status-publish format-standard hentry category-coaches category-news category-referees">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1693/rec-schedules-posted" rel="bookmark">Rec Schedules Posted</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1693/rec-schedules-posted" title="8:56 am" rel="bookmark"><span class="entry-date">September 16, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://www.poncasoccer.com/club/schedules">Rec Schedules are ready</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1693" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1693" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1693" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1693" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1693/rec-schedules-posted?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/coaches" rel="category tag">Coaches News</a>, <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>, <a href="http://www.poncasoccer.com/club/category/referees" rel="category tag">Referee News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1667" class="post-1667 post type-post status-publish format-standard hentry category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season" rel="bookmark">SOCCER RULES FOR THE FALL 2014 SEASON</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season" title="10:02 pm" rel="bookmark"><span class="entry-date">September 11, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/mike" title="View all posts by Michael">Michael</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>U5 &amp; U6            &#8211; Plays 3 V 3 &#8211; 8 MIN QUARTERS &#8211; SIZE 3 BALL <a href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season#more-1667" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1667" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1667" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1667" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1667" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1644" class="post-1644 post type-post status-publish format-standard hentry category-coaches category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information" rel="bookmark">Fall 2014 Signups and Information</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information" title="9:30 pm" rel="bookmark"><span class="entry-date">July 23, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>PONCA CITY SOCCER SIGNUPS<br />
+Cost $55 per player<br />
+Woodridge soccer complex On lake road <a href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information#more-1644" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1644" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1644" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1644" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1644" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1644/fall-2014-signups-and-information?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/coaches" rel="category tag">Coaches News</a>, <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1636" class="post-1636 post type-post status-publish format-standard hentry category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014" rel="bookmark">Breakaway Soccer Camp 2014</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014" title="4:04 pm" rel="bookmark"><span class="entry-date">July 2, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><img class="alignnone size-full wp-image-1640" src="http://www.poncasoccer.com/club/wp-content/uploads/2014/07/breakaway2014.jpg" alt="breakaway2014" width="766" height="574" /></p>
+<p>July 25-26<br />
+AGES 7-16<br />
+Cost: $40 per player</p>
+<p><a href="http://www.poncasoccer.com/club/wp-content/uploads/2014/07/breakaway-2014-camp.pdf">Download document for full details</a></p>
+<p>Schedule:<br />
+Sign-in/Registration: Friday, July 25 @5:30-6pm<br />
+Training: Friday, July 25 @6-8pm<br />
+Training: Saturday, July 26, @9-11am<br />
+Training: Saturday, July 26, @4-6pm</p>
+<p><a href="http://www.poncasoccer.com/club/wp-content/uploads/2014/07/breakaway-2014-camp.pdf">Download document for full details</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1636" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1636" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1636" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1636" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1636/breakaway-soccer-camp-2014?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1626" class="post-1626 post type-post status-publish format-standard hentry category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced" rel="bookmark">PC United Boys Competitive Teams Announced.</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced" title="7:18 am" rel="bookmark"><span class="entry-date">June 27, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/david" title="View all posts by David Carson">David Carson</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://www.poncasoccer.com/club/wp-content/uploads/2014/06/2014-15BoysTeams.docx">2014-15BoysTeams</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1626" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1626" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1626" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1626" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1626/pc-united-boys-competitive-teams-announced?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1620" class="post-1620 post type-post status-publish format-standard hentry category-news">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow" rel="bookmark">2014-2015 P.C. United Girls Competitive teams announced.</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow" title="3:39 pm" rel="bookmark"><span class="entry-date">June 26, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/david" title="View all posts by David Carson">David Carson</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://www.poncasoccer.com/club/wp-content/uploads/2014/06/2014-15GirlsTeams.docx">2014-15GirlsTeams</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1620" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1620" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1620" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1620" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1620/2014-2015-p-c-united-girls-teams-announced-boys-to-follow?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1575" class="post-1575 post type-post status-publish format-standard has-post-thumbnail hentry category-adult-amateur category-news category-referees">
+			<h2 class="entry-title"><a href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament" rel="bookmark">2014 Woodridge Cup Adult Amateur Tournament</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament" title="10:25 am" rel="bookmark"><span class="entry-date">June 17, 2014</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.poncasoccer.com/club/author/admin" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>Host hotel Quality Inn $79 per night while rooms are available. 580 762 8311</p>
+<p><a href="http://www.poncasoccer.com/club/wp-content/uploads/2014/05/2014woodridgeschdle.-Schedule.pdf">SCHEDULE posted click here</a></p>
+<p>2014 Woodridge Cup<br />
+Men’s / Women’s Adult Soccer Tournament <a href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament#more-1575" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1575" class="share-facebook sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1575" class="share-twitter sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1575" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-1575" class="share-pinterest sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-stumbleupon"><a rel="nofollow" data-shared="" class="share-stumbleupon sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=stumbleupon" target="_blank" title="Click to share on StumbleUpon"><span></span><span class="sharing-screen-reader-text">Click to share on StumbleUpon (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.poncasoccer.com/club/1575/2014-woodridge-cup-adult-amateur-tournament?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.poncasoccer.com/club/category/adult-amateur" rel="category tag">Adult Amateur News</a>, <a href="http://www.poncasoccer.com/club/category/news" rel="category tag">General News</a>, <a href="http://www.poncasoccer.com/club/category/referees" rel="category tag">Referee News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://www.poncasoccer.com/club/page/2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-4" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.poncasoccer.com/club/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li>		<li id="recent-posts-5" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest News</h3>		<ul>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1706/2015-spring-picture-schedule">2015 Spring Picture Schedule</a>
+							<span class="post-date">March 25, 2015</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1699/spring-soccer-signups">Spring Soccer Signups</a>
+							<span class="post-date">January 9, 2015</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1696/weather-cancellation">Weather Cancellation</a>
+							<span class="post-date">November 14, 2014</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1693/rec-schedules-posted">Rec Schedules Posted</a>
+							<span class="post-date">September 16, 2014</span>
+						</li>
+					<li>
+				<a href="http://www.poncasoccer.com/club/1667/soccer-rules-for-the-fall-2014-season">SOCCER RULES FOR THE FALL 2014 SEASON</a>
+							<span class="post-date">September 11, 2014</span>
+						</li>
+				</ul>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="footer-widget-area" role="complementary">
+
+				<div id="first" class="widget-area">
+					<ul class="xoxo">
+						<li id="meta-5" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.poncasoccer.com/club/wp-login.php">Log in</a></li>
+			<li><a href="http://www.poncasoccer.com/club/feed">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.poncasoccer.com/club/comments/feed">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</li>					</ul>
+				</div><!-- #first .widget-area -->
+
+
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+				<a href="http://www.poncasoccer.com/club/" title="Ponca City Soccer" rel="home">
+					Ponca City Soccer				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<!-- Powered by WPtouch: 3.7.5 -->	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/www.poncasoccer.com\/club\/1706\/2015-spring-picture-schedule":1706,"http:\/\/www.poncasoccer.com\/club\/1699\/spring-soccer-signups":1699,"http:\/\/www.poncasoccer.com\/club\/1696\/weather-cancellation":1696,"http:\/\/www.poncasoccer.com\/club\/1693\/rec-schedules-posted":1693,"http:\/\/www.poncasoccer.com\/club\/1667\/soccer-rules-for-the-fall-2014-season":1667,"http:\/\/www.poncasoccer.com\/club\/1644\/fall-2014-signups-and-information":1644,"http:\/\/www.poncasoccer.com\/club\/1636\/breakaway-soccer-camp-2014":1636,"http:\/\/www.poncasoccer.com\/club\/1626\/pc-united-boys-competitive-teams-announced":1626,"http:\/\/www.poncasoccer.com\/club\/1620\/2014-2015-p-c-united-girls-teams-announced-boys-to-follow":1620,"http:\/\/www.poncasoccer.com\/club\/1575\/2014-woodridge-cup-adult-amateur-tournament":1575}	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+							<script type="text/javascript">
+			jQuery(document).on('ready', function(){
+				jQuery('body').on('click', 'a.share-pinterest', function(e){
+					e.preventDefault();
+
+					// Load Pinterest Bookmarklet code
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = window.location.protocol + "//assets.pinterest.com/js/pinmarklet.js?r=" + ( Math.random() * 99999999 );
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+
+					// Trigger Stats
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = this + ( this.toString().indexOf( '?' ) ? '&' : '?' ) + 'js_only=1';
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+				});
+			});
+			</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201513'></script>
+<script type='text/javascript' src='http://www.poncasoccer.com/club/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.poncasoccer.com/club/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.poncasoccer.com/club/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.4.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201513.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.4.1',blog:'67851594',post:'0',tz:'-5'} ]);
+	_stq.push([ 'clickTrackerInit', '67851594', '0' ]);
+</script>
+</body>
+</html>

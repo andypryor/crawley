@@ -1,0 +1,292 @@
+    <!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>HOME</title>
+<meta charset="utf-8" />
+<meta name="keywords" content="Noble, Soccer, Oklahoma " />
+<meta name="description" content="Powered by BaseKit" />
+<meta name="robots" content="index,follow" />
+<meta name="rating" content="general" />
+<base href="http://www.noblesoccer.org/deadlink/" />
+<!--[if IE]>
+<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://widgets.hgsitebuilder.com/1d1f860/basekitcore.css" />
+<link rel="stylesheet" type="text/css" href="http://files.hgsitebuilder.com/hostgator407853/custom-css/custom31.css" />
+<link rel="stylesheet" type="text/css" href="http://files.hgsitebuilder.com/hostgator407853/custom-css/theme151055-31.css" />
+<link rel="stylesheet" type="text/css" href="http://widgets.hgsitebuilder.com/1d1f860/background_carousel_columns_columns-column_content_formarea_image_libraryitem_menu.css" />
+<link rel="icon" href="http://www.hgsitebuilder.com/files/writeable/uploads/hostgator407853/image/noblesoccerlogo.ico" type="image/x-icon" />
+<link rel="SHORTCUT ICON" href="http://www.hgsitebuilder.com/files/writeable/uploads/hostgator407853/image/noblesoccerlogo.ico?v=1427316812" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://www.noblesoccer.org/?startcss=true&amp;ts=1424204937" />
+<link rel="canonical" href="http://noblesoccer.org"/>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+<script type="text/javascript">!window.jQuery && document.write(unescape('%3Cscript src="/libraries/jquery/jquery-1.7.1.js"%3E%3C/script%3E'))</script>
+<script type="text/javascript" src="http://widgets.hgsitebuilder.com/1d1f860/jqueryui.js"></script>
+</head>
+<body id="bk1" class="normal theme template-content page-home">
+<!-- AB: the following banner will show if the bannerHTML field is completed against the subscription package of the account holder of the current site -->
+<script type="text/javascript"  src="http://widgets.hgsitebuilder.com/1d1f860/basekitcore.js"></script>
+<script type="text/javascript" src="http://widgets.hgsitebuilder.com/1d1f860/background_carousel_columns_columns-column_content_formarea_image_libraryitem_menu.js"></script>
+<section id="bk4" class="control-row theme-row-header row-header">
+<div class="control-row-content">
+<div id="bk5" class="bk-widget widget-columns widget-columns-VEQ37D">
+<div id="bk6" class="control-zone widget-columns-column widget-columns-column-S6Y0W3">
+<div class="widget-columns-column-padding bk-first bk-last">
+<div id="bk7" class="bk-widget widget-libraryitem widget-libraryitem-7EBU63">
+<div id="bk8" class="control-zone control-libraryitem control-libraryitem-16L945">
+<div id="bk9" class="bk-widget widget-columns widget-content-CCXBE">
+<div id="bk10" class="control-zone widget-columns-column widget-columns-column-7C3QGB">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk11" class="bk-widget widget-image widget-image-LWWF62">
+<img class="widget-image-image " src="http://files.hgsitebuilder.com/hostgator407853/image/nsclogo2.jpg" alt="Image description" title="" />
+</div>
+</div>
+</div>
+<div id="bk12" class="control-zone widget-columns-column widget-columns-column-36IQ74">
+<div class="widget-columns-column-padding bk-last">
+<ul id="bk13" class="bk-widget widget-menu center widget-menu-4PSIRS">
+<li class="widget-menu-item  bk-horizontal  widget-menu-item-firstpos">
+<a id="bk13BK9" class="widget-menu-alink widget-menu-link  widget-menu-selected " title="http://www.noblesoccer.org/home" href="http://www.noblesoccer.org/home">HOME</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk13BK10" class="widget-menu-alink widget-menu-link " title="http://www.noblesoccer.org/activities" href="http://www.noblesoccer.org/activities">ACTIVITIES</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  ">
+<a id="bk13BK11" class="widget-menu-alink widget-menu-link " title="http://www.noblesoccer.org/about" href="http://www.noblesoccer.org/about">ABOUT</a>
+</li>
+<li class="widget-menu-item  bk-horizontal  widget-menu-item-lastpos">
+<a id="bk13BK12" class="widget-menu-alink widget-menu-link " title="http://www.noblesoccer.org/contact" href="http://www.noblesoccer.org/contact">CONTACT</a>
+</li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>
+<div id="bk14" class="bk-widget widget-background widget-background-03091R">
+<div id="bk14BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk15" class="control-zone control-zone control-zone-Z174M0">
+<div id="bk16" class="bk-widget widget-background widget-background-09E788">
+<div id="bk16BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk17" class="control-zone control-zone control-zone-W7Y3S1">
+<div id="bk18" class="bk-widget widget-background widget-background-NMCP94">
+<div id="bk18BKcontent" class="bk-widget-content widget-background-content">
+<div class="widget-background-tl"></div>
+<div class="widget-background-tr"></div>
+<div class="widget-background-bl"></div>
+<div class="widget-background-br"></div>
+<div id="bk19" class="control-zone control-zone control-zone-091NG5">
+<div id="bk20" class="bk-widget widget-content widget-content-6G58F7">
+<h1>Spring 2015 Season&nbsp;| <span style="FONT-SIZE: 14px">We have
+teams for youth ages 4-19.</span></h1>
+</div></div>
+</div>
+</div>
+<div id="bk21" class="bk-widget widget-background widget-background-HODY8M">
+<div id="bk21BKcontent" class="bk-widget-content widget-background-content">
+<div class="widget-background-tl"></div>
+<div class="widget-background-tr"></div>
+<div class="widget-background-bl"></div>
+<div class="widget-background-br"></div>
+<div id="bk22" class="control-zone control-zone control-zone-36P18Q">
+<div id="bk23" class="bk-widget widget-content widget-content-319208">
+<p style="text-align: center;"><a href="/contact">MAKE SURE THAT
+YOU SIGN UP TODAY!!</a><br /></p>
+</div></div>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+<div id="bk24" class="bk-widget widget-content widget-content-37N0F4">
+<h1 style="text-align: center;"><span style=
+"color: #000000;"><strong>Noble Soccer Club - updated
+1-18-15</strong></span></h1>
+</div>
+<div id="bk25" class="bk-widget widget-background widget-background-Y0OB24">
+<div id="bk25BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk26" class="control-zone control-zone control-zone-0K5A4G">
+</div>
+</div>
+</div>
+<div id="bk27" class="bk-widget widget-columns widget-columns-VFCLT0">
+<div id="bk28" class="control-zone widget-columns-column widget-columns-column-5SKWDO">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk29" class="bk-widget widget-image widget-image-8SZ2GR">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_1.jpg" alt="Image description" title="" />
+</div>
+<div id="bk30" class="bk-widget widget-image widget-image-K3351E">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_2.jpg" alt="Image description" title="" />
+</div>
+<div id="bk31" class="bk-widget widget-image widget-image-6MQ598">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_3.jpg" alt="Image description" title="" />
+</div>
+</div>
+</div>
+<div id="bk32" class="control-zone widget-columns-column widget-columns-column-1EO7U3">
+<div class="widget-columns-column-padding">
+<div id="bk33" class="bk-widget widget-content widget-content-GQX64Y">
+<h2>Upcoming events<br /></h2>
+</div>
+<div id="bk34" class="bk-widget widget-content widget-content-ASMV50">
+<h3>Spring 2015 Registration Period is Open.</h3>
+</div>
+<div id="bk35" class="bk-widget widget-content widget-content-7FKM28">
+<p><strong>Registration deadline is February 2, 2015.</strong></p>
+<p><strong>Late Registration with late fee until February 9,
+2015.&nbsp;</strong></p>
+<p><strong>Season starts March 7, 2015.</strong></p>
+<p><strong><br /></strong></p>
+<p><span style="color: #fd0c15; font-size: 14px;"><strong>In Person
+Registrations:</strong></span></p>
+<p><strong><span>Saturday January 31, 2015 at the Noble Public
+Library. 10am-2pm</span></strong></p>
+<p>&nbsp;</p>
+<p><span style="color: #00407f;"><strong><span style=
+"font-size: 14px;">Online Registrations:</span></strong></span></p>
+<p>We offer two soccer programs. &nbsp;The first is a
+non-traveling, recreational program for younger players.
+&nbsp;Practices are in Noble at the Hubbard Elementary School or
+the Noble Soccer Complex (1/4 mile west of Hwy 77 &amp; Cemetery)
+and all games are played in Norman at the Gillis-Rother Complex on
+East Robinson. Teams are formed with same-aged youth from Noble and
+the surrounding communities and typically coached by a parent of a
+child on the team.&nbsp; Here is a direct link to the U-5 through
+U-12 (non-traveling rec) program registration page.</p>
+<p style="text-align: center;"><span style=
+"font-size: 14px; font-family: georgia, palatino; color: rgb(0, 64, 127);">
+<a href=
+"https://www.gotsport.com/asp/application/easyreg/?ProgramID=34657"
+target="_blank"><span style="color: rgb(0, 64, 127);">Click Here
+for Online Rec Team Sign Ups</span></a></span></p>
+<p>For older youth born between 8/1/95 and 7/31/02, we offer a
+traveling rec soccer program. &nbsp;Traveling rec teams practice in
+Noble (usually at Hubbard) and play home games at the Noble Soccer
+Complex. &nbsp;Away games are played against opponents from all
+over the OKC metro area and occasionally against teams from Lawton
+or Stillwater. &nbsp;Teams are typically coached by more
+experienced or licensed soccer coaches. &nbsp;Here is a direct link
+to this program's registration page.</p>
+<p><span style="font-size: 10px; color: rgb(0, 64, 127);"><a href=
+"https://www.gotsport.com/asp/application/easyreg/?ProgramID=34657"
+target="_blank"><span style="color: rgb(0, 64, 127);">Click Here
+for Online Traveling Rec Team Sign Ups</span></a></span></p>
+</div>
+<div id="bk36" class="bk-widget widget-background widget-background-J64V26">
+<div id="bk36BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk37" class="control-zone control-zone control-zone-6BJQ0T">
+</div>
+</div>
+</div>
+<div id="bk38" class="bk-widget widget-content widget-content-3KLR5W">
+<h3>Field Clean Up Day<br /></h3>
+</div>
+<div id="bk39" class="bk-widget widget-content widget-content-2N25T8">
+<p>&nbsp;We will be needing help repairing and replacing nets,
+trimming grass and painting fields at Hubbard.&nbsp; A date will be
+established soon and&nbsp;parents will be notified through the
+gotsoocer email system.&nbsp;&nbsp;Please come out and help if you
+can.&nbsp; Thank you to all of those who have donated time and
+energy to help the club continue to grow and improve.</p>
+</div>
+<div id="bk40" class="bk-widget widget-background widget-background-AC250C">
+<div id="bk40BKcontent" class="bk-widget-content widget-background-content">
+<div id="bk41" class="control-zone control-zone control-zone-5FC4L1">
+</div>
+</div>
+</div>
+<div id="bk42" class="bk-widget widget-content widget-content-6OGH45">
+<h3>Volunteer Coaches<br /></h3>
+</div>
+<div id="bk43" class="bk-widget widget-content widget-content-929UZ6">
+<p>The Club is always in need of willing, volunteer coaches for our
+youth soccer program.&nbsp; To encourage increased participation,
+the Coaching Discount will&nbsp;continue to be&nbsp;$35.&nbsp; All
+new and returning coaches are provided training and coaching
+materials as well as 100% reimbursement for completed coaching
+courses administered by the Oklahoma Soccer Association.&nbsp; If
+you are interested in becoming a coach or would like more
+information about coaching, please contact our Coaching
+Coordinator, Matt Maxwell, at
+coachingcoordinator@noblesoccer.org.<br /></p>
+</div>
+</div>
+</div>
+<div id="bk44" class="control-zone widget-columns-column widget-columns-column-29X054">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk45" class="bk-widget widget-image widget-image-9G5J2K">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_4.jpg" alt="Image description" title="" />
+</div>
+<div id="bk46" class="bk-widget widget-image widget-image-QK8Q58">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_5.jpg" alt="Image description" title="" />
+</div>
+<div id="bk47" class="bk-widget widget-image widget-image-23C45P">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_home_image_6.jpg" alt="Image description" title="" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="bk48" class="control-row theme-row-footer row-footer">
+<div class="control-row-content">
+<div id="bk49" class="bk-widget widget-columns widget-columns-O6859B">
+<div id="bk50" class="control-zone widget-columns-column widget-columns-column-96SLAZ">
+<div class="widget-columns-column-padding bk-first bk-last">
+<div id="bk51" class="bk-widget widget-libraryitem widget-libraryitem-PS5T53">
+<div id="bk52" class="control-zone control-libraryitem control-libraryitem-K39V4N">
+<div id="bk53" class="bk-widget widget-columns widget-columns-JP839C">
+<div id="bk54" class="control-zone widget-columns-column widget-columns-column-3D6L2O">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk55" class="bk-widget widget-columns widget-columns-D836M6">
+<div id="bk56" class="control-zone widget-columns-column widget-columns-column-M266Q8">
+<div class="widget-columns-column-padding bk-first">
+<div id="bk57" class="bk-widget widget-image widget-image-023WPG">
+<a class="widget-image-link" href="http://www.facebook.com/groups/57014558739/" target="_blank">
+<img class="widget-image-image " src="http://www.hgsitebuilder.com/files/writeable/uploads/basekit-template-images/hostgator635_facebook_32.png" alt="Image description" title="" />
+</a>
+</div>
+</div>
+</div>
+<div id="bk58" class="control-zone widget-columns-column widget-columns-column-5X0N41">
+<div class="widget-columns-column-padding">
+</div>
+</div>
+<div id="bk59" class="control-zone widget-columns-column widget-columns-column-5Y04SX">
+<div class="widget-columns-column-padding">
+</div>
+</div>
+<div id="bk60" class="control-zone widget-columns-column widget-columns-column-3VHK9H">
+<div class="widget-columns-column-padding">
+</div>
+</div>
+<div id="bk61" class="control-zone widget-columns-column widget-columns-column-67V8JM">
+<div class="widget-columns-column-padding bk-last">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="bk62" class="control-zone widget-columns-column widget-columns-column-Q75V9W">
+<div class="widget-columns-column-padding bk-last">
+<div id="bk63" class="bk-widget widget-content widget-content-PC55TU">
+<p style="text-align: right;"><span style=
+"color: rgb(0, 0, 0); font-size: 14px;"><strong>Copyright | Trac
+&amp; Fields 2011</strong></span><br /></p>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript"  src="http://www.noblesoccer.org/?startjs=true&amp;ts=1424204937"></script>
+<img class="page-tracking-pixel" src="//d3svzs8y5qq92x.cloudfront.net/pixel.gif?b=hostgator&amp;e=live" width="1" height="1" alt="" title="" />
+</body>
+</html>

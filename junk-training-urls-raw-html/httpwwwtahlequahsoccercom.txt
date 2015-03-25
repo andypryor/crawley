@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Tahlequah Soccer | Tahlequah Soccer Club</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.tahlequahsoccer.com/xmlrpc.php" />
+
+
+<link rel="alternate" type="application/rss+xml" title="Tahlequah Soccer &raquo; Feed" href="http://www.tahlequahsoccer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tahlequah Soccer &raquo; Comments Feed" href="http://www.tahlequahsoccer.com/comments/feed/" />
+
+<style type='text/css'>
+	table.leaguemanager th { background-color: #dddddd }
+</style><link rel='stylesheet' id='announcer-css-css'  href='http://www.tahlequahsoccer.com/wp-content/plugins/announcer/public/announcer-styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my-calendar-style-css'  href='http://www.tahlequahsoccer.com/wp-content/plugins/my-calendar/styles/refresh.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='livingjournal_style-css'  href='http://www.tahlequahsoccer.com/wp-content/themes/living-journal/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.tahlequahsoccer.com/wp-includes/css/dashicons.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.tahlequahsoccer.com/wp-includes/js/thickbox/thickbox.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='leaguemanager-css'  href='http://www.tahlequahsoccer.com/wp-content/plugins/leaguemanager/style.css?ver=1.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-content/plugins/announcer/public/announcer-js.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-content/themes/living-journal/library/js/modernizr-2.6.1.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-content/themes/living-journal/library/js/scripts.js?ver=1.0.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tahlequahsoccer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tahlequahsoccer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+
+<style type="text/css">
+<!--
+.mcjs .mc-main .details, .mcjs .mc-main .calendar-events { display: none; }
+/* Styles by My Calendar - Joseph C Dolson http://www.joedolson.com/ */
+
+.mc-event-visible {
+display: block!important;
+}
+-->
+</style>
+<script type='text/javascript'>
+jQuery('html').addClass('mcjs');
+jQuery(document).ready(function($) { $('html').removeClass('mcjs') });
+</script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.tahlequahsoccer.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-content/plugins/leaguemanager/leaguemanager.js?ver=3.8.8.5'></script>
+		<script type="text/javascript">
+		//<![CDATA[
+		LeagueManagerAjaxL10n = {
+			blogUrl: "http://www.tahlequahsoccer.com", pluginPath: "/home/tscpresident/public_html/wp-content/plugins/leaguemanager", pluginUrl: "http://www.tahlequahsoccer.com/wp-content/plugins/leaguemanager", requestUrl: "http://www.tahlequahsoccer.com/wp-content/plugins/leaguemanager/ajax.php", Edit: "Edit", Post: "Post", Save: "Save", Cancel: "Cancel", pleaseWait: "Please wait...", Revisions: "Page Revisions", Time: "Insert time", Options: "Options", Delete: "Delete"
+	 	}
+		//]]>
+		</script>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #233f5e; background-image: url('http://www.tahlequahsoccer.com/wp-content/themes/living-journal/library/images/bg.png'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+</head>
+
+<body class="home blog custom-background tribe-bar-is-disabled single-author">
+<div id="container">
+	<header id="branding" role="banner">
+      <div id="inner-header" class="clearfix">
+		<hgroup id="site-heading">
+			<!--<h1 id="site-title"><a href="http://www.tahlequahsoccer.com/" title="Tahlequah Soccer" rel="home">Tahlequah Soccer</a></h1>-->
+			<!--<h2 id="site-description">Tahlequah Soccer Club</h2>-->
+					
+
+					<div style="max-width:976px;" >
+						<div style="max-width:400px; margin-right:auto; margin-left:auto;">
+					<img src="/wp-content/uploads/2014/01/soccer-logo-high-res-trans.png" />
+						</div>
+						
+					</div>
+					
+	
+		</hgroup>
+
+		<nav id="access" role="navigation">
+			<h1 class="assistive-text section-heading">Main menu</h1>
+			<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+			<div class="menu"><ul id="menu-menu-1" class="menu"><li id="menu-item-170" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-170"><a href="http://www.tahlequahsoccer.com">Home</a></li>
+<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162"><a href="http://www.tahlequahsoccer.com/calendar-2/">Calendar</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="http://www.tahlequahsoccer.com/coaches-corner/">Coaches Corner</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://www.tahlequahsoccer.com/faqs/">FAQ&#8217;s</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="http://www.tahlequahsoccer.com/field-information/">Fields</a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://www.tahlequahsoccer.com/referee/">Referee</a></li>
+<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="http://www.tahlequahsoccer.com/schedules/">Schedules</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://www.tahlequahsoccer.com/contact-us/">Forms</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="http://www.tahlequahsoccer.com/board-members/">Board Members</a></li>
+</ul></div>			<!--<form role="search" method="get" id="searchform" class="searchform" action="http://www.tahlequahsoccer.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>-->
+		</nav><!-- #access -->
+        
+
+      </div>
+
+      
+	</header><!-- #branding -->
+    <div id="content" class="clearfix">
+        
+        <div id="main" class="col620 clearfix" role="main">
+
+			
+								
+					
+<article id="post-289" class="post-289 post type-post status-publish format-standard has-post-thumbnail hentry category-home-page-feed">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://www.tahlequahsoccer.com/home-page-feed/referee-clinic-09/" title="Permalink to REFEREE CLINIC" rel="bookmark">REFEREE CLINIC</a></h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://www.tahlequahsoccer.com/home-page-feed/referee-clinic-09/" title="9:37 pm" rel="bookmark"><time class="entry-date" datetime="2015-02-18T21:37:50+00:00">February 18, 2015</time></a><span class="byline"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://www.tahlequahsoccer.com/author/president/" title="View all posts by Chris Foreman" rel="author">Chris Foreman</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+    
+    
+
+		<div class="entry-content post_content">
+    	            <span class="imgthumb"><a href="http://www.tahlequahsoccer.com/home-page-feed/referee-clinic-09/" rel="bookmark" title="REFEREE CLINIC"><img width="125" height="125" src="http://www.tahlequahsoccer.com/wp-content/uploads/2014/02/USSF-Referee-Patch-150x150.jpg" class="attachment-150x125 wp-post-image" alt="USSF Referee Patch" /></a></span>       
+    			<p>Tahlequah SC will be hosting a 08 Referee Clinic.  This clinic will be for referees that have already completed the 09 referee clinic.  It is a 9 hour clinic starting on Friday at 6:00PM and ending on Saturday at 4:00PM.  Tahlequah SC is always looking for new referees, if you are interested please contact us at <a href=“mailto:info@tahlequahsoccer.com,president@tahlequahsoccer.com">info@tahlequahsoccer.com</a><br />
+</br><br />
+<strong>Location:</strong>  Century 21 Conference Room<br />
+<strong>Date &#038; Time:</strong>  02/27/15 @ 6:00PM and 02/28/15 @ 9:00AM<br />
+<strong>Cost:</strong>  $60.00 (additional fees may apply)<br />
+<strong>Contact:</strong>   Ronnie Neal</p>
+<p>Additional information on OSA website <a href="http://www.oksoccer.com/referees/scheduled_classes.aspx" title="OSA Referee Site" target="_blank">click here</a></p>
+<p>To register as a new referee for 2014/2015 by taking an 09 class, for an 09 taking an 08 class, and for referees registered for 2013, OSA has created an online process to speed up the registration process and allow online training.<br />
+<a href="https://www.gotsport.com/asp/application/reg/?ProgramID=35113&#038;Type=OFFICIAL" title="Register Here" target="_blank">Register Here</a><br />
+</br></p>
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					
+					
+		
+			</footer><!-- #entry-meta -->
+</article><!-- #post-289 -->
+
+				
+				
+			
+        </div> <!-- end #main -->
+
+        		<div id="sidebar" class="widget-area col300" role="complementary">
+						<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.tahlequahsoccer.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">Quick Links</h2><div class="menu-quick-links-container"><ul id="menu-quick-links" class="menu"><li id="menu-item-240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="http://www.tahlequahsoccer.com/wp-content/uploads/2014/05/Official-Registration-Form.pdf">Official Registration Form</a></li>
+<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459"><a href="http://www.tahlequahsoccer.com/bylaws-policies/">Bylaws &#038; Policies</a></li>
+<li id="menu-item-261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-261"><a href="https://www.rainedout.net/team_page.php?a=8f355ac9fc7a2694bbbf">Subscribe to Text Alerts</a></li>
+<li id="menu-item-462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-462"><a href="http://www.oksoccer.com/tournaments/sanctioned_tournaments.aspx">Tournaments</a></li>
+<li id="menu-item-241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a href="http://www.oksoccer.com/default.aspx">OSA Website</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a href="http://www.fifa.com/">FIFA Website</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-248"><a href="http://www.fifa.com/mm/document/footballdevelopment/refereeing/81/42/36/log2013en_neutral.pdf">Laws of the Game</a></li>
+<li id="menu-item-243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-243"><a href="http://www.gotsoccer.com">GotSoccer</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-250"><a href="https://www.facebook.com/TahlequahSoccerClub">Facebook Us</a></li>
+</ul></div></aside><aside id="my_calendar_upcoming_widget-3" class="widget widget_my_calendar_upcoming_widget"><h2 class="widget-title">Upcoming Events</h2><ul id='upcoming-events'>
+<li class="past-event"><strong>February 27, 2015</strong><br /> – 08 Referee Clinic<br /><span></span></li>
+
+<li class="past-event"><strong>March 7, 2015</strong><br /> – Spring 2015 Opening Day<br /><span></span></li>
+</ul></aside>		</div><!-- #secondary .widget-area -->
+
+    </div> <!-- end #content -->
+        
+	<footer id="colophon" role="contentinfo">
+       <div class="footer-wrap">
+		<div id="site-generator">
+			&copy; TAHLEQUAH SOCCER | Powered by AeroLight Technologies, LLC                        <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform"></a>
+			<a href="http://citizenjournal.net/"></a>
+             
+		</div>
+      </div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+<script type='text/javascript'>
+	(function( $ ) { 'use strict'; 
+
+$(function() {
+  $(".calendar-event").children().not(".event-title").hide();
+  $(document).on("click", ".calendar-event .event-title",
+     function(e) {
+         e.preventDefault(); // remove line if you are using a link in the event title
+		$(this).parent().children().not(".event-title").toggle();
+	 });
+  $(document).on("click", ".calendar-event .close",
+     function(e) {
+         e.preventDefault();
+		$(this).parent().toggle();
+	 });
+	});
+$(function() {
+  $("li.mc-events").children().not(".event-date").hide();
+  $("li.current-day").children().show();
+  $(document).on("click", ".event-date",
+     function(e) {
+	 e.preventDefault();
+	 $(this).parent().children().not(".event-date").toggle();
+     });
+});
+$(function() {
+  $(".mini .has-events").children().not(".trigger").hide();
+  $(document).on("click", ".mini .has-events .trigger",
+     function(e) {
+	 e.preventDefault();	 
+	 $(this).parent().children().not(".trigger").toggle(); 
+	 });
+  $(document).on("click", ".mini-event .close",
+     function(e) {
+         e.preventDefault();
+	 $(this).parent().parent().parent().toggle();
+	 });
+});
+	}(jQuery));
+</script><script type='text/javascript' src='http://www.tahlequahsoccer.com/wp-content/plugins/leaguemanager/admin/js/ajax.js?ver=3.8.8.5'></script>
+
+</body>
+</html>
+
+ <!-- to display name in footer . esc_attr( get_bloginfo( '', '' ) ) -->

@@ -1,0 +1,425 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>YUKON SOCCER CLUB  YUKON, OKLAHOMA</title>
+<link rel="stylesheet" type="text/css" href="css/newysc_style.css">
+<link REL="shortcut icon" href="images/soccerred2.ico"></link>
+<link REL="icon" href="images/soccerred2.ico"></link>
+
+<script type="text/javascript">
+      
+/***********************************************
+ Save* Ultimate Fade-In Slideshow (v1.51): ? Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+//fadeimages[0]=["ads/ad_pictureman.jpg", "mailto:top.jackson@cox.net?subject=YSC Website", ""] //plain image syntax
+fadeimages[0]=["ads/ad_crosslands.jpg", "http://www.crosslandsrental.com/", "_new"] //plain image syntax
+fadeimages[1]=["ads/ad_support.jpg", "mailto:support@yukonsoccer.net", ""] //plain image syntax
+fadeimages[2]=["ads/dickslogo.jpg", "http://www.dickssportinggoods.com", "_new"] //plain image syntax
+//fadeimages[2]=["ads/ad_rdb.jpg", "http://www.reddirtbrothersguitars.com/", "_new"] //plain image syntax
+//fadeimages[3]=["ads/ad_advocacy.jpg", "mailto:advocacy2@coxinet.net?subject=YSC Website", ""] //plain image syntax
+//fadeimages[4]=["ads/ad_smlandscaping.jpg", "mailto:smlandscaping1@sbcglobal.net?subject=YSC Website", ""] //plain image syntax
+//fadeimages[3]=["ads/ad_allie.jpg", "http://www.allieoverton.com", "_new"] //plain image syntax
+//fadeimages[4]=["ads/ad_cchok.jpg", "http://www.cchok.com", "_new"] //plain image syntax
+//fadeimages[6]=["ads/ad_familythreadz.jpg", "http://www.familythreadz.com", "_new"] //plain image syntax
+
+var fadeimages2=new Array() //2nd array set example. Remove or add more sets as needed.
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages2[0]=["photos/photo_6.jpg", "", ""] //plain image syntax
+fadeimages2[1]=["photos/photo_6.jpg", "", ""] //plain image syntax
+fadeimages2[2]=["photos/photo_3.jpg", "", ""] //plain image syntax
+fadeimages2[3]=["photos/photo_4.jpg", "", ""] //plain image syntax
+fadeimages2[4]=["photos/photo_1.jpg", "", ""] //plain image syntax
+//fadeimages2[6]=["photos/photo_4.jpg", "", ""] //plain image syntax
+//fadeimages2[7]=["photos/photo_17.jpg", "", ""] //plain image syntax
+//fadeimages2[8]=["photos/photo_5.jpg", "", ""] //plain image syntax
+//fadeimages2[9]=["photos/photo_13.jpg", "", ""] //plain image syntax
+//fadeimages2[10]=["photos/photo_6.jpg", "", ""] //plain image syntax
+//fadeimages2[11]=["photos/photo_7.jpg", "", ""] //plain image syntax
+//fadeimages2[12]=["photos/photo_14.jpg", "", ""] //plain image syntax
+//fadeimages2[13]=["photos/photo_8.jpg", "", ""] //plain image syntax
+//fadeimages2[14]=["photos/photo_15.jpg", "", ""] //plain image syntax
+//fadeimages2[15]=["photos/photo_9.jpg", "", ""] //plain image syntax//fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+//fadeimages2[16]=["photos/photo_1.jpg", "", ""] //plain image syntax//fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+//fadeimages2[1]=["photo2.jpg", "http://www.cssdrive.com", ""] //image with link syntax
+//fadeimages2[2]=["photo3.jpg", "http://www.javascriptkit.com", "_new"] //image with link and target syntax
+ 
+var fadebgcolor="black"
+
+////NO need to edit beyond here/////////////
+ 
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+ 
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+
+</script>
+
+</head>
+
+
+
+<body bgcolor="#000000">
+<div id="banner"><img src="images/YSCheader.jpg" /></div>
+<div id="menu_top"><a href="default.asp">Home</a> | <a href="recreational.asp">Recreational</a> | <a href="academy.asp">Academy</a> | </a><a href="competitive.asp">Competitive</a> | <a href="ref.asp">Referees</a> | <a href="schedules.asp">Schedules</a> | <a href="yscadmin.asp">Admin</a></a></div>
+
+<table valign="top" width="950" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="150" rowspan="2" align="left" valign="top">
+			<div id="left_navigation">
+	<ul style="margin-bottom: 0" >
+      <li><a href="board.asp">Board</a></li>
+	  <!--<li><a href="events.asp">Events</a></li>-->
+	  <li><a href="fields.asp">Fields</a></li>
+	  <li><a href="forms.asp">Forms</a></li>
+	  <li><a href="links.asp">Links</a></li>
+	  <li><a href="faq.asp">FAQs</a></li>
+	  <li><a href="sponsors.asp">Sponsors</a></li>
+	  <li><a href="ContactUs.asp">Contact Us</a></li>
+	</ul>
+ 
+</div>
+
+		<div class="left_address">
+	    	<p align="center" style="margin-top: 0; margin-bottom: 0;">Yukon Soccer Club</p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">PO Box 850231</p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">Yukon, OK</p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">73085</p> 
+		</div>
+		<div class="left_address">
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;"><a href="mailto:questions@yukonsoccer.net"><img src="../images/email.png" style="border-style: none"/><br>Email Us</a></p> 
+		</div>
+		<div class="left_address">
+          <p align="center" style="margin-top:0;margin-bottom:0;"><a href="../files/CONSTITUTION AND BY LAWS YUKON SOCCER CLUB, INC.pdf" target="_blank">YSC By-Laws</a><br><br></p>		
+          <p align="center" style="margin-top:0;margin-bottom:0;"><a href="../files/AMENDMENT TO THE CONSTITUTION AND BY-LAWS OF YSC, INC.pdf" target="_blank">Ammendment<br>to By-Laws</a><br><br></p>		  
+		  <p align="center" style="margin-top:0;margin-bottom:0;"><a href="../files/YUKON SOCCER CLUB RULES AND REGULATIONS BASIC.pdf" target="_blank">Rules and Regulations</a><br></p>		  
+		  <p align="center" style="margin-top:0;margin-bottom:0;"><img src="../Images/img_lightning.jpg" align="absmiddle"><br><a href="../files/LightningPolicy.pdf" target="_blank">Lightning Policy</a></p>		  		
+		</div>
+		<div class="left_address">
+		  <p align="center" style="margin-top:0;margin-bottom:0;"><a href="http://ww.facebook.com/pages/Yukon-Soccer-Club/138935877904" target="_top"><img src="../images/fb.gif" style="border-style: none"/><br>Follow us on Facebook</a></p>		
+		</div>	
+                <div class="gap_10"></div>
+                <div class="gap_10"></div>
+                <div class="left_address"><p align="center" style="margin-top: 0; margin-bottom: 0;">
+<span class="page_title">YSC AFFILIATES</span></p></div>
+		<div class="left_addressimg">
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+                      <a href="http://canadianvalleyfc.com/" target="_blank"><img src="../images/logo_cvfc.jpg" style="border-style: none"/></a>
+	          </p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+                      <a href="http://www.okfcsoccer.com/" target="_blank"><img src="../images/logo_fcsa.jpg" style="border-style: none"/></a>
+	          </p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+                      <a href="http://www.oksoccer.com/" target="_blank"><img src="../images/logo_oksa.jpg" style="border-style: none"/></a>
+	          </p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+                      <a href="http://www.usyouthsoccer.org/" target="_blank"><img src="../images/logo_usyc.jpg" style="border-style: none"/></a>
+	          </p>
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+                      <a href="http://www.fifa.com/" target="_blank"><img src="../images/logo_fifa.jpg" style="border-style: none"/></a>
+	          </p>
+               </div>	
+                <div class="gap_10"></div>
+                <div class="gap_10"></div>
+                <div class="gap_10"></div>
+                <div class="left_address"><p align="center" style="margin-top: 0; margin-bottom: 0;">
+<span class="page_title">Link to YSC</span></p></div>
+		<div class="left_addressimg">
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+			<a href="linktous.asp"><img src="../images/ysc_small.jpg" style="border-style: none"/></a><br>
+			<i>Click on logo for instructions</i>
+		</p>
+		</div>
+                <div class="gap_10"></div>
+<div class="left_addressimg">
+		  <p align="center" style="margin-top: 0; margin-bottom: 0;">
+<!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Yukon-Soccer-Club/138935877904" title="Yukon Soccer Club" target="_TOP"><img src="http://badge.facebook.com/badge/138935877904.2611.316440705.png" width="120" height="290" style="border: 0px;" /></a><!-- Facebook Badge END -->
+		</p>
+		</div>
+
+			
+    </td>
+	<td width="448" height="550" align="left" valign="top">
+		<div id="photos">
+			<script type="text/javascript">
+			//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+			new fadeshow(fadeimages2, 425, 283, 1, 5000, "R")
+			</script>
+		</div>
+		<div id="news2">
+			<div class="news_header">News</div>
+				
+					<span class ="news_title">Spring 2015 age divisions</span>
+					<div class="news_date">posted by Julie | 1/21/2015 12:46:19 PM</div>
+					<div class="news_body">SPRING 2015 AGE DIVISIONS
+Anyone born after 1/31/2011 is too young to play.<br>
+Anyone born prior to 8/1/95 is too old to play.<br>
+U-04 ('11 player)       7/31/10-1/31/11<br>
+U-05 ('10 player)	8/1/09-7/31/10<br>
+U-06 ('09 player)	8/1/08-7/31/09<br>
+U-07 ('08 player)	8/1/07-7/31/08<br>
+U-08 ('07 player)	8/1/06-7/31/07<br>
+U-09 ('06 player)	8/1/05-7/31/06<br>
+U-10 (’05 player)	8/1/04-7/31/05<br>
+U-11 ('04 player)	8/1/03-7/31/04<br>
+U-12 (‘03 player)	8/1/02-7/31/03<br>
+U-13 (‘02 player)	8/1/01-7/31/02<br>
+U-14 (‘01 player)	8/1/00-7/31/01<br>
+U-15 (‘00 player)	8/1/99-7/31/00<br>
+U-16 (‘99 player)	8/1/98-7/31/99<br>
+U-17 (‘98 player)	8/1/97-7/31/98<br>
+U-18 (‘97 player)	8/1/96-7/31/97<br>
+U-19 (‘96 player)	8/1/95-7/31/96<br>
+
+</div>
+					<div class="news_gap"></div>
+					<div class="gap_8"></div>
+					
+	   </div>
+    </td>
+    <td width="348" align="left" valign="top">
+    <div id="events2">
+	  	<div class="events_header">Field Status</div>
+			    <div class="gap_10"></div>
+				
+					<div class="news_body">Ranchwood Fields - OPEN</div>
+					<div class="news_body"></div>
+					
+					<div class="news_body">Cornwell Fields - OPEN</div>
+					<div class="news_body"></div>
+					
+					<div class="news_body">Taylor Park - OPEN</div>
+					<div class="news_body"></div>
+					
+		</div>	
+        <div id="presnotes">
+
+				
+					<span class ="news_title">Spring 2015 Schedule</span>
+					<div class="news_date">posted by Julie | 3/2/2015 6:43:49 PM</div>
+					<div class="news_body">Schedules are ready. All U4 thru U6 teams are listed under U6 Coed. First games are this Saturday. Remember no pets, smoking, vaping, glass containers or weapons at the fields. Make sure to watch your speed in the neighborhood and watch for little ones in the parking lots. See you Saturday!
+
+<a href="http://events.gotsport.com/events/Default.aspx?EventID=42831">Click here for schedule</a>
+</div>
+					<div class="gap_8"></div>
+					
+					<span class ="news_title">U5-U10 Soccer School Enrollment Open</span>
+					<div class="news_date">posted by Julie | 2/14/2015 9:11:25 PM</div>
+					<div class="news_body">The CVFC Soccer School is open to U5-U10 YSC, MYSA, and CVFC players.   For more information and to register <a href="http://canadianvalley1.webhost4life.com/store/page7.html">click here</a>.</div>
+					<div class="gap_8"></div>
+					
+					<span class ="news_title">CVFC Academy Registration</span>
+					<div class="news_date">posted by Julie | 1/21/2015 12:47:48 PM</div>
+					<div class="news_body">The Academy program is open to U7-U10 players.  Players can be rostered on both a recreational and an Academy team if they choose.  To register for academy or for more information visit the CVFC website <a href="http://www.canadianvalleyfc.com/news2.asp?id=4"> by clicking here</a>.</div>
+					<div class="gap_8"></div>
+					
+					<span class ="news_title">18 month - 3 year old program</span>
+					<div class="news_date">posted by Julie | 1/21/2015 12:44:29 PM</div>
+					<div class="news_body">The ABC (Ankle Biter Crew) and GSL (Goal Scoring League) programs for 18 month-3 year olds were a big success last Fall so they are back for Spring. Read more about the programs and register here: <a href="http://canadianvalley1.webhost4life.com/store/index.html">Click here for more info and to register</a></div>
+					<div class="gap_8"></div>
+					
+					<span class ="news_title">Spring 2015 Registation</span>
+					<div class="news_date">posted by julie | 10/29/2014 2:27:24 PM</div>
+					<div class="news_body">Registration is now closed.  We will sign up for the Fall season starting in July. </div>
+					<div class="gap_8"></div>
+					
+					<span class ="news_title">Reminder</span>
+					<div class="news_date">posted by Julie | 4/20/2010 3:30:41 AM</div>
+					<div class="news_body"><p>Yukon Soccer Club is a Tobacco Free Complex. No Weapons, No Pets, No Glass Permitted.&nbsp; Please do not practice on the Ranchwood game fields.&nbsp; Thanks for helping us keep the complex safe and in the best game day condition we can!</p></div>
+					<div class="gap_8"></div>
+					
+					<span class ="news_title">On Facebook?</span>
+					<div class="news_date">posted by Julie | 3/12/2010 1:56:57 PM</div>
+					<div class="news_body"><p><a href="http://www.facebook.com/pages/Yukon-Soccer-Club/138935877904">Become a fan</a> on facebook and get regular updates and reminders.</p></div>
+					<div class="gap_8"></div>
+								
+      </div>
+	  <div id="getinvolvedheader">
+	  	<b>Get Involved!</b><br>
+    	Every Coach and Parent has a vote at the Yukon Soccer Club board meetings. See the events schedule for our next assembly!
+	  </div>
+	  <div id="sponsorads">
+			<script type="text/javascript">
+			//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+			new fadeshow(fadeimages, 341,195, 0, 6000, 1, "R")
+			//new fadeshow(fadeimages2, 140, 225, 0, 3000, 0)
+			</script>
+	  </div>
+      <div id="events2">
+			<div class="events_header">Upcoming Events</div>
+			    <div class="gap_10"></div>
+											
+	   </div>
+		<span class ="news_title">Donate towards Taylor Park Fields</span>
+<div id="donate">
+<p>Help us get our new soccer Fields at Taylor Park completed.  Any donation large or small is appreciated!  We still need fencing, sidewalks, concession/bathroom facilities, storage, and additional sod and dirt.  Contact us at <a href="mailto:questions@yukonsoccer.net">questions@yukonsoccer.net</a> for more information.   Read more about Taylor Park <a href="http://www.yukonsoccer.net/tp_news.asp">here</a>.  Donate now using Master Card or Visa.  <br>
+<form name="PrePage" method = "post" action = "https://Simplecheckout.authorize.net/payment/CatalogPayment.aspx"> <input type = "hidden" name = "LinkId" value ="9d930797-8fcb-4226-95f5-40aa62590c25" /> <input type = "image" src ="//content.authorize.net/images/donate-blue.gif" /> </form> 
+<!-- (c) 2005, 2011. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="1c89e5d8-a734-4cd0-a9f6-c7795896bd38";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js" ></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Merchant Services</a></p> </div> 
+</div>
+<div id="events2">
+			<div class="events_header">Weather</div>
+<div id="wx_module_4574">
+   <a href="http://www.weather.com/weather/local/73099">Yukon Weather Forecast, OK (73099)</a>
+</div>
+
+<script type="text/javascript">
+
+   /* Locations can be edited manually by updating 'wx_locID' below.  Please also update */
+   /* the location name and link in the above div (wx_module) to reflect any changes made. */
+   var wx_locID = '73099';
+
+   /* If you are editing locations manually and are adding multiple modules to one page, each */
+   /* module must have a unique div id.  Please append a unique # to the div above, as well */
+   /* as the one referenced just below.  If you use the builder to create individual modules  */
+   /* you will not need to edit these parameters. */
+   var wx_targetDiv = 'wx_module_4574';
+
+   /* Please do not change the configuration value [wx_config] manually - your module */
+   /* will no longer function if you do.  If at any time you wish to modify this */
+   /* configuration please use the graphical configuration tool found at */
+   /* https://registration.weather.com/ursa/wow/step2 */
+   var wx_config='SZ=300x250*WX=FWC*LNK=RCTN*UNT=F*BGI=seasonal2*MAP=null|null*DN=yukonsoccer.net*TIER=0*PID=1141125119*MD5=3a368f9734bb25da4d5ac15be8aae9cb';
+
+   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target='+wx_targetDiv+'"></scr'+'ipt>');  
+</script>
+</div>
+  		</table>
+	</td>
+  </tr>
+</table>
+<div id="footer_1">
+  <span class="copyright">?2009 by Yukon Soccer Club </span>   
+</div>                                                                                                                                                                                      
+</body>
+</html>
+

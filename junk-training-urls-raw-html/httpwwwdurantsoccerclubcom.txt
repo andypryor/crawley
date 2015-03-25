@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Durant Soccer Club : Home</title>
+		<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+		<!--[if lte IE 6]>
+			<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="screen" />
+		<![endif]-->
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+		function animate_messages() {
+			$('#message').queue(function () {
+				$(this).hide('slow');
+				$(this).dequeue();		
+			});
+			$('#message').queue(function () {
+	  			$(this).load('/messages/redbox/'+$('#next').val());
+	      		$.get('/messages/next/'+$('#next').val(), function(data) {
+    	  			$('#next').val(data);
+      			});
+				$(this).dequeue();
+			});
+			$('#message').queue(function() {
+				$(this).slideDown('slow');
+				$(this).dequeue();
+			});
+		}
+      	$(document).ready(function() {
+      		animate_messages();
+			setInterval('animate_messages()',10000);
+      	});
+		</script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-3488543-27']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>		
+	</head>
+	<body>
+		<div id="main">
+			<div id="banner"></div>
+			<div id="red_line">
+				<div id="message">&nbsp;</div>&nbsp;&nbsp;
+			</div><input type="hidden" value="57" id="next" />
+			<div id="navigation">
+				<a href="/">Home</a>
+				<a href="/contact">Contact Information</a>
+				<a href="/schedule">Event Schedule</a>
+				<a href="/galleries">Photo Albums</a>
+				<a href="/divisions">Fees and Divisions</a>
+				<a href="/links">Related Links</a>
+				<a href="/bulletin">Bulletin</a>
+				<a href="/documents">Documents</a>
+				<a href="/coaches_corner">Coaches Corner</a>
+				
+				<a href="http://www.oksoccer.com">Ok Soccer Assoc.</a><a href="http://www.durantsoccerclub.com/files/file/COACHES_CODE_OF_CONDUCT[1].doc">Code of Conduct</a><a href="http://www.facebook.com/pages/edit/?id=263058471951&sk=basic#!/pages/Durant-Soccer-Club/263058471951">Facebook Page</a><a href="http://www.durantsoccerclub.com/files/file/Rules_of_Play_2011.pdf">Rules of Play</a><a href="http://texomasoccer.gotsport.com/clubsite/?p=3957">Texoma Soccer</a><a href="http://www.durantsoccerclub.com/files/file/U4_U5_schedules.pdf">U4-U5 schedules</a><a href="http://www.durantsoccerclub.com/files/file/U6_U7_schedules.pdf">U6-U7 schedules</a><a href="http://www.durantsoccerclub.com/files/file/U6_U7_schedules.pdf">U8 schedules</a><a href="http://www.durantsoccerclub.com/files/file/U10_schedules.pdf">U10 schedules</a>			</div>
+			<div id="content">
+				<div class="content">
+<h2>Welcome</h2><div class="post">	<p class="title">Schedules <span class="date"> - Today, 13:17</span></p>	<p>All schedules have been updates as of 3-25-15.
+
+All schedules have been updated as of 3-13-15.
+
+U4-U5 schedule and U8 schedules have been updated as of 3-11-15
+
+Schedules have been updated as of 3-10-15.</p></div><hr /><div class="post">	<p class="title">Website updates <span class="date"> - Mar 1st, 21:49</span></p>	<p>The coach's information on the website has been updated for the Spring 15 season.
+
+The proposed by-laws for Fall 2015 have been posted in the Documents section with the proposed changes in red.
+
+The new Coach's Code of Conduct has also been posted in the Documents section.</p></div><hr /><div class="post">	<p class="title">Weather Policy <span class="date"> - Sep 14th 2012, 21:43</span></p>	<p><p style="text-align: center"><font class="Apple-style-span" color="#339966" size="2"><span style="font-size: large; "><b>A note to parents and coaches. We play soccer in the rain. If it's a hard driving rain, or lightning, we have a lightning detector, and will call the game if needed. The fields at the Multi-Sports Complex will take a good 2-3&quot; of rain before they are unplayable. If the fields are unplayable and we have to cancel, it will be posted to the website. Please check the website often. If your kids play U12 and up, go to www.texomasoccer.org &nbsp;to get cancellation and schedule updates.</b></span></font></p>
+<p style="text-align: center"><span style="font-size: large; "><span style="color: rgb(255, 0, 0); ">A very helpful tool for all parents and coaches to receive weather cancellation and soccer club updates, via text. Text the words, follow @DurantSoccerClb to 40404 &nbsp; &nbsp;This will send you any of our twitter updates via text on your phone. You don't have to have twitter to use this feature. You must type it exacty as we have it, and you'll be up and running to receive updates via text.</span></span></p></p></div><hr /><div class="post">	<p class="title">New News <span class="date"> - Sep 9th 2011, 14:42</span></p>	<p><h3 style="color: red;"><span style="font-size: medium;"><span><span style="color: rgb(0, 0, 255);"><strong><tt>
+<div style="text-align: left; margin: 0in 0in 0pt;">___________________________________</div>
+</tt></strong></span></span></span></h3>
+<p><span style="font-size: medium;"><span><span style="color: rgb(0, 0, 255);"><strong><tt><u>___________________________________</u></tt></strong></span></span></span></p>
+<p><span style="font-size: medium;"><span><span style="color: rgb(0, 0, 255);"><strong><tt><u>Practice is not allowed at the Multi-Sports Complex.&nbsp; These are game fields only.&nbsp; Teams caught practicing at the Multi-Sports Complex can be suspended from playing that week's games.&nbsp;</u></tt></strong></span></span></span><span style="font-size: small;"><span><span style="color: rgb(0, 0, 255);"><span><strong><tt><u> </u></tt></strong></span></span></span></span><span style="font-size: x-small;"><span style="color: rgb(0, 0, 255);"><tt>2-5-09</tt></span></span></p>
+<p><span style="color: rgb(0, 0, 255);">_______________________________________</span></p>
+<p><span style="color: rgb(0, 0, 255);">_______________________________________</span></p>
+<p><span style="color: rgb(0, 0, 255);">_______________________________________<br />
+</span></p>
+<p><span style="color: rgb(0, 0, 255);">_______________________________________</span></p></p></div><hr /><div class="post">	<p class="title">Colton Sherrill <span class="date"> - Sep 7th 2011, 21:53</span></p>	<p><p><img height="300" alt="" width="200" align="right" src="/files/image/colton.jpg" /></p>
+<p><strong>1997 &ndash; 2008</strong></p>
+<p><font face="Arial" size="2"><span style="font-size: 10pt; font-family: Arial">May God bless you and your family.<br />
+</span></font><font face="Arial" size="2"><span style="font-size: 10pt; font-family: Arial">You will be missed.</span></font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p></p></div><hr />				</div>
+			</div>
+			<div id="footer1"></div>
+			<div id="footer2">
+				<div id="footer4"></div>
+			</div>
+			<div id="footer3"></div>      
+		</div>
+		<div id="footer_text">
+			<div id="footer_text_left">
+				<a href="http://www.csdurant.com/">Site Design</a> | <a href="/sitemap">Site Map</a> | <a href="/admin/home">Site Admin</a>
+			</div>
+			<div id="footer_text_right">
+				&copy; Copyright 2015 Durant Soccer Club All Rights Reserved.
+			</div>
+		</div>
+	</body>
+</html>

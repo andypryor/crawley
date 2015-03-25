@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
+<title>Home Page</title>
+<meta name="description" content="Home Page"/>
+<meta property="og:title" content="Home Page"/>
+<meta name="title" content="Home Page"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://snakeriverstrikers.com/Home_Page.html"/>
+<meta property="og:image" content="http://snakeriverstrikers.com/images/348c635b0fe97ea281f9e8204335d771.jpg"/>
+<meta property="og:image" content="http://snakeriverstrikers.com/images/TemplateThumbnail.jpg"/>
+<meta property="og:site_name" content="snakeriverstrikers"/>
+<meta property="og:description" content="Check out http://snakeriverstrikers.com!  Home Page"/>
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+<meta http-equiv='Content-Location' content='Home_Page.html' />
+<meta name="generator" content="Starfield Technologies; Go Daddy Website Builder v6.1.6"/>
+<style type="text/css">
+body { margin:0; padding:0; }
+</style>
+<script type="text/javascript" src="scripts/imageSwap.js?1810014222"></script><script type="text/javascript">		MM_preloadImages('images/348c635b0fe97ea281f9e8204335d771.jpg');
+
+</script>
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" id="font-eastmarket.min.css" href="/dynamicfonts/style/font-EastMarket.min.css?1810014222" />
+<link rel="stylesheet" type="text/css" id="layoutcontainer.css" href="layoutcontainer.css?1810014222" />
+<link rel="stylesheet" type="text/css" id="theme.css" href="theme.css?1810014222" />
+<link rel="stylesheet" type="text/css" id="color_3.css" href="color_3.css?1810014222" />
+<link rel="stylesheet" type="text/css" id="custom.css" href="custom.css?1810014222" />
+    
+</head>
+
+<body id='page_1683c760-bee4-4d53-876a-797c1f95b8b4' >
+
+<div class="sf_outer_wrapper">
+	
+	<!-- 1 --><div class="sf_extra1"><span></span></div>
+	
+	<div class="sf_wrapper"><div style='display:block;overflow:visible;margin:0;padding:0;'><div class='sf_undocked' style='display:block;height:0;position:absolute;margin:0;padding:0;overflow:visible;width:0;top:0;z-index:999998;left:auto;'>
+</div></div>
+
+	
+		<div class="sf_navigation_top">
+			<!-- Nav:Begin -->
+			
+			<!-- Nav:End -->
+	    </div><!-- /sf_navigation_top -->
+
+		<!-- 10 --><div class="sf_extra10"><span></span></div>
+
+		<div class="sf_header_wrapper">
+
+			<!-- 2 --><div class="sf_extra2"><span></span></div>
+
+			<div class="sf_main_header">
+				<!-- MainHead:Begin -->
+				<div style="display:block;" ><font color="#000000" face="EastMarket" style="font-size: 36px;">Snake River Strikers Soccer Club</font></div>
+				<!-- MainHead:End -->
+			</div>
+
+			<!-- 3 --><div class="sf_extra3"><span></span></div>
+
+			<div class="sf_sub_header">
+				<!-- SubHead:Begin -->
+				<div style="display:block;" >Your Subtitle text</div>
+				<!-- SubHead:End -->
+			</div>
+
+		</div><!-- /sf_header_wrapper -->
+
+		<!-- 4 --><div class="sf_extra4"><span></span></div>
+
+		<div class="sf_navigation">
+			<!-- Nav:Begin -->
+			<div style="display:block;" >
+<ul id="Nav1" class="nav">
+<li class="active-nav sf_first_nav_item"><a href="Home_Page.html"  target="_self" onclick="">Home Page</a></li>
+</ul>
+</div>
+			<!-- Nav:End -->
+		</div><!-- /sf_navigation -->
+
+		<!-- 5 --><div class="sf_extra5"><span></span></div>
+
+		<div class="sf_pagetitle">
+			<!-- PageTitle:Begin -->
+			<div style="display:block;" ><h1 style="text-align: left;">Home Page</h1></div>
+			<!-- PageTitle:End -->
+		</div>
+
+		<!-- 6 --><div class="sf_extra6"><span></span></div>
+
+		<div class="sf_subnavigation">
+            <!-- Nav:Begin -->
+            
+            <!-- Nav:End -->
+        </div><!-- /sf_subnavigation -->
+
+        <!-- 11 --><div class="sf_extra11"><span></span></div>
+		
+		<div class="sf_content">
+			<!-- Content:Begin -->
+			<div class="LayoutContainer" style="display:block;" ><div><div style="display:block;overflow:hidden;" ><p style="text-align: center;"><img alt="" src="images/348c635b0fe97ea281f9e8204335d771.jpg"   /></p></div></div><div><div style="display:block;overflow:hidden;" ><p><span style="line-height: 118%; font-family: franklin gothic book; font-size: 12pt;">Finally, Competitive Soccer is here in the Mini-Cassia area.&nbsp; The Snake River Strikers Soccer Club completed it&#8217;s successful inaugural season in 2011. Now, we are looking for boy and girl soccer players between the ages 8-15 and volunteers/supporters for the 2014-15 Soccer Season. </span></p>
+<p><span style="line-height: 118%; font-family: franklin gothic book; font-size: 12pt;">The Snake River Strikers completed it&#8217;s first season with a Boys Under-10 team and a Girls Under-12 team. During 2012, we expanded teams to include: Boys U10, U12, U14 and Girls U12 &amp; U14. Teams compete in the Snake River League of Southern Idaho. In addition, we travel to a number of tournaments in Idaho and Utah.<br />
+</span></p>
+<p><span style="line-height: 118%; font-family: franklin gothic book; font-size: 12pt;">The team has the support of community members with rich backgrounds in soccer and the players will grow in skill and understanding of the game of soccer.</span></p>
+<span>
+<h3><span>What is competitive soccer?</span></h3>
+<p><span style="line-height: 118%; font-family: franklin gothic book; font-size: 12pt;">Competitive Club Soccer or Traveling Team Soccer is more than a recreation league soccer team. Think All-Star Baseball or All-Star Basketball, but for soccer teams. The goal is to attract the best soccer players in the area and compete at a Regional, State, and possibly even a National level.</span></p>
+<h3><span>What is the goal of Snake River Strikers Soccer Club?</span></h3>
+<p><span style="line-height: 118%; font-family: franklin gothic book; font-size: 12pt;">The goal of the Snake River Strikers Soccer Club is to develop an avenue for committed soccer players to develop skills that will set them apart from the recreational soccer player. We are determined to promote a love for the beautiful game of soccer, a desire to compete, and an understanding of fair play and sportsmanship with in the game. </span></p>
+</span></div></div><div><div style="display:block;overflow:hidden;" ><font style="font-size: 14px;">Contact Information:<br />
+Snake River Strikers Soccer Club<br />
+PO Box 244<br />
+Burley, ID&nbsp; 83318<br />
+(208) 312-3005<br />
+E-mail: <a href="mailto:info@snakeriverstrikers.com">info@snakeriverstrikers.com</a></font></div></div><div><div style="display:block;overflow:hidden;" ><span><span style="line-height: 118%; font-family: franklin gothic book; font-size: 12pt;"><br />
+Online Forms:<br />
+<a target="_blank" href="uploads/snake_river_strikers_registration.pdf" style="line-height: 13px ! important; font-family: arial,verdana,sans serif; font-size: 12px; font-weight: bold; text-decoration: none; background: url(/images/fileformat_file.png) no-repeat scroll left top transparent; padding-left: 30px; display: inline-block;">Snake River Strikers Registration.pdf<br />
+73.2 KB</a><br />
+<a target="_blank" href="uploads/snake_river_strikers_registration.pdf" style="line-height: 13px ! important; font-family: arial,verdana,sans serif; font-size: 12px; font-weight: bold; text-decoration: none; background: url(/images/fileformat_file.png) no-repeat scroll left top transparent; padding-left: 30px; display: inline-block;"></a><br />
+<a target="_blank" href="uploads/Medical_Release_Form.pdf" style="line-height: 13px ! important; font-family: arial,verdana,sans serif; font-size: 12px; font-weight: bold; text-decoration: none; background: url(/images/fileformat_file.png) no-repeat scroll left top transparent; padding-left: 30px; display: inline-block;">Medical Release Form.pdf<br />
+71.0 KB</a><br />
+</span></span></div></div></div>
+			<!-- Content:End -->
+		</div><!-- /sf_content -->
+
+		<!-- 12 --><div class="sf_extra12"><span></span></div>
+        
+        <div class="sf_subnavigation2">
+            <!-- Nav:Begin -->
+            
+            <!-- Nav:End -->
+        </div><!-- /sf_subnavigation2 -->
+		
+		<!-- 7 --><div class="sf_extra7"><span></span></div>
+
+		<div class="sf_footer">
+			<!-- Footer:Begin -->
+			<div style="display:block;" >Content copyright <script type='text/javascript'>document.write(new Date().getFullYear());</script>. SNAKERIVERSTRIKERS.COM. All rights reserved.</div>			
+			<!-- Footer:Begin -->
+		</div><!-- /sf_footer -->
+
+		<!-- 8 --><div class="sf_extra8"><span></span></div>
+
+	</div><!-- /sf_wrapper -->
+
+	<!-- 9 --><div class="sf_extra9"><span></span></div>
+
+</div><!-- /sf_outer_wrapper -->
+
+<div class="sf_banner">
+	<div style="display:block;" ><div style="text-align:center"><a href='http://www.godaddy.com/hosting/website-builder.aspx?isc=wscfwst304' target='_blank' rel="nofollow"><img id='bannerImage' src="images/gd_black.gif" alt='Website Builder' title='Website Builder' border='0'/></a></div></div>
+</div>
+			
+   
+</body>
+</html>

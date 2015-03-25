@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke� - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2010                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2009 by DotNetNuke Corporation" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="CYSA" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link id="Adotnetnuke_Portals__default_" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/_default/default.css" /><link id="Adotnetnuke_Portals__default_Skins_MinimalExtropy_" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/_default/Skins/MinimalExtropy/skin.css" /><link id="Adotnetnuke_Portals__default_Skins_MinimalExtropy_index_css" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/_default/Skins/MinimalExtropy/index.css" /><link id="Adotnetnuke_Portals__default_Containers_MinimalExtropy_" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/_default/Containers/MinimalExtropy/container.css" /><link id="Adotnetnuke_Portals__default_Containers_MinimalExtropy_Title_Grey_css" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/_default/Containers/MinimalExtropy/Title_Grey.css" /><link id="Adotnetnuke_Portals_0_" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/0/portal.css" /><!--[if LT IE 7]><link id="IE6Minus" rel="stylesheet" type="text/css" href="/dotnetnuke/Portals/_default/Skins/MinimalExtropy/css/ie6skin.css" /><![endif]--><script type="text/javascript" src="/dotnetnuke/Resources/Shared/Scripts/jquery/jquery.min.js" ></script><link href="/dotnetnuke/Portals/_default/Skins/_default/WebControlSkin/Default/TabStrip.Default.css" rel="stylesheet" type="text/css" /><link href="/dotnetnuke/Portals/_default/Skins/_default/WebControlSkin/Default/RibbonBar/RibbonBar.Default.css" rel="stylesheet" type="text/css" /><link href="/dotnetnuke/Portals/_default/Skins/_default/WebControlSkin/Default/RibbonBar/TabStrip.Default.css" rel="stylesheet" type="text/css" /><title>
+	CYSA > Home
+</title></head>
+<body id="Body">
+    <form name="Form" method="post" action="/dotnetnuke/default.aspx" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDIyOTEzMjkPZBYGZg8WAh4EVGV4dAV5PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPmQCAQ9kFg4CBA8WAh4HVmlzaWJsZWhkAgUPFgQeB2NvbnRlbnRkHwFoZAIGDxYCHwIFDyxEb3ROZXROdWtlLEROTmQCBw8WAh8CBShDb3B5cmlnaHQgMjAwOSBieSBEb3ROZXROdWtlIENvcnBvcmF0aW9uZAIIDxYCHwIFC0RvdE5ldE51a2UgZAIJDxYCHwIFBENZU0FkAgwPFgIfAgUNSU5ERVgsIEZPTExPV2QCAg9kFgICAQ9kFgQCBA9kFgJmD2QWGGYPZBYCZg9kFgJmDxYCHwFoFgQCAQ9kFggCAw8QZGQWAGQCBw8WAh8BaGQCCQ8WAh8BaGQCCw9kFgJmDw8WBh4ISW1hZ2VVcmwFHy9kb3RuZXRudWtlL2ltYWdlcy9jb2xsYXBzZS5naWYeDUFsdGVybmF0ZVRleHQFCE1pbmltaXplHgdUb29sVGlwBQhNaW5pbWl6ZWRkAgMPZBYEAgEPFCsAAhQrAAIPFgQeBFNraW4FB0RlZmF1bHQeE0VuYWJsZUVtYmVkZGVkU2tpbnNoZBAWBGYCAQICAgMWBBQrAAJkZBQrAAJkZBQrAAIPFgIfAWhkZBQrAAIPFgIfAWhkZA8WBGZmZmYWAQVuVGVsZXJpay5XZWIuVUkuUmFkVGFiLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjIuNzEzLjM1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDRkFgQCAg8PFgIfAWhkZAIDDw8WAh8BaGRkAgMPFCsAAmQVBAhQYWdlSG9tZQtQYWdlQ3VycmVudAhQYWdlU2l0ZQ5QYWdlSG9zdFN5c3RlbRYEAgIPDxYCHwFoZGQCAw8PFgIfAWhkZAIBD2QWCGYPFgIfAAUePGRpdiBjbGFzcz0ibGFuZ3VhZ2Utb2JqZWN0IiA+ZAICDxAPFgIfAWhkZBYAZAIEDxYCHwFoZAIGDxYCHwAFBjwvZGl2PmQCAg9kFgJmDw8WBB8FBQRDWVNBHgtOYXZpZ2F0ZVVybAUvaHR0cDovL3d3dy5jeXNhc29jY2VyLmluZm8vZG90bmV0bnVrZS9Ib21lLmFzcHhkZAIDD2QWBGYPFgIfAWgWBgIBDxAPFgoeCENzc0NsYXNzBRBTZXJ2ZXJTa2luV2lkZ2V0HwAFA1dlYh8FBRFHb29nbGUgV2ViIFNlYXJjaB4HQ2hlY2tlZGceBF8hU0ICAmRkZGQCAw8QDxYKHwkFEFNlcnZlclNraW5XaWRnZXQfAAUEU2l0ZR8FBQtTaXRlIFNlYXJjaB8KZx8LAgJkZGRkAgcPDxYGHwkFEFNlcnZlclNraW5XaWRnZXQfAAVpPGltZyBzcmM9Ii9kb3RuZXRudWtlL1BvcnRhbHMvX2RlZmF1bHQvU2tpbnMvTWluaW1hbEV4dHJvcHkvaW1hZ2VzL3NlYXJjaC5naWYiIGJvcmRlcj0iMCIgYWx0PSJTZWFyY2giIC8+HwsCAmRkAgIPFgIfAWcWBGYPDxYEHwQFFlNlbGVjdCB0aGUgc2VhcmNoIHR5cGUfBQUWU2VsZWN0IHRoZSBzZWFyY2ggdHlwZWRkAgIPDxYGHwkFEFNlcnZlclNraW5XaWRnZXQfAAVpPGltZyBzcmM9Ii9kb3RuZXRudWtlL1BvcnRhbHMvX2RlZmF1bHQvU2tpbnMvTWluaW1hbEV4dHJvcHkvaW1hZ2VzL3NlYXJjaC5naWYiIGJvcmRlcj0iMCIgYWx0PSJTZWFyY2giIC8+HwsCAmRkAgcPZBYCZg8PFgYfCQUEdXNlch8ABQhSZWdpc3Rlch8LAgJkZAIID2QWAmYPDxYGHwkFBHVzZXIfAAUFTG9naW4fCwICZGQCCQ8WAh4FY2xhc3MFFFRvcFBhbmUgRE5ORW1wdHlQYW5lZAIKDxYCHwwFFUxlZnRQYW5lIEROTkVtcHR5UGFuZWQCCw9kFgICAg9kFhACAQ8PFgIfAWhkZAIDDw8WAh8BaGRkAgUPZBYCAgIPFgIfAWgWBmYPFgIfBQUERWRpdGQCAQ8WAh8FBQZVcGRhdGVkAgIPFgIfBQUGQ2FuY2VsZAIJD2QWAmYPDxYCHwUFCE1pbmltaXplZBYCZg8PFgYfAwVLL2RvdG5ldG51a2UvUG9ydGFscy9fZGVmYXVsdC9Db250YWluZXJzL01pbmltYWxFeHRyb3B5L2ltYWdlcy9ETk4tbWludXMuZ2lmHwQFCE1pbmltaXplHwUFCE1pbmltaXplZGQCCw9kFgICAg8PZBYCHwwFC01vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8BaGQCDQ9kFgJmDw8WAh8BaGRkAg8PZBYCZg8PFgIfAWhkZAIRD2QWAmYPDxYCHwFoZGQCDA8WAh8MBRZSaWdodFBhbmUgRE5ORW1wdHlQYW5lZAINDxYCHwwFF0JvdHRvbVBhbmUgRE5ORW1wdHlQYW5lZAIOD2QWAmYPDxYEHwkFClNraW5PYmplY3QfCwICZGQCCg8UKwACFCsAA2RkZGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRRkbm4kZG5uTkFWJGN0bGRubk5BVgUtZG5uJGN0cjM4MiRkbm5BQ1RJT05CVVRUT04zJGN0bDAwJGN0bDAwJGN0bDAwr5hKSAhaNpG34HxZXNRNxJwlXjo=" />
+</div>
+
+
+<script src="/dotnetnuke/js/dnncore.js" type="text/javascript"></script><script language='javascript' type='text/javascript' >
+function disableEnterKey(e){var key;if(window.event)key = window.event.keyCode;else key = e.which;return (key != 13);}</script>
+<script src="/dotnetnuke/ScriptResource.axd?d=LvsyGzqsHLD_tHqMMFq1J4pi8ba7bs4K-9qv8cwHZThx-RV2GHrn4wRrd_q4kEH-RN-ldj9XA1gmyg6GLYfycmyEGzzXXN-Ln1OVGnfXO5tThh8_vr9iUe92XpBc7g2Sn4Q9Ss8V6xO5TUoddaqv0tYTLq81&amp;t=ffffffffaced512f" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C743E19F" />
+</div>
+        
+        
+
+    <div id="s_wrap_main">
+        <div id="s_wrap_sub">
+            <div class="template_style">
+                <div class="cpanel_left">
+                    <div class="cpanel_right">
+                        <div id="dnn_ControlPanel">
+
+</div>
+                    </div>
+                </div>
+                <div class="top_space">
+                    <div class="lang_pad">
+                        <div class="language-object" >
+
+
+</div>
+                    </div>
+                    <div class="Widgets">
+                        <object id="SizeWidget" codetype="dotnetnuke/client" codebase="StyleSheetWidget"
+                            declare="declare">
+                            <param name="baseUrl" value="/dotnetnuke/Portals/_default/Skins/MinimalExtropy/css/variations/" />
+                            <param name="template" value="&lt;div title='{TEXT}' {ID} {CLASS}&gt;&lt;/div&gt;" />
+                            <param name="default" value="width1024" />
+                            <param name="Width 1024" value="width1024" />
+                            <param name="Width 1280" value="width1280" />
+                            <param name="Full Width" value="widthfull" />
+                        </object>
+                        <object id="TextSizeWidget" codetype="dotnetnuke/client" codebase="StyleSheetWidget"
+                            declare="declare">
+                            <param name="baseUrl" value="/dotnetnuke/Portals/_default/Skins/MinimalExtropy/css/variations/" />
+                            <param name="template" value="&lt;div title='{TEXT}' {ID} {CLASS}&gt;&lt;/div&gt;" />
+                            <param name="default" value="MediumText" />
+                            <param name="Small Text" value="SmallText" />
+                            <param name="Medium Text" value="MediumText" />
+                            <param name="Large Text" value="LargeText" />
+                        </object>
+                    </div>
+                </div>
+                <div class="logo_top">
+                    <div class="logo_top_left">
+                        <div class="logo_top_right">
+                            <div class="logo_top_bg">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="logo_left">
+                        <div class="logo_right">
+                            <div class="logo_pad">
+                                <div class="s_logo">
+                                    <a id="dnn_dnnLOGO_hypLogo" title="CYSA" href="http://www.cysasoccer.info/dotnetnuke/Home.aspx"><img id="dnn_dnnLOGO_imgLogo" src="/dotnetnuke/Portals/0/soccerbanner.jpg" alt="CYSA" style="border-width:0px;" /></a>
+                                </div>
+                                <div class="clear_float">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu_left">
+                    <div class="menu_right">
+                        <div class="menu_bg">
+                            <div class="search_style">
+                                <div class="search_bg">
+                                    
+
+<div id="dnn_dnnSEARCH_DropDownSearch" class="SearchContainer">
+  <div class="SearchBorder">
+  <div id="SearchIcon" class="SearchIcon" onclick="document.getElementById('SearchChoices').style.display='block'" >
+    <img id="dnn_dnnSEARCH_downArrow" title="Select the search type" src="/dotnetnuke/images/action.gif" alt="Select the search type" style="border-width:0px;" />
+  </div>
+  <input name="dnn$dnnSEARCH$txtSearchNew" type="text" maxlength="255" id="dnn_dnnSEARCH_txtSearchNew" class="SearchTextBox" onkeydown="return __dnn_KeyDown('13', 'javascript:__doPostBack(%27dnn$dnnSEARCH$cmdSearchNew%27,%27%27)', event);" />&nbsp;
+  <ul id="SearchChoices">
+    <li id="SearchIconSite">Site</li>
+    <li id="SearchIconWeb">Web</li>
+  </ul>
+  </div>
+  <a id="dnn_dnnSEARCH_cmdSearchNew" class="ServerSkinWidget" href="javascript:__doPostBack('dnn$dnnSEARCH$cmdSearchNew','')"><img src="/dotnetnuke/Portals/_default/Skins/MinimalExtropy/images/search.gif" border="0" alt="Search" /></a>
+</div>
+
+                                </div>
+                            </div>
+                            <div class="menu_style">
+                                <div>
+	<ul class="" id="dnn_dnnNAV_ctldnnNAV">
+		<li id="dnn_dnnNAV_ctldnnNAVctr40"><a href="http://www.cysasoccer.info/dotnetnuke/Home.aspx"><span>Home</span></a></li><li id="dnn_dnnNAV_ctldnnNAVctr61"><a href="http://www.cysasoccer.info/dotnetnuke/Schedule.aspx"><span>Schedule</span></a></li><li id="dnn_dnnNAV_ctldnnNAVctr63"><a href="http://www.cysasoccer.info/dotnetnuke/News.aspx"><span>News</span></a></li><li id="dnn_dnnNAV_ctldnnNAVctr66"><a href="http://www.cysasoccer.info/dotnetnuke/Documents.aspx"><span>Documents</span></a></li><li id="dnn_dnnNAV_ctldnnNAVctr62"><a href="http://www.cysasoccer.info/dotnetnuke/Weather.aspx"><span>Weather</span></a></li>
+	</ul>
+</div>
+                            </div>
+                            <div class="clear_float">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bread_left">
+                    <div class="bread_right">
+                        <div class="bread_bg">
+                            <div id="bread_style">
+                                <span id="dnn_dnnTEXT_lblText" class="breadcrumb_text">You are here:</span>
+
+                                &nbsp;<span>
+                                    <span id="dnn_dnnBREADCRUMB_lblBreadCrumb"><a href="http://www.cysasoccer.info/dotnetnuke/Home.aspx" class="Breadcrumb">Home</a></span>
+
+                                </span>
+                            </div>
+                            <div id="login_style" class="user">
+                                <a id="dnn_dnnUSER_cmdRegister" class="user" href="javascript:__doPostBack('dnn$dnnUSER$cmdRegister','')">Register</a>
+                                &nbsp;&nbsp;|&nbsp;&nbsp;<a id="dnn_dnnLOGIN_cmdLogin" class="user" href="javascript:__doPostBack('dnn$dnnLOGIN$cmdLogin','')">Login</a>
+                            </div>
+                            <div class="clear_float">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="center_bg">
+                    <div class="left_bg">
+                        <div class="right_bg">
+                            <div class="content_pad">
+                                <div class="content_width">
+                                    <div id="dnn_TopPane" class="TopPane DNNEmptyPane"></div>
+                                    <table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td id="dnn_LeftPane" valign="top" class="LeftPane DNNEmptyPane">
+                                            </td>
+
+                                            <td id="dnn_ContentPane" valign="top" class="ContentPane">
+                                            <a name="382"></a>
+<div class="c_container c_head_grey">
+    <div class="head_title">
+        <div class="c_actions">
+			
+        </div>
+        <div class="c_icon">			
+			
+			<h2 class="c_title">
+				<span id="dnn_ctr382_dnnTITLE_lblTitle" class="TitleHead">Welcome</span>
+
+
+				
+			</h2>
+            </div>
+        <div class="title_vis">
+        <span><span><input type="image" name="dnn$ctr382$dnnACTIONBUTTON3$ctl00$ctl00$ctl00" title="Print" src="/dotnetnuke/images/action_print.gif" alt="Print" style="border-width:0px;" /></span>&nbsp;&nbsp;</span>
+            <a id="dnn_ctr382_dnnVISIBILITY_cmdVisibility" title="Minimize" href="javascript:__doPostBack('dnn$ctr382$dnnVISIBILITY$cmdVisibility','')"><img id="dnn_ctr382_dnnVISIBILITY_imgVisibility" title="Minimize" src="/dotnetnuke/Portals/_default/Containers/MinimalExtropy/images/DNN-minus.gif" alt="Minimize" style="border-width:0px;" /></a>
+        </div>
+        <div class="clear_float">
+        </div>
+    </div>
+    <div class="c_content">
+        <div id="dnn_ctr382_ContentPane" class="Normal c_contentpane">
+        <!-- Start_Module_382 --><div id="dnn_ctr382_ModuleContent" class="ModDNNHTMLC">
+	<div id="dnn_ctr382_HtmlModule_lblContent" class="Normal">
+	<p style="text-align: center;">
+CYSA is a non-profit organization created to allow children in Chickasha and the surrounding communities to enjoy the game of soccer.&nbsp; We participate in recreational soccer for ages 4 - 14.&nbsp; CYSA is&nbsp;governed&nbsp;by the Frontier Country Soccer Association under the Oklahoma Soccer Association.&nbsp; We are comprised of volunteer coaches and board members which all allow the association to function effectively.&nbsp;
+<br>
+</br>
+<br>
+</br>
+The CYSA soccer year goes from August - May with two seasons.&nbsp; The fall season registers in August or early September and games run in September and October and sometimes into November.&nbsp; The spring season registers in January or early February and games run late in February or early March through April and sometimes early May.&nbsp;&nbsp; PLAYERS MUST REGISTER EVERY SEASON!&nbsp; New teams are formed in the fall season and continue into the spring adding the new players that register.&nbsp; All U9&nbsp;- U12&nbsp;teams play in OKC&nbsp;with Southlakes Soccer Club.&nbsp; Practices are held in Chickasha and games are held on Saturdays in OKC off of 119th street at the Southlakes Soccer Fields.&nbsp; U14 teams are traveling recreational which travel in the metro area to play games.
+<br>
+</br>
+&nbsp; </p>
+<p style="text-align: center;">&nbsp;<strong>CYSA BOARD MEMBERS (eff. August 2013)</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: center;">
+Walt Wilson, President&nbsp;&nbsp; <a href="tel:405-371-1697">405-371-1697</a>
+<br>
+</br>
+<br>
+</br>
+Vanessa Francis, Vice President&nbsp;&nbsp;&nbsp; <a href="tel:405-264-6227">405-264-6227</a><br>
+</br>
+<br>
+</br>
+Donya Charlson, Secretary&nbsp;&nbsp;&nbsp; <a href="tel:405-320-0787">405-320-0787</a>
+<br>
+</br>
+<br>
+</br>
+Tim Koehler, Treasurer&nbsp;&nbsp;&nbsp; <a href="tel:405-210-0327">405-210-0327</a>
+<br>
+</br>
+<br>
+</br>
+Juli Schroeder, Registrar&nbsp;&nbsp;&nbsp; <a href="tel:405-850-6260">405-850-6260</a>
+<br>
+</br>
+<br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kimberly Sanders, Public Relations&nbsp;&nbsp;<a href="tel:405-820-0885">405-820-0885</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+</br>
+<br>
+</br>
+Ashley Rayburn, Fundraising&nbsp;&nbsp;&nbsp; <a href="tel:405-574-6888">405-574-6888</a>
+<br>
+</br>
+<br>
+</br>
+Teranie Riley, Head Coach &nbsp; &nbsp;<a href="tel:405-476-5434">405-476-5434</a><br>
+</br>
+<br>
+</br>
+Jeremy Chaney, Head Referee&nbsp;&nbsp;&nbsp;&nbsp;405-274-2150</p>
+<p style="text-align: center;">
+Ryan Ingram, Field Manager/Safety Coordinator&nbsp; <a href="tel:405-320-4120">405-320-4120</a>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+Email us at <a href="mailto:cysasoccer@yahoo.com">cysasoccer@yahoo.com</a>
+<br>
+</br>
+<br>
+</br>
+"Like" us on Facebook:&nbsp; Chickasha Youth Soccer Association</p>
+<p style="text-align: center;">Mailing address:&nbsp; PO Box&nbsp;&nbsp; Chickasha, OK&nbsp; 73023</p>
+</div>
+
+</div><!-- End_Module_382 --></div>
+    </div>
+    <div class="c_footer">
+        
+        
+        
+    </div>
+</div>
+</td>
+
+                                            <td id="dnn_RightPane" valign="top" class="RightPane DNNEmptyPane">
+                                            </td>
+
+                                        </tr>
+                                    </table>
+                                    <div id="dnn_BottomPane" class="BottomPane DNNEmptyPane"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Taxonomy Section -->
+                <div class="tag_left">
+                    <div class="tag_right">
+                        <div class="tag_bg">
+                            <div id="tag_style">
+                                <div class="horizontal">
+	<ul class="categories" title="Categories">
+
+	</ul><ul class="tags" title="Tags">
+
+	</ul>
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Taxonomy Section -->
+                <div class="linkscontainer_left">
+                    <div class="linkscontainer_right">
+                        <div class="linkscontainer_pad">
+                            <div class="linkscontainer">
+                                <span id="dnn_dnnLINKS_lblLinks"><a class="links" href="http://www.cysasoccer.info/dotnetnuke/Home.aspx">Home</a><span class="links">   |   </span><a class="links" href="http://www.cysasoccer.info/dotnetnuke/Schedule.aspx">Schedule</a><span class="links">   |   </span><a class="links" href="http://www.cysasoccer.info/dotnetnuke/News.aspx">News</a><span class="links">   |   </span><a class="links" href="http://www.cysasoccer.info/dotnetnuke/Documents.aspx">Documents</a><span class="links">   |   </span><a class="links" href="http://www.cysasoccer.info/dotnetnuke/Weather.aspx">Weather</a></span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bot_left">
+                    <div class="bot_right">
+                        <div class="bot_bg">
+                        </div>
+                    </div>
+                </div>
+                <div class="bot_pad">
+                    <div id="terms_style" class="footer">
+                        <a id="dnn_dnnPRIVACY_hypPrivacy" class="footer" rel="nofollow" href="http://www.cysasoccer.info/dotnetnuke/privacy.aspx">Privacy Statement</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;<a id="dnn_dnnTERMS_hypTerms" class="footer" rel="nofollow" href="http://www.cysasoccer.info/dotnetnuke/terms.aspx">Terms Of Use</a>
+                    </div>
+                    <div id="copy_style" class="footer">
+                        <span id="dnn_dnnCOPYRIGHT_lblCopyright" class="footer">Copyright 2009 by DotNetNuke Corporation</span>
+
+                    </div>
+                    <div class="clear_float">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" value="`{`SearchIconWebUrl`:`url(/dotnetnuke/images/Search/google-icon.gif)`,`SearchIconSiteUrl`:`url(/dotnetnuke/images/Search/dotnetnuke-icon.gif)`,`SearchIconSelected`:`S`}" />
+        
+    
+<script type="text/javascript" src="/dotnetnuke/Resources/Shared/scripts/initWidgets.js" ></script><script type="text/javascript" src="/dotnetnuke/Resources/Search/Search.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

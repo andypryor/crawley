@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+
+<!--The Title-->
+<title>Soccer Xpress | Boise Soccer Club | (208) 477-1344</title>
+
+<!--The Meta Info-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="Shortcut Icon" href="http://www.soccerxpress.net/wp-content/themes/iTeam/images/favicon.ico" type="image/x-icon" />
+
+<!--The Stylesheets-->
+<link rel="stylesheet" href="http://www.soccerxpress.net/wp-content/themes/iTeam/style.css" type="text/css" media="screen" />
+<!--[if lt IE 7]>
+    <link rel="stylesheet" href="http://www.soccerxpress.net/wp-content/themes/iTeam/css/lt-ie7.css" type="text/css" media="screen" />
+	<script src="http://www.soccerxpress.net/wp-content/themes/iTeam/js/dropdown.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+    <link rel="stylesheet" href="http://www.soccerxpress.net/wp-content/themes/iTeam/css/lte-ie7.css" type="text/css" media="screen" />
+<![endif]-->
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+/*
+sfHover = function() {
+	var sfEls = document.getElementById("menu").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+*/
+//--><!]]></script>
+
+<!-- custom style-sheet -->
+<!--The RSS and Pingback-->
+<link rel="alternate" type="application/rss+xml" title="Soccer Xpress | Boise, Kuna, Nampa Idaho RSS Feed" href="http://www.soccerxpress.net/feed/" />
+<link rel="pingback" href="http://www.soccerxpress.net/xmlrpc.php" />
+<script type="text/javascript" src="http://www.soccerxpress.net/wp-content/themes/iTeam/js/soccerage.js"></script>
+
+<!-- All in One SEO Pack 2.2.6 by Michael Torbert of Semper Fi Web Design[224,271] -->
+<meta name="description"  content="Soccer Xpress is a local soccer club in Boise. We provide junior girls and boys competitive and recreational soccer in the Treasure Valley." />
+
+<meta name="keywords"  content="Boise soccer club, youth soccer clubs, soocer clubs, girls soccer clubs, junior soccer clubs, Nampa, Kuna, Meridian, Mountain Home, Caldwell" />
+
+<link rel="canonical" href="http://www.soccerxpress.net/" />
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="Soccer Xpress | Boise, Kuna, Nampa Idaho &raquo; Home Comments Feed" href="http://www.soccerxpress.net/home/feed/" />
+<link rel='stylesheet' id='team_style-css'  href='http://www.soccerxpress.net/wp-content/plugins/team/css/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ParaAdmin-css'  href='http://www.soccerxpress.net/wp-content/plugins/team/ParaAdmin/css/ParaAdmin.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ParaIcons-css'  href='http://www.soccerxpress.net/wp-content/plugins/team/ParaAdmin/css/ParaIcons.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='http://www.soccerxpress.net/wp-admin/css/color-picker.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='team-style-flat-css'  href='http://www.soccerxpress.net/wp-content/plugins/team/themes/flat/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='team-style-flat-bg-css'  href='http://www.soccerxpress.net/wp-content/plugins/team/themes/flat-bg/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='team-style-rounded-css'  href='http://www.soccerxpress.net/wp-content/plugins/team/themes/rounded/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-qtip-css'  href='http://www.soccerxpress.net/wp-content/plugins/google-calendar-events/css/jquery.qtip.min.css?ver=2.2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-public-css'  href='http://www.soccerxpress.net/wp-content/plugins/google-calendar-events/css/gce-style.css?ver=2.2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cforms2-css'  href='http://www.soccerxpress.net/wp-content/plugins/cforms2/styling/cforms2012.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-datepicker-css'  href='http://www.soccerxpress.net/wp-content/plugins/cforms2/styling/calendar.css?ver=14.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.soccerxpress.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-advanced-rp-css-css'  href='http://www.soccerxpress.net/wp-content/plugins/advanced-recent-posts-widget/css/advanced-recent-posts-widget.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var team_ajax = {"team_ajaxurl":"http:\/\/www.soccerxpress.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/team/js/team-scripts.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/team/ParaAdmin/js/ParaAdmin.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/team/js/jquery.dotdotdot.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cforms2_cal = {"buttonImageOnly":"1","showOn":"both","dateFormat":"mm\/dd\/yy","dayNamesMin":["S","M","T","W","T","F","S"],"dayNamesShort":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"firstDay":"0","prevText":"Previous Month","nextText":"Next Month","closeText":"Close","buttonText":"Choose Date","changeYear":"","buttonImage":"http:\/\/www.soccerxpress.net\/wp-content\/plugins\/cforms2\/images\/calendar.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/cforms2/js/cforms.calendar.js?ver=14.9'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/cforms2/js/jquery.md5.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cforms2_ajax = {"url":"http:\/\/www.soccerxpress.net\/wp-admin\/admin-ajax.php","nonces":{"reset_captcha":"d808af78c7","submitcomment":"7e4d237d12"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/cforms2/js/cforms.js?ver=14.9'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/themes/iTeam/js/jquery.cross-slide.js?ver=4.1.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.soccerxpress.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.soccerxpress.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.soccerxpress.net/' />
+	<style type="text/css">
+		#featured-image-fade {
+			width: 750px;
+			height: 270px;
+			margin:1px 0 10px 10px;
+		}
+	</style>
+	
+	<script type='text/javascript'>
+		jQuery(function($) {$(document).ready(function() {
+			$('#featured-image-fade').crossSlide(
+				{sleep: 4, fade: 1},
+				[{src: 'http://www.soccerxpress.net/wp-content/uploads/2013/05/137-resized-image-750x270.jpg'},{src: 'http://www.soccerxpress.net/wp-content/uploads/2013/05/IMG_5420-resized-image-750x270.jpg'},{src: 'http://www.soccerxpress.net/wp-content/uploads/2013/05/photo-8-resized-image-750x270.jpg'},{src: 'http://www.soccerxpress.net/wp-content/uploads/2013/05/photo-9-resized-image-750x270.jpg'},{src: 'http://www.soccerxpress.net/wp-content/uploads/2013/05/photo-10-resized-image-750x270.jpg'}]
+			);
+		});});
+	</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17718030-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><style type="text/css">
+#header {
+	width: 960px;
+	height: 150px;
+	background: #FFF url() top left no-repeat;
+}
+#header #title, #header #desc {
+	text-indent: -9999px;
+}
+</style>
+
+<meta property="og:site_name" content="Soccer Xpress | Boise, Kuna, Nampa Idaho" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Soccer Xpress | Boise, Kuna, Nampa Idaho" />
+<meta property="og:description" content="Boise Soccer Club" />
+<meta property="og:url" content="http://www.soccerxpress.net" />
+<script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//www.soccerxpress.net/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=F2481D56246AA32292C76D0D9C86390A'); 
+</script>
+<!-- My Custom CSS Start -->
+<style type="text/css">
+/* Plugin Author: Salvatore Noschese */
+@import url('http://www.soccerxpress.net/wp-content/plugins/my-custom-css/my_style.css?1371813703');
+/* Also known as: DarkWolf - http://www.darkwolf.it/ */
+</style>
+<!-- My Custom CSS End -->
+
+</head>
+<body>
+<div class="c960 center wrap" id="container">
+
+	<div class="w960-" id="header">
+		<!--<a id="title" href="http://www.soccerxpress.net" title="Return to Home"><img src="http://www.soccerxpress.net/wp-content/themes/iTeam/images/site_logo.jpg" /></a> -->
+	</div>
+	<div id="menu" class="wrap"><ul id="menu-header" class="menu"><li id="menu-item-339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-339"><a href="http://soccerxpress.net/">HOME</a></li>
+<li id="menu-item-685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-685"><a href="http://soccerxpress.net/recreational/program-overview/">RECREATIONAL</a>
+<ul class="sub-menu">
+	<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="http://www.soccerxpress.net/recreational/program-overview/">PROGRAM OVERVIEW</a></li>
+</ul>
+</li>
+<li id="menu-item-686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-686"><a href="http://soccerxpress.net/academy/program-overview/">ACADEMY</a>
+<ul class="sub-menu">
+	<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-469"><a href="http://www.soccerxpress.net/academy/program-overview/">PROGRAM OVERVIEW</a>
+	<ul class="sub-menu">
+		<li id="menu-item-471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a href="http://www.soccerxpress.net/academy/program-overview/try-outs/">TRY OUTS</a></li>
+		<li id="menu-item-470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="http://www.soccerxpress.net/academy/program-overview/cost/">COST</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-687"><a href="http://soccerxpress.net/competitve/program-overview/">COMPETITIVE</a>
+<ul class="sub-menu">
+	<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-459"><a href="http://www.soccerxpress.net/competitve/program-overview/">PROGRAM OVERVIEW</a>
+	<ul class="sub-menu">
+		<li id="menu-item-462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462"><a href="http://www.soccerxpress.net/competitve/program-overview/try-outs/">TRY OUTS</a></li>
+		<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="http://www.soccerxpress.net/competitve/program-overview/cost/">COST</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="http://www.soccerxpress.net/contact/">CONTACT US</a></li>
+<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-586"><a href="http://www.shadowsembroidery.com/store/store.php?crn=287">Xpress Apparel</a></li>
+</ul></div><!--index.php-->
+
+<div class="w960-" id="top">
+<div id="homepage-widget-left" class="w200- left">
+<div class="widget" id="custom-menu"><div class="menu-left-menu-container"><ul id="menu-left-menu" class="menu"><li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="http://www.soccerxpress.net/registration/">REGISTRATION</a></li>
+<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="http://www.soccerxpress.net/mission/">MISSION</a></li>
+<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a href="http://www.soccerxpress.net/formspolicies/">FORMS/POLICIES</a></li>
+<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="http://www.soccerxpress.net/camps/">CAMPS</a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="http://www.soccerxpress.net/xpress-t-v/">XPRESS TV</a></li>
+<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="http://www.soccerxpress.net/10k-touch-challenge/">10K TOUCH CHALLENGE</a></li>
+<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a href="http://www.soccerxpress.net/college-prep/">COLLEGE PREP</a></li>
+<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://www.soccerxpress.net/calendar-2/">CALENDAR</a></li>
+<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a href="http://www.soccerxpress.net/uniforms/">UNIFORMS</a></li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="http://www.soccerxpress.net/club-success/">CLUB SUCCESS</a></li>
+<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="http://www.soccerxpress.net/sponsorship/">SPONSORSHIP</a></li>
+</ul></div></div><div class="widget" id="custom-menu"><h4>Follow the Xpress</h4>			<div class="textwidget"><div class="fb-like-box" data-href="http://www.facebook.com/soccerxpress" data-width="200" data-show-faces="true" data-stream="true" data-header="true"></div></div>
+		</div><div class="widget" id="custom-menu"><h4>Xpress Site Stats</h4>	 <link rel='stylesheet' type='text/css' href='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/css/default.css' /><div id='mvcwid' style='font-size:2; text-align:;color:#000;'>
+	<div id="mvccount"><img src='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/image/chevy/0.gif' alt='0'><img src='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/image/chevy/0.gif' alt='0'><img src='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/image/chevy/6.gif' alt='6'><img src='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/image/chevy/9.gif' alt='9'><img src='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/image/chevy/0.gif' alt='0'><img src='http://www.soccerxpress.net/wp-content/plugins/mechanic-visitor-counter/styles/image/chevy/3.gif' alt='3'></div>
+    	<div id="mvctable">
+        	<table width='100%'>
+                                                			                                                </table>
+    	</div>
+        		       
+        <div id="mvccredit">plugins by <a href="http://www.adityasubawa.com" title="Bali web Design" target="_blank">Bali Web Design</a></div>
+       
+ </div>
+            </div>	</div>
+<div id="featured-image-fade" class="w720- left"></div>
+<div class="w560- left" id="content">
+		<div id="homepage-widget-center" class="w560 center">
+<div class="widget" id="new-posts"><h4>Latest Xpress News</h4><ul>
+
+			<li class="recent-post-item">
+
+				<a  href="http://www.soccerxpress.net/soccer-xpress-fc-tryouts-2014/" rel="bookmark" title="Permanent link to Soccer Xpress FC Tryouts 2014" class="post-title">Soccer Xpress FC Tryouts 2014</a>
+
+					                				<div class="post-entry">
+				
+
+
+			
+
+				
+
+				                				<p>Soccer Xpress FC is holding Soccer tryouts for the U10,U11,U12,U13, U14,U15 and U16/U17 age groups for boys and girls on the week of May 27th and June 9th 2014 . Tryouts are open to all Treasure Valley Residence residents and please refer to the Age Matrix Table to see what age group your child falls under. NAMPA TRYOUTS 2014 Tryouts Dates: U10, U11, U12, U13, U14, U15 and U16/U17 Dates: Tuesday, June 3rd and Thursday,  <a href="http://www.soccerxpress.net/soccer-xpress-fc-tryouts-2014/" class="more-link">Read more →</a> </p>
+
+							  </div>
+				
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://www.soccerxpress.net/meridian-recreational-soccer-teams-now-forming/" rel="bookmark" title="Permanent link to Meridian Recreational Soccer Teams Now Forming" class="post-title">Meridian Recreational Soccer Teams Now Forming</a>
+
+					                				<div class="post-entry">
+				
+
+
+			
+
+				
+
+				                				<p>Due to to our rapid growth and overwhelming interest, Soccer Xpress is happy to announce our expansion to the Meridian Community. We are now forming teams in Meridian and practices will be held in the Meridian area &#8211; location TBD. At the moment we are forming teams for the following: Boys Age 4 and 5 Girls Age &#8211; 7,8,9 and 10 If you are interested or know of  someone please contact CJ at cj@soccerxpres.net or  <a href="http://www.soccerxpress.net/meridian-recreational-soccer-teams-now-forming/" class="more-link">Read more →</a> </p>
+
+							  </div>
+				
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://www.soccerxpress.net/2013-soccer-xpress-team-summer-camp/" rel="bookmark" title="Permanent link to 2013 Soccer Xpress Team Summer Camp" class="post-title">2013 Soccer Xpress Team Summer Camp</a>
+
+					                				<div class="post-entry">
+				
+
+
+			
+
+				
+
+				                				<p>WHEN:  July 16 – July 19, Tuesday thru Friday FROM:  5:30p.m. Until 7:30.pm VENUE:  Presbyterian Church Field in Nampa. FOR:  Boys and Girls Ages 10 thru 14 COST: $70 per Player  for Soccer Xpress Club members,  $80 (for non-Soccer Xpress  Club members) &nbsp; PURPOSE: To kick off the Fall Season and Strengthen our team building and introduce Soccer Xpress  Players to new and advance soccer drills, techniques to help enhance and develop individual skills and fundamentals  <a href="http://www.soccerxpress.net/2013-soccer-xpress-team-summer-camp/" class="more-link">Read more →</a> </p>
+
+							  </div>
+				
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://www.soccerxpress.net/u15-xtreme-win-comstock-shootout-tournament/" rel="bookmark" title="Permanent link to U15 Xtreme Win Comstock Shootout Tournament" class="post-title">U15 Xtreme Win Comstock Shootout Tournament</a>
+
+					                				<div class="post-entry">
+				
+
+
+			
+
+				
+
+				                				<p>Our U15 team Xtreme won the Comstock Shootout tournament in Carson City,Nevada over the weekend beating Northern California and Nevada teams. Congratulations Xtreme!! <a href="http://www.soccerxpress.net/u15-xtreme-win-comstock-shootout-tournament/" class="more-link">Read more →</a> </p>
+
+							  </div>
+				
+
+				
+			</li>
+
+		
+			<li class="recent-post-item">
+
+				<a  href="http://www.soccerxpress.net/stanno-teamwear-becomes-an-official-partner-of-soccer-xpress/" rel="bookmark" title="Permanent link to Stanno Teamwear Becomes an Official Partner of Soccer Xpress" class="post-title">Stanno Teamwear Becomes an Official Partner of Soccer Xpress</a>
+
+					                				<div class="post-entry">
+				
+
+
+			
+
+				
+
+				                				<p>Soccer Xpress is pleased to announce its Partnership with Stanno Teamwear USA; a specialized direct sales soccer apparel company. This will be an exciting change, making Stanno the Official Sponsor and Supplier of Soccer Xpress. Stanno, being designed in Holland (The Netherlands), has strong ties to soccer. For over 20 years Stanno has been a leading Brand in the European Market, and has been in the US soccer market since 2007 offering their specialty in  <a href="http://www.soccerxpress.net/stanno-teamwear-becomes-an-official-partner-of-soccer-xpress/" class="more-link">Read more →</a> </p>
+
+							  </div>
+				
+
+				
+			</li>
+
+		</ul>
+</div><div class="widget" id="new-posts"><h4>Sponsors</h4>			<div class="textwidget"><a href="http://www.5hmg.com" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2012/12/Main-Logo-200-tagline.jpg" alt="Main Logo-200-tagline" width="200" height="200" class="alignleft size-full wp-image-671" ></a><a href="http://www.shadowsembroidery.com/" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2012/12/SHADOWS_RGB-sponsor-200.jpg" alt="Untitled-2" width="200" height="200" class="alignleft size-medium wp-image-672" /></a>
+<br style="clear:both;" />
+<img src="http://soccerxpress.net/wp-content/uploads/2013/03/Soccer-Express-Web-Banner1.png" class="alignleft" style="margin:0px;" /></div>
+		</div>	</div>
+	</div>
+	
+	
+	<div class="w200- right">
+		
+		<div class="widget" id="custom-categories"><h4>Affiliates / Partners</h4>			<div class="textwidget"><a href="http://www.usyouthsoccer.org" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2013/02/us_youth_soccer_logo.jpg" /></a>
+<a href="http://www.ussoccer.com" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2013/02/US_Soccer_logo_.jpg" /></a>
+<a href="http://www.usclubsoccer.org" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2013/02/u-s-club-soccer.jpg" /></a>
+<a href="http://www.Idahoyouthsoccer.org" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2013/02/IYSA-Logo.jpg" /></a>
+<a href="http://www.fifa.com" target="_blank"><img src="http://soccerxpress.net/wp-content/uploads/2013/02/fifa-logo.jpg" /></a>
+
+</div>
+		</div>		</div></div>
+	
+	
+
+<div class="w960- wrap" id="footer">
+	<div class="w780 left">
+	<p><strong>Soccer Xpress | Boise, Kuna, Nampa Idaho</strong></p>  
+<p>Copyright &copy; 2015  &middot; All rights reserved</p> 
+<center><p><ul role="navigation"><a href="http://www.soccerxpress.net/?page_id=92">E-mail Policy</a> | <a href="http://www.soccerxpress.net/?page_id=94">External Links Policy</a> | <a href="http://www.soccerxpress.net/?page_id=96">Privacy Policy</a> | <a href="http://www.soccerxpress.net/?page_id=97">Terms Of Use</a> | <a href="http://www.soccerxpress.net/?page_id=100">Anti-spam Policy</a></p></center>
+	</div>
+	
+	<div class="w420 right" style="text-align:right;">
+	<p></p>
+<p></p>
+	</div>
+       <!--Display Age Group Calculator JS-->
+<script type="text/javascript">
+
+        function CalculateAgeGroup() {
+            var drpBirthMonth = document.getElementById("drpBirthMonth");
+            var BirthMonth = drpBirthMonth.options[drpBirthMonth.selectedIndex].value;
+            var drpBirthYear = document.getElementById("drpBirthYear");
+            var BirthYear = drpBirthYear.options[drpBirthYear.selectedIndex].value;
+            if (BirthMonth < 0 || BirthYear == 0) {
+                ResetAgeGroup();
+                return false;
+            }
+
+            var CurrentDate = new Date();
+            CurrentDate.setMonth = 7;
+
+            dob = new Date(BirthYear, BirthMonth, 01);
+            var AgeGroup = CalculatAgeGroup(dob);
+            ResetAgeGroup();
+            SetAgeGroup(AgeGroup);
+        }
+
+        function SetAgeGroup(AgeGrup) {
+            document.getElementById("hdnSelectedAgeGroup").value = AgeGrup;
+            if (AgeGrup == "") {
+                document.getElementById("PlayerAgeGroup").innerHTML = "<span class=\"redtext\">Player does not meet age requirements</span>";
+            }
+            else {
+                //document.getElementById(AgeGrup).setAttribute("class", "AgeGroupHighlighted");
+                document.getElementById(AgeGrup).setAttribute("class", "AgeGroupHighlighted");
+                document.getElementById("PlayerAgeGroup").innerHTML = "Player will be placed in " + AgeGrup;
+            }
+        }
+
+        function ResetAgeGroup() {
+            document.getElementById("PlayerAgeGroup").innerHTML = "";
+            var hdn = document.getElementById("hdnSelectedAgeGroup");
+            if (hdn.value != "")
+                document.getElementById(hdn.value).setAttribute("class", "");
+            hdn.value = "";
+        }
+
+        function CalculatAgeGroup(dob) {
+            var StartMonth = 7, EndMonth = 6;
+            var AgeGroup = "";
+            					if (dob >= new Date(1995, StartMonth, 1) && dob <= new Date(1998, EndMonth, 31))
+                AgeGroup = "U19";
+            else if (dob >= new Date(1998, StartMonth, 1) && dob <= new Date(2000, EndMonth, 31))
+                AgeGroup = "U16";
+            else if (dob >= new Date(2000, StartMonth, 1) && dob <= new Date(2002, EndMonth, 31))
+                AgeGroup = "U14";
+            else if (dob >= new Date(2002, StartMonth, 1) && dob <= new Date(2004, EndMonth, 31))
+                AgeGroup = "U12";
+            else if (dob >= new Date(2004, StartMonth, 1) && dob <= new Date(2006, EndMonth, 31))
+                AgeGroup = "U10";
+            else if (dob >= new Date(2006, StartMonth, 1) && dob <= new Date(2008, EndMonth, 31))
+                AgeGroup = "U8";
+            else if (dob >= new Date(2008, StartMonth, 1) && dob <= new Date(2009, EndMonth, 31))
+                AgeGroup = "U6";
+            else if (dob >= new Date(2009, StartMonth, 1) && dob <= new Date(2010, EndMonth, 31))
+                AgeGroup = "U5";
+            else
+                AgeGroup = "";
+            return AgeGroup;
+        }
+   
+    </script>
+	<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/google-calendar-events/js/imagesloaded.pkg.min.js?ver=2.2.2.1'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/google-calendar-events/js/jquery.qtip.min.js?ver=2.2.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gce_grid = null;
+var gce = {"script_debug":"","ajaxurl":"http:\/\/www.soccerxpress.net\/wp-admin\/admin-ajax.php","ajaxnonce":"48d898eef9","loadingText":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/google-calendar-events/js/gce-script.js?ver=2.2.2.1'></script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.soccerxpress.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.soccerxpress.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<div id="fb-root"></div></div>
+
+</div>
+</body>
+</html>
+<!-- Dynamic page generated in 1.094 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-03-25 07:44:07 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

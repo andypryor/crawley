@@ -1,0 +1,242 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Welcome ~ Valley Thunder Soccer Club
+</title><link rel="stylesheet" type="text/css" href="styles/site.css" />
+
+</head>
+<body>
+    <form method="post" action="./" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <div class="left">Valley Thunder</div>
+                <div class="center">&nbsp;</div>
+                <div class="right">Soccer Club</div>
+
+            </div>
+            
+            <div style="clear:both"></div>
+        
+            <div style="float:right;margin:-75px 10px 0px 0px;">
+                <a href="administration/" style="color:#FFFFFF">[Login]</a>
+            </div>
+
+            <div class="topNavigation">
+                <div id="topNavigation">
+                    <div class="navBackgroundDefault" onmouseover="showNavigation(this)" onmouseout="hideNavigation(this)" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="default.aspx">Home</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onmouseover="showNavigation(this)" onmouseout="hideNavigation(this)" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="schedule.aspx">Schedules</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onmouseover="showNavigation(this)" onmouseout="hideNavigation(this)" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="roster.aspx">Rosters</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="photos.aspx">Photos</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="sponsors.aspx">Sponsors</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="forms.aspx">Forms</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="tournaments.aspx">Tournament</a>
+                        </div>
+                    </div>
+                    <div class="navBackgroundDefault" onclick="navOnClick(this);">
+                        <div class="navText">
+                            <a href="venues.aspx">Venus</a>
+                        </div>
+                    </div>
+                    &nbsp;
+                </div>
+        </div><!--topNavigation-->    
+        </div><!--header-->
+
+        <div class="body threecol">
+            <div class="colContainerMid">
+                <div class="colContainerLeft">
+                    <div class="colCenter">
+                        
+    <h2 class="contentHeader">2015 Valley Thunder</h2>
+    
+    <div class='widget'  style='border:1px solid #000080;'><p>Valley Thunder Soccer Club was established to provide youth in the Lewis/Clark Valley an opportunity to play soccer at an advanced level. We have put together a coaching staff of very dedicated men and women who are strictly here for the kids and to help them develop into young student athletes. Our goal is to prepare these young men and young women to have the confidence to play at the next level with dedication, determination, and drive.</p></div><div class='widget'><div>Spring Season</div><ul><li>Games for all teams start March 14th</li></ul></div><div class='widget'  style='border:1px solid #000080;'><p><center><b>Coaches Education</b></center>In December Brian Skinner got his Level 6 coaching license. Congratulations to Bryan. <br />Any coaches or parents that would like to get information on upcoming education please let your coaches know and we can get information out to you.</p></div>
+
+
+                    </div>
+
+                    <div class="colLeft">
+                        <br />
+                            <input onclick="javascript:postToPayPal();" type="image" alt="PayPal - The safer, easier way to pay online!" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" />
+                            <img width="1" height="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="Donate to VTSC" />
+                            <input type="hidden" value="_s-xclick" name="cmd" />
+                            <input type="hidden" value="YP4M62763K7PA" name="hosted_button_id" />
+                        <div>
+                            <h4>Social Media</h4>
+                            <a href="http://www.facebook.com/profile.php?id=100001849292060" target="_blank">
+                                <img width="48" height="42" src="http://www.valleythunder.org/images/fbPink.png" />
+                            </a>
+                        </div>
+
+                        <div>
+                            <h4>VTSC</h4>
+                            PO Box 1633 Lewiston, ID 83501
+                            <br />208.305.9074
+                        </div>
+
+
+                        <div>
+                            <h4 style="margin-bottom:5px;">Amazon</h4>
+
+                            <a target="_blank"  style="color:blue;text-decoration:underline; margin:5px 0px 10px 0px; padding:0px;"
+                                href="http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=soccer%20gear&linkCode=ur2&rh=i%3Aaps%2Ck%3Asoccer%20gear&tag=valthusoccl05-20&url=search-alias%3Daps&linkId=JJG4CHAJGQZYG4IK">
+                                Shop Amazon.com
+                            </a>
+                            <img src="https://ir-na.amazon-adsystem.com/e/ir?t=valthusoccl05-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+                            <p style="text-align:left; text-indent:10px;margin:0px;padding:2px;">
+                                Valley Thunder Soccer Club is a participant in the Amazon Services LLC Associates Program, 
+                                an affiliate advertising program designed to provide a means for sites to earn advertising 
+                                fees by advertising and linking to amazon.com.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="colRight">
+                        <img id="imgRotating" src="images/photos/medium/IMG_2205(1).jpg" alt="Valley Thunder Soccer Club " height="225" width="300" />
+
+                        <div>
+
+                            
+
+                            <table border="0" rules="" id="tblUpcomingEvents">
+                                <caption>UpcomingEvents</caption>
+
+                                <tr><td style='text-align:center;font-weight:900; white-space:nowrap; padding:0px;'>Fri Feb 27 2015 5:45 PM</td></tr><tr><td>Development of the Club Soccer Environment: A 21st Century Model @Spokane Falls Community College. A Puget Sound Premier League Special Topics Series </td></tr><tr><td style='line-height:3px; background:#FFFFFF;'>&nbsp;</td></tr><tr><td style='text-align:center;font-weight:900; white-space:nowrap; padding:0px;'>Fri May 8 2015 8:00 AM</td></tr><tr><td>NSCAA Courses                            Level 5 Diploma in Wenatchee</td></tr><tr><td style='line-height:3px; background:#FFFFFF;'>&nbsp;</td></tr>
+
+                                
+                            </table>
+                        </div>
+
+                    </div>
+
+                </div><!--colContainerLeft-->
+            </div><!--colContainerMid-->
+        </div><!--body threecol-->
+
+        <div style="clear:both"></div>
+        <div class="footer">
+            ©Copyright 2014 Valley Thunder Soccer Club | All Rights Reserved
+            <br />
+            PO Box 1633 Lewiston, ID 83501
+            208.305.9074
+            
+
+    
+
+        </div><!--footer-->
+        <div style="float:right;color:#400080;">
+            Website Design Donated by Sean Marcellus
+        </div>
+
+    </div><!--page-->
+
+    
+
+    <script type="text/javascript" src="scripts/find-position.js"></script>
+    <script type="text/javascript">
+        function navOnClick(what) {/*page url to anchor in div url*/
+            window.location.href = what.childNodes[1].childNodes[1].href;
+        }
+
+        function Setbg(what, bg,color) {
+            what.style.background = bg;
+
+            what.style.backgroundImage = 'url("images/soccerbullet.png")';
+            what.style.backgroundRepeat = 'no-repeat'
+            what.style.backgroundPosition = 'top right'; 
+            what.childNodes[0].style.color = color;
+        }
+
+        function dynNavItmOver(what) {
+            what.className = 'dynNavItmOver';
+        }
+        function dynNavItmDefault(what) {
+            what.className = 'dynNavItmDefault';
+        }
+
+        function showNavigation(what) {
+            what.className = 'navBackgroundDefault';
+            var menuId = 'dynNav' + what.childNodes[1].childNodes[1].innerHTML;
+            var menu = document.getElementById(menuId);
+            menu.style.display = 'block';
+            menu.style.position = 'absolute';
+            menu.style.top = ((FindTop(what) + 50) + 'px');
+            menu.style.left = ((FindLeft(what) -8)+ 'px');
+        }
+
+        function hideNavigation(what) {
+            what.className = 'navBackgroundDefault';
+            var menuId = 'dynNav' + what.childNodes[1].childNodes[1].innerHTML;
+            var menu = document.getElementById(menuId);
+            menu.style.display = 'none';
+        }
+        
+    </script>
+    
+    
+    <div class="dynamicNavigation" id="dynNavHome" 
+        onmouseover="this.style.display = 'block';" 
+        onmouseout="this.style.display = 'none';">
+        <a href="contact.aspx"><div class="dynNavItmDefault" onmouseover="dynNavItmOver(this)" onmouseout="dynNavItmDefault(this)">Contact</div></a>
+        <a href="directors.aspx"><div class="dynNavItmDefault" onmouseover="dynNavItmOver(this)" onmouseout="dynNavItmDefault(this)">Directors</div></a>
+        <a href="coaches.aspx"><div class="dynNavItmDefault" onmouseover="dynNavItmOver(this)" onmouseout="dynNavItmDefault(this)">Coaches</div></a>
+    </div>
+
+    <div class="dynamicNavigation" id="dynNavSchedules" 
+        onmouseover="this.style.display = 'block';" 
+        onmouseout="this.style.display = 'none';">
+        <a href='schedule.aspx?Team=1'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U10 </div></a><a href='schedule.aspx?Team=2'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U12 </div></a><a href='schedule.aspx?Team=3'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U14 </div></a><a href='schedule.aspx?Team=4'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U15 </div></a><a href='schedule.aspx?Team=5'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U16 </div></a>
+    </div>
+
+    <div class="dynamicNavigation" id="dynNavRosters" 
+        onmouseover="this.style.display = 'block';" 
+        onmouseout="this.style.display = 'none';">
+        <a href='roster.aspx?Team=1'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U10 </div></a><a href='roster.aspx?Team=2'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U12 </div></a><a href='roster.aspx?Team=3'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U14 </div></a><a href='roster.aspx?Team=4'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U15 </div></a><a href='roster.aspx?Team=5'><div class='dynNavItmDefault' onmouseover='dynNavItmOver(this)' onmouseout='dynNavItmDefault(this)'>U16 </div></a>
+    </div>
+
+</form>
+
+    <script type="text/javascript">
+        function postToPayPal() {
+            document.forms[0].action = 'https://www.paypal.com/cgi-bin/webscr';
+            document.forms[0].target = '_blank';
+            document.forms[0].submit();
+        }
+    </script>
+
+</body>
+</html>

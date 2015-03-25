@@ -1,0 +1,135 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Homepage
+</title><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link href="/main.css" rel="stylesheet" type="text/css" />
+    <!-- CustomTemplate.master -->
+</head>
+<body>
+
+<link rel="stylesheet" type="text/css" href="/Content/directors/upimg/dir2312/website/styles.css">
+
+
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+  <!-- Begin Header -->
+  <div class="news" id="header">
+    <h1 align="left">Collinsville Soccer Club</h1><p style="text-align: center;"><span style=""></span><br></p><p style="text-align: center;"><span style="color: rgb(255, 0, 0);"></span>Find us on Facebook!!&nbsp;&nbsp; <a href="http://www.facebook.com/CvilleSoccerClub">Cville Soccer Club</a><br startcont="this"></p>
+    <h3 class="tableleft">&nbsp;</h3>
+<p>&nbsp;</p>
+    <h3 class="news" align="right">&nbsp;</h3>
+  </div>
+  <!-- End Header -->
+  <!-- Begin Navigation -->
+  <div id="navtop">
+    <ul>
+      <li><a href="/clubsite/?p=3665"> online registration</a></li><li><a href="/clubsite/?p=3663">field map</a></li>
+      <li><a href="/clubsite/?p=3662">Contact us</a></li>
+      <li><a href="/clubsite/?p=3661">home</a></li>
+    </ul>
+ 
+  </div>
+  <!-- End Navigation -->
+  <!-- Begin Left Column -->
+  <div id="leftcolumn"><div id="navigation">
+    <ul>
+        
+        <li><a href="/clubsite/?p=3668">schedule</a></li>
+        <li><a href="/clubsite/?p=3669">coaches corner </a></li>
+        <li><a href="/clubsite/?p=3670">players corner</a></li>
+        <li><a href="/clubsite/?p=3671">referees</a></li><li><a href="/clubsite/?p=3675">links</a></li>
+      </ul><a href="/clubsite/teams.aspx">teams</a>
+    </div>
+    <div class="tableleft">
+      <h4>&nbsp;</h4>
+    </div>
+  </div>
+  <!-- End Left Column -->
+  <!-- Begin Right Column -->
+  <div id="maincolumn">
+   
+   
+   
+
+    <form name="aspnetForm" method="post" action="Default.aspx?p=3661&amp;AspxAutoDetectCookieSupport=1" id="aspnetForm" class="NoPad">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzM4Njk5MjY4ZGQ/1gYyKHHFs1itWiBDgUaPnTCxTQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="354E6D71" />
+    <div>
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top">
+            
+<div id="ctl00_LeftUI_RelatedPages"></div>
+
+            </td>
+            <td valign="top">
+            
+<div id="ctl00_MainBody_PageContent"><SPAN style="FONT-SIZE: 36pt; TEXT-DECORATION: ; FONT-FAMILY: Impact"><SPAN style="FONT-SIZE: 36pt; FONT-FAMILY: Impact"><SPAN style="FONT-SIZE: 36pt; FONT-FAMILY: Impact">
+<DIV align=center>
+<DIV align=left><PRE style="FONT-SIZE: 36pt; WHITE-SPACE: normal; TEXT-ALIGN: center"><DIV class=shape style="PADDING-BOTTOM: 4.35pt; PADDING-TOP: 4.35pt; PADDING-LEFT: 7.95pt; PADDING-RIGHT: 7.95pt" align=center v:shape="Text_x0020_Box_x0020_2"><SPAN style='FONT-SIZE: 36pt; FONT-FAMILY: "Berlin Sans FB","sans-serif"; LINE-HEIGHT: 115%'>Spring season begins March 7<SUP>th</SUP>!<?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></DIV><P class=MsoNormal style="PADDING-BOTTOM: 4.35pt; TEXT-ALIGN: center; PADDING-TOP: 4.35pt; PADDING-LEFT: 7.95pt; MARGIN: 0in 0in 10pt; PADDING-RIGHT: 7.95pt" align=center v:shape="Text_x0020_Box_x0020_2"><SPAN style="FONT-SIZE: 24pt; FONT-FAMILY: Arial Black; LINE-HEIGHT: 115%"><A 
+href="https://www.gotsport.com/asp/application/reg/?ProgramID=33713&Type=PLAYER">Register Online
+Here</A><BR><BR><BR><BR><BR><BR><BR></SPAN><SPAN style='FONT-SIZE: 36pt; FONT-FAMILY: "Berlin Sans FB","sans-serif"; LINE-HEIGHT: 115%'>Contact Us: <BR><A href="cvillesoccer@gmail.com"><SPAN style="COLOR: #0000ff">cvillesoccer@gmail.com</SPAN></A><o:p></o:p></SPAN></P><P class=MsoNormal style="PADDING-BOTTOM: 4.35pt; TEXT-ALIGN: center; PADDING-TOP: 4.35pt; PADDING-LEFT: 7.95pt; MARGIN: 0in 0in 10pt; PADDING-RIGHT: 7.95pt" align=center v:shape="Text_x0020_Box_x0020_2"><SPAN style='FONT-SIZE: 36pt; FONT-FAMILY: "Berlin Sans FB","sans-serif"; LINE-HEIGHT: 115%'>Sara #918-851-2594</SPAN><BR></P></PRE></DIV></SPAN></SPAN></SPAN></DIV>
+
+</div>
+
+            </td>
+        </tr>
+    </table>
+    </div>
+    </form>
+    
+
+   
+  </div>
+  <!-- End Right Column -->
+  <div class="clear"></div>
+
+<div class="push"></div>  
+</div>
+
+<!-- End Wrapper -->
+<div id="footer"><a href="#"><img src="http://www.gotsport.com/Content/directors/upimg/dir11934/template/footerGS.png"></a></div>
+
+
+
+
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20472997-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9563615" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9563615&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    
+</body>
+</html>

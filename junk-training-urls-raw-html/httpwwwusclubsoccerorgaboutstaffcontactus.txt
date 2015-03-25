@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>Staff / Contact Us - US Club Soccer</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.usclubsoccer.org/xmlrpc.php">
+<link rel="shortcut icon" href="http://www.usclubsoccer.org/wp-content/themes/uscs/favicon.ico" />
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Looking for someone to contact within the US Club Soccer organization? Here is a list of our membership services representatives, administrators and national office staff members."/>
+<link rel="canonical" href="http://www.usclubsoccer.org/about/staffcontact-us/" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="US Club Soccer &raquo; Feed" href="http://www.usclubsoccer.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="US Club Soccer &raquo; Comments Feed" href="http://www.usclubsoccer.org/comments/feed/" />
+<link rel='stylesheet' id='wpinstagram-css'  href='http://www.usclubsoccer.org/wp-content/plugins/instagram-for-wordpress/wpinstagram.css?ver=0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css-css'  href='http://www.usclubsoccer.org/wp-content/plugins/instagram-for-wordpress/js/fancybox/jquery.fancybox-1.3.4.min.css?1' type='text/css' media='all' />
+<link rel='stylesheet' id='simple_tooltips_style-css'  href='http://www.usclubsoccer.org/wp-content/plugins/simple-tooltips/zebra_tooltips.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.usclubsoccer.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='YoutubeFeeder_styles-css'  href='http://www.usclubsoccer.org/wp-content/plugins/youtube-feeder/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-basic-css'  href='http://www.usclubsoccer.org/wp-content/plugins/ubermenu/standard/styles/basic.css?ver=2.4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-custom-css'  href='http://www.usclubsoccer.org/wp-content/plugins/ubermenu/custom/custom.css?ver=2.4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uscs-style-css'  href='http://www.usclubsoccer.org/wp-content/themes/uscs/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bxstyle-css'  href='http://www.usclubsoccer.org/wp-content/themes/uscs/bxslider/uscs.bxslider.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_table_style-css'  href='http://www.usclubsoccer.org/wp-content/plugins/easy-table/themes/cuscosky/style.css?ver=1.5.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.3.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5333100-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script>var jquery_placeholder_url = 'http://www.usclubsoccer.org/wp-content/plugins/gravity-forms-placeholders/jquery.placeholder-1.0.1.js';</script><script type='text/javascript' src='http://www.usclubsoccer.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/instagram-for-wordpress/js/jquery.easing-1.3.pack.js'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/instagram-for-wordpress/js/jquery.cycle.all.js'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/instagram-for-wordpress/js/jquery.fancybox-1.3.4.pack.js'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/instagram-for-wordpress/js/jquery.mousewheel-3.0.4.pack.js'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/youtube-feeder/js/jquery.youtubeplaylist.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/gravity-forms-placeholders/gf.placeholders.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.usclubsoccer.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.usclubsoccer.org/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://www.usclubsoccer.org/?p=19' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+
+<!-- UberMenu CSS - Controlled through UberMenu Options Panel 
+================================================================ -->
+<style type="text/css" id="ubermenu-style-generator-css">
+/* Menu Width - UberMenu Advanced Settings */
+#megaMenu{ width: 1000px; max-width:100%; }
+
+/* Inner Menu Width - used for centering - UberMenu Advanced Settings */
+#megaMenu ul.megaMenu{ max-width: 1000px; }
+/* Image Text Padding */
+#megaMenu .ss-nav-menu-with-img > a > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > a > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > a > .wpmega-item-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-item-description{
+  padding-left: 23px;
+}	
+</style>
+<!-- end UberMenu CSS -->
+		
+			</head>
+
+<body class="page page-id-19 page-parent page-child parent-pageid-5 page-template-default custom-background group-blog" >
+
+
+<div id="extBtnLinksWrapper">
+<div class="uscsLogo"><a href="http://www.usclubsoccer.org" rel="home" title="US Club Soccer Home"><img src="http://www.usclubsoccer.org/wp-content/themes/uscs/images/uscs-logo.png" alt="USCS Logo" style="border:0;" /></a></div>
+<a href="https://play.kyck.com/accounts/auth/kyck" target="_blank" class="button gray pnsb extBtnLogin gradient" title="Login">Login</a> <a href="http://www.usclubsoccer.org/resources/becoming-a-member/" class="button yellow pnsb extBtnCreateAccount" title="Join US Club Soccer">Join US Club Soccer</a> <!--  externalButtons  -->
+</div> <!--  extBtnLinksWrapper  -->
+<div id="siteWrapper">
+
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h1 class="menu-toggle">Menu</h1>
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+			
+			<!--
+<div id="searchDiv"><a href="#"><img src="http://www.usclubsoccer.org/wp-content/themes/uscs/images/search.png" alt="search" width="20" height="20"></a></div>
+			<div id="searchBoxDiv" class="hidden"><form role="search" method="get" class="search-form" action="http://www.usclubsoccer.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+</div>
+-->
+			<div id="megaMenu" class="megaMenuContainer megaMenu-nojs megaMenuHorizontal wpmega-withjs megaMenuOnHover megaFullWidth wpmega-noconflict megaCenterMenubar megaClear megaCenterInner megaMinimizeResiduals megaResetStyles themeloc-primary"><ul id="megaUber" class="megaMenu"><li id="menu-item-1483" class="home menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-0 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a title="home" href="http://www.usclubsoccer.org/"><span class="wpmega-link-title">Home</span></a></li><li id="menu-item-1487" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children mega-with-sub ss-nav-menu-item-1 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth mega-colgroup mega-colgroup-4 ss-nav-menu-mega-alignCenter"><a href="http://www.usclubsoccer.org/about/"><span class="wpmega-link-title">About</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-1510" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/about/vision-mission-core-values/"><span class="wpmega-link-title">Vision, Mission &#038; Core Values</span></a></li><li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/about/faqs/"><span class="wpmega-link-title">FAQs</span></a></li><li id="menu-item-1508" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/about/sponsors-partners/"><span class="wpmega-link-title">Sponsors &#038; Partners</span></a></li><li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/about/board-of-directors/"><span class="wpmega-link-title">Board of Directors</span></a></li><li id="menu-item-1506" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19 current_page_item ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/about/staffcontact-us/"><span class="wpmega-link-title">Staff/Contact Us</span></a></li></ul>
+</li><li id="menu-item-1486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth ss-nav-menu-mega-alignCenter"><a href="http://www.usclubsoccer.org/programs/"><span class="wpmega-link-title">Programs</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-1491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/programs/leagues/"><span class="wpmega-link-title">Leagues</span></a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-1498" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/npl/"><span class="wpmega-link-title">NPL</span></a></li><li id="menu-item-1569" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/premier-leagues/"><span class="wpmega-link-title">Premier Leagues</span></a></li><li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/ecnl/"><span class="wpmega-link-title">Elite Clubs National League</span></a></li><li id="menu-item-1567" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/other-youth-competitive-leagues/"><span class="wpmega-link-title">Other Youth Competitive Leagues</span></a></li><li id="menu-item-1566" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/rec-and-community-programs/"><span class="wpmega-link-title">Rec and Community Programs</span></a></li><li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/u-23-and-adult/"><span class="wpmega-link-title">U-23 and Adult</span></a></li><li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/leagues/sanction-your-league/"><span class="wpmega-link-title">Sanction Your League</span></a></li>	</ul>
+</li><li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/programs/cupstournaments/"><span class="wpmega-link-title">Cups/Tournaments</span></a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-1573" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/cupstournaments/the-national-cup/"><span class="wpmega-link-title">The National Cup</span></a></li><li id="menu-item-1572" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/cupstournaments/state-championships/"><span class="wpmega-link-title">State Championships</span></a></li><li id="menu-item-1571" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/cupstournaments/sanctioned-tournaments/"><span class="wpmega-link-title">Sanctioned Tournaments</span></a></li>	</ul>
+</li><li id="menu-item-1579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/programs/player-identification/"><span class="wpmega-link-title">Player Identification</span></a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-1581" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/player-identification/id2-program/"><span class="wpmega-link-title">id<sup>2</sup> Program</span></a></li><li id="menu-item-1580" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/player-identification/pdp/"><span class="wpmega-link-title">Player Development Programs (PDPs)</span></a></li>	</ul>
+</li><li id="menu-item-1578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/programs/club-development/"><span class="wpmega-link-title">Club Development</span></a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-1583" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/club-development/nscaaus-club-soccer-doc-diploma-courses/"><span class="wpmega-link-title">Director of Coaching Diploma Course</span></a></li><li id="menu-item-1576" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="http://www.usclubsoccer.org/programs/club-development/presence-at-nscaa-convention/"><span class="wpmega-link-title">Presence at NSCAA Convention</span></a></li>	</ul>
+</li></ul>
+</li><li id="menu-item-1590" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.usclubsoccer.org/news/"><span class="wpmega-link-title">News</span></a></li><li id="menu-item-1584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-fullWidth mega-colgroup mega-colgroup-4 ss-nav-menu-mega-alignCenter"><a href="http://www.usclubsoccer.org/resources/"><span class="wpmega-link-title">Resources</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-1589" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/resources/becoming-a-member/"><span class="wpmega-link-title">Becoming a Member</span></a></li><li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/resources/youth-club-standards/"><span class="wpmega-link-title">Youth Club Standards</span></a></li><li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/resources/background-checks/"><span class="wpmega-link-title">Background Checks</span></a></li><li id="menu-item-1586" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/resources/insurance/"><span class="wpmega-link-title">Insurance</span></a></li><li id="menu-item-1585" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/resources/forms-documents-center/"><span class="wpmega-link-title">Forms &#038; Documents Center</span></a></li><li id="menu-item-3637" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.usclubsoccer.org/resources/submit-payment/"><span class="wpmega-link-title">Submit Payment</span></a></li><li id="menu-item-4561" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.usclubsoccer.org/members-area/"><span class="wpmega-link-title">Members Area</span></a></li></ul>
+</li><li id="menu-item-1598" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-5 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.usclubsoccerstore.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.usclubsoccerstore.com/', 'Shop']);" ><span class="wpmega-link-title">Shop</span></a></li></ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+	
+		
+			
+		<div id="interiorHeaderDiv">
+		
+				<!-- Check for alternate header text -->
+							<div id="interiorHeaderText">
+				
+											
+						<!-- Use the page title if no custom text is selected -->
+						<h1>Staff/Contact Us</h1>
+					
+						
+				
+				</div><!-- #interiorHeaderText -->
+									
+				
+				<!-- Check for a custom image -->
+									
+					<!-- Use the default image if no custom image is selected -->
+					<img src="http://www.usclubsoccer.org/wp-content/themes/uscs/images/default-interior-header.jpg" alt="default-interior-header" width="1000" height="174">
+				
+							
+			</div><!--  #interiorHeaderDiv  -->
+			
+						
+		<div id="content" class="site-content">
+
+<div id="breadcrumbs"><div id="crumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://www.usclubsoccer.org/">Home</a></span> / <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://www.usclubsoccer.org/about/">About US Club Soccer</a></span> / <span class="current">Staff/Contact Us</span></div></div>
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+						
+	<!-- If we have sub-pages to show, lets show them now -->			
+	<div id="subNav">	  
+	  <ul>
+	  <li class="page_item page-item-2756"><a href="http://www.usclubsoccer.org/about/staffcontact-us/employment-opportunities/">Employment Opportunities</a></li>
+<li class="page_item page-item-1550"><a href="http://www.usclubsoccer.org/about/staffcontact-us/internship-opportunities/">Internship opportunities</a></li>
+<li class="page_item page-item-4328"><a href="http://www.usclubsoccer.org/about/staffcontact-us/kevin-payne/">Kevin Payne</a></li>
+<li class="page_item page-item-374"><a href="http://www.usclubsoccer.org/about/staffcontact-us/william-sage/">William Sage</a></li>
+<li class="page_item page-item-376"><a href="http://www.usclubsoccer.org/about/staffcontact-us/christian-lavers/">Christian Lavers</a></li>
+	  </ul>
+	
+		</div>
+
+
+				
+<article id="post-19" class="post-19 page type-page status-publish hentry parent-is-5 descendent-5 level-1 menu-order-7">
+	<!-- <header class="entry-header"> -->
+		<!-- <h1 class="entry-title">Staff/Contact Us</h1> -->
+	<!-- </header> --><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><em>Contact administrative staff regarding passcards, background checks, insurance and other registration-related matters.</em></p>
+<p><em>Contact your respective membership services representative regarding competition, programming or membership matters.</em></p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2" bgcolor="#cccccc">
+<tbody>
+<tr>
+<td align="center">
+<h3></h3>
+<h3 align="center">MEMBERSHIP SERVICES STAFF:</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<div id="attachment_364" style="width: 674px" class="wp-caption aligncenter"><img class=" wp-image-364  " src="http://www.usclubsoccer.org/wp-content/uploads/2013/11/membership-services-map.gif" alt="Membership Services" width="664" height="444" /><p class="wp-caption-text">Membership Services</p></div>
+<p><strong>John Borozzi, Vice President</strong><br />
+<a href="mailto:jborozzi@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','jborozzi@usclubsoccer.org']);" >jborozzi@usclubsoccer.org</a> | (954) 509-1004</p>
+<p><strong>North Central: Todd Bailey</strong><br />
+<a href="mailto:tbailey@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','tbailey@usclubsoccer.org']);" >tbailey@usclubsoccer.org</a> | (630) 346-7707</p>
+<p><strong>Northeast: Mike Gould</strong><br />
+<a href="mailto:mgould@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','mgould@usclubsoccer.org']);" >mgould@usclubsoccer.org</a> | (732) 564-4440</p>
+<p><strong>South Central: Wade Breaux</strong><br />
+<a href="mailto:wbreaux@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','wbreaux@usclubsoccer.org']);" >wbreaux@usclubsoccer.org</a> | (979) 575-1070</p>
+<p><strong>Southeast: Kevin McGovern</strong><br />
+<a href="mailto:kmcgovern@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','kmcgovern@usclubsoccer.org']);" >kmcgovern@usclubsoccer.org</a> | (843) 742-5513</p>
+<p><strong>West: Gabe Rood</strong><br />
+<a href="mailto;grood@usclubsoccer.org">grood@usclubsoccer.org</a> | (707) 332-4316</p>
+<p><strong>West: Matt Bernard</strong><br />
+<a href="mailto:mbernard@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','mbernard@usclubsoccer.org']);" >mbernard@usclubsoccer.org</a> | (707) 235-0466</p>
+<hr />
+<table border="0" width="100%" cellspacing="2" cellpadding="2" bgcolor="#cccccc">
+<tbody>
+<tr>
+<td align="center">
+<h3></h3>
+<h3 align="center">ADMINISTRATIVE STAFF:</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Office:</strong> 716 8th Avenue North | Myrtle Beach, S.C. 29577<br />
+<strong>Phone:</strong> (843) 429-0006<br />
+<strong>Hours:</strong>  Monday through Friday, 9 a.m. &#8211; 5 p.m. ET</p>
+<div id="attachment_3756" style="width: 698px" class="wp-caption aligncenter"><a href="http://www.usclubsoccer.org/wp-content/uploads/2013/11/2014-08-26-Admin-map.jpg"><img class=" wp-image-3756" src="http://www.usclubsoccer.org/wp-content/uploads/2013/11/2014-08-26-Admin-map-1024x683.jpg" alt="Administrators" width="688" height="458" /></a><p class="wp-caption-text">Administrators</p></div>
+<p><strong>Karla Dalton, Region A</strong><br />
+<a href="mailto:AdminRegionA@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','AdminRegionA@usclubsoccer.org']);" >AdminRegionA@usclubsoccer.org</a> | (843) 429-0006 x316</p>
+<p><strong>Rose Barry, Region B</strong><br />
+<a href="mailto:AdminRegionB@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','AdminRegionB@usclubsoccer.org']);" >AdminRegionB@usclubsoccer.org</a> | (843) 429-0006 x321</p>
+<p><strong>Becky Flynt, Region C</strong><br />
+<a href="mailto:AdminRegionC@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','AdminRegionC@usclubsoccer.org']);" >AdminRegionC@usclubsoccer.org</a> | (843) 429-0006 x305</p>
+<p><strong><strong>Shawna Ziemer</strong>, Region D</strong><br />
+<a href="mailto:AdminRegionD@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','AdminRegionD@usclubsoccer.org']);" >AdminRegionD@usclubsoccer.org</a> | (843) 429-0006 x314</p>
+<p><strong>Rachel Burroughs, Region E</strong><br />
+<a href="mailto:AdminRegionE@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','AdminRegionE@usclubsoccer.org']);" >AdminRegionE@usclubsoccer.org</a> | (843) 429-0006 x308</p>
+<p><strong>Beverly Majerczak, Admin Processing Supervisor</strong><br />
+<a href="mailto:Bmajer@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','Bmajer@usclubsoccer.org']);" >bmajer@usclubsoccer.org</a> | (843) 429-0006 x326</p>
+<p><strong>Sharon Young, Director of Administrative Programs</strong><br />
+<a href="mailto:leaguesupport@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','leaguesupport@usclubsoccer.org']);" >leaguesupport@usclubsoccer.org</a> | (843) 429-0006 x303</p>
+<hr />
+<table border="0" width="100%" cellspacing="2" cellpadding="2" bgcolor="#cccccc">
+<tbody>
+<tr>
+<td align="center">
+<h3></h3>
+<h3 align="center">NATIONAL OFFICE:</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Office:</strong> 192 E. Bay St., Ste. 301 | Charleston, S.C. 29401<br />
+<strong>Phone:</strong> (843) 614-4140<br />
+<em>All media requests should be made to Tyler Heffernan (contact information below).</em></p>
+<p><strong>Kevin Payne, CEO [<a href="http://www.usclubsoccer.org/about/staffcontact-us/kevin-payne/">Bio</a>]<br />
+</strong>(843) 614-4140 x16<strong><br />
+</strong></p>
+<p><strong>Bill Sage, Executive Director [<strong><a title="William Sage" href="http://www.usclubsoccer.org/about/staffcontact-us/william-sage/">Bio</a></strong>]</strong><br />
+<a href="mailto:bsage@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','bsage@usclubsoccer.org']);" >bsage@usclubsoccer.org</a> | (843) 614-4140 x17</p>
+<p><strong>Christian Lavers, Executive Vice President [<strong><a title="Christian Lavers" href="http://www.usclubsoccer.org/about/staffcontact-us/christian-lavers/">Bio</a></strong>]</strong><br />
+<a href="mailto:clavers@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','clavers@usclubsoccer.org']);" >clavers@usclubsoccer.org</a></p>
+<p>________________________________________<br />
+<strong>Rory Dames, <strong>id<sup>2</sup></strong> Girls Program Director</strong><br />
+<a href="mailto:rdames@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','rdames@usclubsoccer.org']);" >rdames@usclubsoccer.org</a></p>
+<p><strong>Leo Garcia, NPL General Manager</strong><br />
+<a href="mailto:lgarcia@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','lgarcia@usclubsoccer.org']);" >lgarcia@usclubsoccer.org</a> | (843) 614-4140 x13</p>
+<p><strong>Tyler Heffernan, Communications Manager</strong><br />
+<a href="mailto:theffernan@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','theffernan@usclubsoccer.org']);" >theffernan@usclubsoccer.org</a> | (843) 614-4140 x20</p>
+<p><strong>Greg Hutton, Director of Organizational Operations</strong><br />
+<a href="mailto:ghutton@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','ghutton@usclubsoccer.org']);" >ghutton@usclubsoccer.org</a> | (843) 614-4140 x14</p>
+<p><strong>Gerry McKeown, id<sup>2</sup> Boys Program Director</strong><br />
+<a href="mailto:gmckeown@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','gmckeown@usclubsoccer.org']);" >gmckeown@usclubsoccer.org</a></p>
+<p><strong>Justin Peterman, PDP and Special Events Manager</strong><br />
+<a href="mailto:jpeterman@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','jpeterman@usclubsoccer.org']);" >jpeterman@usclubsoccer.org</a> | (843) 614-4140 x15</p>
+<p><strong>Chad Williams, Director of Events</strong><br />
+<a href="mailto:cwilliams@usclubsoccer.org" onclick="_gaq.push(['_trackEvent','mailto','cwilliams@usclubsoccer.org']);" >cwilliams@usclubsoccer.org</a> | (843) 614-4140 x12</p>
+			</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<!--  Sidebar goes here when needed.  -->
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div id="logoWrapper">
+			<ul>
+			<li><a href="http://www.NikeSoccer.com" class="nike" title="Nike Soccer - The Exclusive Athletic Apparel and Equipment Supplier to US Club Soccer" target="_blank" >NIKE</a></li><!--
+			--><li><a href="http://www.nationwide.com/usclubsoccer.jsp" class="nationwide" title="Nationwide is on your side" target="_blank">Guard Soccer</a></li><!--
+			--><li><a href="http://www.FairfieldInn.com/Soccer" class="fairfield" title="Fairfield Inn - Official Hotel of US Club Soccer">Fairlfield Inn</a></li><!--
+			--><li><a href="http://www.AnthonyTravel.com" class="anthony" title="Anthony Travel - The Official Travel Partner of US Club Soccer" target="_blank">Anthony Travel</a></li><!--
+			--><li><a href="http://www.Soccer.com" class="eurosport" title="Eurosport the Fabled Soccer Traders" target="_blank">Eurosport</a></li><!--
+			--><li><a href="http://www.MLSsoccer.com" class="mls" title="Major League Soccer" target="_blank">MLS</a></li><!--
+			--><li><a href="http://www.NSCAA.com" class="nscaa" title="NSCAA" target="_blank">NSCAA</a></li><!--
+			--><li><a href="http://www.SportPins.com" class="sportpins" title="Sport Pins" target="_blank">Sport Pins</a></li><!--
+			--><li><a href="http://www.premierinternationaltours.com/soccer" class="pit" title="Premier International Tours" target="_blank">PIT</a></li><!--
+			--><li><a href="http://www.playisoccer.com" class="isoccer" title="Play iSoccer" target="_blank">iSoccer</a></li>
+			</ul>
+			
+			
+		</div>
+		
+		<div id="footerWrapperDark">
+			<div id="footerLogo"><a href="http://www.usclubsoccer.org" rel="home" title="US Club Soccer Home"><img src="http://www.usclubsoccer.org/wp-content/themes/uscs/images/usclubsoccer-logo-footer.png" /></a></div>
+			<div id="footerMenu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-91"><a href="http://www.usclubsoccer.org/">Home</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-92"><a href="http://www.usclubsoccer.org/about/">About</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="http://www.usclubsoccer.org/news/">News</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://www.usclubsoccer.org/programs/">Programs</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a href="http://www.usclubsoccer.org/resources/becoming-a-member/">Resources</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="http://www.usclubsoccerstore.com" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.usclubsoccerstore.com', 'Shop']);" >Shop</a></li>
+</ul></div></div>
+			<div id="emailCaptureDiv">
+				<div id="captureHeader">Subscribe</div>
+				<div id="captureWrapperDiv">
+					<div id="captureFormBg">
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/about/staffcontact-us/'>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1' class='gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_1' >Email Address<span class='gfield_required'>*</span></label><div class='ginput_container'>
+                            <input name='input_1' id='input_1_1' type='email' value='' class='medium' tabindex='1'   />
+                        </div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Subscirbe' tabindex='2' onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' /> 
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjljYTY4NTQ0YTU4NjY2NzQxNDgxZjBkY2NiNzczYTdmIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script></div>
+				</div>
+			</div>
+			<div id="footerSocialMediaDiv">
+				<div id="socialMediaHeader">Social</div>
+				<div id="socialMediaListDiv">
+					<ul>
+						<li class="follow">Follow Us:</li>
+						<li class="twitter clickable"><a href="https://twitter.com/usclubsoccer" title="Follow Us on Twitter" target="_blank">Twitter</a></li>
+						<li class="facebook"><a href="https://www.facebook.com/usclubsoccer" title="Follow Us on Facebook" target="_blank">Facebook</a></li>
+						<li class="youtube"><a href="http://www.youtube.com/usclubsoccer" title="Subscribe on YouTube" target="_blank">YouTube</a></li>
+						<li class="instagram"><a href="http://instagram.com/usclubsoccer" title="Follow Us on Instagram" target="_blank">Instagram</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="legalMenu"><div class="menu-legal-menu-container"><ul id="menu-legal-menu" class="menu"><li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://www.usclubsoccer.org/sitemap/">Sitemap</a></li>
+<li id="menu-item-3675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3675"><a href="http://www.usclubsoccer.org/terms-of-use-privacy-policy/">Terms of Use &#038; Privacy Policy</a></li>
+</ul></div></div>
+			<div id="footerCopyright" class="pnsb">2015 US CLUB SOCCER. ALL RIGHTS RESERVED.</div>
+			
+		</div>
+
+
+
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+</div><!--  #siteWrapper  -->
+
+	<script>
+	        jQuery(document).ready(function($) {
+	                $("ul.wpinstagram").find("a").each(function(i, e) {
+                        	e = $(e);
+                	        e.attr('data-href', e.attr('href'));
+        	                e.attr('href', e.attr('data-original'));
+	                });
+
+                	$("ul.wpinstagram.live").find("a.mainI").fancybox({
+        	                "transitionIn":                 "elastic",
+	                        "transitionOut":                "elastic",
+                        	"easingIn":                     "easeOutBack",
+                	        "easingOut":                    "easeInBack",
+        	                "titlePosition":                "over",   
+	                        "padding":                              0,
+                        	"hideOnContentClick":   "false",
+                	        "type":                                 "image",   
+        	                titleFormat:                    function(x, y, z) {
+	
+        	                        var html = '<div id="fancybox-title-over">';
+	
+                	                if (x && x.length > 0) {  
+        	                                html += x + ' - ';
+	                                }
+
+                                	html += '<a href="http://ink361.com/">Instagram</a> web interface</div>';
+                        	        return html;
+                	        }
+        	        });
+
+	                jQuery('#fancybox-content').live('click', function(x) {
+        	                var src = $(this).find('img').attr('src');
+	                        var a = $("ul.wpinstagram.live").find('a.[href="' + src + '"]').attr('data-user-url');
+                  		
+                	        document.getElementById('igTracker').src=$('ul.wpinstagram').find('a[href="' + src + '"]').attr('data-onclick');
+        	                window.open(a, '_blank');
+	                })
+        	});
+	</script>
+	<link rel='stylesheet' id='gforms_reset_css-css'  href='http://www.usclubsoccer.org/wp-content/plugins/gravityforms/css/formreset.css?ver=1.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='http://www.usclubsoccer.org/wp-content/plugins/gravityforms/css/formsmain.css?ver=1.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='http://www.usclubsoccer.org/wp-content/plugins/gravityforms/css/readyclass.css?ver=1.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='http://www.usclubsoccer.org/wp-content/plugins/gravityforms/css/browsers.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/themes/uscs/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/simple-tooltips/zebra_tooltips.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-includes/js/hoverIntent.min.js?ver=r7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"hoverIntent","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"on","windowsClick":"on","iOScloseButton":"off","loadGoogleMaps":"off","repositionOnLoad":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/ubermenu/core/js/ubermenu.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.usclubsoccer.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/themes/uscs/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/themes/uscs/js/uscs-custom.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.usclubsoccer.org/wp-content/themes/uscs/js/jquery.bxslider.min.js?ver=20131216'></script>
+                			            
+                <script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#000000',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .90, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>        
+		
+</body>
+</html>

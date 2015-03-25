@@ -1,0 +1,557 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>
+            South Lakes Soccer Club        </title>
+        <link rel="shortcut icon" href="favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="/resources/css/style.css" media="screen" />        <link rel="stylesheet" type="text/css" href="/resources/css/custom-theme/jquery-ui.css" media="screen" />        <script type="text/javascript" src="/resources/js/jquery.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery-ui.js"></script>
+        <!-- Account=UA-25043863-1 --><!-- should be included -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-25043863-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+    </head>
+    <body>
+    <div id="wrapper">
+        <div id="notices">
+</div>
+        <div id="header">
+            <div id="user-menu">
+                <ul class = "menu">
+                            </ul>
+            </div>
+            <div id="main-menu">
+                <!--
+                <div id="min"</div></div>
+                <ul class="menu">
+                </ul>
+                -->
+                <ul class="menu top">
+        <li class="item"><a href='/'  class='top selected' >Home</a></li>
+                        <li class="item" id="item-1">
+        <a href='/recreational' id='anchor-1' class='top' >Recreational</a><script type="text/javascript">
+$(function($) {
+    $(document).ready(function() {
+        var data = {state: 0};
+        $("#item-1").mouseenter(data, function() {
+            //$("#drop-1").addClass('showme').removeClass('hideme');
+            if (data['state'] == 0)
+            {
+                $("#drop-1").show("slide", {direction:"up"});
+                data['state'] = 1;
+            }
+        })
+        $("#item-1").mouseleave(data, function() {
+            //$("#drop-1").removeClass('showme').addClass('hideme');
+            if (data['state'] == 1)
+            {
+                $("#drop-1").hide("slide", {direction:"up"});
+                data['state'] = 0;
+            }
+        })
+    })
+});
+</script>
+        <div id="drop-1" class="hideme">
+        <ul class="drop">
+            <li class="sub"><a href='/Recreational/page/show/coach_s_corner'  class='sub' >Coach's Corner</a></li>
+            <li class="sub"><a href='/Recreational/page/show/spring_2015_schedules'  class='sub' >Spring 2015 Schedules</a></li>
+        </ul>
+        </div>
+    </li>
+                        <li class="item" id="item-2">
+        <a href='/academy' id='anchor-2' class='top' >Academy</a><script type="text/javascript">
+$(function($) {
+    $(document).ready(function() {
+        var data = {state: 0};
+        $("#item-2").mouseenter(data, function() {
+            //$("#drop-2").addClass('showme').removeClass('hideme');
+            if (data['state'] == 0)
+            {
+                $("#drop-2").show("slide", {direction:"up"});
+                data['state'] = 1;
+            }
+        })
+        $("#item-2").mouseleave(data, function() {
+            //$("#drop-2").removeClass('showme').addClass('hideme');
+            if (data['state'] == 1)
+            {
+                $("#drop-2").hide("slide", {direction:"up"});
+                data['state'] = 0;
+            }
+        })
+    })
+});
+</script>
+        <div id="drop-2" class="hideme">
+        <ul class="drop">
+            <li class="sub"><a href='/Academy/page/show/spring_2015_schedules'  class='sub' >Spring 2015 Schedules</a></li>
+        </ul>
+        </div>
+    </li>
+                        <li class="item" id="item-3">
+        <a href='/competitive' id='anchor-3' class='top' >Competitive</a><script type="text/javascript">
+$(function($) {
+    $(document).ready(function() {
+        var data = {state: 0};
+        $("#item-3").mouseenter(data, function() {
+            //$("#drop-3").addClass('showme').removeClass('hideme');
+            if (data['state'] == 0)
+            {
+                $("#drop-3").show("slide", {direction:"up"});
+                data['state'] = 1;
+            }
+        })
+        $("#item-3").mouseleave(data, function() {
+            //$("#drop-3").removeClass('showme').addClass('hideme');
+            if (data['state'] == 1)
+            {
+                $("#drop-3").hide("slide", {direction:"up"});
+                data['state'] = 0;
+            }
+        })
+    })
+});
+</script>
+        <div id="drop-3" class="hideme">
+        <ul class="drop">
+            <li class="sub"><a href='/Competitive/page/show/2014_2015_competitive_opl_sched'  class='sub' >2014/2015 Competitive/OPL Schedules</a></li>
+        </ul>
+        </div>
+    </li>
+                        <li class="item" id="item-4">
+        <a href='/tournaments' id='anchor-4' class='top' >Tournaments</a>    </li>
+                        <li class="item" id="item-5">
+        <a href='/camps' id='anchor-5' class='top' >Camps</a>    </li>
+    </ul>
+
+    
+            </div>
+        </div>
+                <div class="colmask">
+            <div class="middle">
+                <div class="left">
+                    <div class="col1">
+        <!-- div class="breadcrumb"></div-->
+                        <div class="section">
+                            <!--h2>Latest Info from South Lakes Soccer Club</h2-->
+<script type="text/javascript" src="/resources/js/slideshow.js"></script>
+<script type="text/javascript">
+$(function(){
+    $('#news-show').slideshow({delay: 15000});
+});
+</script>
+<!--h1 class="title">South Lakes Soccer Club</h1-->
+<ul class="menu">
+    <li><a href='/'  class='selected' >News</a></li>
+    <li><a href='/event/calendar/main/0'  class='' >Events</a></li>
+</ul>
+<ul class="admin-menu">
+        </ul>
+
+<div id="news-show">
+                <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/news/SLSC_Badge_LARGE13.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Club/news/show/friday_night_little_cosmos_now_'   >Friday Night Little Cosmos NOW WITH 2 LEAGUE GAMES</a>        </div>
+        <div class="program_name">
+            <a href='/Club'   >Club</a>        </div>
+        <span class="date">
+            1 month  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-size: 36.0pt; font-family: 'Tempus Sans ITC'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">SLSC &ldquo;little cosmos&rdquo; Program</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">The SLSC &ldquo;Little Cosmos&rdquo; Program is designed for 3 and 4 year old players interested in having a good time and being introduced to the best game on the planet.&nbsp; The sessions will focus on foot-eye coordination, balance, and having fun.&nbsp; The sessions will be 45 minutes long each week and the program will run for 6 weeks.&nbsp; There is will also be 2 Saturday &ldquo;game day&rdquo; sessions during the season.&nbsp; This will allow the players to play in a game setting twice during the season to assist with the transition to full blown soccer in the future!</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><strong><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;The program will be available to players with a birthdate in the range below:</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><strong><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Feb 1, 2011-January 31</span></strong><strong><sup><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">st</span></sup></strong><strong><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';"> 2012</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><strong><span style="font-size: 16.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Fall Season &ldquo;Little cosmos&rdquo; Program</span></strong><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">- Begins in March and will be held on Friday night. Sessions will be held from 545p-630p.</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: #00b0f0;">&nbsp;</span><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">The &ldquo;Little Cosmos&rdquo; Registration Fee- <em>$55</em> (This includes an official &ldquo;little cosmos&rdquo; T-shirt!)</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Registration Information</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></p>
+<ol style="margin-top: 0in;" type="1" start="1">
+<li class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Online when you register your child</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">At any &ldquo;In-Person&rdquo; registration </span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Prior to the first &ldquo;Little Cosmos&rdquo; session at 5:30pm</span></li>
+</ol>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><strong><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><strong><span style="text-decoration: underline;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Dates:</span></span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: 16px;">TBA&nbsp;</span></span></p>
+<p><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span><sup><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;</span></sup><strong><em><sup><span style="font-size: 16.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">All Sessions will be held at the SLSC Game Complex&nbsp;</span></sup></em></strong></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><strong><em><span style="font-size: 16.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';"><a title="Register here" href="https://www.gotsport.com/asp/application/reg/?ProgramID=32386">Register here</a></span></em></strong></p></div>
+            <div class="more"><a href='/Club/news/show/friday_night_little_cosmos_now_'   >Read more...</a></div>
+        </div>
+    </div>
+            <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/news/SLSC_Badge_LARGE13.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Club/news/show/new_street_soccer_friday_night_'   >NEW STREET SOCCER FRIDAY NIGHT PROGRAM</a>        </div>
+        <div class="program_name">
+            <a href='/Club'   >Club</a>        </div>
+        <span class="date">
+            7 months  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="text-decoration: underline;"><span style="font-size: 18.0pt; line-height: 115%; font-family: Ravie;">++NEW Program!++</span></span></strong></p>
+<p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="text-decoration: underline;"><span style="font-size: 18.0pt; line-height: 115%; font-family: Ravie;">SLSC &ldquo;STREET SOCCER&rdquo;</span></span></strong></p>
+<p class="MsoNormal"><strong><em><span style="font-size: 12.0pt; line-height: 115%;">What is it?</span></em></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%;">&ldquo;Street Soccer&rdquo; is backyard soccer where the players manage the game.&nbsp; There are no coaches or referees.&nbsp; Players decide on teams, formations, positions, etc.&nbsp; They must also call their own fouls and work together.&nbsp; </span></p>
+<p class="MsoNormal"><strong><em><span style="font-size: 12.0pt; line-height: 115%;">What is the Cost?</span></em></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%;">Players will pay $5 cash to participate at the field.&nbsp; This will allow players to attend without making a full commitment.&nbsp; Show up on the nights you can play and miss the others.&nbsp; </span></p>
+<p class="MsoNormal"><strong><em><span style="font-size: 12.0pt; line-height: 115%;">When? Where?</span></em></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%;">&ldquo;Street Soccer&rdquo; will be held on Friday nights from 730-830pm at the SLSC Game Complex.&nbsp; </span></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%;">Players should bring all necessary equipment including a light/dark shirt.&nbsp; Shin-guards are required!</span></p>
+<p class="MsoNormal"><strong><em><span style="font-size: 12.0pt; line-height: 115%;">Who?</span></em></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%;">All SLSC players are welcome to attend.&nbsp; </span></p>
+<p class="MsoNormal"><strong><em><span style="font-size: 14.0pt; line-height: 115%;">Thoughts</span></em></strong><strong><em><span style="font-size: 18.0pt; line-height: 115%;">&hellip;</span></em></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%;">Too often soccer has way too much structure.&nbsp; Ask any good player at a high level what was vital in their development.&nbsp;&nbsp; Pick-up games of some kind in the backyard or park are always mentioned.&nbsp; We want the SLSC Game Complex to serve as the &ldquo;Backyard&rdquo; for our players.&nbsp; </span></p>
+<p class="MsoNormal"><em><span style="font-size: 10.0pt; line-height: 115%;">Please come out and support the program and enjoy the game!</span></em></p>
+<p><span style="font-size: 9pt; line-height: 115%; font-family: 'Lucida Sans Unicode', sans-serif;"><br /><!--[endif]--></span></p></div>
+            <div class="more"><a href='/Club/news/show/new_street_soccer_friday_night_'   >Read more...</a></div>
+        </div>
+    </div>
+            <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/news/SLSC_Badge_LARGE13.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Club/news/show/spring_friday_night_extra_time'   >Spring Friday Night Extra Time</a>        </div>
+        <div class="program_name">
+            <a href='/Club'   >Club</a>        </div>
+        <span class="date">
+            1 month  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="text-decoration: underline;"><span style="font-size: 20.0pt; font-family: 'Bradley Hand ITC'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">***EXTRA TIME***</span></span></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">The SLSC &ldquo;Extra Time&rdquo; Program is designed for all Competitive and Academy players.&nbsp; This Program is offered by the South Lakes Soccer Club to supplement the training received in the Competitive and Academy programs.&nbsp; Each program is tailored to the specific topic and the focus remains consistent throughout the program.&nbsp; Players will have 3 choices when it comes to training.&nbsp; These options are outlined below and players are welcome to participate in more than one session.&nbsp; Each program has its own unique benefits and will allow for maximum learning each session.</span></p>
+<p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 14.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Speed &amp; Agility (530-630p-$50)</span></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">SLSC is dedicated to meeting all of its athlete&rsquo;s needs.&nbsp; The &ldquo;Speed &amp; Agility&rdquo; program is designed for all players interested in improving their overall athleticism.&nbsp; The sessions will focus on foot speed, (including transitions into cuts and changes of direction) foot coordination, acceleration, deceleration, core strength, and flexibility.</span></p>
+<p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 14.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Ball Mastery (530-630p-$50)</span></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">In a team setting tactical and positional training must occur.&nbsp; Individual time spent with the ball tends to be less as players get older.&nbsp; Often players are looking for additional training or individual training to help in areas like speed, fast footwork, juggling, moves to beat opponents, and overall ball mastery.&nbsp; This program addresses the need for such technical training.&nbsp; While individual training will always be offered, the &ldquo;Ball Mastery&rdquo; program will offer a more affordable option.&nbsp; These hour long sessions will challenge players to take their technical skills to the next level.&nbsp;</span></p>
+<p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 14.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Shooting &amp; Striking (630-730p-$50)</span></strong></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">This very successful program will focus on proper technique in striking the soccer ball.&nbsp; Players often struggle with the ability to strike the ball correctly and with power.&nbsp; This program will address those needs.&nbsp; These sessions will be instructional and will allow players to grow in their individual confidence.&nbsp; There isn&rsquo;t anything better than striking a ball at goal!</span></p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;There will be 8 sessions on Friday nights this season. &nbsp;Exact Dates will be coming soon!</span></p>
+<p class="MsoNormal"><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';"><a title="Register here" href="https://www.gotsport.com/asp/application/reg/?ProgramID=32386">Register here &nbsp;</a></span><span style="font-family: Helvetica, sans-serif; font-size: 12px; white-space: nowrap;"><a title="Register Here" href="%20https://www.gotsport.com/asp/application/reg/?ProgramID=32386">&nbsp;</a></span></p>
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom: 0.0001pt; text-indent: -0.25in;"><!--[if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">&middot;<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><strong><span style="font-size: 10.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">All sessions will be held at the SLSC Game Complex.&nbsp; All participants in the SLSC Extra Time program will receive an official T-shirt.</span></strong></p></div>
+            <div class="more"><a href='/Club/news/show/spring_friday_night_extra_time'   >Read more...</a></div>
+        </div>
+    </div>
+            <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/news/SLSC_Badge_LARGE13.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Recreational/news/show/spring_friday_night_head_start'   >Spring Friday Night Head Start</a>        </div>
+        <div class="program_name">
+            <a href='/Recreational'   >Recreational</a>        </div>
+        <span class="date">
+            2 weeks  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="text-decoration: underline;"><span style="font-size: 12.0pt; font-family: Algerian; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">SLSC &ldquo;Head Start&rdquo; Program</span></span></p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;The SLSC Head Start Program is designed for all recreational players at any level.&nbsp; The Program is offered by the South Lakes Soccer Club to increase the technical skills of its participants while keeping things challenging and fun.&nbsp; These hour long sessions will challenge players to take their technical skills to the next level.&nbsp; Players will be sorted by age and ability.&nbsp; They will primarily be in these groups for the duration of the program.&nbsp; Specifically, they will work with the players on ball mastery, fast footwork, juggling, dribbling, dribbling to beat an opponent, dribbling for speed, passing, shooting, receiving, etc.&nbsp; </span></p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;This program will allow players to continue to play on their recreational team of choice while getting additional training that will help them take their game to the next level.&nbsp; This program will also offer coaches a great opportunity to have a professional staff work with their players and can be used as a practice for the entire team.&nbsp; Coaches are encouraged to attend, take notes, ask questions, and take ideas back to their teams on a regular basis.&nbsp; </span></p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;Fall Head Start Program- March 13th through May (8 sessions)</span></p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">&nbsp;Sessions will be held on Friday nights from 5:30 pm to 6:30 pm at the SLSC complex.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Head Start Registration Fee- $70 (This includes a T-shirt!)</span></p>
+<p class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';">Registration:</span><span style="font-family: Helvetica, sans-serif; font-size: 12px; white-space: nowrap;">&nbsp;https://www.gotsport.com/asp/application/reg/Default.asp?ProgramID=32386</span></p></div>
+            <div class="more"><a href='/Recreational/news/show/spring_friday_night_head_start'   >Read more...</a></div>
+        </div>
+    </div>
+            <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/Program/Recreational/SLSC_Badge_web.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Recreational/news/show/2015_spring_in_house_recreation'   >2015 SPRING IN-HOUSE RECREATIONAL (U4-U12) SEASON DELAYED UNTIL 3/21</a>        </div>
+        <div class="program_name">
+            <a href='/Recreational'   >Recreational</a>        </div>
+        <span class="date">
+            2 weeks  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><div>The 2015 Spring In-House Recreational has been delayed until 3/21. &nbsp;This change only impacts our In-House teams and players. &nbsp;All Travel Recreational, Recreational Select, OCL, OPL, and PLW Leagues will play as scheduled 3/7-8.</div>
+<div>Thank you.</div></div>
+            <div class="more"><a href='/Recreational/news/show/2015_spring_in_house_recreation'   >Read more...</a></div>
+        </div>
+    </div>
+            <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/Program/Recreational/SLSC_Badge_web.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Recreational/news/show/recreation_reschedule_policy'   >Recreation Reschedule Policy</a>        </div>
+        <div class="program_name">
+            <a href='/Recreational'   >Recreational</a>        </div>
+        <span class="date">
+            3 weeks  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 14.0pt;">SLSC Policy for Ages u5 &ndash; U12 In-House Recreational League</span></strong></p>
+<p class="MsoNormal" style="text-align: center;" align="center"><span style="font-size: 14.0pt;">&nbsp;</span></p>
+<p class="MsoNormal"><strong><em><span style="text-decoration: underline;">This reschedule policy only applies to SLSC In-House recreational teams</span></em></strong>.&nbsp; All other leagues (Travel Recreation, Oklahoma Competitive League, and Oklahoma Premier League) must follow the OSA reschedule policy for their respective league.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">SLSC will attempt to accommodate all No Play and any special scheduling requests, but cannot guarantee every request will be accommodated due to possible scheduling constraints/challenges.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><em>Each coach must login to their GotSoccer coach account prior to the start of the season and update contact information to include a valid phone number and valid email address</em>.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Prior to season start and up to 48 hours after the pre-season coaches meeting, coaches can submit up to two (2) No Play dates (each request is one day) and any special scheduling requests to <a title="scheduler email" href="mailto:scheduler@southlakessoccer.org">scheduler@southlakessoccer.org</a> .&nbsp; The following information must be included with the request:</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Coach Name</p>
+<p class="MsoNormal">Team Name/Division</p>
+<p class="MsoNormal">Phone/email</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><strong>IN-SEASON RESCHEDULE REQUESTS PROCEDURE</strong></p>
+<p class="MsoNormal"><strong>&nbsp;</strong></p>
+<p class="MsoNormal"><strong><em><span style="text-decoration: underline;">Coaches &ndash; check your schedule frequently, especially early in the season.</span></em></strong><em></em></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">All coach contact information will be located in the GotSoccer Schedule (Top right hand corner).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Reschedule requests must be received by email at <a title="scheduler email" href="mailto:scheduler@southlakessoccer.org">scheduler@southlakessoccer.org</a>&nbsp; by Saturday, the week prior to your scheduled match to be considered for reschedule without additional fees applying.&nbsp; If you cancel/request a reschedule after this time or NO SHOW to a game, the team cancelling or no show will have to pay the referees in order to reschedule.&nbsp; The game will not be rescheduled until payment is received by SLSC.&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Fees range from $15 to $85 depending on division.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Game availability:</p>
+<p class="MsoNormal">Saturday - 9:00 AM to 5:00 PM</p>
+<p class="MsoNormal">Sunday - 12:00 Noon to 5:00 PM</p>
+<p class="MsoNormal">Monday or Wednesday &ndash; 5:30 PM (available September, October, March, April, May)&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">&middot;<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Contact the opposing coach to let them know you will need to reschedule your game and discuss potential reschedule dates.&nbsp; If you do not hear back from the other coach, please email <a title="scheduler email" href="mailto:scheduler@southlakessoccer.org">scheduler@southlakessoccer.org</a> for assistance.</p>
+<p class="MsoListParagraphCxSpMiddle">&nbsp;</p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">&middot;<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Email <a title="scheduler email" href="mailto:scheduler@southlakessoccer.org">scheduler@southlakessoccer.org</a> and (CC the opposing coach on all correspondence) to remove the game from the schedule and provide two new dates (preferred and secondary) and your preference for morning or afternoon. <strong>Both coaches must agree on the potential dates.</strong> &nbsp;<em>Please include the name of teams, game number, and original game date/time.</em></p>
+<p class="MsoListParagraphCxSpMiddle">&nbsp;</p>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">&middot;<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->Once a valid request is received SLSC will make every effort to accommodate the date/time range. Once a game has been rescheduled an email will be sent to both coaches notifying them of the change.</p>
+<p class="MsoNormal"><strong>&nbsp;</strong></p>
+<p class="MsoListParagraph" style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">&middot;<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><strong>Games left pending due to reschedule request but no follow through by coaches will be recorded as a 0-0 score.</strong></p>
+<p class="MsoNormal"><strong>&nbsp;</strong></p>
+<p class="MsoListParagraph" style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">&middot;<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><strong>Games in which a team does not show and no attempt has been made to contact the opposing coach or an email has not been sent to </strong><a title="scheduler email" href="mailto:scheduler@southlakessoccer.org"><strong>scheduler@southlakessoccer.org</strong></a><strong> will be recorded as a forfeit 3-0.</strong></p>
+<p class="MsoNormal"><strong>&nbsp;</strong></p>
+<p class="MsoNormal" style="margin-left: .25in;">&nbsp;</p>
+<p class="MsoNormal" style="text-align: center;" align="center">Thank you,</p>
+<p class="MsoNormal">&nbsp;</p>
+<p>&nbsp;</p>
+<p class="MsoNormal" style="text-align: center;" align="center">South Lakes Soccer Club</p></div>
+            <div class="more"><a href='/Recreational/news/show/recreation_reschedule_policy'   >Read more...</a></div>
+        </div>
+    </div>
+            <div class="article">
+        <div class="image_wrap">
+            <div class="image"><img src="/resources/files/img/news/SLSC_Badge_LARGE13.png" /></div>
+        </div>
+        <div class="title">
+            <a href='/Recreational/news/show/spring_soccer_registration'   >Spring Soccer Registration</a>        </div>
+        <div class="program_name">
+            <a href='/Recreational'   >Recreational</a>        </div>
+        <span class="date">
+            2 months  ago
+        </span>
+                <div class="copy">
+            <div class="intro"><p>Spring Soccer registration is currently open. &nbsp; Online registration will close on Feb 5th!!! &nbsp;The first season games will be held on March 7th. &nbsp;Please bring a birth certificate if registering a new player to South Lakes.</p>
+<p>Online registration click <a title="Registration Link" href="https://www.gotsport.com/asp/application/reg/?ProgramID=32384" target="_blank">here</a></p>
+<p>In person registration will be as follows</p>
+<p>Moore Community Center</p>
+<p>1/10/2015 &nbsp;from 2-4pm</p>
+<p>1/17/2015 from 2-4pm</p>
+<p>Academy Sports &amp; Outdoors I-240 &amp; Walker</p>
+<p>LAST CHANGE REGISTRATION&nbsp;</p>
+<p>2/8/2015 from 1-4PM &nbsp;No registrations will be accepted after this date!!</p>
+<p>Coaches meeting will be held at the South Lakes Park Event Center. &nbsp;Date and time will be announced soon.&nbsp;</p>
+<p>Cost of registration is as follows:</p>
+<p>U6 &amp; under is $65.00</p>
+<p>U7 - U10 is $75.00</p>
+<p>U11 &amp; up is $85.00</p>
+<p>Academy registration is available at $75.00 for the Spring season and you can register <a title="Registration Link" href="https://www.gotsport.com/asp/application/reg/?ProgramID=32384" target="_blank">here</a></p></div>
+            <div class="more"><a href='/Recreational/news/show/spring_soccer_registration'   >Read more...</a></div>
+        </div>
+    </div>
+                <div id="controls"></div>
+</div>
+<div>
+<table class="pretty">
+    <tr><th style="text-align:center">South Lakes Soccer Club Latest News</th></tr>
+<tr><td>
+<a href='/Club/news/show/friday_night_little_cosmos_now_'   >Friday Night Little Cosmos NOW WITH 2 LEAGUE GAMES</a></br>
+</td></tr>
+<tr><td>
+<a href='/Club/news/show/new_street_soccer_friday_night_'   >NEW STREET SOCCER FRIDAY NIGHT PROGRAM</a></br>
+</td></tr>
+<tr><td>
+<a href='/Club/news/show/spring_friday_night_extra_time'   >Spring Friday Night Extra Time</a></br>
+</td></tr>
+<tr><td>
+<a href='/Recreational/news/show/spring_friday_night_head_start'   >Spring Friday Night Head Start</a></br>
+</td></tr>
+<tr><td>
+<a href='/Recreational/news/show/2015_spring_in_house_recreation'   >2015 SPRING IN-HOUSE RECREATIONAL (U4-U12) SEASON DELAYED UNTIL 3/21</a></br>
+</td></tr>
+<tr><td>
+<a href='/Recreational/news/show/recreation_reschedule_policy'   >Recreation Reschedule Policy</a></br>
+</td></tr>
+<tr><td>
+<a href='/Recreational/news/show/spring_soccer_registration'   >Spring Soccer Registration</a></br>
+</td></tr>
+</table>
+</div>
+                        </div>
+                        <!--div style="height:400px;"></div-->
+                    </div>
+                    <div class="col2">
+                                                <div class="module">
+    <div class="title">
+        <ul class="menu">
+            <li>Recent Updates</li>
+        </ul>
+    </div>
+    <div class="content">
+        <div class="recent age-0">
+            <a href='/tournaments/tournament/show/5th_annual_slsc_spring_twister'   >5th Annual SLSC Spring Twister</a>                <div class="date">5 days  ago</div>
+        </div>
+            <div class="recent age-1">
+            <a href='/Recreational/news/show/131'   >Spring Friday Night Head Start</a>                <div class="date">2 weeks  ago</div>
+        </div>
+            <div class="recent age-2">
+            <a href='/Recreational/news/show/140'   >2015 SPRING IN-HOUSE RECREATIONAL (U4-U12) SEASON DELAYED UNTIL 3/21</a>                <div class="date">2 weeks  ago</div>
+        </div>
+            <div class="recent age-3">
+            <a href='/Academy/news/show/64'   >Academy</a>                <div class="date">1 year  ago</div>
+        </div>
+            <div class="recent age-4">
+            <a href='/camps/camp/show/slsc_recreational_summer_soccer_camp'   >SLSC Recreational Summer Soccer Camp</a>                <div class="date">1 year  ago</div>
+        </div>
+            <div class="recent age-5">
+            <a href='/camps/camp/show/slsc_summer_skills_week'   >SLSC Summer Skills Week</a>                <div class="date">1 year  ago</div>
+        </div>
+            <div class="recent age-6">
+            <a href='/camps/camp/show/slsc_academy_summer_soccer_camp'   >SLSC Academy Summer Soccer Camp</a>                <div class="date">2 years  ago</div>
+        </div>
+            <div class="recent age-7">
+            <a href='/camps/camp/show/slsc_residential_camp'   >SLSC Residential Camp</a>                <div class="date">2 years  ago</div>
+        </div>
+            <div class="recent age-8">
+            <a href='/tournaments/tournament/show/2nd_annual_slsc_spring_twister'   >2nd Annual SLSC Spring Twister</a>                <div class="date">2 years  ago</div>
+        </div>
+            <div class="recent age-9">
+            <a href='/Recreational/page/show/coach_s_corner'   >Coach's Corner</a>                <div class="date">3 years  ago</div>
+        </div>
+        </div>
+</div>
+                    </div>
+                    <div class="col3">
+                        <div class="module">
+    <div class="title">
+        <ul class="menu">
+            <li>Fields</li>
+        </ul>
+    </div>
+    <div class="content">
+            <div class="field">
+            <strong>
+                <a href='/module/field_conditions/show_complex/1'   >SLSC Game Complex</a>            </strong>
+            <!--div style="float:right;"><a href='http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=35.357276,-97.590694&spn=0.07448,0.153465&t=h&z=13&msid=208739030681940245505.0004a292637f70ba2367d'   target='blank'>location<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a></div-->
+            <br />
+            <div class="open">Open</div>            <span class="comment"></span>
+            <div class="date">
+                4 days  ago            </div>
+            <div style="float:left;"><a href='http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=35.357276,-97.590694&spn=0.07448,0.153465&t=h&z=13&msid=208739030681940245505.0004a292637f70ba2367d'   target='blank'>location<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a></div>
+                    <div style="float:right;"><a href='http://southlakessoccer.org/resources/files/img/complex/SLSC_MAP_COSMO_CUP.pdf'   target='blank'>field map<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a></div>
+                            </div>
+        <div class="field">
+            <strong>
+                <a href='/module/field_conditions/show_complex/2'   >SLSC Practice Complex</a>            </strong>
+            <!--div style="float:right;"><a href='http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=35.342785,-97.593269&spn=0.018623,0.038366&t=h&z=15&msid=208739030681940245505.0004a292637f70ba2367d'   target='blank'>location<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a></div-->
+            <br />
+            <div class="open">Open</div>            <span class="comment"></span>
+            <div class="date">
+                1 week  ago            </div>
+            <div style="float:left;"><a href='http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=35.342785,-97.593269&spn=0.018623,0.038366&t=h&z=15&msid=208739030681940245505.0004a292637f70ba2367d'   target='blank'>location<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a></div>
+                            </div>
+    </div>
+</div>
+                        <div class="module">
+    <div class="title">
+        <ul class="menu">
+            <li>Club Links</li>
+        </ul>
+    </div>
+    <div class="content" style="text-align:center;">
+        <a href='http://www.gotsport.com/asp/application/reg/?ProgramID=32386'   target='blank'>Spring Friday Night Programs<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://events.gotsport.com/events/Default.aspx?EventID=43770'   target='blank'>2015 Spring Recreational Schedule<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://events.gotsport.com/events/Default.aspx?EventID=44387'   target='blank'>2015 Spring Travel Rec and Rec Select Schedule<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://events.gotsport.com/events/Default.aspx?EventID=43769'   target='blank'>2015 Spring Academy Schedule<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://events.gotsport.com/events/Default.aspx?EventID=40461'   target='blank'>2014/15 OSA Competitive Schedule<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://events.gotsport.com/events/Default.aspx?EventID=38432'   target='blank'>2014/15 OPL Schedule<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://www.gotsport.com/asp/application/reg/?ProgramID=27265'   target='blank'>Academy Registration for 2014/2015<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+        <a href='http://www.soccer.com/teamGateway.php?club_id=11535680&spiritwear=1'   target='blank'>SLSC Spirit Wear<img style="vertical-align:bottom;" src="/resources/img/link_go.png" /></a> <br />
+    </div>
+</div>
+                        <div class="module">
+    <div class="title">
+        <ul class="menu">
+            <li>Sponsors</li>
+        </ul>
+    </div>
+    <div class="content" style="text-align:center;">
+            <a href='http://www.academy.com'   ><img src=/resources/files/img/sponsors/academy_sports_logo.png /></a>        </div>
+</div>
+                        <div class="module">
+    <div class="title">
+        <ul class="menu">
+            <li>Club Staff and Contact Info</li>
+        </ul>
+    </div>
+    <div class="content" style="text-align:center;">
+        <a href='/staff/administration'   >Club Administrators</a><br />
+        <a href='/staff/coaches'   >Coaching Staff</a> <br /><br />
+            <a href='/module/information/show_form/1'   >Question about Recreational Soccer?</a><br />
+            <br />
+        <h3>South Lakes Soccer Club</h3>
+        PO Box 890112, Oklahoma City, OK 73189<br />
+        (405) 794-PLAY (7529)<br />
+        (405) 234-4055<br />
+    </div>
+</div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="push">
+        </div>
+    </div>
+    <div id="footer">
+        <table>
+            <tr>
+                <td class="left_col"><a href='/user/login'   >login</a></td>
+                <td class="right_col"><a href='/user/signup'   >create account</a></td>
+            </tr>
+            <tr>
+                <td class="left_col"></td>
+                <td class="right_col"></td>
+            </tr>
+        </table>
+        <span class="copyright">&copy; 2011 South Lakes Soccer Club</span>
+    </div>
+    </body>
+</html>
+

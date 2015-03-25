@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Home | El Reno Soccer</title>
+<link rel="icon" href="http://elrenosoccer.com/wp-content/uploads/2013/03/favicon.png" type="image/png"><link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/flexslider.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://elrenosoccer.com/wp-content/themes/smartscreen/style.css" media="screen" />
+<link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/prettyPhoto.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/supersized.css" type="text/css" media="screen" />
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/ie.css" type="text/css" media="screen" />
+<![endif]-->
+
+<!-- MOBILE SETTINGS -->
+<link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/responsive.css" type="text/css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+<script src="http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/css3-mediaqueries.js"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://elrenosoccer.com/wp-content/themes/smartscreen/styles/ie7.css" type="text/css" media="screen" />
+<![endif]-->
+
+<!-- RSS FEED -->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="El Reno Soccer RSS Feed" href="http://elrenosoccer.com/?feed=rss2" />
+<link rel="pingback" href="http://elrenosoccer.com/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="El Reno Soccer &raquo; Feed" href="http://elrenosoccer.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="El Reno Soccer &raquo; Comments Feed" href="http://elrenosoccer.com/?feed=comments-rss2" />
+<script type='text/javascript' src='http://elrenosoccer.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/jquery.tools.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/jquery.flexslider-min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/jquery.prettyPhoto.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/twitter.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/flowplayer-3.2.6.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/jquery.isotope.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/supersized.3.2.7.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://elrenosoccer.com/wp-content/themes/smartscreen/scripts/custom.js?ver=4.1.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://elrenosoccer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://elrenosoccer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='canonical' href='http://elrenosoccer.com/?page_id=2367' />
+<link rel='shortlink' href='http://elrenosoccer.com/?p=2367' />
+    <script>
+        jQuery(document).ready(function($) {
+            $(window).load(function() {
+                $('#slideshow .flexslider').flexslider({
+                    animation: "1",
+                    pauseOnHover: true,
+                    keyboard: true,
+                    animationLoop: true,
+                    smoothHeight: true,
+                                            slideshowSpeed: 10000,
+                                                                
+
+                });
+
+                $('#slideshow').hover(function(){
+                    $('#slideshow .flex-next, #slideshow .flex-prev').css({'display':'block'});
+                }, function(){
+                    $('#slideshow .flex-next, #slideshow .flex-prev').css({'display':'none'});
+                });
+
+            });//end load
+        });// end main jquery
+    </script>
+        <script type="text/javascript">
+
+(function(a){theme={_init:function(){if(api.options.slide_links){a(vars.slide_list).css("margin-left",-a(vars.slide_list).width()/2)}if(api.options.autoplay){if(api.options.progress_bar){theme.progressBar()}}else{if(a(vars.play_button).attr("src")){a(vars.play_button).attr("src",vars.image_path+"play.png")}if(api.options.progress_bar){a(vars.progress_bar).stop().animate({left:-a(window).width()},0)}}a(vars.thumb_tray).animate({bottom:-a(vars.thumb_tray).height()},0);a(vars.tray_button).toggle(function(){a(vars.thumb_tray).stop().animate({bottom:0,avoidTransforms:true},300);if(a(vars.tray_arrow).attr("src")){a(vars.tray_arrow).attr("src",vars.image_path+"button-tray-down.png")}return false},function(){a(vars.thumb_tray).stop().animate({bottom:-a(vars.thumb_tray).height(),avoidTransforms:true},300);if(a(vars.tray_arrow).attr("src")){a(vars.tray_arrow).attr("src",vars.image_path+"button-tray-up.png")}return false});a(vars.thumb_list).width(a("> li",vars.thumb_list).length*a("> li",vars.thumb_list).outerWidth(true));if(a(vars.slide_total).length){a(vars.slide_total).html(api.options.slides.length)}if(api.options.thumb_links){if(a(vars.thumb_list).width()<=a(vars.thumb_tray).width()){a(vars.thumb_back+","+vars.thumb_forward).fadeOut(0)}vars.thumb_interval=Math.floor(a(vars.thumb_tray).width()/a("> li",vars.thumb_list).outerWidth(true))*a("> li",vars.thumb_list).outerWidth(true);vars.thumb_page=0;a(vars.thumb_forward).click(function(){if(vars.thumb_page-vars.thumb_interval<=-a(vars.thumb_list).width()){vars.thumb_page=0;a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}else{vars.thumb_page=vars.thumb_page-vars.thumb_interval;a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}});a(vars.thumb_back).click(function(){if(vars.thumb_page+vars.thumb_interval>0){vars.thumb_page=Math.floor(a(vars.thumb_list).width()/vars.thumb_interval)*-vars.thumb_interval;if(a(vars.thumb_list).width()<=-vars.thumb_page){vars.thumb_page=vars.thumb_page+vars.thumb_interval}a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}else{vars.thumb_page=vars.thumb_page+vars.thumb_interval;a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}})}a(vars.next_slide).click(function(){api.nextSlide()});a(vars.prev_slide).click(function(){api.prevSlide()});if(jQuery.support.opacity){a(vars.prev_slide+","+vars.next_slide).mouseover(function(){a(this).stop().animate({opacity:1},100)}).mouseout(function(){a(this).stop().animate({opacity:0.6},100)})}if(api.options.thumbnail_navigation){a(vars.next_thumb).click(function(){api.nextSlide()});a(vars.prev_thumb).click(function(){api.prevSlide()})}a(vars.play_button).click(function(){api.playToggle()});if(api.options.mouse_scrub){a(vars.thumb_tray).mousemove(function(f){var c=a(vars.thumb_tray).width(),g=a(vars.thumb_list).width();if(g>c){var b=1,d=f.pageX-b;if(d>10||d<-10){b=f.pageX;newX=(c-g)*(f.pageX/c);d=parseInt(Math.abs(parseInt(a(vars.thumb_list).css("left"))-newX)).toFixed(0);a(vars.thumb_list).stop().animate({left:newX},{duration:d*3,easing:"easeOutExpo"})}}})}a(window).resize(function(){if(api.options.progress_bar&&!vars.in_animation){if(vars.slideshow_interval){clearInterval(vars.slideshow_interval)}if(api.options.slides.length-1>0){clearInterval(vars.slideshow_interval)}a(vars.progress_bar).stop().animate({left:-a(window).width()},0);if(!vars.progressDelay&&api.options.slideshow){vars.progressDelay=setTimeout(function(){if(!vars.is_paused){theme.progressBar();vars.slideshow_interval=setInterval(api.nextSlide,api.options.slide_interval)}vars.progressDelay=false},1000)}}if(api.options.thumb_links&&vars.thumb_tray.length){vars.thumb_page=0;vars.thumb_interval=Math.floor(a(vars.thumb_tray).width()/a("> li",vars.thumb_list).outerWidth(true))*a("> li",vars.thumb_list).outerWidth(true);if(a(vars.thumb_list).width()>a(vars.thumb_tray).width()){a(vars.thumb_back+","+vars.thumb_forward).fadeIn("fast");a(vars.thumb_list).stop().animate({left:0},200)}else{a(vars.thumb_back+","+vars.thumb_forward).fadeOut("fast")}}})},goTo:function(b){if(api.options.progress_bar&&!vars.is_paused){a(vars.progress_bar).stop().animate({left:-a(window).width()},0);theme.progressBar()}},playToggle:function(b){if(b=="play"){if(a(vars.play_button).attr("src")){a(vars.play_button).attr("src",vars.image_path+"pause.png")}if(api.options.progress_bar&&!vars.is_paused){theme.progressBar()}}else{if(b=="pause"){if(a(vars.play_button).attr("src")){a(vars.play_button).attr("src",vars.image_path+"play.png")}if(api.options.progress_bar&&vars.is_paused){a(vars.progress_bar).stop().animate({left:-a(window).width()},0)}}}},beforeAnimation:function(b){if(api.options.progress_bar&&!vars.is_paused){a(vars.progress_bar).stop().animate({left:-a(window).width()},0)}if(a(vars.slide_caption).length){(api.getField("title"))?a(vars.slide_caption).html(api.getField("title")):a(vars.slide_caption).html("")}if(vars.slide_current.length){a(vars.slide_current).html(vars.current_slide+1)}if(api.options.thumb_links){a(".current-thumb").removeClass("current-thumb");a("li",vars.thumb_list).eq(vars.current_slide).addClass("current-thumb");if(a(vars.thumb_list).width()>a(vars.thumb_tray).width()){if(b=="next"){if(vars.current_slide==0){vars.thumb_page=0;a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}else{if(a(".current-thumb").offset().left-a(vars.thumb_tray).offset().left>=vars.thumb_interval){vars.thumb_page=vars.thumb_page-vars.thumb_interval;a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}}}else{if(b=="prev"){if(vars.current_slide==api.options.slides.length-1){vars.thumb_page=Math.floor(a(vars.thumb_list).width()/vars.thumb_interval)*-vars.thumb_interval;if(a(vars.thumb_list).width()<=-vars.thumb_page){vars.thumb_page=vars.thumb_page+vars.thumb_interval}a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}else{if(a(".current-thumb").offset().left-a(vars.thumb_tray).offset().left<0){if(vars.thumb_page+vars.thumb_interval>0){return false}vars.thumb_page=vars.thumb_page+vars.thumb_interval;a(vars.thumb_list).stop().animate({left:vars.thumb_page},{duration:500,easing:"easeOutExpo"})}}}}}}},afterAnimation:function(){if(api.options.progress_bar&&!vars.is_paused){theme.progressBar()}},progressBar:function(){a(vars.progress_bar).stop().animate({left:-a(window).width()},0).animate({left:0},api.options.slide_interval)}};a.supersized.themeVars={progress_delay:false,thumb_page:false,thumb_interval:false,image_path:"http://elrenosoccer.com/wp-content/themes/smartscreen/images/slider/",play_button:"#pauseplay",next_slide:"#nextslide",prev_slide:"#prevslide",next_thumb:"#nextthumb",prev_thumb:"#prevthumb",slide_caption:"#slidecaption",slide_current:".slidenumber",slide_total:".totalslides",slide_list:"#slide-list",thumb_tray:"#thumb-tray",thumb_list:"#thumb-list",thumb_forward:"#thumb-forward",thumb_back:"#thumb-back",tray_arrow:"#tray-arrow",tray_button:"#tray-button",progress_bar:"#progress-bar"};a.supersized.themeOptions={progress_bar:1,mouse_scrub:0}})(jQuery);
+
+    </script>
+    <link href="http://fonts.googleapis.com/css?family=Oswald:700,400,300" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Oswald:700,400,300" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Oswald:700,400,300" rel="stylesheet" type="text/css">
+
+<!-- custom styles set at your backend-->
+<style type='text/css' id='dynamic-styles'>
+    body {        background-color:  #545454;    }        ul.arrowlist li:before, .dropcap2, .dropcap3, .widget .tagcloud a, .tags a, .search-box .search-field {        background-color: #0060c7;    }    .special-heading {        border-left-color: #0060c7;    }    #main, #controls-wrap {        border-top-color: #0060c7;    }    #menu-wrap, #sidebar, #slidecaption, .social-bookmarks ul li, #controls-wrap, #thumb-tray, #nav ul ul, #nav-horizontal ul li ul {        background-color:rgba( 0,96,199, 0.7);    }    #menu-wrap, #sidebar, #slidecaption, .social-bookmarks ul li, #controls-wrap, #thumb-tray, #nav ul ul, #nav-horizontal ul li ul {        background-color:rgb( 0,96,199)\9;    }       #main {        background: rgba(255, 255, 255, 1);        filter: alpha(opacity = 100);    }        body, #wrap-wide {        background-image: url(http://elrenosoccer.com/wp-content/themes/smartscreen/images/bg/01.png);    }        body {        font-size:12px ;        font-family:  Droid Sans, sans-serif;        color:#1c1c1c;    }        a:link, a:visited {        color: #9bee25;    }    a:hover, a:active {        color: #2e2e2e;    }    #entries .post-meta a:hover, #nav a:hover, #sidebar ul li a:hover,#entries .read-more:hover, #nav-horizontal ul li a:hover ,     #portfolio .folio-cats a:hover, .single-portfolio .meta a:hover, a.icon-link:hover, .comment-author-info a:hover,      .entry ul li a:hover, .widget .tagcloud a:hover, .tags a:hover ,.jqueryslidemenu ul li a:hover, #nav-toggle-content ul li a:hover{        color: #2e2e2e !important;    }    #sidebar .widget h3.widget-title{        font: normal 14px "Oswald", Arial, sans-serif;    }        #sidebar .widget h3.widget-title {        color: #ffffff;    }        #controls-wrap,#main {        border-top: 4px solid #9bee25;    }        h1,h2,h3,h4,h5,h6, #entries h3.post-title, #entries h3.post-title a , #entries h3.post-title a:active, .special-heading, #entries h2.page-title,     #portfolio .folio-box h3.folio-title, #portfolio .folio-box h3.folio-title a, #portfolio .folio-box h3.folio-title:active     {        font-family: "Oswald", Arial, sans-serif;        color: #444;    }    #filters li a,#content a.button,  #slidecaption h2,     #related-folio .folio-box h3.folio-title, #related-folio .folio-box h3.folio-title a, #related-folio .folio-box h3.folio-title:active     { font-family: "Oswald", Arial, sans-serif;}        #nav a, #nav-horizontal ul li a {        font-family: "Oswald", Arial, sans-serif;        font-weight: 300;        font-size:17px;    }    #nav-toggle-content ul li a{            font-family: "Oswald", Arial, sans-serif;        font-weight: 300;    }        #nav a {        color:#ffffff;    }    .jqueryslidemenu ul li, #nav-toggle-content ul li {        color:#777777;    }    .jqueryslidemenu span {        color:#adadad;    }    #entries h2.page-title {        color: #444444;    }
+</style>
+
+<!-- end custom styles-->
+
+    <script type="text/javascript">
+/*** [Pretty Photo] ***/
+jQuery(document).ready(function () {
+    jQuery("a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'normal', autoplay_slideshow: false, theme:'dark_rounded'});
+});
+</script>
+</head>
+<body class="page page-id-2367 page-template page-template-tpl_homepage_default page-template-tpl_homepage_default-php">
+
+
+<div class="social-in-page social-bookmarks">
+    <ul>
+                                        <li class="rss"><a href="http://elrenosoccer.com/?feed=rss2">RSS</a></li>                                                                                                                            </ul>
+</div><!-- [/social-bookmarks] -->
+
+<div class="social-in-page social-bookmarks res-social-bookmarks">
+    <ul>
+                                        <li class="rss"><a href="http://elrenosoccer.com/?feed=rss2">RSS</a></li>                                                                                                                    </ul>
+</div><!-- [/Responsive social-bookmarks] -->
+
+<div id="wrap-wide"></div><!-- [/wrap-wide] -->
+<div id="menu-wrap">
+    <div id="menu">
+        <a id="logo" title="Soccer" href="http://elrenosoccer.com">
+                        <img src="http://elrenosoccer.com/wp-content/uploads/2013/03/Soccr-Logo-sm.png" alt="Soccer"/>
+                    </a><!-- [/logo] -->
+        <div id="nav" class="jqueryslidemenu"><ul id="menu-menu" class="menu"><li id="menu-item-2392" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2367 current_page_item"><a href="http://elrenosoccer.com/?page_id=2367">Home</a></li>
+<li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2348">News/Event</a></li>
+<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://elrenosoccer.com/?page_id=2344">Club Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-2402" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2352">Board</a></li>
+	<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2350">Bylaws</a></li>
+	<li id="menu-item-2401" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2355">Constitution</a></li>
+	<li id="menu-item-2400" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2359">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2363">Pictures</a></li>
+<li id="menu-item-2396" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2357">Coaches</a></li>
+<li id="menu-item-2398" class="menu-item menu-item-type-post_type menu-item-object-page"><a></a></li>
+<li id="menu-item-2393" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2365">Sponsors</a></li>
+<li id="menu-item-2395" class="menu-item menu-item-type-post_type menu-item-object-page"><a></a></li>
+</ul></div>        <div id="nav-horizontal" class="menu-menu-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-2392" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2367 current_page_item"><a href="http://elrenosoccer.com/?page_id=2367">Home</a></li>
+<li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2348">News/Event</a></li>
+<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://elrenosoccer.com/?page_id=2344">Club Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-2402" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2352">Board</a></li>
+	<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2350">Bylaws</a></li>
+	<li id="menu-item-2401" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2355">Constitution</a></li>
+	<li id="menu-item-2400" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2359">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2363">Pictures</a></li>
+<li id="menu-item-2396" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2357">Coaches</a></li>
+<li id="menu-item-2398" class="menu-item menu-item-type-post_type menu-item-object-page"><a></a></li>
+<li id="menu-item-2393" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://elrenosoccer.com/?page_id=2365">Sponsors</a></li>
+<li id="menu-item-2395" class="menu-item menu-item-type-post_type menu-item-object-page"><a></a></li>
+</ul></div>        <h3 id="nav-toggle">Navigation</h3>
+        <div id="nav-toggle-content" class="menu-menu-container"><ul id="menu-menu-2" class="menu"><li id="menu-item-2392" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2367 current_page_item menu-item-2392"><a href="http://elrenosoccer.com/?page_id=2367">Home</a></li>
+<li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2397"><a href="http://elrenosoccer.com/?page_id=2348">News/Event</a></li>
+<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2399"><a href="http://elrenosoccer.com/?page_id=2344">Club Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-2402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2402"><a href="http://elrenosoccer.com/?page_id=2352">Board</a></li>
+	<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2403"><a href="http://elrenosoccer.com/?page_id=2350">Bylaws</a></li>
+	<li id="menu-item-2401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2401"><a href="http://elrenosoccer.com/?page_id=2355">Constitution</a></li>
+	<li id="menu-item-2400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2400"><a href="http://elrenosoccer.com/?page_id=2359">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394"><a href="http://elrenosoccer.com/?page_id=2363">Pictures</a></li>
+<li id="menu-item-2396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2396"><a href="http://elrenosoccer.com/?page_id=2357">Coaches</a></li>
+<li id="menu-item-2398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2398"><a></a></li>
+<li id="menu-item-2393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2393"><a href="http://elrenosoccer.com/?page_id=2365">Sponsors</a></li>
+<li id="menu-item-2395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2395"><a></a></li>
+</ul></div>        <span id="menu-toggle">menu toggle</span>
+    </div>
+</div><!-- [/menu] -->
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+                jQuery.supersized({
+
+                    // Functionality
+                    slide_interval          :   10000,		// Length between transitions
+                    transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+                    transition_speed		:	1000,
+                    keyboard_nav            :   1,
+
+                    // Speed of transition
+
+                    // Components
+                    slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
+                    slides 					:  	[			// Slideshow Images
+                    {image : 'http://elrenosoccer.com/wp-content/uploads/2013/03/soccer-background-sm-11.jpg', title : '<div class="slider-caption"><p>Thank you for visiting ERSC. We appreciate your interest in the soccer teams of El Reno.<br />\n<br />\n</p></div>',  thumb : 'http://elrenosoccer.com/wp-content/uploads/2013/03/soccer-background-sm-11.jpg', url : ''}                     ]
+
+                });
+            }
+
+    );
+</script>
+<a id="scrollup" href="#">Scroll</a><!-- [/scrollup] -->
+<div id="controls-wrap" class="load-item">
+        <p  class="copyright"><FONT COLOR="ffffff"><center> El Reno Soccer Club  | Developed by <a href="http://www.mercymediamarketing.com">Mercy Media Marketing</a></center></FONT>
+</p>
+           </div><!-- [/Control Bar] -->
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+        <script type="text/javascript">
+        function plusone_vote( obj ) {
+            _gaq.push(['_trackEvent','plusone',obj.state]);
+        }
+    </script>
+    <script type='text/javascript' src='http://elrenosoccer.com/wp-includes/js/comment-reply.min.js?ver=4.1.1'></script>
+
+</body>
+</html>

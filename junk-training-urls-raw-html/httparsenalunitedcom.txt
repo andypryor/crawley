@@ -1,0 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nampa&#039;s Ultimate Soccer Club</title>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
+
+<link href='http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT:regular,italic&subset=latin' rel='stylesheet' type='text/css'/>
+
+<link rel="stylesheet" href="http://arsenalunited.com/wp-content/themes/Magnificent/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="Arsenal United RSS Feed" href="http://arsenalunited.com/feed/" />
+<link rel="alternate" type="application/atom+xml" title="Arsenal United Atom Feed" href="http://arsenalunited.com/feed/atom/" />
+<link rel="pingback" href="http://arsenalunited.com/xmlrpc.php" />
+
+<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://arsenalunited.com/wp-content/themes/Magnificent/css/ie6style.css" />
+	<script type="text/javascript" src="http://arsenalunited.com/wp-content/themes/Magnificent/js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script type="text/javascript">DD_belatedPNG.fix('img#logo, p#slogan, #menu, #top-overlay, #featured-overlay, span.overlay, .entry-content p.meta-info, #controllers span#right-arrow, #controllers span#left-arrow, #footer-content, #footer');</script>
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://arsenalunited.com/wp-content/themes/Magnificent/css/ie7style.css" />
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://arsenalunited.com/wp-content/themes/Magnificent/css/ie8style.css" />
+<![endif]-->
+
+<script type="text/javascript">
+	document.documentElement.className = 'js';
+</script>
+
+
+<!-- All in One SEO Pack 2.2.5.1 by Michael Torbert of Semper Fi Web Design[293,317] -->
+<meta name="description"  content="We invite you to take part of the ultimate soccer program in Nampa for kids.  Our focus it develop players with a combination of training and having fun." />
+
+<meta name="keywords"  content="Nampa Soccer, Nampa KID Soccer, Nampa Kids Soccer, Nampa Football, Nampa Baseball" />
+
+<link rel="canonical" href="http://arsenalunited.com/" />
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Arsenal United &raquo; Feed" href="http://arsenalunited.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Arsenal United &raquo; Comments Feed" href="http://arsenalunited.com/comments/feed/" />
+		<link rel="stylesheet" href="http://arsenalunited.com/wp-content/themes/Magnificent/style-Light-Green.css" type="text/css" media="screen" />
+	<meta content="Magnificent v.2.3" name="generator"/><link rel='stylesheet' id='contact-form-7-css'  href='http://arsenalunited.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/shortcodes/shortcodes.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='et_page_templates-css'  href='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/page_templates/page_templates.css?ver=1.8' type='text/css' media='screen' />
+<script type='text/javascript' src='http://arsenalunited.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://arsenalunited.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/shortcodes/js/et_shortcodes_frontend.js?ver=2.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://arsenalunited.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://arsenalunited.com/wp-includes/wlwmanifest.xml" /> 
+
+	<!-- Added by EventCalendar plugin. Version 3.1.4 -->
+	<script type='text/javascript' src='http://arsenalunited.com/wp-content/plugins/event-calendar/xmlhttprequest.js'></script>
+	<script type='text/javascript' src='http://arsenalunited.com/wp-content/plugins/event-calendar/ec3.js'></script>
+	<script type='text/javascript'><!--
+	ec3.start_of_week=1;
+	ec3.month_of_year=new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+	ec3.month_abbrev=new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+	ec3.myfiles='http://arsenalunited.com/wp-content/plugins/event-calendar';
+	ec3.home='http://arsenalunited.com';
+	ec3.hide_logo=0;
+	ec3.viewpostsfor="View posts for %1$s %2$s";
+	// --></script>
+
+<style type='text/css' media='screen'>
+@import url(http://arsenalunited.com/wp-content/plugins/event-calendar/ec3.css);
+.ec3_ec {
+ background-image:url(http://arsenalunited.com/wp-content/plugins/event-calendar/ec.png) !IMPORTANT;
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://arsenalunited.com/wp-content/plugins/event-calendar/ec.png');
+}
+#ec3_shadow0 {
+ background-image:url(http://arsenalunited.com/wp-content/plugins/event-calendar/shadow0.png) !IMPORTANT;
+ background-image:none;
+}
+#ec3_shadow0 div {
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://arsenalunited.com/wp-content/plugins/event-calendar/shadow0.png',sizingMethod='scale');
+}
+#ec3_shadow1 {
+ background-image:url(http://arsenalunited.com/wp-content/plugins/event-calendar/shadow1.png) !IMPORTANT;
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://arsenalunited.com/wp-content/plugins/event-calendar/shadow1.png',sizingMethod='crop');
+}
+#ec3_shadow2 {
+ background-image:url(http://arsenalunited.com/wp-content/plugins/event-calendar/shadow2.png) !IMPORTANT;
+ background-image:none;
+}
+#ec3_shadow2 div {
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://arsenalunited.com/wp-content/plugins/event-calendar/shadow2.png',sizingMethod='scale');
+}
+</style>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #6c5a5a; }
+</style>
+	<style type="text/css">
+		#et_pt_portfolio_gallery { margin-left: -11px; }
+		.et_pt_portfolio_item { margin-left: 23px; }
+		.et_portfolio_small { margin-left: -39px !important; }
+		.et_portfolio_small .et_pt_portfolio_item { margin-left: 34px !important; }
+		.et_portfolio_large { margin-left: -20px !important; }
+		.et_portfolio_large .et_pt_portfolio_item { margin-left: 14px !important; }
+	</style>
+
+</head>
+<body class="home blog custom-background unknown">
+	<div id="top-overlay">
+		<div id="header">
+			<div class="container">
+				<a href="http://arsenalunited.com">
+										<img src="http://arsenalunited.com/wp-content/uploads/2013/11/logo5.png" alt="Magnificent Logo" id="logo"/>
+				</a>
+				<p id="slogan">_________________________________________________________________</p>
+			</div> <!-- end .container -->
+		</div> <!-- end #header -->
+		
+		<div id="menu">
+			<div class="container clearfix">
+										<ul id="primary" class="nav">
+															<li class="current_page_item"><a href="http://arsenalunited.com">HOME</a></li>
+														
+							<li class="page_item page-item-188"><a href="http://arsenalunited.com/arsenal-united-fc-mission/">ARSENAL UNITED FC MISSION</a></li>
+<li class="page_item page-item-254"><a href="http://arsenalunited.com/academy/">ACADEMY</a></li>
+<li class="page_item page-item-240"><a href="http://arsenalunited.com/rec-plus/">REC PLUS</a></li>
+<li class="page_item page-item-238"><a href="http://arsenalunited.com/competitive/">COMPETITIVE</a></li>
+<li class="page_item page-item-815"><a href="http://arsenalunited.com/staff/">STAFF</a></li>
+<li class="page_item page-item-263"><a href="http://arsenalunited.com/contact-us/">CONTACT US</a></li>
+						
+													</ul> <!-- end ul#nav -->
+								</div> <!-- end .container -->
+		</div> <!-- end #menu -->
+		<div id="content">
+			<div class="container clearfix">
+
+
+
+	<div id="sidebar-left" class="sidebar">
+		<div class="block">
+			<div class="block-border">
+				<div class="block-content">
+					<div id="text-6" class="widget widget_text"><h4 class="widgettitle">GET YOUR SPIRIT GEAR</h4><div class="widgetcontent">			<div class="textwidget"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/spirit-gear/"><img src="http://arsenalunited.com/wp-content/uploads/2013/02/Shadows_home-button_Arsenal-United-FC.jpg" border="0" width="205" height="205" align="left" style="padding-right:10px;padding-bottom:10px;" /></div>
+		</div></div><!-- end .widget --><div id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widgettitle">AUFC INFORMATION</h4><div class="widgetcontent"><div class="menu-site-content-container"><ul id="menu-site-content" class="menu"><li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="http://arsenalunited.com/arsenal-united-fc-mission/">ARSENAL UNITED FC MISSION</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/arsenal-united-fc-player-protection-policy/">Player Protection Policy</a></li>
+<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/coaches-expectations/">Coaches Expectations</a></li>
+<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/team-managers-expectations/">Team Managers Expectations</a></li>
+<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/parents-expectations/">Parents Expectations</a></li>
+<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/players-expectations/">Players Expectations</a></li>
+<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a href="http://arsenalunited.com/arsenal-united-fc-pride-every-friday/">Arsenal United FC Pride &#8211; Every Friday</a></li>
+<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/game-day-policy/">Game Day Policy</a></li>
+<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/game-day-requirements/">Game Day Requirements</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/nutritional-guidelines/">Nutritional Guidelines</a></li>
+<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/uniform-policy/">Uniform Policy</a></li>
+<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/practice-policy/">Practice Policy</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="http://arsenalunited.com/soccer-camps/">Soccer Camps</a></li>
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/fundraising/">Fundraising</a></li>
+<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/spirit-gear/">Spirit Gear</a></li>
+<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="http://arsenalunited.com/arsenal-united-fc-guidelines/sponsorship/">Sponsorship</a></li>
+<li id="menu-item-382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="http://arsenalunited.com/scholarship-program/">Scholarship Program</a></li>
+</ul></div></div></div><!-- end .widget -->				</div> <!-- end .block-content -->
+			</div> <!-- end .block-border -->
+		</div> <!-- end .block -->	
+		
+		<div class="block">
+			<div class="block-border">
+				<div class="block-content">
+					<div id="text-3" class="widget widget_text"><h4 class="widgettitle">AUFC AFFILIATES</h4><div class="widgetcontent">			<div class="textwidget"><a href="http://isoccer.go2cloud.org/SF12"><img src="http://arsenalunited.com/wp-content/uploads/2012/04/arsenalunited.vertical.circlelogo.jpg" border="0" width="180" height="300" align="left" style="padding-right:2px;padding-bottom:5px;" /></a>
+</div>
+		</div></div><!-- end .widget -->					
+				</div> <!-- end .block-content -->
+			</div> <!-- end .block-border -->
+		</div> <!-- end .block -->
+	</div> <!-- end #sidebar-left -->
+
+	<div id="main-content">
+	
+		<div id="featured">
+	<div id="featured-overlay"></div>
+	<div id="slides">
+	
+			<div class="slide">
+			<a href="http://arsenalunited.com/arsenal-united-fc-mission/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/1-204213_461x271.jpg" class='thumb'  alt='ARSENAL UNITED FC MISSION' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/arsenal-united-fc-mission/">ARSENAL UNITED FC MISSION</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on Jan 5, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/recreation-plus-tournaments/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/31-159311_461x271.jpg" class='thumb'  alt='Recreation Plus Tournaments' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/recreation-plus-tournaments/">Recreation Plus Tournaments</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on Mar 5, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/scholarship-program/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/Boys-Girls-camp-005-992971_461x271.jpg" class='thumb'  alt='Scholarship Program' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/scholarship-program/">Scholarship Program</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on Apr 24, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/arsenal-united-fc-pride-every-friday/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/logoSlides1-189003_461x271.jpg" class='thumb'  alt='Arsenal United FC Pride &#8211; Every Friday' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/arsenal-united-fc-pride-every-friday/">Arsenal United FC Pride &#8211; Every...</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on Jan 4, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/informationoncompetitive/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/11-220757_461x271.jpg" class='thumb'  alt='INFORMATION ON COMPETITIVE' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/informationoncompetitive/">INFORMATION ON COMPETITIVE</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on May 1, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/junior-academy-camp/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/21-210751_461x271.jpg" class='thumb'  alt='JUNIOR ACADEMY CAMP' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/junior-academy-camp/">JUNIOR ACADEMY CAMP</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on May 18, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/rec-plus/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/3-187483_461x271.jpg" class='thumb'  alt='REC PLUS' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/rec-plus/">REC PLUS</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on Mar 7, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				<div class="slide">
+			<a href="http://arsenalunited.com/competitive/">
+				<img src="http://arsenalunited.com/wp-content/uploads/et_temp/2-151914_461x271.jpg" class='thumb'  alt='COMPETITIVE' />			</a>
+			<div class="description">
+				<h2 class="title"><a href="http://arsenalunited.com/competitive/">COMPETITIVE</a></h2>
+				<p class="meta-info">Posted by <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a> on Mar 5, 2012</p>
+			</div> <!-- end .description -->
+		</div> <!-- end .slide -->
+				
+	</div> <!-- end #slides -->
+			
+	<a href="#" id="left-arrow">Previous</a>
+	<a href="#" id="right-arrow">Next</a>
+	
+</div>	<!-- end #featured -->	
+	
+		
+	<div class="entry">
+		<div class="border">
+			<div class="bottom">
+				<div class="entry-content clearfix">
+					<h3 class="title"><a href="http://arsenalunited.com/academy-schedules/">Academy Schedules!</a></h3>
+					<p class="meta-info">Mar 19, 2015 <span>by</span> <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a></p>
+										  
+					<p>
+&nbsp;
+Are you excited for the Spring 2015 season?
+Well we definitely are!   The schedules have already been posted to give you... </p>
+					<a href="http://arsenalunited.com/academy-schedules/" class="readmore"><span>read more</span></a>
+				</div> <!-- end .entry-content -->	
+			</div> <!-- end .bottom -->	
+		</div> <!-- end .border -->	
+	</div> <!-- end .entry -->
+		
+	<div class="entry last">
+		<div class="border">
+			<div class="bottom">
+				<div class="entry-content clearfix">
+					<h3 class="title"><a href="http://arsenalunited.com/looking-for-competitive-play/">LOOKING FOR COMPETITIVE PLAY?</a></h3>
+					<p class="meta-info">Feb 13, 2015 <span>by</span> <a href="http://arsenalunited.com/author/Administrator/" title="Posts by Administrator" rel="author">Administrator</a></p>
+										  
+					<p>
+
+We are looking to still round out some of our teams
+if you or know someone looking for  place to play.
+U13 Girls
+U15 Girls
+U16... </p>
+					<a href="http://arsenalunited.com/looking-for-competitive-play/" class="readmore"><span>read more</span></a>
+				</div> <!-- end .entry-content -->	
+			</div> <!-- end .bottom -->	
+		</div> <!-- end .border -->	
+	</div> <!-- end .entry -->
+			
+	<div class="clear"></div>
+<div id="controllers">	
+	<a href="http://arsenalunited.com/page/2/" ><span id="right-arrow"></span></a>		</div>	<!-- end #controllers -->		
+	
+</div> <!-- end #main-content -->	
+	
+<div id="sidebar-right" class="sidebar">
+	<div class="block">
+		<div class="block-border">
+			<div class="block-content">
+				<div id="nav_menu-8" class="widget widget_nav_menu"><h4 class="widgettitle">GAME SCHEDULES</h4><div class="widgetcontent"><div class="menu-game-schedules-container"><ul id="menu-game-schedules" class="menu"><li id="menu-item-678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-678"><a title="U10 Girls Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?eventid=44216&#038;FieldID=0&#038;applicationID=2737776&#038;action=Go">U10 Girls Arsenal United</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-866"><a href="http://events.gotsport.com/events/schedule.aspx?eventid=44216&#038;FieldID=0&#038;applicationID=2737775&#038;action=Go">U10 Boys Arsenal United</a></li>
+<li id="menu-item-683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-683"><a title="U11 Girls Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737826">U11 Girls Arsenal United</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-865"><a title="U11 Boys Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737827">U11 Boys Arsenal United</a></li>
+<li id="menu-item-675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-675"><a title="U12 Girls Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737782">U12 Girls Arsenal United A</a></li>
+<li id="menu-item-841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841"><a href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737781">U12 Girls Arsenal United B</a></li>
+<li id="menu-item-677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-677"><a title="U13 Girls Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737830">U13 Girls Arsenal United</a></li>
+<li id="menu-item-679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-679"><a title="U13 Boys Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737786">U13 Boys Arsenal United</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-838"><a title="U14 Girls Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737789">U14 Girls Arsenal United</a></li>
+<li id="menu-item-676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-676"><a title="U14 Boys Arsenal United" href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737788">U14 Boys Arsenal United</a></li>
+<li id="menu-item-969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-969"><a href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737814">U15 Boys Arsenal United</a></li>
+<li id="menu-item-970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-970"><a href="http://events.gotsport.com/events/schedule.aspx?eventid=44216&#038;FieldID=0&#038;applicationID=2737815&#038;action=Go">U15 Girls Arsenal United</a></li>
+<li id="menu-item-971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-971"><a href="http://events.gotsport.com/events/schedule.aspx?eventid=44216&#038;FieldID=0&#038;applicationID=2737816&#038;action=Go">U16 Girls Arsenal United</a></li>
+<li id="menu-item-973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-973"><a href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737817">U17/18 Girls Arsenal United</a></li>
+</ul></div></div></div><!-- end .widget --><div id="nav_menu-9" class="widget widget_nav_menu"><h4 class="widgettitle">AFFILIATE TEAMS</h4><div class="widgetcontent"><div class="menu-affiliate-teams-container"><ul id="menu-affiliate-teams" class="menu"><li id="menu-item-940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-940"><a href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737783">U12 Girls  Indie Chicas Cyan</a></li>
+<li id="menu-item-941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-941"><a href="http://events.gotsport.com/events/schedule.aspx?EventID=44216&#038;ApplicationID=2737828">U12 Girls Indie Chicas Lime</a></li>
+<li id="menu-item-942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-942"><a href="http://events.gotsport.com/ehttp://events.gotsport.com/events/schedule.aspx?eventid=44216&#038;FieldID=0&#038;applicationID=2737787&#038;action=Govents/schedule.aspx?EventID=40231&#038;ApplicationID=2483598">U13 Girls Indie Chicas</a></li>
+</ul></div></div></div><!-- end .widget --><div id="nav_menu-7" class="widget widget_nav_menu"><h4 class="widgettitle">COMPETITIVE SOCCER</h4><div class="widgetcontent"><div class="menu-tryouts-container"><ul id="menu-tryouts" class="menu"><li id="menu-item-921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-921"><a href="http://arsenalunited.com/tryouts/"><font color="RED">TRYOUTS</font></a></li>
+<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="http://arsenalunited.com/informationoncompetitive/"><font color="lawngreen">GET INFORMATION</font></a></li>
+</ul></div></div></div><!-- end .widget --><div id="nav_menu-5" class="widget widget_nav_menu"><h4 class="widgettitle">REGISTRATION</h4><div class="widgetcontent"><div class="menu-registration-container"><ul id="menu-registration" class="menu"><li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="http://arsenalunited.com/registration/"><font color="blue">REGISTRATION</font></a></li>
+</ul></div></div></div><!-- end .widget --><div id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widgettitle">LOCAL SOCCER CAMPS</h4><div class="widgetcontent"><div class="menu-soccer-camps-container"><ul id="menu-soccer-camps" class="menu"><li id="menu-item-747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-747"><a href="http://arsenalunited.com/soccer-camps/"><font color="red">Available Camps</font></a></li>
+</ul></div></div></div><!-- end .widget --><div id="text-4" class="widget widget_text"><h4 class="widgettitle">COME FOLLOW US</h4><div class="widgetcontent">			<div class="textwidget"><a href="http://www.facebook.com/ARSENALUNITED"><img src="http://arsenalunited.com/wp-content/uploads/2012/05/facebook.png" border="0" width="50" height="50" align="left" style="padding-right:10px;padding-bottom:10px;" /><a href="https://twitter.com/#!/ArsenalUnitedFC"><img src="http://arsenalunited.com/wp-content/uploads/2012/05/twitter.png" border="0" width="50" height="50" align="center" style="padding-right:12px;padding-bottom:12px;" /></div>
+		</div></div><!-- end .widget --><div id="nav_menu-6" class="widget widget_nav_menu"><h4 class="widgettitle">COACHES CORNER</h4><div class="widgetcontent"><div class="menu-coaches-corner-container"><ul id="menu-coaches-corner" class="menu"><li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="http://arsenalunited.com/coaches-corner/"><font color="LIME">AUFC CENTER</FONT></a></li>
+</ul></div></div></div><!-- end .widget --><div id="text-5" class="widget widget_text"><h4 class="widgettitle">Sanctioned Under</h4><div class="widgetcontent">			<div class="textwidget"><a href="http://www.idahoyouthsoccer.org"><img src="http://arsenalunited.com/wp-content/uploads/2012/10/IdahoYouthSoccer.png" border="0" width="250" height="180" align="left" style="padding-right:2px;padding-bottom:5px;" /></a>
+</div>
+		</div></div><!-- end .widget -->			</div> <!-- end .block-content -->
+		</div> <!-- end .block-border -->
+	</div> <!-- end .block -->	
+	
+	<div class="block">
+		<div class="block-border">
+			<div class="block-content">
+				<div id="search-2" class="widget widget_search"><h4 class="widgettitle">Search The Site</h4><div class="widgetcontent"><form method="get" id="searchform" action="http://arsenalunited.com/">
+    <div>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form>
+</div></div><!-- end .widget -->			</div> <!-- end .block-content -->
+		</div> <!-- end .block-border -->
+	</div> <!-- end .block -->
+</div> <!-- end #sidebar-right -->
+	
+</div> <!-- end .container -->
+		</div> <!-- end #content -->
+
+		<div id="footer" class="clearfix">
+			<div id="footer-content">
+				<div class="container">
+					 
+										
+					<p id="copyright">  <a href="http://arsenalunited.com/contact-us" title="Arsenal United FC"><h4>ARSENAL UNITED FC P.O. BOX 3825 NAMPA, ID 83653 | (208) 649-6151</h4></a>Website by  JDae Designs</p>
+				</div> <!-- end .container -->
+			</div> <!-- end #footer-content -->
+		</div> <!-- end #footer -->
+	</div> <!-- end #top-overlay -->	
+				
+		
+	<script type="text/javascript" src="http://arsenalunited.com/wp-content/themes/Magnificent/js/jquery.cycle.all.min.js"></script> 
+	<script type="text/javascript" src="http://arsenalunited.com/wp-content/themes/Magnificent/js/jquery.easing.1.3.js"></script>	
+	<script type="text/javascript" src="http://arsenalunited.com/wp-content/themes/Magnificent/js/superfish.js"></script>
+	
+	
+	<script type="text/javascript">
+	//<![CDATA[
+		jQuery.noConflict();
+		
+		jQuery(document).ready(function(){
+			jQuery('ul.nav').superfish({ 
+				delay:       300,                            // one second delay on mouseout 
+				animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+				speed:       'fast',                          // faster animation speed 
+				autoArrows:  true,                           // disable generation of arrow mark-up 
+				dropShadows: false                            // disable drop shadows 
+			});
+			
+			jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul');
+					
+			et_search_bar();
+			
+			var $featured_content = jQuery('#slides');
+			
+			if ($featured_content.length) {
+				$featured_content.cycle({
+											timeout: 6000					,
+										speed: 500,
+					cleartypeNoBg: true,
+					prev:   '#featured a#left-arrow', 
+					next:   '#featured a#right-arrow'
+				});
+			}
+			
+			<!---- Search Bar Improvements ---->
+			function et_search_bar(){
+				var $searchform = jQuery('div#search-form'),
+					$searchinput = $searchform.find("input#searchinput"),
+					searchvalue = $searchinput.val();
+					
+				$searchinput.focus(function(){
+					if (jQuery(this).val() === searchvalue) jQuery(this).val("");
+				}).blur(function(){
+					if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
+				});
+			};
+			
+			/* footer widgets improvements */
+			
+			var $footer_widget = jQuery("#footer .footer-widget");
+			
+			if (!($footer_widget.length == 0)) {
+				$footer_widget.each(function (index, domEle) {
+					// domEle == this
+					if ((index+1)%4 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+				});
+			};
+			
+			var $threaded_comments = jQuery('.depth-1 > ul.children');
+			
+			if ($threaded_comments.length) {			
+				$threaded_comments.each(function(index, domEle) {
+					var $right_place = jQuery(domEle).parent('.depth-1').find('.entry-content');
+					jQuery(domEle).appendTo($right_place);
+				});
+			}
+			
+					});
+	//]]>	
+	</script>
+	<script type='text/javascript' src='http://arsenalunited.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/arsenalunited.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://arsenalunited.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://arsenalunited.com/wp-content/themes/Magnificent/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1'></script>
+	
+</body>
+</html>
+			

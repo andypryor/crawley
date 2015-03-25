@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html id="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="page_id" content="0" />
+	
+	<script type="text/javascript">
+		// Remove 'no-js'. Makes it so we can more easily target styles at non-js enabled stuff		
+		var elem = document.getElementById('no-js');
+		elem.removeAttribute('id');
+	</script>	
+	
+    <title>Washington County Soccer Club | Home</title>
+	<link rel="stylesheet" href="/min/?g=home_css" type="text/css" media="all" />
+	<!--[if lt IE 9]>
+	<script type="text/javascript" src="/js/CreateHTML5Elements.js"></script>
+	<link rel="stylesheet" href="/css/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+	<style type="text/css">
+		#main_nav li.hover ul {
+		display: block;
+		} 
+	</style>	
+<![endif]-->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33619574-27', 'auto');
+  ga('send', 'pageview');
+
+</script></head>
+
+<body id="home" class="0">
+
+		<div id="container" class="page_">
+	
+		<header>	
+			<nav id="utility_nav">
+				<ul><li class="level-1 first"><span><a href="/pages/contact-us">Contact Us</a></span></li><li class="level-1"><span><a href="/pages/donate">Donate</a></span></li><li class="level-1"><span><a href="/pages/media">Multimedia</a></span></li><li class="level-1 last"><span><a href="http://www.soccer.com/teamGateway.php?club_id=2891659&Srp=24&N=4294836237">Club Store</a></span></li></ul>        	
+			</nav>
+
+			
+			<div id="masthead" class="">
+				<h1><a href="/">Logo Goes Here</a></h1>
+				
+				<nav id="main_nav">
+					<ul><li class="level-1 first"><span><a href="/pages/about-us">About Us</a></span><ul><li class="level-2 first"><span><a href="/pages/club-information">Club Information</a></span><ul><li class="level-3 first"><span><a href="/pages/about-washington-county-soccer-club">About Washington Coun...</a></span></li><li class="level-3"><span><a href="/pages/club-philosophy">Club Philosophy</a></span></li><li class="level-3"><span><a href="/pages/rescheduling-games">Rescheduling games</a></span></li><li class="level-3"><span><a href="/pages/latest-wcsc-board-meeting-minutes">Latest WCSC Board Mee...</a></span></li><li class="level-3"><span><a href="/pages/calendar-of-events_0">Calendar of Events</a></span></li><li class="level-3"><span><a href="/pages/board-of-directors">Board of Directors</a></span></li><li class="level-3"><span><a href="/pages/mission-statement">Mission Statement</a></span></li><li class="level-3"><span><a href="/pages/bylaws-of-the-wcsc">Bylaws of the WCSC</a></span></li><li class="level-3"><span><a href="/pages/standing-resolutions-of-the-wcsc">Standing Resolutions ...</a></span></li><li class="level-3 last"><span><a href="http://www.bartlesvillesoccer.org/caffeine/uploads/files/Coaches List Spring 2012.pdf">Coaches List Spring 2...</a></span></li></ul></li><li class="level-2"><span><a href="/pages/practice-field-schedule">Practice Field Schedu...</a></span></li><li class="level-2"><span><a href="/pages/mapsdirections">Maps & Directions</a></span></li><li class="level-2"><span><a href="/pages/forms_2">Forms</a></span></li><li class="level-2"><span><a href="/pages/donate">Donate</a></span></li><li class="level-2"><span><a href="/pages/history">History</a></span><ul><li class="level-3 first"><span><a href="/pages/gcsa-history">GCSA HISTORY</a></span></li><li class="level-3"><span><a href="/pages/wcsc-milestones">WCSC MILESTONES</a></span></li><li class="level-3"><span><a href="/pages/bruin-high-school-program">BRUIN HIGH SCHOOL</a></span></li><li class="level-3"><span><a href="/pages/wcsc-1991-2001">WCSC 1991-2001</a></span></li><li class="level-3 last"><span><a href="/pages/wcsc-1978-1990">WCSC 1978-1990</a></span></li></ul></li><li class="level-2"><span><a href="/pages/photo-gallery">Photo Gallery</a></span><ul><li class="level-3 first last"><span><a href="/pages/photo-submission-instructions">Photo Submission Inst...</a></span></li></ul></li><li class="level-2 last"><span><a href="/pages/helpful-links">Helpful Links</a></span></li></ul></li><li class="level-1"><span><a href="/pages/academy">Academy</a></span><ul><li class="level-2 first"><span><a href="/pages/about-fc-bartlesville-academy">About FC Bartlesville...</a></span></li><li class="level-2"><span><a href="/pages/u9-u10">U9/U10 Boys</a></span></li><li class="level-2"><span><a href="/pages/training-times-and-locations">Training Times and Lo...</a></span></li><li class="level-2"><span><a href="https://events.gotsport.com/events/Default.aspx?EventID=44779">Schedules</a></span></li><li class="level-2"><span><a href="/pages/game-coaches">Game Coaches</a></span></li><li class="level-2"><span><a href="/pages/registration">Registration</a></span></li><li class="level-2 last"><span><a href="/pages/forms">Forms</a></span></li></ul></li><li class="level-1"><span><a href="/pages/competitive">Competitive</a></span><ul><li class="level-2 first"><span><a href="/pages/about-fc-bartlesville-competitive">About FC Bartlesville...</a></span></li><li class="level-2"><span><a href="/pages/college-recruiting">College Recruiting</a></span></li><li class="level-2"><span><a href="http://events.gotsport.com/events/Default.aspx?EventID=38432">OPL Schedules</a></span></li><li class="level-2"><span><a href="http://events.gotsport.com/events/Default.aspx?EventID=40461">Classic Schedules</a></span></li><li class="level-2"><span><a href="/pages/code-of-conduct">Code of Conduct</a></span></li><li class="level-2"><span><a href="http://www.bartlesvillesoccer.org/caffeine/uploads/files/documents/FCB/FCB Competitive Coach Application_2.pdf">FCB Coaching applicat...</a></span></li><li class="level-2"><span><a href="/pages/team-pages">Team Pages</a></span></li><li class="level-2"><span><a href="/pages/coaches-and-trainers">Coaches and Trainers</a></span><ul><li class="level-3 first"><span><a href="/pages/wade-sturges">Wade Sturges</a></span></li><li class="level-3"><span><a href="/pages/ryan-hunt">Ryan Hunt</a></span></li><li class="level-3"><span><a href="/pages/jordan-belong">Jordan Belong</a></span></li><li class="level-3"><span><a href="/pages/justin-copeland">Justin Copeland</a></span></li><li class="level-3"><span><a href="/pages/david-critchley">David Critchley</a></span></li><li class="level-3"><span><a href="/pages/mike-friend">Mike Friend</a></span></li><li class="level-3"><span><a href="/pages/allen-godwin">Allen Godwin</a></span></li><li class="level-3"><span><a href="/pages/aaron-kuntz">Aaron Kuntz</a></span></li><li class="level-3 last"><span><a href="/pages/justin-marshall">Justin Marshall</a></span></li></ul></li><li class="level-2 last"><span><a href="/pages/forms_0">Forms</a></span></li></ul></li><li class="level-1"><span><a href="/pages/recreational">Recreational</a></span><ul><li class="level-2 first"><span><a href="/pages/about-wcsc-recreational-program">About WCSC Recreation...</a></span></li><li class="level-2"><span><a href="http://events.gotsport.com/events/Default.aspx?EventID=44388">Schedules</a></span></li><li class="level-2 last"><span><a href="/pages/forms_1">Forms</a></span></li></ul></li><li class="level-1"><span><a href="/pages/bhs">BHS</a></span><ul><li class="level-2 first"><span><a href="/pages/boys-jvvarsity">Bruin Boys JV & Varsi...</a></span></li><li class="level-2"><span><a href="/pages/girls-jvvarsity">Lady Bruin JV & Varsi...</a></span></li><li class="level-2"><span><a href="/pages/forms_3">Forms</a></span></li><li class="level-2 last"><span><a href="/pages/alumni_0">Alumni</a></span></li></ul></li><li class="level-1"><span><a href="/pages/referees">Referees</a></span><ul><li class="level-2 first"><span><a href="/pages/ref-cheat-sheet-matrix">Ref Cheat Sheet Matri...</a></span></li><li class="level-2"><span><a href="/pages/schedules_2">Schedules</a></span><ul><li class="level-3 first"><span><a href="/pages/referee-payment-schedule">Referee Payment Sched...</a></span></li><li class="level-3 last"><span><a href="/pages/referee-assignments">Referee Assignments</a></span></li></ul></li><li class="level-2"><span><a href="/pages/clinics">Clinics</a></span></li><li class="level-2 last"><span><a href="/pages/referee-blog">Referee Blog</a></span></li></ul></li><li class="level-1 last"><span><a href="/pages/newsevents">News & Events</a></span><ul><li class="level-2 first"><span><a href="/pages/calendar-of-events">Calendar of Events</a></span></li><li class="level-2 last"><span><a href="/pages/latest-news">Latest News</a></span></li></ul></li></ul>        	
+				</nav>
+				<div class="clear"></div>
+			</div>
+		</header>
+				
+		<div id="content">
+
+		<div id="main">
+							
+				<div id="slider_contain">
+					
+					<div id="slider">
+											<a href="/pages/latest-news/academyregistration-online_0" >
+							<img src="/caffeine/uploads/news/FCBAcademyLogo-background_7.jpg" alt="Academy + Registration Online" title="#nivo1"/>
+						</a>					
+	
+												<a href="/pages/latest-news/fall-league-champions" >
+							<img src="/caffeine/uploads/news/Huskies-U12-Champs.gif" alt="Fall League Champions" title="#nivo2"/>
+						</a>					
+	
+												<a href="/pages/latest-news/fcb-99-girlsindoor-champs" >
+							<img src="/caffeine/uploads/news/99girlsindoorchamps.gif" alt="FCB 99 Girls - Indoor Champs" title="#nivo3"/>
+						</a>					
+	
+											</div><!-- closes #slider -->
+
+							
+							<div id="nivo1" class="nivo-html-caption">
+							    <h2><a href="/pages/latest-news/academyregistration-online_0" >ACADEMY + REGISTRATION ONLINE</a></h2>
+							    <p>
+	FCB Academy + 
+
+	Academy + is an additional program formed t ...</p>
+							</div>
+							<div class="nivo-thms" id="thm1">
+								<p><a href="/pages/latest-news/academyregistration-online_0" >ACADEMY + REGISTRATION ONLINE</a></p>
+								<span>Feb 27, 2015</span>					
+							</div>
+		
+							
+							<div id="nivo2" class="nivo-html-caption">
+							    <h2><a href="/pages/latest-news/fall-league-champions" >FALL LEAGUE CHAMPIONS</a></h2>
+							    <p>
+	WCSC would like to congratulate our league champions from this ...</p>
+							</div>
+							<div class="nivo-thms" id="thm2">
+								<p><a href="/pages/latest-news/fall-league-champions" >FALL LEAGUE CHAMPIONS</a></p>
+								<span>Jan 27, 2015</span>					
+							</div>
+		
+							
+							<div id="nivo3" class="nivo-html-caption">
+							    <h2><a href="/pages/latest-news/fcb-99-girlsindoor-champs" >FCB 99 GIRLS - INDOOR CHAMPS</a></h2>
+							    <p>
+	The FCB 99 Girls soccer team won the Soccer City U16 Competiti ...</p>
+							</div>
+							<div class="nivo-thms" id="thm3">
+								<p><a href="/pages/latest-news/fcb-99-girlsindoor-champs" >FCB 99 GIRLS - INDOOR CHAMPS</a></p>
+								<span>Jan 14, 2015</span>					
+							</div>
+		
+										<div class="clear"></div>
+				</div><!-- closes #slider_container -->
+				
+							
+				
+<div class="callouts">
+	<aside>
+					
+					<a  target="_blank" href="<div style="width: 190px;"><iframe style="display: block;" src="http://cdn1.willyweather.com/widget/loadView.html?id=2671" width="190" height="228" frameborder="0" scrolling="no"></iframe><a style="height: 20px;display: block;z-index: 1;margin: -20px 0 0 " rel="29"><img src="/caffeine/uploads/callouts/" id="willy-weather" class="callout" border="0" alt="" /></a>
+				
+								
+					<a  target="_blank" href="https://www.facebook.com/DJsSouthernSnow" rel="23"><img src="/caffeine/uploads/callouts/djs-logo-ad-for-site.jpg" id="djs-southern-snow" class="callout" border="0" alt="" /></a>
+				
+								
+					<a  target="_blank" href="http://www.dsrglobal.com" rel="24"><img src="/caffeine/uploads/callouts/dsr-logo.jpg" id="dsr" class="callout" border="0" alt="" /></a>
+				
+								
+					<a  target="_blank" href="http://pdgcreative.com/" rel="17"><img src="/caffeine/uploads/callouts/pdgcreative.jpg" id="pdg-creative" class="callout" border="0" alt="" /></a>
+				
+								
+					<a  target="_blank" href="/pages/forms_2" rel="5"><img src="/caffeine/uploads/callouts/forms.jpg" id="forms" class="callout" border="0" alt="" /></a>
+				
+								
+					<a  target="_blank" href="pages/donate" rel="4"><img src="/caffeine/uploads/callouts/donate.jpg" id="donate" class="callout" border="0" alt="" /></a>
+				
+								
+					<a  target="_blank" href="http://www.66fcu.org" rel="14"><img src="/caffeine/uploads/callouts/truityrgb-trustintegrity.jpg" id="66-federal-credit-union" class="callout" border="0" alt="" /></a>
+				
+				
+	</aside>	
+</div><!-- closes .callouts -->				           
+				<div id="intro">
+
+					<h3>Welcome to Washington County Soccer Club</h3><p align="left">Welcome to Washington County Soccer Club (WCSC) located in Bartlesville Oklahoma. Established in 1978 as a nonprofit, WCSC is one of Oklahoma&rsquo;s original soccer clubs and has grown and flourished over the past 3 decades. Our geographical location allows us to give competitive and recreational soccer opportunities to the youth in areas of Northeastern Oklahoma and Southeastern Kansas. With having over 500 children playing in our soccer program each season, WCSC is committed to providing developmentally appropriate environments for all levels of players. We offer three distinct programs: Academy Soccer (ages 4-10), Competitive Soccer program (ages 11-18) and Recreational soccer (ages 11-18).&nbsp;</p>				
+					<div id="blog_feed">
+						
+						
+						<h3><a href="/rss_blog.php?type=coach"><img src="/images/rss.png" alt="RSS Feed" /></a>Coaches Blog</h3>
+	
+														<ul>
+																	<li>
+										<span>Saturday, March 14th, 2015</span>
+										<a href="/pages/director-of-coaching-blog/getting-players-to-pay-attention_0">Getting Players to Pay Attenti ...</a>
+									</li>
+																	<li>
+										<span>Saturday, March 7th, 2015</span>
+										<a href="/pages/director-of-coaching-blog/ussf-wants-small-sided-games">USSF Wants Small Sided Games</a>
+									</li>
+																	<li>
+										<span>Tuesday, March 3th, 2015</span>
+										<a href="/pages/director-of-coaching-blog/6-reasons-parents-should-not-watch-practice">6 Reasons Parents Should Not W ...</a>
+									</li>
+																	<li>
+										<span>Tuesday, March 3th, 2015</span>
+										<a href="/pages/director-of-coaching-blog/see-how-the-adults-like-it">See How the Adults Like It</a>
+									</li>
+																	<li>
+										<span>Friday, December 6th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/why-futsal">Why Futsal?</a>
+									</li>
+																	<li>
+										<span>Friday, November 29th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/questions-to-help-parents-analyze-their-childs-team">Questions to Help Parents Eval ...</a>
+									</li>
+																	<li>
+										<span>Friday, November 22th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/crazier-than-its-ever-been">'Crazier than it's ever been'</a>
+									</li>
+																	<li>
+										<span>Friday, November 15th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/assistant-coachesbe-flexibleunderstanding-and-positivepart-3">Assistant Coaches: 'Be flexibl ...</a>
+									</li>
+																	<li>
+										<span>Friday, November 1th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/head-coachestreat-assistant-as-a-peer-and-respected-colleaguepart-2">Head coaches: 'Treat assistant ...</a>
+									</li>
+																	<li>
+										<span>Friday, October 25th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/getting-the-most-out-of-an-assistant-coachpart-1">Getting the most out of assist ...</a>
+									</li>
+																	<li>
+										<span>Friday, October 18th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/ian-mcclurg-on-youth-soccer">Ian McClurg on Youth Soccer</a>
+									</li>
+																	<li>
+										<span>Friday, October 11th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/what-does-it-take-to-be-the-best">What does it take to be the be ...</a>
+									</li>
+																	<li>
+										<span>Friday, October 4th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/communication-between-coaches-and-players">Communication Between Coaches  ...</a>
+									</li>
+																	<li>
+										<span>Friday, September 20th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/fridayapril-122013-tweet-this-share-this-instilling-respectpassion-and-love-for-game"> Instilling respect, passion a ...</a>
+									</li>
+																	<li>
+										<span>Monday, September 16th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/patience-is-crucial-for-coachesq-a-with-red-bullsbob-montgomerypart-2">'Patience is crucial for coach ...</a>
+									</li>
+																	<li>
+										<span>Monday, September 9th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/usas-no1-club-aims-to-produce-more-prosq-ared-bullsbob-montgomerypart-1">USA's No. 1 club aims to produ ...</a>
+									</li>
+																	<li>
+										<span>Friday, August 30th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/getting-players-to-pay-attention">Getting players to pay attenti ...</a>
+									</li>
+																	<li>
+										<span>Friday, August 23th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/tab-ramoswe-want-to-play-in-the-opponents-half">Tab Ramos: 'We want to play in ...</a>
+									</li>
+																	<li>
+										<span>Friday, August 16th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/sleep-wellplay-wellthe-teenagers-challenge">Sleep well, play well (The tee ...</a>
+									</li>
+																	<li>
+										<span>Friday, August 9th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/brad-friedelworld-class-keeper">Brad Friedel: World Class Keep ...</a>
+									</li>
+																	<li>
+										<span>Friday, August 9th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/keeper-qustionsdressingand-warming-upfor-success">Keeper Qustions: Dressing, and ...</a>
+									</li>
+																	<li>
+										<span>Friday, August 2th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/10-tips-for-the-well-organized-coachpresentation-matters">10 tips for the well-organized ...</a>
+									</li>
+																	<li>
+										<span>Friday, July 26th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/longhot-summerwatch-for-heat-illness">Long, Hot Summer: Watch For He ...</a>
+									</li>
+																	<li>
+										<span>Friday, July 26th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/drink-uphydration-tips-for-summer-soccer">Drink Up: Hydration Tips for S ...</a>
+									</li>
+																	<li>
+										<span>Monday, June 3th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/tryoutscoping-with-cuts">Tryouts: Coping with Cuts</a>
+									</li>
+																	<li>
+										<span>Monday, April 8th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/mental-toughness-exercises">Mental Toughness Exercises</a>
+									</li>
+																	<li>
+										<span>Monday, April 1th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/practical-ideas-for-your-coaching-toolbox-to-develop-mental-toughness">Practical Ideas for Your Coach ...</a>
+									</li>
+																	<li>
+										<span>Monday, March 25th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/how-to-develop-the-best-youth-soccer-players">How To Develop The Best Youth  ...</a>
+									</li>
+																	<li>
+										<span>Monday, March 25th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/youth-soccer-developmentmental-toughness">Youth Soccer Development: Ment ...</a>
+									</li>
+																	<li>
+										<span>Monday, March 18th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/coaching-kids-to-be-confident">Coaching Kids to be Confident</a>
+									</li>
+																	<li>
+										<span>Monday, March 18th, 2013</span>
+										<a href="/pages/director-of-coaching-blog/importance-of-adversity-in-player-development">Importance of Adversity in Pla ...</a>
+									</li>
+																</ul>
+								<a href="/pages/director-of-coaching-blog" class="read_more">Read More &raquo;</a>
+							
+						<div class="clear"></div>
+
+					
+						<h3><a href="/rss_blog.php?type=ref"><img src="/images/rss.png" alt="RSS Feed" /></a>Referee Blog</h3>
+	
+														<ul>
+																	<li>
+										<span>Friday, September 6th, 2013</span>
+										<a href="/pages/referee-blog/winnings-not-everythinghow-to-convince-parents">Winning's not everything: How  ...</a>
+									</li>
+																	<li>
+										<span>Monday, September 2th, 2013</span>
+										<a href="/pages/referee-blog/positive-thinking-pays-off">Positive thinking pays off</a>
+									</li>
+																	<li>
+										<span>Friday, August 30th, 2013</span>
+										<a href="/pages/referee-blog/-in-the-right-spotat-the-right-time"> In the right spot, at the rig ...</a>
+									</li>
+																	<li>
+										<span>Monday, May 20th, 2013</span>
+										<a href="/pages/referee-blog/-love-soccerbecome-a-ref"> Love Soccer? Become a Ref!</a>
+									</li>
+																	<li>
+										<span>Monday, March 18th, 2013</span>
+										<a href="/pages/referee-blog/ask-the-refwhat-action-would-you-take">ASK THE REF:  What Action Woul ...</a>
+									</li>
+																</ul>
+								<a href="/pages/referee-blog" class="read_more">Read More &raquo;</a>
+							
+						<div class="clear"></div>
+					</div><!-- closes #blog_feed -->
+					
+									
+								<a  target="_blank"  href="http://www.usa.siemens.com/industry/us/en/" rel="12"><img src="/caffeine/uploads/callouts/siemenslogosmall.jpg" id="siemens-large-ad" class="callout" border="0" alt="" /></a>
+							
+							
+				</div><!-- closes #intro -->		                 
+								
+			</div><!-- closes #main -->
+
+			<div id="sidebar">
+				<aside>
+				
+					<div id="field-status" class="field-status">
+	<img src="/images/field-status.jpg" alt="" />
+		
+		<h2>Field Status</h2>
+					<div class="field status-open">
+				<p>Robinwood Park<span></span></p>
+			</div>			
+					<div class="field status-open">
+				<p>Daniels<span></span></p>
+			</div>			
+					<div class="field status-open">
+				<p>Adams Lake<span></span></p>
+			</div>			
+					<div class="field status-open">
+				<p>Silverlake<span></span></p>
+			</div>			
+		<!--
+		<h2>fields </h2>
+		<p>updated: <span></span></p>	
+-->
+	
+</div><!-- closes field status-->
+
+<a href="/pages/mapsdirections"><img src="/caffeine/uploads/callouts/maps-directions.jpg" alt="" /></a>
+
+<div id="social">
+	<h3>Follow Us On</h3>
+	<ul>
+		<li>
+			<a href="http://www.facebook.com/pages/Washington-County-Soccer-Club/110896588933496">
+				<img src="/images/social-fb.jpg" alt="" />
+			</a>
+			<a href="http://twitter.com/WCSCandFCB">
+				<img src="/images/social-twitter.jpg" alt="" />
+			</a>
+<!--
+			<a href="http://www.youtube.com/">
+				<img src="/images/social-youtube.jpg" alt="" />
+			</a>
+-->
+		</li>
+	</ul>
+</div>
+
+<div class="callouts">
+	
+					
+				<a  target="_blank" href="https://www.rainedout.net/team_page.php?a=5625e686d1bd2eb7df6a"><img src="/caffeine/uploads/callouts/ro-rectangle-a-180x150.png" id="rainedout-text-alerts" class="callout" alt="" /></a>
+				
+								
+				<a  target="_blank" href="http://www.arvest.com"><img src="/caffeine/uploads/callouts/arvest-logo.jpg" id="arvest" class="callout" alt="" /></a>
+				
+								
+				<a  target="_blank" href="http://bvilleshirtshop.webs.com/"><img src="/caffeine/uploads/callouts/shirt-shop-logo.gif" id="the-shirt-shop" class="callout" alt="" /></a>
+				
+					
+</div><!-- closes .callouts -->				
+				</aside>
+			</div><!-- closes #sidebar -->
+				
+			</div><!-- closes #content -->
+
+		<footer>
+			<ul>
+<li><a href="http://www.basl-soccer.org/">Bartlesville Adult Soccer League</a></li>
+<li><a href="http://www.gcsoccer.com/">Green Country Soccer Association</a></li>
+<li><a href="http://www.gcsoccer.com/GCSA_MemberClubs.html">Green Country Member Clubs</a> (with field maps)</li>
+<li><a href="http://www.okwu.edu/athletics/sport/mens-soccer">OKWU Men's Soccer</a></li>
+<li><a href="http://www.okwu.edu/athletics/sport/womens-soccer">OKWU Women's Soccer</a></li>
+<li><a href="http://www.oksoccer.com/default.aspx">Oklahoma Soccer Association</a></li>
+</ul>				<ul><li class="level-1 first"><span><a href="/pages/teams-admin">Teams Admin</a></span></li><li class="level-1 last"><span><a href="/pages/pages-admin">Pages Admin</a></span></li></ul>        	
+			
+			<p id="footer-text">&copy; Copyright 2015 Washington County Soccer Club  All Rights Reserved
+			</p>
+		</footer>
+
+
+	</div><!-- closes #container -->	<script type="text/javascript" async="async" src="/min/?g=home_js"></script>
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7f6c46acc9","applicationID":"2405936","transactionName":"YwZQNhZTCEpTUUULW1pMZxANHQ9XVldJTERcEw==","queueTime":0,"applicationTime":36,"atts":"T0FTQF5JG0Q=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>

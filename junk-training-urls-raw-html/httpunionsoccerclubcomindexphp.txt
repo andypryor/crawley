@@ -1,0 +1,5611 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="robots" content="all">
+<meta name="keywords" content="sports, soccer, hockey, baseball, basketball, football, softball, tournament, camp, scheduling, online registration">
+<meta name="description" content="Union Soccer Club - Where Kids go to play!">
+<title>Union Soccer Club</title>
+<style type="text/css">
+body {
+	margin: 0px 0px 0px 0px;
+	overflow: auto;
+	overflow-y: scroll;
+	
+    height: 100%;
+}
+#stretch{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+#outer_maincontent{
+	margin:0 auto;
+	text-align:left;
+	}
+#maincontent{
+    /* margin: 0px 0px 0px 0px;   we actually need it to auto-margin so it isn't forced to any edge, and we will give a little room at the top if u don't mind' */
+    margin: auto;
+	height:inherit;
+	text-align:left;
+}
+a:link, a:visited {
+	color: #333399;
+	text-decoration: none;
+}
+a:hover {
+	color: #333399;
+	text-decoration: underline;
+}
+.footer{
+	background-color: #dddddd;
+	border-top: 1px solid #333333;
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+}
+.footer a:link, .footer a:visited {
+	color: #333399;
+	text-decoration: none;
+}
+.footer a:hover {
+	color: #333399;
+	text-decoration: underline;
+}
+.fadeback{
+	background-image: url(http://www.unionsoccerclub.com/images/smallfadeback_2.gif);
+}
+.headerback{
+	background-color: #ffffff;
+	background-image: url(http://www.unionsoccerclub.com/images/images/1/0/background-wide-wallpaper-black-stripe.png);}
+.content{
+	background-color: #ffffff;
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 12px;
+	height: 650px;
+	padding: 7px 10px 0px 10px;
+}
+.rightback{
+	background-color: #ffffff;
+	background-image: url(http://www.unionsoccerclub.com/images/images/1/rightfade_ffffff.png);
+	background-repeat: repeat-y;
+	padding: 0px 10px 0px 10px;
+}
+.polltext {
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 10px;
+}
+.pollquestion {
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+}
+.pollheader {
+	border-bottom: 1px solid #999999;
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	width: 100%;
+}
+.blogtimestamp {
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 10px;
+	padding: 10px 0px 10px 0px;
+}
+.smalltext {
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+}
+select.smalltext, input.smalltext, textarea.smalltext {
+	color: #000000;
+}
+.smallwhitetext {
+	color: #ffffff;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+}
+.smallwhitetext a:link, .smallwhitetext a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+.smallwhitetext a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+.reggraytext {
+	color: #666666;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 12px;
+}
+.regtext {
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 12px;
+}
+.errortext {
+	color: #cc0000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+}
+.blogtitle {
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 3px;
+}
+.titledarktext {
+	border-bottom: 1px solid #bbbbbb;
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px 0px 2px 0px;
+}
+.titledarktext2 {
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 15px;
+	font-weight: bold;
+}
+.titledarktext3 {
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 24px;
+	font-weight: bold;
+}
+.teamdropdown{
+	background-color: #ffffff;
+	color: #333399;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+}
+table.navbar {
+	border-collapse: collapse;
+}
+#navbar {
+	position: relative;
+	height: 36;
+}
+#navbar td{
+	border-right:1px solid #666666;
+}
+#menu1, #menu2, #menu3, #menu4, #menu5, #menu6, #menu7, #menu8, #menu9, #menu10, #menu11 {
+	position: absolute;
+	visibility: hidden;
+	width: 129px;
+	z-index: 100;
+}
+.navmenuback{
+	background-color: #ff0000;
+	background-image: url('http://www.unionsoccerclub.com/images/images/1/0/abstract_background_red.jpg');
+	background-position: center center;
+	background-repeat: repeat;
+}
+.navmenu {
+	border-bottom: 1px solid #333399;
+}
+a.menulink:link, a.menulink:visited {
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	line-height: 36px;
+}
+a.menulink2:link, a.menulink2:visited {
+	background-image: URL('http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg');
+	background-position: center center;
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+	color: #ffffff;
+	display: block;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 36px;
+	text-align: center;
+	text-decoration: none;
+	width: 100%;
+}
+a.menulink2:hover{
+	text-decoration: none;
+}
+a.menulink2_on:link, a.menulink2_on:visited {
+	background-image: URL('http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg');
+	background-position: center center;
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+	color: #ffffff;
+	display: block;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 36px;
+	text-align: center;
+	text-decoration: underline;
+	width: 100%;
+}
+a.menulink2_on:hover{
+	text-decoration: underline;
+}
+a.menulink_on:link, a.menulink_on:visited {
+	color: #ffffff;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+		background-color: #EEEEEE;
+	text-decoration: none;
+	text-indent: 4px;
+	background-image: URL('http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg');
+	/*background-position: top right;*/
+	background-repeat: no-repeat;
+	display: block;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #666666;
+	padding: 0px;
+	text-align: left;
+	width: 130px;
+	line-height: 36px;
+	text-decoration: underline;
+}
+a.dropmenulink:link, a.dropmenulink:visited {
+	background-color: #cc0017;
+	color: #ffffff;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	text-decoration: none;
+	text-indent: 4px;
+		border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #666666;
+		display: block;
+	width: 130px;
+	text-align: left;
+	padding: 0px;
+	line-height: 36px;
+}
+a.dropmenulink:hover {
+	background-color: #cc0017;
+	display: block;
+	text-decoration: underline;
+}
+a.menulink:hover, a.menulink_on:hover {
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: underline;
+		background-color: #EEEEEE;
+	text-indent: 4px;
+	display: block;
+	background-image: URL(http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg);
+	/*background-position: top right;*/
+	background-repeat: no-repeat;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	width: 130px;
+	line-height: 36px;
+}
+table.list {
+	border-collapse: collapse;
+}
+.listtitle {
+	background-image: url(http://www.unionsoccerclub.com/images/smallfadeback_2.gif);
+	border: 1px solid #bbbbbb;
+	color: #ffffff;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px 2px 2px 2px;
+	text-align: left;
+}
+.listtitle a:link, .listtitle a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+.listtitle a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+.listheader {
+	background-color: #DDDDDD;
+	border: 1px solid #bbbbbb;
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px;
+	text-align: left;
+}
+.listheader2 {
+	background-color: #eeeeee;
+	border: 1px solid #bbbbbb;
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px;
+	text-align: left;
+}
+.list0 {
+	background-color: #EEEEEE;
+	border: 1px solid #bbbbbb;
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	padding: 3px;
+	text-align: left;
+}
+.list1 {
+	background-color: #FFFFFF;
+	border: 1px solid #bbbbbb;
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	padding: 3px;
+	text-align: left;
+}
+.list2 {
+	background-color: #ff0000;
+	border: 1px solid #bbbbbb;
+	color: #ffffff;
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	padding: 3px;
+	text-align: left;
+}
+.calendarday {
+	height: 100px;
+}
+div.menulink{
+	height: 36	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	line-height: 36px;
+}
+div.menulink select{ 
+	margin-bottom: 0.4em;
+	margin-top: 0.3em;
+	margin-left: -1px;
+ }
+div.loginbar{
+	width:100%; 
+	height:15px;
+			background: #747373;
+			background: -webkit-gradient(linear, left top, right top, from(#747373), to(#000));
+    background: -webkit-linear-gradient(left, #747373, #000);
+    background: -moz-linear-gradient(left, #747373, #000);
+    background: -ms-linear-gradient(left, #747373, #000);
+    background: -o-linear-gradient(left, #747373, #000);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#747373', endColorstr='#000');
+    zoom:1;
+	}
+span#loginlink{
+	font-family:monospace;
+	width: 100%; 
+	height: 100%; 
+	float: right; 
+	padding-right: 5px; 
+	font-size: 74%; 
+	text-align: right;	
+}
+span#loginlink a, span#loginlink a:link, span#loginlink a:active, span#loginlink a:visited{
+		color: #fff; 
+	}
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/*   Styles from /images/images/1/0/style.css                                        */
+/*   To add or overload styles, upload a css file through the Web Admin File Manager */
+/*   The filename must be style.css                                                  */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+</style>
+<!--[if IE 6]>
+<style type="text/css">
+/* some css fixes for IE browsers */
+html {overflow-y:hidden;}
+body {overflow-y:auto;}
+#stretch {position:absolute; z-index:-1;}
+#outer_maincontent {position:static;}
+body {
+ text-align:center; /*For IE6 Shenanigans*/
+}
+</style>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+	if (window.attachEvent) {
+			window["event_load" + startup] = startup;
+			window["load" + startup] = function () {
+				window["event_load" + startup](window.event)
+			};
+			window.attachEvent("onload", window["load" + startup])
+		} else {
+			window.addEventListener("load", startup, false)
+		}	
+	
+	function startup(){
+//		return true;
+				try{
+			document.getElementById('navbar').style.visibility = 'visible';
+		}
+		catch(err){}/*console.log('there was an error attempting to get element by id: navbar.  this is the error'.err); */
+				//document.getElementById('navbar').style.display = 'block';	
+			}
+	setTimeout("startup()",2500);
+//]]>
+</script>
+<!--<script type="text/javascript" src= > </script>-->
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type='text/javascript' src='/js/embedtags.js'></script></head>
+<body onload="startup();">
+<div id="outer_maincontent">
+<div id="maincontent">
+<div class="loginbar"><span id="loginlink"><b><a id="headerloginlink" href="index.php?logout=no&teamid=0">Login</a>&nbsp;</b></b></span></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="headerback"><div class="regtext" style="display: inline;">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="text-align: left;">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<table align="" width="" style="border: none; border-collapse: collapse; width: 100%;">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<tbody>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<tr>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<td style="border: none; width: 20px; letter-spacing: 0px; word-spacing: 0px;">
+					
+					
+					
+					
+					
+					</td>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<td style="border: none; width: 20px; letter-spacing: 0px; word-spacing: 0px;">
+						
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<img border="0" align="left" width="150" height="150" alt="" src="http://www.unionsoccerclub.com/images/images/1/0/usc_logo_ball.png" /></td>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<td style="border: none; vertical-align: top; letter-spacing: 0px; word-spacing: 0px; height: 200px;">
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<br />
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<table align="" width="" style="border-collapse: collapse; width: 100%; border: none;">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<tbody>
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							<tr>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<td style="border: none;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span style="font-family: 'Arial Black'; font-size: 36pt; font-weight: bold; font-style: italic; color: rgb(255, 255, 255);">
+											
+											
+											
+											<span style="font-family: Impact;">Union SoccerClub </span>&nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span startcont="this" style="color: rgb(255, 0, 0); font-family: Arial;">&nbsp;</span>
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<img border="0px" align="right" width="40" height="40" alt="" src="http://www.unionsoccerclub.com/images/images/1/0/gecko_gabe_soccer_drill_hg_clr.gif" /><br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										</blockquote>
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												<blockquote style="text-align: left; margin: 0px 0px 0px 40px; border: none; padding: 0px;">
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													<span style="font-size: 14pt; font-style: italic; font-family: 'Comic Sans MS'; color: rgb(255, 255, 224);">Where the Fun Starts!</span></blockquote></blockquote></blockquote></blockquote></td>
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</tr>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						</tbody>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					</table>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<div style="text-align: right;"><br />
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						</div>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<table align="" width="" style="border: none;">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<tbody>
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							<tr>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<td style="border: none;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<div style="text-align: left;">
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											<span style="font-weight: bold; font-family: Arial; color: rgb(255, 0, 0);">
+												USC Office</span></div>
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+											
+											
+											
+											
+											
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span style="color: rgb(255, 0, 0);">
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											<span style="font-family: Arial;">
+										
+										
+										
+										
+										4150 S. 100th E. Ave <br />
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											
+												
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											</span>
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											<span style="font-family: Arial;">
+										
+										
+										
+										
+										Suite 200 AD<br />
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											
+												
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											</span>
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											<span style="font-family: Arial;">
+										
+										
+										
+										
+										Tulsa, OK 74146&nbsp;</span></span></blockquote>
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span style="font-family: Arial; font-weight: bold; letter-spacing: 0px; color: rgb(255, 255, 255);"><br />
+											
+											</span>
+										
+										<span style="color: rgb(255, 0, 0);">
+											
+											<span style="font-family: Arial;"></span></span></blockquote></td>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<td style="border: none;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<span style="font-family: Arial; color: rgb(255, 0, 0);">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span style="font-weight: bold;">Contact Information</span><br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										Phone: 918.665.9339<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										Fax: 918.576.6101<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										Email:unionsoccerclub@tulsacoxmail.com&nbsp;&nbsp; &nbsp;<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										</span></td>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<td style="border: none;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<span style="font-family: Arial; color: rgb(255, 0, 0);">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span style="font-weight: bold;">Office Hours</span><br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										Monday - Noon to 3<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										Tuesday - 10 to 3<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+											
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										Thursday - 10 to 3<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<br />
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										</span></td>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<td style="text-align: right; border: none; width: 300px; letter-spacing: 0px; word-spacing: 0px;"><br />
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<br />
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<br />
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<br />
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<br />
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<br />
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									</td>
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</tr>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						</tbody>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					</table></td>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</tr>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</tbody>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</p></div></td>
+	</tr>
+		<tr>
+		<td background="http://www.unionsoccerclub.com/images/headertemplates/header1_left.gif"><img border="0" width="1" height="3" src="http://www.unionsoccerclub.com/images/empty.gif" /></td>
+	</tr>
+	</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom-style:solid; border-width: 1px;">
+	<!-- The following is for navigation menus -->
+			<tr>
+		<td class="navmenuback">
+<!--			<script src="http://www.google.com/jsapi"></script><script>google.load("mootools", "1.4.2");</script>	-->
+			<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js" type="text/javascript" charset="utf-8" language="javascript"></script>
+			<!-- Load the MenuMatic Class -->
+<!--			<script src="/js/MenuMatic_0.68.3.js" type="text/javascript" charset="utf-8"></script>-->
+			<!-- Create a MenuMatic Instance -->
+			<script type="text/javascript" >
+			window.addEvent('domready', function() {
+				(function(){
+					/**
+					* menuMatic
+					* @version 0.68.3 (beta)
+					* @author Jason J. Jaeger | greengeckodesign.com
+					* @copyright 2008 Jason John Jaeger
+					* @license MIT-style License
+					*			Permission is hereby granted, free of charge, to any person obtaining a copy
+					*			of this software and associated documentation files (the "Software"), to deal
+					*			in the Software without restriction, including without limitation the rights
+					*			to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+					*			copies of the Software, and to permit persons to whom the Software is
+					*			furnished to do so, subject to the following conditions:
+					*
+					*			The above copyright notice and this permission notice shall be included in
+					*			all copies or substantial portions of the Software.
+					*
+					*			THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+					*			IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+					*			FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+					*			AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+					*			LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+					*			OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+					*			THE SOFTWARE.
+					**/
+					var MenuMatic=new Class({Implements:Options,options:{id:"nav",subMenusContainerId:"subMenusContainer",effect:"slide & fade",duration:600,physics:Fx.Transitions.Pow.easeOut,hideDelay:1000,stretchMainMenu:false,matchWidthMode:false,orientation:"horizontal",direction:{x:"right",y:"down"},tweakInitial:{x:0,y:0},tweakSubsequent:{x:0,y:0},center:false,opacity:95,mmbFocusedClassName:null,mmbClassName:null,killDivider:null,fixHasLayoutBug:false,onHideAllSubMenusNow_begin:(function(){}),onHideAllSubMenusNow_complete:(function(){}),onInit_begin:(function(){}),onInit_complete:(function(){})},hideAllMenusTimeout:null,allSubMenus:[],subMenuZindex:1,initialize:function(B){this.setOptions(B);this.options.onInit_begin();if(this.options.opacity>99){this.options.opacity=99.9}this.options.opacity=this.options.opacity/100;Element.implement({getId:function(){if(!this.id){var E=this.get("tag")+"-"+$time();while($(E)){E=this.get("tag")+"-"+$time()}this.id=E}return this.id}});this.options.direction.x=this.options.direction.x.toLowerCase();this.options.direction.y=this.options.direction.y.toLowerCase();if(this.options.direction.x==="right"){this.options.direction.xInverse="left"}else{if(this.options.direction.x==="left"){this.options.direction.xInverse="right"}}if(this.options.direction.y==="up"){this.options.direction.yInverse="down"}else{if(this.options.direction.y==="down"){this.options.direction.yInverse="up"}}var A=$(this.options.id).getElements("a");A.each(function(F,E){F.store("parentLinks",F.getParent().getParents("li").getFirst("a"));F.store("parentLinks",F.retrieve("parentLinks").erase(F.retrieve("parentLinks").getFirst()));F.store("childMenu",F.getNext("ul")||F.getNext("ol"));theSubMenuType="subsequent";if($(F.getParent("ul")||F.getParent("ol")).id===this.options.id){theSubMenuType="initial"}F.store("subMenuType",theSubMenuType);if(theSubMenuType==="initial"&&$(F.getNext("ul")||F.getNext("ol"))){F.addClass("mainMenuParentBtn")}else{if($(F.getNext("ul")||F.getNext("ol"))){F.addClass("subMenuParentBtn")}}}.bind(this));var D=new Element("div",{id:this.options.subMenusContainerId}).inject($(document.body),"bottom");$(this.options.id).getElements("ul, ol").each(function(F,E){new Element("div",{"class":"smOW"}).inject(D).grab(F)}.bind(this));D.getElements("a").set("tabindex","-1");A.each(function(G,E){if(!G.retrieve("childMenu")){return }G.store("childMenu",G.retrieve("childMenu").getParent("div"));this.allSubMenus.include(G.retrieve("childMenu"));G.store("parentSubMenus",G.retrieve("parentLinks").retrieve("childMenu"));var F=new MenuMaticSubMenu(this.options,this,G)}.bind(this));var C=$(this.options.id).getElements("a").filter(function(F,E){return !F.retrieve("childMenu")});C.each(function(F,E){F.addEvents({mouseenter:function(G){this.hideAllSubMenusNow();if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),focus:function(G){this.hideAllSubMenusNow();if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),mouseleave:function(G){if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration*5),transition:this.options.physics,link:"cancel"})).start(this.options.mmbClassName)}}.bind(this),blur:function(G){if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration*5),transition:this.options.physics,link:"cancel"})).start(this.options.mmbClassName)}}.bind(this),keydown:function(H){var G=new Event(H);if(H.key==="up"||H.key==="down"||H.key==="left"||H.key==="right"){H.stop()}if(H.key==="left"&&this.options.orientation==="horizontal"||H.key==="up"&&this.options.orientation==="vertical"){if(F.getParent("li").getPrevious("li")){F.getParent("li").getPrevious("li").getFirst("a").focus()}else{F.getParent("li").getParent().getLast("li").getFirst("a").focus()}}else{if(H.key==="right"&&this.options.orientation==="horizontal"||H.key==="down"&&this.options.orientation==="vertical"){if(F.getParent("li").getNext("li")){F.getParent("li").getNext("li").getFirst("a").focus()}else{F.getParent("li").getParent().getFirst("li").getFirst("a").focus()}}}}.bind(this)})},this);this.stretch();this.killDivider();this.center();this.fixHasLayoutBug();this.options.onInit_complete()},fixHasLayoutBug:function(){if(Browser.Engine.trident&&this.options.fixHasLayoutBug){$(this.options.id).getParents().setStyle("zoom",1);$(this.options.id).setStyle("zoom",1);$(this.options.id).getChildren().setStyle("zoom",1);$(this.options.subMenusContainerId).setStyle("zoom",1);$(this.options.subMenusContainerId).getChildren().setStyle("zoom",1)}},center:function(){if(!this.options.center){return }$(this.options.id).setStyles({left:"50%","margin-left":-($(this.options.id).getSize().x/2)})},stretch:function(){if(this.options.stretchMainMenu&&this.options.orientation==="horizontal"){var C=parseFloat($(this.options.id).getCoordinates().width);var D=0;var B=$(this.options.id).getElements("a");B.setStyles({"padding-left":0,"padding-right":0});B.each(function(F,E){D+=F.getSize().x}.bind(this));if(C<D){return }var A=(C-D)/B.length;B.each(function(F,E){F.setStyle("width",F.getSize().x+A)}.bind(this));B.getLast().setStyle("width",B.getLast().getSize().x-1)}},killDivider:function(){if(this.options.killDivider&&this.options.killDivider.toLowerCase()==="first"){$($(this.options.id).getElements("li")[0]).setStyles({background:"none"})}else{if(this.options.killDivider&&this.options.killDivider.toLowerCase()==="last"){$($(this.options.id).getElements("li").getLast()).setStyles({background:"none"})}}},hideAllSubMenusNow:function(){this.options.onHideAllSubMenusNow_begin();$clear(this.hideAllMenusTimeout);$$(this.allSubMenus).fireEvent("hide");this.options.onHideAllSubMenusNow_complete()}});var MenuMaticSubMenu=new Class({Implements:Options,Extends:MenuMatic,options:{onSubMenuInit_begin:(function(A){}),onSubMenuInit_complete:(function(A){}),onMatchWidth_begin:(function(A){}),onMatchWidth_complete:(function(A){}),onHideSubMenu_begin:(function(A){}),onHideSubMenu_complete:(function(A){}),onHideOtherSubMenus_begin:(function(A){}),onHideOtherSubMenus_complete:(function(A){}),onHideAllSubMenus_begin:(function(A){}),onHideAllSubMenus_complete:(function(A){}),onPositionSubMenu_begin:(function(A){}),onPositionSubMenu_complete:(function(A){}),onShowSubMenu_begin:(function(A){}),onShowSubMenu_complete:(function(A){})},root:null,btn:null,hidden:true,myEffect:null,initialize:function(B,A,C){this.setOptions(B);this.root=A;this.btn=C;this.childMenu=this.btn.retrieve("childMenu");this.subMenuType=this.btn.retrieve("subMenuType");this.childMenu=this.btn.retrieve("childMenu");this.parentSubMenus=$$(this.btn.retrieve("parentSubMenus"));this.parentLinks=$$(this.btn.retrieve("parentLinks"));this.parentSubMenu=$(this.parentSubMenus[0]);if(this.parentSubMenu){this.parentSubMenu=this.parentSubMenu.retrieve("class")}this.childMenu.store("class",this);this.btn.store("class",this);this.childMenu.store("status","closed");this.options.onSubMenuInit_begin(this);this.childMenu.addEvent("hide",function(){this.hideSubMenu()}.bind(this));this.childMenu.addEvent("show",function(){this.showSubMenu()}.bind(this));if(this.options.effect){this.myEffect=new Fx.Morph($(this.childMenu).getFirst(),{duration:this.options.duration,transition:this.options.physics,link:"cancel"})}if(this.options.effect==="slide"||this.options.effect==="slide & fade"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"){this.childMenu.getFirst().setStyle("margin-top","0")}else{this.childMenu.getFirst().setStyle("margin-left","0")}}else{if(this.options.effect==="fade"||this.options.effect==="slide & fade"){this.childMenu.getFirst().setStyle("opacity",0)}}if(this.options.effect!="fade"&&this.options.effect!="slide & fade"){this.childMenu.getFirst().setStyle("opacity",this.options.opacity)}var D=$(this.childMenu).getElements("a").filter(function(F,E){return !F.retrieve("childMenu")});D.each(function(F,E){$(F).addClass("subMenuBtn");F.addEvents({mouseenter:function(G){this.childMenu.fireEvent("show");this.cancellHideAllSubMenus();this.hideOtherSubMenus()}.bind(this),focus:function(G){this.childMenu.fireEvent("show");this.cancellHideAllSubMenus();this.hideOtherSubMenus()}.bind(this),mouseleave:function(G){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),blur:function(G){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),keydown:function(H){var G=new Event(H);if(H.key==="up"||H.key==="down"||H.key==="left"||H.key==="right"||H.key==="tab"){H.stop()}if(H.key==="up"){if(F.getParent("li").getPrevious("li")){F.getParent("li").getPrevious("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){this.btn.focus()}else{if(this.options.direction.y==="up"){F.getParent("li").getParent().getLast("li").getFirst("a").focus()}}}}else{if(H.key==="down"){if(F.getParent("li").getNext("li")){F.getParent("li").getNext("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){F.getParent("li").getParent().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){this.btn.focus()}}}}else{if(H.key===this.options.direction.xInverse){this.btn.focus()}}}}.bind(this)})},this);$(this.btn).removeClass("subMenuBtn");if(this.subMenuType=="initial"){this.btn.addClass("mainParentBtn")}else{this.btn.addClass("subParentBtn")}$(this.btn).addEvents({mouseenter:function(E){this.cancellHideAllSubMenus();this.hideOtherSubMenus();this.showSubMenu();if(this.subMenuType==="initial"&&this.options.mmbClassName&&this.options.mmbFocusedClassName){$(this.btn).retrieve("btnMorph",new Fx.Morph($(this.btn),{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),focus:function(E){this.cancellHideAllSubMenus();this.hideOtherSubMenus();this.showSubMenu();if(this.subMenuType==="initial"&&this.options.mmbClassName&&this.options.mmbFocusedClassName){$(this.btn).retrieve("btnMorph",new Fx.Morph($(this.btn),{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),mouseleave:function(E){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),blur:function(E){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),keydown:function(E){E=new Event(E);if(E.key==="up"||E.key==="down"||E.key==="left"||E.key==="right"){E.stop()}if(!this.parentSubMenu){if(this.options.orientation==="horizontal"&&E.key===this.options.direction.y||this.options.orientation==="vertical"&&E.key===this.options.direction.x){if(this.options.direction.y==="down"){this.childMenu.getFirst().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){this.childMenu.getFirst().getLast("li").getFirst("a").focus()}}}else{if(this.options.orientation==="horizontal"&&E.key==="left"||this.options.orientation==="vertical"&&E.key===this.options.direction.yInverse){if(this.btn.getParent().getPrevious()){this.btn.getParent().getPrevious().getFirst().focus()}else{this.btn.getParent().getParent().getLast().getFirst().focus()}}else{if(this.options.orientation==="horizontal"&&E.key==="right"||this.options.orientation==="vertical"&&E.key===this.options.direction.y){if(this.btn.getParent().getNext()){this.btn.getParent().getNext().getFirst().focus()}else{this.btn.getParent().getParent().getFirst().getFirst().focus()}}}}}else{if(E.key==="tab"){E.stop()}if(E.key==="up"){if(this.btn.getParent("li").getPrevious("li")){this.btn.getParent("li").getPrevious("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){this.parentSubMenu.btn.focus()}else{if(this.options.direction.y==="up"){this.btn.getParent("li").getParent().getLast("li").getFirst("a").focus()}}}}else{if(E.key==="down"){if(this.btn.getParent("li").getNext("li")){this.btn.getParent("li").getNext("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){this.btn.getParent("li").getParent().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){this.parentSubMenu.btn.focus()}}}}else{if(E.key===this.options.direction.xInverse){this.parentSubMenu.btn.focus()}else{if(E.key===this.options.direction.x){if(this.options.direction.y==="down"){this.childMenu.getFirst().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){}}}}}}}}.bind(this)});this.options.onSubMenuInit_complete(this)},matchWidth:function(){if(this.widthMatched||!this.options.matchWidthMode||this.subMenuType==="subsequent"){return }this.options.onMatchWidth_begin(this);var A=this.btn.getCoordinates().width;$(this.childMenu).getElements("a").each(function(E,D){var C=parseFloat($(this.childMenu).getFirst().getStyle("border-left-width"))+parseFloat($(this.childMenu).getFirst().getStyle("border-right-width"));var B=parseFloat(E.getStyle("padding-left"))+parseFloat(E.getStyle("padding-right"));var F=C+B;if(A>E.getCoordinates().width){E.setStyle("width",A-F);E.setStyle("margin-right",-C)}}.bind(this));this.width=this.childMenu.getFirst().getCoordinates().width;this.widthMatched=true;this.options.onMatchWidth_complete(this)},hideSubMenu:function(){if(this.childMenu.retrieve("status")==="closed"){return }this.options.onHideSubMenu_begin(this);if(this.subMenuType=="initial"){if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(this.btn).retrieve("btnMorph",new Fx.Morph($(this.btn),{duration:(this.options.duration),transition:this.options.physics,link:"cancel"})).start(this.options.mmbClassName).chain(function(){$(this.btn).removeClass("mainMenuParentBtnFocused");$(this.btn).addClass("mainMenuParentBtn")}.bind(this))}else{$(this.btn).removeClass("mainMenuParentBtnFocused");$(this.btn).addClass("mainMenuParentBtn")}}else{$(this.btn).removeClass("subMenuParentBtnFocused");$(this.btn).addClass("subMenuParentBtn")}this.childMenu.setStyle("z-index",1);if(this.options.effect&&this.options.effect.toLowerCase()==="slide"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="down"){this.myEffect.start({"margin-top":-this.height}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="up"){this.myEffect.start({"margin-top":this.height}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="right"){this.myEffect.start({"margin-left":-this.width}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.start({"margin-left":this.width}).chain(function(){this.childMenu.style.display="none"}.bind(this))}}}}}else{if(this.options.effect=="fade"){this.myEffect.start({opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.effect=="slide & fade"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="down"){this.myEffect.start({"margin-top":-this.height,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="up"){this.myEffect.start({"margin-top":this.height,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="right"){this.myEffect.start({"margin-left":-this.width,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.start({"margin-left":this.width,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}}}}}else{this.childMenu.style.display="none"}}}this.childMenu.store("status","closed");this.options.onHideSubMenu_complete(this)},hideOtherSubMenus:function(){this.options.onHideOtherSubMenus_begin(this);if(!this.btn.retrieve("otherSubMenus")){this.btn.store("otherSubMenus",$$(this.root.allSubMenus.filter(function(A){return !this.btn.retrieve("parentSubMenus").contains(A)&&A!=this.childMenu}.bind(this))))}this.parentSubMenus.fireEvent("show");this.btn.retrieve("otherSubMenus").fireEvent("hide");this.options.onHideOtherSubMenus_complete(this)},hideAllSubMenus:function(){this.options.onHideAllSubMenus_begin(this);$clear(this.root.hideAllMenusTimeout);this.root.hideAllMenusTimeout=(function(){$clear(this.hideAllMenusTimeout);$$(this.root.allSubMenus).fireEvent("hide")}).bind(this).delay(this.options.hideDelay);this.options.onHideAllSubMenus_complete(this)},cancellHideAllSubMenus:function(){$clear(this.root.hideAllMenusTimeout)},showSubMenu:function(A){if(this.childMenu.retrieve("status")==="open"){return }this.options.onShowSubMenu_begin(this);if(this.subMenuType=="initial"){$(this.btn).removeClass("mainMenuParentBtn");$(this.btn).addClass("mainMenuParentBtnFocused")}else{$(this.btn).removeClass("subMenuParentBtn");$(this.btn).addClass("subMenuParentBtnFocused")}this.root.subMenuZindex++;this.childMenu.setStyles({display:"block",visibility:"hidden","z-index":this.root.subMenuZindex});if(!this.width||!this.height){this.width=this.childMenu.getFirst().getCoordinates().width;this.height=this.childMenu.getFirst().getCoordinates().height;this.childMenu.setStyle("height",this.height,"border");if(this.options.effect==="slide"||this.options.effect==="slide & fade"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"){this.childMenu.getFirst().setStyle("margin-top","0");if(this.options.direction.y==="down"){this.myEffect.set({"margin-top":-this.height})}else{if(this.options.direction.y==="up"){this.myEffect.set({"margin-top":this.height})}}}else{if(this.options.direction.x==="left"){this.myEffect.set({"margin-left":this.width})}else{this.myEffect.set({"margin-left":-this.width})}}}}this.matchWidth();this.positionSubMenu();if(this.options.effect==="slide"){this.childMenu.setStyles({display:"block",visibility:"visible"});if(this.subMenuType==="initial"&&this.options.orientation==="horizontal"){if(A){this.myEffect.set({"margin-top":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({"margin-top":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}}else{if(A){this.myEffect.set({"margin-left":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({"margin-left":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}}}else{if(this.options.effect==="fade"){if(A){this.myEffect.set({opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}else{if(this.options.effect=="slide & fade"){this.childMenu.setStyles({display:"block",visibility:"visible"});this.childMenu.getFirst().setStyles({left:0});if(this.subMenuType==="initial"&&this.options.orientation==="horizontal"){if(A){this.myEffect.set({"margin-top":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({"margin-top":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}else{if(A){if(this.options.direction.x==="right"){this.myEffect.set({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.set({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}}else{if(this.options.direction.x==="right"){this.myEffect.set({"margin-left":-this.width,opacity:this.options.opacity});this.myEffect.start({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.start({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}}}}else{this.childMenu.setStyles({display:"block",visibility:"visible"}).chain(function(){this.showSubMenuComplete(this)}.bind(this))}}}this.childMenu.store("status","open")},showSubMenuComplete:function(){this.options.onShowSubMenu_complete(this)},positionSubMenu:function(){this.options.onPositionSubMenu_begin(this);this.childMenu.setStyle("width",this.width);this.childMenu.getFirst().setStyle("width",this.width);if(this.subMenuType==="subsequent"){if(this.parentSubMenu&&this.options.direction.x!=this.parentSubMenu.options.direction.x){if(this.parentSubMenu.options.direction.x==="left"&&this.options.effect&&this.options.effect.contains("slide")){this.myEffect.set({"margin-left":this.width})}}this.options.direction.x=this.parentSubMenu.options.direction.x;this.options.direction.xInverse=this.parentSubMenu.options.direction.xInverse;this.options.direction.y=this.parentSubMenu.options.direction.y;this.options.direction.yInverse=this.parentSubMenu.options.direction.yInverse}var C;var A;if(this.subMenuType=="initial"){if(this.options.direction.y==="up"){if(this.options.orientation==="vertical"){C=this.btn.getCoordinates().bottom-this.height+this.options.tweakInitial.y}else{C=this.btn.getCoordinates().top-this.height+this.options.tweakInitial.y}this.childMenu.style.top=C+"px"}else{if(this.options.orientation=="horizontal"){this.childMenu.style.top=this.btn.getCoordinates().bottom+this.options.tweakInitial.y+"px"}else{if(this.options.orientation=="vertical"){C=this.btn.getPosition().y+this.options.tweakInitial.y;if((C+this.childMenu.getSize().y)>=$(document.body).getScrollSize().y){A=(C+this.childMenu.getSize().y)-$(document.body).getScrollSize().y;C=C-A-20}this.childMenu.style.top=C+"px"}}}if(this.options.orientation=="horizontal"){this.childMenu.style.left=this.btn.getPosition().x+this.options.tweakInitial.x+"px"}else{if(this.options.direction.x=="left"){this.childMenu.style.left=this.btn.getPosition().x-this.childMenu.getCoordinates().width+this.options.tweakInitial.x+"px"}else{if(this.options.direction.x=="right"){this.childMenu.style.left=this.btn.getCoordinates().right+this.options.tweakInitial.x+"px"}}}}else{if(this.subMenuType=="subsequent"){if(this.options.direction.y==="down"){if((this.btn.getCoordinates().top+this.options.tweakSubsequent.y+this.childMenu.getSize().y)>=$(document.body).getScrollSize().y){A=(this.btn.getCoordinates().top+this.options.tweakSubsequent.y+this.childMenu.getSize().y)-$(document.body).getScrollSize().y;this.childMenu.style.top=(this.btn.getCoordinates().top+this.options.tweakSubsequent.y)-A-20+"px"}else{this.childMenu.style.top=this.btn.getCoordinates().top+this.options.tweakSubsequent.y+"px"}}else{if(this.options.direction.y==="up"){if((this.btn.getCoordinates().bottom-this.height+this.options.tweakSubsequent.y)<1){this.options.direction.y="down";this.options.direction.yInverse="up";this.childMenu.style.top=this.btn.getCoordinates().top+this.options.tweakSubsequent.y+"px"}else{this.childMenu.style.top=this.btn.getCoordinates().bottom-this.height+this.options.tweakSubsequent.y+"px"}}}if(this.options.direction.x=="left"){this.childMenu.style.left=this.btn.getCoordinates().left-this.childMenu.getCoordinates().width+this.options.tweakSubsequent.x+"px";if(this.childMenu.getPosition().x<0){this.options.direction.x="right";this.options.direction.xInverse="left";this.childMenu.style.left=this.btn.getPosition().x+this.btn.getCoordinates().width+this.options.tweakSubsequent.x+"px";if(this.options.effect==="slide"||this.options.effect==="slide & fade"){this.myEffect.set({"margin-left":-this.width,opacity:this.options.opacity})}}}else{if(this.options.direction.x=="right"){this.childMenu.style.left=this.btn.getCoordinates().right+this.options.tweakSubsequent.x+"px";var D=this.childMenu.getCoordinates().right;var B=document.getCoordinates().width+window.getScroll().x;if(D>B){this.options.direction.x="left";this.options.direction.xInverse="right";this.childMenu.style.left=this.btn.getCoordinates().left-this.childMenu.getCoordinates().width+this.options.tweakSubsequent.x+"px";if(this.options.effect==="slide"||this.options.effect==="slide & fade"){this.myEffect.set({"margin-left":this.width,opacity:this.options.opacity})}}}}}}this.options.onPositionSubMenu_complete(this)}});
+					var $ = document.id;
+					this.myMenu = new MenuMatic();
+				})();
+			});
+			</script>
+			<table id="navbar" border="0" cellspacing="0" cellpadding="0" width="100%" >
+				<tr>
+					<td id="navcontainer">
+					<!-- BEGIN Menu -->
+						<ul id="nav">
+													<li><a class="selectedd" href="index.php"><b>Home</b></a></li>
+																			<li><a  ><b>Schedules</b></a>
+								<ul>
+																	<li><a target=_blank  href="http://events.gotsport.com/events/Default.aspx?EventID=43912">U6/U16 Games</a></li>
+																										<li><a target=_blank  href="http://events.gotsport.com/events/schedule.aspx?EventID=44388&Gender=Girls&Age=19">U19 Womens Schedule</a></li>
+																										<li><a target=_blank  href="http://events.gotsport.com/events/schedule.aspx?EventID=44388&Gender=Boys&Age=19">U19 Mens Schedule</a></li>
+																										<li><a target=_blank  href="http://events.gotsport.com/events/Default.aspx?EventID=40461">Competitive Games</a></li>
+																										<li><a target=_blank  href="http://events.gotsport.com/events/Default.aspx?EventID=38432">Competetive OPL</a></li>
+																										<li><a target=_blank  href="https://play.google.com/store/apps/details?id=com.tinymission.gotsoccer">GotSoccer for Android</a></li>
+																										<li><a href="custpage.php?cid=164">Weather Hotline</a></li>
+																																																																																																																																																																																																																																																																																																																																																																	</ul>
+							</li>
+																			<li><a  target="_blank"  href="http://unionsoccerclub.vicid.com/locations.php?teamid=0"><b>Fields</b></a>
+								<ul>
+																																																																									<li><a href="locations.php">Fields</a></li>
+																																																																																																																																																																																																																																																																																																																																																									</ul>
+							</li>
+																			<li><a  ><b>Coaches</b></a>
+								<ul>
+																																																																																	<li><a href="custpage.php?cid=98">U5/U6 Coach's Contacts</a></li>
+																										<li><a href="custpage.php?cid=64">Coach FAQ's</a></li>
+																										<li><a href="custpage.php?cid=135">Training Resources</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/playercoachsitoutform.pdf">Player/Coach Sit Out</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/all_sports_photos.jpg">All Sports Photos</a></li>
+																										<li><a target=_blank  href="https://refserve2.com/club/gettingStarted.cfm?mid=b3ae8af4-b6a7-4068-b9f5-6af4d97928ea&cid=389">Background Check</a></li>
+																										<li><a href="custpage.php?cid=183">Rec Commissioners</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/taste_the_world_photography.pdf">TTW Photography</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/darryl_michael_photography.jpg">Darryl Michael Photos</a></li>
+																										<li><a target=_blank  href="https://www.gotsport.com/asp/users/login_menu.asp">GotSoccer Login</a></li>
+																																																																																																																																																																																																																																																																									</ul>
+							</li>
+																			<li><a  target="_blank"  href="http://www.unionsoccerclub.com/custpage.php?cid=57&teamid=0"><b>Referees</b></a>
+								<ul>
+																																																																																																																																																																	<li><a href="custpage.php?cid=85">Referee Assignments</a></li>
+																										<li><a href="http://unionsoccerclub.vicid.com/form.php?fid=4">Availability Form</a></li>
+																										<li><a href="custpage.php?cid=57">Referee Page</a></li>
+																										<li><a target=_blank  href="http://www.oksoccer.com/referees/referees.aspx">Registration and Recert</a></li>
+																										<li><a target=_blank  href="http://www.oksoccer.com/UserFiles/file/Referee/How%20to%20Upgrade%202015.pdf">How to Upgrade</a></li>
+																										<li><a target=_blank  href="http://www.oksoccer.com/referees/how_to_become_a_ref.aspx">Become an OSA Ref</a></li>
+																																																																																																																																																																																																																									</ul>
+							</li>
+																			<li><a  ><b>Registration</b></a>
+								<ul>
+																																																																																																																																																																																																																	<li><a href="custpage.php?cid=170">Club Fees</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/registrationinstructions.pdf">Instructions</a></li>
+																										<li><a target=_blank  href="https://www.gotsport.com/asp/application/reg/?ProgramID=33063&Type=PLAYER">Returning Players</a></li>
+																										<li><a target=_blank  href="https://www.gotsport.com/asp/application/reg/?ProgramID=33063&Type=PLAYER">New Players</a></li>
+																										<li><a target=_blank  href="https://www.gotsport.com/asp/application/reg/?ProgramID=33063&Type=COACH">Coach Registration</a></li>
+																										<li><a target=_blank  href="https://refserve2.com/club/gettingStarted.cfm?mid=b3ae8af4-b6a7-4068-b9f5-6af4d97928ea&cid=389">Background Check</a></li>
+																																																																																																																																																																									</ul>
+							</li>
+																			<li><a  ><b>Competitive</b></a>
+								<ul>
+																																																																																																																																																																																																																																																																	<li><a target=_blank  href="http://tulsanationals.org/nationalsacademy/index.php">Academy</a></li>
+																										<li><a target=_blank  href="http://www.tulsanationals.org/index.php">Nationals</a></li>
+																																																																																																																																																									</ul>
+							</li>
+																			<li><a  ><b>Links</b></a>
+								<ul>
+																																																																																																																																																																																																																																																																																	<li><a target=_blank  href="https://www.gotsport.com/asp/users/login_menu.asp">GotSoccer Login</a></li>
+																										<li><a href="custpage.php?cid=62">FAQ</a></li>
+																										<li><a href="custpage.php?cid=74">Helpful Links</a></li>
+																										<li><a target=_blank  href="https://play.google.com/store/apps/details?id=com.tinymission.gotsoccer">GotSoccer for Android</a></li>
+																																																																																																																									</ul>
+							</li>
+																			<li><a  ><b>Club Info</b></a>
+								<ul>
+																																																																																																																																																																																																																																																																																																																	<li><a href="custpage.php?cid=175">About Us</a></li>
+																										<li><a href="contacts.php">Board Members</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/spring_2013_survey_summary.pdf">Annual Survey</a></li>
+																										<li><a href="custpage.php?cid=176">Past Board Members</a></li>
+																																																																																									</ul>
+							</li>
+																			<li><a  ><b>Rules and Policy</b></a>
+								<ul>
+																																																																																																																																																																																																																																																																																																																																																	<li><a href="custpage.php?cid=142">Code of Conduct</a></li>
+																										<li><a href="custpage.php?cid=140">Refunds</a></li>
+																										<li><a href="custpage.php?cid=146">Weather</a></li>
+																										<li><a href="custpage.php?cid=128">Reschedule Policy</a></li>
+																										<li><a href="custpage.php?cid=93">U5/U6 Rules</a></li>
+																										<li><a href="custpage.php?cid=111">U7/U12 Closed League</a></li>
+																										<li><a target=_blank  href="http://www.unionsoccerclub.com/images/images/1/0/usc_bylaws_rev_fall_2013.pdf">USC Bylaws</a></li>
+																																	</ul>
+							</li>
+																			<li><a  target="_blank"  href="http://unionsoccerclub.vicid.com/calendar.php"><b>Calendar</b></a>
+								<ul>
+																																																																																																																																																																																																																																																																																																																																																																																																									<li><a target=_blank  href="http://unionsoccerclub.vicid.com/calendar.php">Calendar</a></li>
+																									</ul>
+							</li>
+																									<!-- <li style="width:4px"><img border=0 width= height=6 src="http:///images/empty.gif"></li> -->
+						</ul>
+								<!-- END Menu -->
+					</td>
+				</tr>
+			</table>
+			<script type="text/javascript">
+				try{
+					document.getElementById('navbar').style.visibility = 'hidden';
+				}
+				catch(err){}/*console.log('there was an error attempting to get element by id: navbar.  this is the error'.err); */
+			</script>
+		</td>
+	</tr>
+	</table>
+<style type="text/css">
+/* Based partially on Matthew Carroll's keyboard accessible flavor of Suckerfish 
+ * Dropdowns by Patrick Griffiths and Dan Webb. 
+ * http://carroll.org.uk/sandbox/suckerfish/bones2.html
+*/
+
+/* ----[ LINKS ]----*/
+
+/* all menu links */
+#nav a, #subMenusContainer a{
+	text-decoration:none;
+	display:block;
+
+		line-height: 36px;
+	/*	padding-top:5px;*/
+		/* if Horizontal */
+/*	padding-top: 6px;*/
+	/*	end horizontal styles*/
+		/*	margin: 5px 10px;*/
+	background-color:#fff ; /*mf menu background color, this is for both top menu and subs */
+	
+/*	-moz-border-radius: 7px;*/
+/*	-webkit-border-radius: 7px;*/
+
+/*	background-image: url("http://leagueshare.vicid.net/images/images/1/0/menu-background_sliver.png");
+	background-position: 50% 50%;
+	background-repeat: repeat;
+	this will affect the main menu and the sub menus; currently not preferred
+*/
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+}
+
+/* Just main menu links --[for non-javascript users this applies to submenu links as well]*/
+#nav a{
+	/*	padding-bottom:0.5px;*/
+/*	padding-left: 12px;*/
+/*	padding-right: 12px;*/
+/*	margin:0;*/
+		/* if Horizontal */
+	/* float:left; */
+		border-right: 1px solid #C3D46A;	/* #C3D46A mf border addition; add vicid control*/
+		/*	end horizontal styles*/
+			/* navigation button */
+	/* mf text color addition */
+	/* $navlink */
+	color: #ffffff;
+/*	this for the top menu only */
+/*	$navoffback */
+	background-color:#FFFFFF;
+/*	$navoffback_img */
+		background-image: url("http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg");
+/*	background-position: 50% 50%;
+	background-repeat: repeat;*/
+		background-repeat: repeat;
+		background-position: 100% 0%;
+		
+/*	vertical-align: text-bottom;*/
+/*	line-height: px;*/
+	height: 36px /* navheight */
+}
+
+/* Just sub menu links */
+#subMenusContainer a, #nav li li a{ /* dropdown, submenu background */
+	text-align:left;
+	text-indent: 10px;
+	/* Sub Menu Background - Normal */
+	/* this is for submenus */
+	/* $navdropback */ /* todo, this may have other names */
+	background-color:#cc0017;
+	/* $navdroplink */
+	/* dropdown text */
+	color: #ffffff;
+		background-image: none;	
+	}
+
+/* All parent menu links on hover or focus */
+#nav a:hover, #nav a:focus, #nav li a:hover, #nav li a:focus, #nav a.mainMenuParentBtnFocused{
+	/* $navoverback */
+	background-color:#EEEEEE;/*mf overwritten later */
+	/* $navoverback_img */
+		background-image: url("http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg");
+/*	background-position: 50% 50%;
+	background-repeat: repeat;*/
+		background-repeat: repeat;
+		background-position: 100% 0%;
+		/* this is to be the new hover color text color option $navlinkover*/
+	color:#ff0000;/*mf overwritten later */
+}
+/* All sub-menu links on hover or focus */
+#subMenusContainer a:hover, #subMenusContainer a:focus, #subMenusContainer a.subMenuParentBtnFocused, #subMenusContainer li a:hover, #subMenusContainer li a:focus{
+	/* $navoverback */
+	background-color:#cc0017;/*mf overwritten later */
+		background-image: none;	
+		/* this is to be the new hover color text color option $navlinkover*/
+	color:#000000;/*mf overwritten later */
+}
+#subMenusContainer ul li a{
+/*	padding-top: 3px;
+	padding-bottom: 3px;*/
+		/* if Horizontal */
+		min-height: 36px;
+		width: 128px; /* mf check if this is for the non-js version or what $navwidth-29*/
+	/*	end horizontal styles*/
+		
+		
+}
+
+/* sub menu links on hover or focus */
+#subMenusContainer a:hover, 
+#subMenusContainer a:focus,  
+#subMenusContainer a.subMenuParentBtnFocused{
+	/* Navigation Button & Sub Menu - Over ********************************* need to determine if this is the same as menu designation for current page/
+	/*	$navdropbackover */
+	/* $navdropbackover_img */
+	background-color: #cc0017 ;/*mf hover background color; $navoverback */
+		background-image: none;	
+		color:#000000;	/*mf hover text color $navdroplinkover*/
+}
+/* selected ~ current page */
+#nav a.selectedd, #nav  a#selectedd {
+	/* $navoverback */
+	background-color:#EEEEEE;/*mf overwritten later */
+		background-image: url("http://www.unionsoccerclub.com/images/images/1/0/black-web-buttons-bars1.jpg");
+/*	background-position: 50% 50%;
+	background-repeat: repeat;*/
+		background-repeat: repeat;
+		background-position: 100% 0%;
+	}
+/* Parent Sub Menu Links ---[javascript users only]*/
+.subMenuParentBtn{ 
+	background: url(/images/arrow_right.gif) right center no-repeat;
+}
+
+/* Parent Sub Menu Links on hover or focus ---[javascript users only]*/
+.subMenuParentBtnFocused{ 
+	background: url(/images/arrow_right_over.gif) right center no-repeat;  
+}
+
+/* Parent Main Menu Links ---[javascript users only]*/
+.mainMenuParentBtn{	
+	background: url(/images/arrow_down.gif) right center no-repeat;
+}
+
+/* Parent Main Menu Links on hover or focus ---[javascript users only]*/
+.mainMenuParentBtnFocused{	
+	background: url(/images/arrow_down_over.gif) right center no-repeat;
+}
+
+/* ----[ OLs ULs, LIs, and DIVs ]----*/
+
+/* Submenu Outer Wrapper - each submenu is inside a div with this class - javascript users only */
+.smOW{ 
+	display:none; 
+	position: absolute; 
+	overflow:hidden; 
+	/*the 2px left & right padding lets you have a 1px border 
+	  on the ul or ol inside since overflow is set to hidden*/
+	padding:0 2px;
+	margin:0 0 0 -2px;
+}
+
+
+/* All submenu OLs and ULs */
+#nav ol, #nav ul, #subMenusContainer ul, #subMenusContainer ol {	
+	/*border around submenu goes here*/
+/*	-moz-border-radius: 8px;*/
+/*	-webkit-border-radius: 8px;*/
+	background:#FFF;	/*mf fallback, failsafe perhaps */
+		border:1px solid #C3D46A;	/*mf border color */
+		left:0;
+		/* Horizontal */
+		width: 124px;  /*mf this is to set the submenu to be the same width as the parent menu */
+		
+	/* end Horizoontal */
+	}
+/* All ULs and OLs */
+#nav, #nav ul, #nav ol, #subMenusContainer ul, #subMenusContainer ol { 
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1em;
+}
+
+
+/* List items in main menu --[for non-javascript users this applies to submenus as well]  */
+#nav li { 
+	/*great place to use a background image as a divider*/
+	display:block;
+	list-style:none;
+	position:relative;
+		/* Horizontal */
+	float:left;
+	width: 128px; /* $navwidth */
+	/* end Horizoontal */
+		}
+
+#subMenusContainer li{
+	list-style: none;
+		/* if Horizontal */
+		min-height: 36px;
+		width: 128px; /* mf check if this is for the non-js version or what $navwidth-29*/
+	/*	end horizontal styles*/
+		
+		
+}
+
+/* main menu ul or ol elment */
+#nav{
+	display:block;
+	position: static;	/*mf position of nav menu. original was absolute*/
+	list-style:none;
+	z-index:5;
+	display:block;
+		/* Horizontal */
+	margin:0 0 0 0;
+	top:15px;
+	left:50%;
+	text-align: center;
+	height: 37px;
+	border-top-style:solid;
+	border-top-width:1px;
+	/* end Horizontal */
+	/*	margin:0 0 0 -280px;*/
+	
+	
+	/*	left:50%;
+	text-align: right;*/
+	
+}
+
+#subMenusContainer{	display:block; position:absolute;	top:0;	left:0;	width:100%;	 height:0;	overflow:visible;	z-index:1000000000; }
+
+
+/* --------------------------[ The below is just for non-javscript users ]--------------------------*/
+#nav li li{	float:none; }
+
+#nav li li a{ /* Just submenu links*/	
+	position:relative;
+	float:none;
+}
+
+#nav li ul { /* second-level lists */
+	position: absolute;
+	width: 10em;
+	margin-left: -1000em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+		/* Horizontal */
+	margin-top:2.2em;
+	/* end Horizontal */
+	}
+
+/* third-and-above-level lists */
+#nav li ul ul { margin: -1em 0 0 -1000em; }
+#nav li:hover ul ul {	margin-left: -1000em; }
+
+/* lists nested under hovered list items */
+
+
+
+/* Horizontal */
+#nav li:hover ul{	 width: 124px; margin-left: 0; margin-top:-1px;}
+#nav li li:hover ul { width: 124px; margin-left: 10em; margin-top:-2px; }
+/* end Horizontal */
+
+
+/* Vertical */
+#nav li:hover ul{	}
+#nav li li:hover ul {}
+/* end Vertical */
+
+/* extra positioning rules for limited noscript keyboard accessibility */
+
+/* Horizontal */
+#nav li a:focus + ul {  margin-left: 0; margin-top:2.2em; }
+#nav li li a:focus + ul { left:0; margin-left: 1010em; margin-top:-2.2em; }
+#nav li li a:focus {left:0;  margin-left:1000em; width:10em;  margin-top:0; }
+#nav li li li a:focus { left:0; margin-left: 2010em; width: 10em;  margin-top:-1em; }
+/* end Horizontal */
+
+/* Vertical */
+#nav li a:focus + ul {}
+#nav li li a:focus + ul {}
+#nav li li a:focus {}
+#nav li li li a:focus {}
+/* end Vertical */
+
+#nav li:hover a:focus{ margin-left: 0; }
+#nav li li:hover a:focus + ul { margin-left: 10em; }
+
+#navcontainer{
+/*	background-color: #FFF;*/
+/* width: 100%; */
+/*navigation background*/
+/* $navbackback */
+background-color: #ff0000;
+/* $navbackback_img */
+background-image: url("http://www.unionsoccerclub.com/images/images/1/0/abstract_background_red.jpg");
+background-position: 50% 50%;
+background-repeat: repeat;
+width: 129px;
+width: 100%;
+height: 37px;
+}
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+				<td class="content" valign="top">
+													<div class="regtext"><div style="padding: 0px 0px 5px 0px;"><div>
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="height: 100px; width: 100px; vertical-align: top; word-spacing: 0px; text-align: center; letter-spacing: 0px;"><img width="137" height="137" src="http://www.unionsoccerclub.com/images/images/1/0/closed.jpg" title="" alt="" /><br />
+				</td>
+			<td style="vertical-align: top; letter-spacing: 0px; word-spacing: 0px;">
+				<div><span style="color: rgb(0, 0, 128);"><span style="font-family: Verdana; font-size: 24pt; color: rgb(0, 0, 128); font-weight: bold;">Spring 2015 Registration Now Closed. Please contact the club office for registration.<br />
+							</span></span></div>
+				<div>&nbsp;</div>
+				<div><a href="https://www.gotsport.com/asp/application/reg/?ProgramID=33063&amp;Type=PLAYER" target="_blank"><span style="font-size: 14pt; font-family: Comic Sans MS; color: rgb(128, 0, 0);">Player Registration</span></a></div>
+				<div><a target="_blank" href="https://www.gotsport.com/asp/application/reg/?ProgramID=33063&amp;Type=COACH"><span style="font-family: Comic Sans MS; font-size: 14pt; color: rgb(128, 0, 0);">Coach Registration</span></a></div></td>
+		</tr>
+	</tbody>
+</table>
+<div>&nbsp;
+	<!--
+	[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]
+	-->
+	</div><span style="FONT-SIZE: 14pt; COLOR: rgb(166,0,18)"></span>     </div></div><hr /><div style="padding: 0px 0px 5px 0px;"><div>
+<div><br />
+	</div>
+<table width="524" height="229" style="border-collapse: collapse;">
+	<tbody>
+		<tr>
+			<td><img width="141" height="225" src="http://www.unionsoccerclub.com/images/images/1/0/soccer_ball_calendar_print.png" title="" alt="" /><br />
+				</td>
+			<td style="vertical-align: top; letter-spacing: 0px; word-spacing: 0px;">
+				<blockquote><span style="font-family: Verdana; font-size: 14pt; font-weight: bold;">Schedules have been posted. Please click on the Schedules tab for links to your schedules.</span><br />
+					</blockquote></td>
+		</tr>
+	</tbody>
+</table><span style="FONT-FAMILY: Verdana">
+	<div align="center" style="TEXT-ALIGN: left"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold; COLOR: rgb(0,0,128)">
+			<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse">
+				<tbody>
+					<tr>
+						<td style="VERTICAL-ALIGN: top; BACKGROUND-IMAGE: none; WORD-SPACING: 0px; BACKGROUND-REPEAT: repeat; BACKGROUND-POSITION: 0% 0%; LETTER-SPACING: 0px"><a href="https://www.facebook.com/pages/Union-Soccer-Club/138706399507799?notif_t=fbpage_admin"></a></td>
+					</tr>
+				</tbody>
+			</table></span></div>
+	<div align="center" style="TEXT-ALIGN: left"><hr />
+		<span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold; COLOR: rgb(0,0,128)">
+			<table style="width: 100%; border-collapse: collapse;">
+				<tbody>
+					<tr>
+						<td style="vertical-align: top; word-spacing: 0px; letter-spacing: 0px; width: 150px; background-image: none; background-position: 0% 0%; background-repeat: repeat;"><a href="https://www.facebook.com/pages/Union-Soccer-Club/138706399507799?notif_t=fbpage_admin"><img width="75" height="75" title="" alt="" src="http://www.unionsoccerclub.com/images/images/1/0/facebook.png" /></a><br />
+							</td>
+						<td style="TEXT-DECORATION: none; WORD-SPACING: 0px; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; LETTER-SPACING: 0px">
+							<blockquote style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px 0px 0px 40px; BORDER-LEFT: medium none; PADDING-RIGHT: 0px">
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">&nbsp;</span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">We have moved!&nbsp; </span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">Please come see us at our new location across the street in the Cherokee Building.</span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">4150 South 100th East Ave.&nbsp; Suite 200 AD</span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">Tulsa, OK 74146</span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">&nbsp;</span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">&nbsp;</span></span><hr />
+									<span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold"> <br />
+											</span></span></div>
+								<div><span class="userContent" data-ft="{'tn':'K'}"><span style="FONT-WEIGHT: bold">We have made changes to our Facebook page!</span><br />
+										You can now post on our Timeline and upload and tag photos. We would love to hear your thoughts and see your pics. Let us know what you think. Thanks!!!</span> 
+									<o:p></o:p></div>
+								<p><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold; FONT-STYLE: italic; LETTER-SPACING: 0px">USC Board Members</span></p>
+								<p class="MsoNormal">
+									<o:p></o:p>
+									<!--
+									?xml:namespace
+									-->
+									</p></blockquote>
+							<div><span style="FONT-SIZE: 12pt; FONT-WEIGHT: bold; FONT-STYLE: italic"><br />
+									</span></div><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold"></span></td>
+					</tr>
+				</tbody>
+			</table></span><span style="FONT-SIZE: 14pt; FONT-FAMILY: Verdana; FONT-WEIGHT: bold; COLOR: rgb(0,0,128)"><span style="FONT-SIZE: 14pt"><span style="FONT-SIZE: 14pt; FONT-FAMILY: Verdana; FONT-WEIGHT: bold; COLOR: rgb(0,0,128)"><span style="FONT-SIZE: 14pt"><br />
+						</span></span></span></span></div></span> </div></div><div class=smalltext> </div><div style="padding: 0px 0px 5px 0px;"><div class=blogtitle></div><table class=list width=100% border=0 cellspacing=0 cellpadding=0>
+<tr>
+	<td colspan=1 class=listtitle>&nbsp;Recent News&nbsp;</td>
+</tr>
+<tr>
+	<td class=list1>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr>
+				<td valign=top class=smalltext width=56> 02/22/14  </td>
+				<td class=smalltext><a href='newsarticle.php?newsid=6'><b>Up With Trees Team up with USC</b></a><br>Planting will take place on Saturday, February 22</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td class=list0>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr>
+				<td valign=top class=smalltext width=56> 10/28/13  </td>
+				<td class=smalltext><a href='newsarticle.php?newsid=4'><b>REGISTRATION FOR SPRING 2014 NOW OPEN</b></a><br>Click on the registration tab to register.</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td class=list1>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr>
+				<td valign=top class=smalltext width=56> 10/18/13  </td>
+				<td class=smalltext><a href='newsarticle.php?newsid=3'><b>Website Overhall</b></a><br>Notification of changes to the USC website</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+
+</table>
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+	<tr>
+		<td class=smalltext align=right><a href="news.php"><b>more...</b></a> </td>
+	</tr>
+</table>
+</div><div class=smalltext> </div><div style="padding: 0px 0px 5px 0px;"><div class=blogtitle></div><table width=100% border=0 cellspacing=0 cellpadding=1>
+			<tr>
+				<td width=10% valign=top align=left>
+<table class=list width=180 border=0 cellspacing=0 cellpadding=0>
+<tr>
+	<td colspan=1 class=listtitle>&nbsp;Current Weather&nbsp;</td>
+</tr>
+	<tr>
+		<td class=list1 align=center><script src='http://voap.weather.com/weather/oap/74146?template=GENXH&par=null&unit=0&key=e2c8f48f256187849ececb1b5a48bb64'></script></td>
+	</tr>
+
+</table>
+				</td>
+				<td width=1%><div width='10px'> <!--force spacing--></div></td>
+				<td width=100% valign=top align=right>
+<table class=list width=100% border=0 cellspacing=0 cellpadding=0>
+<tr>
+	<td colspan=1 class=listtitle>&nbsp;News Feeds&nbsp;</td>
+</tr>
+	<tr>
+		<td class=list1>
+<div><b>OurSports Central Soccer News</b></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://www.oursportscentral.com/services/releases/?id=4942287">WMF World Cup Group A Day 3 Game Notes</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://www.oursportscentral.com/services/releases/?id=4942276">Summer Registration for FC Dallas' School of Excellence Soccer Camps Now Open</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://www.oursportscentral.com/services/releases/?id=4942238">Aztex Launch the Aztex Soccer Foundation</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://www.oursportscentral.com/services/releases/?id=4942236">Brazil defeats Canada 7-4 in World Cup Action At Perani</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://www.oursportscentral.com/services/releases/?id=4942230">Crew SC's Depth to be Tested Once More against Red Bulls</a></div>
+<div><b>FOXSports.com News for FOX SOCCER</b></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://feedproxy.google.com/~r/foxsports/rss/soccer/~3/ZvioBzJOvAI/tanaka-to-Yankees-restores-natural-order-in-baseball--012214">Rosenthal: Tanaka to Yankees restores natural order in baseball </a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://feedproxy.google.com/~r/foxsports/rss/soccer/~3/8Fuu4_y3nGY/masahiro-tanaka-new-york-yankees-seven-year-deal-japan-ace-012214">Japanese ace Tanaka agrees to 7-year, $155 million deal with Yankees</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://feedproxy.google.com/~r/foxsports/rss/soccer/~3/KORXRYLhlGQ/australian-open-day-10-mens-quarterfinals-rafael-nadal-grigor-dimitrov-andy-murray-roger-federer-012114">Aussie Open: Federer ousts Murray, will face Nadal in semis</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://feedproxy.google.com/~r/foxsports/rss/soccer/~3/GIc0--wX8AY/kevin-durant-scores-46-points-leads-oklahoma-city-thunder-past-portland-trail-blazers-012114">Red-hot Durant scores 46, leads Thunder past Trail Blazers</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://feedproxy.google.com/~r/foxsports/rss/soccer/~3/Lbw_LOGbEKw/denver-broncos-adam-gase-withdraws-cleveland-browns-head-coach-job-012114">Browns to interview Bills' Pettine with Broncos' Gase out of running</a></div>
+		</td>
+	</tr>
+
+</table>
+				</td>
+			</tr>
+		</table>
+</div><div class=smalltext> </div></div>
+										<div class="smalltext"> </div>
+					<table width=100% border=0 cellspacing=0 cellpadding=0>
+	<tr>
+		<td class=smalltext align=center>
+						
+<div style="text-align: center;"><br />
+	<br />
+	<br />
+	<hr />
+	
+	<table style="text-align: right; border-collapse: collapse; width: 100%;">
+		<tbody>
+			<tr>
+				<td style="text-align: left;"><a href="http://unionsoccerclub.vicid.com/index.php"><img width="50" height="50" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/usc_logo.png" /></a>&nbsp; &nbsp; &nbsp; &nbsp;<a target="_blank" href="http://www.gcsoccer.com/"><img width="50" height="50" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/gcsa_logo.png" /></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a target="_blank" href="http://www.oksoccer.com/default.aspx"><img width="50" height="50" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/osa.png" /></a>&nbsp; &nbsp; <a target="_blank" href="http://www.usyouthsoccer.org/"><img width="50" height="50" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/us_youth_logo_color_small.jpg" /></a>&nbsp; &nbsp; &nbsp;<a target="_blank" href="http://www.fifa.com/"><img width="50" height="50" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/fifalogo.gif" /></a>&nbsp; &nbsp; &nbsp;<a target="_blank" href="http://home.gotsoccer.com/"><img width="100" height="50" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/gotsoccerlogo2.png" /></a> <a target="_blank" href="http://www.usclubsoccer.org/"><img width="100" height="50" src="http://www.unionsoccerclub.com/images/images/1/0/usclubsoccer-logo-footer.png" title="" alt="" /></a><br />
+					</td>
+				<td style="text-align: right;"><a target="_blank" href="http://www.dickssportinggoods.com/home/index.jsp"><img width="125" height="50" style="text-align: center;" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/dsplogosmall.png" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a target="_blank" href="http://www.academy.com/webapp/wcs/stores/servlet/TopCategories_10151_10051"><img width="200" height="50" style="text-align: center;" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/gb_academy_logo.png" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a target="_blank" href="http://www.cicispizza.com/"><img width="50" height="50" style="text-align: center;" alt="" title="" src="http://www.unionsoccerclub.com/images/images/1/0/cici.png" /></a><span style="text-align: center;">&nbsp;</span></td>
+			</tr>
+		</tbody>
+	</table></div>                		</td>
+	</tr>
+	<tr>
+		<td><img border=0 width=12 height=10 src="/images/empty.gif"></td>
+	</tr>
+</table>
+															<div class="smalltext" align="center">
+					<img border=0 src="http://www.unionsoccerclub.com/images/counters/2/1.gif"><img border=0 src="http://www.unionsoccerclub.com/images/counters/2/6.gif"><img border=0 src="http://www.unionsoccerclub.com/images/counters/2/3.gif"><img border=0 src="http://www.unionsoccerclub.com/images/counters/2/8.gif"><img border=0 src="http://www.unionsoccerclub.com/images/counters/2/6.gif"><img border=0 src="http://www.unionsoccerclub.com/images/counters/2/2.gif"><img border=0 src="http://www.unionsoccerclub.com/images/counters/2/1.gif">					</div>
+					<div class="smalltext" align="center"><i>visitors since 08/28/2007</i></div>
+					<div class="smalltext"> </div>
+										</td>
+				<td width="1%" class="rightback" valign="top">
+				<div align="center" class="smalltext">
+		<img border="0" width="130" height="10" src="http://www.unionsoccerclub.com/images/empty.gif"><br>
+		
+<div style="TEXT-ALIGN: left"><a href="https://www.facebook.com/pages/Union-Soccer-Club/138706399507799"><img width="40" height="40" title="USC on Facebook" alt="USC on Facebook" src="http://www.unionsoccerclub.com/images/images/1/0/facebook.png" /></a>&nbsp;<a title="USC on Twitter" href="http://www.twitter.com/USCTulsa"><img width="40" height="40" title="USC on Twitter" alt="USC on Twitter" src="http://www.unionsoccerclub.com/images/images/1/0/twitter-bird-white-on-blue.png" /></a>&nbsp;<a href="mailto:unionsoccerclub@tulsacoxmail.com "><img width="40" height="40" title="Email USC" alt="Email USC" src="http://www.unionsoccerclub.com/images/images/1/0/email-icon-small.jpg" /></a>&nbsp;<a title="Like us on Facebook" href="http://link.hp.com/u/0p4q" target="_blank"><img width="60" height="40" title="Like us on Facebook" alt="Like us on Facebook" src="http://www.unionsoccerclub.com/images/images/1/0/like.png" /></a><br />
+	</div>
+<div style="TEXT-ALIGN: left"><hr />
+	</div>
+<div style="TEXT-ALIGN: center">
+	<table style="BORDER-COLLAPSE: collapse">
+		<tbody>
+			<tr>
+				<td style="LETTER-SPACING: 0px; BACKGROUND-COLOR: rgb(204,0,23)"><span style="FONT-FAMILY: Verdana; FONT-WEIGHT: bold; COLOR: rgb(255,255,255)">Field</span></td>
+				<td style="LETTER-SPACING: 0px; BACKGROUND-COLOR: rgb(204,0,23)"><span style="FONT-FAMILY: Verdana; FONT-WEIGHT: bold; COLOR: rgb(255,255,255)">Status&nbsp;</span></td>
+				<td style="LETTER-SPACING: 0px; BACKGROUND-COLOR: rgb(204,0,23)"><span style="FONT-FAMILY: Verdana; FONT-WEIGHT: bold; COLOR: rgb(255,255,255)">Condition&nbsp;</span></td>
+			</tr>
+			<tr>
+				<td><span style="FONT-FAMILY: Verdana; FONT-WEIGHT: bold">USC Fields</span></td>
+				<td style="TEXT-ALIGN: center"><span style="font-family: Verdana;">Open</span></td>
+				<td style="TEXT-ALIGN: center">Ok</td>
+			</tr>
+			<tr>
+				<td><span style="FONT-FAMILY: Verdana; FONT-WEIGHT: bold">Southpark&nbsp;</span></td>
+				<td style="TEXT-ALIGN: center"><span style="font-family: Verdana;">Open</span></td>
+				<td style="VERTICAL-ALIGN: bottom; WORD-SPACING: 0px; TEXT-ALIGN: center; LETTER-SPACING: 0px">Ok</td>
+			</tr>
+		</tbody>
+	</table><hr />
+	</div>
+<div style="TEXT-ALIGN: center"><a href="http://www.cicispizza.com/" target="_blank"><img width="75" height="75" title="" alt="" src="http://www.unionsoccerclub.com/images/images/1/0/cici.png" /></a>&nbsp; &nbsp;<a href="http://www.dickssportinggoods.com/home/index.jsp" target="_blank"><img width="125" height="75" title="" alt="" src="http://www.unionsoccerclub.com/images/images/1/0/dsplogosmall.png" /></a></div>
+<div>&nbsp;
+	<div>&nbsp;</div></div>
+<div align="center"><img src="http://www.unionsoccerclub.com/images/images/1/0/michelin-logo.png" title="" alt="" /></div>
+<div>&nbsp;
+	<div>&nbsp;</div></div>
+<div>
+	<div style="TEXT-ALIGN: center"><a href="http://www.academy.com/webapp/wcs/stores/servlet/TopCategories_10151_10051" target="_blank"><img width="220" height="40" title="" alt="" src="http://www.unionsoccerclub.com/images/images/1/0/gb_academy_logo.png" /></a></div>
+	<div style="TEXT-ALIGN: center"><hr />
+		</div>
+	<div style="TEXT-ALIGN: center"><br />
+		</div></div>   	</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td valign="top" align="center" class="smalltext">
+									
+			
+										<img border=0 width=130 height=15 src="http://www.unionsoccerclub.com/images/empty.gif"><br>
+<table class=list align=center width=100% cellpadding=0 cellspacing=0>
+		<tr>
+	<td colspan=1 class=listtitle>&nbsp;Upcoming&nbsp;Events&nbsp;</td>
+</tr>
+		<tr>
+	<td class=list1><span class=polltext>No events scheduled.</span></td>
+</tr>
+	
+</table>
+<div class=smalltext align=right><a href="calendar.php"><b>view calendar...</b></a>&nbsp;</div>
+								</td>
+	</tr>
+		<tr>
+		<td><img border="0" width="1" height="10" src="http://www.unionsoccerclub.com/images/empty.gif"></td>
+	</tr>
+	<tr>
+		<td valign="top" align="center" class="smalltext">
+					</td>
+	</tr>
+	</table>
+<img border="0" width="12" height="10" src="http://www.unionsoccerclub.com/images/empty.gif">
+		</td>
+			</tr>
+</table>
+<div class="footerdiv">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="6" class="footer" align="right"><img border="0" width="6" height="20" src="http://www.unionsoccerclub.com/images/empty.gif"></td>
+		<td width="50%" class="footer"><a href="http://www.leagueusa.com" target="qqq">Powered by &raquo; LeagueUSA / Vicid.com&nbsp;&nbsp;<small>&copy;</small>&nbsp;2015</a></td>
+		<td width="50%" class="footer" align="right"><a href="http://www.vicid.com/privacy.php" target="qqq">Privacy</a>&nbsp;&nbsp;::&nbsp;&nbsp;<a href="http://www.vicid.com/terms.php" target="qqq">Terms&nbsp;of&nbsp;Use</a></td>
+		<td width="6" class="footer" align="right"><img border="0" width="6" height="20" src="http://www.unionsoccerclub.com/images/empty.gif"></td>
+	</tr>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>

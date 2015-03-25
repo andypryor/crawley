@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+             <!--
+    Important Note About This Website's SEO
+
+    Find the SEO content of this site's homepage via http://www.catoosasoccer.org/?_escaped_fragment_=
+    (That is where search engines like Google go to read your homepage's content.)
+
+    To view the SEO content of your internal pages, such as "BOARD", go here: http://www.catoosasoccer.org/?_escaped_fragment_=board/cbky
+    (That is where search engines like Google go to read the content on your internal pages.)
+
+    For more information about Ajax Crawling technology, read Google's explanation here: https://developers.google.com/webmasters/ajax-crawling/
+-->
+
+    
+                <meta charset="utf-8"/>
+<title>Catoosa Soccer Association</title>
+<meta name="fb_admins_meta_tag" content="catoosasoccer"/>
+<meta name="keywords" content="Association, Catoosa, Soccer"/>
+<meta name="description" content="Catoosa Soccer Association is a Youth Soccer Organization in Catoosa Oklahoma and is affiliated with Green Country Soccer Association. Visit our website for more information."/>
+<link rel="shortcut icon" href="http://static.wixstatic.com/ficons/a617c6_4d26661c19864b3cb3067049e9ab3d51.jpg" type="image/jpeg"/>
+<link rel="apple-touch-icon" href="http://static.wixstatic.com/ficons/a617c6_4d26661c19864b3cb3067049e9ab3d51.jpg" type="image/jpeg"/>
+<link rel="canonical" href="http://www.catoosasoccer.org/"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app31.aus"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="12d991f1-58b4-9716-47b5-fe8d7e9e5513"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="078934de-0945-4993-a71f-9f372cea3c0f"/>
+<meta http-equiv="X-Wix-Published-Version" content="366"/>
+
+<meta http-equiv="etag" content="3b3669fc3651294be67ccd9849e9a17c"/>
+<meta property="og:title" content="Catoosa Soccer Association"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.catoosasoccer.org/"/>
+<meta property="og:image" content="http://static.wixstatic.com/media/a617c6_d0cb6759e1ce541d83b5450362b2fe97.jpg"/>
+<meta property="og:site_name" content="Catoosa Soccer Association"/>
+<meta property="fb:admins" content="catoosasoccer"/>
+<meta property="og:description" content="Catoosa Soccer Association is a Youth Soccer Organization in Catoosa Oklahoma and is affiliated with Green Country Soccer Association. Visit our website for more information."/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+
+            <script>
+        
+    try {
+        window.wixBiSession = {
+            initialTimestamp : Date.now(),
+            viewerSessionId: 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c)
+                    { var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); return v.toString(16); }
+            )
+        };
+        (new Image()).src = 'http://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=3.0&vsi=' + wixBiSession.viewerSessionId +
+                '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, '')) +
+                '&isp=1&st=2&ts=0&c=' + wixBiSession.initialTimestamp;
+    } catch (e){}
+</script>    
+    
+
+    <!-- META DATA -->
+<script type="text/javascript">
+
+    var serviceTopology = {"serverName":"app31.aus","cacheKillerVersion":"1","staticServerUrl":"http://static.parastorage.com/","usersScriptsRoot":"http://static.parastorage.com/services/wix-users/2.476.0","biServerUrl":"http://frog.wix.com/","userServerUrl":"http://users.wix.com/","billingServerUrl":"http://premium.wix.com/","mediaRootUrl":"http://static.wixstatic.com/","logServerUrl":"http://frog.wix.com/plebs","monitoringServerUrl":"http://TODO/","usersClientApiUrl":"https://users.wix.com/wix-users","publicStaticBaseUri":"http://static.parastorage.com/services/wix-public/1.159.0","basePublicUrl":"http://www.wix.com/","postLoginUrl":"http://www.wix.com/my-account","postSignUpUrl":"http://www.wix.com/new/account","baseDomain":"wix.com","staticMediaUrl":"http://static.wixstatic.com/media","staticAudioUrl":"http://storage.googleapis.com/static.wixstatic.com/mp3","emailServer":"http://assets.wix.com/common-services/notification/invoke","blobUrl":"http://static.parastorage.com/wix_blob","htmlEditorUrl":"http://editor.wix.com/html","siteMembersUrl":"https://users.wix.com/wix-sm","scriptsLocationMap":{"it":"http://static.parastorage.com/services/experiments/it/1.37.0","bootstrap":"http://static.parastorage.com/services/bootstrap/2.1144.19","santa-versions":"http://static.parastorage.com/services/santa-versions/1.188.0","automation":"http://static.parastorage.com/services/automation/1.23.0","ecommerce":"http://static.parastorage.com/services/ecommerce/1.184.13","wixapps":"http://static.parastorage.com/services/wixapps/2.461.0","web":"http://static.parastorage.com/services/web/2.1144.19","ut":"http://static.parastorage.com/services/experiments/ut/1.2.0","tpa":"http://static.parastorage.com/services/tpa/2.1015.0","ck-editor":"http://static.parastorage.com/services/ck-editor/1.87.2","sitemembers":"http://static.parastorage.com/services/sm-js-sdk/1.31.0","hotfixes":"http://static.parastorage.com/services/experiments/hotfixes/1.15.0","langs":"http://static.parastorage.com/services/langs/2.529.0","core":"http://static.parastorage.com/services/core/2.1144.19","skins":"http://static.parastorage.com/services/skins/2.1144.19"},"developerMode":false,"productionMode":true,"staticServerFallbackUrl":"https://sslstatic.wix.com/","userFilesUrl":"http://static.parastorage.com/","staticHTMLComponentUrl":"http://www.catoosasoccer.org.usrfiles.com/","secured":false,"ecommerceCheckoutUrl":"https://www.safer-checkout.com/","premiumServerUrl":"https://premium.wix.com/","appRepoUrl":"http://assets.wix.com/wix-lists-ds-webapp","digitalGoodsServerUrl":"http://dgs.wixapps.net/","wixCloudBaseDomain":"cloud.wix.com","publicStaticsUrl":"http://static.parastorage.com/services/wix-public/1.159.0","staticDocsUrl":"http://media.wix.com/ugd"};
+        var santaModels = true;
+    var rendererModel = {"metaSiteId":"12d991f1-58b4-9716-47b5-fe8d7e9e5513","siteInfo":{"documentType":"UGC","applicationType":"HtmlWeb","siteId":"078934de-0945-4993-a71f-9f372cea3c0f","siteTitleSEO":"Catoosa Soccer Association"},"clientSpecMap":{"5":{"type":"public","applicationId":5,"appDefinitionId":"12aacf69-f3fb-5334-2847-e00a8f13c12f","appDefinitionName":"Form Builder","instance":"iUkaRmQCi3Kk0gIOIeVkQzhrARH9BkBq4eofBm4bKK4.eyJpbnN0YW5jZUlkIjoiMTM2NTdiOTUtZTI5Zi03Nzk5LTNkZWYtYzE1MWQxZTUwM2QxIiwic2lnbkRhdGUiOiIyMDE1LTAzLTI1VDIwOjUzOjEyLjUzMFoiLCJpcEFuZFBvcnQiOiI3NC41MS4yMTguMjMwLzYxOTI5IiwiZGVtb01vZGUiOmZhbHNlfQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"12aacf69-f3be-4d15-c1f5-e10b8281822e":{"widgetUrl":"http:\/\/www.123contactform.com\/wix.php","widgetId":"12aacf69-f3be-4d15-c1f5-e10b8281822e","refreshOnWidthChange":true,"mobileUrl":"http:\/\/www.123contactform.com\/wix.php?forcemobile=1","published":true,"mobilePublished":true,"seoEnabled":true}},"appRequirements":{"requireSiteMembers":false},"installedAtDashboard":true,"permissions":{"revoked":false}},"1":{"type":"ecommerce","applicationId":1,"appDefinitionId":"55a88716-958a-4b91-b666-6c1118abdee4","magentoStoreId":"13774024","packageName":"ecommerce","widgets":{"30b4a102-7649-47d9-a60b-bfd89dcca135":{"widgetId":"30b4a102-7649-47d9-a60b-bfd89dcca135","defaultHeight":585,"defaultWidth":960},"adbeffec-c7df-4908-acd0-cdd23155a817":{"widgetId":"adbeffec-c7df-4908-acd0-cdd23155a817","defaultHeight":150,"defaultWidth":500},"f72a3898-8520-4b60-8cd6-24e4e20d483d":{"widgetId":"f72a3898-8520-4b60-8cd6-24e4e20d483d","defaultHeight":600,"defaultWidth":840},"c029b3fd-e8e4-44f1-b1f0-1f83e437d45c":{"widgetId":"c029b3fd-e8e4-44f1-b1f0-1f83e437d45c","defaultHeight":50,"defaultWidth":200},"cd54a28f-e3c9-4522-91c4-15e6dd5bc514":{"widgetId":"cd54a28f-e3c9-4522-91c4-15e6dd5bc514","defaultHeight":50,"defaultWidth":200},"c614fb79-dbec-4ac7-b9b0-419669fadecc":{"widgetId":"c614fb79-dbec-4ac7-b9b0-419669fadecc","defaultHeight":50,"defaultWidth":200},"5fca0e8b-a33c-4c18-b8eb-da50d7f31e4a":{"widgetId":"5fca0e8b-a33c-4c18-b8eb-da50d7f31e4a","defaultHeight":150,"defaultWidth":800},"ae674d74-b30b-47c3-aba0-0bd220e25a69":{"widgetId":"ae674d74-b30b-47c3-aba0-0bd220e25a69","defaultHeight":150,"defaultWidth":220},"fbd55289-7136-4c7d-955c-3088974c1f93":{"widgetId":"fbd55289-7136-4c7d-955c-3088974c1f93","defaultHeight":150,"defaultWidth":220}},"state":"Initialized"},"6":{"type":"public","applicationId":6,"appDefinitionId":"135c3d92-0fea-1f9d-2ba5-2a1dfb04297e","appDefinitionName":"Wix ShoutOut","instance":"s8raOF0267oomjkxWZW4fwpKN-9RENKFyl9GMR1CIDw.eyJpbnN0YW5jZUlkIjoiMTM3Y2Q1NDUtNTYyOC00NTc3LTdmNGMtMDUxY2I5MjgyMzM5Iiwic2lnbkRhdGUiOiIyMDE1LTAzLTI1VDIwOjUzOjEyLjUzMVoiLCJpcEFuZFBvcnQiOiI3NC41MS4yMTguMjMwLzYxOTI5IiwiZGVtb01vZGUiOmZhbHNlfQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{},"appRequirements":{"requireSiteMembers":false},"installedAtDashboard":true,"permissions":{"revoked":false}},"2":{"type":"appbuilder","applicationId":2,"appDefinitionId":"3d590cbc-4907-4cc4-b0b1-ddf2c5edf297","instanceId":"12d991f1-58b4-9716-47b5-fe8d7e9e5513","state":"Initialized"},"7":{"type":"public","applicationId":7,"appDefinitionId":"129acb44-2c8a-8314-fbc8-73d5b973a88f","appDefinitionName":"Google Event Calendar","instance":"0ilZXyH5fiMWZMU_X-o0E9SJMscEAXNM4pmSKALpkuQ.eyJpbnN0YW5jZUlkIjoiMTM3Y2Q3MjEtNzkwYi00YjU5LWFhYjgtMjFjZDVhNzYyYmRiIiwic2lnbkRhdGUiOiIyMDE1LTAzLTI1VDIwOjUzOjEyLjUzMVoiLCJpcEFuZFBvcnQiOiI3NC41MS4yMTguMjMwLzYxOTI5IiwiZGVtb01vZGUiOmZhbHNlfQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"129acb44-2c60-3020-5989-0f5aea90b16f":{"widgetUrl":"http:\/\/google-calendar.galilcloud.wixapps.net\/","widgetId":"129acb44-2c60-3020-5989-0f5aea90b16f","refreshOnWidthChange":true,"mobileUrl":"http:\/\/google-calendar.galilcloud.wixapps.net\/mobile","published":true,"mobilePublished":true,"seoEnabled":true}},"appRequirements":{"requireSiteMembers":false},"installedAtDashboard":true,"permissions":{"revoked":true}},"3":{"type":"sitemembers","applicationId":3,"collectionType":"Open","smcollectionId":"12d991f1-58b4-9716-47b5-fe8d7e9e5513"},"8":{"type":"public","applicationId":8,"appDefinitionId":"12e3edc7-b350-5cc8-e263-59d559d56671","appDefinitionName":"Follow my Calendar Events","instance":"pDOV3upp8EwYtYaOwFsl6XjH8dg9c5CgiPAT8buWgh0.eyJpbnN0YW5jZUlkIjoiMTM3Y2Q3YmEtMjY5NC0xYzYwLTNlYzAtYzAwMjI0Zjk4ZjYxIiwic2lnbkRhdGUiOiIyMDE1LTAzLTI1VDIwOjUzOjEyLjUzMVoiLCJpcEFuZFBvcnQiOiI3NC41MS4yMTguMjMwLzYxOTI5IiwiZGVtb01vZGUiOmZhbHNlfQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"12e3eded-fbf9-196f-94b6-a61791c329ef":{"widgetUrl":"http:\/\/inevermiss.net\/wix\/widget","widgetId":"12e3eded-fbf9-196f-94b6-a61791c329ef","refreshOnWidthChange":true,"mobileUrl":"http:\/\/inevermiss.net\/wix\/widget","published":true,"mobilePublished":true,"seoEnabled":true}},"appRequirements":{"requireSiteMembers":false},"installedAtDashboard":true,"permissions":{"revoked":true}},"4":{"type":"wixapps","applicationId":4,"appDefinitionId":"61f33d50-3002-4882-ae86-d319c1a249ab","datastoreId":"135ae348-a702-6802-218f-f7f813c51a67","packageName":"blog","state":"Initialized","widgets":{"56ab6fa4-95ac-4391-9337-6702b8a77011":{"widgetId":"56ab6fa4-95ac-4391-9337-6702b8a77011","defaultHeight":400,"defaultWidth":210},"31c0cede-09db-4ec7-b760-d375d62101e6":{"widgetId":"31c0cede-09db-4ec7-b760-d375d62101e6","defaultHeight":600,"defaultWidth":680},"1b8c501f-ccc2-47e7-952a-47e264752614":{"widgetId":"1b8c501f-ccc2-47e7-952a-47e264752614","defaultHeight":280,"defaultWidth":916},"33a9f5e0-b083-4ccc-b55d-3ca5d241a6eb":{"widgetId":"33a9f5e0-b083-4ccc-b55d-3ca5d241a6eb","defaultHeight":220,"defaultWidth":210},"c7f57b50-8940-4ff1-83c6-6756d6f0a1f4":{"widgetId":"c7f57b50-8940-4ff1-83c6-6756d6f0a1f4","defaultHeight":220,"defaultWidth":210},"f72fe377-8abc-40f2-8656-89cfe00f3a22":{"widgetId":"f72fe377-8abc-40f2-8656-89cfe00f3a22","defaultHeight":300,"defaultWidth":210},"c340212a-6e2e-45cd-9dc4-58d01a5b63a7":{"widgetId":"c340212a-6e2e-45cd-9dc4-58d01a5b63a7","defaultHeight":300,"defaultWidth":210},"ea63bc0f-c09f-470c-ac9e-2a408b499f22":{"widgetId":"ea63bc0f-c09f-470c-ac9e-2a408b499f22","defaultHeight":800,"defaultWidth":800},"4de5abc5-6da2-4f97-acc3-94bb74285072":{"widgetId":"4de5abc5-6da2-4f97-acc3-94bb74285072","defaultHeight":800,"defaultWidth":800},"e000b4bf-9ff1-4e66-a0d3-d4b365ba3af5":{"widgetId":"e000b4bf-9ff1-4e66-a0d3-d4b365ba3af5","defaultHeight":400,"defaultWidth":210},"43c2a0a8-f224-4a29-bd19-508114831a3a":{"widgetId":"43c2a0a8-f224-4a29-bd19-508114831a3a","defaultHeight":40,"defaultWidth":210}}}},"premiumFeatures":["AdsFree","ShowWixWhileLoading","HasECommerce","HasDomain"],"geo":"USA","languageCode":"en","previewMode":false,"userId":"a617c600-156c-425b-bb56-67716c32e391","siteMetaData":{"preloader":{"uri":"a617c6_d0cb6759e1ce541d83b5450362b2fe97.jpg","enabled":true},"adaptiveMobileOn":true,"quickActions":{"socialLinks":[{"id":"facebook","url":"https:\/\/www.facebook.com\/catoosasoccer"}],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":true,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":true,"addressEnabled":true,"socialLinksEnabled":true}},"contactInfo":{"companyName":"Catoosa Soccer Association","phone":"","fax":"","email":"catoosasoccer@gmail.com","address":"21201 E. Pine Street "}},"runningExperiments":{"autogeneratedshapesskins":"new","ngcore":"new","lang_nl":"new","wixappsgalleries":"new","ecomgalleries":"new","disablehorizontalmenu":"new","lazyprovision":"new","atntfixlists":"new","mobileactionsmenu":"new","exitmobilemode":"new","workaroundsaveddeadcompskin":"new","nougcanalytics":"new","appbuilderdeletetype":"new","sitepagesvalidation":"new","redirectfeature301data":"new","linkfixeroverride":"new","redirectfeature301":"new","lazyprovisiontemp":"new","atntfix":"new","animation3dfix":"new","landingpagesupport":"new","wixappstranslation":"new","subscribeformsendnewsletter":"new","lesserwidthissue":"new","appbuildertags":"new","sitenavigationrefactor":"new","blogrss":"new","animationnewbehaviors":"new","customsitemenu":"new","blogmanager":"new"}};
+    var publicModel = {"domain":"catoosasoccer.org","externalBaseUrl":"http:\/\/www.catoosasoccer.org\/","pageList":{"masterPage":["http:\/\/static.wixstatic.com\/sites\/a617c6_f1464f8537a8a6d071ce3d5fbcd0ef31_365.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_f1464f8537a8a6d071ce3d5fbcd0ef31_365.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_f1464f8537a8a6d071ce3d5fbcd0ef31_365.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_f1464f8537a8a6d071ce3d5fbcd0ef31_365.json"],"pages":[{"pageId":"cbky","title":"BOARD","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_858e8c8575dd29b98b88ee074a53fd40_364.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_858e8c8575dd29b98b88ee074a53fd40_364.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_858e8c8575dd29b98b88ee074a53fd40_364.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_858e8c8575dd29b98b88ee074a53fd40_364.json"]},{"pageId":"c1nxw","title":"unused","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_3907869b9d4913f740aa6b4e4c7e6679_328.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_3907869b9d4913f740aa6b4e4c7e6679_328.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_3907869b9d4913f740aa6b4e4c7e6679_328.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_3907869b9d4913f740aa6b4e4c7e6679_328.json"]},{"pageId":"c1yhd","title":"FAQ","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_6c6196479a8cee3b82bf2beb943a283c_349.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_6c6196479a8cee3b82bf2beb943a283c_349.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_6c6196479a8cee3b82bf2beb943a283c_349.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_6c6196479a8cee3b82bf2beb943a283c_349.json"]},{"pageId":"mainPage","title":"HOME","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_dc09ad7849ccff19d511d65fbb40f522_351.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_dc09ad7849ccff19d511d65fbb40f522_351.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_dc09ad7849ccff19d511d65fbb40f522_351.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_dc09ad7849ccff19d511d65fbb40f522_351.json"]},{"pageId":"c10ws","title":"Registration Form","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_5574215b04b04b28299417d25397f2bb_334.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_5574215b04b04b28299417d25397f2bb_334.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_5574215b04b04b28299417d25397f2bb_334.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_5574215b04b04b28299417d25397f2bb_334.json"]},{"pageId":"c1k0e","title":"SHOP & CART","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_3870022dc9daeed34108364029ad414b_349.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_3870022dc9daeed34108364029ad414b_349.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_3870022dc9daeed34108364029ad414b_349.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_3870022dc9daeed34108364029ad414b_349.json"]},{"pageId":"c1lmq","title":"FIELDS","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_c259343b87ad6a5a18c58dd4d51dde53_328.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_c259343b87ad6a5a18c58dd4d51dde53_328.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_c259343b87ad6a5a18c58dd4d51dde53_328.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_c259343b87ad6a5a18c58dd4d51dde53_328.json"]},{"pageId":"c1nhz","title":"ABOUT","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_7c94e4f4ee7229f6b1b337f60b393cee_338.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_7c94e4f4ee7229f6b1b337f60b393cee_338.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_7c94e4f4ee7229f6b1b337f60b393cee_338.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_7c94e4f4ee7229f6b1b337f60b393cee_338.json"]},{"pageId":"c1alw","title":"SCHEDULES","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_8b093b9c494ef1e4925c9c3c58d80f4b_364.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_8b093b9c494ef1e4925c9c3c58d80f4b_364.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_8b093b9c494ef1e4925c9c3c58d80f4b_364.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_8b093b9c494ef1e4925c9c3c58d80f4b_364.json"]},{"pageId":"c23os","title":"REGISTRATION","urls":["http:\/\/static.wixstatic.com\/sites\/a617c6_88fac7542f935a528b25be413addf1f2_365.json.z?v=2","http:\/\/static.parastorage.com\/sites\/a617c6_88fac7542f935a528b25be413addf1f2_365.json.z?v=2","http:\/\/www.catoosasoccer.org\/sites\/a617c6_88fac7542f935a528b25be413addf1f2_365.json.z?v=2","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/a617c6_88fac7542f935a528b25be413addf1f2_365.json"]}],"mainPageId":"mainPage"},"timeSincePublish":674428380};
+    
+
+
+    var googleAnalytics = ""
+    ;
+
+    var googleRemarketing = "";
+    var facebookRemarketing = "";
+
+</script>
+
+
+    <meta name="fragment" content="!"/>
+    <!-- DATA -->
+<script type="text/javascript">
+    var adData = {};
+    var mobileAdData = {};
+    var usersDomain = "https://users.wix.com/wix-users";
+        </script>
+
+
+                    <script type="text/javascript">
+    var santaBase = '';
+        var clientSideRender = true;
+    </script>
+<script src="http://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js"></script>
+<script src="http://static.parastorage.com/services/santa-versions/1.188.0/main-r.js"></script>
+<link rel="stylesheet" href="http://static.parastorage.com/services/santa-versions/1.188.0/viewer.css">
+
+    </head>
+<body>
+                <div id="SITE_CONTAINER"></div>
+    
+    
+        
+    
+<!-- No Footer -->
+    
+    
+    
+        
+    
+</body>
+</html>

@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
+<title>Home Page</title>
+<meta name="description" content="Home Page"/>
+<meta property="og:title" content="Home Page"/>
+<meta name="title" content="Home Page"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://idahotorrent.com/Home_Page.html"/>
+<meta property="og:image" content="http://idahotorrent.com/images/d6c66e6422de3ab9781c149f2bad8f43.jpg"/>
+<meta property="og:image" content="http://idahotorrent.com/images/TemplateThumbnail.jpg"/>
+<meta property="og:site_name" content="idahotorrent"/>
+<meta property="og:description" content="Check out http://idahotorrent.com!  Home Page"/>
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+<meta http-equiv='Content-Location' content='Home_Page.html' />
+<meta name="generator" content="Starfield Technologies; Go Daddy Website Builder v6.1.7"/>
+<style type="text/css">
+body { margin:0; padding:0; }
+</style>
+<script type="text/javascript" src="scripts/imageSwap.js?861255305"></script><script type="text/javascript">		MM_preloadImages('images/d6c66e6422de3ab9781c149f2bad8f43.jpg');
+		MM_preloadImages('images/8e1d495e6bceb0e1f1fc0671b3f02ff1.jpg');
+		MM_preloadImages('images/c64b95ed3e997d5b00b13984925e513d.jpg');
+		MM_preloadImages('images/f7b849c456cd6505ce083ba95a365774.jpg');
+		MM_preloadImages('images/b18b093f4cb1b29b2360d858c3962f44.jpg');
+		MM_preloadImages('images/cd47b8efe2f403bb6633f40da6266d2c_vle6.jpg');
+		MM_preloadImages('images/1b38c92e95de7f491ab413190cbca7b1.jpg');
+		MM_preloadImages('images/4a810e3dca958f92fd1735dbfe229fe0.jpg');
+		MM_preloadImages('images/78d87c787799dae319e32b2fce0644d7.jpg');
+		MM_preloadImages('images/9ad26459263610c0991bf92c9885d4c7.jpg');
+		MM_preloadImages('images/119102e0cec9bc173e3ed34c806dc2d7_f5ch.jpg');
+		MM_preloadImages('images/a8a3eeb241793ba29f0512b0c84d290f.jpg');
+		MM_preloadImages('images/9fdf3c215bcf8b42b173a6d6e144f1a5_ucbv.jpg');
+		MM_preloadImages('images/4383f9490150b95f8beed86f06219b2f.jpg');
+		MM_preloadImages('images/9c8e11a68ba8ed585a64a71f47b300f3.jpg');
+		MM_preloadImages('images/95b53a714390c4c03b8d77d3051089ab.jpg');
+		MM_preloadImages('images/3e685bcd74fc924f207522c53310bc02.jpg');
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">sfHover = function() {
+var el = document.getElementById('Nav1');
+if(el!=null && !/\bnav\b/.test(el.className) && el.tagName == 'UL')
+setHover(el);
+var ieNavs = document.getElementsByTagName('ul');
+for(i=0; i<ieNavs.length; i++) {
+var ul = ieNavs[i]; if(/\bnav\b/.test(ul.className))
+setHover(ul); }} 
+function setHover(nav) {
+var ieULs = nav.getElementsByTagName('ul');
+if (navigator.appVersion.substr(22,3)!='5.0') {
+for (j=0; j<ieULs.length; j++) {
+var ieMat=document.createElement('iframe');
+if(document.location.protocol == 'https:')
+ieMat.src='';
+else if(window.opera != 'undefined')
+ieMat.src='';
+else
+ieMat.src='javascript:false';
+ieMat.scrolling='no';
+ieMat.frameBorder='0';
+ieMat.style.width=ieULs[j].offsetWidth+'px';
+ieMat.style.height=ieULs[j].offsetHeight+'px';
+ieMat.style.zIndex='-1';
+ieULs[j].insertBefore(ieMat, ieULs[j].childNodes[0]);
+ieULs[j].style.zIndex='101';
+}
+var ieLIs = nav.getElementsByTagName('li');
+for (var i=0; i<ieLIs.length; i++) if (ieLIs[i]) {
+ieLIs[i].onmouseover=function() {
+if(!/\bsfhover\b/.test(this.className))
+this.className+=' sfhover';
+}
+ieLIs[i].onmouseout=function() {
+if(!this.contains(event.toElement))
+this.className=this.className.replace(' sfhover', '');
+}
+ieLIs[i].onmouseclick=function() {
+if(!this.contains(event.toElement))
+this.className=this.className.replace(' sfhover', '');
+}
+}
+}
+}
+if(window.attachEvent) window.attachEvent('onload', sfHover);
+</script>
+
+<link rel="stylesheet" type="text/css" id="layoutcontainer.css" href="layoutcontainer.css?861255305" />
+<link rel="stylesheet" type="text/css" id="theme.css" href="theme.css?861255305" />
+<link rel="stylesheet" type="text/css" id="color_1.css" href="color_1.css?861255305" />
+<link rel="stylesheet" type="text/css" id="custom.css" href="custom.css?861255305" />
+    
+</head>
+
+<body id='page_660ee014-7c7a-4e33-8c3f-3a2a26a47e63' >
+
+<div class="sf_outer_wrapper">
+	
+	<!-- 1 --><div class="sf_extra1"><span></span></div>
+	
+	<div class="sf_wrapper"><div style='display:block;overflow:visible;margin:0;padding:0;'><div class='sf_undocked' style='display:block;height:0;position:absolute;margin:0;padding:0;overflow:visible;width:0;top:0;z-index:999998;left:auto;'>
+<div style='display:block;position:absolute;left:348px;top:349px;width:184px;height:50px;z-index:999980;'><div style='display:block;position:absolute;top:16px;left:10px;width:164px;height:18px;overflow:auto;'><br />
+<br />
+<font color="#f9f707"><br />
+</font></div></div>
+</div></div>
+
+	
+		<div class="sf_navigation_top">
+			<!-- Nav:Begin -->
+			<div style="display:block;" >
+<ul id="Nav1" class="nav">
+<li class="active-nav sf_first_nav_item"><a href="Home_Page.html"  target="_blank" onclick="">Home Page</a></li>
+<li class="active-nav"><a href="Home_Page.html"  target="_blank" onclick="">Vittrup&#39;s Background</a>
+<ul class="subnav">
+<li class="sf_first_nav_item_subnav"><a href="Vittrup_s_Resume.html"  target="_self" onclick="">Vittrup&#39;s Resume</a></li>
+<li><a href="JV_Diplomas.php"  target="_self" onclick="">JV Diplomas</a></li>
+<li><a href="Photo_Album.php"  target="_self" onclick="">Photo Album</a></li>
+<li><a href="JV_News_Articles.html"  target="_self" onclick="">News Articles</a></li>
+<li><a href="Thank_You_Notes.html"  target="_self" onclick="">Thank You Notes</a></li>
+<li><a href="Memorialabilia.html"  target="_self" onclick="">Memorialabilia</a></li>
+<li><a href="TV_Moments.html"  target="_self" onclick="">TV Moments</a></li>
+<li class="sf_last_nav_item_subnav"><a href="JV_Articles_Videos.html"  target="_self" onclick="">JV Articles/Videos/Books</a></li>
+</ul>
+</li>
+<li class=""><a href="Team_Information.html"  target="_blank" onclick="">Club Information</a>
+<ul class="subnav">
+<li class="sf_first_nav_item_subnav"><a href="How_Torrent_Formed.html"  target="_self" onclick="">How Torrent Formed</a></li>
+<li><a href="Cost_To_Play.html"  target="_self" onclick="">Cost To Play</a></li>
+<li><a href="Forms.html"  target="_self" onclick="">Forms</a></li>
+<li class="sf_last_nav_item_subnav"><a href="Contact_Us.php"  target="_self" onclick="">Contact Us</a></li>
+</ul>
+</li>
+<li class=""><a href="Private_Training_Lessons.html"  target="_self" onclick="">Private Training Lessons</a></li>
+<li class=""><a href="Soccer_Links.html"  target="_self" onclick="">Soccer Links</a></li>
+<li class=""><a href="Team_Pages.html"  target="_blank" onclick="">Team Pages</a>
+<ul class="subnav">
+<li class="sf_first_nav_item_subnav"><a href="Torrent_Teams_2013-2014.html"  target="_self" onclick="">Torrent Teams 2014-2015</a></li>
+<li><a href="Page_110.html"  target="_self" onclick="">Teams Present/Past Pics</a></li>
+<li><a href="D3_Schedules.html"  target="_self" onclick="">D3 Schedules</a></li>
+<li><a href="Coaching_Staff_2013-2014.html"  target="_self" onclick="">Coaching Staff 2014-2015</a></li>
+<li><a href="Practice_Schedules.html"  target="_self" onclick="">Practice Schedules</a></li>
+<li><a href="Torrent_Calendar.html"  target="_self" onclick="">Torrent Calendar</a></li>
+<li><a href="Indoor_Soccer.html"  target="_self" onclick="">Indoor Soccer</a></li>
+<li><a href="Winter_Futsal.html"  target="_self" onclick="">Winter Futsal</a></li>
+<li><a href="News.html"  target="_self" onclick="">News</a></li>
+<li><a href="Team_Helpers.html"  target="_self" onclick="">Team Helpers</a></li>
+<li><a href="Solo_Training.html"  target="_self" onclick="">Solo Training</a></li>
+<li class="sf_last_nav_item_subnav"><a href="Playerbook.html"  target="_self" onclick="">Playerbook</a></li>
+</ul>
+</li>
+<li class=""><a href="Coaches_Resource.html"  target="_self" onclick="">Kutsche Sammlung</a>
+<ul class="subnav">
+<li class="sf_first_nav_item_subnav"><a href="30_Training_Sessions.html"  target="_self" onclick="">1-Schulungen</a></li>
+<li><a href="Team_Coach_Documents.html"  target="_self" onclick="">2-Kuntsche Dokumente</a></li>
+<li><a href="Better_Sports_Psychology.html"  target="_self" onclick="">3-Spieler Mentalitat</a></li>
+<li><a href="Dribbeln_Bewegen_Pakete.html"  target="_blank" onclick="">4-Dribbeln Pakete</a></li>
+<li><a href="Small-Sided_Games_R6YI.html"  target="_self" onclick="">5-KleineEinseitigeSpiele</a></li>
+<li><a href="Team_Management.html"  target="_self" onclick="">6-Mannschaft Verwaltung</a></li>
+<li><a href="Set_Plays.html"  target="_self" onclick="">7-Standardsituationen</a></li>
+<li><a href="16_Coordinates.html"  target="_self" onclick="">8-Sechzehn Koordinaten</a></li>
+<li><a href="Training_Outside_Mids.html"  target="_self" onclick="">9-Ausserhalf Mittfelder</a></li>
+<li><a href="Schussen.html"  target="_self" onclick="">10-Schussen</a></li>
+<li><a href="Besitz.html"  target="_self" onclick="">11-Besitz</a></li>
+<li><a href="Coaching_Education.html"  target="_self" onclick="">12-Kutsche Bildung</a></li>
+<li class="sf_last_nav_item_subnav"><a href="U11_Curriculum.html"  target="_self" onclick="">13-Unter Elf Lehrplan</a></li>
+</ul>
+</li>
+<li class=" sf_last_nav_item"><a href="http://okvgw.sfzsy.servertrust.com/"  target="_self" onclick="">Payments</a></li>
+</ul>
+</div>
+			<!-- Nav:End -->
+	    </div><!-- /sf_navigation_top -->
+
+		<!-- 10 --><div class="sf_extra10"><span></span></div>
+
+		<div class="sf_header_wrapper">
+
+			<!-- 2 --><div class="sf_extra2"><span></span></div>
+
+			<div class="sf_main_header">
+				<!-- MainHead:Begin -->
+				<div style="display:block;" ><font style="font-size: 32px;"><font color="#1d75d0" style="font-size: 28px;">TORRENT SPORTS CLUB</font><br />
+</font></div>
+				<!-- MainHead:End -->
+			</div>
+
+			<!-- 3 --><div class="sf_extra3"><span></span></div>
+
+			<div class="sf_sub_header">
+				<!-- SubHead:Begin -->
+				<div style="display:block;" ><font color="#ffffff">Quality. Sports. Development.<br />
+<font style="font-size: 12px;"><br />
+</font> </font></div>
+				<!-- SubHead:End -->
+			</div>
+
+		</div><!-- /sf_header_wrapper -->
+
+		<!-- 4 --><div class="sf_extra4"><span></span></div>
+
+		<div class="sf_navigation">
+			<!-- Nav:Begin -->
+			
+			<!-- Nav:End -->
+		</div><!-- /sf_navigation -->
+
+		<!-- 5 --><div class="sf_extra5"><span></span></div>
+
+		<div class="sf_pagetitle">
+			<!-- PageTitle:Begin -->
+			<div style="display:block;" ><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Page</h1></div>
+			<!-- PageTitle:End -->
+		</div>
+
+		<!-- 6 --><div class="sf_extra6"><span></span></div>
+
+		<div class="sf_subnavigation">
+            <!-- Nav:Begin -->
+            
+            <!-- Nav:End -->
+        </div><!-- /sf_subnavigation -->
+
+        <!-- 11 --><div class="sf_extra11"><span></span></div>
+		
+		<div class="sf_content">
+			<!-- Content:Begin -->
+			<div class="LayoutContainer" style="display:block;" ><div style="display:block;" class="clearfix" ><div style="display:block; float: left; overflow: hidden; width:45.27%;"><div class="ColumnMarginBox ColumnFirst"><div style="display:block;overflow:hidden;" ><font style="font-size: 11.8181819915771px; font-style: normal; line-height: normal;"><img alt=""  src="images/d6c66e6422de3ab9781c149f2bad8f43.jpg"  width="357" height="235" /><br />
+</font>
+<div style="color: #ffffff; text-align: center;"><br />
+</div></div><div style="display:block;overflow:hidden;" ><img alt=""  src="images/8e1d495e6bceb0e1f1fc0671b3f02ff1.jpg"  width="356" height="468" /><br />
+<br />
+<img alt=""  src="images/c64b95ed3e997d5b00b13984925e513d.jpg"  width="357" height="238" /><br />
+<br />
+<img alt=""  src="images/f7b849c456cd6505ce083ba95a365774.jpg"  width="356" height="220" /><br />
+<br />
+<img alt=""  src="images/b18b093f4cb1b29b2360d858c3962f44.jpg"  width="356" height="237" /></div></div></div><div style="display:block; float: left; overflow: hidden; width:21.73%;"><div class="ColumnMarginBox ColumnInner"><div style="display:block;overflow:hidden;" ><font color="#5ffa09"><font color="#ffffff"><b><font color="#ff7f00"><font style="font-size: 16px;"><font style="font-size: 14px;"><font style="font-size: 12px;"><font style="font-size: 16px;">JOIN TORRENT ON FACEBOOK</font></font></font></font></font></b> <br />
+You can see all kinds
+of Torrent player and team photos and keep up with the latest Torrent news!</font><font color="#ffffff"></font></font><font color="#5ffa09"><br />
+<font color="#ffff00"><br />
+</font>
+</font>
+<img alt="" width="169" height="141"  src="images/cd47b8efe2f403bb6633f40da6266d2c_vle6.jpg"  /><br />
+<br />
+<div style="text-align: center;">Need info on Torrent? </div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Jason Vittrup<br />
+208-919-9951 c <br />
+Jason.Vittrup<span id="RadESpellError_21" class="RadEWrongWord"><span id="RadESpellError_21" class="RadEWrongWord"></span></span>@gmail.com<br />
+<br />
+<div style="text-align: left;"><font color="#bf5f00" style="font-size: 16px;"><b><font style="font-size: 16px;">TORRENT ADD NEW FACES TO COACHING STAFF</font></b></font> Rich Tobias, Mark Hume, and John Holt now on staff (see 'Coaching Staff' above under the 'Teams' menu). <br />
+<br />
+<img alt="" width="169" height="169"  src="images/1b38c92e95de7f491ab413190cbca7b1.jpg"  /><br />
+<br />
+<b><font color="#ff7f00" style="font-size: 16px;">TORRENT AND MUSCLEPHARM<br />
+JOIN FORCES </font></b><br />
+Torrent uniforms have MP logos on jersey back and shorts front. <br />
+<br />
+<img alt="" width="161" height="152"  src="images/4a810e3dca958f92fd1735dbfe229fe0.jpg"  /><br />
+<br />
+<img alt=""  src="images/78d87c787799dae319e32b2fce0644d7.jpg"  width="164" height="164" /><br />
+<br />
+<img alt=""  src="images/9ad26459263610c0991bf92c9885d4c7.jpg"  width="164" height="109" /><br />
+<br />
+<img alt=""  src="images/119102e0cec9bc173e3ed34c806dc2d7_f5ch.jpg"  width="164" height="157" /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</div>
+<br />
+<br />
+</div></div></div></div><div style="display:block; float: left; overflow: hidden; width:33%;"><div class="ColumnMarginBox ColumnLast"><div style="display:block;overflow:hidden;" ><a target="_TOP" title="Jason T. Vittrup" href="http://www.facebook.com/people/Jason-T-Vittrup/100002182372931"></a><font style="font-size: 18px;" color="#00ff00">TORRENT SIDELINE GEAR?</font><br />
+Click below to see what we got!<br />
+<a href="https://www.casportswear.com/torrent">https://www.casportswear.com/torrent</a><br />
+<br />
+<br />
+<img alt=""  src="images/a8a3eeb241793ba29f0512b0c84d290f.jpg"  width="258" height="238" /><br />
+<br />
+<img alt="" width="258" height="103"  src="images/9fdf3c215bcf8b42b173a6d6e144f1a5_ucbv.jpg"  /><br />
+<b style="color: #ffffff; font-family: verdana, arial, helvetica, sans-serif;"><font color="#bf5f00" style="font-size: 14px;"><br />
+<img alt=""  src="images/4383f9490150b95f8beed86f06219b2f.jpg"  width="258" height="172" /><br />
+<br />
+<img alt=""  src="images/9c8e11a68ba8ed585a64a71f47b300f3.jpg"  width="258" height="172" /><br />
+<br />
+<img alt=""  src="images/95b53a714390c4c03b8d77d3051089ab.jpg"  width="258" height="172" /><br />
+<br />
+<img alt=""  src="images/3e685bcd74fc924f207522c53310bc02.jpg"  width="258" height="283" /><br />
+</font></b></div></div></div></div><div style="display:block;" class="clearfix" ><div style="display:block; float: left; overflow: hidden; width:50%;"><div class="ColumnMarginBox ColumnFirst">&nbsp;</div></div><div style="display:block; float: left; overflow: hidden; width:50%;"><div class="ColumnMarginBox ColumnLast">&nbsp;</div></div></div></div>
+			<!-- Content:End -->
+		</div><!-- /sf_content -->
+
+		<!-- 12 --><div class="sf_extra12"><span></span></div>
+        
+        <div class="sf_subnavigation2">
+            <!-- Nav:Begin -->
+            
+            <!-- Nav:End -->
+        </div><!-- /sf_subnavigation2 -->
+		
+		<!-- 7 --><div class="sf_extra7"><span></span></div>
+
+		<div class="sf_footer">
+			<!-- Footer:Begin -->
+			<div style="display:block;" >Content copyright <script type='text/javascript'>document.write(new Date().getFullYear());</script>. Torrent Sports Club, LLC. All rights reserved.</div>			
+			<!-- Footer:Begin -->
+		</div><!-- /sf_footer -->
+
+		<!-- 8 --><div class="sf_extra8"><span></span></div>
+
+	</div><!-- /sf_wrapper -->
+
+	<!-- 9 --><div class="sf_extra9"><span></span></div>
+
+</div><!-- /sf_outer_wrapper -->
+
+<div class="sf_banner">
+	<div style="display:block;" ><div style="text-align:center"><a href='http://www.godaddy.com/hosting/website-builder.aspx?isc=wscfwst304' target='_blank' rel="nofollow"><img id='bannerImage' src="images/gd_black.gif" alt='Website Builder' title='Website Builder' border='0'/></a></div></div>
+</div>
+			
+   
+</body>
+</html>

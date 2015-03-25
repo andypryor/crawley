@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="favicon.ico" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Northwest Optimist Soccer: Homepage</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+
+
+<link href="Styles/main.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body onload="MM_preloadImages('Images/registration_f2.jpg','Images/recreational_f2.jpg','Images/competitive_f2.jpg','Images/academy_f2.jpg','Images/schedules_f2.jpg','Images/staff_f2.jpg','Images/referee_f2.jpg','Images/forms_f2.jpg','Images/map_f2.jpg','Images/about_f2.jpg','Images/gotsport_f2.jpg','Images/home_f2.jpg','Images/email_f2.jpg')">
+<div id="parent_box">
+<div id="masthead"><img src="Images/masthead.jpg" alt="Northwest Optimist Soccer Club" width="992" height="245" /></div>
+<!-- Navigation top bar -->
+<div id="menu_container"><a href="registration.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Registration','','Images/registration_f2.jpg',1)"><img src="Images/registration.jpg" alt="Registration" name="Registration" width="100" height="30" border="0" id="Registration" /></a><a href="recreational.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Recreational','','Images/recreational_f2.jpg',1)"><img src="Images/recreational.jpg" alt="Recreational" name="Recreational" width="101" height="30" border="0" id="Recreational" /></a><a href="competitive.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Competitive','','Images/competitive_f2.jpg',1)"><img src="Images/competitive.jpg" alt="Competitive" name="Competitive" width="97" height="30" border="0" id="Competitive" /></a><a href="academy.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Academy','','Images/academy_f2.jpg',1)"><img src="Images/academy.jpg" alt="Academy" name="Academy" width="97" height="30" border="0" id="Academy" /></a><a href="schedules.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Schedules','','Images/schedules_f2.jpg',1)"><img src="Images/schedules.jpg" alt="Schedules" name="Schedules" width="98" height="30" border="0" id="Schedules" /></a><a href="staff.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Staff','','Images/staff_f2.jpg',1)"><img src="Images/staff.jpg" alt="Staff" name="Staff" width="100" height="30" border="0" id="Staff" /></a><a href="referee.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Referee','','Images/referee_f2.jpg',1)"><img src="Images/referee.jpg" alt="Referee" name="Referee" width="97" height="30" border="0" id="Referee" /></a><a href="forms.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Forms','','Images/forms_f2.jpg',1)"><img src="Images/forms.jpg" alt="Forms" name="Forms" width="97" height="30" border="0" id="Forms" /></a><a href="map.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Map','','Images/map_f2.jpg',1)"><img src="Images/map.jpg" alt="Map" name="Map" width="99" height="30" border="0" id="Map" /></a><a href="about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About','','Images/about_f2.jpg',1)"><img src="Images/about.jpg" alt="About" name="About" width="106" height="30" border="0" id="About" /></a></div>
+<!-- Navgiation secondary bar -->
+<div id="menu2_container"><img src="Images/menu_bottom_space.jpg" alt="." width="769" height="35" /><a href="http://www.gotsport.com/" target="_blank" onmouseover="MM_swapImage('Gotsport','','Images/gotsport_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="Images/gotsport.jpg" alt="Got Sport" name="Gotsport" width="98" height="35" border="0" id="Gotsport" /></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','Images/home_f2.jpg',1)"><img src="Images/home.jpg" alt="Home" name="Home" width="125" height="35" border="0" id="Home" /></a></div>
+<!-- Content container starts here -->
+<div id="content_box">
+<div id="left_column">
+<div id="left_column_top"><img src="Images/Headers/president_message.jpg" alt="Presiden'ts Message" width="562" height="32" /></div>
+<div id="left_column_content" class="editable" title="President's Message"><h1> </h1>
+<h1><span style="color: #e80e0e;">SPRING 2015 REGISTRATION INFORMATION;</span></h1>
+<p style="text-align: left;"><span style="font-size: xx-large;"><em><strong><span class="emphasis" style="color: #e80e0e;">SEASON STARTS FOR UNDER 6, 8 AND 10 DIVISIONS ON MARCH 21ST.</span></strong></em></span></p>
+<h1 style="text-align: left;"> </h1>
+<p> <strong>  </strong></p>
+<p><span style="color: #ff0000; font-size: x-large;">                                 You may email us at <a href="mailto:soccernwo@gmail.com">soccernwo@gmail.com</a></span></p>
+<p><span style="font-size: x-large;">                             Or you may call us at <a href="tel:495-5860">495-5860</a>.     THANK YOU</span></p>
+<p><span style="font-size: x-large;">_________________________________________________________________________________________________</span></p>
+<p> </p>
+<p> </p>
+<p><img src="DSG Logo Big-700x370.jpg" alt="" width="401" height="212"></p>
+<p><span style="font-size: xx-large; color: #8f1a1a;"><em><strong> </strong></em></span></p>
+<p> </p>
+<p>_________________________________________________________________________________________________________________________________________________</p>
+<p> </p>
+<p><span style="font-size: x-large; color: #ff0000;">CONGRATULATIONS TO NWO DA HEAT SILVER MEDALIST-2015 ORANGE LEAF TOURNAMENT!!</span></p>
+<p><span style="font-size: x-large; color: #ff0000;"><img src="DA HEAT TEAM-ORANGE LEAF.jpeg" alt="" width="540" height="303"></span></p>
+<p> </p>
+<p><strong><span style="color: #0000ff; font-size: large;">_____________________________________________________________________</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p> </p>
+<p><span style="font-size: medium;"><strong><em><span style="color: #ff0000;">REFEREE CLASS!---</span> NW OPTIMIST WILL REIMBURSE PLAYERS OR PARENTS OF OUR CLUB THAT TAKE THIS CLASS AND REFEREE FOR AT LEAST ONE SEASON. EARN $ FOR REFEREEING GAMES! GO TO WEBPAGE BELOW AND SIGN UP.</em></strong></span></p>
+<p>  <span style="font-size: medium;"><a href="http://www.oksoccer.com/referees/scheduled_classes.aspx">http://www.oksoccer.com/referees/scheduled_classes.aspx</a></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><span style="color: #3366ff; font-family: georgia,palatino; font-size: xx-large;"><strong><em> SOCCER USA</em></strong></span></p>
+<p><span style="font-size: x-large;"><strong><em>Call Oscar at Soccer USA for all of your TEAM and Individual soccer equipment. They can take care of your team uniforms with a large selection from many different vendors. <span style="color: #3366ff;">Soccer USA</span> has 3 locations. N. OKC , S. OKC, and Edmond. With Expanded and Remodeled stores they have more inventory to meet all your Soccer needs.</em></strong></span></p>
+<p><span style="font-size: x-large;"><strong><em><span style="color: #3366ff;">10803 N. May Ave.</span><br></em></strong></span></p>
+<p><span style="color: #3366ff; font-size: x-large;"><strong><em>OKC, OK 73120</em></strong></span></p>
+<p><span style="color: #3366ff; font-size: x-large;"><strong><em>(405) <a href="tel:755-7261">755-7261</a></em></strong></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<!-- InstanceEndEditable --></div>
+<div id="left_column_bottom"></div>
+<!-- End left column --></div>
+<div id="right_column">
+<!-- First right column box -->
+<div id="right_column_topbox">
+<div id="right_column_top_top"><img src="Images/field.jpg" alt="Field Status" width="354" height="27" /></div>
+<div id="right_column_top_content" class="editable" title="Field Status"><p> </p>
+<p><img src="Images/weather.jpg" alt="Weather" width="66" height="65" align="left" hspace="10" vspace="10"> <strong> </strong></p>
+<p><span style="font-size: medium;"><strong><span style="font-size: medium;">      FIELDS; </span></strong></span></p>
+<p> </p>
+<p><span style="color: #26ab47;"><strong><em>No practice on fields without soccer board approval!</em></strong></span></p>
+<p> <span style="text-decoration: underline;"><strong>Please stay off goals and nets on soccer fields for safety concerns.</strong></span></p>
+<p><strong>RESTROOMS AT FIELDS CLOSED ON FRIDAYS FOR MAINTENANCE</strong></p>
+<p> </p>
+<p> </p>
+<p><strong> </strong></p></div>
+<div id="right_column_top_bottom"></div>
+<!--end right content box 1 --></div>
+<div id="right_column_promo_area"><a href="http://lists.onenet.net/mailman/listinfo/nwoptimist" target="_blank" onmouseover="MM_swapImage('Email','','Images/email_f2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="Images/email.jpg" alt="Sign up for Updates" name="Email" width="324" height="42" border="0" id="Email" /></a></div>
+<!-- Second right column box -->
+<div id="right_column_topbox2">
+<div id="right_column_top_top2"><img src="Images/calendar.jpg" alt="Calendar" width="354" height="29" /></div>
+<div id="right_column_top_content2" class="editable" title="Calendar"><p><img src="Images/calendar_icon.jpg" alt="Calendar" width="66" height="65" align="left" hspace="10" vspace="10"></p>
+<!-- InstanceBeginEditable name="Calendar Area" -->
+<p><br> Check back again for upcoming events. Check the Schedules tab for the links to all game schedules</p>
+<p> </p>
+<!-- InstanceEndEditable --></div>
+<div id="right_column_top_bottom2"></div>
+<!--end right content box 2--></div>
+
+
+<!-- End right column --></div>
+<div id="footer">
+  <div align="center" class="footer">    NW Optimist Soccer Club  - 
+    Mailing Address - 4605 N Stanley - Oklahoma City, OK 73122 - (405) 495-5860</div>
+</div>
+<!-- Content container ending div is here --></div>
+
+<!-- Parentbox ending div is here --></div>
+</body>
+<!-- InstanceEnd --></html>

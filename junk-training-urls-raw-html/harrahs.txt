@@ -1,0 +1,207 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7 ltie8 ltie9" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ltie9" lang="en-US"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="initial-scale = 1.0" />	<title>Harrah Soccer Club   &raquo; Page not found</title>
+	<link rel="pingback" href="http://www.harrahsoccerclub.org/xmlrpc.php" />
+	
+	<link rel="alternate" type="application/rss+xml" title="Harrah Soccer Club &raquo; Feed" href="http://www.harrahsoccerclub.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Harrah Soccer Club &raquo; Comments Feed" href="http://www.harrahsoccerclub.org/comments/feed/" />
+<link rel='stylesheet' id='cff-css'  href='http://www.harrahsoccerclub.org/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Open-Sans-Condensed-google-font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C300italic%2C700&#038;subset=greek%2Ccyrillic-ext%2Ccyrillic%2Clatin%2Clatin-ext%2Cvietnamese%2Cgreek-ext&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Open-Sans-google-font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;subset=greek%2Ccyrillic-ext%2Ccyrillic%2Clatin%2Clatin-ext%2Cvietnamese%2Cgreek-ext&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ABeeZee-google-font-css'  href='http://fonts.googleapis.com/css?family=ABeeZee%3Aregular%2Citalic&#038;subset=latin&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/superfish/css/superfish.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dlmenu-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/dl-menu/component.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/font-awesome/css/font-awesome.min.css?ver=4.1.1' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/font-awesome/css/font-awesome-ie7.min.css?ver=4.1.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jquery-fancybox-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/fancybox/jquery.fancybox.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/flexslider/flexslider.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-responsive-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/stylesheet/style-responsive.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-custom-css'  href='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/stylesheet/style-custom.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.harrahsoccerclub.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.harrahsoccerclub.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<!-- load the script for older ie version -->
+<!--[if lt IE 9]>
+<script src="http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/javascript/html5.js" type="text/javascript"></script>
+<script src="http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/easy-pie-chart/excanvas.js" type="text/javascript"></script>
+<![endif]-->
+</head>
+
+<body class="error404">
+<img class="gdlr-full-boxed-background" src="http://www.harrahsoccerclub.org/wp-content/uploads/2015/03/green-grass-15696.jpg" alt="" /><div class="body-wrapper gdlr-boxed-style float-menu" data-home="http://www.harrahsoccerclub.org" >
+		<header class="gdlr-header-wrapper "  >
+		<!-- top navigation -->
+				
+		<!-- logo -->
+		<div class="gdlr-header-inner">
+			<div class="gdlr-header-container container">
+				<!-- logo -->
+				<div class="gdlr-logo">
+					<a href="http://www.harrahsoccerclub.org" >
+						<img src="http://www.harrahsoccerclub.org/wp-content/uploads/2015/03/hscoriginal2-e1426872180271.png" alt="" width="200" height="259" />						
+					</a>
+					<div class="gdlr-responsive-navigation dl-menuwrapper" id="gdlr-responsive-navigation" ><button class="dl-trigger">Open Menu</button><ul id="menu-menu-1" class="dl-menu gdlr-main-mobile-menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.harrahsoccerclub.org/">Home</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65"><a href="#">About HSC</a>
+<ul class="dl-submenu">
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.harrahsoccerclub.org/about-hsc/">Board Members</a></li>
+	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.harrahsoccerclub.org/about-hsc/board-members/">Bylaws and Policies</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.harrahsoccerclub.org/about-hsc/directions/">Directions</a></li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.harrahsoccerclub.org/top-soccer/"><font color="orange">Top Soccer</font></a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.harrahsoccerclub.org/competitive/">Competitive</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-94"><a href="#">Coaches</a>
+<ul class="dl-submenu">
+	<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.harrahsoccerclub.org/schedules/">Schedules</a></li>
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.harrahsoccerclub.org/resources/">Resources</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.harrahsoccerclub.org/rainout-lines/">Rainout Lines</a></li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://www.harrahsoccerclub.org/referee/">Referee</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="http://www.harrahsoccerclub.org/hsc-news/">HSC News</a>
+<ul class="dl-submenu">
+	<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.harrahsoccerclub.org/hsc-news/2015-events-calendar/">2015 Events Calendar</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.harrahsoccerclub.org/2015-registration/"><font color="yellow">Registration</strike></font></a></li>
+</ul>
+</li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://www.harrahsoccerclub.org/photo-album/">Photo Album</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a href="https://www.facebook.com/groups/823873594306114/"><img src="http://harrah.hexseven.com/wp-content/uploads/2015/03/facebookIcon-e1426692848105.png"></a></li>
+</ul></div>						
+				</div>
+				
+				<!-- navigation -->
+				<div class="gdlr-navigation-wrapper"><div class="gdlr-navigation-container container"><nav class="gdlr-navigation" id="gdlr-main-navigation" role="navigation"><ul id="menu-menu-2" class="sf-menu gdlr-main-menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26menu-item menu-item-type-post_type menu-item-object-page menu-item-26 gdlr-normal-menu"><a href="http://www.harrahsoccerclub.org/">Home</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65 gdlr-normal-menu"><a href="#">About HSC</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.harrahsoccerclub.org/about-hsc/">Board Members</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.harrahsoccerclub.org/about-hsc/board-members/">Bylaws and Policies</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.harrahsoccerclub.org/about-hsc/directions/">Directions</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.harrahsoccerclub.org/top-soccer/"><font color="orange">Top Soccer</font></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28menu-item menu-item-type-post_type menu-item-object-page menu-item-28 gdlr-normal-menu"><a href="http://www.harrahsoccerclub.org/competitive/">Competitive</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-94menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-94 gdlr-normal-menu"><a href="#">Coaches</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.harrahsoccerclub.org/schedules/">Schedules</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.harrahsoccerclub.org/resources/">Resources</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.harrahsoccerclub.org/rainout-lines/">Rainout Lines</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82menu-item menu-item-type-post_type menu-item-object-page menu-item-82 gdlr-normal-menu"><a href="http://www.harrahsoccerclub.org/referee/">Referee</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30 gdlr-normal-menu"><a href="http://www.harrahsoccerclub.org/hsc-news/">HSC News</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.harrahsoccerclub.org/hsc-news/2015-events-calendar/">2015 Events Calendar</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.harrahsoccerclub.org/2015-registration/"><font color="yellow">Registration</strike></font></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121menu-item menu-item-type-post_type menu-item-object-page menu-item-121 gdlr-normal-menu"><a href="http://www.harrahsoccerclub.org/photo-album/">Photo Album</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53menu-item menu-item-type-custom menu-item-object-custom menu-item-53 gdlr-normal-menu"><a href="https://www.facebook.com/groups/823873594306114/"><img src="http://harrah.hexseven.com/wp-content/uploads/2015/03/facebookIcon-e1426692848105.png"></a></li>
+</ul></nav><i class="icon-search gdlr-menu-search-button" id="gdlr-menu-search-button" ></i>
+<div class="gdlr-menu-search" id="gdlr-menu-search">
+	<form method="get" id="searchform" action="http://www.harrahsoccerclub.org/">
+				<div class="search-text">
+			<input type="text" value="Type Keywords" name="s" autocomplete="off" data-default="Type Keywords" />
+		</div>
+		<input type="submit" value="" />
+		<div class="clear"></div>
+	</form>	
+</div>	
+<div class="clear"></div></div></div><div id="gdlr-header-substitute" ></div>	
+				
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+			<div class="gdlr-page-title-wrapper">
+			<div class="gdlr-page-title-container container" >
+				<h1 class="gdlr-page-title">404</h1>
+				<span class="gdlr-page-caption">Page not found</span>
+			</div>	
+		</div>		
+			<div class="clear"></div>
+	</header>
+
+		<div class="content-wrapper">
+	<div class="page-not-found-container container">
+		<div class="gdlr-item page-not-found-item">
+			<div class="page-not-found-block" >
+				<div class="page-not-found-icon">
+					<i class="icon-frown"></i>
+				</div>
+				<div class="page-not-found-title">HSC | 
+					Error 404				</div>
+				<div class="page-not-found-caption">
+					Sorry, we couldn't find the page you're looking for.				</div>
+				<div class="page-not-found-search">
+					<div class="gdl-search-form">
+	<form method="get" id="searchform" action="http://www.harrahsoccerclub.org/">
+				<div class="search-text" id="search-text">
+			<input type="text" name="s" id="s" autocomplete="off" data-default="Type keywords..." />
+		</div>
+		<input type="submit" id="searchsubmit" value="" />
+		<div class="clear"></div>
+	</form>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+
+		<div class="clear" ></div>
+	</div><!-- content wrapper -->
+
+		
+	<footer class="footer-wrapper" >
+				<div class="footer-container container">
+										<div class="footer-column three columns" id="footer-widget-1" >
+					<div id="text-10" class="widget widget_text gdlr-item gdlr-widget">			<div class="textwidget"><center><img src="http://www.harrahsoccerclub.org/wp-content/uploads/2015/03/hscoriginal2small.png"></center></div>
+		</div>				</div>
+										<div class="footer-column three columns" id="footer-widget-2" >
+					<div id="text-7" class="widget widget_text gdlr-item gdlr-widget">			<div class="textwidget"><p><center><b><u>Contact HSC</u></b><br />
+Harrah Soccer Club<br />
+PO Box 804<br />
+Harrah , OK 73045</center></p>
+</div>
+		</div>				</div>
+										<div class="footer-column three columns" id="footer-widget-3" >
+					<div id="text-8" class="widget widget_text gdlr-item gdlr-widget">			<div class="textwidget"><p><center>HSC makes no endorsement, express or implied, of any links to or from its sites, nor is it responsible for the content of any linked sites.</center></p>
+</div>
+		</div>				</div>
+										<div class="footer-column three columns" id="footer-widget-4" >
+					<div id="text-2" class="widget widget_text gdlr-item gdlr-widget">			<div class="textwidget"><center><img src="http://www.harrahsoccerclub.org/wp-content/uploads/2015/03/hscoriginal2small.png"><br>Copyright 2015 | Harrah Soccer Club</center></div>
+		</div>				</div>
+									<div class="clear"></div>
+		</div>
+				
+			</footer>
+	</div> <!-- body-wrapper -->
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<script type="text/javascript"></script><script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.3.3'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/superfish/js/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-includes/js/hoverIntent.min.js?ver=r7'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/dl-menu/modernizr.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/dl-menu/jquery.dlmenu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/jquery.easing.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/fancybox/jquery.fancybox.pack.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/fancybox/helpers/jquery.fancybox-media.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/fancybox/helpers/jquery.fancybox-thumbs.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/plugins/flexslider/jquery.flexslider.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.harrahsoccerclub.org/wp-content/themes/realsoccer-v1-01/javascript/gdlr-script.js?ver=1.0'></script>
+</body>
+</html>

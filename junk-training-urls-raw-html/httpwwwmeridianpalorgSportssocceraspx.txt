@@ -1,0 +1,281 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="no-js ie6 ie" lang="en"><![endif]-->
+<!--[if IE 7 ]><html class="no-js ie7 ie" lang="en"><![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8 ie" lang="en"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head><title>
+	Meridian PAL | Sports
+</title><meta charset="utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="Meridian Police Activities League (MPAL) a non-profit organization strives to cultivate the values of sportsmanship, physical fitness, respect for oneself and others, and to promote a healthy relationship between law enforcement agencies, youth, and the community to develop responsible citizens. MPAL activities will be the premier youth programs for boys and girls of all races, creeds, religions, and nationalities in the Treasure Valley." name="description" /><meta content="Meridian Police Activities League, Meridian PAL, Idaho, MPAL, Soccer, Football, Basketball, Baseball, Kettlebell, information, ID, non-profit organization" name="keywords" /><link rel="shortcut icon" href="../images/favicon.ico" /><link rel="stylesheet" type="text/css" href="../Styles/Framework.css" /><link rel="stylesheet" type="text/css" href="../Styles/Navigations.css" /><link rel="stylesheet" type="text/css" href="../Styles/Styles.css" />
+
+	<!--website tracking code-->
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-29101130-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="https://www.meridianpal.org/scripts/modernizr.min.js"></script>
+	<link href="http://aspnet-skins.telerikstatic.com/ajax/2013.2.717/Window.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="http://aspnet-skins.telerikstatic.com/ajax/2013.2.717/Default/Window.Default.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body>
+    <form method="post" action="soccer.aspx" id="aspnetForm">
+<input type="hidden" name="ctl00_scrMaster_TSM" id="ctl00_scrMaster_TSM" value="" />
+<input type="hidden" name="ctl00_styleMaster_TSSM" id="ctl00_styleMaster_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjAyNTEzNzM0Nw9kFgJmD2QWAgIDD2QWEgIDDxYCHgdWaXNpYmxlaBYCAgEPDxYCHgRUZXh0ZWRkAgQPFgIfAGgWAgIFD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAL/////D2QCBQ8WAh8CAgEWAmYPZBYCAgEPFgIfAgIEFghmD2QWAmYPFQIod3d3Lm1lcmlkaWFucGFsLm9yZy9TcG9ydHMvYmFzZWJhbGwuYXNweAhCYXNlYmFsbGQCAQ9kFgJmDxUCLXd3dy5tZXJpZGlhbnBhbC5vcmcvU3BvcnRzL2ZsYWctZm9vdGJhbGwuYXNweA1GbGFnIEZvb3RiYWxsZAICD2QWAmYPFQImd3d3Lm1lcmlkaWFucGFsLm9yZy9TcG9ydHMvc29jY2VyLmFzcHgGU29jY2VyZAIDD2QWAmYPFQIvd3d3Lm1lcmlkaWFucGFsLm9yZy9TcG9ydHMvdGFja2xlLWZvb3RiYWxsLmFzcHgPVGFja2xlIEZvb3RiYWxsZAIGDxYCHwICARYCZg9kFgICAQ8WAh8CAgQWCGYPZBYCZg8VAid3d3cubWVyaWRpYW5wYWwub3JnL1N0b3JlL2Jhc2ViYWxsLmFzcHgIQmFzZWJhbGxkAgEPZBYCZg8VAix3d3cubWVyaWRpYW5wYWwub3JnL1N0b3JlL2ZsYWctZm9vdGJhbGwuYXNweA1GbGFnIEZvb3RiYWxsZAICD2QWAmYPFQIld3d3Lm1lcmlkaWFucGFsLm9yZy9TdG9yZS9zb2NjZXIuYXNweAZTb2NjZXJkAgMPZBYCZg8VAi53d3cubWVyaWRpYW5wYWwub3JnL1N0b3JlL3RhY2tsZS1mb290YmFsbC5hc3B4D1RhY2tsZSBGb290YmFsbGQCBw8PFgoeCEltYWdlVXJsBSN+L2Jhbm5lcnMvNjYucG5nPzYzNDkyMTEzODk5NzkwMDAwMB4GSGVpZ2h0GwAAAAAAYGVAAQAAAB4FV2lkdGgbAAAAAACAdkABAAAAHghDc3NDbGFzcwUJTWVkaXVtUGljHgRfIVNCAoIDZGQCCA8PFgofAwUkfi9iYW5uZXJzLzEwMi5wbmc/NjM0OTQ3MTA4NzY1MTcwMDAwHwQbAAAAAABgZUABAAAAHwUbAAAAAAAAeUABAAAAHwYFCExhcmdlUGljHwcCggNkZAIJDw8WCh8DBSN+L2Jhbm5lcnMvOTMucG5nPzYzNDkyODEyOTg2NTYzMDAwMB8EGwAAAAAAYGVAAQAAAB8FGwAAAAAAYGVAAQAAAB8GBQhTbWFsbFBpYx8HAoIDZGQCCg9kFggCAQ8WAh8CAgwWGAIBD2QWAmYPFQIKc29jY2VyL0FnZQlBZ2UgQ2hhcnRkAgIPZBYCZg8VAg9zb2NjZXIvQ29tcEZvcm0SQ29tcGV0aXRpb24gRm9ybWF0ZAIDD2QWAmYPFQIMc29jY2VyL2RhdGVzJVJlZ2lzdHJhdGlvbiBJbmZvcm1hdGlvbiBEYXRlcyAmIEZlZXNkAgQPZBYCZg8VAg5zb2NjZXIvVW5pZm9ybQtVbmlmb3JtIEtpdGQCBQ9kFgJmDxUCE3NvY2Nlci9DYXN0c0pld2VscnkPQ2FzdHMgJiBKZXdlbHJ5ZAIGD2QWAmYPFQIKc29jY2VyL3JlYxNSZWNyZWF0aW9uYWwgU29jY2VyZAIHD2QWAmYPFQIRc29jY2VyL2hlcm9lc3BhcmsOR2FtZSBMb2NhdGlvbnNkAggPZBYCZg8VAg5zb2NjZXIvb3V0YmFjaw9PdXRiYWNrIExlYWd1ZSBkAgkPZBYCZg8VAhJzb2NjZXIvc29jY2VyZm9ybXMFRm9ybXNkAgoPZBYCZg8VAg5zb2NjZXIvcmVmZXJlZRNSZWZlcmVlIEluZm9ybWF0aW9uZAILD2QWAmYPFQISc29jY2VyL3NvY2NlcmxpbmtzDFNvY2NlciBMaW5rc2QCDA9kFgJmDxUCDHNvY2Nlci9EaWNrcxVEaWNrJ3MgU3BvcnRpbmcgR29vZHNkAgMPDxYCHwEFBlNvY2NlcmRkAgUPFgIfAQW4DTxkaXY+PGltZyBhbHQ9IiIgc3JjPSIvQ29udGVudEZpbGVzL01lcmlkaWFuIFBBTC1Mb2dvIDIwMTQgLmpwZyIgc3R5bGU9ImZsb2F0OiBsZWZ0OyBtYXJnaW4tcmlnaHQ6IDEwcHg7IiAvPg0KPGRpdj48c3BhbiBjbGFzcz0iRUhlYWRlcjMiIHN0eWxlPSJjb2xvcjogI2I1MjQyNDsiPk1lcmlkaWFuIFBBTCZuYnNwO1NvY2NlciBpcyBvbmUgb2YgdGhlIGJlc3QgdmFsdWVzIGZvciB5b3V0aCBzb2NjZXIgaW4gSWRhaG8uIE91ciBwcm9ncmFtIG9mZmVycyZuYnNwO21hbnkgb3Bwb3J0dW5pdGllcyBmb3IgYWxsIGFnZXMgb2Ygc29jY2VyIGZyb20gdG90cyB0byBoaWdoIHNjaG9vbCByZWMuJm5ic3A7VGhlcmUgYXJlIG1hbnkgZ3JlYXQgZmVhdHVyZXMgb2YmbmJzcDtQQUwgU29jY2VyIGluY2x1ZGluZyB0aGUgYmVzdCBTb2NjZXIgQ29tcGxleCBpbiB0aGUgdmFsbGV5IGxvY2F0ZWQgYXQgSGVyb2VzIFBhcmssIHRoZSBleGNsdXNpdmUgaG9tZSB0byBNZXJpZGlhbiBQQUwgU29jY2VyLiZuYnNwOzwvc3Bhbj48YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8L2Rpdj4NCjxiciAvPg0KPHNwYW4gc3R5bGU9InRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyI+PHN0cm9uZz48YnIgLz4NCjxiciAvPg0KJm5ic3A7PGJyIC8+DQo8YnIgLz4NCjxiciAvPg0KU29jY2VyIFByb2dyYW1zPC9zdHJvbmc+PC9zcGFuPjxiciAvPg0KPHVsPg0KICAgIDxsaT5Ub3RzIHByb2dyYW0gYWdlcyBVNCAmYW1wOyBVNSBDby1lZDwvbGk+DQogICAgPGxpPlJlYyBwcm9ncmFtIFU2PC9saT4NCiAgICA8bGk+UmVjIHByb2dyYW0gZm9yIFU3LVUxOCAoQWdlIGdyb3VwcyBtYXkgYmUgY29tYmluZWQgdG8gZm9ybSBlbm91Z2ggdGVhbXMpPC9saT4NCiAgICA8bGk+VTE4IGlzIGEgSGlnaCBTY2hvb2wgQ28tZWQgUHJvZ3JhbTwvbGk+DQogICAgPGxpPkFnZSBjdXRvZmYgaXMgSnVseSAzMSwgMjAxNCAoZXguIG11c3QgdHVybiAzIGJ5IEp1bHkgMzEsIDIwMTQgdG8gYmUgZWxpZ2libGUpJm5ic3A7PC9saT4NCjwvdWw+DQo8ZGl2PjxhIGhyZWY9Imh0dHA6Ly93d3cubWVyaWRpYW5wYWwub3JnL0NvbnRlbnRGaWxlcy9BZ2VDaGFydF8xNDE1LnBkZiIgdGFyZ2V0PSJfYmxhbmsiPjxzdHJvbmc+U29jY2VyIEFnZSBDaGFydDwvc3Ryb25nPjwvYT48YnIgLz4NCjxkaXY+PGJyIC8+DQo8L2Rpdj4NCjxzdHJvbmc+Qm9pc2UgTmF0aW9uYWxzIFNvY2NlciBDbHViPC9zdHJvbmc+IGlzIG91ciBwYXJ0bmVyIGZvciBjb21wZXRpdGl2ZSBzb2NjZXIuIFRoZSBOYXRpb25hbHMgY29hY2hpbmcgYW5kIHRyYWluaW5nIHN0YWZmIHByb3ZpZGVzIE1lcmlkaWFuIFBBTCBTb2NjZXIgcGxheWVycyBhbmQgY29hY2hlcyB3aXRoIGV4cGVydGlzZSBpbiB0aGUgZmllbGQgb2Ygc2tpbGwgZGV2ZWxvcG1lbnQsIHRlYW0gcGxheSwgYW5kIGdhbWUgc3RyYXRlZ3kuIEJlIG9uIHRoZSBsb29rb3V0IGZvciBvdXIgcGFydG5lcnMgaW4gdGhlIFJveWFsIEJsdWUgYXQgb3VyIGNhbXBzLCBjb2FjaGluZyBhbmQgdHJhaW5pbmcgc2Vzc2lvbnMuIENsaWNrIG9uIHRoZSBsb2dvIHRvIHZpc2l0IHRoZSBCb2lzZSBOYXRpb25hbHMgd2VicGFnZSBvciBjbGljayBoZXJlJm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5ib2lzZW5hdGlvbmFscy5jb20vIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5ib2lzZW5hdGlvbmFscy5jb20vJm5ic3A7PC9hPjxiciAvPg0KPC9kaXY+DQo8L2Rpdj5kAgcPFCsAAg8WBB4LXyFEYXRhQm91bmRnHwICAWRkFgJmD2QWAgIBD2QWAmYPFQIMTWFyIDE4LCAyMDE1YUdhbWUgU2NoZWR1bGVzIHdpbGwgYmUgcG9zdGVkIGJ5IE1hcmNoIDMxLiBHYW1lcyBiZWdpbiBGcmlkYXksIEFwcmlsIDNyZCBhbmQgU2F0dXJkYXksIEFwcmlsIDR0aC5kAg4PFCsAAhQrAAMPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGRkZGRkGAQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ5jdGwwMCR3bU1hc3RlcgUaY3RsMDAkYm9keSRkc0Fubm91bmNlbWVudHMPPCsACQIBD2dkAhAWAmYCARYCFggeBE5hbWUFB1Nwb3J0SUQeBFR5cGULKVxTeXN0ZW0uVHlwZUNvZGUsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQkeDERlZmF1bHRWYWx1ZQUCMTAeDlBhcmFtZXRlclZhbHVlZBYIHwoFBUNvdW50HwsLKwQJHwwFAjEwHw1kFgICAwIDZAUSY3RsMDAkYm9keSRkc1BhZ2VzDzwrAAkCAQ9nZAIQFgFmFgEWCB8KBQdTcG9ydElEHwsLKwQJHwwFAjEwHw1kFgECA2QFGmN0bDAwJGJvZHkkbHZBbm5vdW5jZW1lbnRzDxQrAA5kZGRkZGRkFCsAAWQCAWRkZGYC/////w9kZkFkOGkiQ8Pn01Sx3etTQniAmC+/BTBX5LKgdSkjH44=" />
+
+
+<script src="http://ajax.microsoft.com/ajax/4.0/4/MicrosoftAjax.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/Core.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/jQueryExternal.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/jQueryPlugins.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/Widgets/Draggable.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/TouchScrollExtender.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/Widgets/Resizable.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/Popup/PopupScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Common/Animation/AnimationScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Window/RadWindowScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajax/2013.2.717/Window/RadWindowManager.js" type="text/javascript"></script>
+    
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="../Scripts/PAL.js"></script>
+    
+    <div class="BannerContainerWrapper">
+        <div id="BannerContainer">
+			<div style="height: 22px; width: 1px; float: right;"></div>
+            <div id="ctl00_divLogin" class="LoginContainer">
+                <div style="margin-top: 5px;"><a href="../Signup/">Create An Account</a>&nbsp;|&nbsp;<a href="https://www.meridianpal.org/Login.aspx">Login</a></div>
+            </div>
+            
+            <div class="clear"></div>
+            <div class="LogoContainer"><a title="Home" href="http://www.meridianpal.org/"></a></div>
+			<!--end UserNavContainer-->
+            <div class="NavContainer">
+                <ul class="DropdownContainer">
+					<li><a href="http://www.meridianpal.org/FAQs">FAQs</a>&nbsp;|&nbsp;</li>
+                    <li><a href="http://www.meridianpal.org/Teams/">Find a Team</a>&nbsp;|&nbsp;</li>
+                    <li><a href="http://www.meridianpal.org/Volunteer.aspx">Volunteer</a>&nbsp;|&nbsp;</li>
+                    <li><a href="http://www.meridianpal.org/Sports/">Sports</a>&nbsp;|&nbsp;
+                        <div class="DropdownOuter">
+                            <ul class="DropdownMenu">
+                                
+                                   <li>
+                                        
+                                                <div><a href='http://www.meridianpal.org/Sports/baseball.aspx'>Baseball</a></div>
+                                            
+                                                <div><a href='http://www.meridianpal.org/Sports/flag-football.aspx'>Flag Football</a></div>
+                                            
+                                                <div><a href='http://www.meridianpal.org/Sports/soccer.aspx'>Soccer</a></div>
+                                            
+                                                <div><a href='http://www.meridianpal.org/Sports/tackle-football.aspx'>Tackle Football</a></div>
+                                            
+                                    </li>
+                                    
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="http://www.meridianpal.org/Store">Store</a>&nbsp;|&nbsp;
+                        <div class="DropdownOuter">
+                            <ul class="DropdownMenu">
+                                
+                                   <li>
+                                        
+                                                <div><a href='http://www.meridianpal.org/Store/baseball.aspx'>Baseball</a></div>
+                                            
+                                                <div><a href='http://www.meridianpal.org/Store/flag-football.aspx'>Flag Football</a></div>
+                                            
+                                                <div><a href='http://www.meridianpal.org/Store/soccer.aspx'>Soccer</a></div>
+                                            
+                                                <div><a href='http://www.meridianpal.org/Store/tackle-football.aspx'>Tackle Football</a></div>
+                                            
+                                    </li>
+                                    
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="http://www.meridianpal.org/Sponsors.aspx">Sponsors</a>&nbsp;|&nbsp;</li>
+                    <li><a href="http://www.meridianpal.org/Donate.aspx">Donate</a>&nbsp;|&nbsp;</li>
+                    <li><a href="http://www.meridianpal.org/About.aspx">About Us</a>&nbsp;|&nbsp;</li>
+                    <li><a href="http://www.meridianpal.org/Contact.aspx">Contact Us</a></li>
+                </ul>
+            </div>
+        </div><!--end BannerContainer-->
+    </div><!--end BannerContainerWrapper-->
+	
+    <div class="ContentContainerWrapper">
+        <div id="ContentContainer">
+			<noscript><div>Please turn on JavaScript to let Meridian PAL work best</div></noscript>
+            <div class="AltBannerContainerWrapper">
+				<div class="AltBannerContainer">
+					<img id="ctl00_imgBannerA" class="MediumPic" src="../banners/66.png?634921138997900000" height="171" width="360" style="padding-left: 5px" />
+					<img id="ctl00_imgBannerB" class="LargePic" src="../banners/102.png?634947108765170000" height="171" width="400" />
+					<img id="ctl00_imgBannerC" class="SmallPic" src="../banners/93.png?634928129865630000" height="171" width="171" />
+				</div>
+			</div>
+            <div class="MainContentContainerWrapper">
+				
+   
+    <div class="ContentNav"><ul><li><span>Home</span></li><li><a href='soccer/Age.aspx'>Age Chart</a></li><li><a href='soccer/CompForm.aspx'>Competition Format</a></li><li><a href='soccer/dates.aspx'>Registration Information Dates & Fees</a></li><li><a href='soccer/Uniform.aspx'>Uniform Kit</a></li><li><a href='soccer/CastsJewelry.aspx'>Casts & Jewelry</a></li><li><a href='soccer/rec.aspx'>Recreational Soccer</a></li><li><a href='soccer/heroespark.aspx'>Game Locations</a></li><li><a href='soccer/outback.aspx'>Outback League </a></li><li><a href='soccer/soccerforms.aspx'>Forms</a></li><li><a href='soccer/referee.aspx'>Referee Information</a></li><li><a href='soccer/soccerlinks.aspx'>Soccer Links</a></li><li><a href='soccer/Dicks.aspx'>Dick's Sporting Goods</a></li></ul></div>
+   
+    <div class="h1Div"><span id="ctl00_body_lblName">Soccer</span></div>
+	
+	<div  style="clear: left;"></div>
+	
+    <p><div><img alt="" src="/ContentFiles/Meridian PAL-Logo 2014 .jpg" style="float: left; margin-right: 10px;" />
+<div><span class="EHeader3" style="color: #b52424;">Meridian PAL&nbsp;Soccer is one of the best values for youth soccer in Idaho. Our program offers&nbsp;many opportunities for all ages of soccer from tots to high school rec.&nbsp;There are many great features of&nbsp;PAL Soccer including the best Soccer Complex in the valley located at Heroes Park, the exclusive home to Meridian PAL Soccer.&nbsp;</span><br />
+<br />
+<br />
+</div>
+<br />
+<span style="text-decoration: underline;"><strong><br />
+<br />
+&nbsp;<br />
+<br />
+<br />
+Soccer Programs</strong></span><br />
+<ul>
+    <li>Tots program ages U4 &amp; U5 Co-ed</li>
+    <li>Rec program U6</li>
+    <li>Rec program for U7-U18 (Age groups may be combined to form enough teams)</li>
+    <li>U18 is a High School Co-ed Program</li>
+    <li>Age cutoff is July 31, 2014 (ex. must turn 3 by July 31, 2014 to be eligible)&nbsp;</li>
+</ul>
+<div><a href="http://www.meridianpal.org/ContentFiles/AgeChart_1415.pdf" target="_blank"><strong>Soccer Age Chart</strong></a><br />
+<div><br />
+</div>
+<strong>Boise Nationals Soccer Club</strong> is our partner for competitive soccer. The Nationals coaching and training staff provides Meridian PAL Soccer players and coaches with expertise in the field of skill development, team play, and game strategy. Be on the lookout for our partners in the Royal Blue at our camps, coaching and training sessions. Click on the logo to visit the Boise Nationals webpage or click here&nbsp;<a href="http://www.boisenationals.com/" target="_blank">http://www.boisenationals.com/&nbsp;</a><br />
+</div>
+</div></p>
+	
+	<h3>Announcements</h3>
+	
+			<div class="AnnouncmentsWrapper" style="width: 700px;">
+				
+			<div>
+				<span style="width: 102px; float: left;">Mar 18, 2015</span>
+				<span style="float: left;">Game Schedules will be posted by March 31. Games begin Friday, April 3rd and Saturday, April 4th.</span>
+					<div class="clear" style="border-top: none;"></div>
+			</div>
+		
+			</div>
+			
+
+    
+    
+
+
+            </div>
+        </div><!--end ContentContainer-->
+    </div><!--end ContentContainerWrapper-->
+    <div id="FooterContainer">
+        <div class="CopyrightContainer">
+            © 2011 Meridian PAL
+            <span>
+                - Developed by
+                <a href="http://www.insllc.net" target="_blank">IntegriNet Solutions</a>
+            </span>
+        </div>
+        <div class="FooterNav">
+            <a href="../Privacy.aspx">Privacy</a>&nbsp;|
+            <a href="../Returns.aspx">Refund Policy</a>&nbsp;|
+            <a href="../Guarantee.aspx">Product Guarantee</a>
+        </div>
+    </div><!--end FooterContainer-->
+    <div id="ctl00_wmMaster" style="display:none;">
+	<!-- 2013.2.717.40 --><div id="ctl00_wmMaster_alerttemplate" style="display:none;">
+		<div class="rwDialogPopup radalert">			
+			<div class="rwDialogText">
+			{1}				
+			</div>
+			
+			<div>
+				<a  onclick="$find('{0}').close(true);"
+				class="rwPopupButton" href="javascript:void(0);">
+					<span class="rwOuterSpan">
+						<span class="rwInnerSpan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="ctl00_wmMaster_prompttemplate" style="display:none;">
+		 <div class="rwDialogPopup radprompt">			
+			    <div class="rwDialogText">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function RadWindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text"  class="rwDialogInput" value="{2}" />
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);"				
+					    class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="ctl00_wmMaster_confirmtemplate" style="display:none;">
+		<div class="rwDialogPopup radconfirm">			
+			<div class="rwDialogText">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);"  class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="ctl00_wmMaster_ClientState" name="ctl00_wmMaster_ClientState" type="hidden" />
+</div>
+	
+	
+		<script type="text/javascript">
+			var count = 0;
+			var max = 10;
+			var keepAliveInterval = setInterval(function () {
+				count++;
+				var xmlRequest = new XMLHttpRequest();
+				xmlRequest.open('GET', 'https://www.meridianpal.org/keepalive.aspx', true);
+				xmlRequest.send();
+				if (count > max) intervalStop();
+			}, 600000);
+
+			intervalStop = function () { clearInterval(keepAliveInterval); }
+		</script>
+	
+	<script type="text/javascript" src="../Scripts/youtube.js"></script>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"animation":2,"behaviors":36,"clientStateFieldID":"ctl00_wmMaster_ClientState","formID":"aspnetForm","iconUrl":"","keepInScreenBounds":true,"minimizeIconUrl":"","modal":true,"name":"wmMaster","reloadOnShow":true,"showContentDuringLoad":false,"skin":"Default","visibleStatusbar":false,"windowControls":"[]"}, null, null, $get("ctl00_wmMaster"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

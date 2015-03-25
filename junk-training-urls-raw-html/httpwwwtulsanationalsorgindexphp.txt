@@ -1,0 +1,1131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="robots" content="all">
+<meta name="keywords" content="sports, soccer, camp, victor, moreland, tulsa, club, nationals">
+<meta name="description" content="Tulsa Nationals Soccer is the place for you!">
+<title>TULSA NATIONALS</title>
+<style type="text/css">
+body {
+	margin: 0px 0px 0px 0px;
+	overflow: auto;
+	overflow-y: scroll;
+	
+    height: 100%;
+}
+#stretch{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+#outer_maincontent{
+	margin:0 auto;
+	text-align:left;
+	}
+#maincontent{
+    /* margin: 0px 0px 0px 0px;   we actually need it to auto-margin so it isn't forced to any edge, and we will give a little room at the top if u don't mind' */
+    margin: auto;
+	height:inherit;
+	text-align:left;
+}
+a:link, a:visited {
+	color: #d52437;
+	text-decoration: none;
+}
+a:hover {
+	color: #d52437;
+	text-decoration: underline;
+}
+.footer{
+	background-color: #dddddd;
+	border-top: 1px solid #333333;
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.footer a:link, .footer a:visited {
+	color: #d52437;
+	text-decoration: none;
+}
+.footer a:hover {
+	color: #d52437;
+	text-decoration: underline;
+}
+.fadeback{
+	background-image: url(http://www.tulsanationals.org/images/smallfadeback_2.gif);
+}
+.headerback{
+	background-color: #bb1d2e;
+	background-image: url(/images/images/1/0/flagcrop.jpg);}
+.content{
+	background-color: #EEEEEE;
+	background-image: url(/images/images/1/0/tnbackground.gif);
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	height: 650px;
+	padding: 7px 10px 0px 10px;
+}
+.rightback{
+	background-color: #000000;
+}
+.polltext {
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 10px;
+}
+.pollquestion {
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.pollheader {
+	border-bottom: 1px solid #999999;
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	width: 100%;
+}
+.blogtimestamp {
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 10px;
+	padding: 10px 0px 10px 0px;
+}
+.smalltext {
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+}
+select.smalltext, input.smalltext, textarea.smalltext {
+	color: #000000;
+}
+.smallwhitetext {
+	color: #ffffff;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+}
+.smallwhitetext a:link, .smallwhitetext a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+.smallwhitetext a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+.reggraytext {
+	color: #666666;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+}
+.regtext {
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+}
+.errortext {
+	color: #cc0000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.blogtitle {
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 3px;
+}
+.titledarktext {
+	border-bottom: 1px solid #bbbbbb;
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px 0px 2px 0px;
+}
+.titledarktext2 {
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.titledarktext3 {
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+.teamdropdown{
+	background-color: #EEEEEE;
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+table.navbar {
+	border-collapse: collapse;
+}
+#navbar {
+	position: relative;
+	height: 23;
+}
+#navbar td{
+	border-right:1px solid #666666;
+}
+#menu1, #menu2, #menu3, #menu4, #menu5, #menu6, #menu7, #menu8, #menu9, #menu10, #menu11, #menu12 {
+	position: absolute;
+	visibility: hidden;
+	width: 129px;
+	z-index: 100;
+}
+.navmenuback{
+	background-color: #EEEEEE;
+	width: 128px;
+}
+.navmenu {
+	border-bottom: 1px solid #d52437;
+}
+a.menulink:link, a.menulink:visited {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	color: #d52437;
+	text-decoration: none;
+	font-weight: bold;
+		background-image: URL('/images/nav_buttons/button_3_off.gif');
+	/*background-position: top right;*/
+	background-repeat: no-repeat;
+		text-indent: 4px;
+	width: 100%;
+	display: block;
+	background-color: #EEEEEE;
+	line-height: 23px;
+}
+a.menulink_on:link, a.menulink_on:visited {
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;	background-color: #EEEEEE;
+	text-decoration: none;
+	text-indent: 4px;
+	background-image: URL('/images/nav_buttons/button_3_on.gif');
+	/*background-position: top right;*/
+	background-repeat: no-repeat;
+	display: block;
+	width: 100%;
+	line-height: 23px;
+	text-decoration: underline;
+}
+a.dropmenulink:link, a.dropmenulink:visited {
+	background-color: #DDDDDD;
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	text-indent: 4px;
+		border: 1px solid #666666;
+		display: block;
+	width: 130px;
+	text-align: left;
+	padding: 0px;
+	line-height: 23px;
+}
+a.dropmenulink:hover {
+	background-color: #EEEEEE;
+	display: block;
+	text-decoration: underline;
+}
+a.menulink:hover, a.menulink_on:hover {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	color: #d52437;
+	text-decoration: underline;
+	font-weight: bold;	background-color: #EEEEEE;
+	text-indent: 4px;
+	display: block;
+	background-image: URL(/images/nav_buttons/button_3_on.gif);
+	/*background-position: top right;*/
+	background-repeat: no-repeat;
+	width: 100%;
+	line-height: 23px;
+}
+table.list {
+	border-collapse: collapse;
+}
+.listtitle {
+	background-image: url(http://www.tulsanationals.org/images/smallfadeback_2.gif);
+	border: 1px solid #999999;
+	color: #ffffff;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px 2px 2px 2px;
+	text-align: left;
+}
+.listtitle a:link, .listtitle a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+.listtitle a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+.listheader {
+	background-color: #DDDDDD;
+	border: 1px solid #999999;
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px;
+	text-align: left;
+}
+.listheader2 {
+	background-color: #eeeeee;
+	border: 1px solid #999999;
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px;
+	text-align: left;
+}
+.list0 {
+	background-color: #EEEEEE;
+	border: 1px solid #999999;
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	text-align: left;
+}
+.list1 {
+	background-color: #FFFFFF;
+	border: 1px solid #999999;
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	text-align: left;
+}
+.list2 {
+	background-color: #EEEEEE;
+	border: 1px solid #999999;
+	color: #d52437;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	text-align: left;
+}
+.calendarday {
+	height: 100px;
+}
+div.menulink{
+	height: 23	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	color: #d52437;
+	text-decoration: none;
+	font-weight: bold;
+		background-image: URL('/images/nav_buttons/button_3_off.gif');
+	/*background-position: top right;*/
+	background-repeat: no-repeat;
+		text-indent: 4px;
+/*	width: 100%;*/
+	display: block;
+	background-color: #EEEEEE;
+	line-height: 23px;
+}
+div.menulink select{ 
+	margin-bottom: 0.4em;
+	margin-top: 0.3em;
+	margin-left: -1px;
+ }
+div.loginbar{
+	width:100%; 
+	height:15px;
+			background: #747373;
+			background: -webkit-gradient(linear, left top, right top, from(#747373), to(#000));
+    background: -webkit-linear-gradient(left, #747373, #000);
+    background: -moz-linear-gradient(left, #747373, #000);
+    background: -ms-linear-gradient(left, #747373, #000);
+    background: -o-linear-gradient(left, #747373, #000);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#747373', endColorstr='#000');
+    zoom:1;
+	}
+span#loginlink{
+	font-family:monospace;
+	width: 100%; 
+	height: 100%; 
+	float: right; 
+	padding-right: 5px; 
+	font-size: 74%; 
+	text-align: right;	
+}
+span#loginlink a, span#loginlink a:link, span#loginlink a:active, span#loginlink a:visited{
+		color: #fff; 
+	}
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/*   Styles from /images/images/1/0/style.css                                        */
+/*   To add or overload styles, upload a css file through the Web Admin File Manager */
+/*   The filename must be style.css                                                  */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+</style>
+<!--[if IE 6]>
+<style type="text/css">
+/* some css fixes for IE browsers */
+html {overflow-y:hidden;}
+body {overflow-y:auto;}
+#stretch {position:absolute; z-index:-1;}
+#outer_maincontent {position:static;}
+body {
+ text-align:center; /*For IE6 Shenanigans*/
+}
+</style>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+	if (window.attachEvent) {
+			window["event_load" + startup] = startup;
+			window["load" + startup] = function () {
+				window["event_load" + startup](window.event)
+			};
+			window.attachEvent("onload", window["load" + startup])
+		} else {
+			window.addEventListener("load", startup, false)
+		}	
+	
+	function startup(){
+//		return true;
+				try{
+			document.getElementById('navbar').style.visibility = 'visible';
+		}
+		catch(err){}/*console.log('there was an error attempting to get element by id: navbar.  this is the error'.err); */
+				//document.getElementById('navbar').style.display = 'block';	
+			}
+	setTimeout("startup()",2500);
+//]]>
+</script>
+<!--<script type="text/javascript" src= > </script>-->
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type='text/javascript' src='/js/embedtags.js'></script></head>
+<body onload="startup();">
+<div id="outer_maincontent">
+<div id="maincontent">
+<div class="loginbar"><span id="loginlink"><b><a id="headerloginlink" href="index.php?logout=no&teamid=0">Login</a>&nbsp;</b></b></span></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="headerback"><div class="regtext" style="display: inline;">
+	<div align=center class=regtext>
+		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+	  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,42,0"
+	  id="Movie1" width="780" height="90">
+	  <param name="movie" value="http://www.tulsanationals.org/images/headertemplates/headertmp_4.swf?maintitle=Home+of+the&maintitle2=Tulsa+Nationals+Soccer+Club&headcolor=0xffffff&headcolor2=0x888888&smallheadcolor=0xffffff&smallheadcolor2=0x888888">
+	  <param name="quality" value="high">
+	  <param name="wmode" value="Transparent">
+	  <param name="bgcolor" value="#000000">
+	    <embed name="Movie1" src="http://www.tulsanationals.org/images/headertemplates/headertmp_4.swf?maintitle=Home+of+the&maintitle2=Tulsa+Nationals+Soccer+Club&headcolor=0xffffff&headcolor2=0x888888&smallheadcolor=0xffffff&smallheadcolor2=0x888888"
+	     quality="high" bgcolor="#000000" swLiveConnect="true"
+	     width="780" height="90" wmode="Transparent"
+	     type="application/x-shockwave-flash"
+	     pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+	</object>
+	</div>
+<div style="width:100%; background-image:url('http://www.tulsanationals.org/images/headertemplates/header1_left.gif');"><img height=3 width=1 border=0 src="http://www.tulsanationals.org/images/empty.gif"></div></div></td>
+	</tr>
+	</table>
+<style type="text/css">
+/* Based partially on Matthew Carroll's keyboard accessible flavor of Suckerfish 
+ * Dropdowns by Patrick Griffiths and Dan Webb. 
+ * http://carroll.org.uk/sandbox/suckerfish/bones2.html
+*/
+
+/* ----[ LINKS ]----*/
+
+/* all menu links */
+#nav a, #subMenusContainer a{
+	text-decoration:none;
+	display:block;
+
+		line-height: 23px;
+	/*	padding-top:5px;*/
+			/* if vertical */
+/*	padding-top: 5px;*/
+	/*	end vertical styles*/
+	/*	margin: 5px 10px;*/
+	background-color:#fff ; /*mf menu background color, this is for both top menu and subs */
+	
+/*	-moz-border-radius: 7px;*/
+/*	-webkit-border-radius: 7px;*/
+
+/*	background-image: url("http://leagueshare.vicid.net/images/images/1/0/menu-background_sliver.png");
+	background-position: 50% 50%;
+	background-repeat: repeat;
+	this will affect the main menu and the sub menus; currently not preferred
+*/
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+}
+
+/* Just main menu links --[for non-javascript users this applies to submenu links as well]*/
+#nav a{
+	/*	padding-bottom:0.5px;*/
+/*	padding-left: 12px;*/
+/*	padding-right: 12px;*/
+/*	margin:0;*/
+			/* if vertical */
+	padding-left: 12px;
+		border-bottom: 1px solid #C3D46A;	/* mf border addition; add vicid control */
+		/*	end vertical styles*/
+		/* navigation button */
+	/* mf text color addition */
+	/* $navlink */
+	color: #d52437;
+/*	this for the top menu only */
+/*	$navoffback */
+	background-color:#EEEEEE;
+/*	$navoffback_img */
+		background-image: url("/images/nav_buttons/button_3_off.gif");
+/*	background-position: 50% 50%;
+	background-repeat: repeat;*/
+	 
+	background-repeat: repeat-x;
+		background-position: 100% 0%;
+		
+/*	vertical-align: text-bottom;*/
+/*	line-height: px;*/
+	height: 23px /* navheight */
+}
+
+/* Just sub menu links */
+#subMenusContainer a, #nav li li a{ /* dropdown, submenu background */
+	text-align:left;
+	text-indent: 10px;
+	/* Sub Menu Background - Normal */
+	/* this is for submenus */
+	/* $navdropback */ /* todo, this may have other names */
+	background-color:#DDDDDD;
+	/* $navdroplink */
+	/* dropdown text */
+	color: #000000;
+		background-image: none;	
+	}
+
+/* All parent menu links on hover or focus */
+#nav a:hover, #nav a:focus, #nav li a:hover, #nav li a:focus, #nav a.mainMenuParentBtnFocused{
+	/* $navoverback */
+	background-color:#EEEEEE;/*mf overwritten later */
+	/* $navoverback_img */
+		background-image: url("/images/nav_buttons/button_3_on.gif");
+/*	background-position: 50% 50%;
+	background-repeat: repeat;*/
+	 
+	background-repeat: repeat-x;
+		background-position: 100% 0%;
+		/* this is to be the new hover color text color option $navlinkover*/
+	color:#FFFFFF;/*mf overwritten later */
+}
+/* All sub-menu links on hover or focus */
+#subMenusContainer a:hover, #subMenusContainer a:focus, #subMenusContainer a.subMenuParentBtnFocused, #subMenusContainer li a:hover, #subMenusContainer li a:focus{
+	/* $navoverback */
+	background-color:#EEEEEE;/*mf overwritten later */
+		background-image: none;	
+		/* this is to be the new hover color text color option $navlinkover*/
+	color:#FFFFFF;/*mf overwritten later */
+}
+#subMenusContainer ul li a{
+/*	padding-top: 3px;
+	padding-bottom: 3px;*/
+		
+		/* if Vertical */
+		min-width: 128px;
+		height: 23px;
+	/*	end vertical styles*/
+		
+}
+
+/* sub menu links on hover or focus */
+#subMenusContainer a:hover, 
+#subMenusContainer a:focus,  
+#subMenusContainer a.subMenuParentBtnFocused{
+	/* Navigation Button & Sub Menu - Over ********************************* need to determine if this is the same as menu designation for current page/
+	/*	$navdropbackover */
+	/* $navdropbackover_img */
+	background-color: #EEEEEE ;/*mf hover background color; $navoverback */
+		background-image: none;	
+		color:#FFFFFF;	/*mf hover text color $navdroplinkover*/
+}
+/* selected ~ current page */
+#nav a.selectedd, #nav  a#selectedd {
+	/* $navoverback */
+	background-color:#EEEEEE;/*mf overwritten later */
+		background-image: url("/images/nav_buttons/button_3_on.gif");
+/*	background-position: 50% 50%;
+	background-repeat: repeat;*/
+	 
+	background-repeat: repeat-x;
+		background-position: 100% 0%;
+	}
+/* Parent Sub Menu Links ---[javascript users only]*/
+.subMenuParentBtn{ 
+	background: url(/images/arrow_right.gif) right center no-repeat;
+}
+
+/* Parent Sub Menu Links on hover or focus ---[javascript users only]*/
+.subMenuParentBtnFocused{ 
+	background: url(/images/arrow_right_over.gif) right center no-repeat;  
+}
+
+/* Parent Main Menu Links ---[javascript users only]*/
+.mainMenuParentBtn{	
+	background: url(/images/arrow_down.gif) right center no-repeat;
+}
+
+/* Parent Main Menu Links on hover or focus ---[javascript users only]*/
+.mainMenuParentBtnFocused{	
+	background: url(/images/arrow_down_over.gif) right center no-repeat;
+}
+
+/* ----[ OLs ULs, LIs, and DIVs ]----*/
+
+/* Submenu Outer Wrapper - each submenu is inside a div with this class - javascript users only */
+.smOW{ 
+	display:none; 
+	position: absolute; 
+	overflow:hidden; 
+	/*the 2px left & right padding lets you have a 1px border 
+	  on the ul or ol inside since overflow is set to hidden*/
+	padding:0 2px;
+	margin:0 0 0 -2px;
+}
+
+
+/* All submenu OLs and ULs */
+#nav ol, #nav ul, #subMenusContainer ul, #subMenusContainer ol {	
+	/*border around submenu goes here*/
+/*	-moz-border-radius: 8px;*/
+/*	-webkit-border-radius: 8px;*/
+	background:#FFF;	/*mf fallback, failsafe perhaps */
+		border:1px solid #C3D46A;	/*mf border color */
+		left:0;
+	}
+/* All ULs and OLs */
+#nav, #nav ul, #nav ol, #subMenusContainer ul, #subMenusContainer ol { 
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1em;
+}
+
+
+/* List items in main menu --[for non-javascript users this applies to submenus as well]  */
+#nav li { 
+	/*great place to use a background image as a divider*/
+	display:block;
+	list-style:none;
+	position:relative;
+			/* Vertical */
+	margin-right: 0px;
+	/* end Horizoontal */
+	}
+
+#subMenusContainer li{
+	list-style: none;
+		
+		/* if Vertical */
+		min-width: 128px;
+		height: 23px;
+	margin-top: -1px;
+	/*	end vertical styles*/
+		
+}
+
+/* main menu ul or ol elment */
+#nav{
+	display:block;
+	position: static;	/*mf position of nav menu. original was absolute*/
+	list-style:none;
+	z-index:5;
+	display:block;
+	/*	margin:0 0 0 -280px;*/
+	
+	
+		/* Vertical */
+	top:60px;
+	margin-left: 0px;
+	width: 129px;
+	/* end Vertical */
+	/*	left:50%;
+	text-align: right;*/
+	
+}
+
+#subMenusContainer{	display:block; position:absolute;	top:0;	left:0;	width:100%;	 height:0;	overflow:visible;	z-index:1000000000; }
+
+
+/* --------------------------[ The below is just for non-javscript users ]--------------------------*/
+#nav li li{	float:none; }
+
+#nav li li a{ /* Just submenu links*/	
+	position:relative;
+	float:none;
+}
+
+#nav li ul { /* second-level lists */
+	position: absolute;
+	width: 10em;
+	margin-left: -1000em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+	}
+
+/* third-and-above-level lists */
+#nav li ul ul { margin: -1em 0 0 -1000em; }
+#nav li:hover ul ul {	margin-left: -1000em; }
+
+/* lists nested under hovered list items */
+
+
+
+/* Horizontal */
+#nav li:hover ul{	}
+#nav li li:hover ul {}
+/* end Horizontal */
+
+
+/* Vertical */
+#nav li:hover ul{	 margin-left: 100%/*186px*/; margin-top:-28px; }
+#nav li li:hover ul { margin-left: 10em; }
+/* end Vertical */
+
+/* extra positioning rules for limited noscript keyboard accessibility */
+
+/* Horizontal */
+#nav li a:focus + ul {}
+#nav li li a:focus + ul {}
+#nav li li a:focus {}
+#nav li li li a:focus {}
+/* end Horizontal */
+
+/* Vertical */
+#nav li a:focus + ul {  margin-left: 0; width: 124px; margin-top:-2.5em; }
+#nav li li a:focus + ul { width: 124px; margin-left: 1010em; margin-top:-2.5em; }
+#nav li li a:focus { width: 124px;  margin-left:1000em; width:10em;  margin-top:-2.5em; }
+#nav li li li a:focus { width: 124px; margin-left: 2010em; width: 10em;  margin-top:-2.5em; }
+/* end Vertical */
+
+#nav li:hover a:focus{ margin-left: 0; }
+#nav li li:hover a:focus + ul { margin-left: 10em; }
+
+#navcontainer{
+/*	background-color: #FFF;*/
+/* width: 100%; */
+/*navigation background*/
+/* $navbackback */
+background-color: #EEEEEE;
+/* $navbackback_img */
+width: 129px;
+}
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+				<td class="navmenuback" valign="top">
+			<div id="navbar">
+			<ul id="nav">
+					<li><a class="selectedd" href="index.php"><b>Home</b></a></li>
+							<li><a  target="_blank"  href="http://www.tulsanationals.org/custpage.php?cid=1719&teamid=0"><b>Follow the Flag</b></a></li>
+							<li><a   ><b>Club</b></a>
+				<ul>
+									<li><a href="custpage.php?cid=739">Coaching Staff</a></li>
+														<li><a href="custpage.php?cid=1718">Mission</a></li>
+														<li><a href="schedule.php">Schedule/Results</a></li>
+														<li><a href="custpage.php?cid=89">Success</a></li>
+														<li><a href="standings.php">Standings</a></li>
+														<li><a href="stats.php">Stats</a></li>
+														<li><a href="calendar.php">Calendar</a></li>
+														<li><a href="news.php">National's News</a></li>
+														<li><a href="lostfound.php">Lost & Found</a></li>
+														<li><a href="lostfound.php">Lost & Found</a></li>
+														<li><a href="lostfound.php">Lost & Found</a></li>
+														<li><a href="custpage.php?cid=79">Victor Moreland</a></li>
+																																					</ul>
+			</li>
+								<li><a  target="_blank" class="selectedd" href="http://www.tulsanationals.org/nationalsacademy/index.php"><b>Academy</b></a></li>
+							<li><a   target="_blank"  href="http://www.tulsanationals.org/store.php?teamid=0"><b>Nationals Logowear</b></a>
+				<ul>
+																																																									<li><a href="store.php">Logo Wear</a></li>
+																																	</ul>
+			</li>
+								<li><a  target="_blank"  href="http://www.tulsanationals.org/custpage.php?cid=89&teamid=0"><b>Champions</b></a></li>
+							<li><a  target="_blank"  href="http://www.tulsanationals.org/custpage.php?cid=92&teamid=0"><b>Coach's Corner</b></a></li>
+							<li><a  target="_blank"  href="http://www.tulsanationals.org/locations.php?teamid=0"><b>Fields</b></a></li>
+							<li><a  ><b>Camps</b></a></li>
+							<li><a   ><b>Forum</b></a>
+				<ul>
+																																																													<li><a href="chat.php">Chat</a></li>
+														<li><a href="msgboard.php">Message Board</a></li>
+														<li><a href="guestbook.php">Guestbook</a></li>
+																					</ul>
+			</li>
+								<li><a   target="_blank"  href="http://www.tulsanationals.org/custpage.php?cid=77&teamid=0"><b>Links</b></a>
+				<ul>
+																																																																									<li><a href="custpage.php?cid=77">Helpful Links</a></li>
+														<li><a href="downloads.php">Downloads</a></li>
+													</ul>
+			</li>
+										<li><a><b>Team Sites</b></a>
+				<ul>
+									<li>	<a href="http://www.tulsanationals.org/nationals00boys/">Nationals 00 Boys - Black</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals00boysred/">Nationals 00 Boys - Red</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals00girls/">Nationals 00 Girls</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals01boysblack/">Nationals 01 Boys - Black</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals01girlsblack/">Nationals 01 Girls - Black</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals01girlsred/">Nationals 01 Girls - Red</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals2002boys/">Nationals 02 Boys</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals02girls/">Nationals 02 Girls</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals03boys/">Nationals 03 Boys</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org//">Nationals 03 Girls</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals04boys/">Nationals 04 Boys</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals05boys/">Nationals 05 Boys</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals05girls/">Nationals 05 Girls</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals06boys/">Nationals 06 Boys</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals06girls/">Nationals 06 Girls</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals98boysred/">Nationals 98 Boys - Red</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals98girls/">Nationals 98 Girls - Black</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals99boys/">Nationals 99 Boys</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationals99boysred/">Nationals 99 Boys - Red</a>
+</li>
+									<li>	<a href="http://www.tulsanationals.org/nationalsacademy/">Nationals Academy</a>
+</li>
+								</ul>
+			</li>
+				</ul>
+		<script type="text/javascript">
+			try{
+				document.getElementById('navbar').style.visibility = 'hidden';
+			}
+			catch(err){}/*console.log('there was an error attempting to get element by id: navbar.  this is the error'.err); */
+		</script>
+<!-- Load the Mootools Framework -->
+<!--					<script src="http://www.google.com/jsapi"></script><script>google.load("mootools", "1.4.2");</script>	-->
+		<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js" type="text/javascript" charset="utf-8" language="javascript"></script>
+		<!-- Load the MenuMatic Class -->
+<!--					<script src="/js/MenuMatic_0.68.3.js" type="text/javascript" charset="utf-8"></script>-->
+		<!-- Create a MenuMatic Instance -->
+		<script type="text/javascript" >
+		window.addEvent('domready', function() {
+			(function(){
+				/**
+				* menuMatic
+				* @version 0.68.3 (beta)
+				* @author Jason J. Jaeger | greengeckodesign.com
+				* @copyright 2008 Jason John Jaeger
+				* @license MIT-style License
+				*			Permission is hereby granted, free of charge, to any person obtaining a copy
+				*			of this software and associated documentation files (the "Software"), to deal
+				*			in the Software without restriction, including without limitation the rights
+				*			to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+				*			copies of the Software, and to permit persons to whom the Software is
+				*			furnished to do so, subject to the following conditions:
+				*
+				*			The above copyright notice and this permission notice shall be included in
+				*			all copies or substantial portions of the Software.
+				*
+				*			THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+				*			IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+				*			FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+				*			AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+				*			LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+				*			OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+				*			THE SOFTWARE.
+				**/
+				var MenuMatic=new Class({Implements:Options,options:{id:"nav",subMenusContainerId:"subMenusContainer",effect:"slide & fade",duration:600,physics:Fx.Transitions.Pow.easeOut,hideDelay:1000,stretchMainMenu:false,matchWidthMode:false,orientation:"horizontal",direction:{x:"right",y:"down"},tweakInitial:{x:0,y:0},tweakSubsequent:{x:0,y:0},center:false,opacity:95,mmbFocusedClassName:null,mmbClassName:null,killDivider:null,fixHasLayoutBug:false,onHideAllSubMenusNow_begin:(function(){}),onHideAllSubMenusNow_complete:(function(){}),onInit_begin:(function(){}),onInit_complete:(function(){})},hideAllMenusTimeout:null,allSubMenus:[],subMenuZindex:1,initialize:function(B){this.setOptions(B);this.options.onInit_begin();if(this.options.opacity>99){this.options.opacity=99.9}this.options.opacity=this.options.opacity/100;Element.implement({getId:function(){if(!this.id){var E=this.get("tag")+"-"+$time();while($(E)){E=this.get("tag")+"-"+$time()}this.id=E}return this.id}});this.options.direction.x=this.options.direction.x.toLowerCase();this.options.direction.y=this.options.direction.y.toLowerCase();if(this.options.direction.x==="right"){this.options.direction.xInverse="left"}else{if(this.options.direction.x==="left"){this.options.direction.xInverse="right"}}if(this.options.direction.y==="up"){this.options.direction.yInverse="down"}else{if(this.options.direction.y==="down"){this.options.direction.yInverse="up"}}var A=$(this.options.id).getElements("a");A.each(function(F,E){F.store("parentLinks",F.getParent().getParents("li").getFirst("a"));F.store("parentLinks",F.retrieve("parentLinks").erase(F.retrieve("parentLinks").getFirst()));F.store("childMenu",F.getNext("ul")||F.getNext("ol"));theSubMenuType="subsequent";if($(F.getParent("ul")||F.getParent("ol")).id===this.options.id){theSubMenuType="initial"}F.store("subMenuType",theSubMenuType);if(theSubMenuType==="initial"&&$(F.getNext("ul")||F.getNext("ol"))){F.addClass("mainMenuParentBtn")}else{if($(F.getNext("ul")||F.getNext("ol"))){F.addClass("subMenuParentBtn")}}}.bind(this));var D=new Element("div",{id:this.options.subMenusContainerId}).inject($(document.body),"bottom");$(this.options.id).getElements("ul, ol").each(function(F,E){new Element("div",{"class":"smOW"}).inject(D).grab(F)}.bind(this));D.getElements("a").set("tabindex","-1");A.each(function(G,E){if(!G.retrieve("childMenu")){return }G.store("childMenu",G.retrieve("childMenu").getParent("div"));this.allSubMenus.include(G.retrieve("childMenu"));G.store("parentSubMenus",G.retrieve("parentLinks").retrieve("childMenu"));var F=new MenuMaticSubMenu(this.options,this,G)}.bind(this));var C=$(this.options.id).getElements("a").filter(function(F,E){return !F.retrieve("childMenu")});C.each(function(F,E){F.addEvents({mouseenter:function(G){this.hideAllSubMenusNow();if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),focus:function(G){this.hideAllSubMenusNow();if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),mouseleave:function(G){if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration*5),transition:this.options.physics,link:"cancel"})).start(this.options.mmbClassName)}}.bind(this),blur:function(G){if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(F).retrieve("btnMorph",new Fx.Morph(F,{duration:(this.options.duration*5),transition:this.options.physics,link:"cancel"})).start(this.options.mmbClassName)}}.bind(this),keydown:function(H){var G=new Event(H);if(H.key==="up"||H.key==="down"||H.key==="left"||H.key==="right"){H.stop()}if(H.key==="left"&&this.options.orientation==="horizontal"||H.key==="up"&&this.options.orientation==="vertical"){if(F.getParent("li").getPrevious("li")){F.getParent("li").getPrevious("li").getFirst("a").focus()}else{F.getParent("li").getParent().getLast("li").getFirst("a").focus()}}else{if(H.key==="right"&&this.options.orientation==="horizontal"||H.key==="down"&&this.options.orientation==="vertical"){if(F.getParent("li").getNext("li")){F.getParent("li").getNext("li").getFirst("a").focus()}else{F.getParent("li").getParent().getFirst("li").getFirst("a").focus()}}}}.bind(this)})},this);this.stretch();this.killDivider();this.center();this.fixHasLayoutBug();this.options.onInit_complete()},fixHasLayoutBug:function(){if(Browser.Engine.trident&&this.options.fixHasLayoutBug){$(this.options.id).getParents().setStyle("zoom",1);$(this.options.id).setStyle("zoom",1);$(this.options.id).getChildren().setStyle("zoom",1);$(this.options.subMenusContainerId).setStyle("zoom",1);$(this.options.subMenusContainerId).getChildren().setStyle("zoom",1)}},center:function(){if(!this.options.center){return }$(this.options.id).setStyles({left:"50%","margin-left":-($(this.options.id).getSize().x/2)})},stretch:function(){if(this.options.stretchMainMenu&&this.options.orientation==="horizontal"){var C=parseFloat($(this.options.id).getCoordinates().width);var D=0;var B=$(this.options.id).getElements("a");B.setStyles({"padding-left":0,"padding-right":0});B.each(function(F,E){D+=F.getSize().x}.bind(this));if(C<D){return }var A=(C-D)/B.length;B.each(function(F,E){F.setStyle("width",F.getSize().x+A)}.bind(this));B.getLast().setStyle("width",B.getLast().getSize().x-1)}},killDivider:function(){if(this.options.killDivider&&this.options.killDivider.toLowerCase()==="first"){$($(this.options.id).getElements("li")[0]).setStyles({background:"none"})}else{if(this.options.killDivider&&this.options.killDivider.toLowerCase()==="last"){$($(this.options.id).getElements("li").getLast()).setStyles({background:"none"})}}},hideAllSubMenusNow:function(){this.options.onHideAllSubMenusNow_begin();$clear(this.hideAllMenusTimeout);$$(this.allSubMenus).fireEvent("hide");this.options.onHideAllSubMenusNow_complete()}});var MenuMaticSubMenu=new Class({Implements:Options,Extends:MenuMatic,options:{onSubMenuInit_begin:(function(A){}),onSubMenuInit_complete:(function(A){}),onMatchWidth_begin:(function(A){}),onMatchWidth_complete:(function(A){}),onHideSubMenu_begin:(function(A){}),onHideSubMenu_complete:(function(A){}),onHideOtherSubMenus_begin:(function(A){}),onHideOtherSubMenus_complete:(function(A){}),onHideAllSubMenus_begin:(function(A){}),onHideAllSubMenus_complete:(function(A){}),onPositionSubMenu_begin:(function(A){}),onPositionSubMenu_complete:(function(A){}),onShowSubMenu_begin:(function(A){}),onShowSubMenu_complete:(function(A){})},root:null,btn:null,hidden:true,myEffect:null,initialize:function(B,A,C){this.setOptions(B);this.root=A;this.btn=C;this.childMenu=this.btn.retrieve("childMenu");this.subMenuType=this.btn.retrieve("subMenuType");this.childMenu=this.btn.retrieve("childMenu");this.parentSubMenus=$$(this.btn.retrieve("parentSubMenus"));this.parentLinks=$$(this.btn.retrieve("parentLinks"));this.parentSubMenu=$(this.parentSubMenus[0]);if(this.parentSubMenu){this.parentSubMenu=this.parentSubMenu.retrieve("class")}this.childMenu.store("class",this);this.btn.store("class",this);this.childMenu.store("status","closed");this.options.onSubMenuInit_begin(this);this.childMenu.addEvent("hide",function(){this.hideSubMenu()}.bind(this));this.childMenu.addEvent("show",function(){this.showSubMenu()}.bind(this));if(this.options.effect){this.myEffect=new Fx.Morph($(this.childMenu).getFirst(),{duration:this.options.duration,transition:this.options.physics,link:"cancel"})}if(this.options.effect==="slide"||this.options.effect==="slide & fade"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"){this.childMenu.getFirst().setStyle("margin-top","0")}else{this.childMenu.getFirst().setStyle("margin-left","0")}}else{if(this.options.effect==="fade"||this.options.effect==="slide & fade"){this.childMenu.getFirst().setStyle("opacity",0)}}if(this.options.effect!="fade"&&this.options.effect!="slide & fade"){this.childMenu.getFirst().setStyle("opacity",this.options.opacity)}var D=$(this.childMenu).getElements("a").filter(function(F,E){return !F.retrieve("childMenu")});D.each(function(F,E){$(F).addClass("subMenuBtn");F.addEvents({mouseenter:function(G){this.childMenu.fireEvent("show");this.cancellHideAllSubMenus();this.hideOtherSubMenus()}.bind(this),focus:function(G){this.childMenu.fireEvent("show");this.cancellHideAllSubMenus();this.hideOtherSubMenus()}.bind(this),mouseleave:function(G){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),blur:function(G){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),keydown:function(H){var G=new Event(H);if(H.key==="up"||H.key==="down"||H.key==="left"||H.key==="right"||H.key==="tab"){H.stop()}if(H.key==="up"){if(F.getParent("li").getPrevious("li")){F.getParent("li").getPrevious("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){this.btn.focus()}else{if(this.options.direction.y==="up"){F.getParent("li").getParent().getLast("li").getFirst("a").focus()}}}}else{if(H.key==="down"){if(F.getParent("li").getNext("li")){F.getParent("li").getNext("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){F.getParent("li").getParent().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){this.btn.focus()}}}}else{if(H.key===this.options.direction.xInverse){this.btn.focus()}}}}.bind(this)})},this);$(this.btn).removeClass("subMenuBtn");if(this.subMenuType=="initial"){this.btn.addClass("mainParentBtn")}else{this.btn.addClass("subParentBtn")}$(this.btn).addEvents({mouseenter:function(E){this.cancellHideAllSubMenus();this.hideOtherSubMenus();this.showSubMenu();if(this.subMenuType==="initial"&&this.options.mmbClassName&&this.options.mmbFocusedClassName){$(this.btn).retrieve("btnMorph",new Fx.Morph($(this.btn),{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),focus:function(E){this.cancellHideAllSubMenus();this.hideOtherSubMenus();this.showSubMenu();if(this.subMenuType==="initial"&&this.options.mmbClassName&&this.options.mmbFocusedClassName){$(this.btn).retrieve("btnMorph",new Fx.Morph($(this.btn),{duration:(this.options.duration/2),transition:this.options.physics,link:"cancel"})).start(this.options.mmbFocusedClassName)}}.bind(this),mouseleave:function(E){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),blur:function(E){this.cancellHideAllSubMenus();this.hideAllSubMenus()}.bind(this),keydown:function(E){E=new Event(E);if(E.key==="up"||E.key==="down"||E.key==="left"||E.key==="right"){E.stop()}if(!this.parentSubMenu){if(this.options.orientation==="horizontal"&&E.key===this.options.direction.y||this.options.orientation==="vertical"&&E.key===this.options.direction.x){if(this.options.direction.y==="down"){this.childMenu.getFirst().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){this.childMenu.getFirst().getLast("li").getFirst("a").focus()}}}else{if(this.options.orientation==="horizontal"&&E.key==="left"||this.options.orientation==="vertical"&&E.key===this.options.direction.yInverse){if(this.btn.getParent().getPrevious()){this.btn.getParent().getPrevious().getFirst().focus()}else{this.btn.getParent().getParent().getLast().getFirst().focus()}}else{if(this.options.orientation==="horizontal"&&E.key==="right"||this.options.orientation==="vertical"&&E.key===this.options.direction.y){if(this.btn.getParent().getNext()){this.btn.getParent().getNext().getFirst().focus()}else{this.btn.getParent().getParent().getFirst().getFirst().focus()}}}}}else{if(E.key==="tab"){E.stop()}if(E.key==="up"){if(this.btn.getParent("li").getPrevious("li")){this.btn.getParent("li").getPrevious("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){this.parentSubMenu.btn.focus()}else{if(this.options.direction.y==="up"){this.btn.getParent("li").getParent().getLast("li").getFirst("a").focus()}}}}else{if(E.key==="down"){if(this.btn.getParent("li").getNext("li")){this.btn.getParent("li").getNext("li").getFirst("a").focus()}else{if(this.options.direction.y==="down"){this.btn.getParent("li").getParent().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){this.parentSubMenu.btn.focus()}}}}else{if(E.key===this.options.direction.xInverse){this.parentSubMenu.btn.focus()}else{if(E.key===this.options.direction.x){if(this.options.direction.y==="down"){this.childMenu.getFirst().getFirst("li").getFirst("a").focus()}else{if(this.options.direction.y==="up"){}}}}}}}}.bind(this)});this.options.onSubMenuInit_complete(this)},matchWidth:function(){if(this.widthMatched||!this.options.matchWidthMode||this.subMenuType==="subsequent"){return }this.options.onMatchWidth_begin(this);var A=this.btn.getCoordinates().width;$(this.childMenu).getElements("a").each(function(E,D){var C=parseFloat($(this.childMenu).getFirst().getStyle("border-left-width"))+parseFloat($(this.childMenu).getFirst().getStyle("border-right-width"));var B=parseFloat(E.getStyle("padding-left"))+parseFloat(E.getStyle("padding-right"));var F=C+B;if(A>E.getCoordinates().width){E.setStyle("width",A-F);E.setStyle("margin-right",-C)}}.bind(this));this.width=this.childMenu.getFirst().getCoordinates().width;this.widthMatched=true;this.options.onMatchWidth_complete(this)},hideSubMenu:function(){if(this.childMenu.retrieve("status")==="closed"){return }this.options.onHideSubMenu_begin(this);if(this.subMenuType=="initial"){if(this.options.mmbClassName&&this.options.mmbFocusedClassName){$(this.btn).retrieve("btnMorph",new Fx.Morph($(this.btn),{duration:(this.options.duration),transition:this.options.physics,link:"cancel"})).start(this.options.mmbClassName).chain(function(){$(this.btn).removeClass("mainMenuParentBtnFocused");$(this.btn).addClass("mainMenuParentBtn")}.bind(this))}else{$(this.btn).removeClass("mainMenuParentBtnFocused");$(this.btn).addClass("mainMenuParentBtn")}}else{$(this.btn).removeClass("subMenuParentBtnFocused");$(this.btn).addClass("subMenuParentBtn")}this.childMenu.setStyle("z-index",1);if(this.options.effect&&this.options.effect.toLowerCase()==="slide"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="down"){this.myEffect.start({"margin-top":-this.height}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="up"){this.myEffect.start({"margin-top":this.height}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="right"){this.myEffect.start({"margin-left":-this.width}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.start({"margin-left":this.width}).chain(function(){this.childMenu.style.display="none"}.bind(this))}}}}}else{if(this.options.effect=="fade"){this.myEffect.start({opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.effect=="slide & fade"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="down"){this.myEffect.start({"margin-top":-this.height,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"&&this.options.direction.y==="up"){this.myEffect.start({"margin-top":this.height,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="right"){this.myEffect.start({"margin-left":-this.width,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.start({"margin-left":this.width,opacity:0}).chain(function(){this.childMenu.style.display="none"}.bind(this))}}}}}else{this.childMenu.style.display="none"}}}this.childMenu.store("status","closed");this.options.onHideSubMenu_complete(this)},hideOtherSubMenus:function(){this.options.onHideOtherSubMenus_begin(this);if(!this.btn.retrieve("otherSubMenus")){this.btn.store("otherSubMenus",$$(this.root.allSubMenus.filter(function(A){return !this.btn.retrieve("parentSubMenus").contains(A)&&A!=this.childMenu}.bind(this))))}this.parentSubMenus.fireEvent("show");this.btn.retrieve("otherSubMenus").fireEvent("hide");this.options.onHideOtherSubMenus_complete(this)},hideAllSubMenus:function(){this.options.onHideAllSubMenus_begin(this);$clear(this.root.hideAllMenusTimeout);this.root.hideAllMenusTimeout=(function(){$clear(this.hideAllMenusTimeout);$$(this.root.allSubMenus).fireEvent("hide")}).bind(this).delay(this.options.hideDelay);this.options.onHideAllSubMenus_complete(this)},cancellHideAllSubMenus:function(){$clear(this.root.hideAllMenusTimeout)},showSubMenu:function(A){if(this.childMenu.retrieve("status")==="open"){return }this.options.onShowSubMenu_begin(this);if(this.subMenuType=="initial"){$(this.btn).removeClass("mainMenuParentBtn");$(this.btn).addClass("mainMenuParentBtnFocused")}else{$(this.btn).removeClass("subMenuParentBtn");$(this.btn).addClass("subMenuParentBtnFocused")}this.root.subMenuZindex++;this.childMenu.setStyles({display:"block",visibility:"hidden","z-index":this.root.subMenuZindex});if(!this.width||!this.height){this.width=this.childMenu.getFirst().getCoordinates().width;this.height=this.childMenu.getFirst().getCoordinates().height;this.childMenu.setStyle("height",this.height,"border");if(this.options.effect==="slide"||this.options.effect==="slide & fade"){if(this.subMenuType=="initial"&&this.options.orientation==="horizontal"){this.childMenu.getFirst().setStyle("margin-top","0");if(this.options.direction.y==="down"){this.myEffect.set({"margin-top":-this.height})}else{if(this.options.direction.y==="up"){this.myEffect.set({"margin-top":this.height})}}}else{if(this.options.direction.x==="left"){this.myEffect.set({"margin-left":this.width})}else{this.myEffect.set({"margin-left":-this.width})}}}}this.matchWidth();this.positionSubMenu();if(this.options.effect==="slide"){this.childMenu.setStyles({display:"block",visibility:"visible"});if(this.subMenuType==="initial"&&this.options.orientation==="horizontal"){if(A){this.myEffect.set({"margin-top":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({"margin-top":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}}else{if(A){this.myEffect.set({"margin-left":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({"margin-left":0}).chain(function(){this.showSubMenuComplete()}.bind(this))}}}else{if(this.options.effect==="fade"){if(A){this.myEffect.set({opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}else{if(this.options.effect=="slide & fade"){this.childMenu.setStyles({display:"block",visibility:"visible"});this.childMenu.getFirst().setStyles({left:0});if(this.subMenuType==="initial"&&this.options.orientation==="horizontal"){if(A){this.myEffect.set({"margin-top":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{this.myEffect.start({"margin-top":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}else{if(A){if(this.options.direction.x==="right"){this.myEffect.set({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.set({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}}else{if(this.options.direction.x==="right"){this.myEffect.set({"margin-left":-this.width,opacity:this.options.opacity});this.myEffect.start({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}else{if(this.options.direction.x==="left"){this.myEffect.start({"margin-left":0,opacity:this.options.opacity}).chain(function(){this.showSubMenuComplete()}.bind(this))}}}}}else{this.childMenu.setStyles({display:"block",visibility:"visible"}).chain(function(){this.showSubMenuComplete(this)}.bind(this))}}}this.childMenu.store("status","open")},showSubMenuComplete:function(){this.options.onShowSubMenu_complete(this)},positionSubMenu:function(){this.options.onPositionSubMenu_begin(this);this.childMenu.setStyle("width",this.width);this.childMenu.getFirst().setStyle("width",this.width);if(this.subMenuType==="subsequent"){if(this.parentSubMenu&&this.options.direction.x!=this.parentSubMenu.options.direction.x){if(this.parentSubMenu.options.direction.x==="left"&&this.options.effect&&this.options.effect.contains("slide")){this.myEffect.set({"margin-left":this.width})}}this.options.direction.x=this.parentSubMenu.options.direction.x;this.options.direction.xInverse=this.parentSubMenu.options.direction.xInverse;this.options.direction.y=this.parentSubMenu.options.direction.y;this.options.direction.yInverse=this.parentSubMenu.options.direction.yInverse}var C;var A;if(this.subMenuType=="initial"){if(this.options.direction.y==="up"){if(this.options.orientation==="vertical"){C=this.btn.getCoordinates().bottom-this.height+this.options.tweakInitial.y}else{C=this.btn.getCoordinates().top-this.height+this.options.tweakInitial.y}this.childMenu.style.top=C+"px"}else{if(this.options.orientation=="horizontal"){this.childMenu.style.top=this.btn.getCoordinates().bottom+this.options.tweakInitial.y+"px"}else{if(this.options.orientation=="vertical"){C=this.btn.getPosition().y+this.options.tweakInitial.y;if((C+this.childMenu.getSize().y)>=$(document.body).getScrollSize().y){A=(C+this.childMenu.getSize().y)-$(document.body).getScrollSize().y;C=C-A-20}this.childMenu.style.top=C+"px"}}}if(this.options.orientation=="horizontal"){this.childMenu.style.left=this.btn.getPosition().x+this.options.tweakInitial.x+"px"}else{if(this.options.direction.x=="left"){this.childMenu.style.left=this.btn.getPosition().x-this.childMenu.getCoordinates().width+this.options.tweakInitial.x+"px"}else{if(this.options.direction.x=="right"){this.childMenu.style.left=this.btn.getCoordinates().right+this.options.tweakInitial.x+"px"}}}}else{if(this.subMenuType=="subsequent"){if(this.options.direction.y==="down"){if((this.btn.getCoordinates().top+this.options.tweakSubsequent.y+this.childMenu.getSize().y)>=$(document.body).getScrollSize().y){A=(this.btn.getCoordinates().top+this.options.tweakSubsequent.y+this.childMenu.getSize().y)-$(document.body).getScrollSize().y;this.childMenu.style.top=(this.btn.getCoordinates().top+this.options.tweakSubsequent.y)-A-20+"px"}else{this.childMenu.style.top=this.btn.getCoordinates().top+this.options.tweakSubsequent.y+"px"}}else{if(this.options.direction.y==="up"){if((this.btn.getCoordinates().bottom-this.height+this.options.tweakSubsequent.y)<1){this.options.direction.y="down";this.options.direction.yInverse="up";this.childMenu.style.top=this.btn.getCoordinates().top+this.options.tweakSubsequent.y+"px"}else{this.childMenu.style.top=this.btn.getCoordinates().bottom-this.height+this.options.tweakSubsequent.y+"px"}}}if(this.options.direction.x=="left"){this.childMenu.style.left=this.btn.getCoordinates().left-this.childMenu.getCoordinates().width+this.options.tweakSubsequent.x+"px";if(this.childMenu.getPosition().x<0){this.options.direction.x="right";this.options.direction.xInverse="left";this.childMenu.style.left=this.btn.getPosition().x+this.btn.getCoordinates().width+this.options.tweakSubsequent.x+"px";if(this.options.effect==="slide"||this.options.effect==="slide & fade"){this.myEffect.set({"margin-left":-this.width,opacity:this.options.opacity})}}}else{if(this.options.direction.x=="right"){this.childMenu.style.left=this.btn.getCoordinates().right+this.options.tweakSubsequent.x+"px";var D=this.childMenu.getCoordinates().right;var B=document.getCoordinates().width+window.getScroll().x;if(D>B){this.options.direction.x="left";this.options.direction.xInverse="right";this.childMenu.style.left=this.btn.getCoordinates().left-this.childMenu.getCoordinates().width+this.options.tweakSubsequent.x+"px";if(this.options.effect==="slide"||this.options.effect==="slide & fade"){this.myEffect.set({"margin-left":this.width,opacity:this.options.opacity})}}}}}}this.options.onPositionSubMenu_complete(this)}});
+				var $ = document.id;
+				this.myMenu = new MenuMatic({ orientation:'vertical' });
+			})();
+		});
+		</script>
+		</div>
+						<div class=smalltext align=center>
+		<img border=0 width=128 height=6 src="http://www.tulsanationals.org/images/empty.gif"><br>
+								 		</div>
+		</td>
+		<td class="content" valign="top">
+													<div class="regtext"><div style="padding: 0px 0px 5px 0px;"><div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; COLOR: rgb(255,0,0); FONT-SIZE: 24pt; FONT-WEIGHT: bold">Welcome to the Tulsa Nationals Web Site</span></div>
+<div align="center"><span style="COLOR: rgb(255,0,0); FONT-SIZE: 24pt; FONT-WEIGHT: bold">&nbsp;</span></div>
+<div align="center"><span style="COLOR: #ff0000; FONT-SIZE: 24pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline"><img border="0" src="http://www.tulsanationals.org/images/images/1/0/logosquare.gif" alt="" /></span></div>
+<div align="center"><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 24pt; FONT-WEIGHT: bold"><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold">&nbsp;</span></span></div><span class="Apple-style-span" style="COLOR: #000000; FONT-SIZE: 24pt; FONT-WEIGHT: bold"><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold"><span style="COLOR: #ff0000; FONT-SIZE: 12pt"><span style="COLOR: #ff0000; FONT-SIZE: 12pt">
+				<div align="center"><span style="FONT-FAMILY: Trebuchet MS; FONT-SIZE: 14pt">&nbsp;</span></div><hr />
+				&nbsp;
+				<div align="center"><span style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #ff0000; FONT-SIZE: 24pt; FONT-WEIGHT: bold"><span style="COLOR: #ff0000"></span></span></div></span></span></span></span>
+<div align="center"><span style="font-family: Verdana;"><span style="font-size: 24pt; color: rgb(255, 0, 0);">Tulsa Open Training starts May 27th at 5:30</span><br />
+		</span></div>
+<div align="center"><span style="font-family: Verdana;">Contact team managers or Commissioner for team times.</span></div>
+<div>&nbsp;
+	<div>&nbsp;</div></div>
+<div>&nbsp;
+	<div align="center"><span style="font-family: Verdana;"><span style="font-size: 24pt; color: rgb(255, 0, 0);">Nationals 97 Boys looking for 97 and 98 players</span></span></div>
+	<div align="center"><span style="font-family: Verdana;"><span style="font-size: 24pt; color: rgb(255, 0, 0);">Training starts May 29th at 6:00</span><br />
+			</span></div>
+	<div align="center"><span style="font-family: Verdana;">Contact team manager or Commissioner for details.</span></div>
+	<div>&nbsp;</div></div><span class="Apple-style-span" style="COLOR: #000000; FONT-SIZE: 24pt; FONT-WEIGHT: bold"><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold"><span style="COLOR: #ff0000; FONT-SIZE: 12pt"><span style="COLOR: #ff0000; FONT-SIZE: 12pt">
+				<div align="center"><span style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #000080; FONT-SIZE: 18pt; FONT-WEIGHT: bold"><span style="COLOR: #000080; FONT-SIZE: 18pt">&nbsp;</span></span></div>
+				<div align="center"><span style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #000000; FONT-SIZE: 24pt; FONT-WEIGHT: bold"><span style="COLOR: #000000"><hr />
+							</span></span></div>
+				<div align="center"><span style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #000000; FONT-SIZE: 24pt; FONT-WEIGHT: bold"><span style="COLOR: #000000">Nationals Dominate&nbsp;Springfield!!</span></span> <span style="COLOR: #000000"></span></div></span></span></span></span>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; COLOR: #ff0000; FONT-SIZE: 24pt"><img width="515" height="300" border="0" src="http://www.tulsanationals.org/images/images/1/0/4-26-2013_9-02-50_am.jpg" alt="" style="WIDTH: 203px; HEIGHT: 202px" /></span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; COLOR: #ff0000; FONT-SIZE: 24pt">7 teams traveled and 4 trophies came home</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; FONT-SIZE: 14pt">99 Boys Black - Champions</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; COLOR: #ff0000; FONT-SIZE: 14pt">99 Boys Red - Finalists</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; FONT-SIZE: 14pt">00 Boys Black - Finalists</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; COLOR: #ff0000; FONT-SIZE: 14pt">02 Boys Black - Finalists</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; FONT-SIZE: 14pt">Way to go boys, we're proud of you!!</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS">&nbsp;</span></div>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS">&nbsp;</span></div><span style="FONT-FAMILY: Trebuchet MS">
+	<div align="center"><hr />
+		</div></span>
+<div align="center"><span style="FONT-FAMILY: Trebuchet MS; COLOR: #ff0000; FONT-SIZE: 18pt"><span style="FONT-FAMILY: Trebuchet MS; COLOR: #ff0000; FONT-SIZE: 18pt">&nbsp;</span></span></div>
+<div align="center"><span class="Apple-style-span" style="FONT-FAMILY: 'Trebuchet MS'; COLOR: rgb(0,0,205)"><br />
+		</span></div>
+<div align="center"><span class="Apple-style-span" style="FONT-FAMILY: Trebuchet MS; COLOR: #0000cd; FONT-WEIGHT: bold"><span class="Apple-style-span" style="FONT-FAMILY: Trebuchet MS; COLOR: #0000cd; FONT-SIZE: 18pt">Congratulations to our own Victor Moreland, 2012 OSA Hall of Fame Inductee!!</span></span></div>
+<div align="center"><span class="Apple-style-span" style="FONT-FAMILY: Trebuchet MS; COLOR: #0000cd; FONT-WEIGHT: bold"><span class="Apple-style-span" style="FONT-FAMILY: Trebuchet MS; COLOR: #0000cd; FONT-SIZE: 18pt">&nbsp;</span></span></div>
+<div align="center"><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold"><hr />
+		</span><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold"><br />
+		</span><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold"></span></div>
+<div align="center"><span class="Apple-style-span" style="FONT-FAMILY: Trebuchet MS; FONT-SIZE: 19px; FONT-WEIGHT: bold">Please use the links to the left to visit our&nbsp;</span> <span style="FONT-FAMILY: Trebuchet MS"><span class="Apple-style-span" style="FONT-FAMILY: Trebuchet MS; FONT-SIZE: 19px; FONT-WEIGHT: bold">team sites for specific news, photos and more.</span></span></div><span class="Apple-style-span" style="COLOR: rgb(255,0,0); FONT-SIZE: 19px; FONT-WEIGHT: bold">
+	<div align="center"><br />
+		</div>
+	<div align="center"><img border="0" src="http://www.tulsanationals.org/images/images/1/0/stick_figure_soccer_practice_150_clr_6086.gif" alt="" /></div>
+	<div align="center">&nbsp;</div></span></div></div><div class=smalltext> </div><div style="padding: 0px 0px 5px 0px;"><div class=blogtitle></div><table width=100% border=0 cellspacing=0 cellpadding=1>
+			<tr>
+				<td width=10% valign=top align=left>
+<table class=list width=180 border=0 cellspacing=0 cellpadding=0>
+<tr>
+	<td colspan=1 class=smalltext>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr class=smalltext>
+				<td><img border=0 src="/images/databoxes/header3_left.gif"></td>
+				<td nowrap background="/images/databoxes/header3_left_back.gif"><b>Current Weather</b></td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_center.gif"></td>
+				<td width=100% style="background-image: url(/images/databoxes/header3_right_back.gif); background-repeat: repeat-x; background-position: bottom left;" >&nbsp;</td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_right.gif"></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+	<tr>
+		<td class=list1 align=center><script src='http://voap.weather.com/weather/oap/74119?template=GENXH&par=null&unit=0&key=e2c8f48f256187849ececb1b5a48bb64'></script></td>
+	</tr>
+
+</table>
+				</td>
+				<td width=1%><div width='10px'> <!--force spacing--></div></td>
+				<td width=100% valign=top align=right>
+<table class=list width=100% border=0 cellspacing=0 cellpadding=0>
+<tr>
+	<td colspan=1 class=smalltext>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr class=smalltext>
+				<td><img border=0 src="/images/databoxes/header3_left.gif"></td>
+				<td nowrap background="/images/databoxes/header3_left_back.gif"><b>News Feeds</b></td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_center.gif"></td>
+				<td width=100% style="background-image: url(/images/databoxes/header3_right_back.gif); background-repeat: repeat-x; background-position: bottom left;" >&nbsp;</td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_right.gif"></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+	<tr>
+		<td class=list1>
+<div><b>SI.com</b></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://soccer.si.com/soccer/planet-futbol/2014/06/24/uruguay-italy-world-cup-luis-suarez-bite-three-thoughts?xid=si_topstories">Uruguay eliminates Italy; Did Suarez bite again?</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://sportsillustrated.cnn.com/nba/news/20140624/report-heat-forward-lebron-james-to-opt-out-of-deal-become-free-agent/?xid=si_topstories">Report: Heat forward LeBron James to opt out of deal, become free agent</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://www.si.com/nba/2014/06/24/2014-nba-mock-draft-andrew-wiggins-jabari-parker-joel-embiid?xid=si_topstories">NBA Mock Draft: Another change at the top</a></div>
+<div><b>CNN.com - Top Stories</b></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/sjB7TOdhuUE/index.html">Soldier was freed in May prisoner swap with Taliban</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/HGSeHmmSNkI/index.html">Audio pulled from Germanwings black box</a></div>
+<div>&nbsp;&#8226;&nbsp;&nbsp;<a target=_blank href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/B3RjMLb3aBw/index.html">Zayn Malik leaving One Direction</a></div>
+		</td>
+	</tr>
+
+</table>
+				</td>
+			</tr>
+		</table>
+</div><div class=smalltext> </div><div style="padding: 0px 0px 5px 0px;"><div>
+
+<div align="center">&nbsp;</div>
+
+<div align="center"><strong>
+		<span style="FONT-SIZE: 14pt; COLOR: #bb1d2e">
+			<span style="FONT-SIZE: 10pt">&nbsp;</span></span></strong></div>
+
+<div align="center"><strong>
+		<span style="FONT-SIZE: 14pt; COLOR: #bb1d2e">
+			<span style="FONT-SIZE: 10pt"><a title="Nationals Website Question" href="mailto:webmaster@tulsanationals.org">
+					<img style="WIDTH: 130px; HEIGHT: 59px" height="51" alt="" src="/images/images/1/0/email.gif" width="100" border="0" /></a></span></span></strong></div>
+
+<div align="center"><strong>
+		<span style="FONT-SIZE: 12pt; COLOR: #bb1d2e">
+			<span style="FONT-SIZE: 12pt"><a title="Nationals Website Question" href="mailto:webmaster@tulsanationals.org">Email Webmaster</a></span></span></strong></div></div></div><div class=smalltext> </div></div>
+										<div class="smalltext"> </div>
+					<table width=100% border=0 cellspacing=0 cellpadding=0>
+	<tr>
+		<td class=smalltext align=center>
+						
+
+<p>&nbsp;</p>		</td>
+	</tr>
+	<tr>
+		<td><img border=0 width=12 height=10 src="/images/empty.gif"></td>
+	</tr>
+</table>
+															<div class="smalltext" align="center">
+					<img border=0 src="http://www.tulsanationals.org/images/counters/1/7.gif"><img border=0 src="http://www.tulsanationals.org/images/counters/1/2.gif"><img border=0 src="http://www.tulsanationals.org/images/counters/1/5.gif"><img border=0 src="http://www.tulsanationals.org/images/counters/1/8.gif"><img border=0 src="http://www.tulsanationals.org/images/counters/1/1.gif"><img border=0 src="http://www.tulsanationals.org/images/counters/1/5.gif">					</div>
+					<div class="smalltext" align="center"><i>visitors since 09/28/2006</i></div>
+					<div class="smalltext"> </div>
+										</td>
+				<td width="1%" class="rightback" valign="top">
+				<img border="0" width="1" height="10" src="http://www.tulsanationals.org/images/empty.gif"><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td valign="top" align="center" class="smalltext">
+										<img border="0" width="130" height="10" src="http://www.tulsanationals.org/images/empty.gif" alt=""><br>
+	<table class=list align=center width=100% cellpadding=0 cellspacing=0>
+		<tr>
+	<td colspan=1 class=smalltext>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr class=smalltext>
+				<td><img border=0 src="/images/databoxes/header3_left.gif"></td>
+				<td nowrap background="/images/databoxes/header3_left_back.gif"><b>Today's Games</b></td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_center.gif"></td>
+				<td width=100% style="background-image: url(/images/databoxes/header3_right_back.gif); background-repeat: repeat-x; background-position: bottom left;" >&nbsp;</td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_right.gif"></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+		<tr>
+			<td class=whiteback>
+				<div  style="background : #ffffff; color : #000000; border: 1px solid #999999; width : 100%; height : 150px; overflow : auto; ">
+				<table align=center width=100% cellpadding=1 cellspacing=0>
+										<tr>
+						<td class=polltext>No games today.</td>
+					</tr>
+									</table>
+				</div>
+			</td>
+		</tr>
+		
+	</table>
+	<div class=smalltext align=right><a href="schedule.php"><b>full schedule...</b></a>&nbsp;</div>
+													<img border="0" width="130" height="15" src="http://www.tulsanationals.org/images/empty.gif"><br>
+<table class="list" align="center" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+	<td colspan=1 class=smalltext>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr class=smalltext>
+				<td><img border=0 src="/images/databoxes/header3_left.gif"></td>
+				<td nowrap background="/images/databoxes/header3_left_back.gif"><b>Upcoming&nbsp;Games</b></td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_center.gif"></td>
+				<td width=100% style="background-image: url(/images/databoxes/header3_right_back.gif); background-repeat: repeat-x; background-position: bottom left;" >&nbsp;</td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_right.gif"></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td class=list1><span class=polltext>No games scheduled.</span></td>
+</tr>
+
+</table>
+<div class="smalltext" align="right"><a href="schedule.php"><b>full schedule...</b></a>&nbsp;</div>
+						
+										<img border=0 width=130 height=15 src="http://www.tulsanationals.org/images/empty.gif"><br>
+<table class=list align=center width=100% cellpadding=0 cellspacing=0>
+		<tr>
+	<td colspan=1 class=smalltext>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr class=smalltext>
+				<td><img border=0 src="/images/databoxes/header3_left.gif"></td>
+				<td nowrap background="/images/databoxes/header3_left_back.gif"><b>Upcoming&nbsp;Practices</b></td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_center.gif"></td>
+				<td width=100% style="background-image: url(/images/databoxes/header3_right_back.gif); background-repeat: repeat-x; background-position: bottom left;" >&nbsp;</td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_right.gif"></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+		<tr>
+	<td class=list1><span class=polltext>No practices scheduled.</span></td>
+</tr>
+	
+</table>
+<div class=smalltext align=right><a href="schedule.php"><b>full schedule...</b></a>&nbsp;</div>
+						
+										<img border=0 width=130 height=15 src="http://www.tulsanationals.org/images/empty.gif"><br>
+<table class=list align=center width=100% cellpadding=0 cellspacing=0>
+		<tr>
+	<td colspan=1 class=smalltext>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+			<tr class=smalltext>
+				<td><img border=0 src="/images/databoxes/header3_left.gif"></td>
+				<td nowrap background="/images/databoxes/header3_left_back.gif"><b>Upcoming&nbsp;Events</b></td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_center.gif"></td>
+				<td width=100% style="background-image: url(/images/databoxes/header3_right_back.gif); background-repeat: repeat-x; background-position: bottom left;" >&nbsp;</td>
+				<td valign=bottom><img border=0 src="/images/databoxes/header3_right.gif"></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+		<tr>
+	<td class=list1><span class=polltext>No events scheduled.</span></td>
+</tr>
+	
+</table>
+<div class=smalltext align=right><a href="calendar.php"><b>view calendar...</b></a>&nbsp;</div>
+								</td>
+	</tr>
+	</table>
+<img border="0" width="12" height="10" src="http://www.tulsanationals.org/images/empty.gif">
+		</td>
+			</tr>
+</table>
+<div class="footerdiv">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="6" class="footer" align="right"><img border="0" width="6" height="20" src="http://www.tulsanationals.org/images/empty.gif"></td>
+		<td width="50%" class="footer"><a href="http://www.leagueusa.com" target="qqq">Powered by &raquo; LeagueUSA / Vicid.com&nbsp;&nbsp;<small>&copy;</small>&nbsp;2015</a></td>
+		<td width="50%" class="footer" align="right"><a href="http://www.vicid.com/privacy.php" target="qqq">Privacy</a>&nbsp;&nbsp;::&nbsp;&nbsp;<a href="http://www.vicid.com/terms.php" target="qqq">Terms&nbsp;of&nbsp;Use</a></td>
+		<td width="6" class="footer" align="right"><img border="0" width="6" height="20" src="http://www.tulsanationals.org/images/empty.gif"></td>
+	</tr>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>

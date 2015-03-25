@@ -1,0 +1,521 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/RegistrationTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/ImageRotatorTrinket/style.css,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/HeadlineScrollerTrinket/style.css,/sam/admin/include/css/jqueryUI/ui.generic.css,/sam/admin/include/trinkets/AnnouncementsTrinket/style.css" /><script src="http://www.twinfallsrapids.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/scripts/jquery.ui.all.min.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js,/sam/admin/include/trinkets/HeadlineScrollerTrinket/trinket.js,/sam/admin/include/trinkets/AnnouncementsTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13203" ><li id="mb-76099" class=" cmFirst "><a class="button-text" href="/home.php?layout=307941" style="" target="_top">Home Page</a><span class="iefix">&nbsp;</span></li><li id="mb-76110" class="parent  "><span style="" class="button-text">About Us</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76113" class=" cmFirst "><a class="button-text" href="/home.php?layout=307965" style="" target="_top">Mission</a><span class="iefix">&nbsp;</span></li><li id="mb-78054" class="  "><a class="button-text" href="/doclib/TFSA Handbook 2013-2014.pdf" style="" target="_blank">TF Rapids Handbook</a><span class="iefix">&nbsp;</span></li><li id="mb-76106" class="  "><a class="button-text" href="/home.php?layout=307954" style="" target="_top">Board Members</a><span class="iefix">&nbsp;</span></li><li id="mb-76109" class="  "><a class="button-text" href="/home.php?layout=307959" style="" target="_top">Coaches</a><span class="iefix">&nbsp;</span></li><li id="mb-76111" class="  "><a class="button-text" href="/fields" style="" target="_top">Fields/Facilities</a><span class="iefix">&nbsp;</span></li><li id="mb-76100" class="  "><a class="button-text" href="/sponsors" style="" target="_top">Rapids Sponsors</a><span class="iefix">&nbsp;</span></li><li id="mb-76107" class="  cmLast"><a class="button-text" href="/home.php?layout=307955" style="" target="_top">Contact Us</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76101" class="parent  "><span style="" class="button-text">Registration</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-78217" class=" cmFirst "><a class="button-text" href="/home.php?layout=313938" style="" target="_top">REGISTRATION FAQS</a><span class="iefix">&nbsp;</span></li><li id="mb-78211" class="  "><a class="button-text" href="/doclib/TFSA Handbook 2014-2015.pdf" style="" target="_blank">TF Rapids Handbook</a><span class="iefix">&nbsp;</span></li><li id="mb-76102" class="  "><a class="button-text" href="/home.php?layout=307949" style="" target="_top">General Information</a><span class="iefix">&nbsp;</span></li><li id="mb-76137" class="  "><a class="button-text" href="/home.php?layout=308014" style="" target="_top">Payment Information</a><span class="iefix">&nbsp;</span></li><li id="mb-76104" class="  "><a class="button-text" href="/home.php?layout=307951" style="" target="_top">Creating a Member Account</a><span class="iefix">&nbsp;</span></li><li id="mb-76103" class="  "><a class="button-text" href="/home.php?layout=307950" style="" target="_top">Coach, Manager, Volunteer Registration</a><span class="iefix">&nbsp;</span></li><li id="mb-76105" class="  "><a class="button-text" href="/home.php?layout=307952" style="" target="_top">Parent Committment</a><span class="iefix">&nbsp;</span></li><li id="mb-78212" class="  "><a class="button-text" href="/doclib/Rapids 2014-2015 Ind_sponsor form.pdf" style="" target="_blank">Sponsorship Form</a><span class="iefix">&nbsp;</span></li><li id="mb-78213" class="  "><a class="button-text" href="/doclib/Scholarship App-Contract 5-20-2014.pdf" style="" target="_blank">Scholarship Application</a><span class="iefix">&nbsp;</span></li><li id="mb-78214" class="  "><a class="button-text" href="/doclib/Parent-Player Code of Conduct 5-20-2014.pdf" style="" target="_blank">Player-Parent Code of Conduc</a><span class="iefix">&nbsp;</span></li><li id="mb-78215" class="  "><a class="button-text" href="/doclib/Coaches COC-Contract 5-20-14.pdf" style="" target="_blank">Coach's Code of Conduct/Contract</a><span class="iefix">&nbsp;</span></li><li id="mb-78216" class="  cmLast"><a class="button-text" href="/doclib/Board of Directors Code of Conduct 5-20-14.pdf" style="" target="_blank">Board of Directors Code of Conduct</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77694" class="parent  "><span style="" class="button-text">League Schedules</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-196639" class=" cmFirst "><a class="button-text" href="/home.php?layout=871273" style="" target="_top">Spring 2015 Practice Schedule</a><span class="iefix">&nbsp;</span></li><li id="mb-196627" class="  "><a class="button-text" href="/home.php?layout=871272" style="" target="_top">March 7 Exchange Schedule</a><span class="iefix">&nbsp;</span></li><li id="mb-196657" class="parent  cmLast"><a class="button-text" href="/doclib/Rapids Spring 2015 D3 Schedule Sort by Team.pdf" style="" target="_blank">Spring 2015 D3 Schedule Summary</a><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-196658" class=" cmFirst cmLast"><a class="button-text" href="http://events.gotsport.com/events/Default.aspx?EventID=44216" style="" target="_blank">IYSA Link to D3 Schedules</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76125" class="parent  "><span style="" class="button-text">Rapids Store</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76126" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=307978" style="" target="_top">Uniform & Logo Merchandise Order Site</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76694" class="parent  "><span style="" class="button-text">Summer Camp</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-187509" class=" cmFirst cmLast"><a class="button-text" href="/home.php?layout=812670" style="" target="_top">Rapids Summer Soccer</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76120" class="parent  "><span style="" class="button-text">Canyon Rim Classic Tournament</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76121" class=" cmFirst "><a class="button-text" href="/home.php?layout=307972" style="" target="_top">General Information</a><span class="iefix">&nbsp;</span></li><li id="mb-78109" class="  "><a class="button-text" href="/home.php?layout=313555" style="" target="_top">Team Check In </a><span class="iefix">&nbsp;</span></li><li id="mb-76124" class="  cmLast"><a class="button-text" href="/home.php?layout=307975" style="" target="_top">Special Event Information</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76732" class="parent  "><span style="" class="button-text">Coaching Resources</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76132" class=" cmFirst "><a class="button-text" href="/home.php?layout=307987" style="" target="_top">Great Coaching Links</a><span class="iefix">&nbsp;</span></li><li id="mb-76133" class="  cmLast"><a class="button-text" href="/home.php?layout=307990" style="" target="_top">iSoccer</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-77695" class="parent  "><span style="" class="button-text">Member Resources</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-76128" class=" cmFirst "><a class="button-text" href="/home.php?layout=307982" style="" target="_top">College Recruiting</a><span class="iefix">&nbsp;</span></li><li id="mb-76129" class="  "><a class="button-text" href="/home.php?layout=307984" style="" target="_top">BonziTeam Help</a><span class="iefix">&nbsp;</span></li><li id="mb-76135" class="  "><a class="button-text" href="/home.php?layout=307998" style="" target="_top">Concussion Information</a><span class="iefix">&nbsp;</span></li><li id="mb-76112" class="  cmLast"><a class="button-text" href="/calendar" style="" target="_top">Calendar</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-76108" class="  cmLast"><a class="button-text" href="/home.php?layout=307958" style="" target="_top">Olympic Development Program</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<ul class="reg-tkt-list"><li class="reg-tkt-event"><span class="reg-tkt-event-title">Micro [CoEd U4-U9] Spring 2015 Athletes</span><p class="reg-tkt-event-description"></p><a href="https://www.secure-sam.com/www.twinfallsrapids.com/sam/registration/login.php?regEventID=NDkyMTM=&regPathPrefix=multiple" class="reg-tkt-event-register">Register Now</a><li class="reg-tkt-event"><span class="reg-tkt-event-title">Rapids Spring 2015 Coach/Manager</span><p class="reg-tkt-event-description"></p><a href="https://www.secure-sam.com/www.twinfallsrapids.com/sam/registration/login.php?regEventID=NDkyMTU=&regPathPrefix=coach" class="reg-tkt-event-register">Register Now</a></ul><div class="reg-tkt-help">If you have questions or problems, please read our <a href="/sam/registration/reg_help.php">Troubleshooting Guide</a>.</div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Order Uniforms Here					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><div style="text-align: center;">
+  <span style="font-size: 8pt;"><em><strong>Click on logo to order uniform</strong></em></span>
+</div>
+<div style="text-align: center;">
+  <a href="https://idahosoccercenter.com/register"><span style="font-size: 10pt;"><em><strong><img src="http://www.twinfallsrapids.com/imagedata/idahosoccercenter.jpg" border="0"
+  width="135" height="112" /></strong></em></span></a>
+</div>
+<div style="text-align: center;">
+  <strong>RAPIDS UNIFORMS &amp; GEAR</strong>
+</div>
+<div style="text-align: center;">
+  <span style="background-color: #0000ff; color: #ffffff;"><em><span style="background-color: #0000ff;"><strong><a href="http://www.twinfallsrapids.com/home.php?layout=307978"><span style=
+  "color: #ffffff;">Rapids Store</span></a></strong></span></em></span>
+</div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Rapids Sponsors					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/Chobani_logo.jpg" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/IYSA_new_logo.png" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/USYS_Logo.jpg" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/Donnelley_logo.jpg" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/Apex_Logo.jpg" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/JUB_Logo.jpg" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/fivefishpress_logo.jpg" /></div><div class="slide"><img src="http://www.twinfallsrapids.com/imagedata/STarchione.jpg" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Events Calendar					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-808451776" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.twinfallsrapids.com/imagedata/Chobani_logo.jpg" border="0" width="389" height="166" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="HeadlineScrollerTrinket"><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=PKarl_1_600x300_1100_0_681_0.jpg) left no-repeat;" title="Peyton Karl Signing Day!!! | Peyton will play soccer for University of St. Mary in Kansas"><div class="pe-hst-slidelabel"><h2>Peyton Karl Signing Day!!!</h2><p><span>Peyton will play soccer for University of St. Mary in Kansas</span> <span class="divider">|</span> <a href="http://magicvalley.com/eedition/page-b/page_391fba1a-eaea-5b7d-9e39-1ad00a1b3c39.html" class="">http://magicvalley.com/eedition/page-b/page_391fba1a-eaea-5b7d-9e39-1ad00a1b3c39.html</a></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=MMarcellus_600x300_1000_0_1000_0.jpg) left no-repeat;" title="Mehli Marcellus Signing Day!!! | Mehli will play soccer at Wesleyan College in N. Carolina"><div class="pe-hst-slidelabel"><h2>Mehli Marcellus Signing Day!!!</h2><p><span>Mehli will play soccer at Wesleyan College in N. Carolina</span> <span class="divider">|</span> <a href="http://magicvalley.com/eedition/page-b/page_391fba1a-eaea-5b7d-9e39-1ad00a1b3c39.html" class="">http://magicvalley.com/eedition/page-b/page_391fba1a-eaea-5b7d-9e39-1ad00a1b3c39.html</a></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=STarchione_600x300_128_0_384_0.jpg) left no-repeat;" title="Sabrina Tarchione Signing Day!!! | Sabrina will play soccer at Northwestern College in Iowa"><div class="pe-hst-slidelabel"><h2>Sabrina Tarchione Signing Day!!!</h2><p><span>Sabrina will play soccer at Northwestern College in Iowa</span> <span class="divider">|</span> <a href="http://magicvalley.com/eedition/page-b/page_391fba1a-eaea-5b7d-9e39-1ad00a1b3c39.html" class="">http://magicvalley.com/eedition/page-b/page_391fba1a-eaea-5b7d-9e39-1ad00a1b3c39.html</a></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=U14G_BSU_7v7_600x300_517_0_233_0.jpg) left no-repeat;" title="TF Rapids U14G BSU 7v7 | "><div class="pe-hst-slidelabel"><h2>TF Rapids U14G BSU 7v7</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=rapids_sponsor_thank_you_pic_600x300_165_0_82_0.jpg) left no-repeat;" title="TF Rapids Micro Teams | "><div class="pe-hst-slidelabel"><h2>TF Rapids Micro Teams</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=U11G_Gem_State_Champs_2014_600x300_78_0_82_0.jpg) left no-repeat;" title="TF Rapids U11G Gem State Champions!!! | "><div class="pe-hst-slidelabel"><h2>TF Rapids U11G Gem State Champions!!!</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=2014_U12G_Directors_Cup_Champions_600x300_324_0_700_0.jpg) left no-repeat;" title="                         TF Rapids U12G Director's Cup Champions!!! | "><div class="pe-hst-slidelabel"><h2>                         TF Rapids U12G Director's Cup Champions!!!</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=U10G_Gem_State_2104_600x300_106_0_533_0.jpg) left no-repeat;" title="TF Rapids U10G Finalists @ Gem State | "><div class="pe-hst-slidelabel"><h2>TF Rapids U10G Finalists @ Gem State</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=2014_U10B_Gold_Directors_Cup_Champions_600x300_153_0_597_0.jpg) left no-repeat;" title="TF Rapids U10B Gold Director's Cup CHAMPIONS!!! | "><div class="pe-hst-slidelabel"><h2>TF Rapids U10B Gold Director's Cup CHAMPIONS!!!</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=TFR_U11G_Fall_2014_600x300_109_0_51_0.jpg) left no-repeat;" title="TF Rapids U11G Fall 2014 | "><div class="pe-hst-slidelabel"><h2>TF Rapids U11G Fall 2014</h2><p><span></span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=EHenrickson_SHoffman_JClark_11_2014_600x300_56_0_694_0.jpg) left no-repeat;" title="Rapids Boys Compete in Top D2 Conference | Eric Henrickson Sr @ Adams's State, Shane Hoffman, Josh Clark Fresh @ Colorado School of Mines"><div class="pe-hst-slidelabel"><h2>Rapids Boys Compete in Top D2 Conference</h2><p><span>Eric Henrickson Sr @ Adams's State, Shane Hoffman, Josh Clark Fresh @ Colorado School of Mines</span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=THaman_NIC_2014_new_600x300_49_0_151_0.jpg) left no-repeat;" title="Rapids Player Taylor Haman Competes for NIC | NIc is 16-1-2 for the season!"><div class="pe-hst-slidelabel"><h2>Rapids Player Taylor Haman Competes for NIC</h2><p><span>NIc is 16-1-2 for the season!</span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=Josh_RMAC_Champ__All_Conf_Team_2014_600x300_630_0_1245_0.jpeg) left no-repeat;" title="Rapids Player Makes All Tournament Team | Colorado School of Mines wins RMAC tournament on overtime stops by Rapids' Josh Clark"><div class="pe-hst-slidelabel"><h2>Rapids Player Makes All Tournament Team</h2><p><span>Colorado School of Mines wins RMAC tournament on overtime stops by Rapids' Josh Clark</span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=DGeske_NIC_2014_600x300_38_0_8_0.jpg) left no-repeat;" title="Rapids David Geske Competes for NIC | NIC is 16-1-2 for the season!"><div class="pe-hst-slidelabel"><h2>Rapids David Geske Competes for NIC</h2><p><span>NIC is 16-1-2 for the season!</span></p></div></div><div class="pe-hst-item" style="background:url(http://www.twinfallsrapids.com/sam/admin/images/image.php?f=EPackham_CI_2014_new_600x300_66_0_134_0.jpg) left no-repeat;" title="Rapids Ellie Packham Competes for Cof I | College of Idaho is 4-2-3 for the season!"><div class="pe-hst-slidelabel"><h2>Rapids Ellie Packham Competes for Cof I</h2><p><span>College of Idaho is 4-2-3 for the season!</span></p></div></div><div class="pe-hst-pager"><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a></div></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						 					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="color: #993366;"><strong><span style="font-size: 18pt;">4 TF Rapids Athletes Selected to ODP Championship Teams!</span></strong></span>
+</p>
+<p>
+  <span style="font-size: 12pt;">The boys will compete with their ODP Championship team at the Region IV Championships to be held in Phoeniz, AZ in January. Congratulations Caden, Rigo, Tairan, and
+  Leo</span>
+</p>
+<p>
+  <img src="http://www.twinfallsrapids.com/imagedata/CZierenberg_ODP.jpg" border="0" width="146" height="194" /><img src=
+  "http://www.twinfallsrapids.com/imagedata/RGarcia_ODP.jpg" border="0" width="110" height="195" /><img src=
+  "http://www.twinfallsrapids.com/imagedata/TSmith_ODP.jpg" border="0" width="148" height="195" /><img src=
+  "http://www.twinfallsrapids.com/imagedata/LTriana_ODP.jpg" border="0" width="146" height="195" />
+</p>
+<div>
+  <span style="font-size: 10pt;">Caden Zierenberg...............Rigo Garcia...,,,.....,,,,Tairan Smith.......................Leo Triana</span>
+</div>
+<div>
+  <span style="font-size: 10pt;">.....2002/2003...........................2001.................</span>...........2001......................................2000
+</div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Competition Updates					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: left; padding-left: 150px;">
+  <span style="color: #000000; font-size: large;"><strong>COMPETITION UPDATE:</strong></span>
+</p>
+<address style="text-align: center;">
+   
+</address>
+<address>
+   
+</address>
+<address style="padding-left: 180px;">
+  <span style="font-size: 12pt; color: #0000ff; background-color: #ffff00;"><strong><em>GEM STATE 2014</em></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="font-size: 12pt; color: #0000ff; background-color: #ffff00;"><strong><em>TF Rapids U12G Champions</em></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="font-size: 12pt; color: #0000ff; background-color: #ffff00;"><strong><em>TF Rapids U11G Champions</em></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="font-size: 12pt; color: #0000ff; background-color: #ffff00;"><strong><em>TF Rapids U10G Finalists</em></strong></span>
+</address>
+<address>
+  .
+</address>
+<address style="padding-left: 210px;">
+   
+</address>
+<address>
+  .
+</address>
+<address style="padding-left: 180px;">
+  <span style="color: #ffff00; font-size: 12pt; background-color: #0000ff;"><strong>STATE CUP 2014<br /></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="color: #ffff00; font-size: 12pt; background-color: #0000ff;"><strong>TF Rapids U18B 3rd</strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="color: #ffff00; font-size: 12pt; background-color: #0000ff;"><strong>TF Rapids U18G 3rd</strong></span>
+</address>
+<address style="padding-left: 180px;">
+  .
+</address>
+<address style="padding-left: 240px;">
+   
+</address>
+<address style="padding-left: 240px;">
+   
+</address>
+<address style="padding-left: 180px;">
+  <span style="background-color: #ffff00; color: #0000ff;"><strong><span style="font-size: 12pt;"><em>DIRECTOR'S CUP 2014</em></span></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="background-color: #ffff00; color: #0000ff;"><strong><span style="font-size: 12pt;"><em>TF Rapids U12G Champions</em></span></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="background-color: #ffff00; color: #0000ff;"><strong><span style="font-size: 12pt;"><em>TF Rapids U10B Gold Champions</em></span></strong></span>
+</address>
+<address style="padding-left: 180px;">
+  <span style="background-color: #ffff00; color: #0000ff;"><strong><span style="font-size: 12pt;"><em>TF Rapids U10G United 2nd</em></span></strong></span>
+</address>
+<address style="padding-left: 150px;">
+  <span style="background-color: #ffffff; color: #000000; font-size: 8pt;"><strong><em>.</em></strong></span>
+</address>
+<address style="text-align: center;">
+   
+</address>
+<address style="text-align: center;">
+   
+</address>
+<p>
+   
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.twinfallsrapids.com/imagedata/2015_logo.jpg" border="0" width="218" height="187" />
+</p>
+<div style="text-align: center;">
+  <span style="font-size: 12pt; color: #008080;"><a href="http://www.twinfallsrapids.com/home.php?layout=307972"><span style="color: #008080;"><strong>CRC 2015 Information</strong></span></a></span>
+</div>
+<div style="text-align: center;">
+  <span style="font-size: 10pt; color: #008080;"><span style="color: #008080;"><strong>Registration Deadline: March 20</strong></span></span>
+</div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Club Announcements					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<ul class="at-AnnouncementsTrinket RT_RssFeed"><li class="item ann-text">
+<h3>End of Season Party</h3><span class="date">Posted March 18, 2015</span><div class="at-content"><p><span style="font-size: 12pt;">Members,</span></p>
+<p><span style="font-size: 12pt;">I know the spring season is just getting started but we want you to mark the date for our End of Season Party---&gt; June 4, 6:00-8:00 @ Canyon Crest Event Center. &nbsp;The cost, including dinner, is $10/person. &nbsp;Look for an email inviting you to login and register/pay online in the next couple of weeks. &nbsp;Don't forget to send pics to your manager for the End of Season video show. &nbsp;GO RAPIDS!!!</span></p></div></li>
+</ul>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <strong><span style="font-size: 12pt;">Slide show:</span></strong>
+</p>
+<table id="yui_3_16_0_1_1424709835142_37079" style="margin-left: auto; margin-right: auto;">
+  <tbody id="yui_3_16_0_1_1424709835142_37078">
+    <tr id="yui_3_16_0_1_1424709835142_37077" align="left">
+      <td id="yui_3_16_0_1_1424709835142_37076" class="yiv0612645157title" align="left" valign="top">
+        <span style="color: #0000ff;"><strong><span style="font-size: 14pt;"><a name="yui_3_16_0_1_1424709835142_37075" href=
+        "http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkVAbGXgoTj0ershuz7-2BDjtOJTeKCk0AWheZxtFADOUT3uSHrzNFolKqVV7o1pgwdltOmZa4bPba19wO9PoK3f4GScI7IanRh1fBS1k1IAu9NyDbiyegi-2FK09R91jfvDn5tGtbnYqXUy5xa1z1MlYR12KMDMbXhXc2kHtfO4y8UYBQHcAgTrKPY0OJkujpQfSJJHPCVEwQ4kW-2BDPOJ7Y8Nls-3D_o-2FYjYBAUKrAlIolTYJRePsltFXHbrCE1itwJb2gARJWgw24CZra3yYufjrQ2EvgW23Yu1PyCqsb05sZuRpyr6hfmyk7Wp8yKl7-2BQHmrKaKmgRHvpYe7b9dO9eqkOVn5rjYRj9dbrBPEQ04BiBx6X-2Fb61qISdB4FY5gP7W0vjqS8F1gPGkBZp7d06vboSAVaxNxEw8amA7Lf1PyoneUEqGjeEJqpX5hmupKmFDfMl1HI-2BRsaD9HFUgP5cNCcYTv1JU-2B-2Bw0itRa6tKLKpkj27cdn0tSAwSULc7RZO-2BQcjQPhvvoAK0gAKX8uee345JExcbww1jEvKqReR-2FGGTfkh5ziZvPmrcUwDDxhi-2F3PYYqC7yikwxEWWCGGgTYImTSeSRR"
+        target="_blank" id="yui_3_16_0_1_1424709835142_37075"><span style="color: #0000ff;">10 Ways to Respect Your Opponent</span></a></span></strong></span>
+      </td>
+    </tr>
+  </tbody>
+</table></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-size: 12pt;"><strong>Congratulations to Pete Hillman IYSA Boys Competitive Coach of the Year!</strong></span>
+</p>
+<p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.twinfallsrapids.com/imagedata/Pete_Hillman.jpg" border="0" width="119" height="152" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Referee Information					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  Interested in becoming a referee? Have questions about clinics or refereeing opportunities?
+</p>
+<address class="MsoNormal">
+  <span style="mso-fareast-font-family: 'Times New Roman';"><strong>Contact John Jacobson</strong><br /></span>
+</address>
+<address class="MsoNormal">
+  <span style="mso-fareast-font-family: 'Times New Roman';">208-731-3178</span>
+</address>
+<address class="MsoNormal">
+  <span style="mso-fareast-font-family: 'Times New Roman';"><a href="mailto:jljacobson1@gmail.com">jljacobson1@gmail.com</a></span>
+</address>
+<address class="MsoNormal">
+   
+</address>
+<address class="MsoNormal">
+  .
+</address>
+<address class="MsoNormal">
+  <strong><span style="mso-fareast-font-family: 'Times New Roman';">Referee Websites</span></strong>
+</address>
+<address class="MsoNormal">
+  <a href="http://idahosoccerrefs.org/clinics/"><span style="mso-fareast-font-family: 'Times New Roman';">http://idahosoccerrefs.org/clinics/</span></a>
+</address>
+<address class="MsoNormal">
+  <a href="http://idahosoccerrefs.org/"><span style="mso-fareast-font-family: 'Times New Roman';">http://idahosoccerrefs.org/</span></a>
+</address></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " ><img src="/cm/layout/images/bonzi_logo.png" alt="Internet Team Registration by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Twin Falls Soccer Association. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " >Soccer League Site </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

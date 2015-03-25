@@ -1,0 +1,610 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="CACHE">
+<title>Clinton Football Club</title>
+
+<script type="text/javascript">
+ var BASE_URL = "http://www.clintonsoccerclub.org/";
+ var base_url = "http://www.clintonsoccerclub.org/";
+</script>
+<link href="http://www.clintonsoccerclub.org/resources/css/style.css?random=501898955" rel="stylesheet" type="text/css" />
+<script src="http://www.clintonsoccerclub.org/resources/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+<link href="http://www.clintonsoccerclub.org/resources/plugins/jquery-ui-1.10.1.custom/css/eggplant/jquery-ui-1.10.1.custom.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/jquery-ui-1.10.1.custom/js/jquery-ui-1.10.1.custom.min.js">
+</script>
+<!-- jquery cycle -->
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/cycle/jquery.cycle.all.js"></script>
+<!-- jquery carousel lite -->
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/jcarousellite/jcarousellite_1.0.1.js"></script>
+<!-- block ui -->
+<script src="http://www.clintonsoccerclub.org/resources/plugins/block/blockUI.js" type="text/javascript"></script>
+<link href="http://www.clintonsoccerclub.org/resources/plugins/block/blockUI.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/validate/js/jquery.validationEngine-es.js"></script>
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/validate/js/jquery.validationEngine.js"></script>
+<link href="http://www.clintonsoccerclub.org/resources/plugins/validate/css/validationEngine.jquery.css" rel="stylesheet" type="text/css" /><!-- lightbox -->
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/jquery-lightbox-0.5/js/jquery.lightbox-0.5.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.clintonsoccerclub.org/resources/plugins/jquery-lightbox-0.5/css/jquery.lightbox-0.5.css" media="screen" />
+<!-- superfish -->
+<script type="text/javascript" src="http://www.clintonsoccerclub.org/resources/plugins/superfish/js/superfish.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.clintonsoccerclub.org/resources/plugins/superfish/css/superfish.css" media="screen" />
+<script type="text/javascript">
+$(function(){
+	$('ul.sf-menu').superfish();
+});
+</script>
+
+</head>
+<body>
+
+ <div class="wrapper-blue-header"></div>
+ <div class="wrapper-red-header"></div>
+ 
+ 
+ <div class="website">
+    <div class="lights-blue-wrapper">
+         
+               
+
+<div class="header-wrapper">
+     <div class="inner">
+      <div class="header">
+      
+      
+            <div class="assistance-header-content">
+             <h2>Assistance</h2>
+             <p>Please leave a phone message 580-309-2046 or email martinezb21@yahoo.com</p>
+            </div>
+            
+            <ul class="header-menu-left sf-menu">
+            
+             <li>
+              <a href="http://www.clintonsoccerclub.org/coaches"  >
+               Coaches
+              </a>
+             </li>
+             
+             <li>
+              <a href="http://www.clintonsoccerclub.org/competitive"  >Competitive</a>
+                                              <ul>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/competitive/program-info">Program Info</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/competitive/club-training-schedule-1">Club Training Schedule</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/competitive/financial-info-1">Financial Info</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/competitive/tryouts">Tryouts</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/competitive/competitive-guidelines">Competitive Guidelines</a>
+                   </li>
+                                     </ul>
+                           </li>
+             
+             <li>
+               <a href="http://www.clintonsoccerclub.org/recreational" >Recreational</a>
+                                                <ul>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/program-info-game-format-1">Program Info / Game Format</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/coaching-help-1">Coaching help</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/coach-contact-field-assignments-1">Coach Contact / Field Assignments</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/u8-girls-schedule">U8 Girls Schedule</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/u8-boys-schedule">U8 Boys Schedule</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/u-10-girls-schedule">U 10 GIRLS SCHEDULE</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/u10-boys-schedule">U10 BOYS SCHEDULE</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/u12-girls-schedule">U12 GIRLS SCHEDULE </a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/recreational/u12-boys-schedule">U12 BOYS SCHEDULE</a>
+                   </li>
+                                     </ul>
+                            </li>
+             
+            </ul>
+            
+            <a href="http://www.clintonsoccerclub.org/" class="logo">
+             <img src="http://www.clintonsoccerclub.org/resources/images/frontend/logo.png" />
+            </a> 
+            
+            <div class="contact-header-content">
+             <h2>Contact us</h2>
+             <p>Contact Lucas Martinez 580-309-2046 to make an appointment if needed.</p>
+            </div>
+            
+            <ul class="header-menu-right sf-menu">
+            
+              <li>
+               <a href="http://www.clintonsoccerclub.org/academy" >Academy</a>
+                                                <ul>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/academy/program-info-2">Program Info</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/academy/academy-schedules-pdyl-league-1">Academy Schedules / PDYL League</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/academy/club-training-schedule-2">Club Training Schedule</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/academy/academy-guidelines">Academy Guidelines</a>
+                   </li>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/academy/financial-info-2">Financial Info</a>
+                   </li>
+                                     </ul>
+                             </li>
+             
+              <li>
+               <a href="http://www.clintonsoccerclub.org/tournaments"  >Tournaments</a>
+                                                <ul>
+                                      <li>
+                    <a href="http://www.clintonsoccerclub.org/tournaments/spring-classic-tournament">Spring Classic Tournament</a>
+                   </li>
+                                     </ul>
+                             </li>
+             
+              <li>
+               <a href="http://www.clintonsoccerclub.org/camps"  >Camps</a>
+                                            </li>
+             
+            </ul>
+        
+     </div>
+     </div>
+</div>               
+               
+    <div class="slider-wrapper">
+     <div class="inner-slider">
+       <div class="slider-content">
+       
+         <a href="#" id="prev-button" class="prev-button"></a>
+         <div class="slider">
+                                   <img src="http://www.clintonsoccerclub.org/media/slider/full/4da03504cc931b704e0eb1326213d7af.jpg" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/9444daf9e6b44d72ac811e4c24b4539d.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/806be4db722d30a2f68a58a41e77784d.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/aacb42c1af23ccae2aa4674d327821de.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/dcd32e4936829777d3c0d0fb324517f0.jpg" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/a7cb1d4c47d1b98fabaac02090d993e5.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/200ba445ce774cb3c6c5a0d91b5546f1.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/0adae4a1331070b7224867aa76e62e4b.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/442e66014dd5b518a5ad0536cc75d0b7.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/c1cc83b0f3018c576bb17c2a7d2da62b.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/1894dfe849f0ee2c75ec9614b7375a4b.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/29933481403fa430444ff81264640416.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/910bbaf9244cf613c1a802c4336c49af.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/bd774e81312b94ba99b3b50eeb070390.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/37c3c3be742ce38a8e0a5225234128a4.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/8001098f979021d8df8593d64abf5e1f.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/ac2632be027ec0cd47b53da85f13e73c.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/b23bfb0f6f9b5b22a63ed6cc114e5375.JPG" width="960" height="354" />
+                         <img src="http://www.clintonsoccerclub.org/media/slider/full/2b368e1200e84deb8fd2e369b5170669.JPG" width="960" height="354" />
+             
+                   </div>
+         <a href="#" id="next-button" class="next-button"></a>
+         
+       </div>
+     </div>
+    </div>
+    <script type="text/javascript">
+    
+        $('.slider').cycle({
+            fx: 'scrollHorz',
+            easing:  'easeInOutBack',
+            prev: '#prev-button',
+            next: '#next-button'
+        });
+    
+    </script>
+
+               
+               <div class="center-wrapper">
+                 <div class="inner">
+                   <div class="center">
+                      
+                      <div class="sidebar">
+   
+   
+                      
+    <div class="sidebar-menu-content">
+      <ul class="sidebar-menu">
+       <li>
+        <a href="http://www.clintonsoccerclub.org/" class='selected' >
+          <span class="bull-span">&bull;</span>Home
+        </a>
+       </li>
+       <li>
+        <a href="http://www.clintonsoccerclub.org/about-us" >
+          <span class="bull-span">&bull;</span>About Us
+        </a>
+       </li>
+       <li>
+        <a href="http://www.clintonsoccerclub.org/contact" >
+          <span class="bull-span">&bull;</span>Contact Us
+        </a>
+       </li>
+       <li>
+        <a href="http://www.clintonsoccerclub.org/coaches" >
+          <span class="bull-span">&bull;</span>Coaches
+        </a>
+       </li>
+       <li>
+        <a href="http://www.clintonsoccerclub.org/board-members" >
+          <span class="bull-span">&bull;</span>Board Members
+        </a>
+       </li>
+       <li>
+        <a href="http://www.clintonsoccerclub.org/news" >
+          <span class="bull-span">&bull;</span>News
+        </a>
+       </li>
+       <li>
+        <a href="http://www.clintonsoccerclub.org/gallery" >
+          <span class="bull-span">&bull;</span>photos
+        </a>
+       </li>
+                           <li>
+             <a href="http://www.clintonsoccerclub.org/page/referee-info" >
+              <span class="bull-span">&bull;</span>Referee Info             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/private-lessons" >
+              <span class="bull-span">&bull;</span>Private Lessons             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/links" >
+              <span class="bull-span">&bull;</span>Links             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/faq" >
+              <span class="bull-span">&bull;</span>FAQ             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/field-map" >
+              <span class="bull-span">&bull;</span>Field Map             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/referee-scholarship" >
+              <span class="bull-span">&bull;</span>Referee Scholarship             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/reschedule-policy" >
+              <span class="bull-span">&bull;</span>Reschedule Policy             </a>
+           </li>
+                    <li>
+             <a href="http://www.clintonsoccerclub.org/page/forms" >
+              <span class="bull-span">&bull;</span>Forms             </a>
+           </li>
+                      </ul>
+    </div>
+    
+    <div class="field-status-content">
+     <h1 class="blue-transparent">Field Status</h1>
+               <ul>
+            <li>
+        <table width="100%">
+         <tr>
+          <td valign="top" width="100%">Schumacher Fields</td>
+          <td valign="top">
+           <div class="field-status st-ok">Ok</div>                     </td>
+         </tr>
+        </table>
+      </li>
+           </ul>
+      
+    </div>
+    
+    <div id="datepicker-sidebar">
+    </div>
+    <script>
+	  $(function() {
+		$( "#datepicker-sidebar" ).datepicker({
+											  dateFormat:'yy-mm-dd',
+											  beforeShowDay: highlightDays,
+											  onSelect: function(dateText, inst) { 
+											        dateText = dateText.replace(/\//g, '-');
+													window.location = 'http://www.clintonsoccerclub.org/news/datenews' + '/' + dateText;
+											   }
+											  });
+	  });
+	  
+	  
+	  function highlightDays(date) {
+	  
+	  	  
+			var dates = [];
+			
+						
+			for (var i = 0; i < dates.length; i++) {
+				
+					if (dates[i]-date==0) {
+							return [true, 'ui-state-highlight'];
+					}
+			}
+			return [true, ''];
+	  }
+    </script>
+    
+    
+</div>                      
+                      <div class="right-main-content">
+                        <div class="news-home-ctn">
+  <h1 class="hredraster">News</h1>
+      
+</div>
+
+
+
+
+<div class="gallery-home-ctn">
+       
+</div>
+
+<script type="text/javascript">
+(function($){
+
+		$('#slideshow').cycle({
+			fx: 'scrollHorz',
+			easing:  'easeInOutBack',
+			timeout: 0,
+			prev: '#prev-button-gallery',
+			next: '#next-button-gallery',
+			nowrap: 1,
+			pager: '#slide-pager ul',
+			pagerAnchorBuilder: function(idx, slide) { 
+				// return selector string for existing anchor 
+				return '#slide-pager ul li:eq(' + idx + ') a';
+			},
+			onPrevNextEvent: function(dir, id, el) {
+				if (dir === true) {
+					//alert('slide right');
+					if (id >= 5) {
+						//alert(i);
+						$('#slide-pager_next').click();
+					}
+				}
+				else {
+					//alert('slide left');
+					if (id >= 1) {
+						//alert(i);
+						$('#slide-pager_prev').click();
+					}
+				}
+			}
+		});
+
+		$("#slide-pager").jCarouselLite({
+			btnNext: "#slide-pager_next",
+			btnPrev: "#slide-pager_prev",
+			circular: false,
+			visible: 5
+		});
+						 
+})(jQuery);
+</script>                      </div>
+                   
+                   </div>
+                 </div>
+               </div>
+               
+               <div class="footer-wrapper">
+
+
+
+
+  <div class="footer-menu-wrapper">
+   <div class="inner">
+    <div class="footer-menu-content">
+    
+      <table class="footer-menu" width="100%" border="0">
+       <tr>
+        <td width="16.6%"><a href="http://www.clintonsoccerclub.org/coaches">Coaches</a></td>
+        <td width="16.6%"><a href="http://www.clintonsoccerclub.org/competitive">Competitive</a></td>
+        <td width="16.6%"><a href="http://www.clintonsoccerclub.org/recreational">recreational</a></td>
+        <td width="16.6%"><a href="http://www.clintonsoccerclub.org/academy">academy</a></td>
+        <td width="16.6%"><a href="http://www.clintonsoccerclub.org/tournaments">tournaments</a></td>
+        <td width="16.6%"><a href="http://www.clintonsoccerclub.org/camps">camps</a></td>
+       </tr>
+      </table> 
+      
+    </div>
+   </div>
+  </div>
+  
+  
+  
+  
+  <div class="footer-submenu-wrapper">
+   <div class="inner">
+    <div class="footer-submenu-content">
+      
+      <table class="footer-submenu" width="100%" border="0">
+       <tr>
+        <td width="16.6%" valign="top">
+         
+        </td>
+        <td width="16.6%" valign="top">
+         		                <ul>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/competitive/program-info">Program Info</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/competitive/club-training-schedule-1">Club Training Schedule</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/competitive/financial-info-1">Financial Info</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/competitive/tryouts">Tryouts</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/competitive/competitive-guidelines">Competitive Guidelines</a>
+               </li>
+                             </ul>
+                  </td>
+        <td width="16.6%" valign="top">
+         		               <ul>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/program-info-game-format-1">Program Info / Game Format</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/coaching-help-1">Coaching help</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/coach-contact-field-assignments-1">Coach Contact / Field Assignments</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/u8-girls-schedule">U8 Girls Schedule</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/u8-boys-schedule">U8 Boys Schedule</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/u-10-girls-schedule">U 10 GIRLS SCHEDULE</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/u10-boys-schedule">U10 BOYS SCHEDULE</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/u12-girls-schedule">U12 GIRLS SCHEDULE </a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/recreational/u12-boys-schedule">U12 BOYS SCHEDULE</a>
+               </li>
+                             </ul>
+                 </td>
+        <td width="16.6%" valign="top">
+         		               <ul>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/academy/program-info-2">Program Info</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/academy/academy-schedules-pdyl-league-1">Academy Schedules / PDYL League</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/academy/club-training-schedule-2">Club Training Schedule</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/academy/academy-guidelines">Academy Guidelines</a>
+               </li>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/academy/financial-info-2">Financial Info</a>
+               </li>
+                             </ul>
+                 </td>
+        <td width="16.6%" valign="top">
+         		               <ul>
+                              <li>
+                <a href="http://www.clintonsoccerclub.org/tournaments/spring-classic-tournament">Spring Classic Tournament</a>
+               </li>
+                             </ul>
+                 </td>
+        <td width="16.6%" valign="top">
+         		         </td>
+       </tr>
+      </table> 
+      
+      <h1>Affiliates</h1>
+      
+    </div>
+   </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="footer-logos-wrapper">
+   <div class="inner">
+    <div class="footer-logos-content">
+      <table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td align="middle"><img src="http://www.clintonsoccerclub.org/media/tiny_mce/oct2.JPG" alt="ad" width="140" height="163" /></td>
+<td align="middle"><img src="http://www.clintonsoccerclub.org/media/tiny_mce/BANK_OF_THE_WEST.JPG" alt="ad" width="200" height="78" /></td>
+<td align="middle"><a href="http://newroofingclintonok.com/index.htm"><img src="http://www.clintonsoccerclub.org/media/tiny_mce/new_roofing_ad.JPG" alt="ad" width="300" height="93" /></a></td>
+<td align="middle"><img src="http://www.clintonsoccerclub.org/media/tiny_mce/seth_adams.JPG" alt="ad" width="180" height="115" /></td>
+<td align="middle"><img src="http://www.clintonsoccerclub.org/media/tiny_mce/advertise_here.jpg" alt="ad" width="121" height="91" /></td>
+</tr>
+</tbody>
+</table>    </div>
+   </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="footer-description-wrapper">
+   <div class="inner">
+     <div class="footer-description-content">
+     
+      <table width="98%" align="center" border="0" cellpadding="20">
+       <tr>
+        <td width="33%" valign="top">
+          <h2 align="center">Assistance</h2>
+          <p align="center">Please leave a phone message 580-309-2046 or email martinezb21@yahoo.com</p>
+          <br />
+          <h2 align="center">Contact us</h2>
+          <p align="center">Contact Lucas Martinez 580-309-2046 to make an appointment if needed.</p>
+        </td>
+        <td width="33%" valign="top">
+          <h1>Follow Us:</h1>
+          <br />
+          <p>
+                      <a href="https://www.facebook.com/pages/Clinton-Fusion-Soccer/370437089693582" target="_blank" class="tdnone">
+            <img src="http://www.clintonsoccerclub.org/resources/images/frontend/facebook.png" />
+           </a>
+                      <a href="https://twitter.com/" target="_blank" class="tdnone">
+            <img src="http://www.clintonsoccerclub.org/resources/images/frontend/twitter.png" />
+           </a>
+                      <a href="http://linkedin.com/" target="_blank" class="tdnone">
+            <img src="http://www.clintonsoccerclub.org/resources/images/frontend/linkedin.png" />
+           </a>
+                      <a href="http://www.youtube.com/" target="_blank" class="tdnone">
+            <img src="http://www.clintonsoccerclub.org/resources/images/frontend/youtube.png" />
+           </a> 
+          </p>
+        </td>
+        <td width="33%" align="center" valign="top">
+          <a href="http://www.clintonsoccerclub.org/" class="tdnone">
+           <img src="http://www.clintonsoccerclub.org/resources/images/frontend/footerlogo.png" />
+          </a>
+        </td>
+       </tr>
+      </table>
+      <h4 class="text-copyright">Clinton Football Club &copy; Copyright 2005 - 2013 All Rights Reserved. Designed by DesingBox</h4>
+      
+     </div>
+   </div>
+  </div>
+  
+  
+  
+  
+  
+</div>                           
+    </div>
+ </div>   
+
+</body>
+</html>

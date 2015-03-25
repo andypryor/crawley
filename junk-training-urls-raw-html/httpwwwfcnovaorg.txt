@@ -1,0 +1,1465 @@
+
+<html>
+<head> <!-- WebPoet(tm) Web Page Pull - ver 3.1 25-Mar-15 7:39 am - /scripts/runisa.dll?M2:gp::74089+index/+E ; \\10.10.10.25\html\fcnova.org\index.html expires 1m = 25-Mar-15 7:40 am -->
+<title>FC Nova</title>
+<meta name="description"        content="Gallery" />
+<!--[if (gt IE 10)|!(IE)]><!--> <meta http-equiv="X-UA-Compatible" content="IE=10" /> <!--<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="http://www.fcnova.org/index.xml" title="RSS Feed">
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+ <link rel="stylesheet" href="http://www.fcnova.org/common/css/master.css" type="text/css"/>
+<script type="text/javascript">
+  if(!/mobile\=off/i.test(window.location.search)){
+    (function(a,b){if(/android|avantgo|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,
+ '/common/mobile/mobile.html?jobid=74089&nogames=Y'
+    );
+  };
+</script>
+ <script src="http://www.fcnova.org/common/js/ps1.9.0/prototype-1.7.2.js" type="text/javascript"></script> <script src="http://www.fcnova.org/common/js/ps1.9.0/scriptaculous.js" type="text/javascript"></script>
+<script src="http://www.fcnova.org/common/js/dii_ondomready-0.1.0.js" language="JavaScript" type="text/javascript"></script>
+<script type="text/javascript">
+  document._observe = document.observe;
+  document.observe = function() {
+    var a = arguments, al = a.length;
+    if(al > 0){
+      if (a[0] == 'dom:loaded') {
+        for(var x = 1; x < al; x++) {
+          onDomReady.add(a[x]);
+        };
+      }else{
+        document._observe.apply(document, a);
+      };
+    };
+  };
+</script>
+<link rel="stylesheet" href="http://www.fcnova.org/menus.css" type="text/css">
+<style type="text/css">
+/* overall page layout styles */
+body {text-align: center; margin-top: 0px; background: #000000 url(/images/2013/bg.jpg) no-repeat scroll center top; padding: 0px; -webkit-text-size-adjust:none;}
+#design-container {margin-left: auto; margin-right: auto; width: 1003px; text-align: left;}
+#design-header {}
+  #design-nav {background: #000 url(/images/2013/nav-bg.gif) repeat-x; padding-bottom:8px;}
+#design-centerContent {background: #ffffff;}
+  #design-centerContentmain {background: #000; width:599px;}
+#design-leftColumn {background: #000; width:202px;}
+#design-rightColumn {background: #000; width:202px;}
+#design-leftColumnL3 {background: url(/images/2013/L3-bg-left.gif) repeat-y;}
+#design-rightColumnL3 {background: url(/images/2013/L3-bg-right.gif) repeat-y;}
+#design-contentFooter {background: url(/images/2013/home-4-bg.gif) repeat-x;}
+#design-pageFooter {background: url(/images/2013/footer-bg.gif) repeat-x;}
+#design-headerPhotoLeft {width:133px; height:139px; overflow:hidden;}
+#design-headerPhotoRight {width:133px; height:139px; overflow:hidden;}
+#design-centerSize {width:585px; overflow:hidden;}
+#design-headerRighttop {float:left; width:138px; height:24px; overflow:hidden;}
+#design-headerRightbottom {float:left; width:138px; height:115px; overflow:hidden;}
+.lefttiles {width:97px; height:92px; overflow:hidden; float:left; margin-bottom:10px;}
+.righttiles {width:97px; height:92px; overflow:hidden; float:right; margin-bottom:10px;}
+#design-siteContent {width: 202px;}
+#design-leftContent {width: 200px;}
+#design-rightContent {width: 202px;}
+#design-copyright {margin: 5px 0 0 10px; font-weight: bold; color: #ffffff;}
+#design-copyrightDII {margin: 0 0 0 15px; font-weight: normal; color: #ffffff;}
+/* home page department list */
+.indexDIVL2-OuterBox {margin-left: 1px; margin-right: 1px;}
+.indexDIVL2-InnerBox {}
+.indexDIVL2-2Line {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold; cursor: pointer;}
+.indexDIVL2-2Line1 {}
+.indexDIVL2-2Line2 {}
+.indexDIVL2-2LineFirst {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2LineLast {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2Line a:link {color: #fff; text-decoration: none;}
+.indexDIVL2-2Line a:hover {color: #fff; text-decoration: none;}
+.indexDIVL2-2Line a:active {color: #fff; text-decoration: none;}
+.indexDIVL2-2Line a:visited {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink {background:#e14f10; margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVL2-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVL2-2LineP {color: #C00000;}
+.indexDIVL2-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVL2-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVL2-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVL2-Empty {padding: 8px; text-align: center; font-weight: bold; color: #5C5445;}
+/* home page calendar items */
+.indexDIVCalendar-OuterBox {}
+.indexDIVCalendar-InnerBox {}
+.indexDIVCalendar-2Line {padding: 4px; padding-left: 16px; color: #fff;}
+.indexDIVCalendar-Title {}
+.indexDIVCalendar-Event {font-weight: bold;}
+.indexDIVCalendar-2Line a:link {color: #fff;}
+.indexDIVCalendar-2Line a:hover {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2Line a:active {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2Line a:visited {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink {padding: 4px; padding-left: 16px; color: #fff;}
+.indexDIVCalendar-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVCalendar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVCalendar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #fff;}
+.indexDIVL2Links-OuterBox {margin-left: 1px; margin-right: 2px; border: 1px solid #25507A;}
+.indexDIVL2Links-InnerBox {border: 1px solid #E5F3FF; background: #B0CBE4;}
+.indexDIVL2Links-2Line {margin-left: 1px; margin-right: 1px; border-top: 1px dotted #7D9EBF; padding: 4px; padding-left: 16px;}
+.indexDIVL2Links-2Line a {color: #00478C;}
+.indexDIVL2Links-5BkHd {padding-left: 4px; font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-style: bold; font-weight: bold; font-variant: normal; text-transform: none;}
+/* home page sidebar items */
+.indexDIVSideBar-OuterBox {margin-left: 1px; margin-right: 1px;}
+.indexDIVSideBar-InnerBox {}
+.indexDIVSideBar-2Line {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold; cursor: pointer;}
+.indexDIVSideBar-2Line1 {}
+.indexDIVSideBar-2Line2 {}
+.indexDIVSideBar-2LineFirst {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2LineLast {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2Line a:link {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2Line a:hover {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2Line a:active {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2Line a:visited {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink {background:#e14f10; margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.indexDIVSideBar-2LineLink a:link {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:active {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.indexDIVSideBar-2LineP {color: #C00000;}
+.indexDIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.indexDIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.indexDIVSideBar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #5C5445;}
+/* L2 subdepartment list items */
+.L2DIVSideBar-OuterBox {margin-left: 1px; margin-right: 1px;}
+.L2DIVSideBar-InnerBox {}
+.L2DIVSideBar-2Line {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold; cursor: pointer;}
+.L2DIVSideBar-2Line1 {}
+.L2DIVSideBar-2Line2 {}
+.L2DIVSideBar-2LineFirst {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2LineLast {margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2Line a:link {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2Line a:hover {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2Line a:active {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2Line a:visited {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink {background:#e14f10; margin-left: 1px; margin-right: 1px; padding: 4px; padding-left: 16px; font-weight: bold;}
+.L2DIVSideBar-2LineLink a:link {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:hover {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:active {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineLink a:visited {color: #fff; text-decoration: none;}
+.L2DIVSideBar-2LineP {color: #C00000;}
+.L2DIVSideBar-2LineP a:link {color: #990000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:hover {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:active {color: #660000; text-decoration: none;}
+.L2DIVSideBar-2LineP a:visited {color: #660000; text-decoration: none;}
+.L2DIVSideBar-Empty {padding: 8px; text-align: center; font-weight: bold; color: #5C5445;}
+.DIVSubDeptDescription-OuterBox {border: 1px solid #27445F; border-bottom: 0px;}
+.DIVSubDeptDescription-InnerBox {border: 1px solid #EFEFEF; border-bottom: 0px;}
+.DIVSubDeptDescription-DEPT1 {background: #B0CBE4; font-weight: bold; color: #FFFFFF;}
+.DIVSubDeptDescription-DEPT2 {background: #D0E2F2; font-weight: bold; color: #516D88;}
+.DIVSubDeptDescription-SUBDEPT1 {background: #C0D8ED; font-weight: bold; color: #FFFFFF;}
+.DIVSubDeptDescription-SUBDEPT2 {background: #DEEAF5; font-weight: bold; color: #6683A0;}
+.DIVAdminCenter-OuterBox {margin-bottom: 12px; border: 1px solid #27445F; border-top: 0px; background: #EFEFEF; padding: 1px;}
+.DIVAdminCenter-InnerBox {border: 1px solid #88A3BC; background: #ADBFD0;}
+.DIVNewCenterArticle {padding: 8px; text-align: center;}
+.DIVNewCenterElement {border-left: 1px solid #D1DFED; background: #ADBFD0; padding: 8px; text-align: center;}
+.DIVAdminSide-OuterBox {border: 1px solid #27445F; background: #516D88;}
+.DIVAdminSide-InnerBox {}
+.DIVNewSideArticle {padding: 2px; text-align: center;}
+.DIVNewSideElement {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSideOutsideLink {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVNewSubDepartment {border-top: 1px dotted #6F8AA3; padding: 2px; padding-top: 4px; text-align: center;}
+.DIVMainAdmin-WW {border: 1px solid #90B1D0; background: #D0E2F2;}
+.DIVMainAdmin-WW table {padding-left: 16px;}
+.DIVMainAdmin-WW td {padding: 4px;}
+.DIVMainAdmin-WW div {border-left: 1px solid #FFFFFF; padding: 6px; background: #E4EEF7;}
+.DIVMainAdmin-WW input {border: 1px solid #ADBFD0;}
+.DIVMainAdmin-PE {border: 1px solid #90A090; background: #D0E0D0;}
+.DIVMainAdmin-PE table {padding-left: 16px;}
+.DIVMainAdmin-PE td {padding: 4px;}
+.DIVMainAdmin-PE div {border-left: 1px solid #FFFFFF; padding: 6px; background: #E0F0E0;}
+.DIVMainAdmin-PE input {border: 1px solid #A0B0A0;}
+.DIVMainAdmin-Submit {border: 1px solid #27445F; background: #ADBFD0;}
+.DIVSideBar-Admin {margin-top: 4px; margin-bottom: 2px; border: 1px solid #90B1D0; background: #D0E2F2;}
+.DIVSideBar-Admin table {}
+.DIVSideBar-Admin td {padding: 2px;}
+.DIVSideBar-Admin div {border-left: 1px solid #FFFFFF; padding: 4px; background: #E4EEF7;}
+.DIVSideBar-Admin input {border: 1px solid #ADBFD0; margin-left: 2px; margin-top: 1px;}
+.DIVSideBar-Submit {margin: 1px; border: 1px solid #27445F; background: #516D88; padding: 4px; text-align: center;}
+.indexDIVArticleBox-OuterBox {width: 440px; height: 500px; margin-right: 1px; overflow: hidden;}
+.indexDIVArticleBox-InnerBox1 {height: 100%; border: 1px solid #EFEFEF;}
+.indexDIVArticleBox-InnerBox2 {height: 100%; border: 1px solid #FFFFFF;}
+.indexDIVArticleBox-Caption {background: #000000; padding: 3px; padding-right: 8px; text-align: right; color: #AFAFAF;}
+.indexDIVArticleBox-Title {border: 1px solid #C0B296; background: #E3D7C0;}
+.indexDIVArticleBox-Headline {padding-left: 4px; padding-top: 2px; font-size: 18px; font-weight: bold;}
+.indexDIVArticleBox-SubHeadline {padding-left: 10px; padding-bottom: 4px;}
+.indexDIVArticleBox-Text {height: 100%; margin-top: 1px; border: 1px solid #E5DDCE; background: #FFF9ED; padding-left: 9px; padding-top: 2px; padding-right: 9px; padding-bottom: 4px; color: #413D36;}
+.indexDIVArticleBox-Links {width: 440px; margin-right: 1px; border: 1px solid #EFEFEF; border-top: 0px; background: #FFFFFF; padding: 1px;}
+img {border: none;}
+</style>
+<MAP NAME="TopLogozLeft">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="81,89,146,117" HREF="http://www.usclubsoccer.org/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="12,97,76,136" HREF="http://www.usyouthsoccer.org/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="88,13,138,70" HREF="http://www.idahoyouthsoccer.org/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="20,18,71,73" HREF="http://www.ussoccer.com/">
+</MAP>
+<MAP NAME="TopLogozRight">
+  <AREA SHAPE="circle" TARGET="_NEW" COORDS="103,82,20" HREF="http://www.eliteclubsnationalleague.com/">
+  <AREA SHAPE="circle" TARGET="_NEW" COORDS="41,87,26" HREF="http://www.westerncda.com/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="75,4,134,50" HREF="http://www.northwestchampions.com/">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="3,3,61,54" HREF="http://www.puma.com/football/tcc">
+</MAP>
+<MAP NAME="SocialMediaz">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="70,6,99,35" HREF="http://www.youtube.com/user/fcnova10">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="35,6,66,36" HREF="https://twitter.com/FCNOVAIdaho">
+  <AREA SHAPE="rect" TARGET="_NEW" COORDS="4,7,32,34" HREF="https://www.facebook.com/fcnova.supernova">
+</MAP>
+<!-- regex: ssl\d*\.demosphere\.com -->
+<!-- regex: \.demosphere-secure\.com -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-50925426-18', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!---- this is so mobile.js can find the list of depts ---->
+<div style="display:none;"><div class="indexDIVL2-OuterBox">
+<div class="indexDIVL2-InnerBox">
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 indexDIVL2-2LineFirst" onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74089+L2/+E+101';"><a href="/Staff/index_E.html" target="_top">About Us</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74089+L2/+E+102';"><a href="/Programs/index_E.html" target="_top">Programs</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74089+L2/+E+103';"><a href="/Tournaments/index_E.html" target="_top">Events</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74089+L2/+E+105';"><a href="/Register/index_E.html" target="_top">Register</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line1 " onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74089+L2/+E+106';"><a href="/Fundraising/index_E.html" target="_top">Fundraising</a></div>
+<div class="textsmall indexDIVL2-2Line indexDIVL2-2Line2 indexDIVL2-2LineLast" onmouseover="$(this).addClassName('indexDIVL2-2LineLink')" onmouseout="$(this).removeClassName('indexDIVL2-2LineLink')" style="cursor: pointer;" onClick="document.location='/scripts/runisa.dll?M2:gp::74089+L2/+E+107';"><a href="/Archive/index_E.html" target="_top">News Archive</a></div>
+</div>
+</div>
+</div>
+<table id="design-container" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<table id="design-header" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td><img src="http://www.fcnova.org/images/2013/home-1-1.png" width="153" height="139" border="0" USEMAP="#TopLogozLeft"/></td>
+<td id="design-headerPhotoLeft">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776203 {width: 133px; height: 139px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776203', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776203" class="imageContainer imageContainerSize776203" subdept="776203">
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><img src="http://www.fcnova.org/imgs/_img1.png"   alt="" border="0"/></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Boys1.jpg"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Boys2.JPG"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Girls2.JPG"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Girls3.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776203" style="display:none"><img src="http://www.fcnova.org/imgs/Rotating1_sm.jpg" width="133" height="129" alt="" border="0"/></div>
+</div>
+</td>
+<td><a href="http://www.fcnova.org/index.html"><img src="http://www.fcnova.org/images/2013/home-1-2.png" width="446" height="139" border="0"/></a></td>
+<td id="design-headerPhotoRight">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776204 {width: 133px; height: 139px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776204', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776204" class="imageContainer imageContainerSize776204" subdept="776204">
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><img src="http://www.fcnova.org/imgs/img2.png"   alt="" border="0"/></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Boys4.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Boys6.jpg"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Girls6.JPG"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><img src="http://www.fcnova.org/imgs/img4.png"   alt="" border="0"/></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><img src="http://www.fcnova.org/imgs/img3.png"   alt="" border="0"/></div>
+  <div class="imageContainerDIV imageContainerSize776204" style="display:none"><a href="http://"  target="_new"><img src="http://www.fcnova.org/imgs/Rotating2_sm.jpg" width="133" height="139" alt="" border="0"/></a></div>
+</div>
+</td>
+<td>
+  <div>
+    <div id="design-headerRighttop">
+    <div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({
+pageLanguage: 'en',
+layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+}, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+    <div id="design-headerRightbottom"><img src="http://www.fcnova.org/images/2013/home-1-3.png" width="138" height="115" border="0" USEMAP="#TopLogozRight"/><div>
+  </div>
+</td>
+</tr>
+</table>
+<table id="design-nav" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td align="left"><img src="http://www.fcnova.org/images/2013/nav-left.gif" width="237" height="39" border="0"/></td>
+<td>
+<div id="main-menu" class="diimenu" menuclass="mainmenu"></div>
+</td>
+<td><img src="http://www.fcnova.org/common/images/1x1.gif" width="2" height="39" border="0"/></td>
+<td align="right"><img src="http://www.fcnova.org/images/2013/nav-right.gif" width="105" height="39" border="0" USEMAP="#SocialMediaz"/></td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td id="design-leftColumn">
+   <div class="lefttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776227 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776227', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776227" class="imageContainer imageContainerSize776227" subdept="776227">
+  <div class="imageContainerDIV imageContainerSize776227" style="display:none"><a href="https://www.secure-sam.com/fcnova.bonzidev.com/sam/registration/login.php"  target="_new"><img src="http://www.fcnova.org/imgs/member_login.jpg" width="92" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="righttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776228 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776228', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776228" class="imageContainer imageContainerSize776228" subdept="776228">
+  <div class="imageContainerDIV imageContainerSize776228" style="display:none"><a href="http://www.fcnova.org/Fundraising/auction/index_E.html"  ><img src="http://www.fcnova.org/imgs/AUCTION.png" width="97" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="lefttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776229 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776229', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776229" class="imageContainer imageContainerSize776229" subdept="776229">
+  <div class="imageContainerDIV imageContainerSize776229" style="display:none"><a href="http://www.fcnova.org/Programs/FCNECNL/index_E.html"  target="_new"><img src="http://www.fcnova.org/imgs/ECNL.png"   alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="righttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776230 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776230', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776230" class="imageContainer imageContainerSize776230" subdept="776230">
+  <div class="imageContainerDIV imageContainerSize776230" style="display:none"><a href="http://www.fcnova.org/Programs/FCNGunnersU9U10/index_E.html"  ><img src="http://www.fcnova.org/imgs/GUNNERS.png" width="97" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="lefttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776231 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776231', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776231" class="imageContainer imageContainerSize776231" subdept="776231">
+  <div class="imageContainerDIV imageContainerSize776231" style="display:none"><a href="http://www.fcnova.org/Programs/FCNJuniorsU8/index_E.html"  ><img src="http://www.fcnova.org/imgs/JUNIORS.png" width="97" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="righttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776233 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776233', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776233" class="imageContainer imageContainerSize776233" subdept="776233">
+  <div class="imageContainerDIV imageContainerSize776233" style="display:none"><a href="http://www.fcnova.org/Staff/Complex/index_E.html"  ><img src="http://www.fcnova.org/imgs/COMPLEX.png" width="97" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="lefttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776235 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776235', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776235" class="imageContainer imageContainerSize776235" subdept="776235">
+  <div class="imageContainerDIV imageContainerSize776235" style="display:none"><a href="http://www.fcnova.org/Misc/Hotel/index_E.html"  ><img src="http://www.fcnova.org/imgs/TRAVEL.png" width="97" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="righttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776236 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776236', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776236" class="imageContainer imageContainerSize776236" subdept="776236">
+  <div class="imageContainerDIV imageContainerSize776236" style="display:none"><a href="http://www.fcnova.org/Misc/Sports_Med/index_E.html"  target="_new"><img src="http://www.fcnova.org/imgs/ST%20LUKES.png" width="90" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="lefttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776238 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776238', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776238" class="imageContainer imageContainerSize776238" subdept="776238">
+  <div class="imageContainerDIV imageContainerSize776238" style="display:none"><a href="http://www.fcnova.org/Misc/CollegeAdvisory/index_E.html"  ><img src="http://www.fcnova.org/imgs/COLLEGE.png" width="97" height="92" alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="righttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776239 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776239', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776239" class="imageContainer imageContainerSize776239" subdept="776239">
+  <div class="imageContainerDIV imageContainerSize776239" style="display:none"><a href="http://www.fcnova.org/Misc/Goal_Keeper/index_E.html"  ><img src="http://www.fcnova.org/imgs/KEEPER.png"   alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="lefttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776240 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776240', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776240" class="imageContainer imageContainerSize776240" subdept="776240">
+  <div class="imageContainerDIV imageContainerSize776240" style="display:none"><a href="http://www.fcnova.org/Tournaments/PCup/index_E.html"  ><img src="http://www.fcnova.org/imgs/TOURNEYS.png"   alt="" border="0"/></a></div>
+</div>
+</div>
+<div class="righttiles">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776241 {width: 97px; height: 92px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776241', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776241" class="imageContainer imageContainerSize776241" subdept="776241">
+  <div class="imageContainerDIV imageContainerSize776241" style="display:none"><a href="http://www.fcnova.org/home/805822.html"  ><img src="http://www.fcnova.org/imgs/TRYOUTS.png"   alt="" border="0"/></a></div>
+</div>
+</div>
+</td>
+<td id="design-centerContentmain"><img src="http://www.fcnova.org/common/images/1x1.gif" width="599" height="1" border="0"/><br/>
+<table width="100%" cellpadding="4" cellspacing="4" border="0">
+<tr><td>
+<!---- Begin Main Content ---->
+<script type="text/javascript">
+    var boxBounce = {
+      artPrefix  : 'ArticleBox',
+      lnkPrefix  : 'MainLinksDiv',
+      prevDiv    : 0,
+      timer      : null,
+      interval   : 6500,
+      art$       : function(art){return $(boxBounce.artPrefix+art.toString());},
+      lnk$       : function(art){return $(boxBounce.lnkPrefix+art.toString());},
+      mouseOver  : function(e,i){
+                     e.className='ArticleBoxLinksOver';
+                   },
+      mouseOut   : function(e,i){
+                     e.className=(i!=boxBounce.prevDiv)?'ArticleBoxLinksOff':'ArticleBoxLinksOn';
+                   },
+      focus      : function(e) {
+                     e.className='ArticleBoxLinksOn';
+                   },
+      blur       : function(e) {
+                     e.className='ArticleBoxLinksOff';
+                   },
+      nextFrame  : function(){boxBounce.otherFrame(boxBounce.prevDiv + 1);},
+      otherFrame : function(newDiv){
+                     if (newDiv > 10) newDiv = 1; // limit to max articles
+                     if (boxBounce.prevDiv != 0) {
+                          boxBounce.art$(boxBounce.prevDiv).style.display = "none"; // off with the old
+                          var lnk=boxBounce.lnk$(boxBounce.prevDiv);
+                          if (lnk.className!='ArticleBoxLinksOver')
+                            lnk.className = 'ArticleBoxLinksOff';
+                         }
+                     boxBounce.art$(newDiv).style.display = ""; // on with the new
+                     var lnk=boxBounce.lnk$(newDiv);
+                     if (lnk.className!='ArticleBoxLinksOver')
+                       lnk.className = 'ArticleBoxLinksOn';
+                     boxBounce.prevDiv = newDiv;
+                   },
+      start      : function(){boxBounce.fixuplastp(); if (boxBounce.timer != null) boxBounce.stop(); boxBounce.nextFrame(); boxBounce.timer = setInterval(boxBounce.nextFrame, boxBounce.interval);},
+      stop       : function(){if (boxBounce.timer != null) clearInterval(boxBounce.timer); boxBounce.timer = null;},
+      userFrame  : function(newDiv){boxBounce.stop(); boxBounce.otherFrame(newDiv);},
+      fixuplastp : function(){
+                     var fixer = function(t) {
+                       try {
+                         var p = t.select('p'); if(!p || p.length == 0) return;
+                         var pfirst = p[0], plast = p[p.length-1];
+                         if(pfirst) pfirst.addClassName('ArticleBoxPFirst');
+                         if(plast) plast.addClassName('ArticleBoxPLast');
+                         var span = t.select('span.ArticleBoxContinue')[0];
+                         if(plast && span) { span.remove(); plast.appendChild(span); }
+                       } catch(e) {};
+                     }
+                     $$('.ArticleBoxText').each(fixer);
+                   }
+    };
+document.observe('dom:loaded',boxBounce.start);
+</script>
+<script type="text/javascript">
+var diiClickableImages = (function () {
+  var $;
+  var clickMainPhoto = function (e) {
+    var $div = $(this),
+        $a = $div.find('>a.ArticleBoxPhotoLink'),
+        href = $a.attr('href') ||
+               '/scripts/runisa.dll?M2:gp::74089+L3/Display+E+NDX+NDX+' + $div.attr('mrid');
+    if (href) {
+      window.location = href;
+    }
+  }; // clickMainPhoto
+  var init = function () {
+    $ = jQuery;
+    var $clickableDivs = $('div.ArticleBoxOuterDiv');
+    $clickableDivs.click(clickMainPhoto);
+    $clickableDivs.css('cursor', 'pointer'); // this ought to be in CSS
+  }; // init
+  return {
+    init: init
+  };
+})();
+document.observe('dom:loaded', diiClickableImages.init);
+</script>
+<style type="text/css">
+.ArticleBoxAdminDefault1 {border: 1px solid #000000; border-left: 0px; border-top: 0px; background-color: #EFEFEF;}
+.ArticleBoxAdminDefault2 {padding: 6px; color: #990000;}
+.ArticleBoxAdminDefault3 {padding: 2px; padding-left: 6px;}
+.ArticleBoxAdminDefault4 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdminDefault5 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdminDefault6 {padding-left: 3px; padding-right: 6px;}
+.ArticleBoxPFirst {margin-top: 0px;}
+</style>
+<style type="text/css">
+.ArticleBoxOuterDiv {width: 585px; height: 370px; overflow: hidden; text-align: left;}
+.ArticleBoxPhotoDiv {height: 370px; overflow: hidden; margin-bottom: 0px; background: #c8c8c8 url('/images/2013/ArticleBoxDefault.jpg');}
+.ArticleBoxAdmin1 {vertical-align: top; border: 1px solid #000000; border-left: 0px; border-top: 0px; background: #133971;}
+.ArticleBoxAdmin2 {background-color: #164284; padding: 6px; color: #FFFFFF;}
+.ArticleBoxAdmin3 {padding: 2px; padding-left: 6px;}
+.ArticleBoxAdmin4 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdmin5 {padding: 2px; padding-left: 3px;}
+.ArticleBoxAdmin6 {padding-left: 3px; padding-right: 6px;}
+.ArticleBoxCaption {display:none; height: 20px; overflow: hidden; margin-bottom: 1px; background: #000000; padding: 3px; padding-right: 8px; text-align: right; font-size: 10px; color: #afafaf;}
+.ArticleBoxInnerDiv {}
+.ArticleBoxHeadline {display:none; margin-bottom: 1px; border: 1px solid #999999; background: #e0e0e0 url(/images/2013/headline-bg.gif) repeat-x; padding: 4px; padding-left: 8px; font-family: Verdana, Arial, sans serif; font-size: 16px; font-weight: bold; color: #ffffff;}
+.ArticleBoxSubHeadline {display:none; font-family: Verdana, Arial, sans serif; font-size: 12px;}
+.ArticleBoxText {display:none; height: 130px; overflow: hidden; margin-top: 1px; background: #ffffff; padding-left: 7px; padding-top: 2px; padding-right: 7px; padding-bottom: 2px; font-family: Verdana, Arial, sans serif; font-size: 12px;}
+.ArticleBoxContinue {color: #006699;}
+.ArticleBoxContinue a:link {color: #006699; text-decoration: none;}
+.ArticleBoxContinue a:hover {color: #006699; text-decoration: underline;}
+.ArticleBoxContinue a:active {color: #006699; text-decoration: none;}
+.ArticleBoxContinue a:visited {color: #006699; text-decoration: none;}
+.ArticleBoxLinksTable {width: 585px;}
+.ArticleBoxLinksNameTD {width: 5px; height: 34px; background: url(/images/2013/rotating-nbr-left.gif) no-repeat;}
+.ArticleBoxLinksNameDIV {width: 5px; height: 34px;}
+.ArticleBoxLinksRow {width: 580px; height: 34px; background: url(/images/2013/rotating-nbr-right.gif) repeat-x;}
+.ArticleBoxLinksRowTable {}
+.ArticleBoxLinksCell {}
+  .ArticleBoxLinksOff {padding-top:6px; width: 32px; height: 28px; text-align: center; font-size: 15px; color: #fff;}
+.ArticleBoxLinksOn {padding-top:6px; border-left:1px solid #c8c8c8; border-right:1px solid #c8c8c8; width: 32px; height: 28px; background: url(/images/2013/rotating-nbr-rightbg.gif) repeat-x; text-align: center; font-size: 15px; color: #fff;}
+.ArticleBoxLinksOver {padding-top:6px; border-left:1px solid #c8c8c8; border-right:1px solid #c8c8c8; width: 32px; height: 28px; background: url(/images/2013/rotating-nbr-rightbg.gif) repeat-x; text-align: center; font-size: 15px; color: #fff;}
+</style>
+<div id="ArticleBox1" class="ArticleBoxOuterDiv"  mrid="860659">
+<a href="/home/860659.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/Screen%20Shot%202015-02-04%20at%2011_16_15%20AM.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+2015 FCNova Student-Athletes | Commitment and Updates
+<div class="ArticleBoxSubHeadline">Check back throughout the spring for updated list...still placing kids!!!</div>
+</div>
+<div class="ArticleBoxText">
+ <p style="text-align: center;"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-02-04%20at%203_37_40%20PM.png" style="width: 700px; height: 830px;" /></p>
+</div>
+</div>
+</div>
+<div id="ArticleBox2" class="ArticleBoxOuterDiv" style="display:none;" mrid="856977">
+<a href="/home/856977.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/Screen%20Shot%202015-01-16%20at%209_30_54%20AM.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption">Idaho Pro!!!</div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+Idaho Pro!!!
+<div class="ArticleBoxSubHeadline">FCNova, Les Bois, Centennial and now Santa Clara Alum drafted #11 overall by the Chicago Red Stars of the NWSL!!!</div>
+</div>
+<div class="ArticleBoxText">
+ <p><span style="font-size:20px;"><strong><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-01-16%20at%208_40_03%20AM.png" style="width: 56px; height: 47px; float: left;" /><br />
+&nbsp;&nbsp; &nbsp;<span style="font-size:28px;"><em><span style="color:#FF0000;">Sofia Huerta Taken 11th Overall in NWSL Draft</span></em></span></strong></span></p>
+<p style="margin: 0px 0px 15px; padding: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; color: rgb(68, 68, 68); font-family: exomedium, helvetica; line-height: 23px;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><strong><em><span style="margin: 0px; padding: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Meridian, Idaho&nbsp;</span></em></strong>&ndash; Coming off her second straight All-American nod and a co-WCC Player of the Year award, Sofia Huerta of Santa Clara women&#39;s soccer was taken with the second pick of the second round (11<sup style="margin: 0px; padding: 0px; outline: 0px; background-color: transparent;">th</sup>&nbsp;overall) in the National Women&#39;s Soccer League Draft by the Chicago Red Stars on Friday. <img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-01-16%20at%208_55_31%20AM.png" style="width: 86px; height: 95px; float: right;" />&nbsp;<br />
+<br />
+Sofia also joins FC Nova (Boise Capital/Les Bois) Alum and current Associate Women&#39;s Head Coach at the University of San Francisco;&nbsp;Maite Zabala as female alumni whom have gained opportunity within the highest levels. &nbsp;To our account, becoming only&nbsp;the second women from Idaho to gain an opportunity to play&nbsp;in&nbsp;the top women&#39;s professional league. &nbsp;Zabala played in the then named WUSA starting<span style="color: rgb(0, 0, 0); line-height: 15px;">&nbsp;for the Atlanta Beat, Philadelphia Charge and Carolina Courage.</span></span></span></p>
+<p style="margin: 0px 0px 15px; padding: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; color: rgb(68, 68, 68); font-family: exomedium, helvetica; line-height: 23px;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;">Huerta was second in the West Coast Conference with 17 goals and 37 points this past fall. She attempted 94 shots and 49 on goal while scoring a WCC-best six game-winners. She accounted for over 50% of the Broncos goals this year. This is the 10<sup style="margin: 0px; padding: 0px; outline: 0px; background-color: transparent;">th</sup>&nbsp;time a Bronco as won WCC Player of the Year. &nbsp;Gaining experience with both the US Soccer Youth Regional and National teams, and most recently with the Mexican National Teams,&nbsp;there is talk of Sofia gaining ground and opportunities with the US Women&#39;s National Team&nbsp;through her performances.</span></span></p>
+<p style="margin: 0px 0px 15px; padding: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; color: rgb(68, 68, 68); font-family: exomedium, helvetica; line-height: 23px;"><span style="font-size:14px;"><span style="font-family:verdana,geneva,sans-serif;"><img alt="" src="http://www.fcnova.org/imgs/Puma_logo_red.png" style="width: 35px; height: 23px;" />&nbsp;&nbsp;Beyond the FC Nova family;&nbsp;Boise, Meridian and&nbsp;Idaho are&nbsp;very proud of Sofia and all her dedication to taking advantage of her opportunities. &nbsp;She has proven over her short time, that <em>&quot;opportunity looks alot like hard work&quot;</em> as a multiple sport student-athlete. &nbsp;Sofia continues to hold&nbsp;local, State, Regional and National accolades in swimming, track, basketball and soccer at all levels prior to her collegiate and future professional career. &nbsp;We know she&#39;ll continue to make her mark and establish herself&nbsp;on future &quot;<em>halls of fame</em>&quot;!</span></span></p>
+<p style="margin: 0px 0px 15px; padding: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; color: rgb(68, 68, 68); font-family: exomedium, helvetica; line-height: 23px;"><span style="font-size:20px;"><em><strong><span style="color:#FF0000;">WAY TO GO IDAHO!&nbsp; WAY TO GO SOFIA!&nbsp;</span></strong></em></span></p>
+<p style="margin: 0px 0px 15px; padding: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; color: rgb(68, 68, 68); font-family: exomedium, helvetica; line-height: 23px;"><span style="font-size:14px;"><em><strong>You believe, we believe and now so many youth coming up can believe in&nbsp;dreams through had work!</strong></em></span></p>
+</div>
+</div>
+</div>
+<div id="ArticleBox3" class="ArticleBoxOuterDiv" style="display:none;" mrid="855636">
+<a href="/home/855636.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/PCup2015_Article_Pic.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Performance Cup 2015 - Registration Open!
+</div>
+<div class="ArticleBoxText">
+ <p style="color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"><em><strong>Registration for this years Performance Cup event is now open! &nbsp;We are adding several new items to this years event, including:</strong></em></p>
+<ul style="color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;">
+	<li>Club Color Event Logo - This years event will offer the tournament logo in multiple color schemes, allowing players to select a logo that coincides with their teams/club colors. &nbsp;Examples are shown in the banner image below.<br />
+	<br />
+	<a href="http://www.fcnova.org/Tournaments/PCup/index_E.html" target="_self"><img alt="" src="http://www.fcnova.org/imgs/PerformanceCup_banner_sm.jpg" style="width: 718px; height: 158px;" /></a><br />
+	&nbsp;</li>
+	<li>Event Swag - some items that we will be including for participating teams include tournament pins, champion &amp; finalist medals, coaches gift and coupons/discounts from local retailers. &nbsp;<br />
+	&nbsp;</li>
+	<li>Awards ceremony and team picture for event champions.<br />
+	&nbsp;</li>
+	<li>And more...stay tuneds for event anouncements with more details!</li>
+</ul>
+<p style="color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"><span style="font-size: 14px;">Event Details can be found on the event webpage - click&nbsp;<a href="http://www.fcnova.org/Tournaments/PCup/index_E.html" style="color: rgb(0, 0, 153);"><strong>HERE</strong></a></span></p>
+<p style="color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"><span style="font-size: 14px;">Event Registration - click&nbsp;<a href="https://www.gotsport.com/forms/app/?eventid=43667" style="color: rgb(0, 0, 153);"><strong>HERE</strong></a></span></p>
+</div>
+</div>
+</div>
+<div id="ArticleBox4" class="ArticleBoxOuterDiv" style="display:none;" mrid="856671">
+<a href="/home/856671.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/docs/Screen%20Shot%202015-01-15%20at%208_33_42%20AM.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption">More than just soccer!</div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+FCNova shooting for new heights in 2015!!!
+<div class="ArticleBoxSubHeadline">Renowned Sports Psychology, Ethics and Leadership Director from Duke University working with FCNova</div>
+</div>
+<div class="ArticleBoxText">
+ <p><em><strong><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;">WE ARE PROUD TO PROVIDE&nbsp;THE FOLLOWING OPPORTUNITY...</span></span></strong></em></p>
+<p><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-12-28%20at%2012_15_05%20PM.png" style="width: 800px; height: 679px;" /></p>
+</div>
+</div>
+</div>
+<div id="ArticleBox5" class="ArticleBoxOuterDiv" style="display:none;" mrid="856693">
+<a href="/home/856693.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/Screen%20Shot%202015-01-15%20at%209_40_09%20AM.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption">What is your path?</div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+FCNova College Advisory Program
+<div class="ArticleBoxSubHeadline">Always known as the premier provider in the valley, JUST KEEPS GETTING BETTER!</div>
+</div>
+<div class="ArticleBoxText">
+ <p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;"><strong>The FC Nova College Advisory&nbsp;Program</strong> is proud to announce a partnership with the </span><a href="http://www.collegefitfinder.com" target="_blank"><span style="font-size:16px;"><span style="color:#FF8C00;"><em><strong>College Fit Finder </strong></em></span></span></a><span style="color:#1A1A1A;">in an effort to further our progressive approach in connecting our players to the collegiate level.&nbsp;&nbsp;</span></span></span></p>
+<p><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">As we strive to engage players, parents, and our own staff in the recruiting process, the club is providing this robust tool to EVERY High School age player/family at NO CHARGE. </span></span></span></p>
+<p><a href="http://www.collegefitfinder.com" target="_blank"><span style="color:#0000FF;"><em><strong style="line-height: 1.6em;"><span style="font-size:11px;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;">Click on the photo below - link to your profile!</span></span></strong></em></span></a></p>
+<p><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;"><a href="http://www.collegefitfinder.com" target="_blank"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-01-12%20at%2011_08_13%20AM.png" style="width: 200px; height: 130px; float: left;" /></a>The <a href="http://www.collegefitfinder.com" target="_blank"><strong>College Fit Finder </strong></a>provides our players with a competitive advantage over a typical student-athlete navigating the recruiting process. This comprehensive system allows for individuals to take ownership of their future by equipping them with tools necessary to find a home at the college level. As a club, we are committed to not only player development, but truly being a catalyst in helping our players fulfill their dreams of playing collegiate soccer and accessing higher education. The College Fit Finder will provide uniformity to the club&#39;s recruiting efforts and will allow for our coaching staff to take a much more personal approach in helping our athletes throughout the process.</span></span></span></p>
+<p><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">FC Nova looks forward to facilitating the recruiting efforts of every family looking to play at the next level. &nbsp; </span></span></span></p>
+<p style="text-align: center;"><u><em><strong><span style="color: rgb(26, 26, 26); font-family: lucida sans unicode, lucida grande, sans-serif; font-size: 14px; line-height: 1.6em;">Features Include:</span></strong></em></u></p>
+<p style="margin-left:48.0pt;text-indent:-48.0pt;text-autospace:none;"><span style="font-family:verdana,geneva,sans-serif;"><u><strong><span style="font-size:14px;"><span style="color:#1A1A1A;">Player/Athlete Features:</span></span></strong></u></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">a.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>College Search</u>: </span><span style="color:#1A1A1A;">Find schools that a great match for you based off of academics, athletics, location, cost, enrollment, major, campus setting, schools type, and/or religious setting</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">b.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Favorites List</u>:</span><span style="color:#1A1A1A;"> Save schools to your favorites list to continuing researching</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">c.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Correspondence Tracking</u>:</span><span style="color:#1A1A1A;"> Track and organize all of your communication with every college program<a href="http://www.collegefitfinder.com" target="_blank"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-01-12%20at%2011_08_39%20AM.png" style="width: 300px; height: 388px; float: right;" /></a></span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">d.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Calendar</u>: </span><span style="color:#1A1A1A;">See all of your communication with all colleges in a calendar view</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">e.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>College Calculator</u>:</span><span style="color:#1A1A1A;"> Decide which school is right for you by comparing colleges side by side</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">f.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Branded Player Profile</u>: </span><span style="color:#1A1A1A;">Send to college coaches to review your information.</span></span></span></p>
+<p style="margin-left:48.0pt;text-indent:-48.0pt;text-autospace:none;"><span style="font-family:verdana,geneva,sans-serif;"><strong><u><span style="font-size:14px;"><span style="color:#1A1A1A;">Coach/Director/Admin Features</span></span></u></strong></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">a.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Online Team Website</u>:</span><span style="color:#1A1A1A;"> College Coaches can view all player&#39;s individual profiles from one screen</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">b.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Printable Team Brochures</u>:</span><span style="color:#1A1A1A;"> Push one button and create a team brochure to hand to College Coaches at your showcases.</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">c.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#FF0000;"><u>Monitor Player Activity</u>: </span><span style="color:#1A1A1A;">Staff Coaches have access to see how proactive each player is being and can better facilitate a player&#39;s individual process. &nbsp; &nbsp; &nbsp; </span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#1A1A1A;">&nbsp;&nbsp;</span></span></span></p>
+<p style="margin-left:96.0pt;text-indent:-96.0pt;text-autospace:none;">&nbsp;</p>
+</div>
+</div>
+</div>
+<div id="ArticleBox6" class="ArticleBoxOuterDiv" style="display:none;" mrid="856891">
+<a href="/home/856891.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/docs/Screen%20Shot%202015-01-16%20at%206_52_44%20AM.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption">Amazing Young Women Campaign</div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+Elite Clubs National League - Celebrating the Amazing Young Women Pledge
+<div class="ArticleBoxSubHeadline">#BeautifulAmbition</div>
+</div>
+<div class="ArticleBoxText">
+ <p style="text-align: center;"><span style="font-size:22px;">Join us in the pledge to be </span><strong><em><span style="font-size:22px;">Amazing Young Women...</span><br />
+<a href="https://www.amazingyoungwomen.com" target="_blank"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-01-16%20at%207_01_30%20AM.png" style="width: 600px; height: 316px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=" https://twitter.com/intent/tweet?text=I took @theECNL AYW pledge. I live %23BeautifulAmbition. Let’s celebrate b/c being an %23AYW is a beautiful thing. http://bit.ly/1srJX" target="_blank"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202015-01-16%20at%207_39_54%20AM.png" style="width: 600px; height: 403px;" /></a></em></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;
+<p style="text-align: center;"><br />
+&nbsp;</p>
+</p>
+</div>
+</div>
+</div>
+<div id="ArticleBox7" class="ArticleBoxOuterDiv" style="display:none;" mrid="839414">
+<a href="/home/839414.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/New%20Uniform%20Release.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption">The story behind it all</div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+The story behind the 2014-2015 FCNova Uniforms
+</div>
+<div class="ArticleBoxText">
+ <p><span style="color:#FF0000;"><em><strong>September 25, 2014</strong></em></span><br />
+<img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_38_48%20PM.png" style="width: 234px; height: 131px; float: left; border-width: 12px; border-style: solid;" /><span style="line-height: 1.6em;">&nbsp; &nbsp;<br />
+<br />
+&nbsp; &nbsp; <span style="font-size:12px;"><strong>FCNova hit the valley in full force with the 2014-2015&nbsp;unif</strong></span></span><span style="font-size:12px;"><strong><span style="line-height: 1.6em;">orm release this past weekend</span><span style="line-height: 1.6em;">.</span></strong></span><br />
+<strong style="font-size: 14px; text-align: center; line-height: 1.6em;"><span style="line-height: 1.6em;"><span style="font-size:12px;">&nbsp; &nbsp; With the new kit releases we wanted to provide some insight behind the brand!</span></span></strong></p>
+<p style="text-align: center;"><br />
+<span style="line-height: 1.6em;">&nbsp; &nbsp;In the spring of 2010, two of the valley&#39;s most storied </span><span style="line-height: 1.6em;">clubs in the history of Idaho youth soccer made a major &nbsp;decision. &nbsp;That decision was based off the premise to create a comprehensive and robust soccer environment for boys and girls in and outside of the Treasure Valley. &nbsp;Based on the philosophies of &quot;what is best for the kids&quot; and &quot;what is best for the game&quot;, FCNova was born out of the merger between Les Bois United and Boise Capital</span><span style="line-height: 1.6em;">&nbsp;Soccer Clubs. &nbsp;Bringing together two stars in the player, coach and game development arena to create one entity that</span><span style="line-height: 1.6em;">&nbsp;</span><span style="line-height: 1.6em;">enhances the environment of soccer, community and student-athletic endeavors.</span></p>
+<p><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_24_56%20PM.png" style="width: 150px; height: 201px; float: right; border-width: 4px; border-style: solid;" />The two original clubs that merged to create FCNova wore &quot;Red and Black&quot; as their primary founded colors. &nbsp;Past&nbsp;the foundation years;&nbsp;styles, colors and retail brands changed often. &nbsp;With Puma we found a partner that not only provided quality gear and attire, but matched our goals in helping to offset&nbsp;costs impacted by youth soccer families while providing opportunity. In our 2nd year, as part of Project Pink with Puma, FCNova girl&#39;s side started wearing the famous &quot;all pinks&quot; for Breast Cancer Awareness&nbsp;and in the process eventually becoming a national brand/staple answering the question of, &quot;Who is that club in the pink uniforms?&quot;. &nbsp;Everyone knew it was FCNova. &nbsp;Introducing&nbsp;the 2014-2015 brand and&nbsp;the return of&nbsp;Red and Black as our primary colors along with the Pink highlights on our &quot;home&quot; white kits. &nbsp;The U14 boys have actually gone ahead and purchased the new &quot;all black&quot; kits that the boys side is transitioning into for 2015-2016 and looking great! &nbsp;Overall the goal of creating a classic professional representation of FCNova while honoring the history of the brand was achieved.</p>
+<p style="text-align: center;">As we do listen to our membership, you will also notice that the &quot;NOVA logo&quot; FONT&nbsp;differs now comparing&nbsp;boys and girls kits.<br />
+Updating both with a more masculine font on the boys side and feminine font for our girls side.</p>
+<p style="text-align: center;"><span style="line-height: 1.6em;"><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_25_31%20PM.png" style="width: 80px; height: 101px; float: left; border-width: 11px; border-style: solid;" /></span><span style="line-height: 1.6em;">&nbsp;&nbsp;</span><span style="line-height: 1.6em;">Through continued support of our sponsors we have been able to help offset costs directly impacted by families. &nbsp;Bodybuilding.com has been a mainstay&nbsp;</span><span style="line-height: 1.6em;">sponsor in helping with tremendous&nbsp;</span><span style="line-height: 1.6em;">contribution efforts</span><span style="line-height: 1.6em;">&nbsp;to&nbsp;our operating budget, tournaments/events support and offsetting costs</span><span style="line-height: 1.6em;">&nbsp;that otherwise would have directly been asked of our members to cover. &nbsp;This is why on the new kits, at all program levels, you will see the B.com logo on the</span><span style="line-height: 1.6em;">&nbsp;youth league (back) and competitve uniforms (sleeve). &nbsp;</span></p>
+<p><br />
+<span style="line-height: 1.6em;">Another foundation sponsor are</span><span style="line-height: 1.6em;">&nbsp;St. Luke&#39;s </span><span style="line-height: 1.6em;">Sports Medicine - Idaho</span><span style="line-height: 1.6em;">. With the initial commitment</span><span style="line-height: 1.6em;">&nbsp;of Dr. Jim Johnston, his wife Lynne and at the time Boise <img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_25_10%20PM.png" style="width: 90px; height: 170px; float: right; border-width: 6px; border-style: solid;" />Orthopedics and Sports Medicine (n</span><span style="line-height: 1.6em;">ow St. Luke&#39;s) the support goes far beyond monetary. &nbsp;St. Luke&#39;s provides us with an in season ATC-LTC</span><span style="line-height: 1.6em;">&nbsp;who can perform initial</span><span style="line-height: 1.6em;">&nbsp;assessments on injuries for players, staff and members free of charge. &nbsp;Along with this they support our tournaments, events&nbsp;and the Elite Club National League fixtures. &nbsp;They also provide coaches education&nbsp;topics in relation to injury prevention, assessment and return to activity.&nbsp;&nbsp; With this last cycle&#39;s</span><span style="line-height: 1.6em;">&nbsp;contribution, St. Luke&#39;s Sports Medicine&#39;s suppor</span><span style="line-height: 1.6em;">t helped us create a uniform package for our U9 and U10 FCN Gunners Girls and Boys athletes. I</span><span style="line-height: 1.6em;">ncluding</span><span style="line-height: 1.6em;">&nbsp;a ball, drawstring backpack, shorts, socks, Puma uniform and training tee shirts at no extra cost for over 130 families in that specific age program. &nbsp;Reducing the costs for kids in their introductory phase of competitive/formal programming. Accordingly, you will see the St Luke&#39;s Sports Medicine logo on our youth league uniforms and under the number on the backs of all our U9 and U10 FCN Gunners Boys and Girls Puma uniforms.</span></p>
+<p><strong><span style="font-size:14px;">Join us in celebrating our community, partners and attack on the future!</span><br />
+GO NOVA</strong></p>
+<p><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_19_38%20PM.png" style="width: 275px; height: 326px; border-width: 3px; border-style: solid; float: left;" /><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_58_51%20PM.png" style="width: 225px; height: 326px; border-width: 3px; border-style: solid;" /><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-09-25%20at%2012_26_51%20PM.png" style="line-height: 1.6em; width: 214px; height: 326px; border-width: 3px; border-style: solid;" /></p>
+</div>
+</div>
+</div>
+<div id="ArticleBox8" class="ArticleBoxOuterDiv" style="display:none;" mrid="826804">
+<a href="/home/826804.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/St%20Lukes%20Project.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption">FCNova and St Luke's making a difference</div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+FCNova and St Luke's making a difference!
+<div class="ArticleBoxSubHeadline">Focus group needed of parents with children aged 6-11 years of age</div>
+</div>
+<div class="ArticleBoxText">
+ <div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span style="font-size: 10.000000pt; font-family: ArialMT"><img alt="" src="http://www.fcnova.org/imgs/SportsMedicine_2CP.png" style="width: 100px; height: 42px;" /></span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">July 29</span><span style="font-size: 6.000000pt; font-family: ArialMT; vertical-align: 5.000000pt">th</span><span style="font-size: 10.000000pt; font-family: ArialMT">, 2014 </span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">Dear Parent: </span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">St. Luke&rsquo;s Orthopedics and Neurology is conducting research on children&rsquo;s consumption of sugar- sweetened beverages (i.e. fruit drinks, sports drinks) at kids&rsquo; sports events. We are inviting all parents (</span><span style="font-size: 10.000000pt; font-family: ArialMT">&ge;</span><span style="font-size: 10.000000pt; font-family: ArialMT">18 years of age) to participate in a focus group. Focus groups are small groups of people led through an open discussion by a skilled moderator. We only ask for your opinion, there are no right or wrong answers. </span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">If you have a child currently participating in the Youth NOVA soccer league who is between 6-11 years of age (male or female), we invite you to participate. We will need approximately 24 parents. Each parent volunteer will participate in one focus group with about 6-8 other parents, to discuss beverage consumption at kids&rsquo; sports events. The focus groups will be held the first two weeks of September in the evenings from 6-8pm at one of our St. Luke&rsquo;s locations &ndash; Boise or Meridian. We will need approximately two hours of your time. </span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">Food and beverages will be provided for you at the focus group. No children are allowed to be in attendance. Please remember only one parent/guardian from each family will be allowed to participate in the focus group. </span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">If you are interested in participating, please contact Kristin Armstrong at (208) 381-2718 or via email at </span><span style="font-size: 10.000000pt; font-family: ArialMT; color: rgb(0.000000%, 0.000000%, 100.000000%)">armstrkr@slhs.org </span><span style="font-size: 10.000000pt; font-family: ArialMT">by August 25</span><span style="font-size: 6.000000pt; font-family: ArialMT; vertical-align: 5.000000pt">th</span><span style="font-size: 10.000000pt; font-family: ArialMT">, 2014. Thank you. </span></p>
+<p><span style="font-size: 10.000000pt; font-family: ArialMT">Sincerely, </span></p>
+<p><img alt="" src="http://www.fcnova.org/imgs/Screen%20Shot%202014-07-30%20at%201_51_42%20PM.png" style="width: 200px; height: 67px; float: left;" /></p>
+<p><br />
+<br />
+<br />
+<br />
+<br />
+<span style="font-size: 10pt;"><font face="ArialMT"><span style="line-height: 1.6em;">Kristin Armstrong</span></font></span><br />
+<span style="font-family: ArialMT; font-size: 10pt; line-height: 1.6em;">Director, Community Health St. Luke&rsquo;s Sports Medicine&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ArticleBox9" class="ArticleBoxOuterDiv" style="display:none;" mrid="812650">
+<a href="/home/812650.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/docs/Screen%20Shot%202014-05-27%20at%205_32_02%20PM.png'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" style="">
+FCNova State Cup Success
+<div class="ArticleBoxSubHeadline">FCNova "heading to 2014 regional events"</div>
+</div>
+<div class="ArticleBoxText">
+ <p>After the Memorial Weekend dust settled, FCNova teams came out with some great results over the weekend and a &quot;future is&nbsp;bright&quot;&nbsp;outlook. &nbsp;Even with no representation via the ECNL teams at&nbsp;U15, U16, U17 and U18 girls age groups due to Elite Clubs National League schedule and showcase in New Jersey, FCNova posted an impressive showing in Boise over the IYSA State Cup Weekend.</p>
+<p>&quot;The representation was so refreshing compared to 2013, when we only had 1 team in State Cup due to a club decision to not attend with no teams looking to attend Far West Regionals in Hawaii due to cost. &nbsp;Being fiscally responsible is a high priority of our board and staff to our members!&quot; stated Director of Coaching, Eric Simmonsen. &nbsp;Eric continued with, &quot;I am extremely proud of all the age groups and genders this weekend. &nbsp;Yet, also excited for 2015 as we will have representation at the 2015 State Cup at a full capacity, including our ECNL age teams. &nbsp;We had some age groups where our boys are really showing well and pushing the envelope with the U13 Boys losing on an own goal in the final seconds of the Championship, the U18 Boys losing in the final in a great game and U17 Boys losing a close match in the semifinal. &nbsp;We also had some validity to our structure as our U15G, U14G and U13G showed the future depth and fact that a club/program&nbsp;at the highest levels, like ours,&nbsp;can facilitate two very competitve teams.&quot;</p>
+<p>The board of directors and staff would like to congratulate all the FCNova teams on the 2013-2014 cycle of accomplishments.</p>
+<p>The following teams are advancing on to the Presidents Cup Regional or Far West Regional as State Champions:</p>
+<blockquote style="color:rgb(34, 34, 34);font-family:arial, sans-serif;font-style:normal;line-height:normal;" type="cite">
+<p>U13G:&nbsp; FC Nova Pink going as State Champion to FWR in New Mexico</p>
+<p>U13G:&nbsp; FC Nova White going to Presidents Cup in California</p>
+<p><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; line-height: 1.6em;">U14G:&nbsp; FC Nova Elite going as State Champion to FWR in New Mexico</span></p>
+<p>U14G:&nbsp; FC Nova Pink going to Presidents Cup in California</p>
+<p>U15G:&nbsp; FC Nova Pink going as State Champion to FWR in New Mexico</p>
+<p>U16G:&nbsp; FC Nova Pink going to Presidents Cup in California. &nbsp;</p>
+<p><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; line-height: 1.6em;">U13B:&nbsp; FC Nova Black going to Presidents Cup in California</span></p>
+</blockquote>
+<p><strong>&nbsp;GO NOVA!!!</strong></p>
+</div>
+</div>
+</div>
+<div id="ArticleBox10" class="ArticleBoxOuterDiv" style="display:none;" mrid="849995">
+<a href="/home/849995.html"><div class="ArticleBoxPhotoDiv" style="background-image: url('/imgs/AmazonSmile_FredMeyer.jpg'); background-repeat: no-repeat; background-position: center;">
+  </div></a>
+<div class="ArticleBoxCaption"></div>
+<div class="ArticleBoxInnerDiv">
+<div class="ArticleBoxHeadline" >
+Holiday Shopping and Support for FC Nova
+</div>
+<div class="ArticleBoxText">
+ <div class="textlarge ArticleTitle" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; padding-left: 2px; overflow: visible; color: rgb(0, 0, 0); line-height: normal;">FC Nova and Amazon Smile</div>
+<div class="ArticleStory" style="overflow: visible; color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;">
+<p>FC Nova has been selected as a beneficiary of the AmazonSmile program.&nbsp; Every time you shop on line with Amazon using the smile.amazon.com&nbsp;link below at any time of the year, a portion of your purchase will help benefit FC Nova&rsquo;s families!&nbsp; AmazonSmile is a website operated by Amazon that lets customers enjoy the same wide selection of products, low prices, and convenient shopping features as on Amaz<a href="http://smile.amazon.com/" style="color: rgb(0, 0, 153); line-height: 1.6em;" target="_blank"><img alt="" src="http://www.fcnova.org/imgs/AmazonSmileLogo2.png" style="border: none; opacity: 0.9; width: 370px; height: 151px; float: right;" /></a><span style="line-height: 1.6em;">on.com. The difference is that when customers shop on AmazonSmile (smile.amazon.com), the AmazonSmile Foundation will&nbsp;</span><strong style="line-height: 1.6em;">donate 0.5% of the price</strong><span style="line-height: 1.6em;">of eli</span><span style="line-height: 1.6em;">gible purchases to the charitable organizations selected by customers.&nbsp;&nbsp;</span><strong style="line-height: 1.6em;">Amazon Smile works with regular Amazon accounts and Amazon Prime accounts</strong><span style="line-height: 1.6em;">.&nbsp;</span></p>
+<p>Proceeds from this program will be used by FC Nova to fund our scholarships for players with financial needs and the coaches&rsquo; travel fund, which will help defray the costs of coaches&rsquo; travel expenses for all FC Nova teams!</p>
+<p>To participate and show your support for FC Nova&rsquo;s scholarship programs and coaches&rsquo; travel fund pleas<span style="line-height: 1.6em;">e click here -&nbsp;</span><span style="line-height: 1.6em; font-size: 14px;"><strong><a href="http://smile.amazon.com/" style="color: rgb(0, 0, 153);" target="_blank"><span style="line-height: 1.6em;">Amazon Smile</span></a></strong></span></p>
+<p><strong><em><span style="background-color: rgb(255, 255, 0);">(Please remember to select FC Nova, Inc. as the charitable organization)</span></em></strong></p>
+<p><strong>There is no limit to the amount of times you can order. &nbsp;Be sure to click through the smile.amazon.com link every time you shop on Amazon.com. &nbsp;The Amazon Smile program is available to everyone....not just FC Nova members so please&nbsp;share this link with your friends and family.</strong>&nbsp;</p>
+<hr />
+<div class="textlarge ArticleTitle" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; padding-left: 2px; overflow: visible; color: rgb(0, 0, 0); line-height: normal;">Fred Meyer Community Rewards Program and FC Nova</div>
+<div class="ArticleTitleSpacer" style="margin-top: 4px; margin-right: 8px; margin-bottom: 4px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(160, 160, 160); overflow: visible; color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;">&nbsp;</div>
+<div class="ArticleStory" style="overflow: visible; color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;">
+<h2 style="text-align: center;"><a href="http://www.fredmeyer.com/communityrewards"><img alt="" src="http://www.fcnova.org/imgs/Fred_Meyer.jpg" style="border: none; width: 493px; height: 281px; float: right;" /></a></h2>
+<h2>You can earn FC Nova donations just by shopping with your Fred Meyer Rewards Card!</h2>
+<p>Fred Meyer is donating $2.5 million per year to non-profits in Alaska, Idaho, Oregon and Washington, based on where their customers tell them to give. Here&rsquo;s how the program works:</p>
+<ul>
+	<li>Sign up for the Community Rewards program by linking your Fred Meyer Rewards Card to FC Nova at&nbsp;<a href="http://www.fredmeyer.com/communityrewards" style="color: rgb(0, 0, 153);" target="_blank">www.fredmeyer.com/communityrewards</a>. You can search for us by our name or by our non-profit number 93803.<br />
+	&nbsp;</li>
+	<li>Then, every time you shop and use your Rewards Card, you are helping FC Nova earn a donation!<br />
+	&nbsp;</li>
+	<li>You still earn your Rewards Points, Fuel Points, and Rebates, just as you do today.<br />
+	&nbsp;</li>
+	<li>If you do not have a Rewards Card, they are available at the Customer Service desk of any Fred Meyer store.</li>
+</ul>
+<p>For more information, please visit&nbsp;<a href="http://www.fredmeyer.com/communityrewards" style="color: rgb(0, 0, 153);" target="_blank">www.fredmeyer.com/communityrewards</a>. &nbsp;Share this with your friends and on your Facebook page</p>
+</div>
+<p>&nbsp;</p>
+<hr />
+<p>Thank you for your continued support of FC Nova!</p>
+<p><span style="line-height: 1.6em;">FC Nova Staff and Board of Directors</span></p>
+</div>
+</div>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" class="ArticleBoxLinksTable">
+<tr>
+<td class="ArticleBoxLinksNameTD"><div class="textsmall ArticleBoxLinksNameDIV"></div></td>
+<td width="100%" class="ArticleBoxLinksRow">
+<table cellpadding="0" cellspacing="0" border="0" class="ArticleBoxLinksRowTable">
+<tr>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(1);">
+  <div id="MainLinksDiv1" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,1);" onmouseout="boxBounce.mouseOut(this,1);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">1</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(2);">
+  <div id="MainLinksDiv2" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,2);" onmouseout="boxBounce.mouseOut(this,2);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">2</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(3);">
+  <div id="MainLinksDiv3" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,3);" onmouseout="boxBounce.mouseOut(this,3);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">3</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(4);">
+  <div id="MainLinksDiv4" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,4);" onmouseout="boxBounce.mouseOut(this,4);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">4</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(5);">
+  <div id="MainLinksDiv5" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,5);" onmouseout="boxBounce.mouseOut(this,5);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">5</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(6);">
+  <div id="MainLinksDiv6" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,6);" onmouseout="boxBounce.mouseOut(this,6);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">6</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(7);">
+  <div id="MainLinksDiv7" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,7);" onmouseout="boxBounce.mouseOut(this,7);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">7</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(8);">
+  <div id="MainLinksDiv8" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,8);" onmouseout="boxBounce.mouseOut(this,8);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">8</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(9);">
+  <div id="MainLinksDiv9" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,9);" onmouseout="boxBounce.mouseOut(this,9);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">9</div>
+</td>
+<td style="width: 6px;"><img src="http://www.fcnova.org/common/images/1x1.gif" width="6" height="4" border="0"/></td>
+<td style="width: 18px;" onmouseover="this.style.cursor='pointer';this.style.cursor='hand';" onclick="boxBounce.userFrame(10);">
+  <div id="MainLinksDiv10" class="ArticleBoxLinksOff" onmouseover="boxBounce.mouseOver(this,10);" onmouseout="boxBounce.mouseOut(this,10);" onfocus="boxBounce.focus(this);" onblur="boxBounce.blur(this);">10</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIFader;DIIImageModule;Date;JQuery;Mustache;JQueryCycle;JQueryScrollTo;MobileNoGames;</div>
+ <link rel="stylesheet" href="http://www.fcnova.org/common/js/jquery-ui-1.8.1/css/base/ui.all.css" type="text/css"/>
+ <script src="http://www.fcnova.org/common/js/jquery-1.4.2/jquery.min.js" type="text/javascript"></script>
+<script>
+  var $j = jQuery.noConflict();
+var isMac = window.navigator.platform.toLowerCase().indexOf('mac') != -1 ? 1:0;
+var isFirefox = window.navigator.userAgent.toLowerCase().indexOf('firefox') != -1 ? 1:0;
+</script>
+ <script src="http://www.fcnova.org/common/js/jquery-ui-1.8.1/jquery-ui.full.min.js" type="text/javascript"></script>
+ <script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+var diiMenu = (function () {
+  var MENUDIR_LEFT = 'left';
+  var fetchMenu = function(menuclass, callback) {
+    var url = '/menu-' + menuclass + '.js';
+    $j.ajax({
+      url: url,
+      type: 'GET',
+      dataType: 'json',
+      success: callback
+    });
+  } // fetchMenu
+  var renderHTML = function(el, json) {
+    function makeMenu(mu, lvl, id1, nodes) {
+      var loggedin = 0,
+          sess = '423397';
+      mu.push('<ul class="diimenu-L' + lvl + '">');
+      $j.each(nodes, function (i) {
+        var node = this,
+            j = i + 1,
+            lvl_j = '' + lvl + '-' + j,
+            id = id1 + '-' + j,
+            itemid = node.attributes.id,
+            dyn = node.attributes.stuff || '',
+            title = node.data.title,
+            diffDomain = (dyn.match(/^http[s]?:\/\//i) && !dyn.match(/^http[s]?:\/\/www.fcnova.org/i)),
+            target = diffDomain ? ' target="_blank"' : '';
+        title = title.replace(/&apos;/g, "'"); // IE fix
+        if (dyn && loggedin && sess) { // get rid of any session in link and replace with this session
+          dyn = dyn.replace(/(\/scripts\/runisa.dll\?(M2|S7)(.\d+)?:gp:)(.*)?(:74089\+)/i, '$1' + sess + '$5');
+        }
+        mu.push('<li id="'+ id + '"' + (itemid ? ' itemid="' + itemid + '"' : '') + ' class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '">');
+        mu.push(  '<a href="' + dyn + '" class="diimenu-L' + lvl + ' diimenu-L' + lvl_j + '"' + target + '>');
+        mu.push(    '<span class="menutitle diimenu-L' + lvl + '">');
+        mu.push(      title);
+        mu.push(    '</span><br>');
+        mu.push(  '</a>');
+        if (node.children && node.children.length > 0) {
+          makeMenu(mu, lvl + 1, id, node.children);
+        }
+        mu.push('</li>');
+      });
+      mu.push('</ul>');
+    } // makeMenu
+    var $div = $j(el),
+        $ul_main,
+        $L0_lis,
+        mu = [];
+    makeMenu(mu, 0, $div.attr('id'), json);
+    $div.html(mu.join(''));
+    $ul_main = $div.find('ul.diimenu-L0');
+    $ul_main.find('ul').css({display: 'none'}); // Opera Fix
+    $ul_main.find('>li:first >a').css({borderLeftWidth: '1px'});
+    $L0_lis = $ul_main.find('>li');
+    $L0_lis.find('>a').css({borderTopWidth: '1px'});
+    $L0_lis.find('>ul >li >a').css({borderLeftWidth: '1px'});
+     if ($L0_lis.length >= 5) { $L0_lis.slice(-2).attr('menudir', MENUDIR_LEFT); }
+    $ul_main.find('li').hover(function(){
+      var $li = $j(this), $ul_child = $li.find('> ul');
+      if ($ul_child.length === 0) return;
+      var lvl0 = $li.hasClass('diimenu-L0');
+      if (lvl0) {
+        var menudir = $li.attr('menudir');
+      } else {
+        var $top_li = $li.parents('li.diimenu-L0');
+        var menudir = $top_li.attr('menudir');
+      }
+      if (menudir === MENUDIR_LEFT) {
+        $ul_child.css( {'margin-left': 0} ).show();
+        var wid_ul = $ul_child.outerWidth();
+        if (lvl0) {
+          $ul_child.css( {right: -(wid_ul/2)});
+          $ul_child.animate( { right: 0}, 400);
+        } else {
+          $ul_child.css( {left: -(wid_ul/2), right: (wid_ul/2)});
+          $ul_child.animate( {left: -wid_ul, right: wid_ul}, 400);
+        }
+      } else {
+        $ul_child.show(400, function(){
+          if ($j.browser.msie) {
+            // prevent crazy reformatting upon rotation steps by image module
+            // don't allow the li's enough room to float
+            var wid_li = $ul_child.find('>li:first').outerWidth();
+            $ul_child.css( {width: wid_li} );
+          }
+        });
+      }
+    }, function(){
+      var $li = $j(this), $ul_child = $li.find('> ul'), menudir = $li.attr('menudir');
+      $ul_child.stop().hide(400, function(){
+        $j(this).css({margin: '', padding: '', overflow: '', display: '', height: '', width: '', opacity: ''}).hide();
+      });
+    }); // hover
+    $ul_main.find('li a[href=""]').click(function(e) {
+      // prevent reloading page when no link provided in menu
+      var $a = $j(this), href = $a.attr('href');
+      if (!href) { // double check in case things change
+        e.preventDefault();
+      }
+    }); // click
+    $div.show();
+  } // renderHTML
+  var init = function () {
+      $j('div.diimenu').each(function () {
+        var $div = $j(this),
+            menuclass = $div.attr('menuclass');
+        if (menuclass) {
+          fetchMenu(menuclass, function (data) {
+            renderHTML($div, data);
+          });
+        }
+      });
+    }; // init
+  return {
+    init: init,
+    renderHTML: renderHTML
+  } // return
+})(); // diiMenu
+document.observe('dom:loaded', diiMenu.init);
+</script>
+ <script src="http://www.fcnova.org/common/js/date-en-US.js" language="JavaScript" type="text/javascript"></script> <script src="http://www.fcnova.org/common/js/time.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.fcnova.org/common/js/jquery.mustache-0.3.1/jquery.mustache.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+Copyright (c) 2015 Demosphere International Inc. No permission is
+granted for any purpose without prior written consent from Demosphere
+International Inc.
+*/
+rand4 = function (){return (''+Math.random()).slice(2,6);}
+diiGetV = function (v){
+  if(!v||!v.length||v=='')return '';
+  var ls = /^\s*/;  // Leading space regular expression
+  var ts = /\s*$/;  // Trailing space regular expression
+  return v.replace(ls, "").replace(ts, "");
+}
+diiClearTbody = function (tbody){while (tbody.rows.length>0) tbody.deleteRow(tbody.rows.length-1);}
+diiSetRowClassOddEven = function (tbody){if (tbody){
+  var cn1 = new RegExp("^\\s*odd|\\s+odd\\s*$", "g");
+  var cn2 = new RegExp("^\\s*even|\\s+even\\s*$", "g");
+  for (var i=0; tbody.rows.length>i; i++){
+    var clsnm = tbody.rows[i].className;
+    clsnm = clsnm.replace(cn1, "");
+    clsnm = clsnm.replace(cn2, "");
+    clsnm += (i % 2) ? ' odd' : ' even';
+    tbody.rows[i].className = normalizeString(clsnm);
+  }
+  }
+}
+function imBusy(idPrefix,msg){
+  return '<div style="height:40px;padding-top:10px;">'
+       + '<span id="'+idPrefix+'indicatorImg" style="margin-top:0px;">'
+       + '<img alt="Indicator" src="http://www.fcnova.org/common/images/indicator.gif" /> '
+       + '</span>'
+       + '<span id="'+idPrefix+'indicatorMsg" style="margin-top:0px;">'
+       + msg
+       + '</span>'
+       + '</div>';
+} // imBusy
+function appendBusyRow(tbodyId,msg,nCols){
+  var tbod = $(tbodyId); diiClearTbody(tbod);
+  var tr; var td;
+  tr = document.createElement('tr');
+  td = document.createElement('td');
+  td.innerHTML = imBusy(tbodyId,msg); td.colSpan = nCols;
+  tr.appendChild(td);
+  tbod.appendChild(tr);
+} // appendBusyRow
+function updateBusyRow(tbodyId,msg){
+  var tbod = $(tbodyId);
+  if (tbod&&tbod.rows&&tbod.rows.length>0){
+    var cells=tbod.rows[tbod.rows.length-1].cells;
+    if(cells&&cells.length>0)
+      cells[cells.length-1].innerHTML = msg;
+    }
+} // updateBusyRow
+function diiDMY_MDY(dt){
+  if(!dt||dt=='')return '';
+  var d=dt.match(/(\d+)-([A-Z]+)-(\d+)/);
+  if(!d||!d.length)return '';
+  var mm=d[2], dd=d[1], yy=d[3];
+  var mos=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  for (var i=0;mos.length>i;i++){if(mos[i]==mm){mm=(i+1)+'';break;}}
+  if(mm.length==1)mm='0'+mm;
+  if(dd.length==1)dd='0'+dd;
+  if(yy.length==4)yy=yy.slice(2,4);
+  return mm+'/'+dd+'/'+yy;
+}
+function diiH2A(h){
+  var a=$H(h).map(function(pair){
+    var k=pair.key;
+    var v=pair.value;
+    v.key=k;
+    return v;
+  })||[];
+  return $A(a);
+}
+var diiDateTimes = {
+  dates:{},
+  times:{},
+  getDateObj: function (dt, fullParseFlag) {
+    diiDateTimes.putDate(dt, fullParseFlag);
+    return diiDateTimes.dates[dt];
+  }, // getDateObj
+  getTimeInMinutes: function (tim) {
+    var timobj = diiDateTimes.getTimeObj(tim);
+    if (!timobj.timMinutes) {
+      timobj.timMinutes = parseInt(timobj.timH, 10) * 60 + parseInt(timobj.timM, 10);
+    }
+    return timobj.timMinutes;
+  }, // getTimeInMinutes
+  getTimeObj: function(tim) {
+    if (!tim) tim = 'TBD';
+    diiDateTimes.putTime(tim);
+    return diiDateTimes.times[tim];
+  }, // getTimeObj
+  putDate:function(dt,fullParseFlag){
+    if(!diiDateTimes.dates[dt]){
+      var dateobj = {D: '', M: '', Y: '', YMD: '', DDD: '', MMMD: '', MMMMYYYY: ''}, dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (dtA) {
+        dateobj.D = dtA[1];
+        dateobj.M = dtA[2];
+        dateobj.Y = dtA[3];
+      }
+      diiDateTimes.dates[dt] = dateobj;
+    }
+    if(fullParseFlag === true && !diiDateTimes.dates[dt].date && dt !== ''){
+      var dateobj = diiDateTimes.dates[dt];
+      var dtA = dt.match(/(\d+)-(\w+)-(\d+)/);
+      if (!dtA) {
+        dtA = dt.match(/(\d+)\/(\d+)\/(\d+)/);
+      }
+      if (dtA) {
+        dateobj.date = Date.parse(dt);
+        dateobj.YMD      = dateobj.date.toString("yyyyMMdd");
+        dateobj.DDD      = dateobj.date.toString("ddd");
+        dateobj.MMMD     = dateobj.date.toString("MMM d");
+        dateobj.MMMMYYYY = dateobj.date.toString("MMMM yyyy");
+      }
+    }
+  }, // putDate
+  putTime: function(tim) {
+    function makeEntry(a1, a2, a3) {
+      var timeobj = {};
+      var h = parseInt(a1, 10);
+      if (a3 && a3.toUpperCase() === 'PM' && 12 > h) {
+        h = h + 12;
+      }
+      a1 = '' + h;
+      timeobj.timH = a1;
+      timeobj.timM = a2;
+      timeobj.timHHMM = (a1.length == 1 ? '0' : '') + a1 +
+                        (a2.length == 1 ? '0' : '') + a2;
+      timeobj.timDisp = (h > 11) ? '' + ((h > 12) ? h - 12 : h) + ':' + a2 + ' PM' : ((h == 0) ? '12' : a1) + ':' + a2 + ' AM';
+      return timeobj;
+    } // makeEntry
+    if (!tim) tim = 'TBD';
+    if (!diiDateTimes.times[tim]) {
+      var timeobj = {};
+      var timA = tim.match(/30-DEC-1899\s(\d+):(\d+)/);
+      if (timA && timA.length && timA.length > 0) {
+        timeobj = makeEntry (timA[1], timA[2], '');
+      } else {
+        var timA = tim.match(/(\d+):(\d+)\s(AM|PM)/i);
+        if (timA && timA.length && timA.length > 0) {
+          timeobj = makeEntry (timA[1], timA[2], timA[3]);
+        } else {
+          timeobj.timH='';
+          timeobj.timM='';
+          timeobj.timDisp = 'TBD';
+        }
+      }
+      diiDateTimes.times[tim] = timeobj;
+    }
+  }, // putTime
+  rangesOverlap:function(range1Lo, range1Hi, range2Lo, range2Hi) {
+  return ( (range1Hi.compareTo(range2Lo) >= 0) && (range1Lo.compareTo(range2Hi) <= 0) );
+  } // rangesOverlap
+}
+/******************************************************************/
+/* normalizeString Copyright 2002 by Mike Hall                    */
+/* Please see http://www.brainjar.com for terms of use.           */
+/******************************************************************/
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+function normalizeString(s) {
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+  return s;
+} // normalizeString
+/* copyright Stephen Chapman 24th March 2006, 10th February 2007 */
+/* permission to use this function is granted by Stephen Chapman */
+/* provided that this copyright notice is retained intact        */
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+  var x = Math.round(num * Math.pow(10,dec));if (x >= 0) n1=n2='';
+  var y = (''+Math.abs(x)).split('');var z = y.length - dec; if (0 > z) z--; for(var i = z; 0 > i; i++) y.unshift('0');y.splice(z, 0, pnt);
+  while (z > 3) {z-=3; y.splice(z,0,thou);}var r = curr1+n1+y.join('')+n2+curr2;return r;
+}
+function formatComma(n,dec){
+  if (!dec) dec=0;
+  var pnt = (dec>0)?'.':'';
+  return formatNumber(n,dec,',',pnt,'','','-','');
+}
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function diiMemoLink(key) {
+  if (key !== undefined) {
+    var clickpop1 = window.open('http://www.fcnova.org/scripts/runisa.dll?M2:gp::74089+Elements/Memo+' + key + '+SiteMap', "clickpop1",
+                                'toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,top=50,left=50,width=400,height=300');
+    clickpop1.focus();
+  }
+} // diiMemoLink
+function diiInitMemoLinks() {
+  if ($j === undefined || !$j) return;
+  var $memolinks = $j('span.dii-memo-link[key]'), $done = $memolinks.find('> img').parent();
+  $memolinks = $memolinks.not($done);
+  $memolinks.each(function(){
+    var $span = $j(this), imgsize = $span.attr('imgsize');
+    if (!imgsize) imgsize = '12';
+    if (imgsize === '0') {
+      var txt = $span.text();
+      if (txt && txt === $span.html()) {
+        $span.html('<a href="#">' + txt + '</a>');
+      }
+    } else {
+      var s = '<img src="http://www.fcnova.org/common/images/icons/{{imgsize}}-Help.png" width="{{imgsize}}" height="{{imgsize}}" vspace="0" hspace="0" align="top" border="0"/>';
+      s = s.replace(/{{imgsize}}/g, imgsize);
+      $span.html(s).css({cursor: 'pointer'});
+    }
+  })
+  .click(function(e){
+    e.preventDefault();
+    var $span = $j(this), key = $span.attr('key');
+    if (key !== undefined) {
+      diiMemoLink(key);
+    }
+  });
+} // diiInitMemoLinks
+document.observe('dom:loaded', diiInitMemoLinks);
+</script>
+ <script src="http://www.fcnova.org/common/js/jquery.cycle/jquery.cycle.all.min.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.fcnova.org/common/js/dii_fader/dii_fader-0.3.2.js" language="JavaScript" type="text/javascript"></script>
+ <script src="http://www.fcnova.org/common/js/jquery-1.3.2/jquery.scrollTo-1.4.1-min.js" language="JavaScript" type="text/javascript"></script>
+  <script src="http://www.fcnova.org/common/js/modules/dii_image_module-0.0.4.js" language="JavaScript" type="text/javascript"></script>
+ <script id="dii-mobile-no-games" type="text/template">
+no games
+</script>
+<!---- End Main Content ---->
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="4" cellspacing="4" border="0">
+<tr>
+<td>
+  <div id="design-centerSize">
+    <div>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/Ia6Gu4UPXOU" width="560"></iframe></p>
+</div>
+  </div>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="4" cellspacing="4" border="0">
+<tr>
+<td>
+ <div id="design-centerSize">
+  <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=3924+E.+Lake+Hazel+Road,+Meridian+ID+83642&aq=&sll=38.003386,-79.420925&sspn=6.612343,11.975098&vpsrc=0&ie=UTF8&hq=&hnear=3924+E+Lake+Hazel+Rd,+Meridian,+Idaho+83642&t=m&z=16" target="_new"><img src="http://www.fcnova.org/images/2013/center-address.gif" width="585" height="31" border="0"/></a>
+  </div>
+</td>
+</tr>
+</table>
+</td>
+<td id="design-rightColumn">
+  <div id="design-rightContent">
+ <div id="dii-18235-status-widget">
+  <style type="text/css">
+div#dii-18235-status-widget table tr td { padding: 0; }
+div#dii-18235-status-widget table#tbl-18235-status-1 { width: 190px; border: 0; }
+div#dii-18235-status-widget div.FieldStatusEditOuter {padding-left: 16px;}
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG { width: 50px; border: 1px solid #80CD80; background-color: #CCFFCC; padding: 2px; text-align: center; font-size: 10px; font-weight: bold; color: #85CB85; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:link    { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:visited { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:active  { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditG a:hover   { color: #009900; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR { width: 50px; border: 1px solid #CD8080; background-color: #FFC3C3; padding: 2px; text-align: center; font-size: 10px; font-weight: bold; color: #CB8585; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:link    { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:visited { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:active  { color: #C00000; }
+div#dii-18235-status-widget div.FieldStatusEditOuter div.FieldStatusEditR a:hover   { color: #C00000; }
+div#dii-18235-status-widget table.tbl-18235-status { width: 100%; border: 0; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr { vertical-align: top; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td img { display: block; } /* very important for HTML5 */
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td img.edge-image { border: 0; }
+div#dii-18235-status-widget table.tbl-18235-status tbody tr td.cell-2 { width: 100%; text-align: center; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td img.edge-image { width: 15px; height: 44px; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td.FieldStatusTitle { background-image: url(/common/images/FieldStatus/Green/FS-Green-2.png); padding-top: 13px; }
+div#dii-18235-status-widget table#tbl-18235-status-2 tr td.FieldStatusTitle img { margin: auto; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td img.edge-image { width: 4px; height: 44px; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-1 { background-image: url(/common/images/FieldStatus/Green/FS-Green-4.png); }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-3 { background-image: url(/common/images/FieldStatus/Green/FS-Green-6.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td img.edge-image { width: 15px; height: 15px; }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-1 { background-image: url(/common/images/FieldStatus/Green/FS-Green-7.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-2 { background-image: url(/common/images/FieldStatus/Green/FS-Green-8.png); }
+div#dii-18235-status-widget table#tbl-18235-status-4 tr td.cell-3 { background-image: url(/common/images/FieldStatus/Green/FS-Green-9.png); }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 {background-image: url(/common/images/FieldStatus/Green/FS-Green-5.gif); background-repeat: repeat-x; background-color: #4AAD46; padding-top: 8px; text-align: center; text-transform: uppercase; font-size: 14px; font-weight: bold; color: #fff;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:link    {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:visited {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:active  {color: #fff; text-decoration: none;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 a:hover   {color: #fff; text-decoration: underline;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.FieldStatusContent-Green-Short {background-image: url(/common/images/FieldStatus/Green/FS-Green-5.gif); background-repeat: repeat-x; background-color: #4AAD46; padding: 4px; padding-left: 6px; padding-top: 2px;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div.FieldStatusTimestamp {padding-top: 4px; text-transform: none; text-align: center; font-size: 10px; font-weight: normal; color: #fff;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div.field-status-directions {padding-top: 4px; text-transform: none; text-align: center; font-size: 10px; font-weight: normal; color: #fff;}
+div.FieldStatusShort {color: #fff; text-transform: none;}
+div.FieldStatusShort div.hdr {font-size: 13px; font-weight: bold; text-transform: upper-case;}
+div.FieldStatusShort ul {margin: 0 0 0 20px; padding:  0 0 0 4px; font-size: 10px; font-weight: bold; color: #125cb8; text-align: left;}
+div.FieldStatusShort ul li {margin: 0; padding:  2px 6px 2px 0;}
+div.FieldStatusShort ul li span.nm {color: #fff;}
+div.FieldStatusShort ul li span.note {color: #125cb8; padding-left: 1em;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup { background-image: none; padding-top: 8px; }
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup a:link {color: #fff; font-size: 11px; text-decoration: none; font-weight: bold;}
+div#dii-18235-status-widget table#tbl-18235-status-3 tr td.cell-2 div#text-alerts-signup a:hover {text-decoration: underline;}
+</style>
+<table id="tbl-18235-status-1" cellspacing="0">
+<tbody>
+<tr>
+  <td>
+    <table id="tbl-18235-status-2" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.fcnova.org/common/images/FieldStatus/Green/FS-Green-1.png" class="edge-image"/></td>
+      <td class="cell-2 FieldStatusTitle">
+         <img src="http://www.fcnova.org/common/images/FieldStatus/Green/FS-Green-STATUS.png" width="133" height="26" border="0"/>
+      </td>
+      <td class="cell-3"><img src="http://www.fcnova.org/common/images/FieldStatus/Green/FS-Green-3.png" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+    <table id="tbl-18235-status-3" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.fcnova.org/common/images/1x1.gif" class="edge-image"/></td>
+      <td class="cell-2 FieldStatusContent-Green">
+ <div>all fields</div><div>are open</div>
+    <div class="FieldStatusTimestamp"> As of Wed Mar 25  </div>
+  <a href="http://www.fcnova.org/scripts/runisa.dll?M2:gp::74089+Elements/Display+E+18235+Status/Closures/" style="display: block; margin: 4px 8px 0; padding: 2px 8px; text-align: center; font-size: 10px; ">View All Field Locations</a>
+ <div class="field-status-directions"> <a href="http://www.fcnova.org/scripts/runisa.dll?M2:gp::74089+Elements/Display+E+18235">Get Directions to Fields</a> </div>
+      </td>
+      <td class="cell-3"><img src="http://www.fcnova.org/common/images/1x1.gif" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+    <table id="tbl-18235-status-4" class="tbl-18235-status" cellspacing="0">
+    <tbody>
+    <tr>
+      <td class="cell-1"><img src="http://www.fcnova.org/common/images/FieldStatus/Green/FS-Green-7.png" class="edge-image"/></td>
+      <td class="cell-2"><img src="http://www.fcnova.org/common/images/1x1.gif" width="1" height="15" border="0"/></td>
+      <td class="cell-3"><img src="http://www.fcnova.org/common/images/FieldStatus/Green/FS-Green-9.png" class="edge-image"/></td>
+    </tr>
+    </tbody>
+    </table>
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+  <div id="design-rightContent">
+<style type="text/css">
+  .imageContainer {position: relative; text-align: center; vertical-align: middle; white-spacing: nowrap;}
+  .imageContainerDIV {position: absolute; top: 0; left: 0; text-align: center; width: 100%;}
+  .imageContainerSize776266 {width: 202px; height: 150px;}
+</style>
+<script type="text/javascript">
+  document.observe('dom:loaded', function() {
+    new diiFader('module_fade_776266', { effect_duration: 0.5, loop_duration: 4000, jobid: '74089' });
+  });
+</script>
+<div id="module_fade_776266" class="imageContainer imageContainerSize776266" subdept="776266">
+  <div class="imageContainerDIV imageContainerSize776266" style="display:none"><a href="http://www.socceretc.us/"  target="_new"><img src="http://www.fcnova.org/imgs/socceretc_logo.gif"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776266" style="display:none"><a href="http://www.stlukesonline.org/sports/"  target="_new"><img src="http://www.fcnova.org/imgs/SportsMedicine_2CP.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776266" style="display:none"><a href="http://www.offthefield.com"  target="_new"><img src="http://www.fcnova.org/imgs/OFFTHEFIELDgrey.png"   alt="" border="0"/></a></div>
+  <div class="imageContainerDIV imageContainerSize776266" style="display:none"><a href="http://www.bodybuilding.com/"  target="_new"><img src="http://www.fcnova.org/imgs/bb_com_logo2.png"   alt="" border="0"/></a></div>
+</div>
+  </div>
+  <div id="design-rightContent">
+  <fb:activity site="facebook.com/fcnova.supernova" action="likes, recommends" colorscheme="light" header="true"></fb:activity>
+  </div>
+  <div id="design-rightContent">
+  <a class="twitter-timeline" href="https://twitter.com/FCNOVAIdaho" data-widget-id="413397937738104832">Tweets by @FCNOVAIdaho</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</td></tr>
+</table>
+<table id="design-pageFooter" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td class="textsmall" style="background: url(/images/2013/footer-1.gif) no-repeat;">
+<img src="http://www.fcnova.org/common/images/1x1.gif" width="775" height="1" border="0"/><br/>
+<div id="design-copyright">&copy; 2015
+ FC Nova. All rights reserved.</div>
+<div id="design-copyrightDII">&copy; 2015
+ <a href="http://www.demosphere.com" style="color: #ffffff; text-decoration: none;" target="new">Demosphere International, Inc.</a> All rights reserved.</div>
+</td>
+<td width="100%"><img src="http://www.fcnova.org/common/images/1x1.gif" width="2" height="37" border="0"/></td>
+<td align="right"><a href="http://www.demosphere.com"><img src="http://www.fcnova.org/images/2013/footer-2.gif" width="226" height="37" border="0" alt="Youth Sports WebWriter Websites, Online Registration Management, Tournament and League Scheduling Systems"/></a></td>
+</tr>
+</table>
+<br/><br/>
+</td></tr>
+</table>
+<!-- HTMLFootJS -->
+<div class="ww-js-requires" style="display: none;">Prototype;953MenuMain;DIIElementsJSPart;DIIFader;DIIImageModule;Date;JQuery;Mustache;JQueryCycle;JQueryScrollTo;MobileNoGames;</div>
+</body>
+</html>

@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title> Madison United Youth Soccer</title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/StandingsTrinket/style.css,/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/ImageRotatorTrinket/style.css" /><script src="http://www.rexburgsoccer.org/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js,/sam/admin/include/scripts/jquery.ui.all.min.js,/sam/admin/include/scripts/jquery.jshowoff.min.js,/sam/admin/include/trinkets/ImageRotatorTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><meta name="keywords" content="UVSF Madison United MYSA Recreational MYSA Futsal Yellowstone Cup"/><meta name="description" content="Upper Valley Soccer Foundation | Madison United Youth Soccer | Soccer in Rexburg, Idaho"/><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27843055-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13147" ><li id="mb-75660" class=" cmFirst "><a class="button-text" href="/homepage" style="" target="_top">Home page</a><span class="iefix">&nbsp;</span></li><li id="mb-76407" class="  "><a class="button-text" href="/sam/registration/login.php" style="" target="_blank">MEMBER LOGIN</a><span class="iefix">&nbsp;</span></li><li id="mb-75662" class="  "><a class="button-text" href="/home.php?layout=306988" style="" target="_top">Online Registration</a><span class="iefix">&nbsp;</span></li><li id="mb-197090" class="  "><a class="button-text" href="http://challenger.mycustomevent.com/shoppingcart.aspx?com=productlist&m=0&srch=t&txt=Rexburg&cid=310&zip=83440&zipdis=5" style="" target="_blank">Challenger Camp 2015</a><span class="iefix">&nbsp;</span></li><li id="mb-75680" class="parent  "><span style="" class="button-text">UVSF</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75667" class=" cmFirst "><a class="button-text" href="/uvsf" style="" target="_top">UVSF Overview</a><span class="iefix">&nbsp;</span></li><li id="mb-75681" class="  "><a class="button-text" href="/uvsfboard" style="" target="_top">UVSF Board</a><span class="iefix">&nbsp;</span></li><li id="mb-75661" class="  "><a class="button-text" href="/home.php?layout=306987" style="" target="_top">Registration Policies</a><span class="iefix">&nbsp;</span></li><li id="mb-76613" class="  cmLast"><a class="button-text" href="/home.php?layout=309333" style="" target="_top">Misconduct Policy</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75671" class="parent  "><span style="" class="button-text">Madison United</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75665" class=" cmFirst "><a class="button-text" href="/madisonunited" style="" target="_top">Madison United-Travel</a><span class="iefix">&nbsp;</span></li><li id="mb-75672" class="  cmLast"><a class="button-text" href="/faqs" style="" target="_top">FAQ's</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-75668" class="  "><a class="button-text" href="/mysa" style="" target="_top">MYSA-Recreational</a><span class="iefix">&nbsp;</span></li><li id="mb-75664" class="  "><a class="button-text" href="/futsal" style="" target="_top">MYSA-Futsal</a><span class="iefix">&nbsp;</span></li><li id="mb-75666" class="  "><a class="button-text" href="/mhssoccer" style="" target="_top">Madison High School Soccer</a><span class="iefix">&nbsp;</span></li><li id="mb-75669" class="  "><a class="button-text" href="/home.php?layout=307002" style="" target="_top">Rexburg Yellowstone Cup</a><span class="iefix">&nbsp;</span></li><li id="mb-75673" class="  "><a class="button-text" href="/volunteers" style="" target="_top">Volunteers</a><span class="iefix">&nbsp;</span></li><li id="mb-75670" class="  "><a class="button-text" href="/fields" style="" target="_top">Fields</a><span class="iefix">&nbsp;</span></li><li id="mb-75674" class="parent  "><span style="" class="button-text">Coaches/Referees</span><span class="buttonArrow"></span><ul class="cssMenu cmRight"><li id="mb-75677" class=" cmFirst "><a class="button-text" href="/warmups" style="" target="_top">Warm Ups</a><span class="iefix">&nbsp;</span></li><li id="mb-75678" class="  "><a class="button-text" href="/training" style="" target="_top">Training</a><span class="iefix">&nbsp;</span></li><li id="mb-75679" class="  "><a class="button-text" href="/certifications" style="" target="_top">Certifications</a><span class="iefix">&nbsp;</span></li><li id="mb-75675" class="  "><a class="button-text" href="/referees" style="" target="_top">Referees</a><span class="iefix">&nbsp;</span></li><li id="mb-78579" class="  cmLast"><a class="button-text" href="http://www.utahyouthsoccer.net/resources/technicaltuesday.aspx" style="" target="_blank">Resources</a><span class="iefix">&nbsp;</span></li></ul><span class="iefix">&nbsp;</span></li><li id="mb-78349" class="  "><a class="button-text" href="/doclib/20142015AgeChart.doc" style="" target="_blank">2014-2015 Age Chart</a><span class="iefix">&nbsp;</span></li><li id="mb-75676" class="  "><a class="button-text" href="/donations" style="" target="_top">Donations</a><span class="iefix">&nbsp;</span></li><li id="mb-78018" class="  cmLast"><a class="button-text" href="http://www.aysorexburg.org/" style="" target="_blank">AYSO</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Calendar					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-964545121" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Futsal Schedules					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="st-tkt-directory"><ul class="st-tkt-fancy-top"><li><span class="st-tkt-directory-item"><a href="/sam/standings/ss/schedule.php?containerID=MTI0NjA5MA==">2015 - MYSA - Futsal</a></span><ul><li><span class="st-tkt-directory-item"><a href="/sam/standings/ss/schedule.php?containerID=MTI0NjA5MQ==">U 05/06</a></span></li><li><span class="st-tkt-directory-item"><a href="/sam/standings/ss/schedule.php?containerID=MTI0NjA5Mw==">U 07/08</a></span></li><li><span class="st-tkt-directory-item"><a href="/sam/standings/ss/schedule.php?containerID=MTI0NjA5NQ==">U 09/10</a></span></li><li><span class="st-tkt-directory-item"><a href="/sam/standings/ss/schedule.php?containerID=MTI0OTU0Mw==">U 11/12/13</a></span></li></ul></li></ul></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Madison United Travel  Team 2015 Tournaments					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<br/>Boise Rush - March 27-28<br/>Location: All ages play at 9889 W. Hill Road  Boise, ID <br/><br/>PVSC Classic - April 17-18<br/>Pocatello Idaho (Girls U-14, G U-16, Boys U-18)<br/><br/>Wasatch Classic - May 22-25 Memorial Day Weekend <br/>Location: Games can be played at  three different locations<br/><br/>                Ellison Park-700 N 2200 W Layton Utah 84037<br/>                Angel Street Complex-200 S Angel Street Kaysville Utah 84037<br/>                DATC-550 S Main Street Kaysville Utah 84037<br/> <br/>Yellowstone Cup June 11-13. <br/><br/>Dean Cook Memorial Shoot Out June - 19-20<br/>Idaho Falls (Boys U-12, U-14, U-15, Girls U-12)					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Upper Valley Soccer Foundation					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						Upper Valley Soccer Foundation, otherwise known as UVSF, is the governing body for U.S. Youth Soccer in Rexburg and the surrounding communities.  UVSF offers recreational soccer through MYSA-Madison Youth Soccer Association and competitive/travel soccer through Madison United.<br/><br/>Our mission is to provide soccer opportunities to every boy and girl from age 5 through age 18.  This could include playing in our winter indoor futsal league or fall outdoor league and if you want year round soccer Madison United competitive/travel soccer in the winter and spring will do the trick!<br/><br/>MYSA offers outdoor soccer teams for boys and girls from age 10-18 for anyone residing in Madison County.  Madison United places boys and girls from Madison School district first and then from surrounding schools if positions are still available.					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Annual Soccer Registration Dates!					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <em><strong><span style="color: #1f497d;">Spring Recreational-$100.00<br /></span></strong></em>
+</p>
+<p>
+  Boys &amp; Girls Ages 11-18
+</p>
+<p>
+  <strong>REGISTRATION:</strong> February 1st through February 25th
+</p>
+<p>
+  <strong>SEASON:</strong> April 1<sup>st</sup> through May 31<sup>st</sup>
+</p>
+<p>
+  <span style="color: #0000ff;"><strong><span style="font-size: x-small;">Open to all soccer players living in Madison or Fremont Counties</span><br /></strong></span>
+</p>
+<hr />
+<p>
+  <em><strong><span style="color: #1f497d;">Fall Recreational-$100.00</span></strong></em>
+</p>
+<p>
+  Boys &amp; Girls Ages 11-12 (5th-6th Grade play in the Middle School League)
+</p>
+<p>
+  Boys &amp; Girls Age 13-15 (7th-8th-9th Grade play in the Junior High League)
+</p>
+<p>
+  <strong>REGISTRATION:</strong> June 25th through August 1st, 2014, placement Jamboree 9:00-10:30 on August 16th. Girls will meet at Madison Middle School and boys will meet at Madison High School.
+  Remember to wear clothes you can play in, shin gaurds and water.<sup><br /></sup>
+</p>
+<p>
+  <strong>SEASON:</strong> Third week of August through third week of October
+</p>
+<p>
+  <span style="color: #0000ff;"><span style="color: #0000ff; font-size: x-small;">Open to all soccer players living in Madison or Fremont Counties</span><strong><br style=
+  "font-size: x-small;" /></strong></span>
+</p>
+<hr />
+<div>
+  <p>
+    <em><strong><span style="color: #1f497d;">Spring Competitive Travel (Try Outs Required) $330 for 4 tournaments and season + Uniform<br /></span></strong></em>
+  </p>
+</div>
+<p>
+  Boys &amp; Girls Ages 11-18
+</p>
+<p>
+  <strong>REGISTRATION:</strong> September 1st to October 20th for play starting as early as January, depending on the team. Only children registered in Madison School District 321 and Sugar Salem
+  District 322 may try out.
+</p>
+<ul>
+  <li>Boys Try Outs will be from 9AM-11AM on November 1st at Madsion High School
+  </li>
+  <li>Girls Try Outs 9AM-11AM on November 1st at Madison Middle School
+  </li>
+  <li>On site check in begins 30 minutes before your try out session
+  </li>
+</ul>
+<p>
+  <strong>SEASON:</strong> January 1st through June 15th, includes 4 tournaments
+</p>
+<p>
+   
+</p>
+<hr />
+<p>
+  <em><strong><span style="color: #1f497d;">Winter Futsal-$45</span></strong></em>
+</p>
+<p>
+  Boys &amp; Girls Ages 5-18
+</p>
+<p>
+  <strong>REGISTRATION:</strong> November 15th through January 17th.
+</p>
+<p>
+  <strong>SEASON:</strong> 10 weeks, starting last Saturday in January
+</p>
+<p>
+  <span style="color: #0000ff;"><span style="color: #0000ff;">Open to all soccer players living in Madison or Fremont Counties</span><strong><br style="font-size: x-small;" /></strong></span>
+</p>
+<p>
+   
+</p>
+<div align="center">
+  <hr width="100%" size="2" />
+</div>
+<p style="text-align: center;">
+  You can register for any of these events by clicking on the Online Registration to the left during the registration period. There are no late registrations allowed.
+</p>
+<p style="text-align: center;">
+  <strong>QUESTIONS:</strong> E-mail Heather Quinton at <a href="mailto:hnbquinton2@msn.com">hnbquinton2@msn.com</a> or 208-589-2186
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Sponsors					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ImageRotatorTrinket"><div class="slide"><img src="http://www.rexburgsoccer.org/imagedata/Primary_color_vector_web1.jpg" /></div><div class="slide"><img src="http://www.rexburgsoccer.org/imagedata/image001.png" /></div><div class="slide"><img src="http://www.rexburgsoccer.org/imagedata/image002.gif" /></div><div class="slide"><img src="http://www.rexburgsoccer.org/imagedata/Bank_of_Commerce.png" /></div></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " ><img src="/cm/layout/images/bonzi_logo.png" alt="Web Site Design for Leagues by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Upper Valley Soccer Foundation. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " >Soccer Team Schedule Generator </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

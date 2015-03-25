@@ -1,0 +1,1167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super Administrator" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Stillwater Soccer Club</title>
+  <link href="/templates/stwsc/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.stillwatersoccerclub.com/index.php?option=com_search&amp;format=opensearch" rel="search" title="Search Stillwater Soccer Club" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/system/slnotificationbar/slnotificationbar/css/bar.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/stwsc/css/position.css" type="text/css" media="screen,projection"  />
+  <link rel="stylesheet" href="/templates/stwsc/css/layout.css" type="text/css" media="screen,projection"  />
+  <link rel="stylesheet" href="/templates/stwsc/css/print.css" type="text/css" media="print"  />
+  <link rel="stylesheet" href="/templates/stwsc/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="templates/stwsc/css/personal.css" type="text/css" />
+  <link rel="stylesheet" href="modules/mod_vipamazonassociates/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_showplus/css/slideshow.min.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.stillwatersoccerclub.com/modules/mod_sj_twitter/assets/css/twitter.css" type="text/css" />
+  <style type="text/css">
+.SLNotificationBar {
+                    background-color: #FF6A00 ;
+                    color:#050505 ;
+                    font-size: 12px;
+                    }
+                    .SLRibbon {
+                     background:#FF6A00 ;
+                    }.SLRibbon:hover {
+                     background:#FF6A00 url(/plugins/system/slnotificationbar/slnotificationbar/img/shine.png) ;
+                    }.SLNotificationBar {
+                        border-bottom:3px solid #FFF;
+                        position:relative;
+                        }
+                        .SLRibbon {
+                        position:absolute;
+                        top:0px;
+                        border-top:none;
+                        }
+                        .SLup{
+                        top:-50px;
+                        }
+                       #showplus_images_ssc_sliders .showplus { margin-bottom:0px; }
+#showplus_images_ssc_sliders .showplus-thumbnails { height:60px; bottom:0px; }
+#showplus_images_ssc_sliders .showplus-thumbnails ul { height:40px; width:10000px; }
+#showplus_images_ssc_sliders { border:1px solid #F0EBEB; height:230px; width:495px; }
+#showplus_images_ssc_sliders .showplus, .showplus-images { height:230px; width:495px; }
+#showplus_images_ssc_sliders .showplus-images span { background-color:#000000; }
+
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/system/slnotificationbar/slnotificationbar/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/slnotificationbar/slnotificationbar/js/jquery-ui-1.8.24.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/templates/stwsc/javascript/md_stylechanger.js" type="text/javascript"></script>
+  <script src="/templates/stwsc/javascript/hide.js" type="text/javascript"></script>
+  <script src="/modules/mod_showplus/js/slideshow.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery.noConflict();
+                          jQuery(document).ready(function() {
+                          jQuery('body').prepend('<div class=\"SLNotificationBar\"><span class=\"SLhelloinner\"><p class=\"SLtext\">UPDATE: Murray Weed Control will be spraying Fields 1 through 7 at Babcock Park tomorrow, Wednesday March 25th. If you have any question/concerns, please let us know. Thanks! SSC Field Crew. </p><p class=\"SLTrigger SLdownarrow\"><img src=\"/plugins/system/slnotificationbar/slnotificationbar/img/arrow-up.png\" class=\"SLarrow\" alt=\"Arrow Up\"/></p></span></div><span class=\"SLRibbon SLTrigger\"><img src=\"/plugins/system/slnotificationbar/slnotificationbar/img/arrow-down.png\" class=\"SLarrow\" alt=\"Arrow Down\"></span>');
+                            jQuery('.SLRibbon').delay(1000).fadeIn(400).addClass('SLup', 600);
+                            jQuery('.SLNotificationBar').hide().delay(2500).slideDown(300);
+                            jQuery('.SLTrigger').click(function(){
+                            jQuery('.SLRibbon').toggleClass('SLup', 300);
+                            jQuery('.SLNotificationBar').slideToggle();
+                            });
+			              });window.addEvent("load", function () { var slideshow = new Slideshow(document.id("showplus_images_ssc_sliders").removeClass("showplus-noscript").getElement("div"), {"\/images\/ssc\/sliders\/U9ComosCup2013.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/68c4f8b38f6340491c5ba78476f0f966.jpg"},"\/images\/ssc\/sliders\/academy_01.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/9fed47b626cd8cc7226b45cf4379c7a2.jpg"},"\/images\/ssc\/sliders\/ssc_refs_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/a88ed0ca24ddd348dadb12c8fa369da7.jpg"},"\/images\/ssc\/sliders\/u10_mwldst_champs_2014_01.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/c3b70c1c28eb30a7e2e4fb15fac2653c.jpg"},"\/images\/ssc\/sliders\/u10g_rec_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/471a15d55934fb247162338c7459723d.jpg"},"\/images\/ssc\/sliders\/u12b_cosmos_cup_champs_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/bccf471467bcfb62eac9659ddeefd494.jpg"},"\/images\/ssc\/sliders\/u12g_apex_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/a9a38658365433f1747b43819c0dc01b.jpg"},"\/images\/ssc\/sliders\/u12g_apex_2014_01.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/efe795ba0e22f7de4207b3141949005d.jpg"},"\/images\/ssc\/sliders\/u19b_comos_cup_2014_finalist.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/736525da31c69d07f7714671863a69f7.jpg"},"\/images\/ssc\/sliders\/u6_rec_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/c0bb9f5d701268a3c8fd21539d8d240b.jpg"},"\/images\/ssc\/sliders\/u6_rec_2014_01.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/615c3fa2be6a176b9b01da8e9774712d.jpg"},"\/images\/ssc\/sliders\/u7b_kickit_3v3_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/29aa0423a9750f34d31b13e2e3daa433.jpg"},"\/images\/ssc\/sliders\/u8_rec_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/972086ec5863b6c016822ef677eb43b2.jpg"},"\/images\/ssc\/sliders\/u8_rec_2014_01.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/07d50664dd6e643c6da152db3161feee.jpg"},"\/images\/ssc\/sliders\/u8b_cosmos_cup_champs_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/c511cf28f7fec04f7df859b2f2f375d7.jpg"},"\/images\/ssc\/sliders\/u9b_kickit_3v3_finalist_2014.jpg":{"caption":false,"href":"javascript:void(0);","thumbnail":"\/cache\/thumbs\/a70d1e394b84fe6fbaa7bfbaaec0fd9e.jpg"}}, Object.append({"width":495,"height":230,"thumbsize":[60,40],"captions":true,"controller":false,"delay":5000,"duration":800,"overlay":false,"transition":"linear","thumbnails":{"scroll":"x","speed":50,"autohide":"bottom"},"loader":true}, {classes:["showplus"],replace:[/\/([^\/]+)$/, "/thumbs/$1"]})); document.id("showplus_images_ssc_sliders").getElement("a.showplus-previous").addEvent("click", function () { slideshow.prev(); return false; }); document.id("showplus_images_ssc_sliders").getElement("a.showplus-next").addEvent("click", function () { slideshow.next(); return false; }); });
+  </script>
+  <!--[if lt IE 8]><link rel="stylesheet" href="/modules/mod_showplus/css/slideshow.ie7.css" type="text/css" /><![endif]-->
+
+
+<!--[if lte IE 6]>
+<link href="/templates/stwsc/css/ieonly.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#line {
+  width:98% ;
+}
+.logoheader {
+  height:200px;
+}
+#header ul.menu {
+  display:block !important;
+  width:98.2% ;
+}
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="/templates/stwsc/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<script type="text/javascript">
+  var big ='72%';
+  var small='53%';
+  var altopen='is open';
+  var altclose='is closed';
+  var bildauf='/templates/stwsc/images/plus.png';
+  var bildzu='/templates/stwsc/images/minus.png';
+  var rightopen='Open info';
+  var rightclose='Close info';
+  var fontSizeTitle='Font size';
+  var bigger='Bigger';
+  var reset='Reset';
+  var smaller='Smaller';
+  var biggerTitle='Increase size';
+  var resetTitle='Revert styles to default';
+  var smallerTitle='Decrease size';
+</script>
+
+</head>
+
+<body>
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                <img src="/images/ssc_logo.png"  alt="Stillwater Soccer Club" />
+                                                                                                                        <span class="header1">
+                                                                                </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                        <li><a href="#additional" class="u2">Jump to additional information</a></li>
+                                                                                   </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-464 active"><a href="/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=435" >Home</a></li><li class="item-469"><a href="/index.php?option=com_content&amp;view=article&amp;id=77&amp;Itemid=469" >Recreational</a></li><li class="item-470"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=470" >Academy</a></li><li class="item-468"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=468" >Apex</a></li><li class="item-475"><a href="/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=475" >Summer 3V3</a></li><li class="item-471"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=471" >Fields</a></li><li class="item-473"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=473" >Coaches</a></li><li class="item-472"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=472" >Referees</a></li><li class="item-477"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=477" >Board</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="435" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea2">
+                                        <div id="breadcrumbs">
+
+                                                        
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><span>Home</span></div>
+
+
+                                        </div>
+
+                                        
+
+                                                        <div class="left1 " id="nav">
+                                                   <div class="moduletable_menu">
+ 
+<ul class="menu">
+<li class="item-435 current active"><a href="/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=435" >Home</a></li><li class="item-480"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=480" >About SSC</a></li><li class="item-502"><a href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=502" >Game Schedule</a></li><li class="item-542"><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=542" >Tournaments</a></li><li class="item-497"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=497" >Documents and Forms</a></li><li class="item-498"><a href="/index.php?option=com_content&amp;view=category&amp;id=19&amp;Itemid=498" >News</a></li><li class="item-478"><a href="/index.php?option=com_joomgallery&amp;view=gallery&amp;Itemid=478" >Photo Gallery</a></li><li class="item-486"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=486" >Soccer Camps</a></li><li class="item-479"><a href="https://www.gotsport.com/asp/players/login.asp" target="_blank" >GotSoccer</a></li><li class="item-233"><a href="/index.php?option=com_users&amp;view=login&amp;Itemid=233" >Editor Login</a></li><li class="item-294"><a href="/index.php?option=com_sitemap&amp;view=default&amp;Itemid=294" >Site Map</a></li></ul>
+</div>
+
+                                                                
+<div
+	class="moduletable_js "><h3 class="js_heading"><span class="backh"> <span
+	class="backh1">Contact Info <a href="#"
+	title="click"
+	onclick="auf('module_91'); return false"
+	class="opencloselink" id="link_91"> <span
+	class="no"><img src="templates/beez_20/images/plus.png"
+	alt="is closed" />
+</span></a></span></span></h3> <div class="module_content "
+	id="module_91" tabindex="-1">
+
+<div class="custom"  >
+	<p><strong><span style="text-decoration: underline;">Address</span></strong></p>
+<p>Stillwater Soccer Club</p>
+<p>P.O. Box 2466</p>
+<p>Stillwater, OK 74076</p>
+<p><strong><span style="text-decoration: underline;">Phone</span> </strong></p>
+<p>(405) 533-5425</p>
+<p><span style="text-decoration: underline;"><strong>Email</strong></span></p>
+<p>stillwatersoccerclub@gmail.com</p></div>
+</div>
+</div>
+	
+<div
+	class="moduletable_js "><h3 class="js_heading"><span class="backh"> <span
+	class="backh1">President <a href="#"
+	title="click"
+	onclick="auf('module_105'); return false"
+	class="opencloselink" id="link_105"> <span
+	class="no"><img src="templates/beez_20/images/plus.png"
+	alt="is closed" />
+</span></a></span></span></h3> <div class="module_content "
+	id="module_105" tabindex="-1">
+
+<div class="custom"  >
+	<p><img src="images/ssc/board/edwin_sutherland.jpg" border="0" alt="Edwin Sutherland" width="104" height="110" style="border: 1px solid black; margin-left: 7px; margin-right: 7px; margin-top: 4px; margin-bottom: 4px; vertical-align: text-bottom;" /></p>
+<p>Edwin Sutherland.</p>
+<p><span style="text-decoration: underline;"><strong>Email</strong></span></p>
+<p>esutherland@stillwaterperio.com</p></div>
+</div>
+</div>
+	
+<div
+	class="moduletable_js "><h3 class="js_heading"><span class="backh"> <span
+	class="backh1">Director of Coaching and Player Development <a href="#"
+	title="click"
+	onclick="auf('module_104'); return false"
+	class="opencloselink" id="link_104"> <span
+	class="no"><img src="templates/beez_20/images/plus.png"
+	alt="is closed" />
+</span></a></span></span></h3> <div class="module_content "
+	id="module_104" tabindex="-1">
+
+<div class="custom"  >
+	<p><img src="images/ssc/board/justin_elkington.jpeg" border="0" alt="Justin Elkington" width="105" height="145" style="border: 1px solid black; margin-left: 7px; margin-right: 7px; margin-top: 4px; margin-bottom: 4px; vertical-align: text-bottom;" /><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p>Justin Elkington.</p>
+<p><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--></p>
+<p><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--></p>
+<p><a href="http://www.okstate.com/sports/w-soccer/mtt/justin_elkington_449566.html" target="_blank">Biography</a>. (Source: <a href="http://www.okstate.com/sports/w-soccer/mtt/justin_elkington_449566.html" target="_blank">Oklahoma State Cowgirls Soccer</a>)</p></div>
+</div>
+</div>
+	
+                                                                <div id="area-3" class="tabouter"><ul class="tabs"><li class="tab"><a href="#" id="link_132" class="linkopen" onclick="tabshow('module_132');return false">Google+</a></li><li class="tab"><a href="#" id="link_89" class="linkopen" onclick="tabshow('module_89');return false">Twitter</a></li><li class="tab"><a href="#" id="link_122" class="linkopen" onclick="tabshow('module_122');return false">Facebook </a></li></ul><div tabindex="-1" class="tabcontent tabopen" id="module_132"><script type="text/javascript">window.___gcfg = {lang: 'en'};
+		        (function() {
+		            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		            po.src = 'https://apis.google.com/js/platform.js';
+		            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		          })();</script>
+<!-- standard layout -->
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-page" 
+	data-href="https://plus.google.com/104659271548599776490/about" 
+	data-rel="publisher" 
+	data-layout="portrait" 
+	data-theme="light" 
+	data-showtagline="true" 
+	data-showcoverphoto="true" 
+	data-width="180">
+</div><a href="#" class="unseen" onclick="nexttab('module_132');return false;" id="next_132">Next Tab</a></div><div tabindex="-1" class="tabcontent tabopen" id="module_89">
+	<a class="twitter-timeline" href="https://twitter.com/StillwaterSC" data-widget-id="345189744336056320" data-tweet-limit="2" width="" height="" data-theme="light">Tweets by @StillwaterSC</a>
+	
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	</script>
+	
+
+<a href="#" class="unseen" onclick="nexttab('module_89');return false;" id="next_89">Next Tab</a></div><div tabindex="-1" class="tabcontent tabopen" id="module_122"><script type="text/javascript">window.addEvent('load', function() { if(document.id('fb-root') == null){
+			console.log("not found"); 
+		var fbroot = new Element('div#fb-root');
+		$$('body').grab(fbroot);
+		(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=SSC Facebook"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));}});</script><div class="fb-like-box" 
+	data-href="https://www.facebook.com/stillwatersoccerclub" 
+	data-width="180px" 
+	data-height="360px" 
+	data-colorscheme="light" 
+	data-show-faces="true" 
+	data-stream="false" 
+	data-header="true" 
+	data-show-border="true">
+</div></div></div>
+
+
+                                                        </div><!-- end navi -->
+               
+                                        <div id="wrapper" >
+
+                                                <div id="main">
+
+                                                                                                        <div id="top"><div id="showplus_images_ssc_sliders" class="showplus-noscript showplus-center showplus-horizontal"><div class="showplus"><ul class="showplus-images"><li><img src="/images/ssc/sliders/U9ComosCup2013.jpg" alt="" /></li><li><img src="/images/ssc/sliders/academy_01.jpg" alt="" /></li><li><img src="/images/ssc/sliders/ssc_refs_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u10_mwldst_champs_2014_01.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u10g_rec_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u12b_cosmos_cup_champs_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u12g_apex_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u12g_apex_2014_01.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u19b_comos_cup_2014_finalist.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u6_rec_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u6_rec_2014_01.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u7b_kickit_3v3_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u8_rec_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u8_rec_2014_01.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u8b_cosmos_cup_champs_2014.jpg" alt="" /></li><li><img src="/images/ssc/sliders/u9b_kickit_3v3_finalist_2014.jpg" alt="" /></li></ul></div><div class="showplus-navigation"><a class="showplus-previous" href="#">Previous</a> &#x25C1; | &#x25B7; <a class="showplus-next" href="#">Next</a></div></div>
+                                                        </div>
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="item-page">
+
+
+
+
+
+
+
+
+
+<p><strong>Stillwater Soccer Club</strong></p>
+<p>The Stillwater Soccer Club (SSC) is a non-profit, volunteer organization formed to promote the development of youth soccer in the Stillwater area. Our goal, each season, is to provide each player with an enjoyable soccer experience with participation, skill development and team camaraderie. Read more about our <a href="index.php?option=com_content&amp;view=article&amp;id=80">Affiliations</a>, <a href="index.php?option=com_content&amp;view=article&amp;id=80">Organization</a> and <a href="index.php?option=com_content&amp;view=article&amp;id=80">Philosophy</a>.</p>
+<p><strong>Babcock Park Soccer Complex</strong></p>
+<p>Starting Fall 2014, all U-6 and U-8 Rec. games will no longer be played at Babcock Park Soccer Complex. They will now be played at our new facility at the Innovation Way.</p>
+<p><a href="https://www.google.com/maps/dir//Babcock+Park,+Stillwater,+OK+74074/@36.104236,-97.090859,604m/data=!3m1!1e3!4m12!1m3!3m2!1s0x0:0x1e5fdc7d2c50569f!2sBabcock+Park!4m7!1m0!1m5!1m1!1s0x87b10a791d48b293:0x1e5fdc7d2c50569f!2m2!1d-97.090859!2d36.104236?hl=en-US" target="_blank">Get Directions to Babcock Park Soccer Complex.</a></p>
+<p><img src="images/ssc/facilities/fields/babcock_park.png" border="1" alt="Babcock Park Fields" width="520" height="332" style="border: 1px solid black;" /></p>
+<p><a href="index.php?option=com_content&amp;view=article&amp;id=71">More information</a> about field assignments, field location and field number.</p>
+<p><strong>Innovation Way Soccer Fields</strong></p>
+<p>This facility was recently given to SSC and at this time will only host all U-6 and U-8 Rec. games.</p>
+<p><a href="https://www.google.com/maps/dir//Innovation+Way+Dr,+Stillwater,+OK+74074/@36.110423,-97.109467,559m/data=!3m1!1e3!4m13!1m4!3m3!1s0x87b1a096a75315fd:0x8861d11af90e43be!2sInnovation+Way+Dr,+Stillwater,+OK+74074!3b1!4m7!1m0!1m5!1m1!1s0x87b1a096a75315fd:0x8861d11af90e43be!2m2!1d-97.109467!2d36.110423" target="_blank">Get Directions to Innovation Way Soccer Fields.</a></p>
+<p><img src="images/ssc/facilities/fields/innovation_way.png" border="1" width="520" height="332" style="border: 1px solid black;" /></p>
+<div id="__hggasdgjhsagd_once" style="display: none;"> </div>
+<p> </p> 
+	
+</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                                                        <h2 class="unseen">
+                                                Additional information                                        </h2>
+                                        <div id="close">
+                                                <a href="#" onclick="auf('right')">
+                                                        <span id="bild">
+                                                                Close info</span></a>
+                                        </div>
+
+
+                                        <div id="right">
+                                                <a id="additional"></a>
+                                                <div class="moduletable">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Latest News</span></span></span></h3>
+ <ul class="latestnews">
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=114:u-8-spring-2015-schedule&amp;catid=19:stillwater-soccer-club&amp;Itemid=498">
+			U-8 Spring 2015 Schedule</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=112:u-12-u-14-u-16-boys-traveling-rec-spring-2015-schedule&amp;catid=19:stillwater-soccer-club&amp;Itemid=498">
+			U-12, U-14 & U-16 Boys Traveling Rec. Spring 2015 Schedule</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=111:u-6-spring-2015-schedule&amp;catid=19:stillwater-soccer-club&amp;Itemid=498">
+			U-6 Spring 2015 Schedule</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=110:u-10-boys-spring-2015-schedule&amp;catid=19:stillwater-soccer-club&amp;Itemid=498">
+			U-10 Boys Spring 2015 Schedule</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=109:u-12-apex-boys-2015-orange-leaf-invitational-champs&amp;catid=19:stillwater-soccer-club&amp;Itemid=498">
+			U-12 APEX Boys - 2015 Orange Leaf Invitational Champs!</a>
+	</li>
+</ul>
+</div>
+<div class="moduletable">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Stillwater High Soccer</span></span></span></h3>
+ 
+
+<div class="custom"  style="background-image:url(images/ssc/facilities/fields/bg_pioneer.jpg)" >
+	<table width="192" border="1" align="center">
+<tbody>
+<tr>
+<td><img src="images/banners/trans_pioneer_soccer_logo.png" border="0" alt="Stillwater High School Soccer Logo" width="97" height="119" style="border: 0px none; margin: 5px auto; display: block;" /></td>
+</tr>
+<tr>
+<td bgcolor="#fcd700">
+<p style="text-align: center;"><a href="https://sites.google.com/a/stillwaterschools.com/high-school-soccer/" target="_blank">Boys Soccer</a> | <a href="https://sites.google.com/a/stillwaterschools.com/stillwater-lady-pioneer-soccer/" target="_blank">Girls Soccer</a></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="moduletable">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Pioneer Stadium</span></span></span></h3>
+ 
+
+<div class="custom"  >
+	<table width="190" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="images/ssc/facilities/fields/pioneer_stadium.png" border="0" alt="Pioneer Stadium" width="186" height="115" style="border: 0;" /></td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;"><a href="https://www.google.com/maps/dir//Stillwater+High+School,+1224+North+Husband+Street,+Stillwater,+OK+74075/@36.1368743,-97.062808,278m/data=!3m1!1e3!4m12!1m3!3m2!1s0x0000000000000000:0x9e1ee51aa6a56566!2sStillwater+High+School!4m7!1m0!1m5!1m1!1s0x87b10a25e23bcd79:0x9e1ee51aa6a56566!2m2!1d-97.061233!2d36.135825" target="_blank">Directions to Pioneer Stadium</a></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="moduletable">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Help SSC by shopping at Amazon.com</span></span></span></h3>
+ <div class="vip-amazon  itp_va_center">
+<iframe 
+src="http://rcm.amazon.com/e/cm?t=stillw-20&amp;o=1&amp;p=9&amp;l=st1&amp;mode=sporting&amp;search=us%20soccer&amp;fc1=000000&amp;lt1=_blank&amp;lc1=3366FF&amp;bg1=FFFFFF&amp;f=ifr" 
+marginwidth="0" 
+marginheight="0"  
+border="0" 
+frameborder="0" 
+style="border:none;" 
+scrolling="no" 
+ width="180" height="150" ></iframe>
+</div>
+</div>
+<div class="moduletable">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Official Club Gear at Soccer.com</span></span></span></h3>
+ 
+
+<div class="custom"  >
+	<p style="text-align: center;"><a href="http://www.soccer.com/stillwatersc" target="_blank"><img src="images/banners/by_id.jpg" border="0" alt="Raise money for Stillwater  Soccer Club through Spirit Wear on Soccer.com" width="180" height="160" style="vertical-align: middle; border: 1px solid black;" /></a></p></div>
+</div>
+
+                                                
+                                                
+                                        </div><!-- end right -->
+                                        
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+                                                <div id="footer-inner">
+
+                                <div id="bottom">
+                                        <div class="box box1"> <div class="moduletable">
+ <div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=4" target="_blank"
+							title="Oklahoma Soccer Association">
+							<img
+								src="http://www.stillwatersoccerclub.com/images/banners/oklahoma-soccer-association-logo.png"
+								alt="Oklahoma Soccer Association"
+								width ="60"								height ="60"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+	<div class="bannerfooter">
+		Oklahoma Soccer Association	</div>
+</div>
+</div>
+</div>
+                                        <div class="box box2"> <div class="moduletable">
+ <div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=2" target="_blank"
+							title="United States Youth Soccer Association">
+							<img
+								src="http://www.stillwatersoccerclub.com/images/banners/USYSA-logo.png"
+								alt="United States Youth Soccer Association"
+								width ="60"								height ="60"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+	<div class="bannerfooter">
+		United States Youth Soccer Association	</div>
+</div>
+</div>
+</div>
+                                        <div class="box box3"> <div class="moduletable">
+ <div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=3" target="_blank"
+							title="United States Soccer Federation">
+							<img
+								src="http://www.stillwatersoccerclub.com/images/banners/ussf_logo.png"
+								alt="United States Soccer Federation"
+								width ="60"								height ="60"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+	<div class="bannerfooter">
+		United States Soccer Federation	</div>
+</div>
+</div>
+</div>
+                                </div>
+
+
+                        </div>
+                                
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+                                       
+
+<div class="custom"  >
+	<p style="text-align: left;"><a>@ 2014 - Stillwater Soccer Club | All Rights Reserved </a></p>
+<p><a href="index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=435">Home</a> | <a href="index.php?option=com_sitemap&amp;view=default&amp;Itemid=294">Site Map</a> | <a href="mailto:webmaster@stillwatersoccerclub.com">Webmaster</a> | <strong><a href="index.php?option=com_content&amp;view=article&amp;id=100">Privacy Policy</a> - Last Updated:</strong> Friday 06, 2015</p></div>
+
+                                        <p align="center">
+                                          <!-- Enter Policy Text Here -->
+                                        </p>
+                                </div><!-- end footer -->
+
+                        </div>
+
+                </div>
+        
+        </body>
+</html>
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/97dbac1009046db5724064b29039ff6c?id=3b379187378a";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

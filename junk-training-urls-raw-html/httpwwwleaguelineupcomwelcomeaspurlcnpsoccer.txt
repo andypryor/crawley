@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">    
+-->
+
+
+
+<html>
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>  <!-- needed for IE -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<title>CNP Soccer Association - (Choctaw, OK)  - powered by LeagueLineup.com</title><meta name="keywords" content="soccer, sport, Choctaw, Jones, Nicoma Park, Luther, Spencer"><meta name=description content="Providing recreational youth soccer for Eastern Oklahoma County">
+
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/base/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="css/bootstrap-social.css" rel="stylesheet">
+
+	<script src="_incl/llv/mediaelement-and-player.min.js"></script>
+	<link rel="stylesheet" href="_incl/llv/mediaelementplayer.min.css" />
+	
+
+<link rel="stylesheet" href="css/sites.css?201403-2" type="text/css" media="screen" />
+
+
+
+<!-- mainstyle -->
+
+<style>
+
+body {
+     background-repeat: repeat;background-attachment: scroll;
+}
+
+.title, h2.title {margin: 0px; font: bold large "Arial"; color: #FF0000;}
+.date {font: bold small "Arial"; color: #000000;}
+.item {font: small "Arial"; color: #000000;}
+.item a {color: #000000;}
+#leftside {background: #000000 url(http://my.llfiles.com/00279647/Logo.jpg);}
+#content {background: #ffffff url(images/bg_soccer1.gif); width: 100%;}
+.contentinfo {width: 100%;}
+
+#wrapper {
+     width: 100%;
+     border: 0px solid #ffffff;
+     margin: 0px auto 0 auto; 
+}
+#headercontainer {
+     width: 100%;
+     background: #ffffff; 
+     
+}
+
+#maintable {
+     
+     background: #ffffff; 
+     margin: 0 auto 0 auto; 
+     border-top: 0;
+	
+}
+
+
+#adspace {width: 100%; height: 100%; margin: 0; padding: 40px 0 10px 0; background: #007FFF;}
+#leaderboard {width: 728px; height: 90px; margin: 0 auto 0 auto; background: #333;}
+#x25 {width: 970px; height: 66px; margin: 0 auto 10px auto; background: #333;}
+
+
+
+     #header {
+          height: 100%;
+          width: 100%;
+          color: #000000;
+          padding: 0;
+          margin: 0 auto 0 auto;
+          border-spacing: 0;
+          border-collapse: collapse;
+          background: #007FFF;
+          background: -webkit-linear-gradient(top, #007FFF 0%, #007FFF 100%);
+          background: -moz-linear-gradient(top, #007FFF 0%, #007FFF 100%);
+          background: -ms-linear-gradient(top, #007FFF 0%, #007FFF 100%);
+          background: -o-linear-gradient(top, #007FFF 0%, #007FFF 100%);
+          background: linear-gradient(to bottom, #007FFF 0%, #007FFF 100%);
+          
+     }
+     #headermiddletext { }
+     #headerimageleft_cell {width: 0; padding: 0; margin: 0;}
+     #headermiddle_cell {width: 100%; padding: 0; margin: 0; }
+     #headerimageright_cell {width: 0; padding: 0; margin: 0;}
+     #line1 {margin-top: 10px; font: normal 18px "Arial"; color: #000000; display: block; }
+     #line2, #headermiddletext h1 {margin: 0 0 10px 0; font: normal 36px "Arial"; color: #000000; display: block; font-weight: bold;}
+     #line3 {font: normal 16px "Arial"; color: #000000; display: block; }
+     #header td, #header th {padding: 0;}
+
+
+#headlines {float: right; margin: 0 0 10px 10px; width: 160px;}
+.infotable {margin-bottom: 10px; border: solid 1px #000; width: 100%; border-spacing: 0; border-collapse: collapse;  text-align:left; background: #fff;}
+.infotable.borders {border: 1px solid #333;}
+.infotable tr.alt {background: #eee;}
+.infotable tr.tall {height: 50px;}
+.infotable th {height: 30px; background: #007FFF; font: bold 14px "arial"; color: #000000; padding: 5px; text-align: left;}
+.infotable th a {color: #000000; text-decoration: none;}
+.infotable th.center {text-align: center;}
+.infotable th.right {text-align: right;}
+.infotable td {padding: 5px; font: 12px Arial,Verdana,Tahoma; }
+.infotable td.center {text-align: center;}
+.infotable select {padding: 2px 3px; font: 12px verdana; color: #111; border: 1px solid #999;}
+.infotable.full {width: 100%; border-top: 0; border-left: 0; border-right: 0;}
+.infotable input {padding: 5px;}
+.infotable input:focus {border: 1px solid #3366cc; outline: none;}
+.borders th {border: 1px solid #ccc;}
+.borders td {border: 1px solid #ccc;}
+.noitems {color: #cc0000; font-size: 16px; font-weight: bold; padding: 10px;} 
+
+table#headerinfo {background-color: #007FFF; height: 25px; padding:0; margin: 0; border-spacing: 0; border-collapse: collapse;}	
+table#headerinfo td {color: #000000; font: 14px arial; width: 33%; padding: 3px 7px; }
+table#headerinfo a {margin: 0 10px; font-weight: normal; text-decoration: none; color: #000000;}
+table#headerinfo a:hover {text-decoration: underline;}
+
+table.tableview  {font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color:#000000; border-spacing: 0px; border-collapse: collapse; border: 1px solid #ccc; background-color: #ffffff; width: 100%;}	
+table.tableview tr {height: 20px;}
+table.tableview th {height: 25px; font-size: 11px; font-weight : bold; padding: 5px; color: #000000; background-color: #007FFF; border-width: 0px 1px 1px 0px; border-style: solid; border-color: lightgrey;}
+table.tableview th a {color: #000000; text-decoration: none;}
+table.tableview td {padding : 4px; border-width: 0px 1px 1px 0px; border-style: solid; border-color: #ccc; color: #000;}
+table.tableview td a {color: #0000ff; text-decoration: none;}
+
+table.menu {background: #111; font: 12px Arial; color: #FFFFFF; width: 164px;}
+table.menu tr.adminlogin {display: none;}
+table.menu th {padding: 4px; height: 25px; border: 1px solid #111; background: #007FFF; text-align: center; font: 12px Arial; color: #000000; font-weight: bold;}
+table.menu td {padding: 4px; height: 25px; border: 1px solid #111; background: #007FFF; color: #FFFFFF;}
+table.menu td.menuicon {width: 24px; text-align: center;}
+table.menu td.adminlink {background: #8B0000; color: #ffffff;}
+table.menu td.adminlink a {color: #ffffff;}
+table.menu a {color: #FFFFFF;  text-decoration: none;}
+table.menu a:link {color: #FFFFFF;}
+table.menu a:visited {color: #FFFFFF;}
+table.menu a:active {text-decoration: none;}
+table.menu a:hover {text-decoration: underline;}
+table.menu tr.menuhighlights {height: 10px;}
+table.menux td:hover {background: #FFFFFF; color: #007FFF;}
+table.menux td:hover a {color: #007FFF;}
+table.menu.full {margin-top: 0; width: 100%; height: 30px;}
+table.menu.full td {border: 0;}
+table.menu.full img {margin-bottom: 5px;}
+
+#townid {width: 164px; margin: 2px 0 5px 0; padding: 5px 2px; border: 1px solid #000; outline: none; background: #fff; color: #333;}
+#mainpage {padding: 5px 0;}
+#mainpage a {color: #fff; text-decoration: none; padding: 5px; border-radius: 3px; background: #333;}
+#mainpage a:hover {background: #555;}
+
+
+.boxheader {font: 12px Arial; background: #007FFF; color: #000000; font-weight: bold;  line-height: 30px; width: 160px; margin-top: 15px; border: 1px solid #000;}
+
+.boxpromo {padding: 10px 0; width: 158px; line-height: 20px; background: #fff; border: 1px solid #000; border-top: 0; border-bottom: 0; font-weight: bold; font-size: 14px;}
+
+.boxcontent {background: #007FFF; color: #FFFFFF; height: auto; line-height: 20px; width: 158px; padding: 5px 0; border: 1px solid #000; border-top: 0;}
+.boxcontent a {text-decoration: none; color: #FFFFFF;}
+.boxcontent a:hover {text-decoration: underline;}
+
+.psw_sidebar {padding: 0 0 5px 0; width: 158px; height: auto; line-height: 20px; background: #007FFF; color: #FFFFFF;  border: 1px solid #000; border-top: 0;}
+.psw_sidebar a {margin: 0; text-decoration: underline; text-decoration: none; color: #FFFFFF;}
+.psw_sidebar a:hover {text-decoration: underline;}
+
+.psw_sidebar img {width: 100%;}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PNG FIX for IE6 - http://24ways.org/2007/supersleight-transparent-png-in-ie6 -->
+<!--[if lte IE 6]>
+     <script type="text/javascript" src="js/pngfix/supersleight-min.js"></script>
+<![endif]-->
+
+</head>
+
+
+<body>
+
+<!--include_header-->
+
+
+
+<table cellspacing=0 cellpadding=0 id="wrapper"><tr><td>
+
+     
+     <div id="headercontainer">
+          
+
+          <table id="header">
+          <tr valign=middle>
+          
+               <td id="headerimageleft_cell"><div id="headerimageleft" style="display: none;"></div></td>
+          
+          <td align=center id="headermiddle_cell">
+          <div id="headermiddletext" style="display: none;">
+               <div id=line1>Welcome to the home of the</div><h1>CNP Soccer Association</h1><div id=line3></div>
+          </div>
+          <div id="headermiddleimage" >
+               <img src="http://my.llfiles.com/00279647/Logo.jpg?i=3">
+          </div>
+          </td>
+          
+               <td id="headerimageright_cell"><div id="headerimageright" style="display: none;"></div></td>
+          
+          </tr>
+          </table>
+
+     </div>
+
+
+     <div id="maintable">
+
+
+     <table id="headerinfo" width=100% ><tr>
+     <td align=left ><div id="headerleft">
+     <a href="/welcome.asp?sid=316627695&url=cnpsoccer">CNP Soccer Association</a></div></td><td align=center><div id="headercenter">Last Updated: March 25, 2015</div></td><td align=right><div id="headerright"><a href="/welcome.asp?sid=316627695&url=cnpsoccer">www.leaguelineup.com/cnpsoccer</a>&nbsp;</div></td></tr></table>
+
+<table id="leftside" border=0 cellspacing=0 cellpadding=0>
+<tr valign=top>
+
+<td width=170 align=center"><center><div style="padding: 10px 5px;"><table cellspacing=0 cellpadding=0 class=menu id=menu><tr height=25><th colspan=2 id=menutitle>Main Menu</th></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-1 class=menuopt><a href="http://www.leaguelineup.com/welcome.asp?url=cnpsoccer">Welcome</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-2 class=menuopt><a href="http://www.leaguelineup.com/information.asp?url=cnpsoccer">Bulletin Board</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-3 class=menuopt><a href="http://www.leaguelineup.com/calendar.asp?url=cnpsoccer">Calendar</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-4 class=menuopt><a href="http://www.leaguelineup.com/divisionlist.asp?url=cnpsoccer">Divisions/Leagues</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-5 class=menuopt><a href="http://www.leaguelineup.com/teams_soccer.asp?url=cnpsoccer">Teams/Rosters</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-6 class=menuopt><a href="http://www.leaguelineup.com/schedules.asp?url=cnpsoccer">Schedules</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-8 class=menuopt><a href="http://www.leaguelineup.com/games.asp?url=cnpsoccer">Game Results</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-9 class=menuopt><a href="http://www.leaguelineup.com/directors.asp?url=cnpsoccer">Contact Info</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-10 class=menuopt><a href="http://www.leaguelineup.com/links.asp?url=cnpsoccer">Links</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-13 class=menuopt><a href="http://www.leaguelineup.com/location.asp?url=cnpsoccer">Directions</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-14 class=menuopt><a href="http://www.leaguelineup.com/officials.asp?url=cnpsoccer">Officials</a></td></tr><tr><td class=menuicon><img src="images/soccer_icon.gif" border=0></td><td id=menuid-15 class=menuopt><a href="http://www.leaguelineup.com/photoalbum.asp?url=cnpsoccer">Photo Albums</a></td></tr><tr id=adminlogin style="display: none;"><td class=adminlink align=center><img src="images/soccer_icon.gif"></td><td class=adminlink align=left width="100%"><a class=navlink href="login.asp?url=cnpsoccer&sid=316627695">Administration</a></td></tr></table><div class="boxheader">Follow Us</div><div class="boxcontent"><a href="http://www.facebook.com/CNPSoccer" target="_blank"><img src="images/icons/32/facebook.png" border=0></a></div><div class="boxheader">FAN SHOP</div><div class="boxpromo"><i class="fa fa-truck fa-lg"></i> <font color=#009900>FREE SHIPPING</font><br>for Orders Over $80</div><div class="psw_sidebar"><a target="_blank" href="http://www.prepsportswear.com/Redirector.aspx?brand=leaguelineup&utm_source=leaguelineup&utm_campaign=partner&utm_medium=api&utm_content=api&utm_term=product+list+G125&ProductId=4337&designid=49096&sport=Soccer&schoolid=2843882&category=32&up_ss=sc&up_pp=%7c1%7c2015"><img src="//timage4.prepsportswear.com/getimage.iaspx?type=1&p=4337&pc=ash&dc1=white&scale=50.0&SchoolID=2843882&d=49096&useid=1&up_ss=sc&up_pp=%7c1%7c2015"></a><p style="margin-top: 10px;"><a style="text-decoration: none" target="_blank" href="http://www.prepsportswear.com/Redirector.aspx?brand=leaguelineup&utm_source=leaguelineup&utm_campaign=partner&utm_medium=api&utm_content=api&utm_term=product+list+G125&ProductId=4337&designid=49096&sport=Soccer&schoolid=2843882&category=32&up_ss=sc&up_pp=%7c1%7c2015"><font face=verdana size=2>CNP Soccer Association  CNP Soccer Association Soccer Men&#39;s Ultra Blend 50/50 Hooded Sweatshirt</font></a></p><p style="margin: 10px 5px 20px 5px; background-color: #cc0000; padding: 3px; line-height: 20px; border-radius: 3px;"><a style="font-family: arial; text-decoration: none; color: #fff; font-weight: bold;" target="_blank" href="http://www.prepsportswear.com/Redirector.aspx?brand=leaguelineup&utm_source=leaguelineup&utm_campaign=partner&utm_medium=api&utm_content=api&utm_term=product+list+G125&ProductId=4337&designid=49096&sport=Soccer&schoolid=2843882&category=32&up_ss=sc&up_pp=%7c1%7c2015">Mother's Day<br>Sunday, May 10th</a></p><button style="margin-bottom: 10px;" class="btn btn-default btn-lg" onclick="window.location.href='http://www.prepsportswear.com/Redirector.aspx?brand=leaguelineup&utm_source=leaguelineup&utm_campaign=partner&utm_medium=api&utm_content=api&utm_term=product+list+G125&ProductId=4337&designid=49096&sport=Soccer&schoolid=2843882&category=32&up_ss=sc&up_pp=%7c1%7c2015'">Shop Now</button></div><div class="boxheader">Visitors to our site</div><div class="boxcontent">7,961</div>
+          <p><script type="text/javascript">addthis_pub  = 'leaguelineup';</script><a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', 'http://www.leaguelineup.com/cnpsoccer', 'CNP Soccer Association on LeagueLineup.com')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>        </p>
+          
+     </div>
+	</td>
+
+	<td bgcolor=black width=1><img src="/images/clear.gif" border=0 width=1></td>             <!--Vertical column between menu and main content -->
+
+	
+<td id="content" align=left  height=500>
+<font face="Arial" size=2 color=000000>
+
+
+
+
+<script>
+function openpopup()
+{
+	var pURL="popup.asp?url=cnpsoccer";
+	var pLeft = (screen.width -300) / 2;
+	var pTop = (screen.height - 300) / 2;
+	pSet = 'width=300,height=300,left='+pLeft+',top='+pTop+',scrollbars=yes,resizable';
+	wPopup=window.open(pURL,"test",pSet);
+	wPopup.focus();
+}
+</script>
+
+<table class="menu full" id=menutop><tr valign=middle><td align=left><b>Welcome</b></td><td align=right><a href="sportstip.asp?url=cnpsoccer&sid=316627695">Video Tip of the Week</a> | <a href="cartoons.asp?url=cnpsoccer&mmdd=0325&sid=316627695">Cartoon</a> | <a href="search.asp?url=cnpsoccer&sid=316627695">Search</a> | <a href="weather.asp?url=cnpsoccer&sid=316627695">Weather</a></td><td width=32 align=left></td></tr></table><style>
+#ticker {
+	height: 30px;
+	overflow: hidden;
+	list-style: none;
+     background: #007FFF;
+	color: #000000;
+	margin: 0;
+	padding: 5px 0 0 0;
+	text-align: center;
+     font-weight: bold;
+     
+	font-family: Arial;
+	font-size: 12px;
+}
+#ticker li {height: 25px; font-size: 12px;}
+</style>
+
+
+<script>
+
+	function tick(){
+		$('#ticker li:first').slideUp( function () { $(this).appendTo($('#ticker')).slideDown(); });
+	}
+	setInterval(function(){ tick () }, 4000);
+	
+</script>
+
+
+<!--startprint-->
+
+<!--include_welcome start-->
+
+<div style="padding: 10px;">
+<font color=000000>
+
+
+	<table width=100%><tr valign=top><td>
+     
+	<center>
+	<font face="Arial" size=+2 color=FF0000><b>
+     <div style="margin-top: 10px; padding: 0; line-height:20px;">Welcome to the home of the</div><h1 style="font-size: 28px; margin: 10px 0 20px 0; padding: 0; line-height:20px;">CNP Soccer Association</h1><p><img src="http://my.llfiles.com/00279647/Logo.jpg" border=0 align=center></p></b></font></center><center></center><br>
+<!--start news items-->
+
+<!--item# 1408721-->
+<div class="newsitem-wp">
+<div class="date">March 25, 2015</div>
+<div class="item">
+<p>U12 Girls Angel Fire practice is canceled tonight due to the incoming storms.</p>
+</div>
+</div>
+<script>$('video').mediaelementplayer();</script>
+<!--stop news items-->
+<br><div align=center><div style='text-align: left;'>			<center>	<font face="Arial" color=#FF0000 size=3><b>Upcoming Games/Practices</b></font><br>	<br>	<table class="infotable">				<tr>			<th colspan=3 class="center">Wednesday,&nbsp;               Mar&nbsp;25               </th>			</tr>						<tr height=25 ><td colspan=3 align=center><b>U12 Boys</b></td></tr>					<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;CNP Inferno</td>						<td align=center width=33%>5:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658921">CNP Hiwassee Fields</a></td>          </tr>			<tr height=25 ><td colspan=3 align=center><b>U12 Girls</b></td></tr>					<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;CNP Angel Fire</td>						<td align=center width=33%>6:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658921">CNP Hiwassee Fields</a></td>          </tr>			<tr>			<th colspan=3 class="center">Thursday,&nbsp;               Mar&nbsp;26               </th>			</tr>						<tr height=25 ><td colspan=3 align=center><b>U14 Coed</b></td></tr>					<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;CNP Wild Cards</td>						<td align=center width=33%>5:30pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658932">CNP Marseilles Fields</a></td>          </tr>			<tr height=25 ><td colspan=3 align=center><b>U12 Boys</b></td></tr>					<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;CNP Jackals</td>						<td align=center width=33%>6:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658921">CNP Hiwassee Fields</a></td>          </tr>			<tr height=25 ><td colspan=3 align=center><b>U10 Boys</b></td></tr>					<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;CNP Bandits</td>						<td align=center width=33%>5:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658921">CNP Hiwassee Fields</a></td>          </tr>			<tr height=25 ><td colspan=3 align=center><b>U10 Girls</b></td></tr>					<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;Chandler Pistols</td>						<td align=center width=33%>5:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658921">CNP Hiwassee Fields</a></td>          </tr>		<tr height=25 valign=middle >					<td align=left width=33%>PRACTICE&nbsp;CNP Queen Bees</td>						<td align=center width=33%>5:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658921">CNP Hiwassee Fields</a></td>          </tr>			<tr>			<th colspan=3 class="center">Friday,&nbsp;               Mar&nbsp;27               </th>			</tr>						<tr height=25 class=alt><td colspan=3 align=center><b>U6 Coed</b></td></tr>					<tr height=25 valign=middle >					<td align=left width=33%>PRACTICE&nbsp;CNP Might Mites-Early</td>						<td align=center width=33%>6:00pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658935">CNP Senior Center Fields</a></td>          </tr>		<tr height=25 valign=middle class=alt>					<td align=left width=33%>PRACTICE&nbsp;CNP Mighty Mites-Late</td>						<td align=center width=33%>6:50pm</td>                              <td align=left width=33%><a href="location.asp?url=cnpsoccer&Locationid=1658935">CNP Senior Center Fields</a></td>          </tr>	</table>	<br><!--	<font face="Arial" size=2 color=#000000>For a complete schedule listing, <a href="schedules.asp?url=cnpsoccer"><font color=#000000>click here</font></a>!<br>	</font>-->	<span class="item">For a complete schedule listing, <a href="schedules.asp?url=cnpsoccer"><font color=#000000>click here</font></a>!<br></span>	</center>	<br>	<br>		<center>	<font FACE="Arial" color=#FF0000 size=3><b>Upcoming Events</b></font><br>	<br>	<table class="infotable">				<th colspan=3 class="center">Tuesday,&nbsp;               Apr&nbsp;21</th>		<tr height=25 valign=middle >		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233&startdate=4/21/2015">Monthly Meeting</a>				</td>		<td width=33% align=center>7:30pm</td>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233">China King Buffet</a>		</td></tr>			<th colspan=3 class="center">Tuesday,&nbsp;               May&nbsp;19</th>		<tr height=25 valign=middle class=alt>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233&startdate=5/19/2015">Monthly Meeting</a>				</td>		<td width=33% align=center>7:30pm</td>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233">China King Buffet</a>		</td></tr>			<th colspan=3 class="center">Tuesday,&nbsp;               Jun&nbsp;16</th>		<tr height=25 valign=middle >		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233&startdate=6/16/2015">Monthly Meeting</a>				</td>		<td width=33% align=center>7:30pm</td>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233">China King Buffet</a>		</td></tr>			<th colspan=3 class="center">Tuesday,&nbsp;               Jul&nbsp;21</th>		<tr height=25 valign=middle class=alt>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233&startdate=7/21/2015">Monthly Meeting</a>				</td>		<td width=33% align=center>7:30pm</td>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233">China King Buffet</a>		</td></tr>			<th colspan=3 class="center">Tuesday,&nbsp;               Aug&nbsp;18</th>		<tr height=25 valign=middle >		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233&startdate=8/18/2015">Monthly Meeting</a>				</td>		<td width=33% align=center>7:30pm</td>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233">China King Buffet</a>		</td></tr>			<th colspan=3 class="center">Tuesday,&nbsp;               Sep&nbsp;15</th>		<tr height=25 valign=middle class=alt>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233&startdate=9/15/2015">Monthly Meeting</a>				</td>		<td width=33% align=center>7:30pm</td>		<td width=33% align=left>					<a href="eventinfo.asp?url=cnpsoccer&eventid=4396233">China King Buffet</a>		</td></tr>	</table>		<br>	<font face="Arial" size=2 color=#000000>		For a complete calendar listing, <a href="calendar.asp?url=cnpsoccer"><font color=#000000>click here</font></a>!<br>	</center>	<br>	<br><br>	</div></div></td><td></td></tr></table>
+
+</div>
+
+<!--include_welcome end-->
+
+<!--stopprint-->
+
+
+<style>
+.ll_link:hover {text-decoration: underline;}
+#footer {margin: 0; padding: 20px 15px; display: block; clear: both; background: #007FFF; font-face: "Arial"; font-size: 14px; color: #000000; font-weight: bold;}
+#footer .leaguename {font-size: 24px; line-height: 30px; font-weight: bold;}
+#footer .footertext {font-weight: normal; font-size: 16px; font-style: italic;}
+
+#footer .socialmedia {float: left; margin: 20px 60px 0 0;}
+#footer .socialmedia .socialmediatitle {float: left; margin-right: 5px; font-size: 16px; height: 30px; line-height: 30px; font-weight: bold;}
+#footer .socialmedia a {margin-left: 10px; margin-right: 0;}
+#footer .bookmarkthissite {float: left; margin-top: 25px;}
+
+#footer .lastupdated {float: right; clear: both;}
+
+#footer .buttons {float: right; margin-top: 20px; clear: both;}
+#footer .btn-league {margin: 0 0 0 10px; background: #000000; color: #007FFF; font-weight: bold;}
+
+#footer .counter {margin-top: 20px; clear: both; float: right;}
+#footer .counter .countertitle {margin-right: 10px; text-align: right; dispaly: block; clear: both;}
+#footer .counter .number {margin-left: 1px; padding: 5px; background: #111; color: #eee; font-size: 16px; border: 1px solid #333; border-radius: 3px;}
+
+@media screen and (max-width: 1200px) {
+	#footer .socialmedia {float: left;}
+	#footer .socialmedia .socialmediatitle {margin-top: 10px;}
+	#footer .socialmedia a {margin-left: 0; margin-left: 10px;}
+	#footer .bookmarkthissite {float: left; clear: both;}
+	#footer .counter {float: left; margin-top: 20px;}
+	#footer .lastupdated {float: left; margin-top: 20px; clear: both;}
+	#footer .buttons {float: left;}
+	#footer .btn-league {margin-left: 0; margin-right: 10px;}
+	#footer .btn-admin {float: left; clear: both;}
+}
+
+#footer .alturl {margin-right: 40px;}
+#footer .siteurl {margin-top: 10px; clear: both;}
+
+
+
+.bottom {margin-top: 20px; height: 30px; line-height: 30px;}
+#footer .poweredby {font-size: 11px;}
+#footer .poweredby a {margin-left: 5px;}
+#footer .btn-admin {float: right; background: #000000; color: #007FFF; font-weight: bold;}
+</style>
+
+<tr><td></td><td></td><td><div id=footer><div class=row><div class=col-md-6><div class=leaguename>CNP Soccer Association</div><div class=siteurl>www.leaguelineup.com/cnpsoccer</div></div><div class=col-md-6><div class="poweredby pull-right"><i>powered by</i> <a href="http://www.leaguelineup.com" style="font-size: 16px; font-weight: bold;"><font color=#ffffff>League</font><font color=#dddddd>Lineup</font></a></div><div class=buttons><input type=button class="btn btn-xs btn-league" value="My Account" onclick="window.location.href='myll_dashboard.asp?url=cnpsoccer'"><input type=button class="btn btn-xs btn-league" value="Contact Us" onclick="window.location.href='directors.asp?url=cnpsoccer'"><input type=button class="btn btn-xs btn-league" value="Schedule Reminders" onclick="window.location.href='myll_notifyreminders.asp?url=cnpsoccer'"></div></div></div><div class=bottom><input type=button class="btn btn-sm btn-admin" value="Administration Login" onclick="window.location.href='login.asp?url=cnpsoccer'"></div></div></td></tr></table></td></tr></table></div></td></tr></table>
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-383483-1']);
+		_gaq.push(['_setCustomVar',1,'section','sites']);
+		_gaq.push(['_setCustomVar',2,'site','279647']);
+		_gaq.push(['_setCustomVar',3,'level','1']);
+		_gaq.push(['_setCustomVar',4,'type','2']);	
+		_gaq.push(['_setCustomVar',5,'page','33']);
+		_gaq.push(['_trackPageview']);
+          
+	
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+     
+
+</body>
+</html>
+
+<script>
+
+	$(function(){
+		if (0 == 1) {
+			$('#adminlogin').show();
+		} else {
+			$('#adminlogin').hide();
+		}
+	});
+	
+	$('td#menuid-1').addClass('bold');
+
+	$('.menuopt a').each(function(){
+		this.href += '&sid=316627695';
+	})
+
+</script>
+

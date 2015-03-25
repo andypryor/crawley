@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>FCBoise - Home</title>
+<meta property='og:site_name' content='FCBoise' />
+<meta property='og:title' content='FCBoise' />
+<meta property='og:description' content='In most youth sports, naturally gifted athletes require minimal instruction in order to excel. Coaching—while important—typically is concerned less with teaching individual skills and more with...' />
+<meta property='og:image' content='http://www.fcboise.com/uploads/1/4/7/7/14777394/header_images/1399606819.jpg' />
+<meta property='og:url' content='http://www.fcboise.com/' />
+
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  
+<link rel="stylesheet" href="//cdn2.editmysite.com/css/sites.css?buildTime=1399664948" type="text/css" /><link rel="stylesheet" href="//cdn2.editmysite.com/css/mobile-sites.css?buildTime=1399664948" type="text/css" /><link rel='stylesheet' type='text/css' href='/files/mobile/main_style.css?1399606920' title='wsite-theme-css' />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic,700italic' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wmobile-line,
+.wmobile-bar,
+.wmobile-button {
+  background-color: #383B3D !important;
+  }
+</style>
+<style type='text/css'>
+.wsite-header, .wsite-header2, .wsite-header3 {
+  height: auto !important;
+  min-height: 0 !important;
+  background: none;}
+</style>
+<script><!--
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+//-->
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+<script src='//cdn2.editmysite.com/js/site/main-mobile.js?buildTime=1399664948'></script>
+<script type='text/javascript' src='//cdn1.editmysite.com/editor/libraries/mobile_navigation.js?buildTime=1399664948'></script>
+<script>_W.relinquish && _W.relinquish()</script>
+</head>
+<body class=' no-touch header-page wsite-menu-slideright  wsite-theme-light wsite-page-index wsite-mobile wsite-render3d' ontouchstart="">
+<div id="header" class="wmobile-bar">
+      <span id="menu-button"><a class="wsite-menu-button">
+								<span class="wsite-menu-button-text disable-user-select">Menu</span>
+								<div class="wsite-menu-button-bars">
+									<span class="wsite-menu-button-bar"></span>
+									<span class="wsite-menu-button-bar"></span>
+									<span class="wsite-menu-button-bar"></span>
+								</div>
+							</a></span>
+      <h1><span class='wsite-logo'><a href='/'><span id="wsite-title">FCBoise</span></a></span></h1>
+      <span id="header-button"></span>
+      <div style="clear:both"></div>
+    </div>
+        
+    <div id="menu-wrapper" class="wsite-menu-wrapper">
+      <div id="search"></div>
+      <div id="menu"><ul class='wsite-menu-default'><li id='active'><a href='/'>Home</a></li><li id='pg576941639796489059'><a href='/club-philosophy.html'>Club Philosophy</a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-884122178252106261'><a href='/mission-statement.html' ><span class='wsite-menu-title'>Mission Statement</span></a></li><li id='wsite-nav-535174139685363518'><a href='/development-philosophy.html' ><span class='wsite-menu-title'>Development Philosophy</span></a></li></ul></div></li><li id='pg646585487542718498'><a href='/why-fcboise.html'>Why FCBoise</a></li><li id='pg265700011182733319'><a href='/coaches.html'>Coaches</a></li><li id='pg724781305410476884'><a href='/teams.html'>Teams</a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-394050178767302886'><a href='/u11.html' ><span class='wsite-menu-title'>U11</span></a></li></ul></div></li><li id='pg407194548776492003'><a href='/links.html'>Links</a></li><li id='pg348231600338244209'><a href='/announcements.html'>Announcements</a><div class='wsite-menu-wrap' style='display:none'><ul class='wsite-menu'><li id='wsite-nav-176811686481176992'><a href='/alumni.html' ><span class='wsite-menu-title'>Alumni</span></a></li></ul></div></li></ul></div>
+	  <div id="phone"></div>
+      <div id="social"><div style="text-align:left;"><div style="height:0px;overflow:hidden"></div>
+<span class="wsite-social wsite-social-default"><a class='first-child wsite-social-item wsite-social-facebook' href='http://www.facebook.com/FCBoise?ref=ts&fref=ts' target='_blank'><span class='wsite-social-item-inner'></span></a><a class='last-child wsite-social-item wsite-social-mail' href='mailto:BDenHerder@cableone.net' target='_blank'><span class='wsite-social-item-inner'></span></a></span>
+<div style="height:0px;overflow:hidden"></div></div></div>
+    </div>
+    
+    <div class="header-wrapper">
+      <div class="wsite-header"><img src="/uploads/1/4/7/7/14777394/header_images/1399606819.jpg" style="width:100%;height:auto;display:block;"></div>
+    </div>
+    
+    <div id="content-wrapper">
+      <div id="content"><div id='wsite-content' class='wsite-elements wsite-not-footer'>
+<h2 class="wsite-content-title">FCBoise-because soccer players are made, not born</h2>
+<div class="paragraph" style="text-align:left;display:block;">In most youth sports, naturally gifted athletes require minimal instruction in order to excel. Coaching&mdash;while important&mdash;typically is concerned less with teaching individual skills and more with molding a team. Soccer is different. Although young players might be naturally gifted, they acquire skills more deliberately over time. They learn through instruction and repetition, test themselves in competition, and then refine their skills further. Coaching is essential to the process. Soccer players are made, not born. For that reason, FCBoise coaches follow an age-appropriate curriculum that develops individual skills. Our approach yields players who are versatile, confident and creative.<br /><span></span><br /><strong>Because character matters</strong><br /><br />&nbsp;FCBoise enables players to build good character. Coaches and volunteers model qualities like discipline, responsibility, sportsmanship and regard for others. Players devote time to academics and community service. In this way, we help to build responsible young men who will contribute to their communities and succeed in life. Attend an FCBoise practice or game and you will see character under construction. Coaches offer positive reinforcement, never negative criticism. Players pay attention when coaches give instruction. Even though they come from diverse backgrounds, our boys get along, encourage one another and enjoy being together.<br /><span></span><br /><strong>And they need to do more than just kick a ball</strong><br /><br />FCBoise players commit a significant amount of time to soccer. Parents also commit their time, as well as financial resources. However, youth sports should never be so consuming or expensive that families have no time or money for anything else.<br />&nbsp;<br />We realize that activities other than soccer are important for developing well-rounded young men. FCBoise is flexible, enabling families to pursue other interests. We also are committed to keeping costs as low as possible. FCBoise&rsquo;s fees are a fraction of those charged by other leading clubs in the Treasure Valley.</div></div>
+</div>
+    </div>
+    
+    <div id="footer"><div class="wsite-mobile-footer"><div class="wsite-footer-version">Version: <span class="wsite-footer-version-text">Mobile <span class="wsite-footer-vertical">|</span> <a class="wsite-version-web" href="?view=full">Web</a></span></div><div class="wsite-app-callout">Created with Weebly<a id="wsite-app-button" style="display:none;" href="http://www.weebly.com/weebly/apps/install_app.php?source=footer"></a><a id="wsite-yourown-button" href="http://www.weebly.com" target="_blank"></a></div>
+<script type='text/javascript'>_W.jQuery(function(){if (/Apple.*Mobile/.test(navigator.userAgent)){_W.jQuery('#wsite-app-button').show();_W.jQuery('#wsite-yourown-button').hide();}})</script></div></div>
+<div style='display:none'><span id="wsite-title">FCBoise</span></div>
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-0dYLvhSGGqUWo",
+labels:"l0,u14777394.u14777394s878712656608820622"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u14777394.u14777394s878712656608820622" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script>
+
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				jQuery('#commentArea iframe').css('min-height', '410px');
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+
+</script>
+
+</body>
+</html>

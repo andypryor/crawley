@@ -1,0 +1,2234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en-us"  data-url="/">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<title dir="ltr">Idaho Falls Adult Soccer Association</title>
+		<meta name="description" content="Idaho Falls Adult Soccer Association" />
+		
+		<link rel="shortcut icon" type="image/x-icon" href="http://svite-league-apps-static.s3.amazonaws.com/_i/favicon.ico" />
+
+		<meta name="fullcss" content="http://svite-league-apps-static.s3.amazonaws.com/_c/m/app.min.css?v=310-2048-26169" />
+		<script>
+		document.addEventListener("touchstart", function() {},false);
+		//EnhanceJS: a progressive enhancement boilerplate. Copyright 2014 @scottjehl, Filament Group, Inc. Licensed MIT 
+		(function(j,e){j.enhance={};var o=j.document,d=o.documentElement,n=o.head||o.getElementsByTagName("head")[0],g="fullcss",m="fulljs",i="fonts",c=["enhanced"];function h(s){var r=j.document.getElementsByTagName("script")[0];var q=j.document.createElement("script");q.src=s;r.parentNode.insertBefore(q,r);return q}enhance.loadJS=h;function f(q,t,u){var r=j.document.createElement("link");var s=t||j.document.getElementsByTagName("script")[0];r.rel="stylesheet";r.href=q;r.media="only x";s.parentNode.insertBefore(r,s);setTimeout(function(){r.media=u||"all"});return r}enhance.loadCSS=f;function p(q){var t=j.document.getElementsByTagName("meta");var s;for(var r=0;r<t.length;r++){if(t[r].name&&t[r].name===q){s=t[r];break}}return s}enhance.getMeta=p;function b(s,u,w){if(u===e){var v="; "+j.document.cookie;var t=v.split("; "+s+"=");if(t.length==2){return t.pop().split(";").shift()}return null}else{if(u===false){w=-1}if(w){var r=new Date();r.setTime(r.getTime()+(w*24*60*60*1000));var q="; expires="+r.toGMTString()}else{var q=""}j.document.cookie=s+"="+u+q+"; path=/"}}enhance.cookie=b;var k=p(g);if(k&&!b(g)){f(k.content);b(g,"true",7)}if(!("querySelector" in o)){return}d.className+=" "+c.join(" ");var a=p(m);if(a){h(a.content)}var l=p(i);if(l){f(l.content)}}(this));
+		</script>
+		<!--#if expr="$HTTP_COOKIE=/fullcss\=true/" -->
+		<link href="http://svite-league-apps-static.s3.amazonaws.com/_c/m/app.min.css?v=310-2048-26169" rel="stylesheet" type="text/css" />
+		<!--#else -->
+		<noscript>
+			<link href="http://svite-league-apps-static.s3.amazonaws.com/_c/m/app.min.css?v=310-2048-26169" rel="stylesheet" type="text/css" />
+		</noscript>
+		<!--#endif -->
+
+		<!-- theme editor CSS -->
+		<style type="text/css">html,body{background-color:#109119;color:#304d3a}header{background-color:#fd0}#the-logo{color:#056117}a:link,a:visited,.show-details,.step-line strong,.choose em{color:#389c2e}a:active,.show-details:active,.tabs a:active{color:#d1b500}.choose a:active{color:#389c2e}.btn:link,.btn:visited,span.btn,input.btn,label.btn{background-color:#269402;color:#fff}.steps li::before{background-color:#269402}.two .checked{border-color:#389c2e}.btn:active,span.btn:active,input.btn:active,.btn.active,span.btn.active,input.btn.active,label.btn:active,.choose span:active,input.btn.active:disabled,input:disabled.d,input:disabled.payment.active:disabled,input:disabled.active.d,input:disabled.active.payment.active:disabled{background-color:#f7dc2a;color:#fff}.btn.neg,input.btn.neg{background:white}.btn.neg:active,input.btn.neg:active,.choose.show span{background:#efefef}.step-line div{background:#389c2e}h2{color:#215432}menu,.login-wrap,footer{background-color:#0b6103}footer h5{color:#f0da4a}menu a:link,menu a:visited,menu em:before,.login-wrap a:link,.login-wrap a:visited,footer a:link,footer a:visited{color:#f0da4a}menu a:active,menu em:active:before,.login-wrap a:active,footer a:active{color:#fafabe}menu .sub-menu a{border-color:#f0da4a}h3,h4{color:#215432}.tag,.aside h2 em,.aside h3 em,dl.basic dt,em.context,#page-title em.context a,.basic-form li label em,.basic-form p.fine-print,.main h1 .site-notice,.form-steps li.off,.base-meta h2 em,.base-listing.grouped h3,.base-listing.grouped h3 a,.base-schedule em,.base-fees em,.schedule span.tbd,.schedule abbr,.schedule .game p,.schedule .game .official em,.schedule .meta .game-note,.schedule .rescheduled,.schedule .rescheduled span.tbd,.schedule .rescheduled abbr,.schedule .rescheduled .game p,.schedule .team-result,.entity-listing .entity-meta,.entity-listing .entity-details,.sublocations li em{color:#97a39a}.apps-enabled,.sys-errors,.inline-error{background-color:#fffdd4}</style>
+
+		
+    	<link rel="canonical" href="http://ifasa.org" /> 
+	    
+
+		<script>document.addEventListener("touchstart", function(){},false);</script>
+
+		
+
+	</head>
+
+		<body onload="refresher();">
+
+		
+
+<input id="lapi-base-url" value="//ifasa.org" type="hidden" />
+<input id="lapi-site-url" value="//ifasa.org/v1/sites/3651/" type="hidden" />
+<input id="lapi-site-name" value="ifasa" type="hidden" />
+<input id="lapi-site-id" value="3651" type="hidden" />
+<input id="lapi-user-id" value="" type="hidden" />
+
+
+
+
+		
+		<div id="fb-root"></div>
+		
+
+		<noscript>
+			<div class="sys-errors">
+				<p class="sys-error">
+					JavaScript is not enabled in your browser. Please turn this on to be able to use this site.
+				</p>
+			</div>
+		</noscript>
+
+		
+
+		
+		
+
+
+	
+		
+
+
+<div class="login-wrap cf">
+
+	
+	
+	
+	
+	<a href="/login" data-id="login-link">Log In</a>
+	
+	
+	
+	<a href="/signup" data-id="signup-link">Sign Up</a>
+	
+	
+
+</div>
+	
+
+
+		
+		
+
+
+	
+		
+
+
+
+<!-- header -->
+<header id="header" class="cf">
+
+	<!-- logo -->
+	<!-- if not an image, count length of title to apply CSS -->
+	<span class="logo long t">
+		<span>
+				
+				
+				
+					<a href="/">Idaho Falls Adult Soccer Association</a>
+				
+			
+		</span>
+	</span>
+	<!--/ logo -->
+
+	
+	<!-- menu link -->
+	<span class="t menu" id="menu">
+		<span>
+			<a href="#view-menu" class="btn">Menu</a>
+		</span>
+	</span>
+	<!--/ menu link -->
+	
+
+	<span class="clr"></span>
+
+</header>
+	
+
+
+
+		
+			
+			
+		
+
+
+	
+		
+
+
+
+	
+
+
+
+		
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- main content --> 
+<div role="main" class="h">
+	<div class="content">
+
+		
+		
+			
+				<h4>Welcome to Idaho Falls Adult Soccer Association!</h4>
+				<div class="show-hr"></div>
+			
+		
+		<!-- brief intro to league
+		<h4>Some intro about the {site}</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, provident, explicabo. Similique veritatis, deleniti eos harum nemo ullam repudiandae ip.</p>
+		<h4>Get in touch with us:</h4>
+		<p class="sub-links">
+			<a href="tel:#">Call us</a>
+			<a href="#">on Twitter</a>
+			<a href="#">on Instagram</a>
+		</p> -->
+		<!--/ brief intro to league -->
+
+		
+			
+			
+			
+			
+		
+
+
+    
+        
+
+
+
+	
+
+
+	<hr id="wall-hr" />
+
+	<h4 class="pad-b cf">
+		Recent News
+		
+	</h4>
+
+	
+
+	
+
+	
+	
+	<div id="activity-wall" class="sitewall sitewall">
+
+	   	<ul id="wall-root" class="mar-b">
+	   		<!-- Wall posts are loaded via AJAX  -->
+	   		<li id="placeholder" class="placeholder">
+	   			
+	   			<!--<p><img src="http://svite-league-apps-static.s3.amazonaws.com/_i/m/placeholder.png" />
+				</p>
+
+				<hr class="p" />
+
+				<small>
+					<a>Terry Jones</a>;
+					<span class="tag">admin</span>;
+					<span class="timestamp">29 minutes ago</span>
+				</small>-->
+
+	   		</li>
+	   		
+	   		
+
+	   		
+	   		
+	   		
+	   		
+	   	</ul>
+	</div>
+	
+	<!-- Delete Wall post -->	
+	<div class="faux-overlay inner mar-t delete-msg hide">
+		<div>
+			<h3>Delete this announcement?</h3>
+			<p id="delete-wall-post-msg"></p>
+			<p>
+				<span class="btn" onclick="closeOverlay('.delete-msg'); deletePost();">Yes, delete this</span>
+				&nbsp;
+				<a href="#" onclick="closeOverlay('.delete-msg')">No, don&rsquo;t</a>
+			</p>
+		</div>
+	</div>
+
+	<script>
+	var $showWall = true;
+	var $postsPerPage = 5;
+	var $userDashboardContext = false;
+	var $context = 'ADMIN';
+	var $programId = '';
+	var $teamId = '';
+	</script>
+	
+
+    
+
+
+
+	</div>
+</div>
+    
+
+ 
+
+		
+			
+				
+			
+
+
+	
+		
+
+
+
+<span class="subtle" id="view-menu">
+	<a href="#" class="arrow up">Back to top</a>
+</span>
+<!-- main nav -->
+<menu>
+
+	
+
+
+	
+		<span class="has-sub">
+			<a href="/">Home</a>
+			<em class="more"></em>
+			<div class="sub-menu">
+				
+					
+					
+						<span>
+							<a href="/terms">Claim &amp; Other Information</a>
+						</span>
+					
+				
+					
+					
+						<span>
+							<a href="/privacy">Privacy Policy</a>
+						</span>
+					
+				
+					
+					
+						<span>
+							<a href="/pages/bylawsandconstitution">IFASA By Laws and Constitution</a>
+						</span>
+					
+				
+			</div>
+		</span>
+	
+	
+
+	
+		<span class="has-sub">
+			<a href="/leagues">Leagues</a>
+			<em class="more"></em>
+			<div class="sub-menu">
+				
+					
+						<!--Sports-->
+					
+					
+				
+					
+					
+						<span>
+							<a href="/leagues/soccer-(outdoor)">Soccer (Outdoor)</a>
+						</span>
+					
+				
+					
+					
+						<span>
+							<a href="/pages/discounts">Discounts</a>
+						</span>
+					
+				
+			</div>
+		</span>
+	
+	
+
+	
+	
+		<span>
+			<a href="/tournaments">Tournaments</a>
+		</span>
+	
+
+	
+	
+		<span>
+			<a href="/events">Events</a>
+		</span>
+	
+
+	
+	
+		<span>
+			<a href="/camps">Camps</a>
+		</span>
+	
+
+	
+	
+		<span>
+			<a href="/locations">Locations</a>
+		</span>
+	
+
+	
+	
+		<span>
+			<a href="/pages/boarddirectory">Contact Us</a>
+		</span>
+	
+
+	
+	
+		<span>
+			<a href="/pages/Sponsors">Sponsors</a>
+		</span>
+	
+
+
+<span data-id="feedback-link">
+	<a href="#" onclick="toggleFeedback();">Contact us / send feedback</a>
+</span>
+
+</menu>
+
+<!--<menu class="sep">
+	<span>
+		<a href="?dar=no">View full site</a>
+	</span>
+</menu>-->
+	
+
+ 
+		
+		
+		
+		
+
+
+
+    
+        
+
+
+<div class="faux-overlay send-feedback hide">
+	<div>
+		<form id="feedback-form">
+			<fieldset>
+				<h3 class="no-t">Send Idaho Falls Adult Soccer Association your feedback</h3>
+				
+				<label>
+					<span class="r">Your name</span>
+					<input id="name" type="text" name="name" class="s required" />
+				</label>
+				<label>
+					<span class="r">Your email</span>
+					<input id="email" type="email" name="email" class="autofill s required" />
+				</label>
+				
+				<label>
+					<span class="r">Your message</span>
+					<textarea id="msgText" name="msgText" class="s required"></textarea>
+				</label>
+			</fieldset>
+			<fieldset class="form-btns"> 
+				<input type="submit" onclick="submitFeedback();" value="Send my feedback" class="btn" />
+				<span onclick="closeOverlay('.send-feedback');$('#msgText').val('');" class="btn none neg">Cancel</span>
+				<input type="hidden" id="url" name="url" />
+			</fieldset>
+		</form>
+	</div>
+</div>
+    
+
+
+		
+
+
+	
+		
+
+
+<footer>
+
+	<h5><a href="http://leagueapps.com" target="_blank">Sports management</a> by LeagueApps.</h5>
+
+</footer>
+	
+
+
+		
+
+
+    
+        
+
+<div class="faux-overlay player-message fixed background hide">
+	<div>
+		<form id="memberMessage">
+			<fieldset>
+				<h3>Send<span id="recipientName">&nbsp;</span>a message</h3>
+				<label>
+					<span class="r">Subject</span>
+					<input type="text" maxlength="100" id="subject" value="Message from  " class="s required" />
+				</label>
+				<label>
+					<span class="r">Message</span>
+					<textarea id="message" class="s required"></textarea>
+				</label>
+				<div class="label chkbx">
+                	<label>
+                		<input type="checkbox" id="sendCopyToSendingUser">
+                		Send me a copy
+                	</label>
+                </div>
+			</fieldset>
+			<fieldset class="form-btns"> 
+				<input type="button" onclick="sendMessage();" value="Send message" class="btn" />
+				<input type="button" onclick="closeMessageOverlay('.player-message');$('#subject').val('');$('#message').val('');" value="Cancel" class="btn neg none" />
+			</fieldset>
+		</form>
+	</div>
+</div>
+    
+
+
+		
+
+
+    
+        
+
+<div class="faux-overlay player-add fixed background hide">
+	<div>
+		<form id="existingPlayerConfForm" class="basic-form">
+			<div id="add-existing-orphan" style="display:none;">
+			   <p>
+					An existing child account with an identical <span id="identical-orphan-info"></span> was found. To continue with adding that child, click the <strong>Add Player</strong> button below.
+			   </p>
+			   	<fieldset class="form-btns"> 
+					<p>
+						<input type="button" value="Add player" class="btn" id="addPlayerBtnConf" onclick="savePlayer();" />
+						&nbsp;
+						<input type="button" onclick="cOverlayClose('.player-add')" value="Cancel" class="btn neg" />
+					</p>
+				</fieldset>
+			</div>
+			
+			<div id="invite-existing-adult" style="display:none;">
+				<p>
+					A member with that email address already exists.
+					<span id="invite-existing-adult-info"></span>
+				</p>
+			   	<div id="go-to-invite-player" style="display:none;">	   	
+				   	<fieldset class="form-btns"> 
+						<input type="button" value="Continue &amp; invite member" class="btn" onclick="goToPlayerInvite();" />
+						&nbsp;
+						<input type="button" onclick="cOverlayClose('.player-add')" value="Cancel" class="btn neg" />
+					</fieldset>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+    
+
+
+		
+
+
+    
+        <div class="faux-overlay hide fixed background approve-request" id="approve-request">
+	<div>
+		<form>
+			<fieldset>
+				<h3>Approve pending request?</h3>
+				<p class="mar-b">Are you sure you want to <strong>approve</strong> <span id="approve-request-playername"></span>&rsquo;s pending request? This can not be undone.</p>
+			</fieldset>
+			<fieldset class="form-btns">
+				<input type="button" value="Yes, approve it" class="btn" onclick="closeMessageOverlay('#approve-request'); approveOrDecline('approve');" />
+				<input type="button" onclick="closeMessageOverlay('#approve-request');" value="Cancel" class="btn neg none" />
+			</fieldset>
+		</form>
+	</div>
+</div>
+    
+
+
+		
+
+
+    
+        <div class="faux-overlay hide fixed background decline-request" id="decline-request">
+	<div>
+		<form>
+			<fieldset>
+				<h3>Decline pending request?</h3>
+				<p class="mar-b">Are you sure you want to <strong>decline</strong> <span id="decline-request-playername"></span>&rsquo;s pending request? This can not be undone.</p>
+			</fieldset>
+			<fieldset class="form-btns">
+				<input type="button" value="Yes, decline it" class="btn" onclick="closeMessageOverlay('#decline-request'); approveOrDecline('decline');" />
+				<input type="button" onclick="closeMessageOverlay('#decline-request');" value="Cancel" class="btn neg none" />
+			</fieldset>
+		</form>
+	</div>
+</div>
+    
+
+
+		
+
+
+    
+        <div class="faux-overlay hide fixed background delete-invite" id="delete-invite">
+	<div>
+		<form>
+			<fieldset>
+				<h3>Delete pending invite?</h3>
+				<p class="mar-b">Are you sure you want to <strong>delete</strong> pending invite sent to <span id="delete-invite-email"></span>? This can not be undone.</p>
+			</fieldset>
+			<fieldset class="form-btns">
+				<input type="button" value="Yes, delete it" class="btn" onclick="closeMessageOverlay('#delete-invite'); deleteInvite();" />
+				<input type="button" onclick="closeMessageOverlay('#delete-invite');" value="Cancel" class="btn neg none" />
+			</fieldset>
+		</form>
+	</div>
+</div>
+    
+
+
+		
+
+
+    
+        
+
+<div class="faux-overlay fixed background hide player-invite" _id="invite-to-team">
+	<div>
+		<form id="invite-to-team-form">
+			<fieldset>
+				<div class="teammate cf mar-b">
+					<div class="title">
+						<h3>
+							<img id="inviteePhoto" src="http://svite-league-apps-static.s3.amazonaws.com/_i/_site2.0/default-75.jpg" alt="" />
+							Invite <span id="inviteeName"></span>
+						</h3>
+					</div>
+					<p><span id="inviteeGender"></span>; registered for <strong id="inviteeOriginalProgramName"></strong> on <span id="inviteeJoinDate"></span></p>
+				</div>
+				<label>
+					<span class="r">Team</span>
+					<select id="invite-to-tbe">
+						<option value="">-- select a team --</option>
+						
+						
+						
+					</select>
+				</label>
+				<label>
+					<span>Message (optional)</span>
+					<textarea id="invite-to-tbe-message" class="r"></textarea>
+				</label>
+			</fieldset>
+			<fieldset class="form-btns"> 
+				<input type="button" onclick="sendInvite(); return false;" value="Send an invite" class="btn" />
+				<input type="button" onclick="closeOverlay('.player-invite')" value="Cancel" class="btn neg none" />
+			</fieldset>
+		</form>
+		<div id="invite-to-team-not-available-message">
+			<h3>You are not captain of any teams with open registration / free spots available.</h3>
+			<fieldset class="form-btns"> 
+				<input type="button" onclick="closeOverlay('.player-invite')" value="Okay; close this" class="btn" />
+			</fieldset>
+		</div>
+	</div>
+</div>
+    
+
+
+		
+
+		
+
+
+
+
+
+
+
+
+<!-- mobile hide scroll bars -->
+<script>(function(e){var d=e.document;if(!location.hash&&e.addEventListener){window.scrollTo(0,1);var c=1,b=function(){return e.pageYOffset||d.compatMode==="CSS1Compat"&&d.documentElement.scrollTop||d.body.scrollTop||0},a=setInterval(function(){if(d.body){clearInterval(a);c=b();e.scrollTo(0,c===1?0:1)}},15);e.addEventListener("load",function(){setTimeout(function(){if(b()<20){e.scrollTo(0,c===1?0:1)}},0)})}})(this);</script>
+
+<!-- app.min.js -->
+<script src="http://svite-league-apps-static.s3.amazonaws.com/_s/m/app.min.js?v=310-2048-26169"></script>
+
+<script>
+	// set fbEnabled to false
+	var fbEnabled = false;
+</script>
+
+
+<script>
+
+	
+	function toggleFeedback(e){
+		if(e){
+			$(e).removeClass('hide');
+			$('html,body').animate({
+				scrollTop: $(e).offset().top
+			}, 500);
+		}else{
+			$('.send-feedback').removeClass('hide');
+			$('html,body').animate({
+				scrollTop: $('.send-feedback').offset().top
+			}, 500);
+		}
+		$.getScript('http://svite-league-apps-static.s3.amazonaws.com/_s/jquery.validate.min.js');
+	};
+
+	function submitFeedback(){
+		$('#feedback-form').validate({
+			errorClass: "error",
+			submitHandler: function(){
+				$(".send-feedback .form-btns").hide();
+				siteFeedbackMessage();
+			},
+			messages: {
+				
+				name: {
+					required: 'Enter your name.'
+				},
+				email: {
+					required: 'Enter your email address.'
+				},
+				
+				msgText: {
+					required: 'Enter a message.'
+				}
+			}
+		});
+	}
+
+	// site feedback form
+	function siteFeedbackMessage(){
+		var message = $("#msgText").val();
+		var currentUrl = $("#url").val();
+        var email = $("#email").val();
+        var name = $("#name").val();
+
+		/*message = escape(jQuery.trim(message, email, name));
+		if (message == '' || email == '' || name == '') {
+			return;
+		} else {
+			$(".send-feedback .form-btns").hide();
+		}*/
+
+		$('#msgText').val('');
+		var url = "/ajax/siteFeedbackMessage";
+		//other URI component handling here?
+		email = encodeURIComponent(email);
+		var dataStr = "comments=" + message + "&url=" + window.document.location + "&email=" + email + "&name=" + name ;
+		//alert("dataStr: " + dataStr);
+		$.ajax({
+			type: "POST",
+			url: url,
+			data: dataStr,
+			cache: false,
+			success: function(msg) {
+				onSendSuccess(msg);
+			},
+			error: function(request, textStatus, errorThrown) {}
+		});
+		
+		function onSendSuccess(msg) {
+            if(msg.status == "ERROR"){
+                showErrorMessage(msg.messages[0]);
+                $(".send-feedback label, .send-feedback .form-btns").show();
+            } else {
+                $(".send-feedback label").hide();
+                $(".send-feedback").append("<div class=\"feedback-success hide\"><p><strong>Your message was sent!</strong></p><p style=\"margin: 0;\">Thanks, and we appreciate your feedback.</p></div>");
+                $(".send-feedback .feedback-success").fadeIn(120).delay(4000).animate({opacity: 1}, 120, function(){
+                    closeOverlay('.send-feedback');
+                    $(".send-feedback .feedback-success").remove();
+                    $(".send-feedback label.error").remove();
+                    $(".send-feedback label, .send-feedback .form-btns").show();
+                    $(".send-feedback textarea").val("");
+                });
+            }
+		};
+	};
+
+	function sendMessage() {
+		if (recipientId == 0) {
+			showErrorMessage("Unknown recipient", 3);
+			return false;
+		}
+		var subject = $("#subject").val();
+		var message = $("#message").val();
+		var sendCopyToSendingUser = $("#sendCopyToSendingUser").is(":checked");
+		if ($.trim(subject) == '' || $.trim(message) == '') {
+			showErrorMessage("Both subject and message are required");
+			return false;
+		}
+		$.ajax({
+			type: "POST",
+			url: "/ajax/messageSiteMember",
+			data: {
+				"siteId": 3651, 
+				"toUserId": recipientId, 
+				"subject": subject, 
+				"message": message, 
+				"sendCopyToSendingUser": sendCopyToSendingUser
+			},
+			cache: false,
+			success: function(msg) {
+				onMessagePlayerResponse(msg);
+			},
+			error: function(request, textStatus, errorThrown) {
+				showErrorMessage(errorThrown);
+			}
+		});
+		return false;
+	}
+	
+
+	function showSystemMessages(content, dur, type) {
+		if($("#sys-messages-hide").length) {
+			$("#sys-messages-hide").remove();
+			$('div.fixed').remove();
+		}
+		if($("#sys-messages-hide").length <= 0) {
+			$('#sys-messages-hide').remove();
+				if(type=='error'){
+					// if error msg
+					$('body').prepend('<div class="fixed"><div id="sys-messages-hide" class="sys-errors">'+content+'</div></div>');
+				}else if(type=='hidden'){
+					$('body').prepend('<div class="fixed"><div id="sys-messages-hide" class="sys-confirm">'+content+'</div></div>');
+				}else{
+					$('body').prepend('<div class="fixed"><div id="sys-messages-hide" class="sys-errors sys-confirm">'+content+'</div></div>');
+				}
+		}
+		showSysMessages(dur != undefined ? dur : 5);
+	}
+                  
+	function showErrorMessage(content, dur, e) {
+        var error ="";
+        if ( Object.prototype.toString.call(content) === '[object Array]') {
+            for (var i = 0; i < content.length; ++i ) {
+                error += '<p class="sys-error">' + content[i] + '</p>'
+            }
+        }else{
+            error = '<p class="sys-error">' + content + '</p>';
+        }
+		showSystemMessages(error, dur, e);
+	}
+	
+	function showConfirmMessage(content, dur) {
+		showSystemMessages('<p class="sys-confirm">' + content + '</p>', dur);
+	}
+
+	$(function(){
+		if(location.pathname=='/registrationSubmit'){
+			$('#sys-messages.la-public').addClass('pad-top').find('h3').hide();
+		}
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- end JS minify here as it breaks reg/context view -->
+
+<!-- begin JS minify again as it breaks reg/context view -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+	// test for global JS variable until we find a better way via JSP
+	if($('#wall-root').length){
+
+		function addPost(){
+
+			var postVal = $('#comment').val();
+			postVal = $.trim(postVal);
+
+			if(postVal == '' || postVal == 'Add your comment'){
+				return;
+			}
+			
+			$("#post-comment-btn").attr("disabled", true);
+			$("#post-comment-btn").hide();
+			$("#loader").show();
+			
+			$.post("/ajax/postToWall",
+				{message: postVal,
+				 type: $('#postType').val(),
+				 //context: 'ognl.OgnlContext@e555b352',
+				 context: $context,
+				 publiclyVisible: $('#publiclyVisible').is(':checked'),
+				 postedToFB: $('#postToFacebook').is(':checked'),
+				 priority: 'NORMAL',
+				 baseEventId: '',
+				 sportId: '',
+				 teamId: ''},
+				 function(data){
+		  			pushPostToList(data);
+				});
+		
+		}
+
+
+		function pushPostToList(data) {
+			var newWallPost = $.trim(data);
+			var firstChar = newWallPost.charAt(0);
+			
+			if (firstChar != "<") {
+				showErrorMessage(newWallPost);
+			}
+			else{
+				$(newWallPost).hide().insertAfter("#new-post-append-marker").slideDown("slow").addClass('cf');
+				$('#comment').attr("value","");	
+				resetCharsCnt();
+			}
+
+			$("#no-posts").hide();
+			$("#loader").hide();
+			$("#post-comment-btn").attr("disabled", false);
+			$("#post-comment-btn").show();
+
+			$("#postEditorForm").addClass('hide');
+			$('#comment').val('');
+			$("#fakey").remove();
+			$("#post-msg").text('Add new');
+			$('html,body').animate({
+				scrollTop: $('#wall-root').offset().top
+			}, 500);	
+			
+		}
+		
+		
+		
+		function loadPosts(el, pageNum){
+			var dataStr = "pageNum=" + pageNum + "&postsPerPage=" + $postsPerPage + "&userDashboardContext=" + $userDashboardContext + "&context=" + $context;
+			var programId = $programId;
+			if (programId) dataStr += "&programId=" + programId;
+			var teamId = $teamId;
+			if (teamId) dataStr += "&teamId=" + teamId;
+			$.ajax({
+				type: "POST",
+				url: "/ajax/wallPosts",
+				data: dataStr,
+				cache: false,
+				success: function(content) {
+					if (el) {
+						$('html, body').animate({
+					         scrollTop: $(el).offset().top
+					     }, 1500);
+						$(el).parent().remove();
+					};
+					$('li#placeholder').remove();
+					$("#wall-root").append(content);
+					$("#wall-root").find('span img').attr({
+						'width':'',
+						'height':''
+					});
+					renderNewPostCount();
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+				}
+			});
+		};
+		
+		function renderNewPostCount(){
+			var countElmt = $('#newPostCount');
+			if(countElmt){
+				var newPostCount = $('.newpost').length;
+				$('#newPostCount').html(newPostCount + " new");
+			}
+		}
+
+		function deletePostDialog(el, postId){
+			deleteEl = el;
+			deletePostId = postId;
+			var postMsg = $(el).parent().find('.wall-post-msg').html();
+			$('#delete-wall-post-msg').html(postMsg);
+			showOverlay('.delete-msg');
+			$('.delete-msg').find('a').attr('id',postId);
+		};
+
+		function deletePost(){
+			var dataStr = "postId=" + deletePostId;
+			//closeOverlay('.delete-msg');
+			$.ajax({
+				type: "POST",
+				url: "/ajax/deleteWallPost",
+				data: dataStr,
+				cache: false,
+				success: function(content) {
+	                var status = content.status;
+	                if(status == 'ERROR'){
+	                    showErrorMessage(content.messages);
+	                }else{
+	                	closeOverlay('.delete-msg');
+	                    $(deleteEl).parent().parent().parent().remove();
+	                }
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+				}
+			});		
+		};
+
+		/*
+		TODO: possible JS solution to striping - currently striping not maintained after posts are deleted
+		function recalibrateStriping(){
+			var idx = 1;
+			jQuery("#wall-root li").each(function() {
+				if(!jQuery(this).attr("id")){
+				   jQuery(this).removeClass();
+				   if( (idx % 2) == 1){
+				      jQuery(this).addClass('alt');
+				      console.log("adding class alt..");
+				   }
+				   idx += 1;
+				}
+			});
+			return false;
+		}
+		*/
+		
+		
+		$(function(){
+
+			/*var fbAppID = '566252906765125';
+			if(fbAppID != ''){
+				fbEnsureInit(function(){});
+			}*/
+			
+			loadPosts(null, 1);
+
+			resetCharsCnt();
+			
+			if (!$('#publiclyVisible').is(':checked')) {
+				$('#publiclyVisible').trigger('change'); // need this to reflect actual checkbox value within visual toggle element
+			}
+			
+		});		
+		
+		
+		function resetCharsCnt() {
+			if($('#comment').length == 0) return false;
+			toCount('comment', 'charLimit', '{CHAR} characters left', 1000);
+		}
+
+
+	    /*function fbLookupSuccess(){
+			//if full log-in to LA via FB, reload page
+			if($('#fb_button_login').is(":visible")){
+				window.location.reload();
+			} else {
+				hideFBButton(true);
+			}
+	    }
+
+	    function showFBButton(){
+	 	   $('#fb_wall_share_button_1').show();
+	    }
+	    
+
+
+		function hideFBButton(fbShareToggleOn) {
+			if (fbShareToggleOn === undefined) { //this is called within fbinitroutines without parameter
+				var fbShareToggleOn = false;
+			}
+			
+			$('#fb_wall_share_button_1').hide();
+			if (fbShareToggleOn) {
+				$('#postToFacebook').attr('checked','checked');
+			} else {
+				$('#postToFacebook').removeAttr('checked');
+				$('#postToFacebook').trigger('change'); // need this to reflect actual checkbox value within visual toggle element
+			}
+			$('#postToFacebookShell').show();
+		}*/
+
+
+		/*function fbLookupFailure(){
+			showErrorMessage("Sorry, you haven't connected your Facebook account yet to Idaho Falls Adult Soccer Association.");
+		}*/
+
+	}
+	
+</script>
+
+
+
+
+
+
+
+
+<script>
+	// scoll body on program/team homepage JSPs is param in query string
+	var ai = 'null';
+	if(ai != '' && ai != 'null'){
+	   $('html,body').animate({scrollTop: $("#"+ai).offset().top}, 1000);
+	}
+
+	// team home-specific JS
+	if($('#team-home').length){
+		
+		$('#message-focus').click(function(){
+			$('#'+$(this).attr('src')).focus();
+		});
+
+		function showMessageSend(e,f){
+			//var top = $(e).parent().parent().parent().parent().offset().top;
+			$('#cover').removeClass('hide');
+			//$(f).css('padding-top',0);
+			//$(f).css('padding-top',top);
+			$('html,body').animate({
+				scrollTop: 0
+			}, 500);
+			setTimeout(function(){
+				$(f).removeClass('hide').addClass('fadein');
+			}, 500);
+		}
+
+		function closeMessageOverlay(e){
+			$(e).addClass('fadeout');
+			$('#cover').addClass('hide');
+			setTimeout(function(){
+				$(e).addClass('hide').removeClass('fadein fadeout');
+			}, 500);
+		}
+
+		function sendMessage() {
+			if (recipientId == 0) {
+				showErrorMessage("Unknown recipient", 3);
+				return false;
+			}
+			var subject = $("#subject").val();
+			var message = $("#message").val();
+			var sendCopyToSendingUser = $("#sendCopyToSendingUser").is(":checked");
+			if ($.trim(subject) == '' || $.trim(message) == '') {
+				showErrorMessage("Both subject and message are required");
+				return false;
+			}
+			$.ajax({
+				type: "POST",
+				url: "/ajax/messageSiteMember",
+				data: {
+					"siteId": 3651, 
+					"toUserId": recipientId, 
+					"subject": subject, 
+					"message": message, 
+					"sendCopyToSendingUser": sendCopyToSendingUser
+				},
+				cache: false,
+				success: function(msg) {
+					onMessagePlayerResponse(msg);
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+				}
+			});
+		}
+		
+		function onMessagePlayerResponse(status) {
+			if (status == 'error') {
+				showErrorMessage("Error occured while sending message");
+			} else if (status == 'success') {
+				cOverlayClose('.player-message');
+				showConfirmMessage("Message has been successfully sent");
+				$("#subject").val("Message from  ");
+				$("#message").val("");
+			}
+		}
+		
+		function setRecipient(id, name) {
+			recipientId = id;
+			recipientName = name;
+			if (recipientName != null) {
+				$("#recipientName").html('&nbsp;'+recipientName+'&nbsp;');
+			}
+		}	
+		
+		$(function() {
+			var recipientId = 0;
+			var recipientName = null;
+		});
+
+	}
+
+	// if team edit view
+	if($('#edit-team').length){
+
+		$(function(){
+			var uploadImage = $('#uploadImage');
+			$.getScript('http://svite-league-apps-static.s3.amazonaws.com/_s/ajaxfileupload.js');
+
+			$('#uploadImageLabel').on('click', function(){
+				uploadImage.click();
+			});
+
+			uploadImage.on('change',function(){
+				var $this = $(this);
+				if($this.val()!=''){
+					//$this.prev().html('+ Chooe');
+					$('#uploadInput').removeClass('hide');
+				}
+			});
+		});
+		
+		function fileUpload(elemId, uploadUrl, deleteUrl) {
+			$('#uploadInput').val('Uploading').addClass('active d').prop('disabled',true);
+			jQuery.ajaxFileUpload({
+				url:uploadUrl, 
+				secureuri:false,
+				fileElementId:elemId,
+				dataType: 'plain',
+				complete:function() {},
+				success: function (data, status) {
+		        	if (contains(data, "success")) {
+		        		var date = new Date();
+		        		var imageUrl = data.substring(data.indexOf('[')+1,data.indexOf(']')) + '?v=' + date.getTime();
+		        		$('#profile-photo').html('<img src="'+imageUrl+'"/>');
+		        		$('#profile-photo').append('<a onclick="deleteImage(\'' + deleteUrl + '\');" id="profile-photo-delete" class="btn">Remove</a>');
+		        		$('#profile-photo').after('<p class="center"><a href="#" onclick="location.reload();">Use a different photo?</a></p>')
+		        		$('#profile-photo-delete').removeClass('hide');
+		        		$('#uploadInput').val('Upload & save').removeClass('active d').addClass('hide').prop('disabled',false);
+		        		$("#uploadImageLabel").addClass('hide');
+			        } else {
+						$('#errors').removeClass('hide').text('Sorry, we could not upload this image. Note: if you continue to experience troubles uploading your image, make sure it has standard format (e.g. PNG or JPG) and uses RGB color scheme.');
+			        }
+		        },
+				error: function (data, status, e) {
+		        	showInlineMessage("error", 2, "data " + data + ", exception: " + e);
+				}
+			});
+			return false;
+		};
+
+		function contains(str, prefix) {
+			return str.indexOf(prefix) != -1;
+		};
+
+		function deleteImage(deleteUrl) {
+			$.get(deleteUrl, function (data) {
+				if (contains(data, "success")) {
+	        		var date = new Date();
+	        		var imageUrl = data.substring(data.indexOf('[')+1,data.indexOf(']')) + '?v=' + date.getTime();
+	        		$('#profile-photo').html('<img src="'+imageUrl+'" class="default" />');
+	        		$('#profile-photo-delete').addClass('hide');
+		        } else {
+		        	showInlineMessage("error", 2, "Sorry, please try to delete again.");
+		        }
+			});
+		}
+		
+		function showInlineMessage(className, duration, msg, callback) {
+			$("#upload-status").addClass(className)
+			.html(msg)
+			.fadeIn(420).animate({opacity:1}, duration*1000, function() {
+				hideInlineMessage();
+				if (callback != null && callback !== undefined) {
+					callback();
+				}
+			});
+		}
+		
+		function hideInlineMessage() {
+			$("#upload-status").fadeOut(420, function() {
+				$(this).empty();
+			});
+		}	
+
+	}
+
+	// team roster view
+	if($('#team-roster').length){
+
+		
+		// include DOB stuff
+		var $birthDate = $('#birthDate');
+	    var $birthMonth = $('#birthMonth');
+	    var $birthDay = $('#birthDay');
+	    var $birthYear = $('#birthYear');
+
+	    if($birthDate.val()!=''){
+	    	var fulldb_split = $birthDate.val().split('/');
+	    	var bm = fulldb_split[0];
+		    var bd = fulldb_split[1];
+		    var by = fulldb_split[2];
+		    var fulldb = $birthDate.val();
+		    console.log(bm,bd,by);
+		    $birthMonth.val(bm);
+			$birthDay.val(bd);
+		    $birthYear.val(by);
+	    }else{
+	    	var bm = 0;
+		    var bd = '';
+		    var by = '';
+		    var fulldb = '';
+	    }
+	    /*$birthMonth.on('change', function(){
+	    	//console.log(typeof bm);
+	    	var $this = parseInt($(this).find('option:selected').val());
+	    	bm = $this;// + 1;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    });*/
+		$birthMonth.on('keyup blur', function(){
+	    	var $this = $(this).val();
+	    	bm = $this;// + 1;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    	//if(bm.length == 2){
+	    	//	$birthDay.focus();
+	    	//}
+	    });
+	    $birthDay.on('keyup blur', function(){
+	    	var $this = $(this).val();
+	    	bd = $this;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    	//if(bd.length == 2){
+	    	//	$birthYear.focus();
+	    	//}
+	    });
+	    $birthYear.on('keyup blur', function(){
+	    	var $this = $(this).val();
+	    	by = $this;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    });
+	    /*$birthYear.on('change', function(){
+	    	var $this = $(this).find('option:selected').val();
+	    	by = $this;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    });*/
+		
+
+		
+
+		function showAddPlayer(){
+			var addPlayerF = $('#addPlayerForm');
+			addPlayerF.show();
+	    	var targetOffset = jQuery(addPlayerF).offset().top;
+	    	jQuery('html,body').animate({scrollTop: targetOffset}, 720);
+	    	$('#add-player').addClass('active');
+	    }
+		
+		function hideAddPlayer(){
+			var addPlayerF = $('#addPlayerForm');
+			addPlayerF.hide();
+			$('#add-player').removeClass('active');
+	    }
+
+		
+		function savePlayer() {
+			$("#addPlayerBtn").val('Adding player').addClass('active d').prop('disabled',true);
+			//$("#addPlayerBtnConf").attr("disabled",true);
+			
+			$.ajax({
+				type: "POST",
+				url: "/ajax/addSiteTeamPlayer",
+				data: createParams(),
+				cache: false,
+				success: function(msg) {
+					onAddPlayerResponse(msg);
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+				}
+			});	
+			
+			$("#addPlayerBtn").val('Save & add player').removeClass('active d').prop('disabled',false);
+			//$("#addPlayerBtnConf").attr("disabled",false);
+		};
+		
+		function editPlayer(playerId) {
+			
+			//$("#editPlayerButton_"+playerId).attr("disabled",true);
+			
+			$.ajax({
+				type: "POST",
+				url: "/ajax/addSiteTeamPlayer",
+				data: collectEditParams(playerId),
+				cache: false,
+				success: function(msg) {
+					onEditPlayerResponse(msg, playerId);
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+					//$("#editPlayerButton_"+playerId).attr("disabled",false);
+				}
+			});	
+			
+		};
+
+		
+		function createParams() {
+			var result = new Object();
+			$("#create-player").find("input[type='text'],input[type='hidden'],input[type='radio'],select,textarea").each(function(index) {
+				if($(this).attr("name") == 'gender'){
+					if($("#female").is(":checked")){
+						result["gender"] = "Female";
+					}
+					else if($("#male").is(":checked")){
+						result["gender"] = "Male";
+					}
+				}
+				else{
+					result[$(this).attr("name")] = $(this).val();
+				}
+			});
+			return result;
+		}
+		
+		function collectEditParams(playerId){
+			var result = new Object();
+			$("#form_"+playerId).find("input[type='text'],input[type='hidden'],input[type='radio'],select,textarea").each(function(index) {
+				if($(this).attr("name") == 'gender'){
+					if($("#female_"+playerId).is(":checked")){
+						result["gender"] = "Female";
+					}
+					else if($("#male_"+playerId).is(":checked")){
+						result["gender"] = "Male";
+					}
+				}
+				else{
+					result[$(this).attr("name")] = $(this).val();
+				}
+				
+			});
+			return result;
+		}
+		
+		function clearTeamPlayerForm() {
+			$("#create-player").find("input[type='text'],input[type='radio'],select,textarea").each(function(index) {
+				$(this).val("");
+			});
+		}
+		
+		function onSavePlayerInternal(playerId) {
+			var url = '/ajax/loadTeammates?bid=&teamId=';
+			$("#teammates-container").load(url);
+			if(playerId){
+				$('html,body').animate({
+					scrollTop: $('#editplayer_'+playerId).parent().parent().offset().top - 50
+				}, 500);
+			}else{
+				$('html,body').animate({
+					scrollTop: $('html,body').offset().top
+				}, 500);
+			}
+		}
+		
+		function goToPlayerInvite(){
+			window.location = "//teamInvite?teamId=";
+		}
+
+		function onAddPlayerResponse(content) {
+			if(content.indexOf("EXISTING_ORPHAN") >= 0){
+				$('#create-player').find('.alert').remove();
+				var dobRequired = true;
+				cOverlay('.player-add');
+				var info = "name";
+				if(dobRequired){
+					info += " and birth date";
+				}
+				$("#identical-orphan-info").html(info);
+				$("#add-existing-orphan").show();
+				var carr = content.split("|");
+				var orphanId = carr[1];
+				orphanId = orphanId.replace("</p>","");
+				$("#addExistingOrphanId").val(orphanId.trim());
+				return;
+			}
+			else if(content.indexOf("EXISTING_ADULT") >= 0){
+				$('#create-player').find('.alert').remove();
+				var allowInvite = $("#allowInvite").val();
+				cOverlay('.player-add');
+				$("#invite-existing-adult").show();
+				if(allowInvite){
+					$("#go-to-invite-player").show();
+					$("#invite-existing-adult-info").html("However, you can click Continue below to send them an invite to join.");
+				}
+				return;
+			}
+			else{
+				//showSystemMessages(content, 6);
+				$('#create-player').find('.alert').remove();
+				$('#create-player').prepend('<div class="alert">'+content+'</div>');
+				$('html,body').animate({
+					scrollTop: $('#create-player').offset().top
+				}, 500);
+			}
+				
+			var status = $("#status").val();
+			if (status == 'success') {
+				//cOverlayClose('.player-add');
+				if (typeof(onSavePlayerInternal) == 'function') {
+					onSavePlayerInternal();
+				}	
+				clearTeamPlayerForm();
+				hideAddPlayer();
+			}
+			
+			$("#addExistingOrphanId").val(0);
+			
+
+		}	
+		
+		function onEditPlayerResponse(content, playerId) {
+			//showSystemMessages(content, 6);
+			var status = $("#status").val();
+			if (status == 'success') {
+				$("#editPlayerButton_"+playerId).attr("disabled",true);
+				if (typeof(onSavePlayerInternal) == 'function') {
+					onSavePlayerInternal(playerId);
+				}	
+			}else{
+				$('#form_'+playerId).find('.alert').remove();
+				$('#form_'+playerId).prepend('<div class="alert">'+content+'</div>');
+				$('html,body').animate({
+					scrollTop: $('#form_'+playerId).offset().top
+				}, 500)
+			}
+		}	
+		
+		
+		function renderEditPlayer(playerId){
+			$("#editLink_"+playerId).attr("disabled",true);
+			$("#loader_"+playerId).show();
+			var url = '/ajax/populatePlayerInfoForEdit?bid=&teamId=&playerId='+playerId;
+			var editPlayerdiv = $("#editplayer_"+playerId);
+			
+			editPlayerdiv.show();
+			
+			$("#editplayer_"+playerId).load(url, function(){
+				$("#loader_"+playerId).hide();
+			
+				var targetOffset = jQuery(editPlayerdiv).offset().top;
+		    	jQuery('html,body').animate({scrollTop: targetOffset}, 720);
+		    	
+		    	var datepickTarg = $("#datepicker_"+playerId);
+		    	if(datepickTarg.length){
+		    		initDatePicker("datepicker_"+playerId);
+		    	}
+		    	
+		    	var formPropertyCount = $("#form_"+playerId+" fieldset label[id^='customProp_']").size();
+		    	console.log(formPropertyCount);
+		    	if(formPropertyCount == 0){
+					var isOrphan = $("#form_"+playerId+" hidden[id='orphan']").val();
+					if(!isOrphan){
+						//nothing to edit - hide/disable form submit buttons
+						$("#nothingToEditMsg").show();
+						$("#editPlayerButton_"+playerId).attr("disabled",true);
+						$("#editPlayerButton_"+playerId).hide();
+						$("#editPlayerButton_"+playerId).parent().find('.btn.neg').val('Close');
+					}	
+		    	}
+		    	
+			
+			});
+			
+
+		}
+			
+		function hideEditPlayer(playerId){
+			$("#editLink_"+playerId).attr("disabled",false);
+			var editPlayerF = $('#editplayer_'+playerId);
+			editPlayerF.hide();
+	    }
+		
+		function toggleOrphanFields(isChildCB){
+	    	if(isChildCB.checked){
+				$("#addPlayerEmail").hide();
+				$("#orphan").val(true);
+				jQuery("li[id^='Child_']").each(function() {
+					$(this).show();
+				});	
+				jQuery("li[id^='Adult_']").each(function() {
+					$(this).hide();
+				});	
+				
+			}
+			else{
+				$("#addPlayerEmail").show();
+				$("#orphan").val(false);
+				jQuery("li[id^='Child_']").each(function() {
+					$(this).hide();
+				});	
+				jQuery("li[id^='Adult_']").each(function() {
+					$(this).show();
+				});	
+			}
+		}
+		
+		
+		
+		
+	    $(function() {
+	    	var allowAddPlayer = '';
+	    	if(allowAddPlayer!=''){
+	    		if(allowAddPlayer=='true'){
+	    			allowAddPlayer=true;
+	    		}
+	    	}
+	    	var dobRequired = true;
+	    	if(allowAddPlayer){
+	    		
+	        	var baseEventGroupAccountMode = '';
+	            if(baseEventGroupAccountMode == 'YOUTH'){
+	            	$("#isChild").attr("checked", true);
+	            	$("#orphan").val(true);
+	        		$("#addPlayerEmail").hide();
+	        		
+	    			jQuery("li[id^='Child_']").each(function() {
+	    				$(this).show();
+	    			});	
+	    			jQuery("li[id^='Adult_']").each(function() {
+	    				$(this).hide();
+	    			});	    		
+	        		
+	            }
+	            else{
+	            	$("#orphan").val(false);
+	            	jQuery("li[id^='Child_']").each(function() {
+	    				$(this).hide();
+	    			});	
+	    			jQuery("li[id^='Adult_']").each(function() {
+	    				$(this).show();
+	    			});	 	
+	            }    		
+	    		
+	    	}
+	        
+	        
+	    });
+
+		
+		var $birthDate = $('#birthDate');
+	    var $birthMonth = $('#birthMonth');
+	    var $birthDay = $('#birthDay');
+	    var $birthYear = $('#birthYear');
+
+	    if($birthDate.val()!=''){
+	    	var fulldb_split = $birthDate.val().split('/');
+	    	var bm = fulldb_split[0];
+		    var bd = fulldb_split[1];
+		    var by = fulldb_split[2];
+		    var fulldb = $birthDate.val();
+		    console.log(bm,bd,by);
+		    $birthMonth.val(bm);
+			$birthDay.val(bd);
+		    $birthYear.val(by);
+	    }else{
+	    	var bm = 0;
+		    var bd = '';
+		    var by = '';
+		    var fulldb = '';
+	    }
+	    /*$birthMonth.on('change', function(){
+	    	//console.log(typeof bm);
+	    	var $this = parseInt($(this).find('option:selected').val());
+	    	bm = $this;// + 1;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    });*/
+		$birthMonth.on('keyup blur', function(){
+	    	var $this = $(this).val();
+	    	bm = $this;// + 1;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    	//if(bm.length == 2){
+	    	//	$birthDay.focus();
+	    	//}
+	    });
+	    $birthDay.on('keyup blur', function(){
+	    	var $this = $(this).val();
+	    	bd = $this;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    	//if(bd.length == 2){
+	    	//	$birthYear.focus();
+	    	//}
+	    });
+	    $birthYear.on('keyup blur', function(){
+	    	var $this = $(this).val();
+	    	by = $this;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    });
+	    /*$birthYear.on('change', function(){
+	    	var $this = $(this).find('option:selected').val();
+	    	by = $this;
+	    	fulldb = bm + '/' + bd + '/' + by;
+	    	$birthDate.val(fulldb);
+	    });*/
+	    
+
+		// add team player
+		function reflectPaymentPlanSelection() {
+			var ppId = $("#pp-list :selected").val();
+			showPaymentPlanDetails(ppId);
+		}
+		
+		function showPaymentPlanDetails(ppId) {
+			$(".pp-details").fadeOut();
+			if (ppId != '') {
+				$("#pp-" + ppId + "-details").fadeIn();
+			}
+		}
+
+	}
+
+	// team pending requests
+	if($('#team-pending').length){
+
+		function goToReinvite(){
+			var reinvite = '//teamReinvite?teamId=';
+			window.location = reinvite;
+		}
+		
+		function showApproveOrDeclineRequestOverlay(overlayId, beptjid, fname){
+			beptjID = beptjid;
+			$('#'+overlayId+'-playername').html($.trim(fname));
+			showRequestOverlay('#'+overlayId);
+		}
+		
+		function approveOrDecline(action){
+			var params = {'teamId': '', 'beptjid': beptjID, 'action': action};
+			$.ajax({
+				type: "POST",
+				url: "/ajax/teamJoinRequest",
+				data: params,
+				cache: false,
+				success: function(msg) {
+					onApproveOrDeclineResponse(msg, action);
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+				}
+			});	
+		}
+
+		function onApproveOrDeclineResponse(content, action) {
+			showSystemMessages(content, 5);
+			var status = $("#status").val();
+			if (status == 'success') {
+				window.setTimeout(function() {
+					window.location = "//pendingPlayers?teamId=&type=JOIN_REQUEST&approvalConfirmation="+action;
+				}, 1000);
+			}
+		}
+		
+		function showDeleteInviteOverlay(beptjid, email, parentRow){
+			beptjID = beptjid;
+			row = parentRow;
+			$('#delete-invite-email').html($.trim(email));
+			showRequestOverlay('#delete-invite');
+		}
+
+		function deleteInvite() {
+			var params = {'teamId': '', 'beptjid': beptjID};
+			
+			$.post("/ajax/deletePendingTeamJoin", params, function(data){
+				var status = '';
+				$(data).each(function() {
+					if ($(this).attr('id') == 'status') {
+						status = $(this).val();
+					}
+				}); 
+				
+				if (status == "success") {
+					$(row).remove();
+					if ($("dl.player").length == 0) {
+						$("#pending-list").html("<p>There are no pending invited players.</p>");
+					}
+				} else if (status == "error") {
+					$('#svl-msg h3').html("Oops, you have some errors!");
+					showNotice("error", 5);
+					$("#svl-msg span").html(data);
+				}
+			});	
+		}
+		
+		$(function() {
+			beptjID = 0;
+			row = null;
+		});
+
+		function showRequestOverlay(e){
+			$('#cover').removeClass('hide');
+			$('html,body').animate({
+				scrollTop: 0
+			}, 500);
+			setTimeout(function(){
+				$(e).removeClass('hide').addClass('fadein');
+			}, 500);
+		}
+
+		function closeMessageOverlay(e){
+			$(e).addClass('fadeout');
+			$('#cover').addClass('hide');
+			setTimeout(function(){
+				$(e).addClass('hide').removeClass('fadein fadeout');
+			}, 500);
+		}
+
+	}
+
+	// program calendar
+	if($('#program-calendar').length){
+
+		$(function(){
+
+			/* Calendar */
+			$('#calendar').fullCalendar({
+				header: {
+					left: 'prev',
+					center: 'title',
+					right: 'next'
+				},
+				events: '/calendar/json?baseEventId=',
+				eventRender: function(event, element) {
+					element.on('click', function(){
+						showCalendarEventDetails(event);
+					});
+				}
+			});
+
+			// This is probably a bad idea to pull from the link text/data.  The name and home uri
+			// should really be included in the event
+			function setBaseEventDetails(ce) {
+				var $link = $("a#program-name");
+				if (ce.baseEventId) {
+					$('#hr').show();
+					$('#for-event').show();
+					//$('#').removeClass('pad-bot');
+					$link.attr("href", ce.baseEventPublicHomeURI);
+					$link.text(ce.baseEventName);
+				} else {
+					$('#hr').hide();
+					$('#for-event').hide();
+					//$('.event-details .desc').addClass('pad-bot');
+					$link.empty();
+					$link.attr("href", null);
+				}
+			}
+
+			function showCalendarEventDetails(ce) {
+				$("#title").text(ce.title);
+				setBaseEventDetails(ce);
+				$("#description").text(ce.description ? ce.description : "");
+				$("#location").text(ce.location ? "Where: " + ce.location : "");
+				var start = moment(ce.start);
+				if (ce.end) {
+					var end = moment(ce.end);
+					if (end.year() === start.year() && end.month() == start.month() && end.date() == start.date()) {
+						$("#startDate").text(start.format("h:mm a"));
+						$("#endDate").text(end.format(" [to] MMM Do YYYY, h:mm a"));
+					} else {
+						$("#startDate").text(start.format("ddd, MMM Do YYYY, h:mm a"));
+						$("#endDate").text(end.format(" [to] ddd, MMM Do YYYY, h:mm a"));
+					}
+				} else {
+					$("#startDate").text(start.format("ddd, MMM Do YYYY, h:mm a"));
+					$("#endDate").empty();
+				}
+
+				$('#events').removeClass('hide');
+				$('html,body').animate({
+					scrollTop: $('#events').offset().top
+				}, 500);
+			}
+		});
+
+		function hideEvent(){
+			$('#events').addClass('hide');
+			$('html,body').animate({
+				scrollTop: $('#calendar').offset().top
+			}, 500);
+		}
+
+	}
+
+	// message captains
+	if($('#message-captain').length){
+
+		function showCapOverlay(e,f){
+			if(f){
+				var top = $(f).parent().parent().offset().top;
+				$(e).css('padding-top',top);
+			}
+			$('#cover').removeClass('hide');
+			$('html,body').animate({
+				scrollTop: top
+			}, 500);
+			setTimeout(function(){
+				$(e).removeClass('hide').addClass('fadein');
+			}, 501);
+		}
+
+		function closeOverlay(e){
+			$(e).addClass('fadeout');
+			$('#cover').addClass('hide');
+			setTimeout(function(){
+				$(e).addClass('hide').removeClass('fadein fadeout').css('padding-top','');
+			}, 500);
+		}
+
+	}
+
+	// invite to team, player view
+	if($('#invite-to-team').length){
+
+		function showOverlay(e,f){
+			if(f){
+				var top = $(f).parent().parent().parent().offset().top;
+				$(e).css('padding-top',top);
+			}
+			$('#cover').removeClass('hide');
+			//$('html,body').animate({
+			//	scrollTop: 0
+			//}, 500);
+			setTimeout(function(){
+				$(e).removeClass('hide').addClass('fadein');
+			}, 500);
+		}
+
+		function closeOverlay(e){
+			$(e).addClass('fadeout');
+			$('#cover').addClass('hide');
+			setTimeout(function(){
+				$(e).addClass('hide').removeClass('fadein fadeout').css('padding-top','');
+			}, 500);
+		}
+
+		function sendInvite() {
+			var tbeId = $("#invite-to-tbe").val();
+			if (tbeId == "") {
+				showErrorMessage("Please, choose a team", 3);
+				return false;
+			}
+			var message = $("#invite-to-tbe-message").val();
+			$.ajax({
+				type: "POST",
+				url: "/ajax/inviteFreeAgentToTeam",
+				data: {
+					"tbeId": tbeId, 
+					"inviteeId": inviteeId, 
+					"inviteeInitialProgramId": inviteeOriginalProgramId, 
+					"message": message
+				},
+				cache: false,
+				success: function(content) {
+					onSendInviteResponse(content);
+				},
+				error: function(request, textStatus, errorThrown) {
+					showErrorMessage(errorThrown);
+				}
+			});
+		}
+		
+		function onSendInviteResponse(content) {
+			showSystemMessages(content, 5);
+			var status = $("#status").val();
+			if (status == 'success') {
+				cOverlayClose('.player-invite');
+				$("#invite-to-tbe").val("");
+			}
+		}
+
+		function setInviteToTeamData(userId, userName, userGender, userJoinDate, userPhotoURL, originalProgramId, originalProgramName) {
+			if (userId == null) {
+				$("#invite-to-team-form").hide();
+				$("#invite-to-team-not-available-message h3").html("You are not captain of any teams with open registration / free spots");
+				$("#invite-to-team-not-available-message").show();
+			} else {
+				$("#invite-to-team-not-available-message").hide();
+				$("#invite-to-team-form").show();
+				inviteeId = userId;
+				inviteeName = userName;
+				if (inviteeName != null) {
+					$("#inviteeName").html(unescape(inviteeName));
+				}
+				inviteeGender = userGender;
+				if (inviteeGender != null) {
+					$("#inviteeGender").html(inviteeGender);
+				}
+				inviteeJoinDate = userJoinDate;
+				if (inviteeJoinDate != null) {
+					$("#inviteeJoinDate").html(inviteeJoinDate);
+				}
+				inviteePhotoURL = userPhotoURL;
+				if (inviteePhotoURL != null) {
+					$("#inviteePhoto").attr('src', inviteePhotoURL);
+				}
+				inviteeOriginalProgramId = originalProgramId;
+				if (originalProgramName != null) {
+					$("#inviteeOriginalProgramName").html(unescape(originalProgramName));
+				}
+				
+				var inviteEligibleTeamsCnt = 0;
+				if (inviteeGender == 'Male') {
+					$(".invite-eligible-team-female-only").attr('disabled', 'disabled');
+					$(".invite-eligible-team-male-only").attr('disabled', '');
+					inviteEligibleTeamsCnt += $(".invite-eligible-team-male-only").length;
+				} else if (inviteeGender == 'Female') {
+					$(".invite-eligible-team-male-only").attr('disabled', 'disabled');
+					$(".invite-eligible-team-female-only").attr('disabled', '');
+					inviteEligibleTeamsCnt += $(".invite-eligible-team-female-only").length;
+				}
+				inviteEligibleTeamsCnt += $(".invite-eligible-team-any-gender").length;
+				if (inviteEligibleTeamsCnt == 0) {
+					$("#invite-to-team-form").hide();
+					$("#invite-to-team-not-available-message h3").html("You are not captain of any teams with free " + inviteeGender + " spots");
+					$("#invite-to-team-not-available-message").show();
+				}
+			}
+		}	
+		
+		$(function() {
+			inviteeId = 0;
+			inviteeOriginalProgramId = null;
+			inviteeName = null;
+			inviteeGender = null;
+			inviteeJoinDate = null;
+			inviteePhotoURL = null;
+		});
+
+	}
+
+	// team invite
+	if($('#team-invite').length){
+		function addNewRow(){
+			var emails = $('.invite-email').length - 1;
+			//alert(emails);
+			$('#extra-emails').append('<div class="new-email"><input type="email" class="s required invite-email no-b mar-t" autofocus /><span class="remove"><a href="#" onclick="removeLastRow(this);">Remove</a></span></div>');
+		}
+		function removeLastRow(e){
+			var this_email = $(e).parent().parent().find('input').val();
+			var compiled_emails = $('#emails').val().split(', '+this_email);
+			$('#emails').val(compiled_emails[0]+compiled_emails[1]);
+			$(e).parent().parent().remove();
+		}
+		$(function(){
+			$('#invite-email-first').on('keyup', function(){
+				var $this = $(this);
+				if($this.val()!=''){
+					$('.add-new').removeClass('hide');
+				}else{
+					$('.add-new').addClass('hide');
+				}
+			});
+			$('#btn-process').on('click', function(){
+				var compiled_emails = '';
+				var email_number = 0;
+				$('.invite-email').each(function(){
+					var $this = $(this);
+					if($this.val()!=''){
+						if(email_number==0){
+							compiled_emails = $this.val();
+						}else{
+							compiled_emails += ', '+$this.val();
+						}
+					}
+					$('#emails').val(compiled_emails);
+					email_number++;
+				});
+				//alert(compiled_emails);
+				//return false;
+			});
+		});
+	}
+
+</script>
+
+		
+		<script>
+
+			var fbAppID = '566252906765125';
+			var fbJSurl = '//connect.facebook.net/en_US/all.js';
+
+			if(fbAppID != null && fbAppID != ''){     
+				var fbApiInit = false;
+					window.fbAsyncInit = function() {
+					FB.init({
+					appId      : fbAppID,  // App ID
+					//channelUrl : '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File
+					status     : true, // check login status
+					cookie     : true, // enable cookies to allow the server to access the session
+					oauth      : true, // enable OAuth 2.0
+					xfbml      : true  // parse XFBML
+				});
+
+
+				// Call to additional JS routines that need to be within fbAsyncInit (vary by calling parent jsp/action)
+				// Defined in fbinitroutines.js
+				var fbInitFunction = '';	
+				if(fbInitFunction != ''){
+					var isLoggedIn = false;
+					 
+
+					executeFBInitFunction(fbInitFunction, window, isLoggedIn);
+				}
+
+				fbApiInit = true; //init flag
+
+			}; //end of window.fbAsyncInit
+
+
+			} //end of fbAppID check
+			else{
+			fbJSurl += '#xfbml=1&appId=259842427403814';	 
+			}
+
+
+			if(fbAppID != null && fbAppID != ''){
+				(function() {
+					var e = document.createElement('script');
+					e.type = 'text/javascript';
+					e.src = document.location.protocol + fbJSurl; // '//connect.facebook.net/en_US/all.js#xfbml=1';
+					e.async = true;
+					document.getElementById('fb-root').appendChild(e);
+				}());
+			}
+
+
+			//May 22 2012: inclusion of '#xfbml=1' on js reference above suddenly started to cause warning msg described below:
+			//http://stackoverflow.com/questions/10415884/fb-init-has-already-been-called
+
+			//Oct 2012 - JS debug/console output will appear if FB app not defined, but FB page & like buttons are
+			//https://sportsvite.lighthouseapp.com/projects/69692-core-dev-la/tickets/1292-bug-adding-fb-page-does-not-work-if-fb-app-not-enabled#ticket-1292-6
+
+			//var fbAppID = '566252906765125';
+
+			
+
+		</script>
+		
+
+		<!-- Google Analytics Tracking Code -->
+		
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17704100-1']);
+  _gaq.push(['_setDomainName', 'leagueapps.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  
+  
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+		<!-- faux-background for reg overlay -->
+		<div class="cover hide" id="cover" onclick="hideOverlay();"></div>
+		
+		<div class="faux-overlay fixed hide" id="beta-feedback">
+	<div>
+		<div>
+			<h2>Any thoughts or feedback on the new mobile site?</h2>
+			<p>Send it to us below. Or, if you don&rsquo;t want to now, you can always find this form at the bottom of the page labeled <strong>Contact us / send feedback</strong>.</p>
+			<form class="mar-t mar-b" id="beta-feedback-form">
+				<fieldset>
+					<label>
+						<!--<span class="r">Your message</span>-->
+						<textarea id="msgText" name="msgText" class="s required"></textarea>
+					</label>
+				</fieldset>
+				<fieldset class="form-btns"> 
+					<input type="submit" onclick="submitFeedback();" value="Send my feedback" class="btn" />
+					<input type="hidden" id="url" name="url" />
+				</fieldset>
+			</form>
+			<p class="mar-t"><a href="#" onclick="$(this).parent().parent().parent().parent().addClass('hide');$('#beta-feedback-cover').addClass('hide'); return false;">Close &amp; hide this</a></p>
+		</div>
+	</div>
+</div>
+
+<div class="cover hide" id="beta-feedback-cover" onclick="$(this).addClass('hide');$('#beta-feedback').addClass('hide');"></div>
+
+		<!-- add this in so we can test if mobile templates or not -->
+		<div id="is-mobile"></div>
+
+	</body>
+</html>
+<!-- end mobile templates -->
+
+
+
+
+

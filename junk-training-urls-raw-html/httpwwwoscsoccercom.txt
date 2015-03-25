@@ -1,0 +1,721 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	Owasso Soccer Club > Home
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="DESCRIPTION" content="Owasso Soccer Club" /><meta id="MetaKeywords" name="KEYWORDS" content="Owasso Soccer Club" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright (c) 2015 by Owasso Soccer Club" /><meta id="MetaAuthor" name="AUTHOR" content="Owasso Soccer Club" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/default.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/admin.css?cdv=13" type="text/css" rel="stylesheet"/><link href="https://dt5602vnjxv0c.cloudfront.net/portals/_default/skins/athena/skin.css?cdv=13" type="text/css" rel="stylesheet"/><script src="/resources/shared/scripts/jquery/jquery.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-migrate.min.js?cdv=13" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-ui.min.js?cdv=13" type="text/javascript"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2472549-6']);
+_gaq.push(['_setDomainName', 'sports.bluesombrero.com']);
+_gaq.push(['_trackPageview']);
+
+            (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3aed2942d4" type="text/css" rel="stylesheet" /></head>
+<body id="Body">
+    
+    <form name="Form" method="post" action="/" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="h/jtZVBBZ65f6d7ImXsDNznOoq53YeNwlBvTJ9FFfrpiStqCTjIJQuo5vhabMwVc8M04IhvWxD1kp/++WV0y7Ojrxtq1Fe3t9IorxxPOQZTfvANRS3GiNv86sVOGOVOD/vE5iwcI50nA4BTqYkppGtiMrPKV/JXuV/WXvkSJQMacupJ0YdMxQPjmWQEQe2FO1gV56CowjQyFfhnrK4GEgzIzoj2b32nDXjy/mKJva5JucwZRKRSME82XrDo5k/biVa4xz7sTHq6iFLxuZ6ndIn91LDqf/t0CNshtd93Oecp6KwAXBA/AHT87+tYiVZeBprjoybnEF+81Af/g3XN+3K7UDaCJmifEyys/i6y+I0unXAGJ1THts/0grO+1eBDmknxJWxZuXiKb4qy9ab2IIXmTN3iiI33D/8u88U9cugMiozW2XaiRPXe8C+vNqwCDF15GF90V+lMW7UPN8iz5V08ehiJyByh9ynl+tMlhL8ZEcHtRoOO13Dmy0ttmqmWsF6fK0fg7rLrR9GlA0xEodDDbA93OP5esBeO2qD6EDt90NukjOUeEWdwFKo/xkEf+qVgZc8tETTakmN+hSlZl/xGuiGHn8FVIJPpklqEYJ73HcdZfo/zVN3HjL75xwp03qNXAVX+gaDLQnjJYSb4oS4GOchblAPPSvHpaenv/UB1nqZGMjJDtXye4CVpJEE5gAmCJ2E0ZGvd2mBwRfBugMbUMi3QXk+4vTKjIc+jL9aVazqgMdBCYXgTvch0rrkR6V2MNzJXgvjmPB0+c3YoCM6bioErJXl3ES/psU5uPvw+p95vi8nhe1LVj5B6/jkzWTu6faAgpLIspy4MyscQTQORGFw7XFaj9TIG4249kE7HK8kNWcgU+vgoCDryd1Cmvdqjt9UbjL9mq2OVTDN5/YHL2jetYb8Z4hEi7fnGwgTS9+9vEjEMkOJtP1G0sHeNFPCyPA7vtsy6e3S3ICL2TVYK8xsTW589/VO+FU47m6WCvNNvzzMg6CwUB9ymLl9jP59uonJeSeS0CG2hYdo6RUCUQ6mHZn0kq+hzUgVpNBzbJ8XnKVAYPe1WdasTjfbpw/ejXLev4tXKZrpL257Fou49Y75T7kLg+uwjOPYV4FkfwJ4/FvZhop0gKyrhDuVO9FjVZPxHmhHJ/opTSkE3y5XVaT54V7W6IUE9fNAstCxmza+v5MgWdQpx0kG7M2oN5H80DBRDX2WATOoX9fVwNtnbg4wts9LLN/3IAIg1DGTPGe2ZDwgrNukglXVmKighuJbrmxDW+wuuNS/gXRH736p7vmW7AgSOaNQagRvtWH6dimQnfJ+6pzMvs9HX4AiCzmzdT2aywH7jw36yh9zqYkRrI9xfGQvzpqZSbPUN9xS5jWAmpHpG5/u1s8KdsnNv4MMBWGEIE8ZD4Nf7DiPjc0mwYFCs929hVG7BQyLXMFZ869dYhbQDHT8WGb42ZuXwqoRPJ9dOjK9d14CCApQs4D3WKCPxeYo72JG3Hh0fuxt3uaLfRUGzPfFfL89w=" />
+</div>
+
+
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.hoverintent.js?v=10" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.controlpanel/resources/bsb_controlpanel.css?v=10' rel='stylesheet' rev='Stylesheet' type='text/css' />
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.contenthome.helper.js?v=10" type="text/javascript"></script>
+<script src="/desktopmodules/at/at.common.usercontrols/resources/jquery.smallpluggins.js?v=10" type="text/javascript"></script><link href='/desktopmodules/bsb/bsb.contentrotator/clientresources/bkosborne/css/feature-carousel.css?v=10' rel='stylesheet' rev='Stylesheet' type='text/css' />
+<script src="/desktopmodules/bsb/bsb.contentrotator/clientresources/bkosborne/jquery.featurecarousel.min.js?v=10" type="text/javascript"></script>
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.neosmart.fb.wall.js?v=10" type="text/javascript"></script>
+<script src="/desktopmodules/bsb/bsb.controls/resources/jquery.tweet.js?v=10" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af319b152-218f-4c14-829d-050a68bb1a61%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2014.1.318.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a0746398c-8ed4-4bb4-ac7c-2ae23e943aae%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a1e771326%3a88144a7a%3ac8618e41%3a1a73651d%3a333f8d94" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/debug/dnn.modalpopup.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=13" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=13" type="text/javascript"></script>
+        
+        
+
+<link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'/>
+<!--[if lte IE 7]><link href="/Portals/_default/Skins/Athena/IEFix.css" type="text/css" rel="stylesheet"/><![endif]-->
+<script type="text/javascript" src="/Portals/_default/Skins/Athena/js/jquery.pngFix.js"></script>
+<script type="text/javascript">jQuery('body').addClass('athenaBlue athenaDefault');</script>
+<div class="Skin_Area">
+	<div class="Skin_Holder">
+		<div class="Skin_Header">
+			<div class="Skin_Width">
+				<div class="Skin_Logo"><a id="dnn_dnnLOGO_hypLogo" title="Owasso Soccer Club" href="/default.aspx?portalid=4252"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/4252/Logo635297830104008492.png" alt="Owasso Soccer Club" style="border-width:0px;" /></a></div>
+				<div class="Skin_Banner"><h1 class="Skin_BannerText">Owasso Soccer Club
+</h1></div>
+					
+				<div class="CSS_ClearBoth"></div>
+			</div>
+		</div>
+		<div class="Skin_NAV">
+			<div class="Skin_Width">
+				<div id="dnn_RadMenu1_RadMenu1" class="RadMenu RadMenu_SkinNAV rmSized" style="width:100%;">
+	<!-- 2014.1.318.45 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink  rmSelected" href="/Default.aspx?tabid=295499"><span class="rmText">Home</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=561710"><span class="rmText">Club Info</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=381182"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=492484"><span class="rmText">Bylaws</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=437281"><span class="rmText">OSC Board Meeting Minutes</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=492482"><span class="rmText">Calendar</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=437284"><span class="rmText">Programs</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=561705"><span class="rmText">Recreational</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=443495"><span class="rmText">U5/U6</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=561706"><span class="rmText">U7/U8</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=561707"><span class="rmText">U9/U10</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=561708"><span class="rmText">Academy</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" target="_blank" href="http://www.northeastokfc.com/"><span class="rmText">NEOFC</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=554304"><span class="rmText">TOPSoccer</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=561733"><span class="rmText">FAQ</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=423_-nPjcQo%3d&amp;tabid=827545&amp;portalid=4252"><span class="rmText">Levels of Play Offered in Owasso</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=hZiQpJ_4hf0%3d&amp;tabid=837315&amp;portalid=4252"><span class="rmText">OSC Field Map</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=295501"><span class="rmText">Field Status</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=687264"><span class="rmText">Players / Parents</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=530819"><span class="rmText">Player Registration</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=817657"><span class="rmText">Parent Info and FAQ</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=ZD0uR1dEKbw%3d&amp;tabid=827531&amp;portalid=4252"><span class="rmText">OSC Complex Missing Child Procedure</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=837319"><span class="rmText">About Playing with OSC</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=549791"><span class="rmText">Coaches</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=ZRhY22MFOv0%3d&amp;tabid=821688&amp;portalid=4252"><span class="rmText">Spring 2015 Practice Field Schedule</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="https://www.gotsport.com/asp/application/reg/?ProgramID=33622&amp;Type=COACH"><span class="rmText">Coach Registration</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=583702"><span class="rmText">Coaching Education</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=752391"><span class="rmText">December 2014 Update</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=659757"><span class="rmText">Youth Modules 1 & 2</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=583704"><span class="rmText">Coaching Resources & Tools</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=CYGlA4grV9c%3d&amp;tabid=666112&amp;portalid=4252"><span class="rmText">Spring 2015 Coaches Meeting Slide Deck</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=AQQiTH30Z60%3d&amp;tabid=667911&amp;portalid=4252"><span class="rmText">New Coaches FAQ</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=pCG42_rwUek%3d&amp;tabid=661179&amp;portalid=4252"><span class="rmText">Coaches Code of Conduct</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=VQZYMm84C9c%3d&amp;tabid=659774&amp;portalid=4252"><span class="rmText">Coaching Resources</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=BiGt9ki2GH0%3d&amp;tabid=675325&amp;portalid=4252"><span class="rmText">Parent Meeting</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=659715"><span class="rmText">Helpful Uniform Options</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=659716"><span class="rmText">How to Complete a Background Check</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=659717"><span class="rmText">How to Print a Game Card</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=668292"><span class="rmText">How to Reschedule a Game</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=1ReUgiuuFWo%3d&amp;tabid=687307&amp;portalid=4252"><span class="rmText">Owasso Soccer Club Game Field Request Form 2014-2015</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=583705"><span class="rmText">Laws of the Game</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=680012"><span class="rmText">U6/U8 No Pressure Goal Kicks</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=693482"><span class="rmText">U7/U8 Game Length</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=687269"><span class="rmText">Practice Resources</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=687270"><span class="rmText"> U6</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=2WxCI1xddq8%3d&amp;tabid=687278&amp;portalid=4252"><span class="rmText">U6 Coordination Movement</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=687271"><span class="rmText"> U7</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" target="_blank" href="https://sports.bluesombrero.com/Portals/4252/docs/u7%208%20Week%20Coaching%20Curriculum.pdf"><span class="rmText">U7 8 Week Coaching Curriculum</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=687272"><span class="rmText"> U8</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=fQ9SBMAiKws%3d&amp;tabid=687286&amp;portalid=4252"><span class="rmText">U8 Recommended Games</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=QVQNIbpGNuc%3d&amp;tabid=687287&amp;portalid=4252"><span class="rmText">U8 Receiving</span></a></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=V-VJLEZR6IA%3d&amp;tabid=821482&amp;portalid=4252"><span class="rmText">D. O. C. Resume</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=ZD0uR1dEKbw%3d&amp;tabid=827532&amp;portalid=4252"><span class="rmText">OSC Complex Missing Child Procedure</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="http://www.cdc.gov/headsup/youthsports/training/"><span class="rmText">Heads Up Concussion Training</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=837042"><span class="rmText">Referees</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=837316"><span class="rmText">Rules/Laws of the Game</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=ytc06qsFpVk%3d&amp;tabid=837317&amp;portalid=4252"><span class="rmText">Soccer Terms / Glossary</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=837318"><span class="rmText">Ref Info and Docs</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Default.aspx?tabid=837330"><span class="rmText">Camps/Tournaments</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=829012"><span class="rmText">Camps</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="http://www.oscsoccer.com/Default.aspx?tabid=829017"><span class="rmText">Spring Break 2015 Camp Registration</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=0mVCEwZM4p0%3d&amp;tabid=837391&amp;portalid=4252"><span class="rmText">Spring Break Camp Flyer</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=840012"><span class="rmText">Spring Break 2015 Camp Promo Video</span></a></li>
+					</ul>
+				</div></li><li class="rmItem rmLast"><a class="rmLink" href="/Default.aspx?tabid=612308"><span class="rmText">Small-Sided Benefit Tournament</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/Default.aspx?tabid=612309"><span class="rmText">FAQ</span></a></li><li class="rmItem "><a class="rmLink" href="/Default.aspx?tabid=612313"><span class="rmText">Rules</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=pdaFtLxSpv4%3d&amp;tabid=844839&amp;portalid=4252"><span class="rmText">Tournament Docs</span></a></li>
+					</ul>
+				</div></li>
+			</ul>
+		</div></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Default.aspx?tabid=837309"><span class="rmText">Schedules / Practice Info</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://events.gotsport.com/events/Default.aspx?EventID=44739"><span class="rmText">U5 thru U12 Closed League</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="http://events.gotsport.com/events/Default.aspx?EventID=44388"><span class="rmText">U10-U19 Open Rec League</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="http://events.gotsport.com/events/Default.aspx?EventID=44391"><span class="rmText">U10 -U14 Rec Plus/Select League</span></a></li><li class="rmItem "><a class="rmLink" href="/LinkClick.aspx?fileticket=Yo2R5OmJHmU%3d&amp;tabid=837313&amp;portalid=4252"><span class="rmText">U5/U6 Practice Schedule with NEOFC</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/LinkClick.aspx?fileticket=ZRhY22MFOv0%3d&amp;tabid=821687&amp;portalid=4252"><span class="rmText">Spring 2015 Rec. Practice Field Schedule</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input id="dnn_RadMenu1_RadMenu1_ClientState" name="dnn_RadMenu1_RadMenu1_ClientState" type="hidden" />
+</div>
+<script>
+jQuery(document).ready(function(){
+	var menu = $find("dnn_RadMenu1_RadMenu1");
+if (!menu) return;
+	var Items = menu.get_items();
+	var totalWidth = 0;
+	for (var i = 0; i < Items.get_count(); i++)
+	{
+		totalWidth += Items.getItem(i).get_element().offsetWidth;
+	}
+	menu.get_element().style.width = totalWidth + "px";
+});
+</script>
+				<div class="CSS_ClearBoth"></div>
+			</div>
+		</div>
+		<div class="Skin_Content">
+			<div id="dnn_ContentPane" class="ContentPane"><div class="DnnModule DnnModule-BSBContent DnnModule-323322"><a name="323322"></a><div id="dnn_ctr323322_ContentPane"><!-- Start_Module_323322 --><div id="dnn_ctr323322_ModuleContent" class="DNNModuleContent ModBSBContentC">
+	
+<div class="Skin_Content clubHome_Content">
+	<!-- Admin Actions Links Start Here -->
+	
+	<!-- Admin Actions Links End Here -->
+	<!-- Sliding Content Start Here -->
+		
+			<div class="noHeader_container">
+				<div class="c_content">
+					<div class="slide_background">
+						<div class="Skin_Width slide_content">
+							
+
+
+	
+			<div class="bkosborne-carousel-container">
+			<div id="dnn_ctr323322_Home_ctl00_sWebThemeContentRotatordivContentRotator" class="bkosborne-carousel">
+		
+			<div class="carousel-feature">
+				<a href='http://www.oscsoccer.com/Default.aspx?tabid=829012' target='_blank' >
+					<img class="carousel-image" alt="Spring Break Soccer camp March 16 and 17th!" src="https://bsbproduction.s3.amazonaws.com/portals/4252/contentrotator/contentrotator635612316924723373.png" height="300" width="500">
+				</a>
+				<div class="carousel-caption">
+					<h2 class="Title">Spring Break Soccer camp March 16 and 17th!</h2>
+					<p>March 16-17- 1:00 pm – 4:00 pm<br/>Owasso Soccer Complex  (outdoor) <br/>Ages 5-13 (all skill levels)<br/>What to bring: <br/>Shin guards, soccer ball, water or sports drink<br/>Cost per player is $50</p>
+				</div>
+			</div>
+		
+			<div class="carousel-feature">
+				<a href='http://www.oscsoccer.com/Default.aspx?tabid=561733'  >
+					<img class="carousel-image" alt="FAQ's" src="https://bsbproduction.s3.amazonaws.com/portals/4252/contentrotator/contentrotator635573973300738118.png" height="300" width="500">
+				</a>
+				<div class="carousel-caption">
+					<h2 class="Title">FAQ's</h2>
+					<p></p>
+				</div>
+			</div>
+		
+			<div class="carousel-feature">
+				<a href='http://www.oscsoccer.com/Default.aspx?tabid=554304'  >
+					<img class="carousel-image" alt="OSC is Proud to Support TOPSoccer" src="https://bsbproduction.s3.amazonaws.com/portals/4252/contentrotator/contentrotator635299695661074640.png" height="300" width="500">
+				</a>
+				<div class="carousel-caption">
+					<h2 class="Title">OSC is Proud to Support TOPSoccer</h2>
+					<p></p>
+				</div>
+			</div>
+		
+			<div class="carousel-feature">
+				<a href='http://www.healthykidshub.org/'  >
+					<img class="carousel-image" alt="US Youth Soccer Launches First-of-its-Kind Nationwide Child Obesity Prevention Training for Coaches" src="https://bsbproduction.s3.amazonaws.com/portals/4252/contentrotator/contentrotator635465931837749032.png" height="300" width="500">
+				</a>
+				<div class="carousel-caption">
+					<h2 class="Title">US Youth Soccer Launches First-of-its-Kind Nationwide Child Obesity Prevention Training for Coaches</h2>
+					<p>“Coaching Healthy Habits�? equips coaches to teach healthy habits in addition to soccer skills.</p>
+				</div>
+			</div>
+		
+			</div>
+			<a id="dnn_ctr323322_Home_ctl00_sWebThemeContentRotatorcarousel-left" href="javascript:void(0)" class="bkosborne-carousel-left"><img height="55px" width="59px" src="/images/spacer.gif" alt=""/></a>
+			<a id="dnn_ctr323322_Home_ctl00_sWebThemeContentRotatorcarousel-right" href="javascript:void(0)" class="bkosborne-carousel-right"><img height="55px" width="59px" src="/images/spacer.gif" alt=""/></a>
+			</div>
+			<script type="text/javascript">
+				jQuery(window).load(function () {
+					jQuery("#dnn_ctr323322_Home_ctl00_sWebThemeContentRotatordivContentRotator").featureCarousel({
+						pauseOnHover:true, smallFeatureHeight:.75, smallFeatureWidth: .75, trackerSummation:false,
+						leftButtonTag : "#dnn_ctr323322_Home_ctl00_sWebThemeContentRotatorcarousel-left",
+						rightButtonTag : "#dnn_ctr323322_Home_ctl00_sWebThemeContentRotatorcarousel-right"
+					});
+				});
+			</script>
+		
+ 
+						</div>
+					</div>
+				</div>
+			</div>
+		
+	<!-- Sliding Content End Here -->
+	<div class="Skin_Width">
+		<!-- Latest News Section Start Here -->
+			
+				<div class="LeftPane">
+					<div class="default_container">
+						<div class="head_title newsHolder">
+							<div class="c_icon"><h2 class="c_title">Latest News</h2></div>
+							
+								<!-- News Read More Link Start Here -->
+								<div class="newsReadMoreLink">
+									<a class="newsReadMore" href="/Default.aspx?tabid=295499&mid=323322&newskeyid=HN1&ctl=viewallnews">Read More...</a>
+								</div>
+								<!-- News Read More Link End Here -->
+							
+							<div class="CSS_ClearBoth"></div>
+						</div>
+						<div class="c_content clubHome_content">
+						
+		<!-- News Template Start Here -->
+		<div id="dnn_ctr323322_Home_ctl00_sWebThemeHeadLinesNews" class="newsHolder">
+	
+			<!-- News Item Template Start Here -->
+			<div class="newsItem">
+				<span class="newsDate">Apr 04,2015</span>
+				<h3 class="newsHeader"><a class="newsLink" href="/Default.aspx?tabid=295499&mid=323322&newskeyid=HN1&newsid=59783&ctl=newsdetail">Book your Team Photo Shoot now!</a></h3>
+				<p class="newsSummary">Reminder to coaches and parents to book your time for team photos for April 4th!  Don't delay and miss your team photo shoot! 
+ 
+Contact: Brandi Simons 
+918-361-8470 
+ 
+Simons
+Photography | Facebook
+brandisimons.com
+ 
+...</p>
+			</div>
+			<!-- News Item Template End Here -->
+	
+			<!-- News Item Template Start Here -->
+			<div class="newsItem">
+				<span class="newsDate">Mar 03,2014</span>
+				<h3 class="newsHeader"><a class="newsLink" href="/Default.aspx?tabid=295499&mid=323322&newskeyid=HN1&newsid=9532&ctl=newsdetail">Adopt a Tree</a></h3>
+				<p class="newsSummary">Help Owasso Soccer Club continue to grow!
+OSC continues to improve our complex and provide the best facilities to
+maximize your soccer experience. We need your your help!!! These
+funds will help us to plant more trees, pave ...</p>
+			</div>
+			<!-- News Item Template End Here -->
+	
+			<!-- News Item Template Start Here -->
+			<div class="newsItem">
+				<span class="newsDate">Nov 14,2013</span>
+				<h3 class="newsHeader"><a class="newsLink" href="/Default.aspx?tabid=295499&mid=323322&newskeyid=HN1&newsid=10284&ctl=newsdetail">Teams Donate 2213 lbs of food to Owasso Community Resources</a></h3>
+				<p class="newsSummary">Congratulations to the winners of our "Donate Your Weight!" Team Food Drive Challenge.  AMAZING JOB, KIDS!!! 
+1st Place:  NEOFC Blue 05 Girls, 132% team weight donated 
+2nd Place: U7 Coyotes, 114% team weight donated</p>
+			</div>
+			<!-- News Item Template End Here -->
+	
+		</div>
+	
+						</div>
+					</div>
+				</div>
+			
+		<!-- Latest News Section End Here -->
+		<!-- Field Status Section Start Here -->
+			
+				<div class="MiddlePane">
+					<div class="default_container">
+						<div class="head_title">
+							<div class="c_icon"><h2 class="c_title">Field Status</h2></div>
+							<div class="CSS_ClearBoth"></div>
+						</div>
+						<div class="c_content clubHome_content">
+							
+<!-- Field Status Template Start Here -->
+<div id="dnn_ctr323322_Home_ctl00_sWebThemeFieldStatus_FiledStatus" class="fieldStatusHolder">
+
+		<!-- Field Status Item Template Start Here -->
+		<div class="fieldStatusItem">
+			<span class="fieldStatusImage">
+				<img src="/DesktopModules/BSB/BSB.Content/HomeLayouts/Athena/Images/img_Open.gif" alt="Open"/>
+				
+				
+			</span>
+			<span class="fieldStatusOpen">Open</span>
+			
+			
+			<p class="fieldStatusSummary">OSC Soccer Complex&nbsp;(09:30 AM | 03/23/15)</p>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+		<!-- Field Status Item Template End Here -->
+
+		<!-- Field Status Item Template Start Here -->
+		<div class="fieldStatusItem">
+			<span class="fieldStatusImage">
+				<img src="/DesktopModules/BSB/BSB.Content/HomeLayouts/Athena/Images/img_Open.gif" alt="Open"/>
+				
+				
+			</span>
+			<span class="fieldStatusOpen">Open</span>
+			
+			
+			<p class="fieldStatusSummary">Game Fields&nbsp;(09:30 AM | 03/23/15)</p>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+		<!-- Field Status Item Template End Here -->
+
+		<!-- Field Status Item Template Start Here -->
+		<div class="fieldStatusItem">
+			<span class="fieldStatusImage">
+				<img src="/DesktopModules/BSB/BSB.Content/HomeLayouts/Athena/Images/img_Open.gif" alt="Open"/>
+				
+				
+			</span>
+			<span class="fieldStatusOpen">Open</span>
+			
+			
+			<p class="fieldStatusSummary">West Practice Fields&nbsp;(09:30 AM | 03/23/15)</p>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+		<!-- Field Status Item Template End Here -->
+
+</div>
+<!-- Field Status Template End Here -->
+
+
+						</div>
+					</div>
+				</div>
+			
+		<!-- Field Status Section End Here -->
+		<!-- Social Network Section Start Here -->
+			
+				<div class="RightPane">
+					<div class="socialNetworkHolder">
+						<ul class="socialNetworkNav">
+							
+								<li class="socialNetworkTab">
+									<a class="socialNetworkTabLink" href="#Facebook">Facebook</a>
+								</li>
+							
+								<li class="socialNetworkTab">
+									<a class="socialNetworkTabLink" href="#Twitter">Twitter</a>
+								</li>
+							
+							<li class="CSS_ClearBoth"></li>
+						</ul>
+						
+							<div id="Facebook" class="socialNetworkContent socialNetworkFacebook clubHome_content">
+								
+
+<!-- Facebook Wall -->
+<div id="FacebookData" ></div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+		var fbid = 'OSCsoccer';
+		if (fbid != "") {
+			jQuery("#FacebookData").fbWall({
+				id: fbid,
+				accessToken: '206158599425293|7809823973348bcf8cd72f6d.1-100000221135225|BW9n2eoyL7EYvJs7GEmv61NbBFk',
+				portalId: 4252,
+				max: 5
+			});
+		}
+		else {
+			jQuery("#FacebookData").hide();
+		}
+	});
+</script>
+							</div>
+						
+							<div id="Twitter" class="socialNetworkContent socialNetworkTwitter clubHome_content">
+								
+
+<!-- Tweet -->
+<div id="TwitterData">
+	<div class="tweet query TeamPage_PT_twitter"></div>
+</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+		var twitterid = 'owasso_soccer';
+		if (twitterid != "") {
+			jQuery(".tweet").tweet({
+				username: twitterid,
+				count: 5,
+				loading_text: "loading tweets...",
+				portalId: 4252
+			});
+		}
+		else {
+			jQuery("#TwitterData").hide();
+		}
+	});
+</script>
+
+<style type="text/css">
+	#TwitterData .tweet_avatar { display: none; }
+</style>
+							</div>
+						
+					</div>
+				</div>
+			
+		<!-- Social Network Section End Here -->
+		<div class="CSS_ClearBoth"></div>
+	</div>
+	<!-- Sponsor Section Start Here -->
+		<div class="SponsorsPane">
+			<div class="Skin_Width">
+				
+		<div class="sponsorsHolder">
+			<a id="prevButton" class="sponsorsprevButton" href="#">&lt;</a>
+			<a id="nextButton" class="sponsorsnextButton" href="#">&gt;</a>
+			<ul id="sponsorsList" class="sponsorsList">
+	
+				<li class="sponsorsItem">
+					<a href="http://www.dickssportinggoods.com/home/index.jsp" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635188112411903827.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.robertson-tire.com/" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635188113116404343.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.moderndaydental.com" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635258242087842760.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.andopizza.com/" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635101330075344059.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.bsnsports.com/" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635065822219674233.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.northeastokfc.com/" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635188111376837192.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.akirasushibars.com/" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635065894690417485.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://issowasso.com/" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635306116157208100.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+				<li class="sponsorsItem">
+					<a href="http://www.empirefence.net" target='_blank'>
+						<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homesponsors/homesponsors635436129033213652.png" style="border:0px;" alt="" width='125' height='80' />
+					</a>
+				</li>
+	
+			</ul>
+			<div class="CSS_ClearBoth"></div>
+		</div>
+		<script type="text/javascript" src="/DesktopModules/BSB/BSB.Controls/Resources/jquery.carouFredSel-5.3.0-packed.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready( function() {
+				if(jQuery.browser.webkit){
+					jQuery(window).load(function() {
+						jQuery("#sponsorsList").carouFredSel({ prev: "#prevButton", next: "#nextButton", auto: false, circular: false });
+					});
+				}else{
+					jQuery("#sponsorsList").carouFredSel({ prev: "#prevButton", next: "#nextButton", auto: false, circular: false });
+				}
+			});
+		</script>
+	
+
+				<div class="CSS_ClearBoth"></div>
+			</div>
+		</div>
+	<!-- Sponsor Section End Here -->
+	<div class="Skin_Footer">
+		<div class="Skin_Width">
+			<!-- Site Links Section Start Here -->
+				
+					<div class="Footer_LeftPane">
+						<div class="default_container">
+							<div class="head_title">
+								<div class="c_icon"><h2 class="c_title">Site Links</h2></div>
+								<div class="CSS_ClearBoth"></div>
+							</div>
+							<div class="c_content">
+								
+			<div id="dnn_ctr323322_Home_ctl00_sWebThemeLinkLinks" class="CSS_FloatLeft">
+				<ul class="noListStyle">
+		
+					<li><a href="http://www.fox23.com/news/news/local/wintry-weather-delays-start-soccer-season/nkNg4/" target='_blank' >OSC Featured on Fox 23 News</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/spring2015/osc_west_practice_fields_spring_2015.v11.pdf" target='_blank' >Spring 2015 Practice Field Assignments</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/spring2015/u5-u6 practice schedule spring 2015.pdf" target='_blank' >Spring 2015 - U5/U6 Practice Assignments</a></li>
+		
+					<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=44388" target='_blank' >Spring 2015 Open League Schedules Posted</a></li>
+		
+					<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=44391" target='_blank' >Spring 2015 Rec Select League Schedules Posted</a></li>
+		
+					<li><a href="http://events.gotsport.com/events/Default.aspx?EventID=44739" target='_blank' >Spring 2015 Closed League Schedule Posted</a></li>
+		
+					<li><a href="/Default.aspx?tabid=752391"  >December Coaching Education Update</a></li>
+		
+					<li><a href="/Default.aspx?tabid=530819"  >Spring 2015 Player Registration NEWS Update!</a></li>
+		
+					<li><a href="http://www.oksoccer.com/assets/pdfs/2014-2015_Age_Chart_Updated.pdf" target='_blank' >2014-2015 Age Group Chart</a></li>
+		
+					<li><a href="https://www.gotsport.com/asp/application/reg/?ProgramID=33622&Type=COACH"  >Spring 2015 Coaches Registration Now Open!</a></li>
+		
+				</ul>
+			</div>
+		
+			<div id="dnn_ctr323322_Home_ctl00_sWebThemeLinkLinks" class="CSS_FloatLeft">
+				<ul class="noListStyle">
+		
+					<li><a href="/Default.aspx?tabid=693482"  >U7/U8 Game Length</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/owasso_soccer_game_field_requests_2014-2015.pdf"  >2014 - 2015 Game Field Scrimmage Request Form</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/osc fields map rev 08-30-13.pdf" target='_blank' >OSC Game Field Map</a></li>
+		
+					<li><a href="/Default.aspx?tabid=583705" target='_blank' >Rules of The Game</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/lightning detector (2)(1).doc" target='_blank' >Lightning Detector</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/osc parents code of conduct.pdf"  >Parents Code of Conduct</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/coachscodeofconduct.doc" target='_blank' >Coaches Code of Conduct</a></li>
+		
+					<li><a href="https://bsbproduction.s3.amazonaws.com/portals/4252/docs/osc bad weather conditions procedures.docx" target='_blank' >Bad Weather Conditions Procedure</a></li>
+		
+					<li><a href="http://www.northeastokfc.com/" target='_blank' >NEOFC</a></li>
+		
+					<li><a href="/Default.aspx?tabid=420798"  >Secondary Insurance Information</a></li>
+		
+				</ul>
+			</div>
+		
+<div class="CSS_ClearBoth"></div>
+
+							</div>
+						</div>
+					</div>
+				
+			<!-- Site Links Section End Here -->
+			<!-- Site Contact Detail Section Start Here -->
+				<div class="Footer_MiddlePane">
+					<div class="default_container">
+						<div class="head_title">
+							<div class="c_icon"><h2 class="c_title">Contact Us</h2></div>
+							<div class="CSS_ClearBoth"></div>
+						</div>
+						<div class="c_content">
+							
+	<h3>Owasso Soccer Club</h3>
+
+
+	Complex/Field location: <br />10320 E. 116th Street N, Owasso, OK, 74055<br /><br />Or write to us: <br />Owasso Soccer Club, P.O. Box 636, Owasso, OK 74055<br/>
+
+
+	Phone : <a href="tel:918-272-5565">918-272-5565</a><br />
+
+
+Email: <a href="mailto:contactosc@oscsoccer.com">contactosc@oscsoccer.com</a>
+
+
+							
+								<br/>&nbsp;
+								<h5>Follow us!</h5>
+								
+								<a href="//www.facebook.com/OSCsoccer" target="_blank" class="socialMediaLinks">
+									<img src="/DesktopModules/BSB/BSB.Content/HomeLayouts/Athena/Images/img_facebook.gif" alt="Facebook"/>
+								</a>
+								
+								<a href="//www.twitter.com/owasso_soccer" target="_blank" class="socialMediaLinks">
+									<img src="/DesktopModules/BSB/BSB.Content/HomeLayouts/Athena/Images/img_twitter.gif" alt="Twitter"/>
+								</a>
+								
+							<div class="CSS_ClearBoth"></div>
+						</div>
+					</div>
+				</div>
+			<!-- Site Contact Detail Section End Here -->
+			<!-- Banner Section Start Here -->
+				
+					<div class="Footer_RightPane">
+						<div class="noHeader_container">
+							<div class="c_content">
+								
+	<div class="bannerHolder">
+		<a href="http://smile.amazon.com/ch/03-0590343">
+			<img src="https://bsbproduction.s3.amazonaws.com/portals/4252/homebanner/homebanner635571195367738256.png" style="border:0px;" alt="" width='300' height='250' />
+		</a>
+	</div>
+
+
+							</div>
+						</div>
+					</div>
+				
+			<!-- Banner Section End Here -->
+			<div class="CSS_ClearBoth"></div>
+		</div>
+	</div>
+</div>
+
+</div><!-- End_Module_323322 --></div></div></div>
+		</div>
+		<div class="Skin_FooterInfo">
+			<div class="Skin_Width">
+				<div class="CSS_FloatLeft">
+					<a id="dnn_dnnTERMS_hypTerms" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=295499&amp;ctl=Terms">Terms of Use</a>&nbsp;|&nbsp;
+					<a id="dnn_dnnPRIVACY_hypPrivacy" class="SkinObject" rel="nofollow" href="/Default.aspx?tabid=295499&amp;ctl=Privacy">Privacy Statement</a>&nbsp;|&nbsp;
+					<span id="dnn_dnnCOPYRIGHT_lblCopyright" class="SkinObject">Copyright (c) 2015 Owasso Soccer Club</span>
+
+					<a id="dnn_dnnLOGINAdmin_cmdLogin" class="hiddenlogin" href="/Default.aspx?tabid=295509">Log In</a>
+				</div>
+				<div class="CSS_FloatRight">
+					<a href="http://www.bluesombrero.com"><img src="/Portals/_default/Skins/Athena/images/img_PoweredByLogo.png" alt="Powered By Blue Sombrero"/></a>
+				</div><div class="CSS_ClearBoth"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	jQuery(window).load(function() { 
+		if(jQuery.browser.msie && jQuery.browser.version >= 6){ jQuery(document).pngFix(); } 
+	});
+</script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`295499`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('StylesheetManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2014.1.318.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:0746398c-8ed4-4bb4-ac7c-2ae23e943aae:ed2942d4';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"SkinNAV","clientStateFieldID":"dnn_RadMenu1_RadMenu1_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=295499","cssClass":" rmSelected"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=381182"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=492484"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=437281"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=492482"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=443495"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=561706"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=561707"}],"navigateUrl":"/Default.aspx?tabid=561705"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://www.northeastokfc.com/","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=561708"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=554304"}],"navigateUrl":"/Default.aspx?tabid=437284"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=561733"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=423_-nPjcQo%3d\u0026tabid=827545\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=hZiQpJ_4hf0%3d\u0026tabid=837315\u0026portalid=4252","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=561710"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=295501"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=530819"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=817657"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=ZD0uR1dEKbw%3d\u0026tabid=827531\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=837319"}],"navigateUrl":"/Default.aspx?tabid=687264"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=ZRhY22MFOv0%3d\u0026tabid=821688\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"https://www.gotsport.com/asp/application/reg/?ProgramID=33622\u0026Type=COACH","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=752391"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=659757"}],"navigateUrl":"/Default.aspx?tabid=583702"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=CYGlA4grV9c%3d\u0026tabid=666112\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=AQQiTH30Z60%3d\u0026tabid=667911\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=pCG42_rwUek%3d\u0026tabid=661179\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=VQZYMm84C9c%3d\u0026tabid=659774\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=BiGt9ki2GH0%3d\u0026tabid=675325\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=659715"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=659716"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=659717"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=668292"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=1ReUgiuuFWo%3d\u0026tabid=687307\u0026portalid=4252","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=583704"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=680012"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=693482"}],"navigateUrl":"/Default.aspx?tabid=583705"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=2WxCI1xddq8%3d\u0026tabid=687278\u0026portalid=4252","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=687270"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"https://sports.bluesombrero.com/Portals/4252/docs/u7%208%20Week%20Coaching%20Curriculum.pdf","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=687271"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=fQ9SBMAiKws%3d\u0026tabid=687286\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=QVQNIbpGNuc%3d\u0026tabid=687287\u0026portalid=4252","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=687272"}],"navigateUrl":"/Default.aspx?tabid=687269"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=V-VJLEZR6IA%3d\u0026tabid=821482\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=ZD0uR1dEKbw%3d\u0026tabid=827532\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://www.cdc.gov/headsup/youthsports/training/","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=549791"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=837316"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=ytc06qsFpVk%3d\u0026tabid=837317\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=837318"}],"navigateUrl":"/Default.aspx?tabid=837042"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://www.oscsoccer.com/Default.aspx?tabid=829017"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=0mVCEwZM4p0%3d\u0026tabid=837391\u0026portalid=4252","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=840012"}],"navigateUrl":"/Default.aspx?tabid=829012"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=612309"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/Default.aspx?tabid=612313"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=pdaFtLxSpv4%3d\u0026tabid=844839\u0026portalid=4252","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=612308"}],"navigateUrl":"/Default.aspx?tabid=837330"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"items":[{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://events.gotsport.com/events/Default.aspx?EventID=44739","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://events.gotsport.com/events/Default.aspx?EventID=44388","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"http://events.gotsport.com/events/Default.aspx?EventID=44391","target":"_blank"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=Yo2R5OmJHmU%3d\u0026tabid=837313\u0026portalid=4252"},{"groupSettings":{"flow":0,"expandDirection":0,"offsetX":0,"offsetY":0},"navigateUrl":"/LinkClick.aspx?fileticket=ZRhY22MFOv0%3d\u0026tabid=821687\u0026portalid=4252","target":"_blank"}],"navigateUrl":"/Default.aspx?tabid=837309"}]}, null, null, $get("dnn_RadMenu1_RadMenu1"));
+});
+//]]>
+</script>
+</form>
+    
+    
+</body>
+</html>

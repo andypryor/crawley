@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Logan County Soccer Club - Powered by LeagueToolbox</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+
+	<script type="text/javascript">
+		var webroot = '';
+		var server = {
+			webroot: webroot
+		};
+		var nodejs_url = 'http://ec2-107-21-220-117.compute-1.amazonaws.com:8082';
+		var users_id = '0';
+	</script>
+
+	<link href="/templates/common/butchered-bootstrap.css" rel="stylesheet" />
+	<link href="/templates/classic/bootstrap-select/bootstrap-select.css" rel="stylesheet" />
+	<link href="/templates/common/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/templates/classic/css/theme.css" rel="stylesheet">
+	<link href="/templates/classic/css/print.css" rel="stylesheet" media="print">
+
+    <script src="/js/jquery-1.10.2.min.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/common/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/common/bower_components/respond/src/respond.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/classic/tablesorter/jquery.tablesorter.min.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/classic/bootstrap-select/bootstrap-select.min.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/js/jquery.cycle.lite.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/mvc_templates/SponsorBannerManager/scripts.js"></script>
+
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/common/js/scripts.js"></script>
+	<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/classic/js/scripts.js"></script>
+
+		
+	<style type="text/css">
+
+		body {
+			background-color: #444444;
+		}
+		
+		#horizontal_menu .navbar-inner {
+			background-color: #3F00FF;
+			background-image: linear-gradient(to bottom, #3F00FF, #3F00FF);
+			background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3F00FF), to(#3F00FF));
+
+		}
+	</style>
+
+<!-- to fix quirks in crummy ol ie 6-8 -->
+<!--[if lt IE 9]>
+<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/common/bower_components/respond/src/respond.js"></script>
+<script src="/js_cache/129bbf1a4e03ea03582be1f644ad5c80604574bd
+/templates/common/bower_components/html5shiv/dist/html5shiv.js"></script>
+<![endif]-->
+
+</head>
+<body>
+
+<div class="ltb-nav print-hidden">
+	<div class="container" id="main_container">
+
+		<div class="pull-left">
+			<a class="btn btn-sm btn-inverse" href="http://www.leaguetoolbox.com" target="_top">
+				<img src="/templates/classic/images/powered_by.png" style="height: 15px;">
+			</a>
+					</div>
+
+		<div class="pull-right" style="padding-right: 10px;">
+
+			
+			
+												<a class="btn btn-sm btn-success" href="https://login.leaguetoolbox.com/site/Login?return=https%3A%2F%2Fprofile.leaguetoolbox.com%2Fsite%2FClientProfile%2F">
+						&nbsp;&nbsp;<i class="fa fa-user"></i> &nbsp;Log In&nbsp;&nbsp;&nbsp;
+					</a>
+									</div>
+	</div>
+</div>
+
+<div class="top-spacing">
+			<div class="container" style="background-color: #111111; text-align: center;">
+			<img id="header-image" style="max-width: 970px !important; left: -15px; position: relative;" src="//dwxywuoa786l.cloudfront.net/files/b/0/b/b0b0e4418625b619c040124bf88d13f8_league_logo_1277-2048.jpg">
+		</div>
+	
+	<!--nav bar start-->
+	<nav class="container navbar navbar-red"
+		 style="background-color: #3F00FF;"
+		 role="navigation"
+		 id="horizontal_menu">
+		<div class="container">
+			<div class="nav-collapse">
+									<ul class="nav navbar-nav">
+													<li id="navbar_main_home">
+								<a href="/">League Home</a>
+							</li>
+						
+													<li id="navbar_main_divisions">
+								<a href="/site/ClientSite/divisions">Divisions & Teams</a>
+							</li>
+						
+																			<li id="navbar_main_standings">
+								<a href="/site/ClientSite/standings">Standings</a>
+							</li>
+																			<li id="navbar_main_schedules">
+								<a href="/site/ClientSite/schedule">Schedule</a>
+							</li>
+																			<li id="navbar_main_results">
+								<a href="/site/ClientSite/results">Results</a>
+							</li>
+																			<li id="navbar_main_stats">
+								<a href="/site/ClientSite/season_statistics">Stats</a>
+							</li>
+																			<li id="navbar_main_news">
+								<a href="/site/ClientSite/news">News</a>
+							</li>
+																			<li id="navbar_main_photo_albums">
+								<a href="/site/ClientSite/photo_albums">Photo Albums</a>
+							</li>
+						
+						
+																	</ul>
+							</div><!-- end nav-collapse -->
+		</div><!-- end container-->
+	</nav><!--end nav bar-->
+
+	
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#navbar_main_home').addClass('active');
+
+		// Start the rotation of the carousel of featured articles
+		$('.carousel').carousel({
+			interval: 5000
+		});
+
+		// Start the large banner ad rotation
+		$('#large_banner_ad_container').startAdRotation({
+			size: 'LARGE',
+			height: '75px',
+			width: '607px'
+		});
+
+		// Start the ad rotation for small banners
+		$('#small_banner_ad_container').startAdRotation({
+			size: 'SMALL',
+			height: '60px',
+			width: '100%'
+		});
+
+		$('.carousel-image').on('click', function() {
+			var url = $(this).data('target-url');
+			if(url) {
+				window.location.href = url;
+			}
+		});
+	});
+</script>
+
+<section id="main">
+<div class=" container">
+<div class="row">
+
+<div class="col-xs-4" style="padding-right: 0px;">
+	<!-- Start User Menu -->
+			<div class="panel panel-default">
+			<div class='panel-heading panel-inverse'>
+				<h3 class="panel-title">Menu<i class="fa fa-sitemap pull-right"></i></h3>
+			</div>
+			<div class="panel-body widget_background">
+				
+
+
+
+
+<ul class="nav nav-tabs nav-stacked" style="border-bottom: none;">
+				
+				
+								<li>
+				<a  href="/site/ClientSite/article/55387" class="text-error" style="padding: 7px 15px;">Board of Directors</a>
+			</li>
+					
+								<li class="dropdown">
+				<a data-toggle="dropdown" class="dropdown-toggle" href="#" style="padding: 7px 15px;">Board Minutes <b class="caret"></b></a>
+				<ul class="dropdown-menu">
+												
+				
+								<li>
+				<a  href="/site/ClientSite/article/56556" class="text-error">2012</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/56557" class="text-error">2013</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/56555" class="text-error">2011</a>
+			</li>
+			
+				</ul>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54765" class="text-error" style="padding: 7px 15px;">Calendar</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54909" class="text-error" style="padding: 7px 15px;">Member/Coach Guide</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54744" class="text-error" style="padding: 7px 15px;">Registration Information</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/55160" class="text-error" style="padding: 7px 15px;">Age Divisions</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54897" class="text-error" style="padding: 7px 15px;">Uniforms</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54948" class="text-error" style="padding: 7px 15px;">Rules</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54903" class="text-error" style="padding: 7px 15px;">Bylaws</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54760" class="text-error" style="padding: 7px 15px;">Policies</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54899" class="text-error" style="padding: 7px 15px;">Field Usage</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54745" class="text-error" style="padding: 7px 15px;">Forms</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54902" class="text-error" style="padding: 7px 15px;">FAQ</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/54952" class="text-error" style="padding: 7px 15px;">LCSC Field Map</a>
+			</li>
+					
+								<li>
+				<a  href="/site/ClientSite/article/59297" class="text-error" style="padding: 7px 15px;">Club Photographer</a>
+			</li>
+			
+
+				<li>
+			<a href="/site/ClientSite/contact" style="padding: 7px 15px;">Contact Us</a>
+		</li>
+	</ul>
+
+			</div>
+		</div>
+		<!-- end User Menu -->
+
+	<!-- Start Coach Registration Button -->
+		<!-- end Coach Registration Button -->
+
+	<!-- Start Officals Registration Button -->
+		<!-- end Offcials Registration Button -->
+
+	<!-- Start Program Registration Button -->
+			<!-- end Program Registration Button -->
+
+	<!-- start social network buttons -->
+	<div class="text-center">
+					<a href="http://www.facebook.com/pages/Logan-County-Soccer-Club/267994226609203" target="_blank"><img
+						src="/templates/classic/images/facebook.png" border="0"/></a>
+					</div>
+	<!-- end social network buttons -->
+
+	<!-- This div is used to place the small banner ads -->
+	<div>
+		<div id="small_banner_ad_container"></div>
+	</div>
+
+			<!-- Start League Events -->
+		<div class="panel panel-default">
+			<div class='panel-heading panel-inverse'>
+				<h3 class='panel-title'>Upcoming Events<i class="fa fa-calendar pull-right"></i></h3>
+			</div>
+			<div class='panel-body widget_background'>
+									<div style="padding-top: 10px;">
+						<div class="text-center pull-left">
+							<span class="widget-month">APR</span>
+							<br/>
+							<span class="widget-day">18</span>
+						</div>
+						<div class="widget-info" style="margin-left: 48px; padding-top: 3px;">
+							<b>89ers Weekend/No Games</b><br/>
+															All Day
+																					<br/>
+							<span class="widget-location">Logan County Soccer Club - Logan County Soccer Club</span>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+									<div style="padding-top: 10px;">
+						<div class="text-center pull-left">
+							<span class="widget-month">APR</span>
+							<br/>
+							<span class="widget-day">20</span>
+						</div>
+						<div class="widget-info" style="margin-left: 48px; padding-top: 3px;">
+							<b>LCSC Board Meeting</b><br/>
+															7:00 PM
+																					<br/>
+							<span class="widget-location">Guthrie Mercy Hospital</span>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+									<div style="padding-top: 10px;">
+						<div class="text-center pull-left">
+							<span class="widget-month">MAY</span>
+							<br/>
+							<span class="widget-day">2</span>
+						</div>
+						<div class="widget-info" style="margin-left: 48px; padding-top: 3px;">
+							<b>Spring 2015 Soccer Season Ends</b><br/>
+															All Day
+																					<br/>
+							<span class="widget-location">Logan County Soccer Club - Logan County Soccer Club</span>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				
+				
+				<br/>
+			</div>
+			<div class='panel-footer'>
+				<div class="text-right">
+					<a href="/site/ClientSite/schedule">
+						<small><i class="fa fa-plus-square"></i> View All Events</small>
+					</a>
+				</div>
+
+			</div>
+		</div>
+		<!-- end League Events -->
+
+					<div class="panel panel-default">
+				<div class='panel-heading panel-inverse'>
+					<h3 class='panel-title'><i class="fa fa-trophy pull-right"></i>Standings</h3>
+				</div>
+				<div class='panel-body widget_background'>
+					<div class="standings_widget">
+						
+
+<div class="league_standings_widget_division ">
+<h6>U8A</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu8diamondbacks.locosoccer.org"><small>LCSC U8 Diamondbacks</small></a></td>
+		<td>1</td>
+		<td>0</td>
+		<td>0</td>
+				<td>3</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu8redbulls.locosoccer.org"><small>LCSC U8 Red Bulls</small></a></td>
+		<td>1</td>
+		<td>0</td>
+		<td>0</td>
+				<td>3</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscthunder.locosoccer.org"><small>LCSC U8 Thunder</small></a></td>
+		<td>0</td>
+		<td>1</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu8strikers.locosoccer.org"><small>LCSC U8 Strikers</small></a></td>
+		<td>0</td>
+		<td>1</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+	</table>
+</div>
+
+
+<div class="league_standings_widget_division hide">
+<h6>U8B</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu7fireballs.locosoccer.org"><small>LCSC U7 Fireballs</small></a></td>
+		<td>1</td>
+		<td>0</td>
+		<td>0</td>
+				<td>3</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu7biglightning.locosoccer.org"><small>LCSC U7 Big Lightning</small></a></td>
+		<td>1</td>
+		<td>0</td>
+		<td>0</td>
+				<td>3</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu8dynamites.locosoccer.org"><small>LCSC U8 Dynamites</small></a></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu7angrybirds.locosoccer.org"><small>LCSC U7 Angry Birds</small></a></td>
+		<td>0</td>
+		<td>1</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu7redbulls.locosoccer.org"><small>LCSC U7 Red Bulls</small></a></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu7thestrikers.locosoccer.org"><small>LCSC U7 The Strikers</small></a></td>
+		<td>0</td>
+		<td>1</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+	</table>
+</div>
+
+
+<div class="league_standings_widget_division hide">
+<h6>U10</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu10wizards.locosoccer.org"><small>LCSC U10 Wizards</small></a></td>
+		<td>4</td>
+		<td>0</td>
+		<td>0</td>
+				<td>12</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu10allstars.locosoccer.org"><small>LCSC U10 All Stars</small></a></td>
+		<td>1</td>
+		<td>2</td>
+		<td>0</td>
+				<td>3</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu10guthrieavengers.locosoccer.org"><small>LCSC U10 Guthrie Avengers</small></a></td>
+		<td>0</td>
+		<td>3</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+	</table>
+</div>
+
+
+<div class="league_standings_widget_division hide">
+<h6>U10 Boys</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu10bexplorers.locosoccer.org"><small>LCSC U10B Explorers</small></a></td>
+		<td>2</td>
+		<td>0</td>
+		<td>0</td>
+				<td>6</td>
+			</tr>
+	</table>
+</div>
+
+
+<div class="league_standings_widget_division hide">
+<h6>U12 Boys</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu12brush.locosoccer.org"><small>LCSC U12B Rush</small></a></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+	</table>
+</div>
+
+
+<div class="league_standings_widget_division hide">
+<h6>U14 Boys</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu14bvenom.locosoccer.org"><small>LCSC U14B Venom</small></a></td>
+		<td>1</td>
+		<td>0</td>
+		<td>0</td>
+				<td>3</td>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu14bbigsharks.locosoccer.org"><small>LCSC U14B Big Sharks</small></a></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+	</table>
+</div>
+
+
+<div class="league_standings_widget_division hide">
+<h6>U14 Girls</h6>
+<table class="table table-condensed table-striped standings-widget">
+	<tr>
+		<th class="left">Team</th>
+		<th>W</th>
+		<th>L</th>
+		<th>T</th>
+				<th>PTS</th>
+			</tr>
+		<tr>
+		<td class="left"><a href="http://lcscu14gsidekicks.locosoccer.org"><small>LCSC U14G Sidekicks</small></a></td>
+		<td>0</td>
+		<td>1</td>
+		<td>0</td>
+				<td>0</td>
+			</tr>
+	</table>
+</div>
+
+
+					</div>
+				</div>
+				<div class='panel-footer'>
+					<div class="text-right">
+						<a href="/site/ClientSite/standings">
+							<small><i class="fa fa-plus-square"></i> View All Standings</small>
+						</a>
+					</div>
+				</div>
+			</div>
+		
+		<!-- end Standings -->
+									<!-- Start Results -->
+				<div class="panel panel-default">
+					<div class='panel-heading panel-inverse'>
+						<h3 class='panel-title'><i class="fa fa-star pull-right"></i>Results</h3>
+					</div>
+					<div class='panel-body widget_background'>
+						<div class="results_widget">
+							<div class="league_results_widget_division ">
+<h6>U8B</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu7redbulls.locosoccer.org/">LCSC U7 Red Bulls</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu7fireballs.locosoccer.org/">LCSC U7 Fireballs</a></td>
+		
+		<td class="center">
+							7
+					</td>
+	</tr>
+</table>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu7biglightning.locosoccer.org/">LCSC U7 Big Lightning</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu8dynamites.locosoccer.org/">LCSC U8 Dynamites</a></td>
+		
+		<td class="center">
+							3
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U10</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu10allstars.locosoccer.org/">LCSC U10 All Stars</a></td>
+		
+		<td class="center">
+							2
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu10wizards.locosoccer.org/">LCSC U10 Wizards</a></td>
+		
+		<td class="center">
+							5
+					</td>
+	</tr>
+</table>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu10allstars.locosoccer.org/">LCSC U10 All Stars</a></td>
+		
+		<td class="center">
+							7
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu10guthrieavengers.locosoccer.org/">LCSC U10 Guthrie Avengers</a></td>
+		
+		<td class="center">
+							0
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U6</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu6dragons.locosoccer.org/">LCSC U6 Dragons</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu6sparkplugs.locosoccer.org/">LCSC U6 Spark Plugs</a></td>
+		
+		<td class="center">
+							3
+					</td>
+	</tr>
+</table>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu6slayers.locosoccer.org/">LCSC U6 Slayers</a></td>
+		
+		<td class="center">
+							2
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu6champions.locosoccer.org/">LCSC U6 Champions</a></td>
+		
+		<td class="center">
+							7
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U8A</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscthunder.locosoccer.org/">LCSC U8 Thunder</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu8strikers.locosoccer.org/">LCSC U8 Strikers</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+</table>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 14, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu8diamondbacks.locosoccer.org/">LCSC U8 Diamondbacks</a></td>
+		
+		<td class="center">
+							10
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu8strikers.locosoccer.org/">LCSC U8 Strikers</a></td>
+		
+		<td class="center">
+							3
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U5</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu5littleminions.locosoccer.org/">LCSC U5 Little Minions</a></td>
+		
+		<td class="center">
+							3
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu5unitedjays.locosoccer.org/">LCSC U5 United Jays</a></td>
+		
+		<td class="center">
+							7
+					</td>
+	</tr>
+</table>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 21, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu5ballhogs.locosoccer.org/">LCSC U5 Ball Hogs</a></td>
+		
+		<td class="center">
+							10
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu5superheros.locosoccer.org/">LCSC U5 Superheroes</a></td>
+		
+		<td class="center">
+							3
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U14 Boys</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 14, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu14bvenom.locosoccer.org/">LCSC U14B Venom</a></td>
+		
+		<td class="center">
+							6
+					</td>
+	</tr>
+	<tr>
+					<td>Tri-Lake Fearless</td>
+		
+		<td class="center">
+							5
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6></h6>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U10 Boys</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 14, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu10bexplorers.locosoccer.org/">LCSC U10B Explorers</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+	<tr>
+					<td>CNP Jackals</td>
+		
+		<td class="center">
+							2
+					</td>
+	</tr>
+</table>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 7, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td>Stillwater Cobras</td>
+		
+		<td class="center">
+							1
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu10bexplorers.locosoccer.org/">LCSC U10B Explorers</a></td>
+		
+		<td class="center">
+							4
+					</td>
+	</tr>
+</table>
+</div>
+<div class="league_results_widget_division hide">
+<h6>U14 Girls</h6>
+<table class="table table-condensed scores-widget">
+	<tr>
+		<td colspan="2">
+							<h5>
+					Saturday, March 7, 2015
+				</h5>
+					</td>
+	</tr>
+	<tr>
+					<td><a href="http://lcscu14gsidekicks.locosoccer.org/">LCSC U14G Sidekicks</a></td>
+		
+		<td class="center">
+							0
+					</td>
+	</tr>
+	<tr>
+					<td>ESC Lightning Stars</td>
+		
+		<td class="center">
+							1
+					</td>
+	</tr>
+</table>
+</div>
+
+						</div>
+					</div>
+					<div class="text-right panel-footer">
+						<a href="/site/ClientSite/results">
+							<small>
+								<i class="fa fa-plus-square"></i>
+								View All Results
+							</small>
+						</a>
+					</div>
+				</div>
+				<!-- end Results -->
+					
+	</div>
+
+<div class="col-xs-8">
+<!-- start Field Closures Banner -->
+
+	<!-- start Registration Banner -->
+	<a href="//registration.leaguetoolbox.com/site/Cart/init/league-1277" target="_blank">
+		<div class="registration_banner">
+			<div class="registration_banner_left pull-left text-center">
+				REGISTER<br/>ONLINE
+			</div>
+			<div class="registration_banner_right text-center">
+									SPRING 2015
+								REGISTRATION NOW OPEN<BR/>
+				<b style="font-size: 14px; color: #0088CC;">CLICK HERE TO REGISTER ONLINE</b>
+			</div>
+		</div>
+	</a>
+
+	<div class="clearfix"></div>
+	<!-- end Registration Banner -->
+
+
+
+
+
+
+<!-- start large banner ad -->
+<div id="large_banner_ad_container"></div>
+<!-- end large banner ad -->
+
+<!-- start SlideShow -->
+<div class="row slideshow">
+	<div class="col-xs-10">
+		<div id="myCarousel" class="carousel slide" data-interval="50000">
+			<ol class="carousel-indicators" style="height: 0px;">
+														<li data-target="#myCarousel" data-slide-to="0"
+						class="active"></li>
+				
+			</ol>
+			<!-- Carousel items -->
+			<div class="carousel-inner">
+														<div class="item active ">
+						<div class='carousel-image'
+							 style="
+								width: 516px;
+								height: 300px;
+								background-image: url(//dwxywuoa786l.cloudfront.net/files/0/3/e/03e30bc9f419bbaf261eb4db8822a564_article_image_54747-640.jpg);								background-size: contain;
+								background-color: #292929;
+								background-position: center top;
+								background-repeat: no-repeat;
+								cursor: pointer;"
+							 data-target-url="/site/ClientSite/article/54747"
+						>
+							&nbsp;
+						</div>
+						<div class="carousel-caption" style="padding: 8px; background: #000000;">
+							<a href="/site/ClientSite/article/54747" style="color: #ffffff; font-size: 16px; ">
+								Spring 2015 Awards Ceremony
+							</a>
+							<br />
+							<a href="/site/ClientSite/article/54747" style="color: #ffffff; font-size: 13px;">
+
+																
+																	Awards Ceremony
+								
+							</a>
+						</div>
+					</div>
+							</div>
+			<!-- Carousel nav -->
+			<a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="icon-prev"></span></a>
+			<a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="icon-next"></span></a>
+		</div>
+
+	</div>
+	<div class="col-xs-2" style="padding-left: 0px;">
+					
+			<a class="pull-left thumbnail slide_thumbnail_border" style="margin-bottom:10px;" href="#"
+			   data-target="#myCarousel" data-slide-to="0" alt="Spring 2015 Awards Ceremony"
+			   title="Spring 2015 Awards Ceremony">
+				<div class="slide_thumbnail"
+					 style="background-image: url(//dwxywuoa786l.cloudfront.net/files/0/3/e/03e30bc9f419bbaf261eb4db8822a564_article_image_54747-200.jpg); background-size: contain; background-color: #292929; background-position: center top; background-repeat: no-repeat;"></div>
+			</a>
+
+			</div>
+</div>
+<!-- end SlideShow -->
+
+<!-- end UpNext Banner -->
+
+<!-- SSU Alerts -->
+<!-- end SSU Alerts -->
+
+<!-- start News Articles -->
+<div class="subheads">
+	LATEST NEWS
+</div>
+
+<ul class="media-list">
+
+				<li class="media">
+
+			
+			<div class="media-body">
+				<a href="/site/ClientSite/article/62546">
+					<h4 class="media-heading">LCSC Coaches</h4>
+				</a>
+
+								
+									LCSC Coaches
+							</div>
+
+
+			<div class="text-right">
+							</div>
+
+		</li>
+	
+</ul>
+
+<div class="clearfix"></div>
+
+<!-- end News Articles -->
+
+<div class="row">
+	<div class="col-xs-6">
+					<div class="subheads">
+				MORE NEWS
+			</div>
+							<div>
+					<div><i class="fa fa-angle-double-right"></i>
+						<a href="/site/ClientSite/article/54747">
+							Spring 2015 Awards Ceremony
+						</a>
+					</div>
+				</div>
+						<br/>
+
+			<div class="text-right"><a href="/site/ClientSite/news">
+					<small><i class="fa fa-plus-square"></i> View More News</small>
+				</a></div>
+			</div>
+
+	<div class="col-xs-6">
+					<div class="subheads">
+				LATEST PHOTO GALLERY
+			</div>
+			<ul class="media-list">
+				<li class="media">
+
+					<a class="pull-left thumbnail"
+					   href="/site/ClientSite/photo_albums_photos/8885">
+						<div class="feature_gallery_thumbnail"
+							 style="background-image: url('//dwxywuoa786l.cloudfront.net/files%2F3%2Ff%2Fa%2F3fa8335a79f411a05a47afe48790a8db_Sidekicks+Summer+2014-200.jpg');"></div>
+					</a>
+
+					<div class="media-body">
+						<a href="/site/ClientSite/photo_albums_photos/8885">
+							<h4 class="media-heading">3v3 Summer 2014</h4>
+						</a>
+					</div>
+				</li>
+			</ul>
+			<div class="text-right"><a href="/site/ClientSite/photo_albums">
+					<small><i class="fa fa-plus-square"></i> View More Photos</small>
+				</a></div>
+		
+	</div>
+</div>
+
+
+
+</div>
+<!-- end of col-xs-8 -->
+
+</div>
+<!-- end of fluid row -->
+</div>
+<!-- end of fluid container -->
+</section><!-- end of main section -->
+
+
+	<div class="text-center container" style="background-color: #3F00FF; height: 35px; width: 970px;">
+		&nbsp;
+	</div>
+
+	<section id="footer" class="print-hidden">
+
+		<div class="container">
+			<div class="row">
+				<div class="text-center">
+					<small>External links are provided for reference purposes. Logan County Soccer Club is not responsible for the content of external Internet sites.
+						<br />Copyright Logan County Soccer Club All rights Reserved.</small>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<section id="ltbfooter" class="print-hidden">
+	<div class="container">
+		<div class="row">
+			<div class="text-right col-xs-12">
+				<small>
+					<a href="http://www.leaguetoolbox.com" target="_blank">
+						<b style="text-decoration: underline;">Sports League Management Software</b>
+					</a> by LeagueToolbox
+				</small>
+			</div>
+		</div>
+	</div>
+</section>
+<br />
+
+
+<div id="alert_modal" class="modal fade print-hidden" tabindex="-1" role="dialog" aria-labelledby="alert_modal_label" aria-hidden="true">
+	<div class='modal-dialog'>
+		<div class='modal-content'>
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+				<h4 id="alert_modal_label">LeagueToolbox.com</h4>
+			</div>
+			<div class="modal-body">
+				<p></p>
+			</div>
+			<div class="modal-footer">
+				<button class="btn btn-primary" id='alert-modal-dismiss' data-dismiss="modal">Ok</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="confirm_modal" class="modal fade print-hidden" tabindex="-1" role="dialog" aria-labelledby="confirm_modal_label" aria-hidden="true">
+	<div class='modal-dialog'>
+		<div class='modal-content'>
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+				<h4 id="confirm_modal_label">LeagueToolbox.com</h4>
+			</div>
+			<div class="modal-body">
+				<p></p>
+			</div>
+			<div class="modal-footer">
+				<button class="btn btn-primary ok">Ok</button>
+				<button class="btn cancel">Cancel</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="spinner_modal" class="modal fade print-hidden" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class='modal-dialog'>
+		<div class='modal-content'>
+			<div class="modal-body text-center">
+				<h3><i class="fa fa-spinner fa-spin"></i> Loading...</h3>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="notify" class="alert alert-info alert-dismissable">
+	<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+	<p></p>
+</div>
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+
+	var trackerA = _gat._getTracker('UA-16862263-3');
+	trackerA._initData();
+	trackerA._trackPageview();
+
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"86b9aaab61","applicationID":"1649047,1603210","transactionName":"MgQBNUVUVkQABRVdXwtOIBREQVdaTiUNXVULFTAIQ1AXUwQAAEFcEQ==","queueTime":0,"applicationTime":327,"atts":"HkMCQw1ORUo=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>

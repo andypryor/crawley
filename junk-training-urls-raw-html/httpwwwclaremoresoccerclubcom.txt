@@ -1,0 +1,131 @@
+<!--$sitebuilder version="2.8.8" extra="Java(1.8.0_25)" md5="3f7c6d1801b53218d28c892dee1e97b7"$-->
+<!--$templateKey Blank||1.0.0$-->
+<html>
+  <head>
+    <title>Home Page</title>
+    <meta name="generator" content="Yahoo SiteBuilder/2.8.8/1.8.0_25">
+    <!--$page size 1202, 6128$-->
+    <!--$page margin 0, 0, 20, 0$-->
+    <!--$centered$-->
+    <!--$fontFamily Tahoma$-->
+    <!--$fontSize 14$-->
+    <style type="text/css"><!--
+      BODY {font-family:"Tahoma"; font-size:14;margin:0px;padding:0px;text-align:center;min-width:1081px;}
+      P {font-family:"Tahoma"; font-size:14;}
+      FORM {margin:0;padding:0;}
+      #centerwrapper {text-align:left;width:1081px;margin-left:auto;margin-right:auto;}
+    --></style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#0066FF" vlink="#0066FF" topmargin="0" leftmargin="0">
+
+<!--$begin exclude$-->
+    <div id="centerwrapper">
+      <div id="root" style="position:absolute;width:1081px;height:2187px;">
+<!--$end exclude$-->
+        <div id="e0" style="position:absolute;left:30;top:1123;width:349;height:714;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="349" height="714" alt=""></div>        <div id="e1" style="position:absolute;left:41;top:1152;width:323;height:673;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="323" height="673" alt=""></div>        <div id="e2" style="position:absolute;left:18;top:25;width:1061;height:2109;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="1061" height="2109" alt=""></div>        <div id="e3" style="position:absolute;left:36;top:317;width:335;height:465;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="335" height="465" alt=""></div>        <div id="e4" style="position:absolute;left:38;top:794;width:335;height:391;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="335" height="391" alt=""></div>        <div id="e5" style="position:absolute;left:19;top:149;width:1062;height:40;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="1062" height="40" alt=""></div>        <div id="e6" style="position:absolute;left:50;top:826;width:313;height:350;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="313" height="350" alt=""></div>        <div id="e7" style="position:absolute;left:79;top:799;width:251;height:29;">
+          <table border="0" cellspacing="0" cellpadding="0" width="251">
+            <tr>
+              <td nowrap height="29" align="center" valign="top"><span class="text"><b><font size="4"><span style="font-size:18px;line-height:22px;">EVENTS<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e8" style="position:absolute;left:44;top:360;width:315;height:411;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="315" height="411" alt=""></div>        <div id="e9" style="position:absolute;left:76;top:324;width:260;height:37;">
+          <table border="0" cellspacing="0" cellpadding="0" width="260">
+            <tr>
+              <td nowrap height="37" align="center" valign="top"><span class="text"><b><font size="4"><span style="font-size:18px;line-height:22px;">Links &amp; Helpful Information<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e10" style="position:absolute;left:26;top:27;width:1037;height:109;">
+          <table border="0" cellspacing="0" cellpadding="0" width="1037">
+            <tr>
+              <td nowrap height="109" align="center" valign="top"><span class="text"><b><font size="5"><span style="font-size:24px;line-height:29px;">Claremore Soccer Club<br></span></font></b><b><span style="font-size:14px;line-height:17px;">2700 North Sioux Ave.- P.O. Box 1713<br>Claremore OK 74018<br>(918) 341-6700<br soft></span></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e11" style="position:absolute;left:67;top:157;width:938;height:25;"><!--$navbar 
+name=NavBar0111.nav
+assetID=%NavbarAsset:/navigation_bars/NavBar0111.nav
+$--><!--$begin exclude$--><table border="0" cellspacing="0" cellpadding="0"><tr><td><a href="index.html"><img name="i12" src="sitebuilder/images/NavBar0111-0-active-40233.png" width="134" height="25" border="0" alt=""/></a></td><td><a href="registration.html"><img name="i13" src="sitebuilder/images/NavBar0111-1-inactive-40290.png" border="0" width="134" height="25" alt=""/></a></td><td><a href="recsoccer.html"><img name="i14" src="sitebuilder/images/NavBar0111-2-inactive-40370.png" border="0" width="134" height="25" alt=""/></a></td><td><a href="schedules.html"><img name="i15" src="sitebuilder/images/NavBar0111-3-inactive-40448.png" border="0" width="134" height="25" alt=""/></a></td><td><a href="Coaches.html"><img name="i16" src="sitebuilder/images/NavBar0111-4-inactive-40527.png" border="0" width="134" height="25" alt=""/></a></td><td><a href="events.html"><img name="i17" src="sitebuilder/images/NavBar0111-5-inactive-21007.png" border="0" width="134" height="25" alt=""/></a></td><td><a href="board.html" onMouseOver="document.images['i18'].src='sitebuilder/images/NavBar0111-6-mouseOver-82003.png'" onMouseOut="document.images['i18'].src='sitebuilder/images/NavBar0111-6-inactive-81948.png'"><img name="i18" src="sitebuilder/images/NavBar0111-6-inactive-81948.png" border="0" width="134" height="25" alt=""/></a></td></tr></table><!--$end exclude$-->        </div>
+        <div id="e19" style="position:absolute;left:47;top:1846;width:217;height:76;"><!--$addOn town=Claremore, OK
+addOn=resource\:/resources/addons/yahooMap/yahooMap.addon
+element.icon=resource\:/resources/addons/yahooMap/icon-large.gif
+street=2556 N Sioux Ave
+description=CLAREMORE SOCCER COMPLEX
+style=large
+publish.local=false
+$--><!--$begin exclude$--><img src="http://us.yimg.com/i/geo/ao/m_top2.gif" width=217 height=23 border=0 alt=""><table bgcolor=#666666 cellpadding=1 cellspacing=0 border=0 width=217><tr><td><table bgcolor=#ffffcc cellpadding=6 cellspacing=0 border=0 width=100%><tr><td bgcolor="#ffffcc" align=center><font face="Arial" size=-1><b><a href="http://maps.yahoo.com/py/maps.py?Pyt=Tmap&addr=2556 N Sioux Ave&csz=Claremore, OK&Get+Map=Get+Map">CLAREMORE SOCCER COMPLEX</a></b><br></font></td></tr></table></td></tr></table><img src="http://us.yimg.com/i/geo/ao/m_bot.gif" width=217 height=23 border=0 alt=""><!--$end exclude$-->        </div>
+        <div id="e20" style="position:absolute;left:392;top:221;width:657;height:171;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="657" height="171" alt=""></div>        <div id="e21" style="position:absolute;left:400;top:273;width:634;height:111;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="634" height="111" alt=""></div>        <div id="e22" style="position:absolute;left:736;top:291;width:157;height:37;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_green.gif$--><img src="clipart/bullets/squares/sq_green.gif" width="157" height="37" alt=""></div>        <div id="e23" style="position:absolute;left:393;top:226;width:652;height:24;">
+          <table border="0" cellspacing="0" cellpadding="0" width="652">
+            <tr>
+              <td nowrap height="24" align="center" valign="top"><span class="text"><b><font size="4"><span style="font-size:18px;line-height:22px;">FIELD STATUS<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e24" style="position:absolute;left:490;top:348;width:10;height:10;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_green.gif$--><img src="clipart/bullets/squares/sq_green.gif" width="10" height="10" alt=""></div>        <div id="e25" style="position:absolute;left:686;top:347;width:10;height:10;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_orange.gif$--><img src="clipart/bullets/squares/sq_orange.gif" width="10" height="10" alt=""></div>        <div id="e26" style="position:absolute;left:575;top:346;width:10;height:10;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_yellow.gif$--><img src="clipart/bullets/squares/sq_yellow.gif" width="10" height="10" alt=""></div>        <div id="e27" style="position:absolute;left:764;top:348;width:10;height:10;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_blue.gif$--><img src="clipart/bullets/squares/sq_blue.gif" width="10" height="10" alt=""></div>        <div id="e28" style="position:absolute;left:28;top:26;width:90;height:100;"><a href="images/CLAREMORE_SOCCER_NEW.jpg"><!--$img %ImageAssetImpl:/images/CLAREMORE_SOCCER_NEW.jpg$--><img src="sitebuilder/images/CLAREMORE_SOCCER_NEW-90x100.jpg" width="90" height="100" border="0" alt=""></a></div>        <div id="e29" style="position:absolute;left:976;top:26;width:90;height:100;"><a href="images/CLAREMORE_SOCCER_NEW.jpg"><!--$img %ImageAssetImpl:/images/CLAREMORE_SOCCER_NEW.jpg$--><img src="sitebuilder/images/CLAREMORE_SOCCER_NEW-90x100.jpg" width="90" height="100" border="0" alt=""></a></div>        <div id="e30" style="position:absolute;left:30;top:223;width:339;height:84;">
+          <table border="0" cellspacing="0" cellpadding="0" width="339">
+            <tr>
+              <td nowrap height="84" align="center" valign="top"><span class="text"><span style="font-size:14px;line-height:17px;"><br></span><b><font size="3"><span style="font-size:16px;line-height:20px;">Welcome to<br></span></font></b><b><font size="4"><span style="font-size:20px;line-height:25px;">Claremore Soccer Club<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e31" style="position:absolute;left:389;top:407;width:663;height:1498;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="663" height="1498" alt=""></div>        <div id="e32" style="position:absolute;left:593;top:413;width:250;height:28;">
+          <table border="0" cellspacing="0" cellpadding="0" width="250">
+            <tr>
+              <td nowrap height="28" align="center" valign="top"><span class="text"><b><font size="4"><span style="font-size:18px;line-height:22px;">NEWS<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e33" style="position:absolute;left:399;top:447;width:641;height:1446;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="641" height="1446" alt=""></div>        <div id="e34" style="position:absolute;left:845;top:347;width:10;height:10;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red.gif$--><img src="clipart/bullets/squares/sq_red.gif" width="10" height="10" alt=""></div>        <div id="e35" style="position:absolute;left:539;top:288;width:157;height:37;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_green.gif$--><img src="clipart/bullets/squares/sq_green.gif" width="157" height="37" alt=""></div>        <div id="e36" style="position:absolute;left:60;top:839;width:294;height:333;">
+          <table border="0" cellspacing="0" cellpadding="0" width="294">
+            <tr>
+              <td nowrap height="333" align="center" valign="top"><span class="text"><span style="font-size:14px;line-height:17px;"><br></span><b><span style="font-size:14px;line-height:17px;">For Registration information and to <br soft>register your player today click</span></b><a href="registration.html"><b><span style="font-size:14px;line-height:17px;"> HERE</span></b></a><b><span style="font-size:14px;line-height:17px;">.<br><br>If you have questions regarding your <br soft>team or your teams schedule you will <br soft>need to contact your coach.<br><br>Click </span></b><a href="events.html"><b><span style="font-size:14px;line-height:17px;">Here</span></b></a><b><span style="font-size:14px;line-height:17px;"> for our Events page<br soft></span></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e37" style="position:absolute;left:18;top:2127;width:1061;height:40;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="1061" height="40" alt=""></div>        <div id="e38" style="position:absolute;left:40;top:1191;width:335;height:627;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_red_maroon.gif$--><img src="clipart/bullets/squares/sq_red_maroon.gif" width="335" height="627" alt=""></div>        <div id="e39" style="position:absolute;left:50;top:1223;width:313;height:578;"><!--$img %RemappedImageAsset:/sitebuilder/clipart/bullets/squares/sq_black.gif$--><img src="clipart/bullets/squares/sq_black.gif" width="313" height="578" alt=""></div>        <div id="e40" style="position:absolute;left:83;top:1197;width:250;height:28;">
+          <table border="0" cellspacing="0" cellpadding="0" width="250">
+            <tr>
+              <td nowrap height="28" align="center" valign="top"><span class="text"><b><font size="4"><span style="font-size:18px;line-height:22px;">TEAM ACCOMPLISHMENTS<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e41" style="position:absolute;left:62;top:1234;width:289;height:554;">
+          <table border="0" cellspacing="0" cellpadding="0" width="289">
+            <tr>
+              <td nowrap height="554" align="center" valign="top"><!--$emptyText$--></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e42" style="position:absolute;left:57;top:372;width:293;height:391;"><span class="text"><a href="gamecancelreschedulepolicy.html"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Game Cancel/Reschedule Policy<br><br></span></font></i></b></a><a href="lilkicks.html"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Lil Kicks<br><br></span></font></i></b></a><a href="http://www.northeastokfc.com" target="_blank"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">NEOFC &nbsp;Competitive/Academy<br><br></span></font></i></b></a><a href="http://www.claremoreadultsoccer.com/index.fsp?pvs_id=guest"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Adult Soccer<br><br></span></font></i></b></a><a href="agenda_minutes.html"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Agenda<br><br></span></font></i></b></a><a href="http://www.oksoccer.com/default.aspx" target="_blank"><b><i><font color="#009999" size="3"><span style="font-size:16px;line-height:20px;">OSA<br><br></span></font></i></b></a><a href="raincancelpolicy.html"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Rain Cancellation Policy<br><br></span></font></i></b></a><a href="files/CLSC_Bylaws_2009_revised_6-5-14.pdf" target="_blank"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Our By Laws<br><br></span></font></i></b></a><a href="files/CLSC_Field_Map_Revised.pdf" target="_blank"><b><i><font color="#0099FF" size="3"><span style="font-size:16px;line-height:20px;">Field Map<br><br></span></font></i></b></a><a href="board.html" target="_blank"><b><i><font color="#0099CC" size="3"><span style="font-size:16px;line-height:20px;">Contact Us<br soft></span></font></i></b></a></span>        </div>
+        <div id="e43" style="position:absolute;left:396;top:268;width:76;height:76;"><a href="http://www.facebook.com/#!/pages/claremore-soccer-club/106053596154833" target="_blank"><img src="images/facebook.png" width="76" height="76" border="0" alt=""></a></div>        <div id="e44" style="position:absolute;left:545;top:296;width:334;height:26;"><span class="text"><b><font size="3"><span style="font-size:16px;line-height:20px;">PRACTICE FIELDS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GAME FIELDS<br soft></span></font></b></span>        </div>
+        <div id="e45" style="position:absolute;left:508;top:344;width:422;height:15;"><span class="text"><b><font size="2"><span style="font-size:12px;line-height:15px;">OPEN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WATCHING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HEAT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COLD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOSED<br soft></span></font></b></span>        </div>
+        <div id="e46" style="position:absolute;left:547;top:253;width:405;height:17;">
+          <table border="0" cellspacing="0" cellpadding="0" width="405">
+            <tr>
+              <td nowrap height="17" align="center" valign="top"><span class="text"><b><span style="font-size:14px;line-height:17px;">Conditions Updated F</span></b><b><span style="font-size:14px;line-height:17px;">riday</span></b><b><span style="font-size:14px;line-height:17px;">, March </span></b><b><span style="font-size:14px;line-height:17px;">20</span></b><b><span style="font-size:14px;line-height:17px;">th at </span></b><b><span style="font-size:14px;line-height:17px;">8</span></b><b><span style="font-size:14px;line-height:17px;">:</span></b><b><span style="font-size:14px;line-height:17px;">00</span></b><b><span style="font-size:14px;line-height:17px;">pm<br soft></span></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e47" style="position:absolute;left:404;top:454;width:627;height:1477;">
+          <table border="0" cellspacing="0" cellpadding="0" width="627">
+            <tr>
+              <td nowrap height="1477" align="center" valign="top"><span class="text"><span style="font-size:14px;line-height:17px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></span><b><span style="font-size:14px;line-height:17px;">****************************************************</span></b><b><span style="font-size:14px;line-height:17px;"><br></span></b><b><span style="font-size:14px;line-height:17px;"><br></span></b><b><font size="4"><span style="font-size:18px;line-height:22px;">Claremore Soccer Club<br></span></font></b><a href="files/CSC-Zero_tolerance_policy.pdf" target="_blank"><b><font size="4"><span style="font-size:18px;line-height:22px;">ZERO TOLERANCE POLICY<br><br></span></font></b></a><b><span style="font-size:14px;line-height:17px;">****************************************************<br><br><br></span></b><b><font size="3"><span style="font-size:16px;line-height:20px;">Visit our Competitive and Academy website at<br></span></font></b><a href="http://www.northeastokfc.com"><b><font size="3"><span style="font-size:16px;line-height:20px;">www.northeastokfc.com<br><br></span></font></b></a><b><span style="font-size:14px;line-height:17px;">****************************************************<br><br></span></b><b><font size="3"><span style="font-size:16px;line-height:20px;">Interested in coaching courses? &nbsp;Click </span></font></b><a href="http://www.oksoccer.com/coaching/coaching_classes.aspx"><b><font size="3"><span style="font-size:16px;line-height:20px;">HER</span></font></b></a><a href="http://www.oksoccer.com/coaching/coaching_classes.aspx"><b><font size="3"><span style="font-size:16px;line-height:20px;">E<br></span></font></b></a><b><font size="3"><span style="font-size:16px;line-height:20px;">for more information<br soft></span></font></b></span></td>
+            </tr>
+          </table>
+        </div>
+        <div id="e48" style="position:absolute;left:414;top:458;width:613;height:499;"><span class="text"><b><font size="4"><span style="font-size:18px;line-height:22px;"> &nbsp;&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schedules are Now Available on the </span></font></b><a href="schedules.html"><b><font size="4"><span style="font-size:18px;line-height:22px;">Schedules</span></font></b></a><b><font size="4"><span style="font-size:18px;line-height:22px;"> Page<br></span></font></b><b><span style="font-size:14px;line-height:17px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;****************************************************<br><br><br><br><br><br></span></b><b><font size="3"><span style="font-size:16px;line-height:20px;">Parents &amp; Coaches:<br><br>Open League (U10, U12, U14, U16 &amp; U19) OSA games begin<br>Saturday, March 7th.<br><br>Closed League (Lil Kicks, U6 and U8) CLSC games begin<br>Saturday, March 14th.<br><br><br><br>ALL COACHES - please go to </span></font></b><a href="http://www.cdc.gov/concussion/HeadsUp/Training/index.html"><b><font size="3"><span style="font-size:16px;line-height:20px;">www.cdc.gov/concussion</span></font></b></a><b><font size="3"><span style="font-size:16px;line-height:20px;"> and watch Heads<br>UP video related to Soccer. There should be a short quiz at end where you <br soft>can print a completion certificate. Please print and email copy to <br soft>soccerme2@att.net or bring it by the board room. THIS IS MANDATORY <br soft>FOR ALL COACHES &amp; ASST. COACHES.<br soft></span></font></b></span>        </div>
+        <div id="e49" style="position:absolute;left:436;top:541;width:570;height:60;">
+          <table border="0" cellspacing="0" cellpadding="0" width="570">
+            <tr>
+              <td nowrap height="60" align="center" valign="top"><span class="text"><b><font size="3"><span style="font-size:16px;line-height:20px;">Boys And Girls U6<br>Coaches Contact Information<br>Click </span></font></b><a href="files/Spring_2015_Coach_Contact.pdf" target="_blank"><b><font size="3"><span style="font-size:16px;line-height:20px;">HERE<br soft></span></font></b></a></span></td>
+            </tr>
+          </table>
+        </div>
+<!--$begin exclude$-->
+      </div>
+    </div>
+<!--$end exclude$-->
+  </body>
+</html>
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/4ddc4240632d261edd02bf7fc4f46535?id=f8f4ec60c3ed";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

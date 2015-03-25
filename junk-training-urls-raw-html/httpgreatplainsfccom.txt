@@ -1,0 +1,324 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<html>
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  name="robots" content="index, follow" />
+<meta  name="keywords" content="weatherford, oklahoma, soccer, ok, western, greatplains, great plains, great, plains, youth soccer, youth, GPFC" />
+<meta  name="rights" content="GPFC" />
+<meta  name="language" content="en-GB" />
+<meta  name="description" content="Joomla! - content management system" />
+<meta  name="generator" content="Joomla! 1.6 - 
+Open Source Content Management" />
+<link rel="shortcut icon" href="http://www.greatplainsfc.com/images/favicon.ico" >
+
+
+<link rel="stylesheet" href="templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="templates/soccer_template/tools/layout.css" type="text/css" />
+
+<link href="templates/soccer_template/tools/sitetools.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="soccer_template/tools/jquery.min.js"></script>
+<script type="text/javascript" src="soccer_template/tools/jquery.cycle.all.min.js"></script>
+
+
+<!--  Mobile Switch  
+<script type="text/javascript">
+if (screen.width<800) {
+
+window.location="http://www.greatplainsfc.com/templates/mobile_template/mobile.html";
+}
+</script>
+-->
+
+</head>
+<body><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=705295596157540";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="header"><p>
+	<a href=""><img alt="header" src="images/header.jpg" style="width: 1008px; height: 187px;" /></a></p>
+</div>
+<div id="top-menu">
+  <div class="main-nav"><p style="margin-left: 40px">&nbsp;
+	</p>
+<ul>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=3">Staff</a></li>
+	<li>
+		<a href="#">Competitive</a>
+<ul>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=13">Program Info.</a></li>
+			<li>
+			<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=14">Schedules</a></li>
+		<!--<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=15">Financial Info.</a></li>-->
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=16">2014-15 Staff</a></li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=17">Tryouts</a></li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=18">Teams</a></li>
+			<li>
+			<!--<a href="page.php?p=183">Skills</a></li>-->
+		</ul>
+	</li>
+	<li>
+		<a href="#">Recreational</a>
+<ul>
+			<li>
+		  <a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=20">Program Info. </a></li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=21">Schedules</a></li>
+		<!--<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=22">Rules</a></li>
+			<li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=23">Coaching Help</a></li>-->
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=24">Coach Information</a></li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=25">Traveling Rec Ages 13-19</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="#">Academy</a>
+<ul>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=26">Program info.</a></li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=27">Schedules</a></li>
+			<li>
+				<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=28">Coaches</a></li>
+		</ul>
+	</li>
+
+	<li>
+		<a href="#">Tournaments</a>
+<ul>
+			<li>
+			<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=29">TBA</a></li>
+
+		</ul>
+	</li>
+	<li> 
+		<a href="#">Camps</a>
+<ul>
+			<li>
+			<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=30">TBA</a></li>
+
+		</ul>
+	</li>
+</ul>
+<p>&nbsp;
+	</p>
+    <div class="clear"></div>
+  </div>
+</div>
+<div id="content-container">
+  <div id="left-col">
+    
+      <div class="left-nav"><ul>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=31">Home</a></li>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=1">About Us</a></li>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=2">Contact Us</a></li>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=3">Staff</a></li>
+	<li>
+<!--	<a href="page.php?p=220">TOPSoccer</a></li>
+	<li>
+		<a href="http://208.166.54.35/~nysa/UserFiles/files/Golf Tourney Flyer 2013(2).pdf">NYSA Golf Classic</a></li>
+	-->
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=4">Referee Info</a></li>
+	<li>
+	<!--<a href="page.php?p=39">Store</a></li>-->
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=5">FAQ</a></li>
+	<li>
+	    <a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=6">Field Map</a></li>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=7">Reschedule</a></li>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=8">Forms</a></li>
+	<li>
+		<a href="http://greatplainsfc.com/index.php?option=com_content&view=article&id=11">Privacy Policy</a></li>
+	<li>
+		<!--<a href="http://greatplainsfc.com/sitetools">Sitetools Login</a></li>  -->
+</ul>
+
+<div id="field-status-box">
+<h2 style="padding-top:20px; padding-left:35px; padding-bottom:10px">Field Status</h2>
+<div id="fields-popup">
+
+
+<table id="st_fields_popup" border="0" width="250px">
+<tbody>
+
+    
+    <tr>
+    <td><strong><a href="maps.php?fid=29">Field 1</a></strong></td>
+             <td class="st_fields_popup_open">Open</td>
+        	
+   
+    </tr>
+    
+        
+    <tr>
+    <td><strong><a href="maps.php?fid=29">Field 2</a></strong></td>
+             <td class="st_fields_popup_open">Open</td>
+        	
+   
+    </tr>
+    
+        
+    <tr>
+    <td><strong><a href="maps.php?fid=29">Field 3</a></strong></td>
+             <td class="st_fields_popup_open">Open</td>
+        	
+   
+    </tr>
+    
+    
+
+
+
+<tr><td colspan="2"><div id="st_fields_popup_title">Last Updated:&nbsp;<br /> 03/03/2015 04:30:35 AM</div></td></tr>
+</tbody>
+</table>
+</div>
+
+
+
+</div>
+
+</div>
+   
+
+
+<div id="left-content"><p>
+<!--<img alt="" src="mainsponsor.jpg" style="width: 175px; height: 58px;" /></p> -->
+</div>
+
+</div>     
+
+
+<div id="wide-area-container">
+
+
+<div >
+
+</div>
+<div >
+
+<div id="wide-area-content">
+<!--******************************************CONTENT AREA*************************************************** -->
+<table width="950" border="0">
+<tr>
+
+<!-- Display the component -->
+<div class="blog-featured" itemscope itemtype="http://schema.org/Blog">
+
+<div class="items-leading clearfix">
+			<div class="leading-0 clearfix" 
+			itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+			
+
+
+
+
+
+
+
+	 <div id="wrap">
+<article>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"></span></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-size: 14pt;">There will an 09 Referee Course Class March 27, and March 28th in Weatherford.&nbsp; Information under the Referee Info tab.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;">Spring Season Starts March 21st!!!!&nbsp; Schedules to be released in the coming days.</span></p>
+<h1>&nbsp;</h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>Now accepting Teams for the Great Plains FC Fall Brawl Tournament</h1>
+<p>&nbsp;</p>
+<img alt="" src="images/IMG_2972.JPG" height="283" width="382" />&nbsp;</td>
+<td>
+<div id="right-col">
+<h6>Calendar »</h6>
+		<div class="moduletable">
+					<h3>Upcoming Events</h3>
+					
+No events found
+
+		</div>
+	</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="right-col">
+<p style="text-align: center;"><br />&nbsp;</p>
+<h6><a>Lost and Found »</a></h6>
+<p>text</p>
+</div>
+<div id="right-col">
+<p style="text-align: center;"><br />&nbsp;</p>
+<h6><a>Fundraisers »</a></h6>
+<p>text</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</article>
+</div>
+<p>&nbsp;</p>
+
+
+
+		</div>
+			</div>
+
+
+
+</div>
+
+
+
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+  
+  
+  <div class="clear"></div>
+  <div id="footer"><div id="copyright">coach@greatplainsfc.com</div>
+
+  <div id="e7">© <script type="text/javascript">var d=new Date;var year=d.getFullYear();document.write(d.getFullYear());</script> GPFC</p>
+  </div>
+    <div class="clear"></div>
+</div>
+</div>
+</body>
+</html>

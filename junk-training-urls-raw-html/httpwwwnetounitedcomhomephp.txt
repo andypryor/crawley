@@ -1,0 +1,361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/StoryTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/ContentTrinket/style.css" /><script src="http://www.netounited.com/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13159" ><li id="mb-75816" class=" cmFirst "><a class="button-text" href="/home.php?layout=307363" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-76433" class="  "><a class="button-text" href="/home.php?layout=308731" style="" target="_top">About us</a><span class="iefix">&nbsp;</span></li><li id="mb-76428" class="  "><a class="button-text" href="/home.php?layout=308726" style="" target="_top">Soccer Camps</a><span class="iefix">&nbsp;</span></li><li id="mb-76834" class="  "><a class="button-text" href="/home.php?layout=310194" style="" target="_top">Map to Neto United Field</a><span class="iefix">&nbsp;</span></li><li id="mb-76811" class="  "><a class="button-text" href="/home.php?layout=310083" style="" target="_top">Neto United Calendar</a><span class="iefix">&nbsp;</span></li><li id="mb-76444" class="  "><a class="button-text" href="/home.php?layout=308750" style="" target="_top">Weather</a><span class="iefix">&nbsp;</span></li><li id="mb-76431" class="  "><a class="button-text" href="/home.php?layout=308729" style="" target="_top">Coaching/Staff</a><span class="iefix">&nbsp;</span></li><li id="mb-76446" class="  "><a class="button-text" href="/home.php?layout=308754" style="" target="_top">Volunteers Corner</a><span class="iefix">&nbsp;</span></li><li id="mb-76427" class="  "><a class="button-text" href="/home.php?layout=308725" style="" target="_top">Tournaments</a><span class="iefix">&nbsp;</span></li><li id="mb-75818" class="  "><a class="button-text" href="/home.php?layout=307371" style="" target="_top">Registration policies</a><span class="iefix">&nbsp;</span></li><li id="mb-75817" class="  "><a class="button-text" href="/home.php?layout=307368" style="" target="_top">Online registration</a><span class="iefix">&nbsp;</span></li><li id="mb-76435" class="  "><a class="button-text" href="/forms" style="" target="_top">Forms</a><span class="iefix">&nbsp;</span></li><li id="mb-76831" class="  "><a class="button-text" href="/home.php?layout=310182" style="" target="_top">Winner's Circle</a><span class="iefix">&nbsp;</span></li><li id="mb-76832" class="  "><a class="button-text" href="/home.php?layout=310185" style="" target="_top">Team Directory</a><span class="iefix">&nbsp;</span></li><li id="mb-76439" class="  "><a class="button-text" href="/home.php?layout=308737" style="" target="_top">Team Directory </a><span class="iefix">&nbsp;</span></li><li id="mb-76430" class="  "><a class="button-text" href="/home.php?layout=308728" style="" target="_top">Fundraising</a><span class="iefix">&nbsp;</span></li><li id="mb-76429" class="  "><a class="button-text" href="/home.php?layout=308727" style="" target="_top">Team Sponser</a><span class="iefix">&nbsp;</span></li><li id="mb-76436" class="  "><a class="button-text" href="/home.php?layout=308734" style="" target="_top">Shop Neto Apparel</a><span class="iefix">&nbsp;</span></li><li id="mb-76438" class="  "><a class="button-text" href="/home.php?layout=308736" style="" target="_top">Neto on Facebook</a><span class="iefix">&nbsp;</span></li><li id="mb-76443" class="  "><a class="button-text" href="/home.php?layout=308748" style="" target="_top">Photo Gallery</a><span class="iefix">&nbsp;</span></li><li id="mb-76432" class="  "><a class="button-text" href="/home.php?layout=308730" style="" target="_top">Media</a><span class="iefix">&nbsp;</span></li><li id="mb-76445" class="  "><a class="button-text" href="/home.php?layout=308753" style="" target="_top">Links</a><span class="iefix">&nbsp;</span></li><li id="mb-76437" class="  cmLast"><a class="button-text" href="/home.php?layout=308735" style="" target="_top">Contact us</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Neto Facebook					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Mar 1, 2013</span><img class="ST" src="http://www.netounited.com/imagedata/facebook_logo.jpg" title="Neto Facebook" /><p>Join us on Facebook</p><p><em><a href="http://www.facebook.com/pages/Neto-United-Soccer-Club/512936955412070" class="bonzi_readmore">Read more...</a></em></p><br style="clear:both;"/></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Map to Neto United Fields at Hope Lutheran Church, Eagle					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+											</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Stampede Honors Jose Franca and Logan Emory Wednesday January 7					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<table class="ContentTrinket"><tr class="ct_row"><td class="ct_block" style="width: 100.96952908587%; " colspan="1" rowspan="2"><div class="ct_special">
+  <img class="ct_image stretch" src="http://www.netounited.com/imagedata/soccer_night_4.jpg" />
+</div></td><td class="ct_block"  rowspan="2"></td></tr></table>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Its time to register online for the 2014-2015 Season.  					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<table class="ContentTrinket"><tr class="ct_row"><td class="ct_block" style="height: 477px;" colspan="2" rowspan="1"><div class="ct_special">
+  <img class="ct_image stretch" src="http://www.netounited.com/imagedata/U14_GirlsChoice_MG_5303_2.jpg" />
+</div></td></tr><tr class="ct_row"><td class="ct_block" style="width: -3.7396121883657%; " colspan="1"></td><td class="ct_block"><p>
+  Neto United competitive soccer open play time will be held at Guerber Park at 2200 East Hill Road in Eagle, Idaho 83616. Watch for a e-mail from Coach Schut for the details for open play.
+</p>
+<p>
+  <span><span><span><strong>The Leadership Team:</strong></span></span></span>
+</p>
+<p>
+  <span><span>The Neto United open play will be staffed with former professional players, coaches and former players including:</span></span>
+</p>
+<ul>
+  <li>
+    <span><span><span><strong>Coach Jose Franca Neto</strong> (Retired ASL, NASL and MISL professional player) is a founder of and Director of Coaching for the Eagle, Meridian and Star Sports Academy
+    in Eagle, Idaho. He has been focused on developing players for the last 17 years. Jose was instrumental in developing various players and coaches around the Treasure Valley. Jose is renowned for
+    developing players through the Brazillian Academy.</span></span></span>
+  </li>
+  <li>
+    <p>
+      <strong>Coach Jeff Schut</strong> U14 coach for the 2014-2015 season, Jeff has been a coach for the Neto United U12 and U13 teams and has led these teams to a division championships two times.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Coach Katie Franca</strong> is a former college soccer player that is an elementary school teacher. She was born and raised in the Treasure Valley and has been coaching for several
+      years. Katie has coached several boys and girls teams.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Coach Jim Peters</strong> is a prosecutor for the Justice Department that has protected the children in the Treasure Valley for more than 20 years. Jim has been coaching soccer for more
+      than 17 years and has donated his time to soccer and our community without asking for anything in return. Jim has qualities that we often seek, but rarely find in an individual. He has coached
+      his own children and continued coaching for several other teams. Jim will be coaching the U15 boys for Neto in 2014-2015 season.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Jerry Darnall</strong> Is a Board member and one of the two founders of the organization. Jerry is a local attorney that suports all of our teams, coaches and parents.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Lisa Caufield</strong> Is a Seattle native that chose to raise her 3 children in the Treasure Valley with her husband Jason. Jason played Soccer while stationed in Germany and has a
+      passion for the game which has carried over to his family members. Lisa is the club regsitar and helps the teams coordinate everything with IYSA &amp; parents.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Nihan Darnall</strong> Is a Turkish native, civil engneer and life long fan of soccer. She has been to the World Cup and continues to follow her native team in Turkey. She is the
+      uniform coordinator and helps with IYSA &amp; player registration.
+    </p>
+  </li>
+  <li>
+    <p>
+      Staff: All former collegiate players, high school<br />
+      players and coaches and technical staff for area clubs
+    </p>
+  </li>
+</ul>
+<p>
+  <span><strong><span><span>Location:</span></span></strong></span>
+</p>
+<p>
+  <span><span>Guerber Park</span></span>
+</p>
+<p>
+  <span><span>2200 East Hill Road</span></span>
+</p>
+<p>
+  <span><span>Eagle, ID 83616</span></span>
+</p>
+<p>
+  <span><span><span><strong>Try Out Sessions:</strong></span></span></span><span class="Apple-style-span"><br /></span>
+</p>
+<p>
+  <span class="Apple-style-span">June 2 &amp; 3rd from 5:00 to 7:00 pm.<br /></span>
+</p>
+<p>
+  <span><span><span><strong>Questions:</strong></span></span></span>
+</p>
+<p>
+  <span><span>Please contact: Jose Franca Neto at <a href="mailto:netokick@cableone.net">netokick@cableone.net</a> or 208-602-6247; or Jeff Schut at 208-340-9438.</span></span>
+</p></td></tr></table>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						                        WELCOME TO NETO UNITED, EAGLE, MERIDIAN AND STAR'S LOCAL SOCCER CLUB					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="ST_StoryTrinket"><span class="date">Posted Mar 1, 2013</span><img class="ST" src="http://www.netounited.com/imagedata/HoustonDynamos_jose.jpg" title="                        WELCOME TO NETO UNITED, EAGLE, MERIDIAN AND STAR'S LOCAL SOCCER CLUB" /><p style="text-align: justify;">Neto United Soccer club was started in 2010 by Eagle resident and local attorney Jerry Darnall &amp; former professional and Olympic soccer player Jose Franca Neto. Neto United has the only Director of Coaching in the Treasure Valley that is a former player for&nbsp;a U.S. Olympic qualifying team, a U.S. professional soccer player for over a decade, and has been commited to coaching youth soccer for the past 17 years. (Yes, that is Jose in action as the MVP and leading scorer of the ASL) Neto United was created in response to a need for a local club in Eagle, Meridian and Star that would be committed to the community as well as having a home field that would allow players to practice &amp; play soccer close to home. We practice and play in Eagle, Idaho at the former Mia Hamm Fields located at Legacy. Our mission is to assure that the children of Eagle, Meridian and Star have a local soccer club that promotes work ethic, team work and positive interaction with the community as well as peers and parents. Neto United provides a competitive soccer experience for the committed soccer player. We work hard to create an environment that will provide each player with a valuable learning experience, an opportunity to improve their soccer skills with competent coaches, an entry into higher levels of soccer &amp; a chance to be part of the multi-lingual worldwide community of soccer. We support these principles by improving individual skills through well-structured practice sessions and playing games at the highest competitive age-appropriate level possible, increasing the tactical element of team play and by using soccer as a vehicle to promote work ethic, fair play, self-confidence and good citizenship. Neto United's philosophy is that score boards do not determine the winner of every game. Respect, work ethic, development&nbsp;and teamwork are much more important than the score of any game. Our organization's success will be measured by how well we accomplish&nbsp;these objectives. We strictly abide by the rules and regulations of IYSA, USYSA and FIFA, as well as the leagues in which our teams play, specifically to the Idaho Youth Soccer (IYSA) D3 league. We are committed to the players, parents and the communities of Eagle, Meridian and Star.</p><br style="clear:both;"/></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						                              2014 Neto United  U13 Division Champions					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<table class="ContentTrinket"><tr class="ct_row"><td class="ct_block" style="width: 49.306094182825%; height: 335px;" colspan="1" rowspan="1"><div class="ct_special">
+  <img class="ct_image stretch" src="http://www.netounited.com/imagedata/photo.jpg" />
+</div></td><td class="ct_block"  rowspan="1"><div class="ct_special">
+  <img class="ct_image stretch" src="http://www.netounited.com/imagedata/u14_girls.jpg" />
+</div></td></tr><tr class="ct_row"><td class="ct_block"  colspan="2"><p style="text-align: justify;">
+  <span style="font-size: large;">Come join us in Eagle for the 2014/2015 Competitive Team soccer. We are currently looking for U10/11 Boys, U13/14 Boys, U15/16 Boys, U14/15 girls or full teams for
+  Fall of 2014. You will need the following to complete registration:</span>
+</p>
+<ol>
+  <li>$100.00 deposit
+  </li>
+  <li>Birth Certificate
+  </li>
+  <li>Picture for IYSA Player Card
+  </li>
+  <li>Medical Release Form
+  </li>
+</ol>
+<p style="text-align: justify;">
+  <span style="font-size: large;">We still have some room on some teams so give us a call if you have not signed on with a club</span>
+</p>
+<p style="text-align: justify;">
+  <strong>Fees:</strong>
+</p>
+<p style="text-align: justify;">
+  <strong>U10 - U18 TEAMS $650 per player (Spring &amp; Fall) + $135 uniform costs</strong>
+</p>
+<p style="text-align: justify;">
+  <strong>U14 - U17 HIGH SCHOOL……….…. $425.00 (Spring Only) + $135 uniform costs</strong>
+</p>
+<p style="text-align: justify;">
+  <strong>(These costs include: coaching, referee fees, field rental fees, IYSA D3 league fees, IYSA player registration fees)</strong>
+</p>
+<p>
+  <strong>Please complete the Player Information and Medical Release Forms (located under the Forms link to the left) to bring to tryouts.</strong>
+</p>
+<p>
+  <strong>Contact Jose Franca for more information on tryouts at 208-602-6247</strong>
+</p>
+<p>
+  <strong>* A $100 non refundable deposit will be due at tryouts to secure your place on a team. This will be applied toward your fees.</strong>
+</p></td></tr></table>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com" ><img src="/cm/layout/images/bonzi_logo.png" alt="Club Management Sites by Bonzi Sports Software" border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Neto United. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer" >Soccer Club Management Software</a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>

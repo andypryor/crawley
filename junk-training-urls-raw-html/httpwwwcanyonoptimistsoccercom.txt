@@ -1,0 +1,414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/css/default.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/style.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/threecolumn.css" media="screen,print" />
+	<link rel="stylesheet" type="text/css" href="/sam/admin/include/combine.php?b=/&type=css&cache=1&min=1&files=/sam/admin/include/trinkets/AdvancedPublishingTrinket/style.css,/sam/admin/include/trinkets/BannerTrinket/style.css,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.css,/sam/admin/include/trinkets/SamCalendarTrinket/style.css,/sam/admin/include/trinkets/AnnouncementsTrinket/style.css" /><script src="http://www.canyonoptimistsoccer.org/sam/admin/include/scripts/jquery.min.js"></script><script src="/sam/admin/include/combine.php?b=/&type=javascript&cache=1&min=1&files=/sam/admin/include/trinkets/NavTrinket/navigation.js,/sam/admin/include/trinkets/SamCalendarTrinket/calendar.js,/sam/admin/include/trinkets/SamCalendarTrinket/fullcalendar/fullcalendar.min.js,/sam/admin/include/trinkets/AnnouncementsTrinket/trinket.js"></script>	<link rel="stylesheet" type="text/css" href="/sam/front_core_files/templates/Style1Layout/css/extra.css"/><script type="text/javascript">$(function(){SamCalendarTrinket.init("/sam/admin/admin/calendar/calendar_ajax.php?cmd=getEvents");});</script>	<link rel="stylesheet" type="text/css" href="/cm/layout/css/overrides.css" media="screen,print" />
+</head>
+<body class="layout_threecolumn">
+
+<div class="mainContainer clearfix">
+
+	<a href="/sam/registration/login.php" title="Member Login" class="member_login"></a>
+
+	<!--// begin header //-->
+	<div class="header">
+				<a href="/"><div class="header_home_link"></div></a>
+	</div>
+	<!--// end header //-->
+
+	<!--// begin content //-->
+	<div class="content_bg">
+
+		<!--// begin left column //-->
+		<div class="col_left" align="center">
+
+			<div class="col_left_top">
+			</div>
+
+			<!--// begin widget container //-->
+						<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13211" ></ul>				<div class="v_nav_btm"></div>
+			</div>
+					<div class="nav">
+				<div class="v_nav_top"></div>
+				<ul class="cssMenu cmRight" id="frontMenu-13214" ><li id="mb-76202" class=" cmFirst "><a class="button-text" href="/home.php?layout=308175" style="" target="_top">Home</a><span class="iefix">&nbsp;</span></li><li id="mb-76199" class="  "><a class="button-text" href="/home.php?layout=308176" style="" target="_top">Contact Us</a><span class="iefix">&nbsp;</span></li><li id="mb-76204" class="  "><a class="button-text" href="/home.php?layout=308177" style="" target="_top">Registration</a><span class="iefix">&nbsp;</span></li><li id="mb-76201" class="  "><a class="button-text" href="/FAQ" style="" target="_top">Frequently Asked Questions</a><span class="iefix">&nbsp;</span></li><li id="mb-76205" class="  "><a class="button-text" href="/home.php?layout=308181" style="" target="_top">Sponsorship</a><span class="iefix">&nbsp;</span></li><li id="mb-76200" class="  "><a class="button-text" href="/home.php?layout=308178" style="" target="_top">Coaches</a><span class="iefix">&nbsp;</span></li><li id="mb-76203" class="  "><a class="button-text" href="/home.php?layout=308179" style="" target="_top">Parents</a><span class="iefix">&nbsp;</span></li><li id="mb-76347" class="  "><a class="button-text" href="/summercamp" style="" target="_top">Summer Camp</a><span class="iefix">&nbsp;</span></li><li id="mb-76348" class="  "><a class="button-text" href="/gameschedules" style="" target="_top">Game Schedules</a><span class="iefix">&nbsp;</span></li><li id="mb-76537" class="  cmLast"><a class="button-text" href="/calendar" style="" target="_top">Crossfire Calendar</a><span class="iefix">&nbsp;</span></li></ul>				<div class="v_nav_btm"></div>
+			</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Follow US					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <strong><span style="font-size: medium;">Follow us on Facebook.  "Like" our page!!</span></strong>
+</p>
+<p>
+  <strong><span style="font-size: medium;">  <a href="http://www.facebook.com/CanyonOptimistSoccerClubCrossfire" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;"
+  src="http://www.canyonoptimistsoccer.org/imagedata/facebook8.png" border="0" width="171" height="178" /></a></span></strong>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Treasure Valley SoccerTots					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <a href="http://www.orangeheadsportsacademy.com/search/" target="_blank"><img src="http://www.canyonoptimistsoccer.org/imagedata/soccertotslogom.jpg" border=
+  "0" /></a><strong><span style="font-size: medium;">Do you have little ones that want to play soccer? SoccerTots has classes at Brothers Park for your 2 and 3 year olds. Just click on their logo
+  above or call them for more information. 866-9592</span></strong>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						Donations					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p>
+  <strong><em><span style="font-size: medium;">Crossfire is a NON-PROFIT organization. Help Crossfire to keep our costs low for all soccer players. Please donate to our Soccer Club or become a Club
+  Sponsor. <span style="color: #ff0000; text-decoration: underline;"><a href="http://www.canyonoptimistsoccer.org/sam/registration/" target="_blank"><span style=
+  "color: #ff0000;">Click here to donate</span></a></span>. If you have any <span style="color: #ff0000;"><a href="mailto:poisonivyhunt@yahoo.com" target="_blank"><span style=
+  "color: #ff0000;">questions</span></a></span> please send us an e-mail.</span></em></strong>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end leftcolumn //-->
+
+		<!--// begin center column //-->
+		<div class="col_ctr">
+        
+        	<div class="col_ctr_top">
+			</div>
+
+			<!--// begin widget container //-->
+			<div class="sam_banner"></div>		<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="color: #000000; font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Spring 2015 Recreation Registration is now CLOSED!</strong></span>
+</p>
+<p style="text-align: left;">
+   
+</p>
+<p style="text-align: center;">
+  <span style="font-family: comic sans ms,sans-serif;"><span style="font-size: x-large;"><span style="color: #0000ff; font-size: large;"><strong><img src=
+  "http://www.canyonoptimistsoccer.org/imagedata/Soccer_Dude.jpg" border="0" width="168" height="129" /></strong></span></span></span>
+</p>
+<p style="text-align: center;">
+  <span style="color: #008080;"><strong><span style="font-size: 18pt;">GO CROSSFIRE and INFERNO!!!!</span></strong></span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 18pt;">CONGRATULATIONS to our Player of the Week!!!</span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <img style="float: left;" src="http://www.canyonoptimistsoccer.org/imagedata/Charley.jpg" border="0" />
+</p>
+<p style="text-align: center;">
+  <span style="text-decoration: underline; font-size: 18pt; background-color: #ff0000;"><strong>Charley Hegstad</strong></span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: 12pt;">Charley Hegstad is the U10 Inferno Girls team player of the week. Charley played a solid game in the first half as goaltender and followed that up playing excellent
+  defense in the second half. She is learning how to shield the ball effectively to create time and space for her teammates to support her.</span><br />
+  <br />
+  <span style="font-size: 12pt;">Charley is a 4th grader at Central Canyon and has been playing soccer for 4 years now. Outside of soccer, Charley loves to dance, play with her dog, and spend time
+  with her Family.</span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <strong><span style="color: #8b008b; font-size: large;"><img src="http://www.canyonoptimistsoccer.org/imagedata/eyeballs.jpg" border="0" width="179" height=
+  "142" /></span></strong><strong><span style="color: #8b008b; font-size: large;">For ages 14 and Up: Are you interested in becoming a Referee?</span></strong>
+</p>
+<p style="text-align: center;">
+  <strong><span style="color: #8b008b; font-size: large;">Please contact our Referee Coordinator: <a href="mailto:eajadams@msn.com" target="_blank">Ed Adams</a></span></strong>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <strong><span style="color: #000000; font-size: medium;"><img src="http://www.canyonoptimistsoccer.org/imagedata/Flaming_Soccer_Dude.jpg" border="0" /></span></strong>
+</p>
+<p style="text-align: center;">
+  <span style="color: #ff6600; font-size: large;"><strong><a href="http://www.canyonoptimistsoccer.org/doclib/Air%20Quality%20Guidelines.pdf" target="_blank"><span style=
+  "color: #ff6600;">Click Here for Air Quality Guidelines</span></a></strong></span>
+</p>
+<p style="text-align: center;">
+  <span style="color: #ff6600; font-size: large;"><strong><span style="color: #ff6600;">Check the current rating by going to the</span></strong></span>
+</p>
+<p style="text-align: center;">
+  <span style="color: #ff6600; font-size: large;"><strong><span style="color: #ff6600;"><a href="http://www.deq.idaho.gov/air-quality/monitoring/daily-reports-and-forecasts.aspx" target=
+  "_blank">Daily Air Quality Report</a> for the Treasure Valley.</span></strong></span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: left;">
+  <span style="color: #000000; font-size: large;"><strong><img src="http://www.canyonoptimistsoccer.org/imagedata/Soccer_Ball.jpg" border="0" width="172" height=
+  "175" /><span style="color: #000000; font-size: large;"><strong><img src="http://www.canyonoptimistsoccer.org/imagedata/Soccer_Ball.jpg" border="0" width="172" height=
+  "175" /><span style="color: #000000; font-size: large;"><strong><img src="http://www.canyonoptimistsoccer.org/imagedata/Soccer_Ball.jpg" border="0" width="172" height=
+  "175" /></strong></span></strong></span></strong></span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+   
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						COSC's Mission					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span class="normalchar1"><span style="font-family: 'Tahoma','sans-serif'; color: black; font-size: 10pt;">Canyon Optimist Soccer Club is established to provide the area's youth the opportunity to
+  learn and enjoy the sport of soccer.  Our recreational and competitive programs emphasize the health and welfare of our youth.  We promote the development of soccer skills, understanding of the
+  game, and the enjoyment that comes from playing the world's most popular sport--soccer.</span></span>
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end center column //-->
+
+		<!--// begin right column //-->
+		<div class="col_right" align="center">
+        
+        	<div class="col_right_top">
+			</div>
+
+			<!--// begin widget container //-->
+					<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						2013-2014 Club Sponsors					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div class="advPubTkt-content"><p style="text-align: center;">
+  <span style="font-size: medium;"><em><span style="color: #00ff00;"><strong>A HUGE THANK YOU TO OUR</strong></span></em></span>
+</p>
+<p style="text-align: center;">
+  <span style="font-size: medium;"><em><span style="color: #00ff00;"><strong>CLUB SPONSORS</strong></span></em></span>
+</p>
+<p style="text-align: center;">
+   
+</p>
+<p style="text-align: center;">
+  <img src="http://www.canyonoptimistsoccer.org/imagedata/Optimist_logo.jpg" border="0" width="89" height="97" />
+</p>
+<p>
+   
+</p>
+<p style="text-align: center;">
+  <img src="http://www.canyonoptimistsoccer.org/imagedata/Crookham_logo.bmp" border="0" width="139" height="63" />
+</p>
+<p style="text-align: center;">
+  <img src="http://www.canyonoptimistsoccer.org/imagedata/Collins_Family_Dentisty.png" border="0" width="263" height="92" />
+</p></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						CROSSFIRE CALENDAR					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<div id="samcalendar-1475092942" class="SamCalendarTrinketContainer"></div>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+						CROSSFIRE NEWS					</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+						<ul class="at-AnnouncementsTrinket RT_RssFeed"><li class="item ann-text">
+<h3>Referee Opportunities</h3><span class="date">Posted February 28, 2013</span><div class="at-content"><p><strong><span style="font-size: small;">If you are 14 years old or older and interested in becoming a Crossfire Referee please contact Ed Adams @ 697-6681 for information.</span></strong></p></div></li>
+</ul>					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+					<!--// end widget container //-->
+
+		</div>
+		<!--// end right column //-->
+
+		<div class="clearfix"></div>
+
+	</div>
+    <!--// end content //-->
+    
+	<!--// begin footer //-->
+	<div class="footer" align="right">
+				<div class="wgt_container">
+			<div class="top">
+				<div class="right">
+					<div class="content">
+											</div>
+				</div>
+			</div>
+			<div class="mid">
+				<div class="right">
+					<div class="content" align="left">
+								<div class="bonzi_logo">
+			<a href="http://www.bonzicentral.com " ><img src="/cm/layout/images/bonzi_logo.png" alt="Sports Organization Management Software by Bonzi Sports Software " border="0" /></a>
+		</div>
+		<div class="footer_content">
+				Copyright &copy; 2001 - 2015 Canyon Optimist Soccer Club. All Rights Reserved.<br />
+				<a href="http://www.bonzicentral.com/soccer " >Site for Soccer Clubs </a><br />
+				&copy; 2001 - 2015 <a href="http://www.bonzicentral.com" >Bonzi Technology, Inc.</a>
+		</div>
+						</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="right">
+					<div class="content">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<!--// end footer //-->
+
+</div>
+<!--// end .mainContainer //-->
+
+</body>
+</html>
