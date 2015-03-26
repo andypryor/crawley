@@ -1,0 +1,4 @@
+nutch/build/*
+nutch/docs/*
+nutch/runtime/*
+nutch/src/*
