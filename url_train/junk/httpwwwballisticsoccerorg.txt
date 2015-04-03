@@ -1,0 +1,1094 @@
+Ballistic Soccer Club Welcome to TiddlyWiki created by Jeremy Ruston, Copyright © 2007 UnaMesa Association This page requires JavaScript to function properly. If you are using Microsoft Internet Explorer you may need to click on the yellow bar above and select 'Allow Blocked Content'. You must then click 'Yes' on the following security warning. <!--{{{-->
+<link rel='alternate' type='application/rss+xml' title='RSS' href='index.xml' />
+<!--}}}-->
+ Background: #fff
+Foreground: #000
+PrimaryPale: #8cf
+PrimaryLight: #18f
+PrimaryMid: #04b
+PrimaryDark: #014
+SecondaryPale: #ffc
+SecondaryLight: #fe8
+SecondaryMid: #db4
+SecondaryDark: #841
+TertiaryPale: #eee
+TertiaryLight: #ccc
+TertiaryMid: #999
+TertiaryDark: #666
+Error: #f88
+ /*{{{*/
+body {background:[[ColorPalette::Background]]; color:[[ColorPalette::Foreground]];}
+
+a {color:[[ColorPalette::PrimaryMid]];}
+a:hover {background-color:[[ColorPalette::PrimaryMid]]; color:[[ColorPalette::Background]];}
+a img {border:0;}
+
+h1,h2,h3,h4,h5,h6 {color:[[ColorPalette::SecondaryDark]]; background:transparent;}
+h1 {border-bottom:2px solid [[ColorPalette::TertiaryLight]];}
+h2,h3 {border-bottom:1px solid [[ColorPalette::TertiaryLight]];}
+
+.button {color:[[ColorPalette::PrimaryDark]]; border:1px solid [[ColorPalette::Background]];}
+.button:hover {color:[[ColorPalette::PrimaryDark]]; background:[[ColorPalette::SecondaryLight]]; border-color:[[ColorPalette::SecondaryMid]];}
+.button:active {color:[[ColorPalette::Background]]; background:[[ColorPalette::SecondaryMid]]; border:1px solid [[ColorPalette::SecondaryDark]];}
+
+.header {background:[[ColorPalette::PrimaryMid]];}
+.headerShadow {color:[[ColorPalette::Foreground]];}
+.headerShadow a {font-weight:normal; color:[[ColorPalette::Foreground]];}
+.headerForeground {color:[[ColorPalette::Background]];}
+.headerForeground a {font-weight:normal; color:[[ColorPalette::PrimaryPale]];}
+
+.tabSelected{color:[[ColorPalette::PrimaryDark]];
+	background:[[ColorPalette::TertiaryPale]];
+	border-left:1px solid [[ColorPalette::TertiaryLight]];
+	border-top:1px solid [[ColorPalette::TertiaryLight]];
+	border-right:1px solid [[ColorPalette::TertiaryLight]];
+}
+.tabUnselected {color:[[ColorPalette::Background]]; background:[[ColorPalette::TertiaryMid]];}
+.tabContents {color:[[ColorPalette::PrimaryDark]]; background:[[ColorPalette::TertiaryPale]]; border:1px solid [[ColorPalette::TertiaryLight]];}
+.tabContents .button {border:0;}
+
+#sidebar {}
+#sidebarOptions input {border:1px solid [[ColorPalette::PrimaryMid]];}
+#sidebarOptions .sliderPanel {background:[[ColorPalette::PrimaryPale]];}
+#sidebarOptions .sliderPanel a {border:none;color:[[ColorPalette::PrimaryMid]];}
+#sidebarOptions .sliderPanel a:hover {color:[[ColorPalette::Background]]; background:[[ColorPalette::PrimaryMid]];}
+#sidebarOptions .sliderPanel a:active {color:[[ColorPalette::PrimaryMid]]; background:[[ColorPalette::Background]];}
+
+.wizard {background:[[ColorPalette::PrimaryPale]]; border:1px solid [[ColorPalette::PrimaryMid]];}
+.wizard h1 {color:[[ColorPalette::PrimaryDark]]; border:none;}
+.wizard h2 {color:[[ColorPalette::Foreground]]; border:none;}
+.wizardStep {background:[[ColorPalette::Background]]; color:[[ColorPalette::Foreground]];
+	border:1px solid [[ColorPalette::PrimaryMid]];}
+.wizardStep.wizardStepDone {background:[[ColorPalette::TertiaryLight]];}
+.wizardFooter {background:[[ColorPalette::PrimaryPale]];}
+.wizardFooter .status {background:[[ColorPalette::PrimaryDark]]; color:[[ColorPalette::Background]];}
+.wizard .button {color:[[ColorPalette::Foreground]]; background:[[ColorPalette::SecondaryLight]]; border: 1px solid;
+	border-color:[[ColorPalette::SecondaryPale]] [[ColorPalette::SecondaryDark]] [[ColorPalette::SecondaryDark]] [[ColorPalette::SecondaryPale]];}
+.wizard .button:hover {color:[[ColorPalette::Foreground]]; background:[[ColorPalette::Background]];}
+.wizard .button:active {color:[[ColorPalette::Background]]; background:[[ColorPalette::Foreground]]; border: 1px solid;
+	border-color:[[ColorPalette::PrimaryDark]] [[ColorPalette::PrimaryPale]] [[ColorPalette::PrimaryPale]] [[ColorPalette::PrimaryDark]];}
+
+.wizard .notChanged {background:transparent;}
+.wizard .changedLocally {background:#80ff80;}
+.wizard .changedServer {background:#8080ff;}
+.wizard .changedBoth {background:#ff8080;}
+.wizard .notFound {background:#ffff80;}
+.wizard .putToServer {background:#ff80ff;}
+.wizard .gotFromServer {background:#80ffff;}
+
+#messageArea {border:1px solid [[ColorPalette::SecondaryMid]]; background:[[ColorPalette::SecondaryLight]]; color:[[ColorPalette::Foreground]];}
+#messageArea .button {color:[[ColorPalette::PrimaryMid]]; background:[[ColorPalette::SecondaryPale]]; border:none;}
+
+.popupTiddler {background:[[ColorPalette::TertiaryPale]]; border:2px solid [[ColorPalette::TertiaryMid]];}
+
+.popup {background:[[ColorPalette::TertiaryPale]]; color:[[ColorPalette::TertiaryDark]]; border-left:1px solid [[ColorPalette::TertiaryMid]]; border-top:1px solid [[ColorPalette::TertiaryMid]]; border-right:2px solid [[ColorPalette::TertiaryDark]]; border-bottom:2px solid [[ColorPalette::TertiaryDark]];}
+.popup hr {color:[[ColorPalette::PrimaryDark]]; background:[[ColorPalette::PrimaryDark]]; border-bottom:1px;}
+.popup li.disabled {color:[[ColorPalette::TertiaryMid]];}
+.popup li a, .popup li a:visited {color:[[ColorPalette::Foreground]]; border: none;}
+.popup li a:hover {background:[[ColorPalette::SecondaryLight]]; color:[[ColorPalette::Foreground]]; border: none;}
+.popup li a:active {background:[[ColorPalette::SecondaryPale]]; color:[[ColorPalette::Foreground]]; border: none;}
+.popupHighlight {background:[[ColorPalette::Background]]; color:[[ColorPalette::Foreground]];}
+.listBreak div {border-bottom:1px solid [[ColorPalette::TertiaryDark]];}
+
+.tiddler .defaultCommand {font-weight:bold;}
+
+.shadow .title {color:[[ColorPalette::TertiaryDark]];}
+
+.title {color:[[ColorPalette::SecondaryDark]];}
+.subtitle {color:[[ColorPalette::TertiaryDark]];}
+
+.toolbar {color:[[ColorPalette::PrimaryMid]];}
+.toolbar a {color:[[ColorPalette::TertiaryLight]];}
+.selected .toolbar a {color:[[ColorPalette::TertiaryMid]];}
+.selected .toolbar a:hover {color:[[ColorPalette::Foreground]];}
+
+.tagging, .tagged {border:1px solid [[ColorPalette::TertiaryPale]]; background-color:[[ColorPalette::TertiaryPale]];}
+.selected .tagging, .selected .tagged {background-color:[[ColorPalette::TertiaryLight]]; border:1px solid [[ColorPalette::TertiaryMid]];}
+.tagging .listTitle, .tagged .listTitle {color:[[ColorPalette::PrimaryDark]];}
+.tagging .button, .tagged .button {border:none;}
+
+.footer {color:[[ColorPalette::TertiaryLight]];}
+.selected .footer {color:[[ColorPalette::TertiaryMid]];}
+
+.sparkline {background:[[ColorPalette::PrimaryPale]]; border:0;}
+.sparktick {background:[[ColorPalette::PrimaryDark]];}
+
+.error, .errorButton {color:[[ColorPalette::Foreground]]; background:[[ColorPalette::Error]];}
+.warning {color:[[ColorPalette::Foreground]]; background:[[ColorPalette::SecondaryPale]];}
+.lowlight {background:[[ColorPalette::TertiaryLight]];}
+
+.zoomer {background:none; color:[[ColorPalette::TertiaryMid]]; border:3px solid [[ColorPalette::TertiaryMid]];}
+
+.imageLink, #displayArea .imageLink {background:transparent;}
+
+.annotation {background:[[ColorPalette::SecondaryLight]]; color:[[ColorPalette::Foreground]]; border:2px solid [[ColorPalette::SecondaryMid]];}
+
+.viewer .listTitle {list-style-type:none; margin-left:-2em;}
+.viewer .button {border:1px solid [[ColorPalette::SecondaryMid]];}
+.viewer blockquote {border-left:3px solid [[ColorPalette::TertiaryDark]];}
+
+.viewer table, table.twtable {border:2px solid [[ColorPalette::TertiaryDark]];}
+.viewer th, .viewer thead td, .twtable th, .twtable thead td {background:[[ColorPalette::SecondaryMid]]; border:1px solid [[ColorPalette::TertiaryDark]]; color:[[ColorPalette::Background]];}
+.viewer td, .viewer tr, .twtable td, .twtable tr {border:1px solid [[ColorPalette::TertiaryDark]];}
+
+.viewer pre {border:1px solid [[ColorPalette::SecondaryLight]]; background:[[ColorPalette::SecondaryPale]];}
+.viewer code {color:[[ColorPalette::SecondaryDark]];}
+.viewer hr {border:0; border-top:dashed 1px [[ColorPalette::TertiaryDark]]; color:[[ColorPalette::TertiaryDark]];}
+
+.highlight, .marked {background:[[ColorPalette::SecondaryLight]];}
+
+.editor input {border:1px solid [[ColorPalette::PrimaryMid]];}
+.editor textarea {border:1px solid [[ColorPalette::PrimaryMid]]; width:100%;}
+.editorFooter {color:[[ColorPalette::TertiaryMid]];}
+
+#backstageArea {background:[[ColorPalette::Foreground]]; color:[[ColorPalette::TertiaryMid]];}
+#backstageArea a {background:[[ColorPalette::Foreground]]; color:[[ColorPalette::Background]]; border:none;}
+#backstageArea a:hover {background:[[ColorPalette::SecondaryLight]]; color:[[ColorPalette::Foreground]]; }
+#backstageArea a.backstageSelTab {background:[[ColorPalette::Background]]; color:[[ColorPalette::Foreground]];}
+#backstageButton a {background:none; color:[[ColorPalette::Background]]; border:none;}
+#backstageButton a:hover {background:[[ColorPalette::Foreground]]; color:[[ColorPalette::Background]]; border:none;}
+#backstagePanel {background:[[ColorPalette::Background]]; border-color: [[ColorPalette::Background]] [[ColorPalette::TertiaryDark]] [[ColorPalette::TertiaryDark]] [[ColorPalette::TertiaryDark]];}
+.backstagePanelFooter .button {border:none; color:[[ColorPalette::Background]];}
+.backstagePanelFooter .button:hover {color:[[ColorPalette::Foreground]];}
+#backstageCloak {background:[[ColorPalette::Foreground]]; opacity:0.6; filter:'alpha(opacity=60)';}
+/*}}}*/ /*{{{*/
+* html .tiddler {height:1%;}
+
+body {font-size:.75em; font-family:arial,helvetica; margin:0; padding:0;}
+
+h1,h2,h3,h4,h5,h6 {font-weight:bold; text-decoration:none;}
+h1,h2,h3 {padding-bottom:1px; margin-top:1.2em;margin-bottom:0.3em;}
+h4,h5,h6 {margin-top:1em;}
+h1 {font-size:1.35em;}
+h2 {font-size:1.25em;}
+h3 {font-size:1.1em;}
+h4 {font-size:1em;}
+h5 {font-size:.9em;}
+
+hr {height:1px;}
+
+a {text-decoration:none;}
+
+dt {font-weight:bold;}
+
+ol {list-style-type:decimal;}
+ol ol {list-style-type:lower-alpha;}
+ol ol ol {list-style-type:lower-roman;}
+ol ol ol ol {list-style-type:decimal;}
+ol ol ol ol ol {list-style-type:lower-alpha;}
+ol ol ol ol ol ol {list-style-type:lower-roman;}
+ol ol ol ol ol ol ol {list-style-type:decimal;}
+
+.txtOptionInput {width:11em;}
+
+#contentWrapper .chkOptionInput {border:0;}
+
+.externalLink {text-decoration:underline;}
+
+.indent {margin-left:3em;}
+.outdent {margin-left:3em; text-indent:-3em;}
+code.escaped {white-space:nowrap;}
+
+.tiddlyLinkExisting {font-weight:bold;}
+.tiddlyLinkNonExisting {font-style:italic;}
+
+/* the 'a' is required for IE, otherwise it renders the whole tiddler in bold */
+a.tiddlyLinkNonExisting.shadow {font-weight:bold;}
+
+#mainMenu .tiddlyLinkExisting,
+	#mainMenu .tiddlyLinkNonExisting,
+	#sidebarTabs .tiddlyLinkNonExisting {font-weight:normal; font-style:normal;}
+#sidebarTabs .tiddlyLinkExisting {font-weight:bold; font-style:normal;}
+
+.header {position:relative;}
+.header a:hover {background:transparent;}
+.headerShadow {position:relative; padding:4.5em 0 1em 1em; left:-1px; top:-1px;}
+.headerForeground {position:absolute; padding:4.5em 0 1em 1em; left:0px; top:0px;}
+
+.siteTitle {font-size:3em;}
+.siteSubtitle {font-size:1.2em;}
+
+#mainMenu {position:absolute; left:0; width:10em; text-align:right; line-height:1.6em; padding:1.5em 0.5em 0.5em 0.5em; font-size:1.1em;}
+
+#sidebar {position:absolute; right:3px; width:16em; font-size:.9em;}
+#sidebarOptions {padding-top:0.3em;}
+#sidebarOptions a {margin:0 0.2em; padding:0.2em 0.3em; display:block;}
+#sidebarOptions input {margin:0.4em 0.5em;}
+#sidebarOptions .sliderPanel {margin-left:1em; padding:0.5em; font-size:.85em;}
+#sidebarOptions .sliderPanel a {font-weight:bold; display:inline; padding:0;}
+#sidebarOptions .sliderPanel input {margin:0 0 0.3em 0;}
+#sidebarTabs .tabContents {width:15em; overflow:hidden;}
+
+.wizard {padding:0.1em 1em 0 2em;}
+.wizard h1 {font-size:2em; font-weight:bold; background:none; padding:0; margin:0.4em 0 0.2em;}
+.wizard h2 {font-size:1.2em; font-weight:bold; background:none; padding:0; margin:0.4em 0 0.2em;}
+.wizardStep {padding:1em 1em 1em 1em;}
+.wizard .button {margin:0.5em 0 0; font-size:1.2em;}
+.wizardFooter {padding:0.8em 0.4em 0.8em 0;}
+.wizardFooter .status {padding:0 0.4em; margin-left:1em;}
+.wizard .button {padding:0.1em 0.2em;}
+
+#messageArea {position:fixed; top:2em; right:0; margin:0.5em; padding:0.5em; z-index:2000; _position:absolute;}
+.messageToolbar {display:block; text-align:right; padding:0.2em;}
+#messageArea a {text-decoration:underline;}
+
+.tiddlerPopupButton {padding:0.2em;}
+.popupTiddler {position: absolute; z-index:300; padding:1em; margin:0;}
+
+.popup {position:absolute; z-index:300; font-size:.9em; padding:0; list-style:none; margin:0;}
+.popup .popupMessage {padding:0.4em;}
+.popup hr {display:block; height:1px; width:auto; padding:0; margin:0.2em 0;}
+.popup li.disabled {padding:0.4em;}
+.popup li a {display:block; padding:0.4em; font-weight:normal; cursor:pointer;}
+.listBreak {font-size:1px; line-height:1px;}
+.listBreak div {margin:2px 0;}
+
+.tabset {padding:1em 0 0 0.5em;}
+.tab {margin:0 0 0 0.25em; padding:2px;}
+.tabContents {padding:0.5em;}
+.tabContents ul, .tabContents ol {margin:0; padding:0;}
+.txtMainTab .tabContents li {list-style:none;}
+.tabContents li.listLink { margin-left:.75em;}
+
+#contentWrapper {display:block;}
+#splashScreen {display:none;}
+
+#displayArea {margin:1em 17em 0 14em;}
+
+.toolbar {text-align:right; font-size:.9em;}
+
+.tiddler {padding:1em 1em 0;}
+
+.missing .viewer,.missing .title {font-style:italic;}
+
+.title {font-size:1.6em; font-weight:bold;}
+
+.missing .subtitle {display:none;}
+.subtitle {font-size:1.1em;}
+
+.tiddler .button {padding:0.2em 0.4em;}
+
+.tagging {margin:0.5em 0.5em 0.5em 0; float:left; display:none;}
+.isTag .tagging {display:block;}
+.tagged {margin:0.5em; float:right;}
+.tagging, .tagged {font-size:0.9em; padding:0.25em;}
+.tagging ul, .tagged ul {list-style:none; margin:0.25em; padding:0;}
+.tagClear {clear:both;}
+
+.footer {font-size:.9em;}
+.footer li {display:inline;}
+
+.annotation {padding:0.5em; margin:0.5em;}
+
+* html .viewer pre {width:99%; padding:0 0 1em 0;}
+.viewer {line-height:1.4em; padding-top:0.5em;}
+.viewer .button {margin:0 0.25em; padding:0 0.25em;}
+.viewer blockquote {line-height:1.5em; padding-left:0.8em;margin-left:2.5em;}
+.viewer ul, .viewer ol {margin-left:0.5em; padding-left:1.5em;}
+
+.viewer table, table.twtable {border-collapse:collapse; margin:0.8em 1.0em;}
+.viewer th, .viewer td, .viewer tr,.viewer caption,.twtable th, .twtable td, .twtable tr,.twtable caption {padding:3px;}
+table.listView {font-size:0.85em; margin:0.8em 1.0em;}
+table.listView th, table.listView td, table.listView tr {padding:0px 3px 0px 3px;}
+
+.viewer pre {padding:0.5em; margin-left:0.5em; font-size:1.2em; line-height:1.4em; overflow:auto;}
+.viewer code {font-size:1.2em; line-height:1.4em;}
+
+.editor {font-size:1.1em;}
+.editor input, .editor textarea {display:block; width:100%; font:inherit;}
+.editorFooter {padding:0.25em 0; font-size:.9em;}
+.editorFooter .button {padding-top:0px; padding-bottom:0px;}
+
+.fieldsetFix {border:0; padding:0; margin:1px 0px;}
+
+.sparkline {line-height:1em;}
+.sparktick {outline:0;}
+
+.zoomer {font-size:1.1em; position:absolute; overflow:hidden;}
+.zoomer div {padding:1em;}
+
+* html #backstage {width:99%;}
+* html #backstageArea {width:99%;}
+#backstageArea {display:none; position:relative; overflow: hidden; z-index:150; padding:0.3em 0.5em;}
+#backstageToolbar {position:relative;}
+#backstageArea a {font-weight:bold; margin-left:0.5em; padding:0.3em 0.5em;}
+#backstageButton {display:none; position:absolute; z-index:175; top:0; right:0;}
+#backstageButton a {padding:0.1em 0.4em; margin:0.1em;}
+#backstage {position:relative; width:100%; z-index:50;}
+#backstagePanel {display:none; z-index:100; position:absolute; width:90%; margin-left:3em; padding:1em;}
+.backstagePanelFooter {padding-top:0.2em; float:right;}
+.backstagePanelFooter a {padding:0.2em 0.4em;}
+#backstageCloak {display:none; z-index:20; position:absolute; width:100%; height:100px;}
+
+.whenBackstage {display:none;}
+.backstageVisible .whenBackstage {display:block;}
+/*}}}*/
+ /***
+StyleSheet for use when a translation requires any css style changes.
+This StyleSheet can be used directly by languages such as Chinese, Japanese and Korean which need larger font sizes.
+***/
+/*{{{*/
+body {font-size:0.8em;}
+#sidebarOptions {font-size:1.05em;}
+#sidebarOptions a {font-style:normal;}
+#sidebarOptions .sliderPanel {font-size:0.95em;}
+.subtitle {font-size:0.8em;}
+.viewer table.listView {font-size:0.95em;}
+/*}}}*/ /*{{{*/
+@media print {
+#mainMenu, #sidebar, #messageArea, .toolbar, #backstageButton, #backstageArea {display: none !important;}
+#displayArea {margin: 1em 1em 0em;}
+noscript {display:none;} /* Fixes a feature in Firefox 1.5.0.2 where print preview displays the noscript content */
+}
+/*}}}*/ <!--{{{-->
+<div class='header' macro='gradient vert [[ColorPalette::PrimaryLight]] [[ColorPalette::PrimaryMid]]'>
+<div class='headerShadow'>
+<span class='siteTitle' refresh='content' tiddler='SiteTitle'></span>&nbsp;
+<span class='siteSubtitle' refresh='content' tiddler='SiteSubtitle'></span>
+</div>
+<div class='headerForeground'>
+<span class='siteTitle' refresh='content' tiddler='SiteTitle'></span>&nbsp;
+<span class='siteSubtitle' refresh='content' tiddler='SiteSubtitle'></span>
+</div>
+</div>
+<div id='mainMenu' refresh='content' tiddler='MainMenu'></div>
+<div id='sidebar'>
+<div id='sidebarOptions' refresh='content' tiddler='SideBarOptions'></div>
+<div id='sidebarTabs' refresh='content' force='true' tiddler='SideBarTabs'></div>
+</div>
+<div id='displayArea'>
+<div id='messageArea'></div>
+<div id='tiddlerDisplay'></div>
+</div>
+<!--}}}--> <!--{{{-->
+<div class='toolbar' macro='toolbar [[ToolbarCommands::ViewToolbar]]'></div>
+<div class='title' macro='view title'></div>
+<div class='subtitle'><span macro='view modifier link'></span>, <span macro='view modified date'></span> (<span macro='message views.wikified.createdPrompt'></span> <span macro='view created date'></span>)</div>
+<div class='tagging' macro='tagging'></div>
+<div class='tagged' macro='tags'></div>
+<div class='viewer' macro='view text wikified'></div>
+<div class='tagClear'></div>
+<!--}}}--> <!--{{{-->
+<div class='toolbar' macro='toolbar [[ToolbarCommands::EditToolbar]]'></div>
+<div class='title' macro='view title'></div>
+<div class='editor' macro='edit title'></div>
+<div macro='annotations'></div>
+<div class='editor' macro='edit text'></div>
+<div class='editor' macro='edit tags'></div><div class='editorFooter'><span macro='message views.editor.tagPrompt'></span><span macro='tagChooser excludeLists'></span></div>
+<!--}}}--> To get started with this blank [[TiddlyWiki]], you'll need to modify the following tiddlers:
+* [[SiteTitle]] & [[SiteSubtitle]]: The title and subtitle of the site, as shown above (after saving, they will also appear in the browser title bar)
+* [[MainMenu]]: The menu (usually on the left)
+* [[DefaultTiddlers]]: Contains the names of the tiddlers that you want to appear when the TiddlyWiki is opened
+You'll also need to enter your username for signing your edits: <<option txtUserName>> These [[InterfaceOptions]] for customising [[TiddlyWiki]] are saved in your browser
+
+Your username for signing your edits. Write it as a [[WikiWord]] (eg [[JoeBloggs]])
+
+<<option txtUserName>>
+<<option chkSaveBackups>> [[SaveBackups]]
+<<option chkAutoSave>> [[AutoSave]]
+<<option chkRegExpSearch>> [[RegExpSearch]]
+<<option chkCaseSensitiveSearch>> [[CaseSensitiveSearch]]
+<<option chkAnimate>> [[EnableAnimations]]
+
+----
+Also see [[AdvancedOptions]] <<importTiddlers>> Ballistic Soccer Club fields teams for young men and women in the U13 through U18/U19 age groups. The club is based in Idaho Falls, Idaho, and is affiliated with the [[Bonneville Youth Soccer League|http://www.byslsoccer.org/]]. League play is under [[Idaho Youth Soccer Association|http://www.idahoyouthsoccer.org/]]'s Region II Snake River League, facing teams from Eastern Idaho. Teams regularly compete in local and regional tournaments, including IYSA's Idaho State Cup and [[tournaments|Tournaments]] throughout Idaho and neighboring states including Utah, Nevada, and Montana.
+<html>
+<div class="photo-holder" id="ph4">
+<div class="captioned-photo">
+<img class="photo" src="imgs/a00005.jpg" /><div class="caption">BSC U15, PVSC Spring Classic Tournament, Pocatello, ID - Spring 2012<br /><em>(Photo credit: Laura Garcia)</em></div>
+</div>
+</div>
+</html>
+''//The goals of the Ballistic Soccer Club are to://''
+*Promote and cultivate each player's respect and passion for the game of soccer.
+*Develop players with technical skill, training discipline, knowledge of the game, and a personal creative playing style.
+*Create a club environment based on the interdependence of the individual, the team, and the club, and teach players and coaches their respective responsibilities in that environment.
+*Maintain the highest standards of ethical conduct and sportsmanship.
+''//In order to achieve its goals, the Ballistic Soccer Club will://''
+*''Club:'' Establish strong club identity and unity, valuing the club's ability to fulfill its mission above the ambitions of individual players, parents, or coaches. Continue to promote the club's legacy of excellence.
+*''Coaches:'' Create a unified coaching staff by establishing an overarching coaching philosophy, encouraging adherence at all levels to that philosophy, promoting an open dialogue among all coaches regarding the continual development of that philosophy, encouraging mutual support and the exchange of training ideas and methods among coaches, and encouraging coaches to consider themselves coaches of the club as a whole. Recruit coaches that are dedicated to the club's mission and to the club's stated means of achieving that mission. Provide training and education opportunities for the club's coaches.
+*''Players:'' Create an environment that promotes a love and respect for soccer, understanding that no player can reach their full potential without becoming a passionate fan and student of the game. Teach players that the values that give them success in soccer are the fundamental elements for excellence in any aspect of their lives and that regardless of ability, there is fun and value in pushing beyond perceived limitations, developing self-confidence, learning to compete, and believing that individual efforts make a difference for self, team, and club. Create quality opportunities to compete, understanding that these values are best taught through competition. This Web notebook is a [[TiddylyWiki|http://www.tiddlywiki.com]] (version <<version>>), a single HTML file which has all the characteristics of a Wiki (think Wikipedia, for example) including all of the content, the functionality (including editing, saving, tagging, and searching), and the styling and layout that controls the presentation. Because it's a single file, it's very portable - you can email it, put it on a web server, or share it. It is also very simple to maintain and update the content, and fairly straightforward to customize.
+
+The theme used here is called ~MonochromeBSC, is the work of Ron Stewart, and is based on the [[Monochrome theme|http://tiddlythemes.com/empties/Monochrome.html]] developed by Saq Imtiaz. !!! May 2012
+<html>
+<div class="photo-holder" id="ph5">
+<div class="captioned-photo">
+<img class="photo" src="imgs/bsc-2012-u15.jpg" /><div class="caption">BSC U15, IYSA State Cup Tournament, Boise, ID - Spring 2012<br /><em>(Photo credit: Laura Garcia)</em></div>
+</div>
+</div>
+</html>
+''BSC U15 Boys Finish 3rd at IYSA State Cup:'' BSC's U15 boys team wrapped up their Spring 2012 season with a 3rd place finish at the IYSA State Cup tournament in Boise over Memorial Day weekend. The team completed pool play with a pair of wins over Coeur d'Alene Sting and Lakeland sandwiched around a 2-1 loss to PVSC Galaxy (who went on to take the U15 boys title). Their 2-0-1 record qualified them for the 3rd/4th place match on the final day of the tournament where they finished with a 4-2 defeat of Boise's Super Nova U15, finishing 3rd overall.
+
+!!! August 2011
+''Ballistic Soccer Club Announces Changes:'' Over the summer, the Ballistic Soccer Club's Board of Directors has spent time evaluating where we are as a club and where we are headed. We are pleased to publicly share three immediate outcomes of this evaluation:
+# As a Board and as a club, we have always relied on the club's mission statement to guide our decision making. As part of this summer's effort, we have revisited and updated our mission and vision statement to refine our public declaration of what we as a club stand for, what we as a club strive to offer, and how we as a club will work to fulfill that mission and realize our vision of a soccer club. Our updated mission statement is summarized in [[About Ballistic SC]].
+# We are pleased to announce that Mackay Hanks has been elected to the role of President of Ballistic Soccer Club as we begin our preparations for the coming season in the next few weeks. 
+# We have revised the club's bylaws to support the club in fielding teams for girls in addition to the teams the club has historically fielded for boys. We view this as a natural evolution for the club, and are excited about the opportunity to bring our club's philosophy and experience to both young men and women involved in youth soccer in eastern Idaho.
+These are the first of what we hope to be an on-going series of steps to refocus and re-energize the Ballistic Soccer Club. We hope you will join us in providing a positive and unique soccer experience for eastern Idaho.
+
+!!! May 2011
+''BSC U18 and U14 Teams Win Idaho Falls Shootout Titles:'' BSC's U18 and U14 teams won their respective age groups at the 2011 Idaho Falls Shootout tournament.  The U18 team was undefeated, winning matches against BSC U17 (2-1), Madison Dragons U19 (3-1), and PVSC U18 (3-0). The U14 team was also undefeated in their age group, and won the title in a shootout following an extra-time 3-3 draw with Xtreme U14.
+
+!!!April 2011
+''BSC U18 and U14 Teams Place 2nd at FC Nova Performance Cup:'' BSC's U18 and U14 team both placed 2nd in their respective age groups at the 2011 FC Nova Performance Cup tournament in April 2011, held in Boise, ID. Both teams placed second, losing close matches in the tournament finals.
+
+''BSC U14 Team Wins PVSC Spring Classic:'' BSC's U14 team won the U14 age division at the 2011 PVSC Spring Classic in Pocatallo, ID, finishing the tournament undefeated and unscored upon. BSC's U18 and U17 teams finished tied for third place in the U17/18/19 division behind strong teams from Helena and Billings, MT.
+
+!!!We're on Facebook
+Search for "Ballistic Soccer Club" or go [[here|http://www.facebook.com/group.php?gid=367833014550&ref=nf]]; club news will also be posted there.
+
+!!!News Archive
+Past news items are available in our [[archive|BSC Club News Archive]]. !!! May 2010
+''Idaho Falls Shootout:'' All of the BSC teams participated in the Idaho Falls Shootout tournament the weekend of May 14-16; results for all matches:
+*''Friday's matches:''<html><br />Ballistic SC U13 v Odyssey: 5-0 (W)<br />Ballistic SC U16 v Xtreme U15: 5-2 (W)<br />Ballistic SC U17 v Xtreme U18: 4-3 (W)<br />&nbsp;</html>
+*''Saturday's matches:''<html><br />Ballistic SC U13 - Teton: 0-3 (L)<br />Ballistic SC U13 - Butte: 3-2 (W)<br />Ballistic SC U14 - Wood River: 0-2 (L)<br />Ballistic SC U14 - PVSC: 0-4 (L)<br />Ballistic SC U15 - PVSC: 0-3 (L)<br />Ballistic SC U15 - Magic City: 0-5 (L)<br />Ballistic SC U16 - BYSL United: 5-0 (W)<br />Ballistic SC U16 - Teton: 1-0 (W)<br />Ballistic SC U17 - Wood River: 2-1 (W)<br />Ballistic SC U18/19 - TF Rapids U17: 2-0 (W)<br />&nbsp;</html>
+*''Sunday's matches:''<html><br />Ballistic SC U14 - Sparta: 0-3 (L)<br />Ballistic SC U15 - TF Rapids: 1-2 (L)<br />Ballistic SC U16 - PVSC U16: 2-1 (W, final)<br />Ballistic SC U17 - PVSC U18: 0-0 (W on kicks, semi-final)<br />Ballistic SC U17 - FC Athletico: 4-3 (W, final)<br />Ballistic SC U18/19 - Spartans: 2-7 (L)<br />Ballistic SC U18/19 - Polson FC: 2-2 (D)<br />&nbsp;</html>
+*''Top finishes:''<html><br />Ballistic SC U16 - 1st<br />Ballistic SC U17 - 1st<br />Ballistic SC U18/19 - 2nd<br />&nbsp;</html>
+
+''BSC U15 Wins PVSC Friendship Cup:'' The BSC U15 team took first place in the U15 Gold bracket of the PVSC Friendship Cup, held in Pocatello, ID over the weekend of May 8. The team was undefeated for the tournament, with wins over Kuna, BYSL United, and Madison Allred.
+
+''BSC U17 Wins Capitals Performance Cup:'' The BSC U17 team took first place in the U19 men's "Idaho" age group of the Capitals Performance Cup tournament in Boise over the weekend of May 2 and 3, with wins against Boise Nationals U17, Missoula Strikers U18 Premier, Boise Nationals U16 Premier, Boise Capitals U18 Premier.
+
+!!! April 2010
+''PVSC 2010 Spring Classic:'' All of the BSC teams participated in the PVSC 2010 Spring Classic tournament in Pocatello over the weekend of April 16-18. Results for all matches:
+* ''Friday's matches:''<html><br />Ballistic SC U15 v Odyssey: 2-0 W<br />PVSC Premier v Ballistic SC U16: 2-8 W<br />PVSC Premier v Ballistic SC U18/19: 5-2 L<br />&nbsp;</html>
+* ''Saturday's matches:''<html><br />Ballistic SC U13 v Extreme Cortez: 3-5 L<br />PVSC Premier v Ballistic SC U13: 9-1 L<br />BNSC v Ballistic SC U14: 3-2 L<br />Bozeman Blitzz v Ballistic SC U14: 2-0 L<br />Ballistic SC U15 v Xtreme: 1-5 L<br />Ballistic SC U15 v Magic City White: 0-5 L<br />Ballistic SC U16 v Mining City Marauders: 1-1 (W on kicks)<br />Flathead Force v Ballistic SC U17: 2-2 (L on kicks)<br />Ballistic SC U17 v FC Athletico: 0-2 L<br />Xtreme v Ballistic SC U18/19: 1-6 W<br />&nbsp;</html>
+* ''Sunday's matches:''<html><br />BNSC Roma v Ballistic SC U13: 5-0 L<br />Magic City v Ballistic SC U14: 3-0 L<br />Ballistic SC U16 v Magic City White: 0-4 L<br />BYSA Spartans v Ballistic SC U16: 7-1 L<br />FC Athletico v Ballistic SC U18/19 (Semi-final): 6-3 L<br />Xtreme v Ballistic SC U17: 1-6 W<br />&nbsp;</html>
+* ''Top finishes:''<html><br />Ballistic SC U16 - 3rd<br />Ballistic SC U18/19 - 3rd</html>
+
+!!! March 2010
+''Match Schedules:'' Parents and players: As of March 20, BYSL/SRL has finalized the league match schedule for the Spring 2010 season. The full schedule is available at http://www.allprosoftware.net/snakeriverleague/ -- as always, please follow up with your coach if you have questions.
+ !!! Former BSC Players in College
+* Erik Henrickson (Adams State College, NCAA Div. II, 2011-present)
+* Kiefer Lee (North Idaho College, NJCAA, 2011-2012)
+* Dawson ~McKay (Westminster College, NAIA, 2011-2012)
+* Nicko Moreno (College of Idaho, NAIA, 2011-present)
+* Eliseo Santana (North Idaho College, NJCAA, 2011-present)
+* Michael Meyer (College of Idaho, NAIA, 2010-present)
+* Jeff Hampton (Laramie County Community College, NJCAA, 2009-2010)
+* Alex Wixom (Laramie County Community College, NJCAA, 2009; Southern Virginia University, NAIA, 2010-present)
+* Trevor Spielman (College of Idaho, NAIA, 2008-present)
+* Nic Duncan (Westminster College, NAIA, 2007-2010)
+* Chris Arellano (Wenatchee Community College, NJCAA, 2006-2007; Northwest Nazarene, NCAA Div. II, 2008-2010)
+* John Wilkins (Colorado Christian University, NCAA Div. II, 2006-2007; Concordia University, NAIA, 2008-2010)
+* Chris Exley (Westminster College, NAIA, 2006-2007)
+* Matt ~Nukaya-Heady (Westminster College, NAIA, 2006)
+* Evan Grayson (Westminster College, NAIA, 2006)
+* Jake Wohlschiegel (Westminster College, NAIA, 2005-2006)
+* Jonathon Parker (Westminster College, NAIA, 2005)
+* Nik Rule (William Penn University, NAIA, 2005-present)
+* Sean Murphy (Greenville College, NCAA Div. III, 2005-2007)
+* George Josten (Gonzaga University, NCAA Div. I, 2004-2007)
+* Garga Caserta (Northern Idaho College, NJCAA, 2004-2005; College of Idaho, NAIA, 2008-2009)
+* Mike Hildebrandt (Northern Idaho College, NJCAA, 2004-2005)
+* Greg Brown (Orange Coast College, NJCAA, 2004-2005)
+* Jason Wilkins (Penn State University, NCAA Div. I, 2003-2005)
+* Matt Gendron (Treasure Valley CC, NJCAA, 2003-2004)
+* Mark Oliver (Pacific Lutheran University, NCAA Div. II, 2002-2004)
+* Tyler Rutz (Northern Idaho College, NJCAA, 2002-2003; Gonzaga University, NCAA Div. I, 2004)
+* Scott Briggs (Northern Idaho College, NJCAA, 2001-2002)
+* Tom Jorgensen (Northern Idaho College, NJCAA, 2001-2002)
+* Bryan Hamilton (Whitman College, NCAA Div. II, 1999-2002)
+
+!!! Former BSC Players of Note
+<html>
+<div class="photo-wrapper">
+<div class="photo-holder" id="ph1">
+<div class="captioned-photo">
+<img class="photo" src="imgs/georgejosten-portlandtimbers.jpg" /><div class="caption">George Josten, Portland Timbers, 2009</div>
+<img class="photo" src="imgs/bsc-u18-georgejosten.jpg" /><div class="caption">George Josten, BSC U18, 2004</div>
+</div>
+</div>
+<p><b>George Josten</b> attended Gonzaga University (NCAA Div. I) in the fall of 2004 as a freshman walk-on and quickly established himself as a key player in the squad over the next two years, eventually finishing his college career 3rd on the Gonzaga all-time scoring list. In the spring of 2008, George was participated in the Major League Soccer (MLS) combine and was drafted in the 2nd round.  George spent one season plying his trade with the Columbus Crew of MLS. George currently plays for the Portland Timbers of United Soccer League's First Division starting 7 matches and appearing in 17 matches so far during the 2010 season, and having started 19 matches in the 2009 regular season with 5 goals including a two-goal performance in the final match of the 2009 regular season.</p>
+</div>
+<div class="photo-wrapper">
+<div class="photo-holder" id="ph2">
+<div class="captioned-photo">
+<img class="photo" src="imgs/bsc-u18-gargacaserta.jpg" /><div class="caption">Garga Caserta, BSC U18, 2004</div>
+</div>
+</div>
+<p>In the spring of 2006, <b>Garga Caserta</b> was invited to participate in a tryout with Chivas USA of MLS. Although the tryout did not result in a contract with the professional club, Garga loved the experience of playing with the professional players and plans on having another go at the professional level after finishing off his college career.</p>
+</div>
+</html> !!! IYSA State Cup Results (Top 4 Finishes)
+* 2012
+** 3rd place: U15
+* 2009
+** 3rd place: U18
+** 4th place: U15
+* 2008
+** 4th place: U14, U17
+* 2007
+** 3rd place: U18
+* 2006
+** 3rd place: U15, U17
+** 4th place: u13
+* 2005
+** 3rd place: U17
+* 2004
+** 2nd place: U18
+** 3rd place: U13
+* 2003
+** 3rd place: U17
+* 2002
+** 2nd place: U16
+** 3rd place: U18
+* 2001
+** 2nd place: U17
+
+!!! USYSA Far West Regional Results
+* 2001: U17 -- 16th place
+
+!!! Recent Tournament Results (Top 3 Finishes)
+* 2012
+** Idaho Falls Shootout
+*** 2nd place: U15, U18
+** FC Nova Performance Cup
+*** 1st place: U15
+*** 2nd place: U18
+** PVSC Spring Classic
+*** 1st place: U15
+* 2011
+** Idaho Falls Shootout
+*** 1st place: U14, U18
+** FC Nova Performance Cup
+*** 2nd place: U14, U18
+** Stockman Bank Magic City Classic (Billings, MT)
+*** 3rd place: U17
+** PVSC Spring Classic
+*** 1st place: U14
+*** 3rd place: U17, U18
+* 2010
+** Idaho Falls Shootout
+*** 1st place: U16, U17
+*** 2nd place: U18/19
+** PSVC Friendship Cup
+*** 1st place: U15
+** Capitals Performance Cup
+*** 1st place: U17 (U19 men's "Idaho" division)
+** PVSC Spring Classic
+*** 3rd place: U16, U18/19
+* 2009
+** Canyon Rim Classic (Twin Falls, ID)
+*** 1st place: U16
+*** 2nd place: U14
+** Idaho Falls Shootout (Idaho Falls, ID)
+*** 1st place: U18
+** Park City Extreme Cup (Park City, UT)
+*** 1st place: U16 (U18 division)
+** PVSC Spring Classic (Pocatello, ID)
+*** 1st place: U18
+*** 2nd place: U16
+* 2008
+** Capitals Performance Cup (Boise, ID)
+*** 2nd place: U15
+** Les Bois Invitational (Boise, ID)
+*** 2nd place: U17
+** PVSC Spring Classic (Pocatello, ID)
+*** 1st place: U15
+*** 2nd place: U17
+** Idaho Falls Shootout (Idaho Falls, ID)
+*** 1st place: U15, U17
+* 2007
+** Silver State Invitational (Las Vegas, NV)
+*** 1st place: U18
+** Capitals Performance Cup (Boise, ID)
+*** 1st place: U18
+*** 2nd place: U16
+** Les Bois Invitational (Boise, ID)
+*** 2nd place: U16
+** PVSC Spring Classic (Pocatello, ID)
+*** 1st place: U18
+*** 2nd place: U16
+** Idaho Falls Shootout (Idaho Falls, ID)
+*** 1st place: U18
+*** 2nd place: U13, U14, U15 Ballistic Soccer Club's Board of Directors consists of
+* ''President'' Mackay Hanks
+** E-mail: mackay@hankslawoffice.com
+** Telephone: (208) 390-6749
+* ''~Vice-President:'' Nick Josten
+** E-mail: gsense@cableone.net
+* ''Director of Coaching:'' Chuck Stuart
+** E-mail: stuart@srv.net
+* ''Treasurer:'' Tony Appelhans
+** E-mail: tony.appelhans@gmail.com
+* ''Board Member:'' Reese Jones
+** E-mail: reese_d_jones@hotmail.com
+* ''Board Member:'' Mike Lehto
+** E-mail: michael.lehto@inl.gov
+* ''Board Member:'' Ron Stewart
+** E-mail: ron.stewart@gmail.com
+ BSC coaches (and their qualifications) for the Spring 2013 competitive season will be:
+!!! Nick Josten
+* ''Coach: 2013 BSC Premier U16 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 15+ years
+** BSC Premier Coach: 2003 - present
+** Idaho Falls HS boys varsity head coach: 2003 - 2009
+** Taylorview JHS boys coach: 1998 - 2002
+** BYSL Premier Coach: 1999 - 2002
+** BYSL U10/U12 development program coach: 1999 - 2002
+* Playing Experience: 15+ years adult amateur (ID)
+* Contact: gsense@cableone.net
+
+!!! David Hentzen
+* ''Coach: 2013 BSC Premier U14 Boys''
+* Licenses: USSF E
+* Coaching Experience: 15+ years
+** Taylorview / Clair E. Gale JHS boys coach: 2010 - present
+** AYSO volunteer coach 2004 - 2010
+** Concordia University, Nebraska women's head coach: 1997 - 1998
+** Concordia University, Nebraska men's assistant coach: 1994 - 1995
+* Playing experience: 15+ years including youth, high school (ID), college (Concordia University, Nebraska 1990 - 1993), adult amateur (ID)
+* Contact: dhentzen@gmail.com
+
+!!! TBD
+* ''Coach: 2013 BSC Premier U13 Boys''
+* ''Coach: 2013 BSC Premier U15 Boys''
+* ''Coach: 2013 BSC Premier U17 Boys''
+* ''Coach: 2013 BSC Premier U18 Boys''
+
+!!! Chuck Stuart
+* ''Goalkeeper Coach, Staff Coach''
+* Licenses: NSCAA Advanced National Diploma, USSF B
+* Coaching Experience: 15+ years, including
+** BSC Director of Coaching: 2003 - present
+** BSC Premier coach: 2003 - 2010
+** BYSL Premier coach: 1997 - 2002
+** Skyline HS boys varsity head coach: 1995 - 1999
+** Bonneville HS girls varsity head coach: 2000 - 2004
+** IYSA state coaching staff and ODP coach: 1998 - 2005
+** BYSL Director of Coaching: 1998 - 2003
+* Playing Experience: 30+ years including youth (BVSC Select, San Jose, CA), high school (San Jose, CA), and adult amateur (CA, CO, ID)
+* Contact: stuart@srv.net
+
+!!! Ron Stewart
+* ''Staff Coach''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 10+ years, including
+** BSC Premier Coach: 2005 - 2012
+** Taylorview JHS Coach: 2004 - 2010
+** BYSL youth coach: 2003 - 2004
+** AYSO youth coach: 1999 - 2003, 2011 - present
+* Playing Experience: 20+ years including college intramural (ID) and adult amateur (ID)
+* Contact: ron.stewart@gmail.com
+ BSC coaches (and their qualifications) for the Spring 2009 competitive season are:
+!!! Chuck Stuart
+* ''Coach: 2009 BSC Premier U18/19 Boys, 2009 BSC Premier U15 Boys''
+* Licenses: NSCAA Advanced National Diploma, USSF B
+* Coaching Experience: 15+ years
+** BSC Premier coach: 2003 - present
+** BYSL Premier coach: 1997 - 2002, including one Far West Regional appearance
+** Skyline HS boys varsity head coach: 1995 - 1999
+** Bonneville HS girls varsity head coach: 2000 - 2004, including Idaho HS District VI Coach of the Year (2002, 2003)
+** IYSA state coaching staff and ODP coach: 1998 - 2005
+** BYSL Director of Coaching: 1998 - 2003
+* Playing Experience: 30+ years including youth (BVSC Select, San Jose, CA), high school (San Jose, CA), and adult amateur (CA, CO, ID)
+* Contact: stuart@srv.net
+
+!!! Ron Stewart
+* ''Coach: 2009 BSC Premier U17 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 10+ years
+** BSC Premier Coach: 2005 - present
+** Taylorview JHS Coach: 2004 - present
+* Playing Experience: 20+ years including college intramural (ID) and adult amateur (ID)
+* Contact: ron.stewart@gmail.com
+
+!!! Randy Lee
+* ''Coach: 2009 BSC Premier U16 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 5+ years
+** BSC Premier coach: 2006 - present
+* Playing Experience: 15+ years adult amateur (ID)
+* Contact: randy.lostinidaho@gmail.com
+
+!!! Nick Josten
+* ''Coach: 2009 BSC Premier U14 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 15+ years
+** BSC Premier Coach: 2003 - present
+** Idaho Falls HS head coach: 2003 - present
+** Taylorview JHS coach: 1998 - 2002
+** BYSL Premier coach: 1999 - 2002
+** BYSL U10/U12 development program coach: 1999 - 2002
+* Playing Experience: 15+ years adult amateur (ID)
+* Contact: gsense@cableone.net
+
+!!! Gail Olsen
+* ''Coach: 2009 BSC Premier U13 Boys''
+* Licenses: USSF National D, IYSA Youth Module
+* Coaching Experience: 15+ years
+** BYSL Premier Coach: 1995 - 2000
+** Bonneville HS JV head coach and varsity assistant coach: 1999 - 2003
+** Eagle Rock JHS Coach: 2008 - present
+** Odyssey SC Coach: 2005 - 2008
+* Playing Experience: 25+ years adult amateur (Idaho)
+* Contact: olsongl@cableone.net
+ BSC coaches (and their qualifications) for the Spring 2010 competitive season will be:
+!!! Ron Stewart
+* ''Coach: 2010 BSC Premier U18/U19 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 10+ years, including
+** BSC Premier Coach: 2005 - present
+** Taylorview JHS Coach: 2004 - present
+* Playing Experience: 20+ years including college intramural (ID) and adult amateur (ID)
+* Contact: ron.stewart@gmail.com
+
+!!! Randy Lee
+* ''Coach: 2010 BSC Premier U17 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 5+ years, including
+** BSC Premier coach: 2006 - present
+* Playing Experience: 15+ years adult amateur (ID)
+* Contact: randy.lostinidaho@gmail.com
+
+!!! Chuck Stuart
+* ''Coach: 2010 BSC Premier U16 Boys''
+* Licenses: NSCAA Advanced National Diploma, USSF B
+* Coaching Experience: 15+ years, including
+** BSC Premier coach: 2003 - present
+** BYSL Premier coach: 1997 - 2002, including one Far West Regional appearance
+** Skyline HS boys varsity head coach: 1995 - 1999
+** Bonneville HS girls varsity head coach: 2000 - 2004, including Idaho HS District VI Coach of the Year (2002, 2003)
+** IYSA state coaching staff and ODP coach: 1998 - 2005
+** BYSL Director of Coaching: 1998 - 2003
+* Playing Experience: 30+ years including youth (BVSC Select, San Jose, CA), high school (San Jose, CA), and adult amateur (CA, CO, ID)
+* Contact: stuart@srv.net
+
+!!! Reese Jones
+* ''Coach: 2010 BSC Premier U15 Boys''
+* Licenses: USSF National D
+* Coaching Experience: 9 years, including
+** Sandcreek MS Coach: 2009
+** BYSL U12 Coach: 2007 - 2008
+** ~Tri-City Youth Soccer Association (WA) Coach: 2001 - 2006
+* Playing Experience: 10+ years, including youth, high school (ID), college club and intramural (ID), and adult amateur (ID)
+* Contact: reese_d_jones@hotmail.com
+
+!!! Nick Josten
+* ''Coach: 2010 BSC Premier U14 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 15+ years
+** BSC Premier Coach: 2003 - present
+** Idaho Falls HS head coach: 2003 - present
+** Taylorview JHS coach: 1998 - 2002
+** BYSL Premier coach: 1999 - 2002
+** BYSL U10/U12 development program coach: 1999 - 2002
+* Playing Experience: 15+ years adult amateur (ID)
+* Contact: gsense@cableone.net
+
+!!! Gail Olson
+* ''Coach: 2010 BSC Premier U13 Boys''
+* Licenses: USSF National D, IYSA Youth Module
+* Coaching Experience: 15+ years
+** BSC Premier Coach: 2009 - present
+** Odyssey SC Coach: 2005 - 2008
+** Eagle Rock JHS Coach: 2008 - present
+** Bonneville HS JV head coach and varsity assistant coach: 1999 - 2003
+** BYSL Premier Coach: 1995 - 2000
+* Playing Experience: 25+ years adult amateur (ID)
+* Contact: olsongl@cableone.net
+ BSC coaches (and their qualifications) for the Spring 2012 competitive season will be:
+!!! Ron Stewart
+* ''Coach: 2012 BSC Premier U18 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 10+ years, including
+** BSC Premier Coach: 2005 - present
+** Taylorview JHS Coach: 2004 - 2010
+* Playing Experience: 20+ years including college intramural (ID) and adult amateur (ID)
+* Contact: ron.stewart@gmail.com
+
+!!! Chris Borg
+* ''Coach: 2012 BSC Premier U17 Boys''
+* Coaching Experience: 3 years
+** BSC Assistant Coach: 2011
+** Taylorview JHS Coach: 2011
+** Logan HS Varsity Assistant Coach: 2008 - 2009
+* Playing Experience: 15+ years including youth, high school (UT) , college intramural (UT), and adult amateur (UT, ID)
+* Contact: christiantborg@gmail.com
+
+!!! Wes Stumbo
+* ''Coach: 2012 BSC Premier U16 Boys''
+* Coaching Experience: 8 years, including
+** BSC assistant Coach: 2011
+** Shelley JHS Coach: 2010-2011
+* Playing Experience: 5+ years including youth, high school (OR), and adult amateur (ID)
+* Contact: wesnfrank@q.com
+
+!!! Nick Josten
+* ''Coach: 2012 BSC Premier U15 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 15+ years
+** BSC Premier Coach: 2003 - present
+** Idaho Falls HS head coach: 2003 - 2009
+** Taylorview JHS Coach: 1998 - 2002
+** BYSL Premier Coach: 1999 - 2002
+** BYSL U10/U12 development program coach: 1999 - 2002
+* Playing Experience: 15+ years adult amateur (ID)
+* Contact: gsense@cableone.net
+
+!!! TBD
+* ''Coach: 2012 BSC Premier U14 Boys''
+
+!!! Reese Jones
+* ''Coach: 2012 BSC Premier U13 Boys''
+* Licenses: NSCAA National Diploma, USSF National D
+* Coaching Experience: 10+ years, including
+** BSC Premier coach: 2011 - present
+** Sandcreek MS Coach: 2009, 2010
+** BYSL U12 Coach: 2007 - 2008
+** ~Tri-City Youth Soccer Association (WA) Coach: 2001 - 2006
+* Playing Experience: 10+ years, including youth, high school (ID), college club and intramural (ID), and adult amateur (ID)
+* Contact: reesedjones@gmail.com
+ Questions about Ballistic Soccer Club can be directed to:
+* ''Mackay Hanks, Ballistic Soccer Club President''
+** E-mail: mackay@hankslawoffice.com
+** Telephone: (208) 390-6749
+* ''Chuck Stuart, Ballistic Soccer Club Director of Coaching''
+** E-mail: stuart@srv.net
+Questions can also be addressed to any of the club's [[coaches|Coaches]] or members of the [[Board of Directors]]. [[About Ballistic SC]] [[BSC Club News]] [[Tryouts]] [[Contacts]] [[About Ballistic SC]]
+[[Coaches]]
+[[Tryouts]]
+[[Honor Roll|Ballistic Soccer Club Honor Roll]]
+[[Alumni|Ballistic Soccer Club Alumni]]
+[[Directors|Board of Directors]]
+[[Contacts]] <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-749583-2");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+ <!--{{{-->
+<link rel='alternate' type='application/rss+xml' title='RSS' href='index.xml' />
+<meta name="description" content="Ballistic Soccer Club: Competitive soccer teams for U13-U19 boys in eastern Idaho" />
+<meta name="keywords" content="ballistic soccer club, idaho falls, idaho, soccer" />
+<!--}}}-->
+ <div id='header' class='header'>
+<div class='siteTitle'><div id='st1'>Ballistic</div><div id='st2'>SOCCER CLUB</div></div>
+<div id='topMenu' refresh='content' tiddler='MainMenu'></div>
+</div>
+
+<div id='sidebar'>
+<div id='sidebarOptions' refresh='content' tiddler='SideBarOptions'></div>
+<div id='sidebarTabs' refresh='content' force='true' tiddler='SideBarTabs'></div>
+</div>
+<div id='displayArea'>
+<div id='messageArea'></div>
+<div id='tiddlerDisplay'></div>
+</div>
+<!--}}}--> Ballistic SC's position with respect to players "playing up" (i.e., playing with an age group above which they would normally play based on their date of birth) is based on and consistent with the club's philosophy of providing players with the best possible opportunities to develop as soccer players and as young men. Ballistic SC feels strongly that most soccer players will develop best within their own age groups when provided with quality coaching and presented with challenging development opportunities in both training and match play. 
+ 
+Ballistic SC developed its play-up policy at the time that the club was formed. The play-up policy was a key element of the original club philosophy; it remains so today. The club's founders had observed the adverse effects of unrestrained play-ups in other soccer organizations, especially in organizations associated with smaller player pools like Idaho Falls. These effects included recruiting of players between teams within the same club, destruction of the player pool at some age groups, and diminishment of cooperation between coaches. The club also found no evidence that play-ups were producing either stronger teams or a significant difference in the development of top players; instead it seemed that strong players could continue to develop to very high levels of play within their age-appropriate group if they received good coaching. In fact, Ballistic SC has sent more players into [[college programs|Ballistic Soccer Club Alumni]] in the last 7 years than any other club in Idaho Falls. We continue to believe that our play-up policy serves the players’ and the club’s best interests.
+
+Ballistic SC recognizes, however, that there are situations where play-ups may be appropriate:
+* Non-select or "recreational" teams
+* Players technically in a lower age group but attending school at the grade level of the upper age group
+* Players with exceptional soccer skills who will be unable to develop within their age group-appropriate Ballistic SC select team
+Ballistic SC's policy on play-ups defines a process by which players wishing to play up can request that opportunity. The first two situations above are handled by the corresponding Ballistic SC coach and Ballistic SC Director of Coaching (DOC), respectively. For players with extraordinary soccer skills, this process involves a short written application, participation in tryouts for the two relevant teams, and evaluation by both of the BSC coaches at the relevant age groups and the Ballistic SC DOC. The coaches and the DOC will meet following that evaluation to render a decision with respect to the play-up request.
+ 
+Contact Chuck Stuart, Ballistic SC Director of Coaching (stuart@srv.net), for additional information. <<search>><<newTiddler>><<newJournal "DD MMM YYYY" "journal">><<saveChanges>> Ballistic Soccer Club http://www.ballisticsoccer.org/index.html /*{{{*/
+/*MonochromeBSC Theme for TiddlyWiki*/
+/*Design and CSS by Ron Stewart*/
+/*Based on original Monchrome by Saq Imtiaz*/
+/*Version 1.0*/
+/*}}}*/
+/*{{{*/
+
+body { background: #004400; color: #C3C3C3; font: 12px sans-serif; }
+
+#header { padding: 0; background: #004400; font-family: sans-serif; font-size:14px; border-bottom: 2px solid #d3c7ef; }
+.siteTitle { min-height: 95px; padding-top: 5px; padding-bottom: 5px; padding-left: 95px; font-family: sans-serif; font-weight: bold; font-size: 48px; line-height: 1em; color: #fff; margin-right: 2em; margin-left: 0.3em; background: transparent  url('imgs/bsclogo-c.gif') 0 5px no-repeat; }
+#st1 { letter-spacing: 3px; line-height: 1em; padding-left: 0; }
+#st2 { font-size: 18px; letter-spacing: 0.52em; line-height: 1.05em; padding-left: 3px; }
+.siteSubtitle { float: left; }
+
+#topMenu { padding-top: 0.5em; padding-bottom: 0.5em; border-top: 2px solid #d3c7ef; }
+
+#topMenu br { display: none; }
+#topMenu a, #topMenu .tiddlyLink, #topMenu .button {
+margin: 0em; 
+padding:  15px 15px 10px 15px;
+padding-top:  1.6em;
+border:  none;
+color: #c3c3c3;
+}
+#topMenu a:hover { text-decoration: underline; color: #c3c3c3; }
+
+#displayArea {
+margin-left: 1.35em; 
+margin-right: 17.65em; 
+margin-top: 0.5em; 
+padding-top: 1em; 
+padding-bottom: 10px;
+}
+
+.tiddler {
+color: #2e3436;
+background: #fff;
+margin-bottom: 20px; 
+padding: 1em 2em 1em 2em;
+}
+
+
+a, a:hover { color: #004400; text-decoration: none; background: transparent; }
+.viewer a.externalLink, .viewer a.externalLink:hover { font-style: italic; text-decoration: none; }
+
+.viewer a, .viewer a:hover { border-bottom: 1px dotted #fff; font-weight: normal; }
+
+.viewer .button, .editorFooter .button { color: #2e3436; border: 1px solid #888a85; padding: 2px 0.5em; margin-left: 3px; margin-right: 3px; }
+
+.viewer .button:hover,
+.editorFooter .button:hover, .viewer .button:active, .viewer .highlight,.editorFooter .button:active, .editorFooter .highlight{
+color: #fff;
+background-color: #004400;
+border-color: #888a85;
+padding: 2px 0.5em;
+margin-left: 3px; 
+margin-right: 3px;
+text-decoration: none;
+}
+
+.title { color: #2e3436; font-family: serif; font-size: 1.6em; }
+.shadow .title { color: #2e3436; font-style: italic; }
+.subtitle { color: #777; font-size: 0.90em; margin: 0.2em;}
+.subtitle a { color: #777; }
+
+
+/* The viewer's toolbar: */
+.toolbar { font-size: 85%; }
+.toolbar .button { border: 1px solid #fff; padding: 2px 0.5em; margin-left: 3px; }
+.selected .toolbar a { color: #2e3436; background: #d3d7cf; border: 1px solid #888a85; padding: 2px 0.5em; margin-left: 3px; text-decoration: none;	}
+.selected .toolbar a:hover { color: #fff; background-color: #004400; border: 1px solid #888a85; padding: 2px 0.5em; margin-left: 3px; }
+
+
+/* Stuff related to tags applied to tiddlers: */
+.tagging, .tagged { border: 1px solid #babdb6; background-color: #eeeeec; }
+.selected .tagging, .selected .tagged { background-color: #eeeeec; border: 1px solid #888a85; }
+.tagging .listTitle, .tagged .listTitle { color: #888a85; }
+.selected .tagging .listTitle, .selected .tagged .listTitle { color: #555753;}
+.tagging .button, .tagged .button { color: #888a85; }
+.selected .tagging .button, .selected .tagged .button { color: #555753; }
+.highlight, .marked {background: transparent; color: #111; border: none; text-decoration: underline;}
+.tagging .button:hover, .tagged .button:hover, .tagging .button:active, .tagged .button:active { border: none; background: transparent; text-decoration: underline; color: #333; }
+
+/* Sidebar: */
+#sidebarOptions { margin-top: 1em; }
+#sidebar { margin-right: 1.35em; }
+#sidebarTabs .tabContents { font-family: sans-serif; }
+#sidebarOptions a { border: 1px solid #004400; color: #d3d7cf; }
+#sidebarOptions a:hover, #sidebarOptions a:active { border: 1px solid #d3d7cf; background: #eeeeec; color: #004400; }
+#sidebarTabs .tabContents { background: #d3d7cf; border: 0px solid #888a85; border-right: 1px solid #555753; }
+#sidebarOptions input { border: 1px solid #2e3436; background: #d3d7cf; padding: 2px; }
+#sidebarTabs .tabContents .tiddlyLink, #sidebarTabs .tabContents .button { color: #555753; font-weight: normal; }
+#sidebarTabs .tabContents .tiddlyLink:hover, #sidebarTabs .tabContents .button:hover { color: #004400; background: transparent; }
+.listTitle { color: #2e3436; font-weight: bold; }
+#sidebarTabs .tabSelected, #sidebarTabs .tabSelected:hover { background: #d3d7cf; color: #2e3436; border: 1px solid #d3d7cf; padding-left: 3px; padding-right: 3px; font-weight: bold; }
+#sidebarTabs .tabUnselected { background: #d3d7cf; border: 1px solid #d3d7cf; color: #888a85; padding-left: 3px; padding-right: 3px; }
+#sidebarTabs .tabUnselected:hover { color: #004400; }
+#sidebarTabs .txtMoreTab .tabSelected, #sidebarTabs .txtMoreTab .tab:hover, #sidebarTabs .txtMoreTab .tabContents { color: #2e3436; background: #babdb6; border: 1px solid #babdb6; }
+#sidebarTabs .txtMoreTab .tabUnselected { color: #888a85; border: 1px solid #babdb6; background: #babdb6; }
+#sidebarTabs .txtMoreTab .tabUnselected:hover { color: #004400; }
+#sidebarTabs .tabContents .button:hover, #sidebarTabs .tabContents .highlight, #sidebarTabs .tabContents .marked, #sidebarTabs .tabContents a.button:active{color: #ccc; background: transparent;}
+#sidebarOptions .sliderPanel { color: #2e3436; background: #eeeeec; font-size: 0.9em; }
+#sidebarOptions .sliderPanel input { border: 1px solid #888a85; background: #d3d7cf; padding: 2px; }
+#sidebarOptions .sliderPanel .txtOptionInput {border: 1px solid #666;width: 9em;}
+#sidebarOptions .sliderPanel a { font-weight: normal; color: #004400; }
+#sidebarOptions .sliderPanel a:hover { color: #004400; background: transparent; text-decoration: underline; }
+
+/* Popups: */
+.popup { color: #5557f3; background: #d3d7cf; border: 1px solid #888a85; }
+.popup li.disabled { color: #888a85; }
+.popup li a, .popup li a:visited { color: #004400; border: none; }
+.popup li a:hover { background: #eeeeec; color: #004400; }
+.popup hr { color: #777; background: #777; border-bottom: 1px; }
+.listBreak div{ border-bottom: 1px solid #777; }
+
+/* Message area: */
+#messageArea { border: 4px solid #555753; background: #d3d7cf; color: #2e3436; font-size: 85%; }
+#messageArea .button { color: #2e3436; background: #babdb6; border: 1px solid #888a85; padding: 2px 0.5em; text-decoration: none; }
+#messageArea .button:hover { color: #fff; background: #004400; }
+
+/* Styling for content in the viewer: */
+.viewer blockquote { border: 1px solid #888a85; border-left: 3px solid #888a85; background: #d3d7cf; padding-top: 0.5em; padding-bottom: 0.5em; }
+.viewer table, .viewer td { border: 1px solid #888a85; }
+.viewer th, thead td { background: #babdb6; border: 1px solid #888a85; color: #2e3436; padding-left: 0.5em; padding-right: 0.5em; }
+.viewer pre { border: 1px solid #888a85; background: #d3d7cf; font-size: 90%; font-family: monospace; }
+.viewer a.tiddlyLink, .viewer a.externalLink { text-decoration: underline; }
+.viewer code { color: #c3c3c3; background: #5f5f5f; }
+.viewer hr { border-top: 1px solid #babdb6; }
+.viewer ol { padding-top: 0; padding-bottom: 0; margin-top: 0; padding-top: 0; }
+.viewer ol li { padding-bottom: 0.5em; }
+
+.editor input { border: 1px solid #babdb6; margin-top: 5px; font-size: 0.75em; font-family: monospace; }
+.editor textarea { border: 1px solid #babdb6; font-size: 0.75em; font-family: monospace; }
+
+h1,h2,h3,h4,h5 { color: #2e3436; background: transparent; padding-bottom: 2px; font-family: sans-serif; }
+h1 { font-size: 18px; border-bottom: 2px solid #babdb6; }
+h2 {font-size: 16px; border-bottom: 1px solid #babdb6; }
+h3 {font-size: 14px; border-bottom: 1px solid #babdb6; }
+
+.annotations { margin: 0; padding: 0; }
+.annotation { font-size: 80%; margin: 0.5em 0; padding: 0.5em; color: #555753; background: #fce94f; border: 2px solid #c4a000; }
+
+span.highlight { color: #2e3436 !important; background-color: #fce94f !important; }
+
+/* Rounded corner goodness: */
+.tiddler { border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+#sidebarTabs .tabContents { border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+#sidebarTabs .tabSelected, #sidebarTabs .tabSelected:hover, #sidebarTabs .tabUnselected { border-top-left-radius: 3px; border-top-right-radius: 3px; -moz-border-radius-topright: 3px; -moz-border-radius-topleft: 3px; -webkit-border-top-right-radius: 3px; -webkit-border-top-left-radius: 3px; }
+#sidebarOptions .sliderPanel { border-bottom-left-radius: 3px; border-bottom-right-radius: 3px; -moz-border-radius-bottomright: 3px; -moz-border-radius-bottomleft: 3px; -webkit-border-bottom-right-radius: 3px; -webkit-border-bottom-left-radius: 3px; }
+
+/* Shadow goodness: */
+.tiddler {
+  box-shadow: 2px 2px 3px 3px rgba(64, 64, 64, 0.8);
+  -moz-box-shadow:2px 2px 3px rgba(64, 64, 64, 0.8);
+  -webkit-box-shadow:2px 2px 3px rgba(64, 64, 64, 0.8);
+}
+
+/* Images in tiddlers: */
+div.photo-wrapper { overflow: auto; margin-bottom: 3em; }
+div.photo-wrapper h4, div.photo-wrapper p { margin-top: 0; padding-top: 0;}
+div.photo-holder { float: right; background-color: #f0f0f0; margin-left: 1em; border: 1px solid #d0d0d0; }
+/* RS: This does not work for some reason?
+div#ph3, div#ph1, div#ph2 {
+  box-shadow: 2px 2px 3px 3px rgba(64, 64, 64, 0.6);
+  -moz-box-shadow:2px 2px 3px rgba(64, 64, 64, 0.6);
+  -webkit-box-shadow:2px 2px 3px rgba(64, 64, 64, 0.6);
+}
+*/
+div.captioned-photo { padding: 7px; }
+div.captioned-photo img { margin-left: auto; margin-right: auto; margin-bottom: 0.5em; border: 1px solid #666;}
+div.caption { font-size: 0.75em; margin-bottom: 1em;}
+
+/* DIVs for individual photos: width is specified as image width + 18px to account for borders and padding */
+div#ph1 { width: 228px; }
+div#ph2 { width: 318px; }
+div#ph3 { width: 318px; }
+div#ph4 { width: 418px; }
+div#ph5 { width: 558px; } BSC teams typically compete in the following tournaments each season:
+* IYSA State Cup (all teams; Idaho)
+* Silver State Invitational (U15 and older; Las Vegas, NV)
+* Capitals Performance Cup (U14 and older; Boise, ID)
+* Les Bois Invitational (all teams; Boise, ID)
+* PVSC (all teams; Pocatello, ID)
+* Idaho Falls Shootout (all teams; Idaho Falls, ID)
+In addition, one or more BSC teams have competed in the following tournaments in recent seasons:
+* IYSA President's Cup (Idaho)
+* Canyon Rim Classic (Twin Falls, ID)
+* Park City Extreme Cup (Park City, UT)
+* Wasatch Classic (Salt Lake City, UT)
+* Stevensville Spring Classic (Stevensville, MT)
+ Tryouts for BSC teams are held as part of the BYSL tryout process during late October for teams that will play the following spring season. BYSL tryouts for the Spring 2013 season for all age groups will be held on the following dates:
+*U13 - U16 boys teams: Saturday, 10/27/2012, 11:30am - 1:30pm and 4:00 - 5:30pm (with registration starting at 10:30am)
+*U13 - U16 girls teams: Saturday, 10/27/2012, 9:00 - 11:00am and 2:00 - 3:30pm (with registration starting at 8:00am)
+*U17 - U18 boys teams: Friday, 10/26/2012, 6:00 - 8:00pm (with registration starting at 5:30pm)
+*U17 - U18 girls teams: Friday, 10/26/2012, 6:00 - 8:00pm (with registration starting at 5:30pm)
+Tryouts for the U13 - U16 boys and girls teams will be held at the Idaho Falls Soccer Complex on Old Butte Road. Players in those age/gender groups should plan on attending both sessions and should arrive early enough to register. At the completion of the tryout sessions, coach selections and player team preferences are used as the basis for forming teams.
+
+Tryouts for the U17 - U18 boys and girls teams will be held on the New Complex fields 1 and 2 on Friday evening.
+
+For more information on tryouts, please contact Chuck Stuart, Ballistic SC Director of Coaching (stuart@srv.net).
