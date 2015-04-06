@@ -8,6 +8,8 @@ import java.nio.file.Paths;
 
 import org.apache.commons.io.IOUtils;
 
+import com.hudl.crawl.html.Analyzer;
+
 /**
  * 
  * Downloads URLS in train-url.txt and creates files at output dir.
@@ -28,6 +30,7 @@ public class CreateTrainingRawHtml
 			try
 			{
 				String contents = IOUtils.toString(new URL(url));
+				contents = Analyzer.analyzeText(contents);
 				writeFile(url, contents);
 			}catch(Exception e)
 			{

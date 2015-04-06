@@ -13,11 +13,11 @@ import com.hudl.crawl.html.Analyzer;
 public class TestAnalzyeHtml 
 {
 	@Test
-	public void testAnalyze(Analyzer analyzer) throws Exception
+	public void testAnalyze() throws Exception
 	{
 		String testHtml = readTestFile();
 		
-		System.out.println(analyzer.analyzeText(testHtml));
+		System.out.println(Analyzer.analyzeText(testHtml));
 	}
 	
 	public static String readTestFile() throws Exception

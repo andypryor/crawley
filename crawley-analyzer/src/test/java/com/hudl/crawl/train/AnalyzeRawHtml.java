@@ -5,14 +5,9 @@ import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-import com.hudl.crawl.html.Analyzer;
-
-
 public class AnalyzeRawHtml 
 {
 	private static final String INPUT_FILE = "c:\\input\\urls.txt";
-	
-
 	
 	public static void main(String[] args) throws Exception
 	{
