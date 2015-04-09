@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+        <name>http.agent.name</name>
+        <value>Coachey</value>
+    </property>
+    <property>
+        <name>storage.data.store.class</name>
+        <value>org.apache.gora.cassandra.store.CassandraStore</value>
+    </property>
+
+    <property>
+		<name>http.robots.agents</name>
+		<value>Coachey,*</value>
+		<description>The agent strings we'll look for in robots.txt files,
+		comma-separated, in decreasing order of precedence. You should
+		put the value of http.agent.name as the first agent name, and keep the
+		default * at the end of the list. E.g.: BlurflDev,Blurfl,*
+  </description>
+	</property>
+</configuration>

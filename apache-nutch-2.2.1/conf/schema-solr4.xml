@@ -301,13 +301,7 @@
  </types>
 
  <fields>
-    <!-- This field is used internally by Solr, for example by features 
-    like partial update functionality and update log. It is NOT required
-    if updateLog is turned off in your updateHandler, however it is advised
-    to include it as performance improvements are minimal. -->
-    <field name="_version_" type="long" indexed="true" stored="true"/>
-    
-    <field name="id" type="string" stored="true" indexed="true" required="true"/>
+    <field name="id" type="string" stored="true" indexed="true"/>
 
     <!-- core fields -->
     <field name="batchId" type="string" stored="true" indexed="false"/>
@@ -316,10 +310,11 @@
 
     <!-- fields for index-basic plugin -->
     <field name="host" type="url" stored="false" indexed="true"/>
-    <field name="url" type="url" stored="true" indexed="true"/>
+    <field name="url" type="url" stored="true" indexed="true" required="true"/>
+    <field name="orig" type="url" stored="true" indexed="true" />
     <!-- stored=true for highlighting, use term vectors  and positions for fast highlighting -->
     <field name="content" type="text_general" stored="true" indexed="true"/>
-    <field name="title" type="text_general" stored="true" indexed="true" multiValued="true"/>
+    <field name="title" type="text_general" stored="true" indexed="true"/>
     <field name="cache" type="string" stored="true" indexed="false"/>
     <field name="tstamp" type="date" stored="true" indexed="false"/>
 
@@ -335,9 +330,6 @@
     <field name="contentLength" type="string" stored="true" indexed="false"/>
     <field name="lastModified" type="date" stored="true" indexed="false"/>
     <field name="date" type="tdate" stored="true" indexed="true"/>
-    
-    <!-- fields for index-metadata plugin -->  
-    <dynamicField name="meta_*" type="string" stored="true" indexed="true"/>
 
     <!-- fields for languageidentifier plugin -->
     <field name="lang" type="string" stored="true" indexed="true"/>

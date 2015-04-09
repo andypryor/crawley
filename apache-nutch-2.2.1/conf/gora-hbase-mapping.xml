@@ -15,27 +15,17 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-
-<!-- A comprehensive account of the entire gora-accumulo mapping 
-     options can be found on the Gora website at:
-     http://gora.apache.org/current/gora-accumulo.html
-     Users are strongly advised to consult this documentation
-     prior to working with the default mapping configuration
-     provided below. 
--->
-
 <gora-orm>
     
     <table name="webpage">
-        <family name="p" />
-        <family name="f" />
-        <family name="s" />
-        <family name="il" />
-        <family name="ol" />
-        <family name="h" />
-        <family name="mtdt" />
-        <family name="mk" />
-        <config key="table.file.compress.blocksize" value="32K"/>
+        <family name="p" maxVersions="1"/> <!-- This can also have params like compression, bloom filters -->
+        <family name="f" maxVersions="1"/>
+        <family name="s" maxVersions="1"/>
+        <family name="il" maxVersions="1"/>
+        <family name="ol" maxVersions="1"/>
+        <family name="h" maxVersions="1"/>
+        <family name="mtdt" maxVersions="1"/>
+        <family name="mk" maxVersions="1"/>
     </table>
     <class table="webpage" keyClass="java.lang.String" name="org.apache.nutch.storage.WebPage">
         
@@ -53,7 +43,7 @@
         <field name="modifiedTime" family="f" qualifier="mod"/>
         <field name="prevModifiedTime" family="f" qualifier="pmod"/>
         <field name="batchId" family="f" qualifier="bid"/>
-        
+
         <!-- parse fields                                       -->
         <field name="title" family="p" qualifier="t"/>
         <field name="text" family="p" qualifier="c"/>
@@ -71,15 +61,15 @@
     </class>
     
     <table name="host">
-        <family name="mtdt" />
-        <family name="il" />
-        <family name="ol" />
+      <family name="mtdt" maxVersions="1"/>
+      <family name="il" maxVersions="1"/>
+      <family name="ol" maxVersions="1"/>
     </table>
     
     <class table="host" keyClass="java.lang.String" name="org.apache.nutch.storage.Host">
-        <field name="metadata" family="mtdt"/>
-        <field name="inlinks" family="il"/>
-        <field name="outlinks" family="ol"/>
+      <field name="metadata" family="mtdt"/>
+      <field name="inlinks" family="il"/>
+      <field name="outlinks" family="ol"/>
     </class>
     
 </gora-orm>

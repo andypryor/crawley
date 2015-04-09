@@ -15,40 +15,18 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-
-<!--
-In addition to family 'name' and 'maxVersions' attributes, 
-individual table families can ve defined with several other
-attributes such as
-  compression="$$$" - the compression option to use in HBase.
-  blockCache="$$$"  - an LRU cache that contains three levels of block priority 
-                      to allow for scan-resistance and in-memory ColumnFamilies.
-  blockSize="$$$"   - The blocksize can be configured for each ColumnFamily in 
-                      a table, and this defaults to 64k.
-  bloomFilter="$$$" - Bloom Filters can be enabled per-ColumnFamily.
-  maxVersions="$$$" - The maximum number of row versions to store is configured 
-                      per column family via HColumnDescriptor.
-  timeToLive="$$$"  - ColumnFamilies can set a TTL length in seconds, and HBase 
-                      will automatically delete rows once the expiration time is 
-                      reached.
-  inMemory="$$$"    - ColumnFamilies can optionally be defined as in-memory.
-
-You should consult the current Gora gora-hbase documentation
-for further information on properties and mapping configurtion.
-http://gora.apache.org/current/gora-hbase.html
--->
-
 <gora-orm>
     
     <table name="webpage">
-        <family name="p" maxVersions="1"/>
-        <family name="f" maxVersions="1"/>
-        <family name="s" maxVersions="1"/>
-        <family name="il" maxVersions="1"/>
-        <family name="ol" maxVersions="1"/>
-        <family name="h" maxVersions="1"/>
-        <family name="mtdt" maxVersions="1"/>
-        <family name="mk" maxVersions="1"/>
+        <family name="p" /> <!-- This can also have params like compression, bloom filters -->
+        <family name="f" />
+        <family name="s" />
+        <family name="il" />
+        <family name="ol" />
+        <family name="h" />
+        <family name="mtdt" />
+        <family name="mk" />
+        <config key="table.file.compress.blocksize" value="32K"/>
     </table>
     <class table="webpage" keyClass="java.lang.String" name="org.apache.nutch.storage.WebPage">
         
@@ -66,7 +44,7 @@ http://gora.apache.org/current/gora-hbase.html
         <field name="modifiedTime" family="f" qualifier="mod"/>
         <field name="prevModifiedTime" family="f" qualifier="pmod"/>
         <field name="batchId" family="f" qualifier="bid"/>
-
+        
         <!-- parse fields                                       -->
         <field name="title" family="p" qualifier="t"/>
         <field name="text" family="p" qualifier="c"/>
@@ -84,15 +62,15 @@ http://gora.apache.org/current/gora-hbase.html
     </class>
     
     <table name="host">
-      <family name="mtdt" maxVersions="1"/>
-      <family name="il" maxVersions="1"/>
-      <family name="ol" maxVersions="1"/>
+        <family name="mtdt" />
+        <family name="il" />
+        <family name="ol" />
     </table>
     
     <class table="host" keyClass="java.lang.String" name="org.apache.nutch.storage.Host">
-      <field name="metadata" family="mtdt"/>
-      <field name="inlinks" family="il"/>
-      <field name="outlinks" family="ol"/>
+        <field name="metadata" family="mtdt"/>
+        <field name="inlinks" family="il"/>
+        <field name="outlinks" family="ol"/>
     </class>
     
 </gora-orm>

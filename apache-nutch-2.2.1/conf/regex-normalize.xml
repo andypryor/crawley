@@ -63,15 +63,7 @@
   <substitution></substitution>
 </regex>
 
-<!-- normalize file:/// protocol prefix: -->
-<!--  keep one single slash (NUTCH-1483) -->
-<regex>
-  <pattern>^file://+</pattern>
-  <substitution>file:/</substitution>
-</regex>
-
-<!-- removes duplicate slashes but -->
-<!-- * allow 2 slashes after colon ':' (indicating protocol) -->
+<!-- removes duplicate slashes -->
 <regex>
   <pattern>(?&lt;!:)/{2,}</pattern>
   <substitution>/</substitution>
