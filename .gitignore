@@ -1,4 +1,13 @@
-nutch/build/*
-nutch/docs/*
-nutch/runtime/*
-nutch/src/*
+apache-nutch-2.2.1/build/*
+apache-nutch-2.2.1/docs/*
+apache-nutch-2.2.1/runtime/*
+apache-nutch-2.2.1/src/*
+apache-nutch-2.2.1/CHANGES.txt
+apache-nutch-2.2.1/LICENSE.txt
+apache-nutch-2.2.1/NOTICE.txt
+apache-nutch-2.2.1/README.txt
+apache-nutch-2.2.1/default.properties
+apache-nutch-2.2.1/lib/*
+crawley-analyzer/.project
+crawley-analyzer/.classpath
+crawley-analyzer/target
